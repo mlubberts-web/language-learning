@@ -1,0 +1,743 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "De pretérito imperfecto",
+  "subtitle": "Gewoontes, beschrijvingen en situaties in het verleden: alle uitgangen, de drie onregelmatige werkwoorden en de tijdwoorden",
+  "footer": "Language Learning · A2 · Werkwoorden · Pretérito imperfecto",
+  "next": "Volgende: A2 · pdf 4 — Pretérito indefinido of imperfecto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "beschrijven hoe dingen vroeger waren en wat je vroeger deed",
+    "elk regelmatig werkwoord vervoegen in de pretérito imperfecto, plus de enige drie onregelmatige: ser, ir en ver",
+    "mensen, plaatsen, het weer, leeftijd en tijd in het verleden beschrijven",
+    "de tijdwoorden herkennen die naar de pretérito imperfecto wijzen"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Wat de pretérito imperfecto doet"
+  },
+  {
+   "type": "p",
+   "text": "De pretérito imperfecto (onvoltooid verleden tijd) beschrijft het verleden als een <b>situatie die aan de gang is</b>: hoe dingen waren, wat er vroeger gebeurde, wat er bezig was. Hij zegt niet wanneer iets begon of ophield. Zie het als een filmshot dat doorloopt."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.4,
+    5.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Gewoontes in het verleden",
+     "De niño jugaba al fútbol cada día.",
+     "Als kind voetbalde ik elke dag."
+    ],
+    [
+     "Beschrijving",
+     "La casa era grande y tenía un jardín.",
+     "Het huis was groot en had een tuin."
+    ],
+    [
+     "Leeftijd",
+     "Tenía diez años.",
+     "Ik was tien jaar."
+    ],
+    [
+     "Tijd",
+     "Eran las tres de la tarde.",
+     "Het was drie uur 's middags."
+    ],
+    [
+     "Weer",
+     "Hacía frío y llovía.",
+     "Het was koud en het regende."
+    ],
+    [
+     "Gevoelens en toestanden",
+     "Estaba cansado y quería dormir.",
+     "Ik was moe en wilde slapen."
+    ],
+    [
+     "Handeling die bezig was",
+     "Veía la tele cuando llegó mi hermano.",
+     "Ik zat tv te kijken toen mijn broer aankwam."
+    ],
+    [
+     "Beleefd verzoek",
+     "Quería pedir una información.",
+     "Ik wilde graag wat informatie vragen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse ik werkte dekt allebei",
+   "bullets": [
+    "Het Nederlandse <i>ik werkte</i> kan een herhaald verleden betekenen (<i>vroeger werkte ik elke dag</i>) of één keer in het verleden. Het Spaans splitst dat: <b>trabajaba</b> voor de gewoonte, <b>trabajé</b> voor de ene afgeronde gebeurtenis (pdf 4).",
+    "Test: past er <i>vroeger</i>, <i>altijd</i>, <i>was aan het</i> of <i>placht te</i> bij, dan gebruik je de pretérito imperfecto."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tijdwoorden die de pretérito imperfecto aankondigen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.0,
+    8.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "siempre",
+     "altijd",
+     "Siempre comíamos en casa."
+    ],
+    [
+     "todos los días / cada día",
+     "elke dag",
+     "Todos los días caminaba al trabajo."
+    ],
+    [
+     "a menudo / a veces",
+     "vaak / soms",
+     "A veces veía a mis primos."
+    ],
+    [
+     "normalmente / generalmente",
+     "meestal, gewoonlijk",
+     "Normalmente me levantaba a las siete."
+    ],
+    [
+     "de niño / de joven",
+     "als kind / toen ik jong was",
+     "De joven vivía en Bilbao."
+    ],
+    [
+     "antes",
+     "vroeger",
+     "Antes fumaba mucho."
+    ],
+    [
+     "en aquella época",
+     "in die tijd",
+     "En aquella época no había móviles."
+    ],
+    [
+     "mientras",
+     "terwijl",
+     "Mientras cocinaba, escuchaba música."
+    ],
+    [
+     "los domingos",
+     "op zondag (elke zondag)",
+     "Los domingos íbamos al campo."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>soler + infinitief</b> betekent 'gewoonlijk doen': <i>Suelo desayunar a las ocho. Solía desayunar a las ocho</i> (vroeger ontbeet ik meestal om acht uur)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. De uitgangen"
+  },
+  {
+   "type": "table",
+   "style": "endings",
+   "widths": [
+    5.0,
+    4.0,
+    4.0,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "-ar  (hablar)",
+    "-er  (comer)",
+    "-ir  (vivir)"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-aba",
+     "-ía",
+     "-ía"
+    ],
+    [
+     "tú",
+     "-abas",
+     "-ías",
+     "-ías"
+    ],
+    [
+     "él / ella / usted",
+     "-aba",
+     "-ía",
+     "-ía"
+    ],
+    [
+     "nosotros / nosotras",
+     "-ábamos",
+     "-íamos",
+     "-íamos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-abais",
+     "-íais",
+     "-íais"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-aban",
+     "-ían",
+     "-ían"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Wat je moet onthouden",
+   "bullets": [
+    "Werkwoorden op <b>-er</b> en <b>-ir</b> hebben dezelfde uitgangen, allemaal met <b>í</b>.",
+    "<b>yo</b> en <b>él/ella/usted</b> hebben dezelfde vorm: <i>hablaba</i>, <i>comía</i>. Gebruik een voornaamwoord of de context als het niet duidelijk is.",
+    "Het enige accent bij een werkwoord op -ar staat bij <b>nosotros</b>: hablábamos."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Volledige vervoegingen"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "hablar",
+   "meaning": "spreken, praten",
+   "group": "-ar",
+   "stem": "habl",
+   "endings": [
+    "aba",
+    "abas",
+    "aba",
+    "ábamos",
+    "abais",
+    "aban"
+   ],
+   "examples": [
+    [
+     "Hablaba con mi abuela todos los días.",
+     "Vroeger praatte ik elke dag met mijn oma."
+    ],
+    [
+     "¿Hablabas inglés de niño?",
+     "Sprak jij als kind Engels?"
+    ],
+    [
+     "Ella hablaba muy rápido.",
+     "Zij praatte altijd heel snel."
+    ],
+    [
+     "Hablábamos por teléfono cada noche.",
+     "Vroeger belden we elke avond."
+    ],
+    [
+     "¿Hablabais mucho en clase?",
+     "Praatten jullie veel in de les?"
+    ],
+    [
+     "Mis padres hablaban alemán en casa.",
+     "Mijn ouders spraken thuis Duits."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "comer",
+   "meaning": "eten",
+   "group": "-er",
+   "stem": "com",
+   "endings": [
+    "ía",
+    "ías",
+    "ía",
+    "íamos",
+    "íais",
+    "ían"
+   ],
+   "examples": [
+    [
+     "Comía en casa de mis abuelos.",
+     "Vroeger at ik bij mijn opa en oma."
+    ],
+    [
+     "¿Comías mucha fruta?",
+     "At jij veel fruit?"
+    ],
+    [
+     "Mi padre comía muy tarde.",
+     "Mijn vader at altijd heel laat."
+    ],
+    [
+     "Comíamos juntos los domingos.",
+     "Op zondag aten we altijd samen."
+    ],
+    [
+     "¿Comíais en el patio?",
+     "Aten jullie op het schoolplein?"
+    ],
+    [
+     "Mis primos comían siempre pasta.",
+     "Mijn neven en nichten aten altijd pasta."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "group": "-ir",
+   "stem": "viv",
+   "endings": [
+    "ía",
+    "ías",
+    "ía",
+    "íamos",
+    "íais",
+    "ían"
+   ],
+   "examples": [
+    [
+     "Vivía cerca del mar.",
+     "Ik woonde vlak bij de zee."
+    ],
+    [
+     "¿Vivías en un pueblo?",
+     "Woonde jij in een dorp?"
+    ],
+    [
+     "Mi tía vivía en Sevilla.",
+     "Mijn tante woonde in Sevilla."
+    ],
+    [
+     "Vivíamos en un piso pequeño.",
+     "We woonden in een klein appartement."
+    ],
+    [
+     "¿Vivíais en el centro?",
+     "Woonden jullie in het centrum?"
+    ],
+    [
+     "Mis abuelos vivían con nosotros.",
+     "Mijn opa en oma woonden bij ons."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De enige drie onregelmatige werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "<b>Ser</b>, <b>ir</b> en <b>ver</b> zijn de enige onregelmatige werkwoorden in de pretérito imperfecto. Alle andere werkwoorden zijn hier regelmatig, ook de stamveranderaars en de werkwoorden die in de presente of pretérito indefinido onregelmatig zijn."
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "ser",
+   "meaning": "zijn",
+   "label": "onregelmatig werkwoord",
+   "forms": [
+    "*era*",
+    "*eras*",
+    "*era*",
+    "*éramos*",
+    "*erais*",
+    "*eran*"
+   ],
+   "examples": [
+    [
+     "Era muy tímido de niño.",
+     "Als kind was ik heel verlegen."
+    ],
+    [
+     "¿Eras feliz en el colegio?",
+     "Was jij gelukkig op school?"
+    ],
+    [
+     "La casa era muy grande.",
+     "Het huis was heel groot."
+    ],
+    [
+     "Éramos buenos amigos.",
+     "We waren goede vrienden."
+    ],
+    [
+     "¿Erais vecinos?",
+     "Waren jullie buren?"
+    ],
+    [
+     "Los veranos eran largos.",
+     "De zomers waren lang."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "ir",
+   "meaning": "gaan",
+   "label": "onregelmatig werkwoord",
+   "forms": [
+    "*iba*",
+    "*ibas*",
+    "*iba*",
+    "*íbamos*",
+    "*ibais*",
+    "*iban*"
+   ],
+   "examples": [
+    [
+     "Iba al colegio en autobús.",
+     "Vroeger ging ik met de bus naar school."
+    ],
+    [
+     "¿Ibas a la playa en verano?",
+     "Ging jij 's zomers naar het strand?"
+    ],
+    [
+     "Mi madre iba al mercado cada sábado.",
+     "Mijn moeder ging elke zaterdag naar de markt."
+    ],
+    [
+     "Íbamos a casa de mis abuelos.",
+     "Vroeger gingen we naar mijn opa en oma."
+    ],
+    [
+     "¿Ibais en bici?",
+     "Gingen jullie op de fiets?"
+    ],
+    [
+     "Mis amigos iban al gimnasio.",
+     "Mijn vrienden gingen altijd naar de sportschool."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito imperfecto",
+   "verb": "ver",
+   "meaning": "zien, kijken",
+   "label": "onregelmatig werkwoord",
+   "forms": [
+    "*veía*",
+    "*veías*",
+    "*veía*",
+    "*veíamos*",
+    "*veíais*",
+    "*veían*"
+   ],
+   "examples": [
+    [
+     "Veía la tele después de cenar.",
+     "Na het eten keek ik altijd tv."
+    ],
+    [
+     "¿Veías dibujos animados?",
+     "Keek jij tekenfilms?"
+    ],
+    [
+     "Mi abuelo veía el fútbol.",
+     "Mijn opa keek altijd voetbal."
+    ],
+    [
+     "Veíamos películas los viernes.",
+     "Op vrijdag keken we films."
+    ],
+    [
+     "¿Veíais a vuestros primos?",
+     "Zagen jullie je neven en nichten?"
+    ],
+    [
+     "Los niños veían series.",
+     "De kinderen keken series."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Geen stamveranderingen, geen spellingsveranderingen",
+   "text": "Werkwoorden die in de presente of pretérito indefinido veranderen, zijn regelmatig in de pretérito imperfecto: <b>pensaba</b> (niet <i>piensaba</i>), <b>volvía</b>, <b>jugaba</b>, <b>tenía</b>, <b>hacía</b>."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito imperfecto",
+   "verbs": [
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "tenía",
+      "tenías",
+      "tenía",
+      "teníamos",
+      "teníais",
+      "tenían"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "hacía",
+      "hacías",
+      "hacía",
+      "hacíamos",
+      "hacíais",
+      "hacían"
+     ]
+    },
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "podía",
+      "podías",
+      "podía",
+      "podíamos",
+      "podíais",
+      "podían"
+     ]
+    },
+    {
+     "inf": "querer",
+     "meaning": "willen",
+     "forms": [
+      "quería",
+      "querías",
+      "quería",
+      "queríamos",
+      "queríais",
+      "querían"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Wederkerende werkwoorden</b> houden hun voornaamwoord: <i>Me levantaba a las siete. Nos acostábamos tarde.</i>",
+    "<b>hay</b> wordt <b>había</b> (één vorm voor enkelvoud en meervoud): <i>Había un parque. Había muchos coches.</i>",
+    "<b>Uren:</b> <i>Era la una. Eran las tres.</i> <b>Leeftijd:</b> <i>Tenía quince años.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Cuando era niño, jugué al fútbol cada día.",
+     "Cuando era niño, jugaba al fútbol cada día.",
+     "Een herhaalde gewoonte in het verleden krijgt de pretérito imperfecto."
+    ],
+    [
+     "Siempre fui a la playa en verano.",
+     "Siempre iba a la playa en verano.",
+     "siempre + een herhaalde handeling in het verleden: pretérito imperfecto."
+    ],
+    [
+     "Nosotros hablabamos mucho.",
+     "Nosotros hablábamos mucho.",
+     "De nosotros-vorm van werkwoorden op -ar heeft een accent: hablábamos."
+    ],
+    [
+     "Yo ía al colegio.",
+     "Yo iba al colegio.",
+     "Ir heeft uitgangen op -ba in de pretérito imperfecto: iba, ibas, iba."
+    ],
+    [
+     "Yo vía la tele.",
+     "Yo veía la tele.",
+     "Ver houdt zijn e: veía, veías, veía."
+    ],
+    [
+     "Yo piensaba en ti.",
+     "Yo pensaba en ti.",
+     "De pretérito imperfecto heeft geen stamverandering."
+    ],
+    [
+     "Era las tres.",
+     "Eran las tres.",
+     "Meervoud voor elk uur behalve één uur: Era la una, Eran las dos."
+    ],
+    [
+     "Yo era diez años.",
+     "Yo tenía diez años.",
+     "Leeftijd gaat met tener, niet met ser."
+    ],
+    [
+     "Él comíba mucho.",
+     "Él comía mucho.",
+     "Werkwoorden op -er en -ir krijgen -ía, nooit -iba."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de pretérito imperfecto in van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "De niño, yo ______ al fútbol cada tarde.",
+     "hint": "jugar (yo)",
+     "a": "jugaba",
+     "full": "De niño, yo jugaba al fútbol cada tarde."
+    },
+    {
+     "q": "Mi abuela ______ en un pueblo pequeño.",
+     "hint": "vivir (ella)",
+     "a": "vivía",
+     "full": "Mi abuela vivía en un pueblo pequeño."
+    },
+    {
+     "q": "Nosotros ______ al colegio andando.",
+     "hint": "ir (nosotros)",
+     "a": "íbamos",
+     "full": "Nosotros íbamos al colegio andando."
+    },
+    {
+     "q": "Cuando yo ______ joven, trabajaba mucho.",
+     "hint": "ser (yo)",
+     "a": "era",
+     "full": "Cuando yo era joven, trabajaba mucho."
+    },
+    {
+     "q": "______ las cinco de la tarde.",
+     "hint": "ser",
+     "a": "Eran",
+     "full": "Eran las cinco de la tarde."
+    },
+    {
+     "q": "Tú siempre ______ la tele por la noche.",
+     "hint": "ver (tú)",
+     "a": "veías",
+     "full": "Tú siempre veías la tele por la noche."
+    },
+    {
+     "q": "Ellos ______ mucho en aquella época.",
+     "hint": "viajar (ellos)",
+     "a": "viajaban",
+     "full": "Ellos viajaban mucho en aquella época."
+    },
+    {
+     "q": "¿Vosotros ______ juntos en Valencia?",
+     "hint": "vivir (vosotros)",
+     "a": "vivíais",
+     "full": "¿Vosotros vivíais juntos en Valencia?"
+    },
+    {
+     "q": "Yo ______ diez años entonces.",
+     "hint": "tener (yo)",
+     "a": "tenía",
+     "full": "Yo tenía diez años entonces."
+    },
+    {
+     "q": "Cuando llegué, mi madre ______ la cena.",
+     "hint": "preparar (ella)",
+     "a": "preparaba",
+     "full": "Cuando llegué, mi madre preparaba la cena."
+    },
+    {
+     "q": "Mis primos ______ a la playa todos los veranos.",
+     "hint": "ir (ellos)",
+     "a": "iban",
+     "full": "Mis primos iban a la playa todos los veranos."
+    },
+    {
+     "q": "Antes ______ mucho café.",
+     "hint": "beber (yo)",
+     "a": "bebía",
+     "full": "Antes bebía mucho café."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Als kind speelde ik op straat.",
+     "a": "De niño jugaba en la calle."
+    },
+    {
+     "q": "Het regende en ik was moe.",
+     "a": "Llovía y estaba cansado."
+    },
+    {
+     "q": "We aten altijd thuis.",
+     "a": "Siempre comíamos en casa."
+    },
+    {
+     "q": "Zij was twintig jaar.",
+     "a": "Tenía veinte años."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

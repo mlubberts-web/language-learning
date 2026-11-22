@@ -1,0 +1,729 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "Pretérito indefinido: onregelmatige werkwoorden",
+  "subtitle": "Onregelmatige stammen (u, i, j), ser en ir, en werkwoorden die in de pretérito indefinido van betekenis veranderen",
+  "footer": "Language Learning · A2 · Werkwoorden · Pretérito indefinido (onregelmatig)",
+  "next": "Volgende: A2 · pdf 3 — De pretérito imperfecto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de meest gebruikte onregelmatige werkwoorden in de pretérito indefinido vervoegen (ser, ir, hacer, tener, estar, decir en meer)",
+    "de drie families onregelmatige stammen herkennen (u, i en j) en hun eigen uitgangen",
+    "de vormen zonder accent schrijven, zoals onregelmatige vormen dat vragen",
+    "weten wanneer een werkwoord in de pretérito indefinido van betekenis verandert (saber, conocer, querer, poder)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Hoe de onregelmatige vormen werken"
+  },
+  {
+   "type": "p",
+   "text": "Onregelmatige werkwoorden veranderen in de pretérito indefinido hun <b>stam</b> en hebben een eigen rijtje uitgangen. Die uitgangen hebben <b>geen geschreven accent</b>, en de vormen van yo en él eindigen op <b>-e</b> en <b>-o</b>, niet op <i>-é</i> en <i>-ó</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    3.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "Persoon",
+    "Uitgang",
+    "Voorbeeld: tener",
+    "Voorbeeld: decir"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-e",
+     "tuve",
+     "dije"
+    ],
+    [
+     "tú",
+     "-iste",
+     "tuviste",
+     "dijiste"
+    ],
+    [
+     "él / ella / usted",
+     "-o",
+     "tuvo",
+     "dijo"
+    ],
+    [
+     "nosotros / nosotras",
+     "-imos",
+     "tuvimos",
+     "dijimos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-isteis",
+     "tuvisteis",
+     "dijisteis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-ieron",
+     "tuvieron",
+     "dijeron (-eron na j)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Dezelfde uitgangen voor elke familie hieronder",
+   "text": "Leer dit ene rijtje uitgangen één keer. Daarna hoef je per werkwoord alleen de <b>stam</b> te onthouden. Vergelijk met de regelmatige vormen (pdf 1): daar eindigt yo op <b>-é</b> / <b>-í</b> en él op <b>-ó</b> / <b>-ió</b>, met accenten."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.8,
+    8.4,
+    5.8
+   ],
+   "head": [
+    "Familie",
+    "Werkwoorden en stammen",
+    "Uitgangen"
+   ],
+   "rows": [
+    [
+     "u-stam",
+     "estar estuv- · tener tuv- · poder pud- · poner pus- · saber sup- · andar anduv- · caber cup-",
+     "-e -iste -o -imos -isteis -ieron"
+    ],
+    [
+     "i-stam",
+     "hacer hic- · querer quis- · venir vin-",
+     "-e -iste -o -imos -isteis -ieron"
+    ],
+    [
+     "j-stam",
+     "decir dij- · traer traj- · conducir conduj- · traducir traduj- · producir produj-",
+     "-e -iste -o -imos -isteis -eron"
+    ],
+    [
+     "Bijzonder",
+     "ser / ir fu- · dar d- · ver v-",
+     "zie deel 2"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Ser en ir: precies dezelfde vormen"
+  },
+  {
+   "type": "p",
+   "text": "<b>Ser</b> (zijn) en <b>ir</b> (gaan) hebben in de pretérito indefinido precies dezelfde vormen. De context vertelt welk werkwoord het is: na <b>ir</b> volgt <b>a</b> + een plaats, na <b>ser</b> een zelfstandig of bijvoeglijk naamwoord."
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito indefinido",
+   "verb": "ser",
+   "meaning": "zijn",
+   "label": "onregelmatig werkwoord · dezelfde vormen als ir",
+   "forms": [
+    "*fu*i",
+    "*fu*iste",
+    "*fu*e",
+    "*fu*imos",
+    "*fu*isteis",
+    "*fu*eron"
+   ],
+   "examples": [
+    [
+     "Fui camarero durante un verano.",
+     "Ik ben één zomer ober geweest."
+    ],
+    [
+     "¿Fuiste buen estudiante?",
+     "Was jij een goede leerling?"
+    ],
+    [
+     "El concierto fue un éxito.",
+     "Het concert was een succes."
+    ],
+    [
+     "Fuimos compañeros de piso.",
+     "We waren huisgenoten."
+    ],
+    [
+     "¿Fuisteis amigos de niños?",
+     "Waren jullie als kind vrienden?"
+    ],
+    [
+     "Los exámenes fueron difíciles.",
+     "De examens waren moeilijk."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito indefinido",
+   "verb": "ir",
+   "meaning": "gaan",
+   "label": "onregelmatig werkwoord · dezelfde vormen als ser",
+   "forms": [
+    "*fu*i",
+    "*fu*iste",
+    "*fu*e",
+    "*fu*imos",
+    "*fu*isteis",
+    "*fu*eron"
+   ],
+   "examples": [
+    [
+     "Fui a Barcelona en tren.",
+     "Ik ben met de trein naar Barcelona gegaan."
+    ],
+    [
+     "¿Fuiste al gimnasio ayer?",
+     "Ben jij gisteren naar de sportschool geweest?"
+    ],
+    [
+     "Ella fue a la farmacia.",
+     "Zij ging naar de apotheek."
+    ],
+    [
+     "Fuimos al cine el sábado.",
+     "We zijn zaterdag naar de bioscoop gegaan."
+    ],
+    [
+     "¿Fuisteis a la playa?",
+     "Zijn jullie naar het strand gegaan?"
+    ],
+    [
+     "Mis amigos fueron a Italia.",
+     "Mijn vrienden zijn naar Italië gegaan."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Geen accent op vormen van één lettergreep",
+   "text": "<b>fui, fue, vi, vio, di, dio</b> hebben één lettergreep, dus ze krijgen nooit een geschreven accent. <i>fuí</i>, <i>fué</i> of <i>vió</i> schrijven is een heel gewone spelfout (oudere teksten doen het nog wel)."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "title": "Dar en ver (regelmatige uitgangen, maar zonder accenten)",
+   "verbs": [
+    {
+     "inf": "dar",
+     "meaning": "geven",
+     "forms": [
+      "*di*",
+      "diste",
+      "*dio*",
+      "dimos",
+      "disteis",
+      "dieron"
+     ]
+    },
+    {
+     "inf": "ver",
+     "meaning": "zien",
+     "forms": [
+      "*vi*",
+      "viste",
+      "*vio*",
+      "vimos",
+      "visteis",
+      "vieron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden met een u-stam"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "estar",
+     "meaning": "zijn (plaats, toestand)",
+     "forms": [
+      "*estuv*e",
+      "*estuv*iste",
+      "*estuv*o",
+      "*estuv*imos",
+      "*estuv*isteis",
+      "*estuv*ieron"
+     ]
+    },
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "*tuv*e",
+      "*tuv*iste",
+      "*tuv*o",
+      "*tuv*imos",
+      "*tuv*isteis",
+      "*tuv*ieron"
+     ]
+    },
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "*pud*e",
+      "*pud*iste",
+      "*pud*o",
+      "*pud*imos",
+      "*pud*isteis",
+      "*pud*ieron"
+     ]
+    },
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "*pus*e",
+      "*pus*iste",
+      "*pus*o",
+      "*pus*imos",
+      "*pus*isteis",
+      "*pus*ieron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "saber",
+     "meaning": "weten",
+     "forms": [
+      "*sup*e",
+      "*sup*iste",
+      "*sup*o",
+      "*sup*imos",
+      "*sup*isteis",
+      "*sup*ieron"
+     ]
+    },
+    {
+     "inf": "andar",
+     "meaning": "lopen, rondlopen",
+     "forms": [
+      "*anduv*e",
+      "*anduv*iste",
+      "*anduv*o",
+      "*anduv*imos",
+      "*anduv*isteis",
+      "*anduv*ieron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<i>Estuve en Londres tres semanas.</i> · <i>Tuvimos mucho trabajo.</i> · <i>No pudieron venir.</i>",
+    "<i>Puse las llaves en la mesa.</i> · <i>Supe la noticia ayer.</i> · <i>Anduvimos por el centro toda la tarde.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Werkwoorden met een i-stam"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "*hic*e",
+      "*hic*iste",
+      "*hiz*o",
+      "*hic*imos",
+      "*hic*isteis",
+      "*hic*ieron"
+     ]
+    },
+    {
+     "inf": "querer",
+     "meaning": "willen",
+     "forms": [
+      "*quis*e",
+      "*quis*iste",
+      "*quis*o",
+      "*quis*imos",
+      "*quis*isteis",
+      "*quis*ieron"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "*vin*e",
+      "*vin*iste",
+      "*vin*o",
+      "*vin*imos",
+      "*vin*isteis",
+      "*vin*ieron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "hizo schrijf je met een z",
+   "text": "De él-vorm van <b>hacer</b> is <b>hizo</b>, niet <i>hico</i>. De z houdt de s-klank voor de o (een c voor een o zou als k klinken)."
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<i>Hice la cena y lavé los platos.</i> · <i>Quisimos ir, pero llovía.</i> · <i>Vinieron en coche.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Werkwoorden met een j-stam"
+  },
+  {
+   "type": "p",
+   "text": "Deze werkwoorden hebben een stam die eindigt op <b>j</b>. Hun ellos-vorm eindigt op <b>-eron</b> (niet -ieron), omdat de j de i opslokt: <i>dijeron, trajeron</i>."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "decir",
+     "meaning": "zeggen, vertellen",
+     "forms": [
+      "*dij*e",
+      "*dij*iste",
+      "*dij*o",
+      "*dij*imos",
+      "*dij*isteis",
+      "*dij*eron"
+     ]
+    },
+    {
+     "inf": "traer",
+     "meaning": "brengen",
+     "forms": [
+      "*traj*e",
+      "*traj*iste",
+      "*traj*o",
+      "*traj*imos",
+      "*traj*isteis",
+      "*traj*eron"
+     ]
+    },
+    {
+     "inf": "conducir",
+     "meaning": "rijden, besturen",
+     "forms": [
+      "*conduj*e",
+      "*conduj*iste",
+      "*conduj*o",
+      "*conduj*imos",
+      "*conduj*isteis",
+      "*conduj*eron"
+     ]
+    },
+    {
+     "inf": "traducir",
+     "meaning": "vertalen",
+     "forms": [
+      "*traduj*e",
+      "*traduj*iste",
+      "*traduj*o",
+      "*traduj*imos",
+      "*traduj*isteis",
+      "*traduj*eron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<i>Me dijo que no.</i> · <i>Trajeron vino y queso.</i> · <i>Conduje toda la noche.</i> · <i>Tradujeron el texto al inglés.</i>",
+    "Alle werkwoorden op <b>-ducir</b> (producir, reducir, introducir) gaan zoals conducir: <i>produje, redujo, introdujeron</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Werkwoorden die in de pretérito indefinido van betekenis veranderen"
+  },
+  {
+   "type": "p",
+   "text": "Een paar werkwoorden betekenen iets anders in de pretérito indefinido, omdat die één afgerond moment beschrijft. Leer deze paren als vaste combinaties."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    4.2,
+    4.6,
+    5.6
+   ],
+   "head": [
+    "Werkwoord",
+    "Pretérito indefinido",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "saber",
+     "supe",
+     "te weten kwam",
+     "Supe la verdad ayer."
+    ],
+    [
+     "conocer",
+     "conocí",
+     "leerde kennen (voor het eerst)",
+     "Conocí a Lucía en 2020."
+    ],
+    [
+     "querer",
+     "quise",
+     "probeerde / wilde (en deed het)",
+     "Quise llamarte, pero no pude."
+    ],
+    [
+     "no querer",
+     "no quise",
+     "weigerde",
+     "No quiso venir a la fiesta."
+    ],
+    [
+     "poder",
+     "pude",
+     "het lukte om",
+     "Por fin pude abrir la puerta."
+    ],
+    [
+     "no poder",
+     "no pude",
+     "het lukte niet, kon niet (en deed het niet)",
+     "No pude dormir anoche."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "In het Nederlands bestaat hetzelfde idee",
+   "text": "Het Nederlands gebruikt hiervoor <i>kennismaken met</i>, <i>te weten komen</i> en <i>lukken</i>. <b>Conocí a Lucía</b> = ik maakte kennis met Lucía; <b>Supe la verdad</b> = ik kwam de waarheid te weten."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Er was / er waren: hubo",
+   "text": "De pretérito indefinido van <b>hay</b> is <b>hubo</b> (één vorm voor enkelvoud en meervoud): <i>Hubo un accidente. Hubo muchos problemas.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ayer tení mucho trabajo.",
+     "Ayer tuve mucho trabajo.",
+     "Tener heeft de stam tuv- in de pretérito indefinido."
+    ],
+    [
+     "Hací la cena.",
+     "Hice la cena.",
+     "De stam van hacer is hic-, en de él-vorm is hizo."
+    ],
+    [
+     "Ellos dijieron la verdad.",
+     "Ellos dijeron la verdad.",
+     "Werkwoorden met een j-stam krijgen -eron, niet -ieron."
+    ],
+    [
+     "Fué a Madrid.",
+     "Fue a Madrid.",
+     "Vormen van één lettergreep (fue, fui, vio, vi, dio, di) hebben geen accent."
+    ],
+    [
+     "Yo anduvé por el parque.",
+     "Yo anduve por el parque.",
+     "Onregelmatige yo-vormen eindigen op -e zonder accent."
+    ],
+    [
+     "Ella querió venir.",
+     "Ella quiso venir.",
+     "Querer heeft de stam quis- in de pretérito indefinido."
+    ],
+    [
+     "Trajieron la comida.",
+     "Trajeron la comida.",
+     "traer heeft een j-stam: trajeron."
+    ],
+    [
+     "No puedí abrir la puerta.",
+     "No pude abrir la puerta.",
+     "Poder heeft de stam pud- in de pretérito indefinido."
+    ],
+    [
+     "Ayer hice a Madrid.",
+     "Ayer fui a Madrid.",
+     "Hacer gebruik je niet voor gaan. Ir + a + plaats geeft fui a Madrid."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de pretérito indefinido in van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Ayer yo ______ al médico.",
+     "hint": "ir (yo)",
+     "a": "fui",
+     "full": "Ayer yo fui al médico."
+    },
+    {
+     "q": "El verano pasado ellos ______ en Roma.",
+     "hint": "estar (ellos)",
+     "a": "estuvieron",
+     "full": "El verano pasado ellos estuvieron en Roma."
+    },
+    {
+     "q": "Nosotros ______ una pizza.",
+     "hint": "hacer (nosotros)",
+     "a": "hicimos",
+     "full": "Nosotros hicimos una pizza."
+    },
+    {
+     "q": "Tú ______ muchos amigos en la fiesta.",
+     "hint": "tener (tú)",
+     "a": "tuviste",
+     "full": "Tú tuviste muchos amigos en la fiesta."
+    },
+    {
+     "q": "Ella no ______ venir a la reunión.",
+     "hint": "poder (ella)",
+     "a": "pudo",
+     "full": "Ella no pudo venir a la reunión."
+    },
+    {
+     "q": "Yo ______ la mesa para cuatro.",
+     "hint": "poner (yo)",
+     "a": "puse",
+     "full": "Yo puse la mesa para cuatro."
+    },
+    {
+     "q": "¿Cuándo ______ la noticia (vosotros)?",
+     "hint": "saber (vosotros)",
+     "a": "supisteis",
+     "full": "¿Cuándo supisteis la noticia (vosotros)?"
+    },
+    {
+     "q": "Mi hermano ______ a casa muy tarde.",
+     "hint": "venir (él)",
+     "a": "vino",
+     "full": "Mi hermano vino a casa muy tarde."
+    },
+    {
+     "q": "Ellos me ______ la verdad.",
+     "hint": "decir (ellos)",
+     "a": "dijeron",
+     "full": "Ellos me dijeron la verdad."
+    },
+    {
+     "q": "Yo ______ un regalo a mi madre.",
+     "hint": "dar (yo)",
+     "a": "di",
+     "full": "Yo di un regalo a mi madre."
+    },
+    {
+     "q": "Anoche ______ una película muy buena.",
+     "hint": "ver (nosotros)",
+     "a": "vimos",
+     "full": "Anoche vimos una película muy buena."
+    },
+    {
+     "q": "Los camareros ______ la cuenta.",
+     "hint": "traer (ellos)",
+     "a": "trajeron",
+     "full": "Los camareros trajeron la cuenta."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ben de hele dag thuis geweest.",
+     "a": "Estuve en casa todo el día."
+    },
+    {
+     "q": "Zij zei nee.",
+     "a": "Dijo que no."
+    },
+    {
+     "q": "We gingen naar het strand en zagen de zonsondergang.",
+     "a": "Fuimos a la playa y vimos el atardecer."
+    },
+    {
+     "q": "Hij was een goede leraar.",
+     "a": "Fue un buen profesor."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

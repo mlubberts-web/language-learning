@@ -1,0 +1,910 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Pretérito indefinido: regelmatige werkwoorden",
+  "subtitle": "Afgeronde handelingen in het verleden: uitgangen, spellingsveranderingen en de stamverandering bij -ir in de derde persoon",
+  "footer": "Language Learning · A2 · Werkwoorden · Pretérito indefinido (regelmatig)",
+  "next": "Volgende: A2 · pdf 2 — Pretérito indefinido: onregelmatige werkwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "zeggen wat je deed, in alle zes personen, met elk regelmatig werkwoord op -ar, -er en -ir",
+    "herkennen wanneer je de pretérito indefinido gebruikt en welke tijdwoorden erbij horen",
+    "de spellingsveranderingen toepassen (busqué, llegué, empecé) en de werkwoorden met y (leyó, creyeron)",
+    "de stamveranderende werkwoorden op -ir in het verleden vervoegen (durmió, pidieron)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Wat de pretérito indefinido doet"
+  },
+  {
+   "type": "p",
+   "text": "De pretérito indefinido beschrijft een handeling die <b>afgerond</b> is: hij gebeurde op een bepaald moment, een bepaald aantal keer, of hij is één stap in een verhaal. Zie het als een foto van een afgeronde gebeurtenis."
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Eén afgeronde gebeurtenis:</b> <i>Ayer compré un libro.</i> (Gisteren kocht ik een boek.)",
+    "<b>Een periode die voorbij is:</b> <i>Viví en Granada tres años.</i> (Ik heb drie jaar in Granada gewoond.)",
+    "<b>Een reeks gebeurtenissen:</b> <i>Llegué, abrí la puerta y encendí la luz.</i> (Ik kwam aan, deed de deur open en deed het licht aan.)"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Eén Spaanse tijd, twee Nederlandse tijden",
+   "bullets": [
+    "Het Nederlands gebruikt zowel <i>ik werkte</i> als <i>ik heb gewerkt</i> voor afgeronde gebeurtenissen. Bij een afgeronde gebeurtenis met een tijdwoord uit het verleden gebruikt het Spaans de pretérito indefinido: <b>Gisteren heb ik gewerkt = Ayer trabajé.</b>",
+    "Het Spaanse <i>he trabajado</i> is niet hetzelfde als <i>ik heb gewerkt</i>. Het is voor een ander soort verleden (pdf 5)."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje en Latijns-Amerika",
+   "text": "In Spanje krijgen <b>hoy</b>, <b>esta mañana</b>, <b>esta semana</b> en <b>este año</b> meestal de pretérito perfecto (pdf 5): <i>Hoy he comido tarde.</i> In Latijns-Amerika gebruikt men daar vaak de pretérito indefinido: <i>Hoy comí tarde.</i> Met <b>ayer</b>, <b>anoche</b> en andere afgesloten periodes gebruiken beide de pretérito indefinido."
+  },
+  {
+   "type": "h1",
+   "text": "2. Tijdwoorden die de pretérito indefinido aankondigen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.2,
+    8.2
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "ayer",
+     "gisteren",
+     "Ayer trabajé en casa."
+    ],
+    [
+     "anteayer",
+     "eergisteren",
+     "Anteayer hablé con Marta."
+    ],
+    [
+     "anoche",
+     "gisteravond, vannacht",
+     "Anoche cené tarde."
+    ],
+    [
+     "la semana pasada",
+     "vorige week",
+     "La semana pasada viajamos a Bilbao."
+    ],
+    [
+     "el año pasado",
+     "vorig jaar",
+     "El año pasado empecé un curso."
+    ],
+    [
+     "hace dos días",
+     "twee dagen geleden",
+     "Hace dos días llamé al médico."
+    ],
+    [
+     "en 2019",
+     "in 2019",
+     "En 2019 terminó la carrera."
+    ],
+    [
+     "de repente",
+     "plotseling",
+     "De repente se apagó la luz."
+    ],
+    [
+     "una vez / dos veces",
+     "één keer / twee keer",
+     "Visité Toledo dos veces."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "hace = geleden",
+   "text": "<b>hace</b> + tijd staat <b>vooraan</b>: <i>hace dos días</i> = twee dagen geleden. Het Nederlands zet <i>geleden</i> achteraan."
+  },
+  {
+   "type": "h1",
+   "text": "3. De uitgangen"
+  },
+  {
+   "type": "p",
+   "text": "Haal -ar, -er of -ir eraf en voeg de uitgang toe. In de pretérito indefinido hebben <b>werkwoorden op -er en -ir precies dezelfde uitgangen</b>. Vergelijk dat met de presente, waar ze verschillen."
+  },
+  {
+   "type": "table",
+   "style": "endings",
+   "widths": [
+    5.0,
+    4.0,
+    4.0,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "-ar  (hablar)",
+    "-er  (comer)",
+    "-ir  (vivir)"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-é",
+     "-í",
+     "-í"
+    ],
+    [
+     "tú",
+     "-aste",
+     "-iste",
+     "-iste"
+    ],
+    [
+     "él / ella / usted",
+     "-ó",
+     "-ió",
+     "-ió"
+    ],
+    [
+     "nosotros / nosotras",
+     "-amos",
+     "-imos",
+     "-imos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-asteis",
+     "-isteis",
+     "-isteis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-aron",
+     "-ieron",
+     "-ieron"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Het accent hoort bij de betekenis",
+   "bullets": [
+    "<b>hablo</b> (ik spreek) maar <b>habló</b> (hij sprak). <b>hablé</b> (ik sprak). Zonder het accent verandert de zin van tijd of persoon.",
+    "De tú-vorm eindigt op <b>-ste</b>, nooit op <i>-stes</i>: <b>hablaste</b>, <b>comiste</b>. Alleen vosotros heeft de s aan het eind: <b>hablasteis</b>.",
+    "<b>nosotros bij -ar en -ir</b> ziet er in de presente en de pretérito indefinido hetzelfde uit (<i>hablamos</i>, <i>vivimos</i>); het tijdwoord beslist: <i>Ahora hablamos. Ayer hablamos.</i> Bij -er verschilt het: <i>comemos</i> / <i>comimos</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Volledige vervoegingen"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito indefinido",
+   "verb": "hablar",
+   "meaning": "spreken, praten",
+   "group": "-ar",
+   "stem": "habl",
+   "endings": [
+    "é",
+    "aste",
+    "ó",
+    "amos",
+    "asteis",
+    "aron"
+   ],
+   "examples": [
+    [
+     "Ayer hablé con mi jefe.",
+     "Gisteren heb ik met mijn baas gesproken."
+    ],
+    [
+     "¿Hablaste con Ana anoche?",
+     "Heb jij gisteravond met Ana gepraat?"
+    ],
+    [
+     "Ella habló durante una hora.",
+     "Zij praatte een uur lang."
+    ],
+    [
+     "Hablamos por teléfono el lunes.",
+     "We hebben maandag gebeld."
+    ],
+    [
+     "¿Hablasteis con el profesor?",
+     "Hebben jullie met de leraar gesproken?"
+    ],
+    [
+     "Mis padres hablaron con el director.",
+     "Mijn ouders hebben met de directeur gepraat."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito indefinido",
+   "verb": "comer",
+   "meaning": "eten",
+   "group": "-er",
+   "stem": "com",
+   "endings": [
+    "í",
+    "iste",
+    "ió",
+    "imos",
+    "isteis",
+    "ieron"
+   ],
+   "examples": [
+    [
+     "Ayer comí paella en un bar.",
+     "Gisteren heb ik paella gegeten in een café."
+    ],
+    [
+     "¿Qué comiste ayer?",
+     "Wat heb jij gisteren gegeten?"
+    ],
+    [
+     "Marta comió en casa de sus abuelos.",
+     "Marta heeft bij haar opa en oma gegeten."
+    ],
+    [
+     "Comimos tortilla de patatas.",
+     "We hebben Spaanse tortilla gegeten."
+    ],
+    [
+     "¿Comisteis en el restaurante?",
+     "Hebben jullie in het restaurant gegeten?"
+    ],
+    [
+     "Los niños comieron muy poco.",
+     "De kinderen aten heel weinig."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito indefinido",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "group": "-ir",
+   "stem": "viv",
+   "endings": [
+    "í",
+    "iste",
+    "ió",
+    "imos",
+    "isteis",
+    "ieron"
+   ],
+   "examples": [
+    [
+     "Viví en Alemania dos años.",
+     "Ik heb twee jaar in Duitsland gewoond."
+    ],
+    [
+     "¿Dónde viviste de niño?",
+     "Waar woonde jij als kind?"
+    ],
+    [
+     "Mi abuelo vivió en Valencia.",
+     "Mijn opa woonde in Valencia."
+    ],
+    [
+     "Vivimos en un piso pequeño.",
+     "We woonden in een klein appartement."
+    ],
+    [
+     "¿Vivisteis en Madrid?",
+     "Hebben jullie in Madrid gewoond?"
+    ],
+    [
+     "Mis tíos vivieron en Cuba.",
+     "Mijn oom en tante woonden op Cuba."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Spellingsveranderingen in de yo-vorm"
+  },
+  {
+   "type": "p",
+   "text": "Alleen de <b>yo</b>-vorm van werkwoorden op -car, -gar en -zar verandert, zodat de klank gelijk blijft (zie de regels voor c en g in A1 pdf 1). Alle andere personen zijn helemaal regelmatig."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    3.6,
+    10.2
+   ],
+   "head": [
+    "Uitgang",
+    "Yo-vorm",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "-car",
+     "-qué",
+     "buscar: busqué · tocar: toqué · sacar: saqué · explicar: expliqué · practicar: practiqué"
+    ],
+    [
+     "-gar",
+     "-gué",
+     "llegar: llegué · pagar: pagué · jugar: jugué · apagar: apagué"
+    ],
+    [
+     "-zar",
+     "-cé",
+     "empezar: empecé · comenzar: comencé · almorzar: almorcé · cruzar: crucé"
+    ]
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "title": "Volledige vormen (alleen de yo-vorm is anders)",
+   "verbs": [
+    {
+     "inf": "buscar",
+     "meaning": "zoeken",
+     "forms": [
+      "bus*qué*",
+      "buscaste",
+      "buscó",
+      "buscamos",
+      "buscasteis",
+      "buscaron"
+     ]
+    },
+    {
+     "inf": "llegar",
+     "meaning": "aankomen",
+     "forms": [
+      "lle*gué*",
+      "llegaste",
+      "llegó",
+      "llegamos",
+      "llegasteis",
+      "llegaron"
+     ]
+    },
+    {
+     "inf": "empezar",
+     "meaning": "beginnen",
+     "forms": [
+      "empe*cé*",
+      "empezaste",
+      "empezó",
+      "empezamos",
+      "empezasteis",
+      "empezaron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Werkwoorden met een klinker voor de uitgang"
+  },
+  {
+   "type": "p",
+   "text": "Als een i zonder klemtoon tussen twee klinkers zou komen, wordt die in de vormen van él en ellos een <b>y</b>: <i>leyó, leyeron</i>. In de andere vormen houdt de <b>í</b> zijn accent."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "leer",
+     "meaning": "lezen",
+     "forms": [
+      "leí",
+      "leíste",
+      "le*y*ó",
+      "leímos",
+      "leísteis",
+      "le*y*eron"
+     ]
+    },
+    {
+     "inf": "creer",
+     "meaning": "geloven",
+     "forms": [
+      "creí",
+      "creíste",
+      "cre*y*ó",
+      "creímos",
+      "creísteis",
+      "cre*y*eron"
+     ]
+    },
+    {
+     "inf": "oír",
+     "meaning": "horen",
+     "forms": [
+      "oí",
+      "oíste",
+      "o*y*ó",
+      "oímos",
+      "oísteis",
+      "o*y*eron"
+     ]
+    },
+    {
+     "inf": "caer",
+     "meaning": "vallen",
+     "forms": [
+      "caí",
+      "caíste",
+      "ca*y*ó",
+      "caímos",
+      "caísteis",
+      "ca*y*eron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Werkwoorden op -ir die in de derde persoon veranderen"
+  },
+  {
+   "type": "p",
+   "text": "Stamveranderende werkwoorden op <b>-ir</b> (die met e/ie, e/i of o/ue in de presente) veranderen ook in de pretérito indefinido, maar <b>alleen in de vormen van él/ella/usted en ellos/ellas/ustedes</b>: o wordt u en e wordt i."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito indefinido",
+   "verbs": [
+    {
+     "inf": "dormir",
+     "meaning": "slapen",
+     "forms": [
+      "dormí",
+      "dormiste",
+      "d*u*rmió",
+      "dormimos",
+      "dormisteis",
+      "d*u*rmieron"
+     ]
+    },
+    {
+     "inf": "pedir",
+     "meaning": "vragen om, bestellen",
+     "forms": [
+      "pedí",
+      "pediste",
+      "p*i*dió",
+      "pedimos",
+      "pedisteis",
+      "p*i*dieron"
+     ]
+    },
+    {
+     "inf": "preferir",
+     "meaning": "liever hebben",
+     "forms": [
+      "preferí",
+      "preferiste",
+      "pref*i*rió",
+      "preferimos",
+      "preferisteis",
+      "pref*i*rieron"
+     ]
+    },
+    {
+     "inf": "seguir",
+     "meaning": "volgen",
+     "forms": [
+      "seguí",
+      "seguiste",
+      "s*i*guió",
+      "seguimos",
+      "seguisteis",
+      "s*i*guieron"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Hetzelfde patroon:</b> <i>sentir</i> (sintió, sintieron), <i>repetir</i> (repitió, repitieron), <i>servir</i> (sirvió, sirvieron), <i>morir</i> (murió, murieron), <i>mentir</i> (mintió, mintieron), <i>vestirse</i> (se vistió, se vistieron), <i>divertirse</i> (se divirtió, se divirtieron), <i>competir</i> (compitió, compitieron)."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Werkwoorden op -ar en -er veranderen hun stam niet in de pretérito indefinido",
+   "text": "Werkwoorden als <i>pensar</i>, <i>volver</i>, <i>empezar</i> en <i>encontrar</i> zijn helemaal regelmatig in de pretérito indefinido: <b>pensé, pensaste, pensó</b>; <b>volví, volviste, volvió</b>. De stamverandering hoort alleen bij de presente (A1 pdf 3)."
+  },
+  {
+   "type": "h1",
+   "text": "8. Regelmatige werkwoorden om te oefenen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -ar",
+   "items": [
+    [
+     "trabajar",
+     "werken"
+    ],
+    [
+     "estudiar",
+     "studeren"
+    ],
+    [
+     "comprar",
+     "kopen"
+    ],
+    [
+     "viajar",
+     "reizen"
+    ],
+    [
+     "cenar",
+     "avondeten"
+    ],
+    [
+     "cocinar",
+     "koken"
+    ],
+    [
+     "limpiar",
+     "schoonmaken"
+    ],
+    [
+     "llamar",
+     "bellen, roepen"
+    ],
+    [
+     "mirar",
+     "kijken naar"
+    ],
+    [
+     "escuchar",
+     "luisteren"
+    ],
+    [
+     "bailar",
+     "dansen"
+    ],
+    [
+     "cantar",
+     "zingen"
+    ],
+    [
+     "caminar",
+     "lopen, wandelen"
+    ],
+    [
+     "esperar",
+     "wachten, hopen"
+    ],
+    [
+     "necesitar",
+     "nodig hebben"
+    ],
+    [
+     "visitar",
+     "bezoeken"
+    ],
+    [
+     "terminar",
+     "afmaken, eindigen"
+    ],
+    [
+     "ayudar",
+     "helpen"
+    ],
+    [
+     "ganar",
+     "winnen, verdienen"
+    ],
+    [
+     "pasear",
+     "een wandeling maken"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -er",
+   "items": [
+    [
+     "comer",
+     "eten"
+    ],
+    [
+     "beber",
+     "drinken"
+    ],
+    [
+     "aprender",
+     "leren"
+    ],
+    [
+     "correr",
+     "rennen"
+    ],
+    [
+     "comprender",
+     "begrijpen"
+    ],
+    [
+     "vender",
+     "verkopen"
+    ],
+    [
+     "romper",
+     "breken"
+    ],
+    [
+     "responder",
+     "antwoorden"
+    ],
+    [
+     "meter",
+     "erin doen, stoppen in"
+    ],
+    [
+     "temer",
+     "vrezen, bang zijn voor"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -ir",
+   "items": [
+    [
+     "vivir",
+     "wonen, leven"
+    ],
+    [
+     "escribir",
+     "schrijven"
+    ],
+    [
+     "abrir",
+     "openen"
+    ],
+    [
+     "subir",
+     "naar boven gaan"
+    ],
+    [
+     "recibir",
+     "ontvangen"
+    ],
+    [
+     "decidir",
+     "besluiten"
+    ],
+    [
+     "descubrir",
+     "ontdekken"
+    ],
+    [
+     "compartir",
+     "delen"
+    ],
+    [
+     "asistir",
+     "bijwonen"
+    ],
+    [
+     "permitir",
+     "toestaan"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Niet in deze pdf",
+   "text": "Sommige van de meest gebruikte werkwoorden (<b>ser, ir, hacer, tener, estar, ver, dar</b> en meer) hebben eigen onregelmatige vormen in de pretérito indefinido. Die staan in de volgende pdf."
+  },
+  {
+   "type": "h1",
+   "text": "9. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ayer hablo con Ana.",
+     "Ayer hablé con Ana.",
+     "Een afgeronde handeling in het verleden krijgt de pretérito indefinido, niet de presente."
+    ],
+    [
+     "Ayer he trabajado mucho.",
+     "Ayer trabajé mucho.",
+     "Met ayer, anoche en andere afgesloten periodes gebruik je de pretérito indefinido. De pretérito perfecto is voor vandaag (pdf 5)."
+    ],
+    [
+     "Él hablo con su jefe.",
+     "Él habló con su jefe.",
+     "Het accent onderscheidt hablo (ik spreek) van habló (hij sprak)."
+    ],
+    [
+     "Tú comistes pizza.",
+     "Tú comiste pizza.",
+     "De tú-vorm eindigt nooit op -stes. Alleen vosotros eindigt op -steis."
+    ],
+    [
+     "Yo buscé las llaves.",
+     "Yo busqué las llaves.",
+     "Werkwoorden op -car veranderen c in qu in de yo-vorm, zodat de k-klank blijft."
+    ],
+    [
+     "Llegé tarde.",
+     "Llegué tarde.",
+     "Werkwoorden op -gar veranderen g in gu in de yo-vorm, zodat de harde g blijft."
+    ],
+    [
+     "Él leió el libro.",
+     "Él leyó el libro.",
+     "Tussen twee klinkers wordt de i een y: leyó, leyeron."
+    ],
+    [
+     "Ellos dormieron mal.",
+     "Ellos durmieron mal.",
+     "Stamveranderende werkwoorden op -ir veranderen o in u in de derde persoon."
+    ],
+    [
+     "Yo vuelví a casa.",
+     "Yo volví a casa.",
+     "Werkwoorden op -er veranderen hun stam niet in de pretérito indefinido."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "10. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de pretérito indefinido in van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Ayer yo ______ en casa.",
+     "hint": "trabajar (yo)",
+     "a": "trabajé",
+     "full": "Ayer yo trabajé en casa."
+    },
+    {
+     "q": "Ana ______ paella el sábado.",
+     "hint": "comer (ella)",
+     "a": "comió",
+     "full": "Ana comió paella el sábado."
+    },
+    {
+     "q": "Nosotros ______ en Sevilla en 2019.",
+     "hint": "vivir (nosotros)",
+     "a": "vivimos",
+     "full": "Nosotros vivimos en Sevilla en 2019."
+    },
+    {
+     "q": "¿Vosotros ______ la radio anoche?",
+     "hint": "escuchar (vosotros)",
+     "a": "escuchasteis",
+     "full": "¿Vosotros escuchasteis la radio anoche?"
+    },
+    {
+     "q": "Ellos ______ agua después del partido.",
+     "hint": "beber (ellos)",
+     "a": "bebieron",
+     "full": "Ellos bebieron agua después del partido."
+    },
+    {
+     "q": "Yo ______ las llaves por toda la casa.",
+     "hint": "buscar (yo)",
+     "a": "busqué",
+     "full": "Yo busqué las llaves por toda la casa."
+    },
+    {
+     "q": "Tú ______ tarde a la reunión.",
+     "hint": "llegar (tú)",
+     "a": "llegaste",
+     "full": "Tú llegaste tarde a la reunión."
+    },
+    {
+     "q": "Yo ______ el curso en septiembre.",
+     "hint": "empezar (yo)",
+     "a": "empecé",
+     "full": "Yo empecé el curso en septiembre."
+    },
+    {
+     "q": "Él ______ un libro entero en un día.",
+     "hint": "leer (él)",
+     "a": "leyó",
+     "full": "Él leyó un libro entero en un día."
+    },
+    {
+     "q": "Mis hermanas ______ hasta las diez.",
+     "hint": "dormir (ellas)",
+     "a": "durmieron",
+     "full": "Mis hermanas durmieron hasta las diez."
+    },
+    {
+     "q": "Yo ______ una cerveza.",
+     "hint": "pedir (yo)",
+     "a": "pedí",
+     "full": "Yo pedí una cerveza."
+    },
+    {
+     "q": "Mis padres ______ quedarse en casa.",
+     "hint": "preferir (ellos)",
+     "a": "prefirieron",
+     "full": "Mis padres prefirieron quedarse en casa."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik heb gisteren mijn moeder gebeld.",
+     "a": "Ayer llamé a mi madre."
+    },
+    {
+     "q": "We hebben om negen uur gegeten.",
+     "a": "Cenamos a las nueve."
+    },
+    {
+     "q": "Zij hebben twee jaar in Madrid gewoond.",
+     "a": "Vivieron en Madrid dos años."
+    },
+    {
+     "q": "Hebben jullie de e-mail gelezen?",
+     "a": "¿Leísteis el correo electrónico?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
