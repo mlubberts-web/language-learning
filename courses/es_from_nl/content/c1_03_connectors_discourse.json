@@ -1,0 +1,556 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Gevorderde verbindingswoorden en tekststructuur",
+  "subtitle": "toevoegen, tegenstellen, oorzaak en gevolg, ordenen en herformuleren, en een betoog opbouwen",
+  "footer": "Language Learning · C1 · Grammatica · Verbindingswoorden en tekststructuur",
+  "next": "Volgende: C1 · pdf 4 — se, de lijdende vorm en nominalisering"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "een redenering opbouwen met gevorderde verbindingswoorden (ahora bien, no obstante, de ahí que)",
+    "ideeën inleiden, nuanceren en herformuleren (es decir, o sea, a saber, dicho de otro modo)",
+    "toegeving, gevolg, voorwaarde en tegenstelling uitdrukken in formeel Spaans",
+    "een helder, goed opgebouwd betoog schrijven"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Toevoegen en versterken"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "asimismo / igualmente",
+     "Asimismo, cabe destacar el papel de la prensa.",
+     "Ook de rol van de pers verdient vermelding."
+    ],
+    [
+     "además / es más",
+     "Es caro; es más, no funciona.",
+     "Het is duur; sterker nog, het werkt niet."
+    ],
+    [
+     "incluso / hasta",
+     "Incluso los expertos dudan.",
+     "Zelfs de deskundigen twijfelen."
+    ],
+    [
+     "por añadidura",
+     "Por añadidura, la oferta caducó.",
+     "Bovendien was het aanbod verlopen."
+    ],
+    [
+     "a su vez",
+     "Esto, a su vez, genera empleo.",
+     "Dit levert op zijn beurt banen op."
+    ],
+    [
+     "de igual modo / del mismo modo",
+     "Del mismo modo, hay que ahorrar.",
+     "Op dezelfde manier moeten we sparen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tegenstelling en toegeving"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "sin embargo / no obstante",
+     "Es caro; no obstante, lo compraré.",
+     "Het is duur; toch koop ik het."
+    ],
+    [
+     "ahora bien",
+     "Ahora bien, el plan tiene riesgos.",
+     "Dat gezegd hebbende, het plan heeft risico's."
+    ],
+    [
+     "con todo / aun así",
+     "Con todo, mereció la pena.",
+     "Toch was het de moeite waard."
+    ],
+    [
+     "en cambio / por el contrario",
+     "Él trabaja; ella, en cambio, descansa.",
+     "Hij werkt; zij daarentegen rust uit."
+    ],
+    [
+     "si bien + indicativo",
+     "Si bien es útil, es caro.",
+     "Hoewel het nuttig is, is het duur."
+    ],
+    [
+     "aunque / a pesar de que",
+     "Aunque llueva, saldremos.",
+     "Ook als het regent, gaan we naar buiten."
+    ],
+    [
+     "pese a que / a pesar de + zelfst. nw.",
+     "Pese a la crisis, creció.",
+     "Ondanks de crisis groeide het."
+    ],
+    [
+     "por más que / por mucho que",
+     "Por más que insistas, no cederé.",
+     "Hoe vaak je ook aandringt, ik geef niet toe."
+    ],
+    [
+     "mientras que",
+     "Unos aplauden, mientras que otros critican.",
+     "Sommigen applaudisseren, terwijl anderen kritiek hebben."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Oorzaak en gevolg"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "puesto que / dado que / ya que",
+     "Dado que no hay datos, no decidimos.",
+     "Aangezien er geen gegevens zijn, beslissen we niet."
+    ],
+    [
+     "debido a / a causa de / por culpa de",
+     "Por culpa de la lluvia, no vino.",
+     "Door de regen (die de schuld krijgt) kwam hij niet."
+    ],
+    [
+     "gracias a",
+     "Gracias a ti, lo logré.",
+     "Dankzij jou is het me gelukt."
+    ],
+    [
+     "en vista de que",
+     "En vista de que no vienes, me voy.",
+     "Aangezien je niet komt, ga ik weg."
+    ],
+    [
+     "por consiguiente / por tanto",
+     "Por consiguiente, se cancela.",
+     "Bijgevolg wordt het afgelast."
+    ],
+    [
+     "así pues / de ahí que + subj.",
+     "De ahí que sea necesario actuar.",
+     "Vandaar dat er actie nodig is."
+    ],
+    [
+     "en consecuencia",
+     "En consecuencia, se tomaron medidas.",
+     "Daarom werden er maatregelen genomen."
+    ],
+    [
+     "de modo que / así que",
+     "Llovía, así que nos quedamos.",
+     "Het regende, dus we bleven."
+    ],
+    [
+     "tan ... que / tanto ... que",
+     "Era tan tarde que no había metro.",
+     "Het was zo laat dat er geen metro meer reed."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Voorwaarde, doel en tijd"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "siempre que / siempre y cuando + subj.",
+     "Iré siempre y cuando me inviten.",
+     "Ik ga, op voorwaarde dat ik word uitgenodigd."
+    ],
+    [
+     "a menos que / salvo que + subj.",
+     "Salvo que nieve, abrimos.",
+     "Tenzij het sneeuwt, gaan we open."
+    ],
+    [
+     "en caso de que + subj.",
+     "En caso de que falle, avísame.",
+     "Voor het geval het misgaat, laat het me weten."
+    ],
+    [
+     "con vistas a / con el fin de",
+     "Con el fin de ahorrar, apagó la luz.",
+     "Om te besparen deed hij het licht uit."
+    ],
+    [
+     "a fin de que / para que + subj.",
+     "A fin de que lo entiendan, lo repito.",
+     "Zodat ze het begrijpen, herhaal ik het."
+    ],
+    [
+     "a medida que / conforme",
+     "Conforme pasan los años, cambia.",
+     "Naarmate de jaren verstrijken, verandert het."
+    ],
+    [
+     "en cuanto / apenas / nada más + inf.",
+     "Nada más llegar, llamó.",
+     "Zodra hij aankwam, belde hij."
+    ],
+    [
+     "mientras tanto / entretanto",
+     "Entretanto, esperamos.",
+     "Ondertussen wachten we."
+    ],
+    [
+     "hasta que / una vez que",
+     "Una vez que termine, te aviso.",
+     "Zodra ik klaar ben, laat ik het je weten."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Ordenen en herformuleren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    12.4
+   ],
+   "head": [
+    "Functie",
+    "Uitdrukkingen"
+   ],
+   "rows": [
+    [
+     "Onderwerp inleiden",
+     "En cuanto a ... / Respecto a ... / Con respecto a ... / Por lo que se refiere a ... / A propósito de ..."
+    ],
+    [
+     "Volgorde",
+     "En primer lugar, ... / En segundo lugar, ... / Por último, ... / Para empezar, ... / Para concluir, ..."
+    ],
+    [
+     "Een voorbeeld geven",
+     "Por ejemplo, ... / A modo de ejemplo, ... / Sin ir más lejos, ... / Tal es el caso de ..."
+    ],
+    [
+     "Herformuleren",
+     "Es decir, ... / O sea, ... / Dicho de otro modo, ... / En otras palabras, ... / A saber, ..."
+    ],
+    [
+     "Benadrukken",
+     "Cabe destacar que ... / Conviene subrayar que ... / Hay que tener en cuenta que ... / De hecho, ..."
+    ],
+    [
+     "Samenvatten",
+     "En resumen, ... / En suma, ... / En definitiva, ... / En conclusión, ... / En síntesis, ..."
+    ],
+    [
+     "Mening geven",
+     "En mi opinión, ... / Desde mi punto de vista, ... / A mi juicio, ... / Considero que ... / Soy de la opinión de que ..."
+    ],
+    [
+     "Toegeven en weerleggen",
+     "Es cierto que ..., pero ... / Si bien es verdad que ..., no lo es menos que ..."
+    ],
+    [
+     "Voorzichtig formuleren",
+     "Parece que ... / Según parece ... / Al parecer ... / Tiende a ... / Podría decirse que ..."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "No lo es menos que",
+   "text": "<b>Si bien es cierto que ..., no es menos cierto que ...</b> (Hoewel het waar is dat ..., is het niet minder waar dat ...) is een klassieke formule op C1-niveau voor een evenwichtige redenering: <i>Si bien es cierto que la tecnología facilita la vida, no es menos cierto que genera dependencia.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "6. De opbouw van een betoog"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    13.4
+   ],
+   "head": [
+    "Onderdeel",
+    "Inhoud en taal"
+   ],
+   "rows": [
+    [
+     "Inleiding",
+     "Stel het onderwerp voor en geef je standpunt. <i>En la actualidad, cada vez más personas ... En este ensayo defenderé que ...</i>"
+    ],
+    [
+     "Argument 1",
+     "En primer lugar, ... Un claro ejemplo de ello es ... Por consiguiente, ..."
+    ],
+    [
+     "Argument 2",
+     "Asimismo, ... Además, cabe destacar ... Esto, a su vez, ..."
+    ],
+    [
+     "Tegenargument",
+     "Ahora bien, algunos sostienen que ... Si bien es cierto que ..., no lo es menos que ..."
+    ],
+    [
+     "Conclusie",
+     "En definitiva, ... Por todo lo expuesto, ... Así pues, considero que ..."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Eén idee per alinea. Begin met een duidelijke kernzin.",
+    "Wissel verbindingswoorden af: gebruik niet drie keer <i>además</i> of <i>pero</i>.",
+    "Gebruik <b>onpersoonlijke</b> vormen voor een formele toon: <i>Se considera que ... Cabe señalar que ... Resulta evidente que ...</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "A pesar que llueve, salgo.",
+     "A pesar de que llueve, salgo.",
+     "a pesar DE que."
+    ],
+    [
+     "Debido que no vino, ...",
+     "Debido a que no vino, ...",
+     "debido A que."
+    ],
+    [
+     "Sin embargo, pero es caro.",
+     "Sin embargo, es caro.",
+     "voeg geen pero toe."
+    ],
+    [
+     "Por consiguiente que se cancela.",
+     "Por consiguiente, se cancela.",
+     "komma, geen que."
+    ],
+    [
+     "De ahí que es necesario.",
+     "De ahí que sea necesario.",
+     "de ahí que: subjuntivo."
+    ],
+    [
+     "Siempre y cuando vienes, ...",
+     "Siempre y cuando vengas, ...",
+     "voorwaarde: subjuntivo."
+    ],
+    [
+     "Con respecto de la educación, ...",
+     "Con respecto a la educación, ...",
+     "con respecto A."
+    ],
+    [
+     "A pesar de la lluvia que cayó, salimos.",
+     "A pesar de la lluvia, salimos.",
+     "voeg geen extra betrekkelijk voornaamwoord toe."
+    ],
+    [
+     "Y por eso sin embargo ...",
+     "Por eso, ...",
+     "stapel geen verbindingswoorden."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende verbindingswoord of de ontbrekende vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Es caro; ______, lo compraré.",
+     "hint": "toch, desondanks",
+     "a": "no obstante",
+     "full": "Es caro; no obstante, lo compraré."
+    },
+    {
+     "q": "______ bien, el plan tiene riesgos.",
+     "hint": "dat gezegd hebbende",
+     "a": "Ahora",
+     "full": "Ahora bien, el plan tiene riesgos."
+    },
+    {
+     "q": "______ que no hay datos, no decidimos.",
+     "hint": "aangezien",
+     "a": "Dado",
+     "full": "Dado que no hay datos, no decidimos."
+    },
+    {
+     "q": "______ que sea necesario actuar.",
+     "hint": "vandaar (2 woorden)",
+     "a": "De ahí",
+     "full": "De ahí que sea necesario actuar."
+    },
+    {
+     "q": "Salvo ______, abrimos.",
+     "hint": "nevar: tenzij + subjuntivo",
+     "a": "que nieve",
+     "full": "Salvo que nieve, abrimos."
+    },
+    {
+     "q": "______ cierto que ayuda, no es menos cierto que cuesta.",
+     "hint": "hoewel het ... is",
+     "a": "Si bien es",
+     "full": "Si bien es cierto que ayuda, no es menos cierto que cuesta."
+    },
+    {
+     "q": "______ a la crisis, la empresa creció.",
+     "hint": "ondanks",
+     "a": "Pese",
+     "full": "Pese a la crisis, la empresa creció."
+    },
+    {
+     "q": "______ llegar, llamó a su madre.",
+     "hint": "zodra",
+     "a": "Nada más",
+     "full": "Nada más llegar, llamó a su madre."
+    },
+    {
+     "q": "______ destacar que el plan funciona.",
+     "hint": "het is de moeite waard te vermelden",
+     "a": "Cabe",
+     "full": "Cabe destacar que el plan funciona."
+    },
+    {
+     "q": "______, no hay otra solución.",
+     "hint": "kortom",
+     "a": "En definitiva",
+     "full": "En definitiva, no hay otra solución."
+    },
+    {
+     "q": "Iré siempre y ______ me inviten.",
+     "hint": "op voorwaarde dat",
+     "a": "cuando",
+     "full": "Iré siempre y cuando me inviten."
+    },
+    {
+     "q": "______ a la educación, hay mucho por hacer.",
+     "hint": "wat betreft",
+     "a": "En cuanto",
+     "full": "En cuanto a la educación, hay mucho por hacer."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Dat gezegd hebbende, het plan heeft risico's.",
+     "a": "Ahora bien, el plan tiene riesgos."
+    },
+    {
+     "q": "Vandaar dat er actie nodig is.",
+     "a": "De ahí que sea necesario actuar."
+    },
+    {
+     "q": "Ondanks de crisis groeide het bedrijf.",
+     "a": "A pesar de la crisis, la empresa creció."
+    },
+    {
+     "q": "Kortom, er is geen andere oplossing.",
+     "a": "En definitiva, no hay otra solución."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

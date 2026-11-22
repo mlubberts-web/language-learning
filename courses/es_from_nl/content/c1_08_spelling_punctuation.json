@@ -1,0 +1,695 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Schrijven",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Spelling, accenten en leestekens",
+  "subtitle": "accentregels, hiaat, onderscheidende accenten, woorden die hetzelfde klinken, lastige spelling, leestekens en hoofdletters",
+  "footer": "Language Learning · C1 · Schrijven · Spelling en leestekens",
+  "next": "Volgende: C1 · pdf 9 — Spaans in Spanje en in de wereld"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "geschreven accenten goed plaatsen (agudas, llanas, esdrújulas, hiaat)",
+    "onderscheidende accenten gebruiken (tú/tu, él/el, más/mas, qué/que, sé/se)",
+    "klassieke fouten met woorden die hetzelfde klinken vermijden (haber/a ver, hay/ahí/ay, sino/si no, porque/por qué)",
+    "Spaans goed van leestekens voorzien (¿?, ¡!, komma's, raya, hoofdletters)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Klemtoon en geschreven accenten"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.0,
+    7.0
+   ],
+   "head": [
+    "Soort",
+    "Regel",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "aguda (klemtoon op de laatste lettergreep)",
+     "accent als het woord eindigt op een klinker, -n of -s",
+     "café, canción, estás; maar: hotel, ciudad"
+    ],
+    [
+     "llana (klemtoon op de voorlaatste)",
+     "accent als het woord NIET eindigt op een klinker, -n of -s",
+     "árbol, fácil, lápiz; maar: casa, joven, crisis"
+    ],
+    [
+     "esdrújula (klemtoon op de derde van achteren)",
+     "altijd een accent",
+     "teléfono, médico, rápido, música"
+    ],
+    [
+     "sobresdrújula (klemtoon op de vierde van achteren)",
+     "altijd een accent",
+     "cuéntaselo, dígamelo, llévatelo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Snelle controle",
+   "text": "Zeg het woord, zoek de beklemtoonde lettergreep en tel vanaf het eind. <b>Agudas</b> en <b>llanas</b> krijgen alleen een accent als ze tegen de normale regel ingaan; <b>esdrújulas</b> altijd."
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Een woord <b>verliest</b> of <b>krijgt</b> een accent als het verandert: <i>joven / jóvenes, examen / exámenes, canción / canciones, régimen / regímenes</i>.",
+    "<b>Bijwoorden op -mente</b> houden het accent van het bijvoeglijk naamwoord: <i>rápido: rápidamente, fácil: fácilmente</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tweeklanken en hiaat"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Patroon",
+    "Regel",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "sterke + zwakke klinker (a, e, o + i, u)",
+     "tweeklank, één lettergreep",
+     "bailar, cuidado, causa, aire"
+    ],
+    [
+     "zwak + zwak (i, u)",
+     "tweeklank",
+     "ciudad, fui, cuidado"
+    ],
+    [
+     "sterk + sterk (a, e, o)",
+     "hiaat, twee lettergrepen",
+     "teatro, océano, poeta, aéreo"
+    ],
+    [
+     "beklemtoonde zwakke + sterke klinker",
+     "hiaat: accent op de zwakke klinker",
+     "día, país, río, maíz, baúl, Raúl"
+    ],
+    [
+     "sterke + beklemtoonde zwakke klinker",
+     "hiaat: accent",
+     "oído, reír, freír, increíble"
+    ],
+    [
+     "ui / iu",
+     "tweeklank, accent volgens de gewone regels",
+     "construí (agudas), cuídate, ruido"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Onderscheidende accenten"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    4.6,
+    3.4,
+    5.6
+   ],
+   "head": [
+    "Met accent",
+    "Betekenis",
+    "Zonder accent",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "tú",
+     "jij (onderwerp)",
+     "tu",
+     "jouw"
+    ],
+    [
+     "él",
+     "hij",
+     "el",
+     "de, het"
+    ],
+    [
+     "mí",
+     "mij (na een voorzetsel)",
+     "mi",
+     "mijn"
+    ],
+    [
+     "sí",
+     "ja; zichzelf",
+     "si",
+     "als, of"
+    ],
+    [
+     "té",
+     "thee",
+     "te",
+     "je (voorwerp)"
+    ],
+    [
+     "sé",
+     "ik weet; wees (gebiedende wijs)",
+     "se",
+     "zich, hem"
+    ],
+    [
+     "dé",
+     "geef (subjuntivo)",
+     "de",
+     "van, uit"
+    ],
+    [
+     "más",
+     "meer",
+     "mas",
+     "maar (literair)"
+    ],
+    [
+     "aún (nog)",
+     "aún no ha llegado",
+     "aun (zelfs)",
+     "aun así, aun siendo"
+    ],
+    [
+     "qué, quién, cuál, cómo, cuándo, dónde, cuánto",
+     "vragen, uitroepen, indirecte vragen",
+     "que, quien, cual, como, cuando, donde, cuanto",
+     "betrekkelijke voornaamwoorden, voegwoorden"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Solo</b> (alleen) en <b>este, ese, aquel</b> (aanwijzende voornaamwoorden) hebben geen accent meer nodig (RAE 2010), ook niet als de zin dubbelzinnig is.",
+    "<b>Indirecte vragen</b> houden het accent: <i>No sé qué quiere. Dime cómo se llama. Pregunta dónde vive.</i>",
+    "<b>Por qué / porque / porqué</b> zoals in B1: <i>¿Por qué? Porque ... El porqué.</i>"
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Woorden die hetzelfde klinken of erop lijken"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Paar",
+    "Gebruik",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "haber / a ver",
+     "hebben (hulpww.) / eens kijken (a + ver)",
+     "Ha de haber un error. A ver qué pasa."
+    ],
+    [
+     "hay / ahí / ay",
+     "er is / daar / au",
+     "Hay un libro ahí. ¡Ay!"
+    ],
+    [
+     "echo / hecho",
+     "ik gooi / gedaan, feit",
+     "Lo echo al cubo. Es un hecho."
+    ],
+    [
+     "hacia / hacía",
+     "naar, richting / hij deed (imperfecto)",
+     "Voy hacia casa. Hacía frío."
+    ],
+    [
+     "vaya / valla / baya",
+     "ga (subj.) / hek / bes",
+     "Que vaya. La valla. Una baya."
+    ],
+    [
+     "tuvo / tubo",
+     "hij had / buis",
+     "Tuvo suerte. Un tubo roto."
+    ],
+    [
+     "botar / votar",
+     "stuiteren / stemmen",
+     "Botar la pelota. Votar al presidente."
+    ],
+    [
+     "sino / si no",
+     "maar, maar wel / als niet",
+     "No es X sino Y. Si no vienes, ..."
+    ],
+    [
+     "también / tan bien",
+     "ook / zo goed",
+     "Yo también. Canta tan bien."
+    ],
+    [
+     "tampoco / tan poco",
+     "ook niet / zo weinig",
+     "Yo tampoco. Gana tan poco."
+    ],
+    [
+     "con que / conque / con qué",
+     "waarmee / dus / waarmee? (vraag)",
+     "El lápiz con que escribo. ¿Con qué?"
+    ],
+    [
+     "asimismo / así mismo",
+     "eveneens / op dezelfde manier",
+     "Asimismo, cabe destacar ..."
+    ],
+    [
+     "a / ah / ha",
+     "naar / ah / heeft",
+     "Voy a casa. ¡Ah! Ha llegado."
+    ],
+    [
+     "ola / hola",
+     "golf / hallo",
+     "Una ola grande. ¡Hola!"
+    ],
+    [
+     "rebelar / revelar",
+     "in opstand komen / onthullen",
+     "Se rebeló. Reveló el secreto."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Lastige spelling"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Probleem",
+    "Regel",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "b / v",
+     "zelfde klank; leer het woord",
+     "vaca, baca; haber, haver (fout)"
+    ],
+    [
+     "g / j",
+     "ge, gi en je, ji klinken hetzelfde: leer het woord",
+     "gente, gigante; jefe, jirafa"
+    ],
+    [
+     "gu / gü",
+     "gue, gui = /g/; güe, güi = /gw/",
+     "guitarra, pingüino, vergüenza"
+    ],
+    [
+     "c / qu / k",
+     "ca, co, cu; que, qui",
+     "casa, queso, kilo"
+    ],
+    [
+     "c / z",
+     "za, zo, zu; ce, ci",
+     "zapato, cena, cinco"
+    ],
+    [
+     "-cción of -ción",
+     "stam met -ct- houdt cc",
+     "acción, dirección, instrucción"
+    ],
+    [
+     "mp / mb / nv",
+     "m voor p en b",
+     "campo, cambio, envío, invierno"
+    ],
+    [
+     "stomme h",
+     "geen klank; controleer het woord",
+     "hablar, hacer, hoy, huevo, ahora"
+    ],
+    [
+     "ll / y",
+     "verschilt per streek, spelling per woord",
+     "llave, yo, calle, playa"
+    ],
+    [
+     "x / s",
+     "x = /ks/ of /s/",
+     "examen, extra, explicar, sexto"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Leestekens"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Teken",
+    "Regel",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "¿ ... ?",
+     "aan het begin en aan het eind",
+     "¿Qué hora es?"
+    ],
+    [
+     "¡ ... !",
+     "aan het begin en aan het eind",
+     "¡Qué bien!"
+    ],
+    [
+     "komma (aanspreking)",
+     "ervoor en erna",
+     "Ana, ven aquí. Ven, Ana, ahora."
+    ],
+    [
+     "komma (bijstelling)",
+     "eromheen",
+     "Madrid, la capital, es grande."
+    ],
+    [
+     "komma (opsomming)",
+     "tussen de onderdelen, niet voor y",
+     "Compré pan, leche y huevos."
+    ],
+    [
+     "komma (bijzin eerst)",
+     "erna",
+     "Cuando llegues, llámame."
+    ],
+    [
+     "komma (verbindingswoord)",
+     "erna",
+     "Sin embargo, no vino."
+    ],
+    [
+     "geen komma",
+     "nooit tussen onderwerp en werkwoord",
+     "Mi hermano vive en Madrid."
+    ],
+    [
+     "puntkomma",
+     "tussen lange, verwante zinsdelen",
+     "Unos viven; otros sobreviven."
+    ],
+    [
+     "dubbele punt",
+     "na de aanhef, voor opsommingen en citaten",
+     "Querida Ana: te escribo ..."
+    ],
+    [
+     "raya (—)",
+     "voor dialogen",
+     "—¿Vienes? —No."
+    ],
+    [
+     "comillas (« » of \" \")",
+     "citaten, titels",
+     "«No lo sé», dijo."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Hoofdletters en getallen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Regel",
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Dagen, maanden, seizoenen: kleine letter",
+     "lunes, enero, verano",
+     "maandag, januari, zomer"
+    ],
+    [
+     "Talen en nationaliteiten: kleine letter",
+     "el español, un holandés",
+     "Spaans, een Nederlander (in het Nederlands met hoofdletter)"
+    ],
+    [
+     "Titels: alleen het eerste woord met een hoofdletter",
+     "Cien años de soledad",
+     "Honderd jaar eenzaamheid"
+    ],
+    [
+     "Decimale komma",
+     "3,5 (tres coma cinco)",
+     "3,5"
+    ],
+    [
+     "Duizendtallen: spatie (of punt)",
+     "10 000 of 10.000",
+     "10.000"
+    ],
+    [
+     "Datums",
+     "30 de octubre de 2026 / 30/10/2026",
+     "30 oktober 2026"
+    ],
+    [
+     "Tijd",
+     "las 9:30 / las 21:30 h",
+     "9.30 / 21.30 uur"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Tu eres amable.",
+     "Tú eres amable.",
+     "tú = jij."
+    ],
+    [
+     "El tiene un coche.",
+     "Él tiene un coche.",
+     "él = hij."
+    ],
+    [
+     "Dime cuando llegas.",
+     "Dime cuándo llegas.",
+     "indirecte vraag: cuándo."
+    ],
+    [
+     "Que hora es?",
+     "¿Qué hora es?",
+     "¿ aan het begin en accent."
+    ],
+    [
+     "Haber qué pasa.",
+     "A ver qué pasa.",
+     "a ver (eens kijken)."
+    ],
+    [
+     "No es caro si no barato.",
+     "No es caro sino barato.",
+     "sino = maar (wel)."
+    ],
+    [
+     "Si no vienes, sino me enfado.",
+     "Si no vienes, me enfado.",
+     "si no = als niet."
+    ],
+    [
+     "Mi hermano, vive en Madrid.",
+     "Mi hermano vive en Madrid.",
+     "geen komma tussen onderwerp en werkwoord."
+    ],
+    [
+     "El Lunes de Enero.",
+     "El lunes de enero.",
+     "kleine letter."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in, met of zonder accent. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ eres mi mejor amigo.",
+     "hint": "jij (onderwerp)",
+     "a": "Tú",
+     "full": "Tú eres mi mejor amigo."
+    },
+    {
+     "q": "Es ______ casa.",
+     "hint": "jouw - bezittelijk",
+     "a": "tu",
+     "full": "Es tu casa."
+    },
+    {
+     "q": "No ______ qué quiere.",
+     "hint": "ik weet - werkwoord",
+     "a": "sé",
+     "full": "No sé qué quiere."
+    },
+    {
+     "q": "Dime ______ te llamas.",
+     "hint": "hoe - vraagwoord",
+     "a": "cómo",
+     "full": "Dime cómo te llamas."
+    },
+    {
+     "q": "Quiero ______ té.",
+     "hint": "een (lidwoord)",
+     "a": "un",
+     "full": "Quiero un té."
+    },
+    {
+     "q": "______ no ha llegado.",
+     "hint": "nog - tijd",
+     "a": "Aún",
+     "full": "Aún no ha llegado."
+    },
+    {
+     "q": "Voy ______ ver qué pasa.",
+     "hint": "a / ha",
+     "a": "a",
+     "full": "Voy a ver qué pasa."
+    },
+    {
+     "q": "No es rojo, ______ azul.",
+     "hint": "maar wel",
+     "a": "sino",
+     "full": "No es rojo, sino azul."
+    },
+    {
+     "q": "______ vienes, me voy.",
+     "hint": "als niet - twee woorden",
+     "a": "Si no",
+     "full": "Si no vienes, me voy."
+    },
+    {
+     "q": "Yo ______ voy.",
+     "hint": "ook niet - één woord",
+     "a": "tampoco",
+     "full": "Yo tampoco voy."
+    },
+    {
+     "q": "La ______ del jardín es alta.",
+     "hint": "hek - valla / vaya / baya",
+     "a": "valla",
+     "full": "La valla del jardín es alta."
+    },
+    {
+     "q": "______ mucho frío ayer.",
+     "hint": "het was - hacer, imperfecto",
+     "a": "Hacía",
+     "full": "Hacía mucho frío ayer."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hoe laat is het?",
+     "a": "¿Qué hora es?"
+    },
+    {
+     "q": "Ik weet niet waarom hij niet gekomen is.",
+     "a": "No sé por qué no vino."
+    },
+    {
+     "q": "Volgende maandag in januari.",
+     "a": "El próximo lunes de enero."
+    },
+    {
+     "q": "Het is niet duur, maar goedkoop.",
+     "a": "No es caro, sino barato."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

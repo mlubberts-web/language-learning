@@ -1,0 +1,642 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Register, voorzichtig formuleren en academische stijl",
+  "subtitle": "van spreektaal tot academisch register, anderen aanhalen, voorzichtigheid en zekerheid, beleefdheid, spreektaal in Spanje",
+  "footer": "Language Learning · C1 · Grammatica · Register en academische stijl",
+  "next": "Volgende: C1 · pdf 7 — Idiomatische werkwoorden en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "woordkeus en grammatica aanpassen aan het register (spreektaal, neutraal, formeel, academisch)",
+    "ideeën van anderen weergeven met de juiste werkwoorden en citeerformules",
+    "beweringen voorzichtig formuleren en zekerheid aangeven (podría, tiende a, en cierta medida)",
+    "beleefd en indirect zijn bij formele verzoeken, weigeringen en klachten"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Registers vergeleken"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    4.4,
+    4.4,
+    4.8
+   ],
+   "head": [
+    "Betekenis",
+    "Spreektaal",
+    "Neutraal",
+    "Formeel / academisch"
+   ],
+   "rows": [
+    [
+     "beginnen",
+     "empezar",
+     "comenzar",
+     "iniciar"
+    ],
+    [
+     "zeggen",
+     "decir",
+     "comentar",
+     "afirmar, señalar"
+    ],
+    [
+     "krijgen, verkrijgen",
+     "conseguir",
+     "obtener",
+     "adquirir, lograr"
+    ],
+    [
+     "laten zien",
+     "enseñar",
+     "mostrar",
+     "poner de manifiesto"
+    ],
+    [
+     "denken",
+     "creer",
+     "pensar",
+     "considerar, estimar"
+    ],
+    [
+     "veel",
+     "un montón de",
+     "mucho(s)",
+     "numeroso(s), gran cantidad de"
+    ],
+    [
+     "proberen",
+     "intentar",
+     "tratar de",
+     "procurar, pretender"
+    ],
+    [
+     "maar",
+     "pero",
+     "sin embargo",
+     "no obstante"
+    ],
+    [
+     "dus",
+     "así que",
+     "por eso",
+     "por consiguiente"
+    ],
+    [
+     "nodig hebben",
+     "necesitar",
+     "hacer falta",
+     "precisar, requerir"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Spreektaal</b>: samentrekkingen, tussenwerpsels, korte zinnen, <i>tío, guay, mola, vale, currar, pasta, flipar</i>.",
+    "<b>Neutraal</b>: standaardwoorden, heldere zinnen, tú of usted afhankelijk van de situatie.",
+    "<b>Formeel / academisch</b>: usted, onpersoonlijk se, lijdende vorm, nominalisering, lange zinnen met verbindingswoorden, voorzichtig formuleren, geen straattaal."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Anderen weergeven en citeren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Uitdrukking",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "según + auteur",
+     "Según García (2020), ...",
+     "Volgens García (2020) ..."
+    ],
+    [
+     "de acuerdo con",
+     "De acuerdo con los datos, ...",
+     "In overeenstemming met de gegevens ..."
+    ],
+    [
+     "como señala / indica / apunta",
+     "Como señala López, el mercado cambia.",
+     "Zoals López opmerkt, verandert de markt."
+    ],
+    [
+     "en palabras de",
+     "En palabras de Ortega, ...",
+     "In de woorden van Ortega ..."
+    ],
+    [
+     "a juicio de / a mi juicio",
+     "A juicio del autor, es inevitable.",
+     "Naar het oordeel van de auteur is het onvermijdelijk."
+    ],
+    [
+     "tal y como afirma",
+     "Tal y como afirma el informe, ...",
+     "Zoals het rapport stelt ..."
+    ],
+    [
+     "según se desprende de",
+     "Según se desprende del estudio, ...",
+     "Zoals uit het onderzoek blijkt ..."
+    ],
+    [
+     "cabe citar / mencionar",
+     "Cabe citar el caso de Francia.",
+     "Het geval van Frankrijk verdient vermelding."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Werkwoorden om anderen weer te geven"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.4,
+    3.4,
+    3.4,
+    3.4
+   ],
+   "head": [
+    "Neutraal",
+    "Sterke bewering",
+    "Suggestie",
+    "Twijfel / kritiek",
+    "Conclusie"
+   ],
+   "rows": [
+    [
+     "decir",
+     "afirmar",
+     "sugerir",
+     "cuestionar",
+     "concluir"
+    ],
+    [
+     "comentar",
+     "sostener",
+     "plantear",
+     "negar",
+     "demostrar"
+    ],
+    [
+     "explicar",
+     "defender",
+     "proponer",
+     "poner en duda",
+     "constatar"
+    ],
+    [
+     "señalar",
+     "insistir en",
+     "apuntar",
+     "refutar",
+     "deducir"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Tijd en wijs",
+   "text": "<b>Afirmar / sostener / concluir + que + indicativo</b>. <b>Negar / dudar / cuestionar que + subjuntivo</b>: <i>El autor niega que sea posible.</i> Met <b>no negar que + indicativo</b>: <i>No niego que es difícil.</i>"
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Voorzichtigheid en zekerheid"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Functie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Waarschijnlijkheid (modaal)",
+     "Podría tratarse de un error.",
+     "Het zou om een vergissing kunnen gaan."
+    ],
+    [
+     "Neiging",
+     "Tiende a aumentar con la edad.",
+     "Het neemt meestal toe met de leeftijd."
+    ],
+    [
+     "Gedeeltelijk",
+     "En cierta medida, es cierto.",
+     "In zekere mate is het waar."
+    ],
+    [
+     "Beperkt",
+     "Hasta cierto punto, tiene razón.",
+     "Tot op zekere hoogte heeft hij gelijk."
+    ],
+    [
+     "Grotendeels",
+     "En gran parte, depende del clima.",
+     "Het hangt grotendeels af van het klimaat."
+    ],
+    [
+     "Algemeen",
+     "Por lo general, hay poco ruido.",
+     "In de regel is er weinig lawaai."
+    ],
+    [
+     "Schijn",
+     "Parece que / Al parecer / Según parece ...",
+     "Het lijkt erop dat / Blijkbaar ..."
+    ],
+    [
+     "Veronderstelling",
+     "Se supone que llega mañana.",
+     "Hij zou morgen moeten aankomen."
+    ],
+    [
+     "Grote zekerheid",
+     "Sin lugar a dudas, / Es evidente que ...",
+     "Zonder twijfel / Het is duidelijk dat ..."
+    ],
+    [
+     "Bewijs",
+     "Los datos indican que ...",
+     "De gegevens wijzen erop dat ..."
+    ],
+    [
+     "Mogelijkheid",
+     "Es posible que + subj. / Cabe la posibilidad de que + subj.",
+     "Het is mogelijk dat ..."
+    ],
+    [
+     "Gerucht (cond.)",
+     "El ministro habría aceptado.",
+     "De minister zou hebben toegestemd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Beleefdheid en indirectheid"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.8,
+    5.6
+   ],
+   "head": [
+    "Direct",
+    "Beleefd",
+    "Zeer formeel"
+   ],
+   "rows": [
+    [
+     "Dame el informe.",
+     "¿Me das el informe, por favor?",
+     "¿Sería tan amable de entregarme el informe?"
+    ],
+    [
+     "No puedo ir.",
+     "Lo siento, no puedo ir.",
+     "Lamento comunicarle que no podré asistir."
+    ],
+    [
+     "Tienes que firmar aquí.",
+     "Tienes que firmar aquí, por favor.",
+     "Le ruego que firme aquí."
+    ],
+    [
+     "Eso está mal.",
+     "Creo que eso no es del todo correcto.",
+     "Me permito señalar que esa afirmación es discutible."
+    ],
+    [
+     "Quiero una reunión.",
+     "Me gustaría reunirme.",
+     "Quisiera solicitar una reunión."
+    ],
+    [
+     "No estoy de acuerdo.",
+     "Entiendo, pero no estoy del todo de acuerdo.",
+     "Respetando su opinión, discrepo."
+    ],
+    [
+     "Estoy enfadado.",
+     "Estoy un poco molesto.",
+     "Expreso mi disconformidad."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>De condicional en de imperfecto</b> maken verzoeken zachter: <i>Querría pedirle ...  ¿Podría usted ...?  Me preguntaba si ...</i>",
+    "<b>Formules:</b> <i>Le agradecería que + imperf. de subj., Le ruego que + pres. de subj., Me permito + inf., Tengo el placer de + inf.</i>",
+    "<b>Verzachters:</b> <i>un poco, algo, quizá, tal vez, a lo mejor, ¿no cree?</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Spreektaal in Spanje: wat je moet herkennen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Woord / uitdrukking",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "tío / tía",
+     "gast / meid, maat",
+     "Oye, tío, ¿vienes?"
+    ],
+    [
+     "guay / mola",
+     "gaaf / is gaaf",
+     "¡Qué guay! Me mola."
+    ],
+    [
+     "currar / el curro",
+     "werken / baan",
+     "Mañana curro."
+    ],
+    [
+     "la pasta / la pela",
+     "geld",
+     "No tengo pasta."
+    ],
+    [
+     "flipar",
+     "versteld staan",
+     "Flipé con el concierto."
+    ],
+    [
+     "chaval / chavala",
+     "jongen, meisje, jongere",
+     "Es un buen chaval."
+    ],
+    [
+     "vale",
+     "oké",
+     "Vale, quedamos."
+    ],
+    [
+     "pasar de",
+     "geen zin hebben in, lak hebben aan",
+     "Paso de ir."
+    ],
+    [
+     "quedar",
+     "afspreken",
+     "Quedamos a las ocho."
+    ],
+    [
+     "estar hecho polvo",
+     "doodmoe zijn",
+     "Estoy hecho polvo."
+    ],
+    [
+     "ni de coña",
+     "echt niet (informeel)",
+     "¡Ni de coña!"
+    ],
+    [
+     "menudo + zelfst. nw.",
+     "wat een ...",
+     "¡Menudo lío!"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Herkennen, niet overdrijven",
+   "text": "Woorden uit de spreektaal zijn onmisbaar om Spanjaarden te <b>begrijpen</b>. Gebruik op examens, in formele e-mails en in academische teksten het neutrale of formele alternatief. Onder vrienden in Spanje horen <b>tío</b> en <b>vale</b> bij de gewone spreektaal."
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Estimado señor, te escribo para ...",
+     "Estimado señor: Le escribo para ...",
+     "overal usted."
+    ],
+    [
+     "El autor dice que es guay.",
+     "El autor sostiene que es notable.",
+     "vermijd straattaal in een academische tekst."
+    ],
+    [
+     "Los datos demuestran que podría ser.",
+     "Los datos sugieren que podría ser.",
+     "combineer geen sterk werkwoord met een voorzichtige formulering."
+    ],
+    [
+     "El autor niega que es posible.",
+     "El autor niega que sea posible.",
+     "negar que + subjuntivo."
+    ],
+    [
+     "Según García dice, ...",
+     "Según García, ...",
+     "según + naam, geen werkwoord."
+    ],
+    [
+     "Pienso que es un error, pero no sé.",
+     "Considero que podría ser un error.",
+     "eerst voorzichtig, dan een formeel werkwoord."
+    ],
+    [
+     "Dame el informe ya.",
+     "¿Podría entregarme el informe?",
+     "te direct voor een formele tekst."
+    ],
+    [
+     "Es muy muy importante.",
+     "Resulta fundamental.",
+     "vermijd herhaling in een formele tekst."
+    ],
+    [
+     "Y entonces vale, o sea, que sí.",
+     "En consecuencia, se acepta.",
+     "geen stopwoorden in geschreven taal."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende formele woord in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ García (2020), el mercado cambia.",
+     "hint": "volgens",
+     "a": "Según",
+     "full": "Según García (2020), el mercado cambia."
+    },
+    {
+     "q": "Como ______ el informe, la tasa baja.",
+     "hint": "señalar: él, presente",
+     "a": "señala",
+     "full": "Como señala el informe, la tasa baja."
+    },
+    {
+     "q": "El autor niega que ______ posible.",
+     "hint": "ser: subjuntivo",
+     "a": "sea",
+     "full": "El autor niega que sea posible."
+    },
+    {
+     "q": "El precio ______ a subir en invierno.",
+     "hint": "heeft de neiging om",
+     "a": "tiende",
+     "full": "El precio tiende a subir en invierno."
+    },
+    {
+     "q": "En cierta ______, tiene razón.",
+     "hint": "in zekere mate",
+     "a": "medida",
+     "full": "En cierta medida, tiene razón."
+    },
+    {
+     "q": "Le ______ que firme aquí.",
+     "hint": "rogar: yo, presente",
+     "a": "ruego",
+     "full": "Le ruego que firme aquí."
+    },
+    {
+     "q": "Le ______ que me enviara la factura.",
+     "hint": "agradecer: condicional",
+     "a": "agradecería",
+     "full": "Le agradecería que me enviara la factura."
+    },
+    {
+     "q": "Se ______ que llega mañana.",
+     "hint": "suponer: presente",
+     "a": "supone",
+     "full": "Se supone que llega mañana."
+    },
+    {
+     "q": "Los datos ______ que el consumo crece.",
+     "hint": "indicar: presente, meervoud",
+     "a": "indican",
+     "full": "Los datos indican que el consumo crece."
+    },
+    {
+     "q": "Quisiera ______ una reunión.",
+     "hint": "aanvragen (formeel)",
+     "a": "solicitar",
+     "full": "Quisiera solicitar una reunión."
+    },
+    {
+     "q": "______ ser un error.",
+     "hint": "poder: zou kunnen: condicional, onpersoonlijk",
+     "a": "Podría",
+     "full": "Podría ser un error."
+    },
+    {
+     "q": "Hasta cierto ______, es verdad.",
+     "hint": "hoogte, mate",
+     "a": "punto",
+     "full": "Hasta cierto punto, es verdad."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Volgens het rapport stijgen de prijzen meestal.",
+     "a": "Según el informe, los precios tienden a subir."
+    },
+    {
+     "q": "Ik zou het op prijs stellen als u mij de factuur zou kunnen sturen.",
+     "a": "Le agradecería que me enviara la factura."
+    },
+    {
+     "q": "In zekere mate is het waar.",
+     "a": "En cierta medida, es cierto."
+    },
+    {
+     "q": "De gegevens wijzen erop dat het een vergissing zou kunnen zijn.",
+     "a": "Los datos sugieren que podría tratarse de un error."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

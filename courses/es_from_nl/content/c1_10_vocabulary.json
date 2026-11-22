@@ -1,0 +1,798 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Woordenschat",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "abstracte zelfstandige naamwoorden, academische werkwoorden, vaste combinaties, uitdrukkingen voor discussies en valse vrienden",
+  "footer": "Language Learning · C1 · Woordenschat · Abstract en academisch",
+  "next": "Volgende: C2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "abstracte en academische woorden gebruiken in discussies en teksten",
+    "werkwoorden en zelfstandige naamwoorden combineren tot natuurlijke vaste combinaties",
+    "vaste uitdrukkingen gebruiken voor mening, redenering en oordeel",
+    "veelvoorkomende valse vrienden en verwarrende paren vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Abstracte zelfstandige naamwoorden"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Samenleving en politiek",
+   "items": [
+    [
+     "la desigualdad",
+     "ongelijkheid"
+    ],
+    [
+     "la ciudadanía",
+     "burgerschap, de burgers"
+    ],
+    [
+     "el desarrollo",
+     "ontwikkeling"
+    ],
+    [
+     "la sostenibilidad",
+     "duurzaamheid"
+    ],
+    [
+     "el desempleo",
+     "werkloosheid"
+    ],
+    [
+     "la brecha",
+     "kloof"
+    ],
+    [
+     "el compromiso",
+     "inzet, verplichting"
+    ],
+    [
+     "la gobernanza",
+     "bestuur"
+    ],
+    [
+     "el bienestar",
+     "welzijn"
+    ],
+    [
+     "la convivencia",
+     "samenleven"
+    ],
+    [
+     "el rechazo",
+     "afwijzing"
+    ],
+    [
+     "la reforma",
+     "hervorming"
+    ],
+    [
+     "el impuesto",
+     "belasting"
+    ],
+    [
+     "la ley",
+     "wet"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Denken en redeneren",
+   "items": [
+    [
+     "la hipótesis",
+     "hypothese"
+    ],
+    [
+     "el argumento",
+     "argument"
+    ],
+    [
+     "la premisa",
+     "uitgangspunt"
+    ],
+    [
+     "la conclusión",
+     "conclusie"
+    ],
+    [
+     "el enfoque",
+     "benadering"
+    ],
+    [
+     "la postura",
+     "standpunt"
+    ],
+    [
+     "el matiz",
+     "nuance"
+    ],
+    [
+     "la tendencia",
+     "trend, tendens"
+    ],
+    [
+     "el criterio",
+     "criterium"
+    ],
+    [
+     "la prueba",
+     "bewijs, test"
+    ],
+    [
+     "el alcance",
+     "reikwijdte"
+    ],
+    [
+     "el supuesto",
+     "aanname"
+    ],
+    [
+     "el planteamiento",
+     "benadering, formulering"
+    ],
+    [
+     "el balance",
+     "balans, evaluatie"
+    ],
+    [
+     "el rasgo",
+     "kenmerk, trek"
+    ],
+    [
+     "la paradoja",
+     "paradox"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Economie en werk",
+   "items": [
+    [
+     "la plantilla",
+     "personeel"
+    ],
+    [
+     "el beneficio",
+     "winst, voordeel"
+    ],
+    [
+     "la inversión",
+     "investering"
+    ],
+    [
+     "el ahorro",
+     "besparing"
+    ],
+    [
+     "la deuda",
+     "schuld"
+    ],
+    [
+     "la rentabilidad",
+     "winstgevendheid"
+    ],
+    [
+     "la jornada",
+     "werkdag"
+    ],
+    [
+     "el convenio",
+     "overeenkomst"
+    ],
+    [
+     "la huelga",
+     "staking"
+    ],
+    [
+     "la quiebra",
+     "faillissement"
+    ],
+    [
+     "el gasto",
+     "uitgave"
+    ],
+    [
+     "los ingresos",
+     "inkomen"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "2. Abstracte en academische werkwoorden"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor analyse",
+   "items": [
+    [
+     "abordar",
+     "aanpakken, behandelen"
+    ],
+    [
+     "plantear",
+     "aan de orde stellen"
+    ],
+    [
+     "suponer",
+     "aannemen, inhouden"
+    ],
+    [
+     "destacar",
+     "benadrukken"
+    ],
+    [
+     "cuestionar",
+     "in twijfel trekken"
+    ],
+    [
+     "justificar",
+     "rechtvaardigen"
+    ],
+    [
+     "refutar",
+     "weerleggen"
+    ],
+    [
+     "demostrar",
+     "bewijzen"
+    ],
+    [
+     "matizar",
+     "nuanceren"
+    ],
+    [
+     "sostener",
+     "staande houden, volhouden"
+    ],
+    [
+     "revelar",
+     "onthullen"
+    ],
+    [
+     "desprenderse",
+     "volgen (uit)"
+    ],
+    [
+     "avalar",
+     "onderschrijven"
+    ],
+    [
+     "rebatir",
+     "weerspreken"
+    ],
+    [
+     "constatar",
+     "vaststellen, constateren"
+    ],
+    [
+     "reivindicar",
+     "eisen, opeisen"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor verandering en gevolg",
+   "items": [
+    [
+     "agravar",
+     "verergeren"
+    ],
+    [
+     "mitigar",
+     "verzachten"
+    ],
+    [
+     "desencadenar",
+     "uitlokken, veroorzaken"
+    ],
+    [
+     "fomentar",
+     "bevorderen"
+    ],
+    [
+     "frenar",
+     "afremmen"
+    ],
+    [
+     "impulsar",
+     "vooruithelpen"
+    ],
+    [
+     "repercutir",
+     "treffen, raken"
+    ],
+    [
+     "acarrear",
+     "teweegbrengen"
+    ],
+    [
+     "paliar",
+     "verlichten"
+    ],
+    [
+     "erradicar",
+     "uitroeien"
+    ],
+    [
+     "potenciar",
+     "stimuleren"
+    ],
+    [
+     "debilitar",
+     "verzwakken"
+    ],
+    [
+     "engendrar",
+     "voortbrengen"
+    ],
+    [
+     "menoscabar",
+     "ondermijnen"
+    ],
+    [
+     "agudizar",
+     "verscherpen"
+    ],
+    [
+     "atenuar",
+     "verminderen"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Vaste combinaties"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.8,
+    6.0,
+    6.2
+   ],
+   "head": [
+    "Werkwoord + zelfst. nw.",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "adoptar una medida",
+     "een maatregel nemen",
+     "El gobierno adoptó medidas urgentes."
+    ],
+    [
+     "alcanzar un acuerdo",
+     "een akkoord bereiken",
+     "Alcanzaron un acuerdo tras horas."
+    ],
+    [
+     "asumir un riesgo",
+     "een risico nemen",
+     "Asumió el riesgo sin dudar."
+    ],
+    [
+     "cumplir un requisito",
+     "aan een eis voldoen",
+     "No cumple los requisitos."
+    ],
+    [
+     "dar lugar a",
+     "leiden tot",
+     "Esto dio lugar a un conflicto."
+    ],
+    [
+     "hacer frente a",
+     "het hoofd bieden aan",
+     "Hay que hacer frente a la crisis."
+    ],
+    [
+     "llevar a cabo",
+     "uitvoeren",
+     "Se llevó a cabo un estudio."
+    ],
+    [
+     "poner de manifiesto",
+     "duidelijk maken, aan het licht brengen",
+     "El informe pone de manifiesto un problema."
+    ],
+    [
+     "tener en cuenta",
+     "rekening houden met",
+     "Hay que tener en cuenta los costes."
+    ],
+    [
+     "tomar una decisión",
+     "een besluit nemen",
+     "Tomamos la decisión ayer."
+    ],
+    [
+     "sacar conclusiones",
+     "conclusies trekken",
+     "Saquemos conclusiones."
+    ],
+    [
+     "rendir cuentas",
+     "verantwoording afleggen",
+     "Deben rendir cuentas."
+    ],
+    [
+     "ejercer presión",
+     "druk uitoefenen",
+     "Ejercieron presión sobre el alcalde."
+    ],
+    [
+     "cobrar importancia",
+     "aan belang winnen",
+     "El tema ha cobrado importancia."
+    ],
+    [
+     "plantear un problema",
+     "een probleem opwerpen",
+     "Plantea un problema ético."
+    ],
+    [
+     "emitir un juicio",
+     "een oordeel vellen",
+     "No quiero emitir un juicio."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Vaste uitdrukkingen voor discussies"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    4.8,
+    6.0
+   ],
+   "head": [
+    "Uitdrukking",
+    "Gebruik",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "a mi modo de ver",
+     "mening",
+     "A mi modo de ver, es un error."
+    ],
+    [
+     "en cuanto a",
+     "onderwerp",
+     "En cuanto a los costes, son altos."
+    ],
+    [
+     "cabe destacar que",
+     "nadruk",
+     "Cabe destacar que no hubo heridos."
+    ],
+    [
+     "no cabe duda de que",
+     "zekerheid",
+     "No cabe duda de que es útil."
+    ],
+    [
+     "a pesar de que",
+     "toegeving",
+     "A pesar de que llovía, salimos."
+    ],
+    [
+     "si bien",
+     "toegeving",
+     "Si bien es caro, vale la pena."
+    ],
+    [
+     "por un lado... por otro",
+     "tegenstelling",
+     "Por un lado gano, por otro pierdo."
+    ],
+    [
+     "en definitiva",
+     "samenvatting",
+     "En definitiva, hay que esperar."
+    ],
+    [
+     "de ahí que + subj.",
+     "gevolg",
+     "De ahí que sea tan popular."
+    ],
+    [
+     "a tenor de",
+     "te oordelen naar",
+     "A tenor de los datos, mejora."
+    ],
+    [
+     "en aras de",
+     "omwille van",
+     "En aras de la paz, cedió."
+    ],
+    [
+     "al hilo de",
+     "in aansluiting op",
+     "Al hilo de lo dicho, añado esto."
+    ],
+    [
+     "tener por objeto",
+     "tot doel hebben",
+     "La ley tiene por objeto proteger."
+    ],
+    [
+     "a raíz de",
+     "naar aanleiding van, als gevolg van",
+     "A raíz de la crisis, cerraron."
+    ],
+    [
+     "cuestión de",
+     "een kwestie van",
+     "Es cuestión de tiempo."
+    ],
+    [
+     "lo cierto es que",
+     "feit is dat",
+     "Lo cierto es que nadie sabe."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Verwarrende paren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.2,
+    4.3,
+    4.3
+   ],
+   "head": [
+    "Woord 1",
+    "Woord 2",
+    "Verschil",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "actual (huidig)",
+     "real (echt, werkelijk)",
+     "actual = huidig, zoals het Nederlandse actueel",
+     "la situación actual"
+    ],
+    [
+     "eventualmente (eventueel, mogelijk)",
+     "finalmente (uiteindelijk)",
+     "eventual = mogelijk, tijdelijk",
+     "un trabajo eventual"
+    ],
+    [
+     "asistir (bijwonen)",
+     "ayudar (helpen)",
+     "asistir a = bijwonen, niet assisteren",
+     "Asistí a la clase."
+    ],
+    [
+     "realizar (uitvoeren)",
+     "darse cuenta (beseffen)",
+     "realizar is niet 'beseffen'",
+     "Me di cuenta."
+    ],
+    [
+     "sensible (gevoelig)",
+     "sensato (verstandig)",
+     "verschillende betekenissen",
+     "una persona sensata"
+    ],
+    [
+     "pretender (willen, beogen)",
+     "fingir (doen alsof)",
+     "pretender = proberen, de bedoeling hebben",
+     "Pretende ganar."
+    ],
+    [
+     "constipado (verkouden)",
+     "estreñido (geconstipeerd, verstopt)",
+     "bekende valse vriend",
+     "Estoy constipado."
+    ],
+    [
+     "molestar (storen)",
+     "molestarse (beledigd zijn; moeite doen)",
+     "met se verandert de betekenis",
+     "No te molestes."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Realicé que estaba equivocado.",
+     "Me di cuenta de que estaba equivocado.",
+     "realizar = uitvoeren."
+    ],
+    [
+     "Asistí a mi amigo.",
+     "Ayudé a mi amigo.",
+     "asistir a = bijwonen."
+    ],
+    [
+     "Estoy constipado (no puedo ir al baño).",
+     "Estoy estreñido.",
+     "constipado = verkouden."
+    ],
+    [
+     "Es una persona muy sensible, piensa bien.",
+     "Es una persona muy sensata.",
+     "sensible = gevoelig."
+    ],
+    [
+     "La situación real es difícil. (current)",
+     "La situación actual es difícil.",
+     "actual = huidig."
+    ],
+    [
+     "Pretendo estar enfermo. (I pretend)",
+     "Finjo estar enfermo.",
+     "pretender = beogen, willen."
+    ],
+    [
+     "Hacemos una decisión.",
+     "Tomamos una decisión.",
+     "besluit: tomar."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Hay que ______ en cuenta los costes.",
+     "hint": "tener: infinitief",
+     "a": "tener",
+     "full": "Hay que tener en cuenta los costes."
+    },
+    {
+     "q": "El gobierno ______ medidas urgentes.",
+     "hint": "adoptar: indefinido, él",
+     "a": "adoptó",
+     "full": "El gobierno adoptó medidas urgentes."
+    },
+    {
+     "q": "Este informe pone de ______ un problema.",
+     "hint": "zichtbaar",
+     "a": "manifiesto",
+     "full": "Este informe pone de manifiesto un problema."
+    },
+    {
+     "q": "Las empresas deben ______ cuentas.",
+     "hint": "verantwoording afleggen",
+     "a": "rendir",
+     "full": "Las empresas deben rendir cuentas."
+    },
+    {
+     "q": "No ______ duda de que es útil.",
+     "hint": "caber: presente, él",
+     "a": "cabe",
+     "full": "No cabe duda de que es útil."
+    },
+    {
+     "q": "______ que llovía, salimos.",
+     "hint": "hoewel",
+     "a": "A pesar de",
+     "full": "A pesar de que llovía, salimos."
+    },
+    {
+     "q": "Me ______ cuenta de que estaba equivocado.",
+     "hint": "dar: indefinido, yo",
+     "a": "di",
+     "full": "Me di cuenta de que estaba equivocado."
+    },
+    {
+     "q": "Esto ______ lugar a un conflicto.",
+     "hint": "dar: indefinido, él",
+     "a": "dio",
+     "full": "Esto dio lugar a un conflicto."
+    },
+    {
+     "q": "Hay que ______ frente a la crisis.",
+     "hint": "het hoofd bieden",
+     "a": "hacer",
+     "full": "Hay que hacer frente a la crisis."
+    },
+    {
+     "q": "______ que sea tan popular.",
+     "hint": "vandaar",
+     "a": "De ahí",
+     "full": "De ahí que sea tan popular."
+    },
+    {
+     "q": "Se ______ a cabo un estudio.",
+     "hint": "llevar: indefinido, se",
+     "a": "llevó",
+     "full": "Se llevó a cabo un estudio."
+    },
+    {
+     "q": "Esa medida podría ______ el desempleo.",
+     "hint": "verminderen",
+     "a": "paliar",
+     "full": "Esa medida podría paliar el desempleo."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Het rapport brengt een ernstig probleem aan het licht.",
+     "a": "El informe pone de manifiesto un problema grave."
+    },
+    {
+     "q": "We moeten rekening houden met de kosten.",
+     "a": "Tenemos que tener en cuenta los costes."
+    },
+    {
+     "q": "Ik besefte dat ik me vergist had.",
+     "a": "Me di cuenta de que estaba equivocado."
+    },
+    {
+     "q": "Hoewel het duur is, is het de moeite waard.",
+     "a": "Si bien es caro, vale la pena."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

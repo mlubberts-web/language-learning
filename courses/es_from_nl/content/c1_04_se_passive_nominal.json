@@ -1,0 +1,568 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "se, de lijdende vorm en nominalisering",
+  "subtitle": "de functies van se, de lijdende vorm met se tegenover onpersoonlijk se, de formele lijdende vorm, nominalisering en vaste combinaties met een licht werkwoord",
+  "footer": "Language Learning · C1 · Grammatica · se, lijdende vorm, nominalisering",
+  "next": "Volgende: C1 · pdf 5 — Betrekkelijke bijzinnen en vergelijkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de belangrijkste functies van se herkennen en gebruiken",
+    "kiezen tussen de lijdende vorm met ser, de lijdende vorm met se en onpersoonlijk se (en de overeenkomst)",
+    "nominaliseren: werkwoorden omzetten in zelfstandige naamwoorden voor een formeel register",
+    "vaste combinaties met een licht werkwoord gebruiken (llevar a cabo, dar lugar a, hacer hincapié en)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De functies van se"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.4,
+    6.4
+   ],
+   "head": [
+    "Functie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Wederkerend",
+     "Juan se lava.",
+     "Juan wast zich."
+    ],
+    [
+     "Wederkerig",
+     "Se abrazaron.",
+     "Ze omhelsden elkaar."
+    ],
+    [
+     "Werkwoord met vast se",
+     "Se arrepiente. Se queja.",
+     "Hij heeft spijt. Hij klaagt."
+    ],
+    [
+     "Lijdende vorm met se",
+     "Se venden pisos.",
+     "Er worden appartementen verkocht."
+    ],
+    [
+     "Onpersoonlijk",
+     "Se vive bien aquí.",
+     "Men leeft hier goed."
+    ],
+    [
+     "Per ongeluk",
+     "Se me cayó el vaso.",
+     "Ik heb het glas laten vallen."
+    ],
+    [
+     "Vervangt le / les",
+     "Se lo di.",
+     "Ik heb het hem gegeven."
+    ],
+    [
+     "Versterkend",
+     "Se comió todo. Se leyó el libro.",
+     "Hij heeft alles opgegeten. Hij heeft het hele boek uitgelezen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Lijdende vorm met se tegenover onpersoonlijk se"
+  },
+  {
+   "type": "p",
+   "text": "Als een <b>ding</b> het echte onderwerp is, past het werkwoord zich daaraan aan. Is een <b>persoon het lijdend voorwerp</b>, dan verschijnt de persoonlijke <b>a</b> en blijft het werkwoord <b>enkelvoud</b> (onpersoonlijk)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Lijdende vorm met se (past zich aan)",
+    "Onpersoonlijk se + a (enkelvoud)",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "Se buscan secretarios.",
+     "Se busca a los secretarios.",
+     "onbepaald of bepaald"
+    ],
+    [
+     "Se ven casas desde aquí.",
+     "Se ve a los niños jugar.",
+     "ding of persoon"
+    ],
+    [
+     "Se necesitan voluntarios.",
+     "Se necesita a Pedro.",
+     "onbepaald of een bepaalde persoon"
+    ],
+    [
+     "Se oyen ruidos.",
+     "Se oye a los vecinos.",
+     "ding of persoon"
+    ],
+    [
+     "Se venden coches.",
+     "Se detuvo a los sospechosos.",
+     "ding of persoon"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Se + infinitief of bijzin</b>: <i>Se prohíbe fumar. Se dice que va a llover. Se cree que ha muerto.</i> (altijd enkelvoud)",
+    "<b>Se + werkwoord + que</b> voor verslagen: <i>Se espera que ... / Se calcula que ... / Se estima que ... / Se prevé que ...</i>",
+    "<b>Constructie met uno</b>: <i>Uno nunca sabe.</i> <i>Una no puede hacerlo todo.</i>"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Vermijd dubbelzinnigheid",
+   "text": "<b>Se lava a los niños</b> kan wederkerend of onpersoonlijk gelezen worden. Schrijf <i>Los niños se lavan</i> (ze wassen zich) of <i>Se lava a los niños</i> (iemand wast de kinderen). Gebruik zo nodig de lijdende vorm met ser voor de duidelijkheid."
+  },
+  {
+   "type": "h1",
+   "text": "3. De lijdende vorm in formeel schrijven"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "ser + deelwoord + por",
+     "La ley fue aprobada por el Congreso.",
+     "De wet werd door het parlement aangenomen."
+    ],
+    [
+     "se + werkwoord (zonder handelende persoon)",
+     "Se aprobó la ley.",
+     "De wet werd aangenomen."
+    ],
+    [
+     "estar + deelwoord (resultaat)",
+     "La ley está aprobada.",
+     "De wet is aangenomen."
+    ],
+    [
+     "quedar + deelwoord",
+     "Quedó aprobada la ley.",
+     "De wet werd definitief aangenomen."
+    ],
+    [
+     "resultar + deelwoord",
+     "Resultaron heridas tres personas.",
+     "Er raakten drie mensen gewond."
+    ],
+    [
+     "verse + deelwoord",
+     "Se vio obligado a dimitir.",
+     "Hij zag zich gedwongen af te treden."
+    ],
+    [
+     "llevarse a cabo (se)",
+     "Se llevó a cabo la reunión.",
+     "De vergadering vond plaats."
+    ],
+    [
+     "es de + inf.",
+     "Es de esperar que mejore.",
+     "Het is te verwachten dat het beter wordt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Met of zonder handelende persoon?",
+   "text": "Noem je wie het doet, gebruik dan <b>ser + deelwoord + por</b>. Is dat onbekend of onbelangrijk, gebruik dan <b>se</b>. Allebei vermijden ze 'iemand'."
+  },
+  {
+   "type": "h1",
+   "text": "4. Nominalisering"
+  },
+  {
+   "type": "p",
+   "text": "Formeel schrijven heeft liever <b>zelfstandige naamwoorden</b> dan bijzinnen met een werkwoord. Zet werkwoorden om in zelfstandige naamwoorden om zinnen compact en onpersoonlijk te maken."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.4,
+    4.2
+   ],
+   "head": [
+    "Bijzin met werkwoord (spreektaal)",
+    "Zelfstandig naamwoord (schrijftaal)",
+    "Achtervoegsel"
+   ],
+   "rows": [
+    [
+     "Cuando se aprobó la ley, ...",
+     "Tras la aprobación de la ley, ...",
+     "-ción"
+    ],
+    [
+     "Porque subieron los precios, ...",
+     "Debido a la subida de los precios, ...",
+     "-ida"
+    ],
+    [
+     "Si se aplica esta medida, ...",
+     "De aplicarse esta medida / Con la aplicación de ...",
+     "-ción"
+    ],
+    [
+     "Al crecer la economía, ...",
+     "Con el crecimiento de la economía, ...",
+     "-miento"
+    ],
+    [
+     "Aunque aumenten las ventas, ...",
+     "A pesar del aumento de las ventas, ...",
+     "-o"
+    ],
+    [
+     "Después de que se firmó el acuerdo, ...",
+     "Tras la firma del acuerdo, ...",
+     "-a"
+    ],
+    [
+     "Para que mejore la situación, ...",
+     "Para la mejora de la situación, ...",
+     "-a"
+    ],
+    [
+     "Que se pueda ahorrar es importante.",
+     "El ahorro es importante. / La posibilidad de ahorrar ...",
+     "-o"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Handige kaders:</b> <i>el hecho de que, la posibilidad de que, la necesidad de, la existencia de, la ausencia de, la falta de, la tendencia a, la capacidad de</i>.",
+    "<b>Te veel zelfstandige naamwoorden</b> kunnen zwaar klinken. Wissel in je eigen teksten nominale en werkwoordelijke stijl af."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Vaste combinaties met een licht werkwoord"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoord + zelfstandig naamwoord",
+   "items": [
+    [
+     "llevar a cabo",
+     "uitvoeren"
+    ],
+    [
+     "tener lugar",
+     "plaatsvinden"
+    ],
+    [
+     "dar lugar a",
+     "leiden tot"
+    ],
+    [
+     "hacer hincapié en",
+     "benadrukken"
+    ],
+    [
+     "poner en marcha",
+     "lanceren, op gang brengen"
+    ],
+    [
+     "hacer frente a",
+     "het hoofd bieden aan"
+    ],
+    [
+     "tomar una decisión",
+     "een besluit nemen"
+    ],
+    [
+     "prestar atención",
+     "aandacht schenken"
+    ],
+    [
+     "hacer uso de",
+     "gebruikmaken van"
+    ],
+    [
+     "tener en cuenta",
+     "rekening houden met"
+    ],
+    [
+     "poner de manifiesto",
+     "aan het licht brengen, laten zien"
+    ],
+    [
+     "sacar conclusiones",
+     "conclusies trekken"
+    ],
+    [
+     "llegar a un acuerdo",
+     "een akkoord bereiken"
+    ],
+    [
+     "ejercer influencia",
+     "invloed uitoefenen"
+    ],
+    [
+     "plantear un problema",
+     "een probleem aankaarten"
+    ],
+    [
+     "realizar un estudio",
+     "een onderzoek uitvoeren"
+    ],
+    [
+     "formular una pregunta",
+     "een vraag stellen"
+    ],
+    [
+     "emitir un juicio",
+     "een oordeel vellen"
+    ],
+    [
+     "asumir un riesgo",
+     "een risico nemen"
+    ],
+    [
+     "dar un paso",
+     "een stap zetten"
+    ],
+    [
+     "cumplir un requisito",
+     "aan een eis voldoen"
+    ],
+    [
+     "alcanzar un objetivo",
+     "een doel bereiken"
+    ],
+    [
+     "contraer una deuda",
+     "een schuld aangaan"
+    ],
+    [
+     "hacer balance",
+     "de balans opmaken"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Se vende pisos.",
+     "Se venden pisos.",
+     "ding in het meervoud: werkwoord in het meervoud."
+    ],
+    [
+     "Se buscan a los secretarios.",
+     "Se busca a los secretarios.",
+     "persoonlijke a: enkelvoud."
+    ],
+    [
+     "Se habla muchas lenguas.",
+     "Se hablan muchas lenguas.",
+     "ding in het meervoud: werkwoord in het meervoud."
+    ],
+    [
+     "Fue construido por se los romanos.",
+     "Fue construido por los romanos.",
+     "ser + por, nooit se + por."
+    ],
+    [
+     "La reunión fue llevada a cabo.",
+     "La reunión se llevó a cabo.",
+     "natuurlijk met se."
+    ],
+    [
+     "Hacer un decisión.",
+     "Tomar una decisión.",
+     "vaste combinatie: tomar, vrouwelijk."
+    ],
+    [
+     "Poner atención a.",
+     "Prestar atención a.",
+     "vaste combinatie: prestar."
+    ],
+    [
+     "Dar hincapié.",
+     "Hacer hincapié.",
+     "vaste combinatie: hacer."
+    ],
+    [
+     "Le lo di.",
+     "Se lo di.",
+     "le + lo wordt se lo."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Se ______ pisos en el centro.",
+     "hint": "vender: presente",
+     "a": "venden",
+     "full": "Se venden pisos en el centro."
+    },
+    {
+     "q": "Se ______ a los sospechosos.",
+     "hint": "detener: indefinido, onpersoonlijk",
+     "a": "detuvo",
+     "full": "Se detuvo a los sospechosos."
+    },
+    {
+     "q": "La ley fue aprobada ______ el Congreso.",
+     "hint": "handelende persoon",
+     "a": "por",
+     "full": "La ley fue aprobada por el Congreso."
+    },
+    {
+     "q": "Se ______ que va a llover.",
+     "hint": "decir: presente",
+     "a": "dice",
+     "full": "Se dice que va a llover."
+    },
+    {
+     "q": "Tras la ______ de la ley, subieron los precios.",
+     "hint": "aprobar: zelfst. nw.",
+     "a": "aprobación",
+     "full": "Tras la aprobación de la ley, subieron los precios."
+    },
+    {
+     "q": "Debido a la ______ de los precios, bajó el consumo.",
+     "hint": "subir: zelfst. nw.",
+     "a": "subida",
+     "full": "Debido a la subida de los precios, bajó el consumo."
+    },
+    {
+     "q": "El congreso ______ lugar en Madrid.",
+     "hint": "tener: indefinido, él",
+     "a": "tuvo",
+     "full": "El congreso tuvo lugar en Madrid."
+    },
+    {
+     "q": "Hay que ______ en cuenta los costes.",
+     "hint": "tener: infinitief",
+     "a": "tener",
+     "full": "Hay que tener en cuenta los costes."
+    },
+    {
+     "q": "Se ______ a cabo la reunión.",
+     "hint": "llevar: indefinido",
+     "a": "llevó",
+     "full": "Se llevó a cabo la reunión."
+    },
+    {
+     "q": "La ministra hizo ______ en la igualdad.",
+     "hint": "nadruk",
+     "a": "hincapié",
+     "full": "La ministra hizo hincapié en la igualdad."
+    },
+    {
+     "q": "Se ______ comido todo.",
+     "hint": "versterkend se + werkwoord, él, perfecto",
+     "a": "ha",
+     "full": "Se ha comido todo."
+    },
+    {
+     "q": "Resultaron ______ tres personas.",
+     "hint": "herir: deelwoord, vrouwelijk meervoud",
+     "a": "heridas",
+     "full": "Resultaron heridas tres personas."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Appartementen te koop.",
+     "a": "Se venden pisos."
+    },
+    {
+     "q": "De vergadering vond maandag plaats.",
+     "a": "La reunión tuvo lugar el lunes."
+    },
+    {
+     "q": "We moeten rekening houden met de risico's.",
+     "a": "Hay que tener en cuenta los riesgos."
+    },
+    {
+     "q": "Men schat dat de prijzen zullen stijgen.",
+     "a": "Se estima que los precios subirán."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

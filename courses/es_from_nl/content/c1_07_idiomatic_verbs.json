@@ -1,0 +1,635 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Idiomatische werkwoorden en vaste uitdrukkingen",
+  "subtitle": "wederkerende werkwoorden die van betekenis veranderen en vaste uitdrukkingen met dar, echar, tirar, meter, poner, hacer, tomar, sacar, tener, llevar, ir, pasar, dejar",
+  "footer": "Language Learning · C1 · Grammatica · Idiomatische werkwoorden",
+  "next": "Volgende: C1 · pdf 8 — Spelling, accenten en leestekens"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "herkennen hoe een vorm met se de betekenis van een werkwoord verandert",
+    "vaste uitdrukkingen gebruiken met dar, echar, tirar, meter, poner, hacer, tomar, sacar",
+    "uitdrukkingen gebruiken die werken als een werkwoord met een vast voorzetsel (dar con, dar por, echar de menos, tener que ver con)",
+    "letterlijke vertalingen uit het Nederlands en het Engels vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Werkwoorden met en zonder se"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    3.4,
+    2.8,
+    3.8,
+    4.6
+   ],
+   "head": [
+    "Werkwoord",
+    "Betekenis",
+    "Met se",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "ir",
+     "gaan",
+     "irse",
+     "weggaan",
+     "Me voy."
+    ],
+    [
+     "dormir",
+     "slapen",
+     "dormirse",
+     "in slaap vallen",
+     "Me dormí."
+    ],
+    [
+     "llevar",
+     "dragen, brengen",
+     "llevarse",
+     "meenemen / goed overweg kunnen",
+     "Se llevó el libro."
+    ],
+    [
+     "quedar",
+     "afspreken / overblijven",
+     "quedarse",
+     "blijven",
+     "Me quedo."
+    ],
+    [
+     "poner",
+     "zetten, leggen",
+     "ponerse",
+     "aantrekken / worden",
+     "Se puso rojo."
+    ],
+    [
+     "volver",
+     "terugkomen",
+     "volverse",
+     "zich omdraaien / worden",
+     "Se volvió loco."
+    ],
+    [
+     "salir",
+     "uitgaan",
+     "salirse",
+     "van de weg raken",
+     "Se salió de la carretera."
+    ],
+    [
+     "caer",
+     "vallen",
+     "caerse",
+     "(om)vallen",
+     "Me caí."
+    ],
+    [
+     "parecer",
+     "lijken",
+     "parecerse",
+     "lijken op",
+     "Se parece a su padre."
+    ],
+    [
+     "hacer",
+     "doen, maken",
+     "hacerse",
+     "worden",
+     "Se hizo médico."
+    ],
+    [
+     "tomar",
+     "nemen",
+     "tomarse",
+     "opdrinken / opeten",
+     "Me tomé un café."
+    ],
+    [
+     "negar",
+     "ontkennen",
+     "negarse a",
+     "weigeren",
+     "Se negó a ir."
+    ],
+    [
+     "sentir",
+     "voelen",
+     "sentirse",
+     "zich voelen",
+     "Me siento mal."
+    ],
+    [
+     "morir",
+     "sterven",
+     "morirse",
+     "doodgaan (van)",
+     "Me muero de hambre."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "se = versterker",
+   "text": "Het Spaans voegt vaak <b>se</b> toe om betrokkenheid of voltooiing te laten zien: <i>Se leyó el libro</i> (hij heeft het hele boek uitgelezen), <i>Me bebí el café</i> (ik heb de koffie opgedronken). Het Nederlands zegt <i>helemaal</i> of <i>op</i>; het Spaans voegt een voornaamwoord toe."
+  },
+  {
+   "type": "h1",
+   "text": "2. Dar, echar, tirar, meter"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    5.6,
+    6.4
+   ],
+   "head": [
+    "Uitdrukking",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "dar con",
+     "vinden, stuiten op",
+     "Di con la solución."
+    ],
+    [
+     "dar por + deelwoord",
+     "beschouwen als",
+     "Lo dieron por muerto."
+    ],
+    [
+     "darse cuenta de",
+     "beseffen",
+     "No me di cuenta."
+    ],
+    [
+     "darle por + inf.",
+     "het in zijn hoofd halen om",
+     "Le dio por cantar."
+    ],
+    [
+     "dar de sí",
+     "rekken, genoeg zijn",
+     "El dinero no da de sí."
+    ],
+    [
+     "darse prisa",
+     "opschieten",
+     "¡Date prisa!"
+    ],
+    [
+     "dar igual",
+     "niet uitmaken",
+     "Me da igual."
+    ],
+    [
+     "echar de menos",
+     "missen",
+     "Te echo de menos."
+    ],
+    [
+     "echar una mano",
+     "een handje helpen",
+     "Échame una mano."
+    ],
+    [
+     "echar a perder",
+     "verpesten",
+     "Echó a perder el plan."
+    ],
+    [
+     "echarse a + inf.",
+     "plotseling beginnen",
+     "Se echó a reír."
+    ],
+    [
+     "tirar de",
+     "trekken aan",
+     "Tira de la puerta."
+    ],
+    [
+     "tirar la toalla",
+     "het opgeven",
+     "No tires la toalla."
+    ],
+    [
+     "tirarse + tijd",
+     "tijd doorbrengen (spreektaal)",
+     "Me tiré dos horas esperando."
+    ],
+    [
+     "meterse en",
+     "zich bemoeien met",
+     "No te metas en líos."
+    ],
+    [
+     "meter la pata",
+     "een flater slaan",
+     "Metí la pata."
+    ],
+    [
+     "meterse con",
+     "pesten, lastigvallen",
+     "No te metas con él."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Poner, hacer, tomar, sacar"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    5.6,
+    6.4
+   ],
+   "head": [
+    "Uitdrukking",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "ponerse a + inf.",
+     "beginnen",
+     "Se puso a llover."
+    ],
+    [
+     "ponerse de acuerdo",
+     "het eens worden",
+     "Nos pusimos de acuerdo."
+    ],
+    [
+     "poner en marcha",
+     "op gang brengen",
+     "Pusieron en marcha el plan."
+    ],
+    [
+     "poner de relieve",
+     "benadrukken",
+     "El informe pone de relieve ..."
+    ],
+    [
+     "ponerse al día",
+     "bijblijven, bijwerken",
+     "Tengo que ponerme al día."
+    ],
+    [
+     "hacer falta",
+     "nodig zijn",
+     "Hace falta tiempo."
+    ],
+    [
+     "hacer caso (a)",
+     "luisteren naar",
+     "No me hace caso."
+    ],
+    [
+     "hacerse cargo de",
+     "de verantwoordelijkheid nemen voor; begrijpen",
+     "Me hago cargo."
+    ],
+    [
+     "hacer(se) el tonto",
+     "zich van den domme houden",
+     "No te hagas el tonto."
+    ],
+    [
+     "tomar el pelo",
+     "iemand in de maling nemen",
+     "Me estás tomando el pelo."
+    ],
+    [
+     "tomar en serio",
+     "serieus nemen",
+     "Tómalo en serio."
+    ],
+    [
+     "tomarse en serio",
+     "zichzelf serieus nemen",
+     "Se toma muy en serio."
+    ],
+    [
+     "sacar adelante",
+     "erdoorheen slepen",
+     "Sacó adelante a su familia."
+    ],
+    [
+     "sacar de quicio",
+     "gek maken",
+     "Me saca de quicio."
+    ],
+    [
+     "sacar a relucir",
+     "ter sprake brengen",
+     "Sacó a relucir el tema."
+    ],
+    [
+     "sacar provecho de",
+     "profijt trekken van",
+     "Sacó provecho del curso."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Tener, llevar, ir, pasar, dejar"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    5.6,
+    6.4
+   ],
+   "head": [
+    "Uitdrukking",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "tener que ver con",
+     "te maken hebben met",
+     "No tiene que ver conmigo."
+    ],
+    [
+     "tener en cuenta",
+     "rekening houden met",
+     "Ten en cuenta que ..."
+    ],
+    [
+     "tener ganas de",
+     "zin hebben in",
+     "Tengo ganas de salir."
+    ],
+    [
+     "tener éxito",
+     "succes hebben",
+     "El libro tuvo éxito."
+    ],
+    [
+     "llevar a cabo",
+     "uitvoeren",
+     "Se llevó a cabo."
+    ],
+    [
+     "llevarse bien con",
+     "goed overweg kunnen met",
+     "Me llevo bien con él."
+    ],
+    [
+     "llevar la contraria",
+     "tegenspreken",
+     "Siempre me lleva la contraria."
+    ],
+    [
+     "ir al grano",
+     "ter zake komen",
+     "Vayamos al grano."
+    ],
+    [
+     "irse por las ramas",
+     "van de hak op de tak springen",
+     "No te vayas por las ramas."
+    ],
+    [
+     "ir de + zelfst. nw.",
+     "zich voordoen als / verkleed gaan als",
+     "Va de listo."
+    ],
+    [
+     "pasar de",
+     "lak hebben aan",
+     "Paso de política."
+    ],
+    [
+     "pasarlo bien",
+     "het naar je zin hebben",
+     "Lo pasamos genial."
+    ],
+    [
+     "pasar por alto",
+     "over het hoofd zien",
+     "Pasó por alto el detalle."
+    ],
+    [
+     "dejar de + inf.",
+     "stoppen met",
+     "Deja de fumar."
+    ],
+    [
+     "dejarse llevar",
+     "zich laten meeslepen",
+     "Me dejé llevar."
+    ],
+    [
+     "dejar plantado",
+     "laten zitten (niet komen opdagen)",
+     "Me dejó plantado."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Lo echo de menos tú.",
+     "Te echo de menos.",
+     "echar de menos: lijdend voorwerp."
+    ],
+    [
+     "Me dormí el libro.",
+     "Me dormí leyendo el libro.",
+     "dormirse = in slaap vallen."
+    ],
+    [
+     "Me di cuenta que era tarde.",
+     "Me di cuenta de que era tarde.",
+     "darse cuenta DE que."
+    ],
+    [
+     "Metí el pie.",
+     "Metí la pata.",
+     "uitdrukking: meter la pata."
+    ],
+    [
+     "Hice caso a él.",
+     "Le hice caso.",
+     "hacer caso: meewerkend voornaamwoord."
+    ],
+    [
+     "Dejé de a fumar.",
+     "Dejé de fumar.",
+     "dejar de + infinitief."
+    ],
+    [
+     "Me llevo bien a él.",
+     "Me llevo bien con él.",
+     "llevarse bien con."
+    ],
+    [
+     "Pasé muy bien tiempo.",
+     "Lo pasé muy bien.",
+     "pasarlo bien."
+    ],
+    [
+     "Me tomé el pelo.",
+     "Me tomó el pelo.",
+     "tomar el pelo a alguien."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in (presente of indefinido, zoals aangegeven). De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Te ______ de menos.",
+     "hint": "echar: yo, presente",
+     "a": "echo",
+     "full": "Te echo de menos."
+    },
+    {
+     "q": "Se ______ a reír.",
+     "hint": "echar: él, indefinido",
+     "a": "echó",
+     "full": "Se echó a reír."
+    },
+    {
+     "q": "No te ______ el tonto.",
+     "hint": "hacer: ontkennende gebiedende wijs, se",
+     "a": "hagas",
+     "full": "No te hagas el tonto."
+    },
+    {
+     "q": "Me ______ igual.",
+     "hint": "dar: presente",
+     "a": "da",
+     "full": "Me da igual."
+    },
+    {
+     "q": "Se ______ de acuerdo en seguida.",
+     "hint": "ponerse: ellos, indefinido",
+     "a": "pusieron",
+     "full": "Se pusieron de acuerdo en seguida."
+    },
+    {
+     "q": "Paso ______ política.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Paso de política."
+    },
+    {
+     "q": "Me ______ bien con mi jefe.",
+     "hint": "llevarse: presente",
+     "a": "llevo",
+     "full": "Me llevo bien con mi jefe."
+    },
+    {
+     "q": "Me ______ un café.",
+     "hint": "tomarse: yo, indefinido",
+     "a": "tomé",
+     "full": "Me tomé un café."
+    },
+    {
+     "q": "Vayamos al ______.",
+     "hint": "ter zake",
+     "a": "grano",
+     "full": "Vayamos al grano."
+    },
+    {
+     "q": "¿Te das ______ de que es tarde?",
+     "hint": "zelfst. nw.",
+     "a": "cuenta",
+     "full": "¿Te das cuenta de que es tarde?"
+    },
+    {
+     "q": "Siempre me lleva la ______.",
+     "hint": "spreekt tegen",
+     "a": "contraria",
+     "full": "Siempre me lleva la contraria."
+    },
+    {
+     "q": "Lo ______ muy bien en la fiesta.",
+     "hint": "pasar: nosotros, indefinido",
+     "a": "pasamos",
+     "full": "Lo pasamos muy bien en la fiesta."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik mis je.",
+     "a": "Te echo de menos."
+    },
+    {
+     "q": "Hij begon te lachen.",
+     "a": "Se echó a reír."
+    },
+    {
+     "q": "Laten we ter zake komen.",
+     "a": "Vayamos al grano."
+    },
+    {
+     "q": "Politiek interesseert me niet.",
+     "a": "Paso de política."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

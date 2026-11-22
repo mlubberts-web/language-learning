@@ -1,0 +1,624 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Nuances van de tijden en vertellen",
+  "subtitle": "waarschijnlijkheid en geruchten, beleefdheid met de imperfecto, werkwoorden die van betekenis veranderen, perfecto tegenover indefinido, literaire tijden",
+  "footer": "Language Learning · C1 · Grammatica · Nuances van de tijden",
+  "next": "Volgende: C1 · pdf 2 — Subjuntivo of indicativo: verschillen in betekenis"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de futuro en de condicional gebruiken voor waarschijnlijkheid en geruchten",
+    "de imperfecto gebruiken voor beleefdheid, verbazing en effect in een verhaal",
+    "kiezen tussen indefinido, imperfecto en perfecto bij werkwoorden die van betekenis veranderen (saber, conocer, querer, poder)",
+    "literaire en juridische tijden herkennen (pretérito anterior, futuro de subjuntivo)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Waarschijnlijkheid en vermoeden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Tijd",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "futuro (gissing over nu)",
+     "Serán las tres. ¿Dónde estará Ana?",
+     "Het zal een uur of drie zijn. Waar zou Ana zijn?"
+    ],
+    [
+     "futuro perfecto (gissing over het verleden)",
+     "Habrá llegado ya. Se habrá dormido.",
+     "Hij is vast al aangekomen. Hij zal in slaap gevallen zijn."
+    ],
+    [
+     "condicional (gissing over het verleden)",
+     "Serían las tres cuando llamó.",
+     "Het zal rond drie uur geweest zijn toen hij belde."
+    ],
+    [
+     "condicional perfecto (gissing vóór het verleden)",
+     "Habría salido ya cuando llegué.",
+     "Hij was waarschijnlijk al weg toen ik aankwam."
+    ],
+    [
+     "futuro voor toegeving",
+     "Será caro, pero vale la pena.",
+     "Het zal best duur zijn, maar het is de moeite waard."
+    ],
+    [
+     "futuro voor verbazing",
+     "¡Serás tonto!",
+     "Wat ben jij dom!"
+    ],
+    [
+     "deber de / seguramente",
+     "Debe de estar enfermo. Seguramente llega tarde.",
+     "Hij is vast ziek. Hij komt waarschijnlijk te laat."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Gissing of plan",
+   "text": "<b>Estará en casa</b> (gissing, nu) tegenover <b>Estará en casa mañana</b> (voorspelling). De context beslist. In het verleden neemt de condicional het over: <i>Estaría en casa</i> (hij was waarschijnlijk thuis)."
+  },
+  {
+   "type": "h1",
+   "text": "2. De imperfecto voor beleefdheid, verbazing en afstand"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Beleefd verzoek",
+     "Quería pedirle un favor.",
+     "Ik wilde u om een gunst vragen."
+    ],
+    [
+     "Beleefde vraag",
+     "¿Qué desea? / ¿Qué deseaba?",
+     "Wat wenst u?"
+    ],
+    [
+     "Boodschap of doel",
+     "Venía a decirte que hay reunión.",
+     "Ik kwam je zeggen dat er een vergadering is."
+    ],
+    [
+     "Verbazing over wat waar bleek",
+     "¡Pues eras tú! ¿Aquí estabas?",
+     "Dus jij was het! Was je hier al die tijd?"
+    ],
+    [
+     "Denkbeeldig (spreektaal)",
+     "Si tenía dinero, me lo compraba.",
+     "Als ik geld had, kocht ik het."
+    ],
+    [
+     "Bijna gebeurd",
+     "Por poco me caía.",
+     "Ik viel bijna."
+    ],
+    [
+     "Op het punt van, in het verleden",
+     "Iba a salir cuando llamó.",
+     "Ik wilde net weggaan toen hij belde."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "De <b>imperfecto in plaats van de condicional</b> (<i>Si tenía dinero, me lo compraba</i>) is spreektaal. Gebruik in geschreven taal de standaardvorm: <i>Si tuviera dinero, me lo compraría.</i>",
+    "<b>Por poco / casi + presente of imperfecto</b> drukt uit dat iets bijna gebeurde: <i>Casi pierdo el tren. Por poco me caí.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden die in het verleden van betekenis veranderen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    4.6,
+    4.6,
+    4.4
+   ],
+   "head": [
+    "Werkwoord",
+    "Imperfecto",
+    "Indefinido",
+    "Nederlands (indefinido)"
+   ],
+   "rows": [
+    [
+     "saber",
+     "Sabía la verdad. (ik wist het)",
+     "Supe la verdad. (ik kwam erachter)",
+     "erachter komen"
+    ],
+    [
+     "conocer",
+     "Conocía a Ana. (ik kende haar)",
+     "Conocí a Ana. (ik leerde haar kennen)",
+     "leren kennen"
+    ],
+    [
+     "querer",
+     "Quería ir. (ik wilde)",
+     "Quise ir. (ik probeerde het)",
+     "proberen; (no quise) weigeren"
+    ],
+    [
+     "poder",
+     "Podía salir. (ik kon, had de mogelijkheid)",
+     "Pude salir. (het lukte me)",
+     "lukken"
+    ],
+    [
+     "tener",
+     "Tenía un hijo. (ik had)",
+     "Tuve un hijo. (ik kreeg)",
+     "krijgen, hebben (gebeurtenis)"
+    ],
+    [
+     "haber",
+     "Había mucha gente.",
+     "Hubo un accidente.",
+     "er was (gebeurtenis)"
+    ],
+    [
+     "costar",
+     "Costaba diez euros.",
+     "Costó trabajo.",
+     "kosten (afgerond)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Nederlands: ik wist het / ik kwam het te weten",
+   "text": "Het Nederlands gebruikt andere woorden; het Spaans gebruikt de <b>tijd</b>. <i>Lo supe ayer</i> = ik heb het gisteren gehoord / ontdekt. <i>No quise ir</i> = ik wilde echt niet gaan (en ik ging ook niet). <i>No pude ir</i> = ik kon niet gaan (en ik ging ook niet)."
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Pretérito perfecto, indefinido en tijdwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Tijdvak",
+    "Voorbeeld",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "Tijdvak nog niet voorbij",
+     "Hoy he comido tarde. Este año he viajado mucho.",
+     "Spanje: perfecto"
+    ],
+    [
+     "Tijdvak voorbij",
+     "Ayer comí tarde. El año pasado viajé mucho.",
+     "indefinido"
+    ],
+    [
+     "Recent verleden (Spanje)",
+     "Hace un momento ha llamado Ana.",
+     "perfecto, nu nog van belang"
+    ],
+    [
+     "Geen tijdwoord",
+     "Ya lo he hecho. / Ya lo hice.",
+     "allebei worden gebruikt"
+    ],
+    [
+     "Nu nog van belang",
+     "He perdido las llaves.",
+     "sleutels zijn nog steeds kwijt"
+    ],
+    [
+     "Levensloop",
+     "Nació en 1990 y estudió en Madrid.",
+     "indefinido"
+    ],
+    [
+     "Ervaring",
+     "¿Has estado alguna vez en Perú?",
+     "ooit (tot nu toe)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje of Latijns-Amerika",
+   "text": "In Spanje dekt de <b>pretérito perfecto</b> alles wat met het heden verbonden is: <i>Esta mañana he desayunado fuerte.</i> In grote delen van Latijns-Amerika vervangt de indefinido hem: <i>Esta mañana desayuné fuerte.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. De verhalende presente en de journalistieke condicional"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Historische presente",
+     "En 1492 Colón llega a América.",
+     "In 1492 bereikt Columbus Amerika."
+    ],
+    [
+     "Levendig vertellen",
+     "Voy andando y, de repente, veo a Luis.",
+     "Ik loop daar en ineens zie ik Luis."
+    ],
+    [
+     "Presente in krantenkoppen",
+     "El Gobierno aprueba la ley.",
+     "Regering keurt wet goed."
+    ],
+    [
+     "Gerucht (condicional)",
+     "El presidente dimitiría mañana.",
+     "De president zou morgen aftreden."
+    ],
+    [
+     "Gerucht (condicional perfecto)",
+     "Habría habido cuatro heridos.",
+     "Er zouden vier gewonden zijn gevallen."
+    ],
+    [
+     "Bron noemen",
+     "Según fuentes, ha muerto.",
+     "Volgens bronnen is hij overleden."
+    ],
+    [
+     "Toekomst in een verhaal",
+     "Años después sería ministro.",
+     "Jaren later zou hij minister worden."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Journalistieke condicional",
+   "text": "De <b>condicional van het gerucht</b> geeft aan dat een bericht niet bevestigd is. Het is gewoon in het Spaanse nieuws, maar vermijd het in examenteksten en formele verslagen."
+  },
+  {
+   "type": "h1",
+   "text": "6. Literaire en juridische tijden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Tijd",
+    "Vorm",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "pretérito anterior",
+     "hubo + deelwoord",
+     "Apenas hubo llegado, se marchó."
+    ],
+    [
+     "pretérito anterior",
+     "hubo + deelwoord",
+     "Cuando hubieron terminado, salieron."
+    ],
+    [
+     "futuro de subjuntivo",
+     "-re, -res, -re, -remos, -reis, -ren",
+     "Si no hubiere acuerdo, ..."
+    ],
+    [
+     "futuro de subjuntivo (spreekwoord)",
+     "fueres, vieres",
+     "Adonde fueres, haz lo que vieres."
+    ],
+    [
+     "futuro perfecto de subjuntivo",
+     "hubiere + deelwoord",
+     "Quien lo hubiere visto, que avise."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.4,
+    3.4,
+    3.4,
+    3.4
+   ],
+   "head": [
+    "",
+    "hablar",
+    "comer",
+    "ser",
+    "tener"
+   ],
+   "rows": [
+    [
+     "yo / él",
+     "hablare",
+     "comiere",
+     "fuere",
+     "tuviere"
+    ],
+    [
+     "tú",
+     "hablares",
+     "comieres",
+     "fueres",
+     "tuvieres"
+    ],
+    [
+     "nosotros",
+     "habláremos",
+     "comiéremos",
+     "fuéremos",
+     "tuviéremos"
+    ],
+    [
+     "vosotros",
+     "hablareis",
+     "comiereis",
+     "fuereis",
+     "tuviereis"
+    ],
+    [
+     "ellos",
+     "hablaren",
+     "comieren",
+     "fueren",
+     "tuvieren"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Je hoeft deze tijden alleen te <b>herkennen</b> (juridische teksten, literatuur, spreekwoorden). In gewoon Spaans nemen de presente de subjuntivo of de imperfecto hun plaats in."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ayer he comido tarde.",
+     "Ayer comí tarde.",
+     "Tijdwoord voor een afgesloten periode: indefinido."
+    ],
+    [
+     "Esta mañana comí tarde. (in Spain)",
+     "Esta mañana he comido tarde.",
+     "Periode nog niet voorbij: perfecto."
+    ],
+    [
+     "Conocía a Ana ayer.",
+     "Conocí a Ana ayer.",
+     "leren kennen: indefinido."
+    ],
+    [
+     "Ayer sabía la noticia.",
+     "Ayer supe la noticia.",
+     "erachter komen: indefinido."
+    ],
+    [
+     "Estará las tres.",
+     "Serán las tres.",
+     "Bij de tijd gebruik je ser."
+    ],
+    [
+     "Habrá sido las tres.",
+     "Serían las tres.",
+     "Gissing over het verleden: condicional."
+    ],
+    [
+     "Quise saber la verdad (I wanted to know).",
+     "Quería saber la verdad.",
+     "quise = ik probeerde."
+    ],
+    [
+     "Si tendría dinero, ...",
+     "Si tuviera dinero, ...",
+     "Geen condicional na si."
+    ],
+    [
+     "Apenas llegó, hubo salido.",
+     "Apenas hubo llegado, salió.",
+     "pretérito anterior: de eerste handeling."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ las tres ahora.",
+     "hint": "ser: futuro van waarschijnlijkheid",
+     "a": "Serán",
+     "full": "Serán las tres ahora."
+    },
+    {
+     "q": "Ana ______ llegado ya.",
+     "hint": "haber: futuro perfecto",
+     "a": "habrá",
+     "full": "Ana habrá llegado ya."
+    },
+    {
+     "q": "______ las tres cuando llamó.",
+     "hint": "ser: condicional van waarschijnlijkheid",
+     "a": "Serían",
+     "full": "Serían las tres cuando llamó."
+    },
+    {
+     "q": "Ayer ______ la verdad.",
+     "hint": "saber: erachter komen, yo",
+     "a": "supe",
+     "full": "Ayer supe la verdad."
+    },
+    {
+     "q": "El año pasado ______ a Ana.",
+     "hint": "conocer: leren kennen, yo",
+     "a": "conocí",
+     "full": "El año pasado conocí a Ana."
+    },
+    {
+     "q": "______ pedirle un favor.",
+     "hint": "querer: beleefde imperfecto",
+     "a": "Quería",
+     "full": "Quería pedirle un favor."
+    },
+    {
+     "q": "Hoy ______ muchísimo.",
+     "hint": "trabajar: yo, pretérito perfecto",
+     "a": "he trabajado",
+     "full": "Hoy he trabajado muchísimo."
+    },
+    {
+     "q": "El presidente ______ mañana.",
+     "hint": "dimitir: condicional van het gerucht",
+     "a": "dimitiría",
+     "full": "El presidente dimitiría mañana."
+    },
+    {
+     "q": "Apenas ______ llegado, se marchó.",
+     "hint": "haber: pretérito anterior, él",
+     "a": "hubo",
+     "full": "Apenas hubo llegado, se marchó."
+    },
+    {
+     "q": "No ______ ir, pero al final fui.",
+     "hint": "querer: wilde, yo",
+     "a": "quería",
+     "full": "No quería ir, pero al final fui."
+    },
+    {
+     "q": "Por poco ______.",
+     "hint": "caerse: yo, presente",
+     "a": "me caigo",
+     "full": "Por poco me caigo."
+    },
+    {
+     "q": "Esta mañana ______ café.",
+     "hint": "tomar: yo, perfecto (Spanje)",
+     "a": "he tomado",
+     "full": "Esta mañana he tomado café."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hij is vast ziek.",
+     "a": "Debe de estar enfermo. / Estará enfermo."
+    },
+    {
+     "q": "Ik heb Ana vorig jaar leren kennen.",
+     "a": "Conocí a Ana el año pasado."
+    },
+    {
+     "q": "Ik wilde je om een gunst vragen.",
+     "a": "Quería pedirte un favor."
+    },
+    {
+     "q": "De president zou morgen aftreden.",
+     "a": "El presidente dimitiría mañana."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "Subjuntivo of indicativo: verschillen in betekenis",
+  "subtitle": "werkwoorden waarvan de betekenis van de wijs afhangt, betrekkelijke bijzinnen, fijnere bijwoordelijke bijzinnen, losse subjuntivo en de keuze van de tijd",
+  "footer": "Language Learning · C1 · Grammatica · Subjuntivo of indicativo",
+  "next": "Volgende: C1 · pdf 3 — Gevorderde verbindingswoorden en tekststructuur"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "met de wijs de betekenis veranderen (dice que viene / dice que venga)",
+    "de wijs kiezen in betrekkelijke bijzinnen met overtreffende trappen en unieke elementen (el único que conozca)",
+    "de losse subjuntivo gebruiken voor wensen, opdrachten in de derde persoon en vaste uitdrukkingen",
+    "kiezen tussen presente, perfecto, imperfecto en pluscuamperfecto de subjuntivo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Werkwoorden waarvan de betekenis van de wijs afhangt"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    6.4,
+    7.2
+   ],
+   "head": [
+    "Werkwoord",
+    "Indicativo (informatie)",
+    "Subjuntivo (invloed, gevoel)"
+   ],
+   "rows": [
+    [
+     "decir que",
+     "Dice que viene. (Hij zegt dat hij komt.)",
+     "Dice que vengas. (Hij zegt dat je moet komen.)"
+    ],
+    [
+     "escribir / avisar que",
+     "Me avisó que llegaba tarde.",
+     "Me avisó que llegara pronto. (vroeg me om)"
+    ],
+    [
+     "entender / comprender que",
+     "Entiendo que tiene prisa. (ik begrijp dat, ik hoor dat)",
+     "Entiendo que tenga prisa. (ik snap waarom)"
+    ],
+    [
+     "sentir que",
+     "Siento que me mira. (ik voel dat)",
+     "Siento que no puedas venir. (het spijt me)"
+    ],
+    [
+     "esperar que",
+     "Espero que vengas. (hopen: subjuntivo)",
+     "Espero que llegue. (hopen altijd met subj.)"
+    ],
+    [
+     "parecer que",
+     "Parece que llueve.",
+     "No parece que llueva."
+    ],
+    [
+     "creer / pensar que",
+     "Creo que viene.",
+     "No creo que venga."
+    ],
+    [
+     "suponer que",
+     "Supongo que viene.",
+     "No supongo que venga."
+    ],
+    [
+     "admitir que",
+     "Admite que se equivocó. (hij stelt vast)",
+     "No admite que se equivoque. (het idee aanvaarden)"
+    ],
+    [
+     "lo que quiero decir es que",
+     "Lo que quiero decir es que llegué tarde.",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Vuistregel",
+   "text": "<b>Indicativo</b> = een vaststelling of verslag. <b>Subjuntivo</b> = iets dat je wilt bereiken (opdracht, wens), een reactie (gevoel, oordeel) of twijfel. Veel werkwoorden (decir, avisar, escribir, gritar) kunnen allebei, met een andere betekenis."
+  },
+  {
+   "type": "h1",
+   "text": "2. Betrekkelijke bijzinnen: bepaald of onbepaald"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Indicativo (bekend)",
+    "Subjuntivo (onbekend, denkbeeldig)",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "Busco al camarero que me atendió.",
+     "Busco a un camarero que hable inglés.",
+     "een bepaalde of wie dan ook"
+    ],
+    [
+     "Hay alguien que sabe la respuesta.",
+     "No hay nadie que sepa la respuesta.",
+     "bestaat of bestaat niet"
+    ],
+    [
+     "Compré el único libro que había.",
+     "Dame el único libro que tengas.",
+     "bekend of welk dan ook"
+    ],
+    [
+     "Es el mejor libro que he leído.",
+     "Es el mejor libro que haya leído nunca.",
+     "feit of oordeel (allebei gebruikt)"
+    ],
+    [
+     "Quien llegó primero ganó.",
+     "Quien llegue primero ganará.",
+     "verleden of toekomst/wie dan ook"
+    ],
+    [
+     "Los que vinieron se divirtieron.",
+     "Los que vengan se divertirán.",
+     "verleden of toekomst"
+    ],
+    [
+     "Lo que dijo es verdad.",
+     "Lo que digas, será verdad.",
+     "bekend of onbekend"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Overtreffende trappen en uniciteit</b> (el único, el primero, el mejor, lo mejor, lo único) krijgen vaak de <b>subjuntivo</b> als de spreker een oordeel geeft of het open is: <i>Es lo mejor que pueda pasar.</i> Bij feiten is de indicativo ook goed.",
+    "Een <b>ontkennende of vragende hoofdzin</b> duwt naar de subjuntivo: <i>¿Hay alguien que sepa francés? No conozco a nadie que lo haga.</i>"
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Bijwoordelijke bijzinnen: de fijnere punten"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Voegwoord",
+    "Indicativo",
+    "Subjuntivo"
+   ],
+   "rows": [
+    [
+     "como",
+     "Lo hice como me dijeron. (zoals)",
+     "Hazlo como quieras. (zoals je maar wilt)"
+    ],
+    [
+     "donde",
+     "Vivo donde nací.",
+     "Vive donde quieras."
+    ],
+    [
+     "según",
+     "Según dices, es fácil.",
+     "Según vayan llegando, entran."
+    ],
+    [
+     "cuando",
+     "Cuando llegó, cenamos.",
+     "Cuando llegue, cenamos."
+    ],
+    [
+     "de modo que / de manera que",
+     "Habló claro, de modo que lo entendieron. (gevolg)",
+     "Habla claro, de modo que lo entiendan. (doel)"
+    ],
+    [
+     "de ahí que",
+     "—",
+     "Llovió; de ahí que no saliéramos."
+    ],
+    [
+     "a medida que / conforme",
+     "A medida que crece, cambia.",
+     "A medida que vaya creciendo, cambiará."
+    ],
+    [
+     "no vaya a ser que",
+     "—",
+     "Llévate un paraguas, no vaya a ser que llueva."
+    ],
+    [
+     "en caso de que, siempre que",
+     "—",
+     "En caso de que llame, dile que estoy fuera."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "de ahí que",
+   "text": "<b>De ahí que</b> (vandaar dat) krijgt altijd de subjuntivo, ook al stelt het een feit vast: <i>No dormí; de ahí que esté cansado.</i> Het is gewoon in academisch schrijven."
+  },
+  {
+   "type": "h1",
+   "text": "4. De losse subjuntivo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Wens (que)",
+     "¡Que lo pases bien!",
+     "Veel plezier!"
+    ],
+    [
+     "Wens (que, 3e persoon)",
+     "¡Que descanse en paz!",
+     "Moge hij rusten in vrede."
+    ],
+    [
+     "Opdracht (3e persoon)",
+     "Que pase el siguiente.",
+     "De volgende, alstublieft."
+    ],
+    [
+     "Indirecte opdracht",
+     "Que se calle, por favor.",
+     "Laat hem stil zijn, alstublieft."
+    ],
+    [
+     "Wens (vast)",
+     "¡Viva el rey! ¡Dios te bendiga!",
+     "Leve de koning! God zegene je."
+    ],
+    [
+     "Wens (onwaarschijnlijk)",
+     "¡Tuviera yo tu edad!",
+     "Was ik maar zo oud als jij!"
+    ],
+    [
+     "Wat ook",
+     "Pase lo que pase. Venga quien venga.",
+     "Wat er ook gebeurt. Wie er ook komt."
+    ],
+    [
+     "Waarschijnlijkheid",
+     "Quizá lo sepa. Tal vez venga.",
+     "Misschien weet hij het. Misschien komt hij."
+    ],
+    [
+     "Vaste uitdrukking",
+     "Así sea. Que yo sepa. Sea como fuere.",
+     "Zo zij het. Voor zover ik weet. Hoe dan ook."
+    ],
+    [
+     "Beleefd verzoek",
+     "Quisiera pedirle algo.",
+     "Ik zou u graag iets vragen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De tijd van de subjuntivo kiezen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Tijd",
+    "Voorbeeld",
+    "Tijdsverwijzing"
+   ],
+   "rows": [
+    [
+     "presente",
+     "No creo que llegue mañana.",
+     "nu of in de toekomst"
+    ],
+    [
+     "perfecto",
+     "No creo que haya llegado.",
+     "af vóór nu"
+    ],
+    [
+     "imperfecto",
+     "No creía que llegara.",
+     "tegelijk met het werkwoord in het verleden of later"
+    ],
+    [
+     "pluscuamperfecto",
+     "No creía que hubiera llegado.",
+     "vóór het werkwoord in het verleden"
+    ],
+    [
+     "imperfecto na een hoofdwerkwoord in de presente",
+     "No creo que llegara ayer.",
+     "gebeurtenis in het verleden, nu nog twijfelachtig"
+    ],
+    [
+     "pluscuamperfecto (onwerkelijk)",
+     "Ojalá hubiera llegado.",
+     "in strijd met de werkelijkheid"
+    ],
+    [
+     "hoofdwerkwoord in de condicional + imperfecto",
+     "Me gustaría que vinieras.",
+     "beleefde wens"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Hoofdwerkwoord in de presente + gebeurtenis in het verleden",
+   "text": "<b>No creo que haya venido</b> (het resultaat telt nu) tegenover <b>No creo que viniera ayer</b> (de gebeurtenis heeft een datum). Met een tijdwoord uit het verleden is de imperfecto de subjuntivo natuurlijk: <i>Dudo que lo supiera entonces.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Dice que vienes. (meaning: he tells you to come)",
+     "Dice que vengas.",
+     "opdracht: subjuntivo."
+    ],
+    [
+     "Siento que no puedes venir.",
+     "Siento que no puedas venir.",
+     "spijt: subjuntivo."
+    ],
+    [
+     "Busco un camarero que habla inglés.",
+     "Busco un camarero que hable inglés.",
+     "een willekeurige ober: subjuntivo."
+    ],
+    [
+     "No hay nadie que sabe.",
+     "No hay nadie que sepa.",
+     "ontkenning: subjuntivo."
+    ],
+    [
+     "Llovió, de ahí que no salimos.",
+     "Llovió; de ahí que no saliéramos.",
+     "de ahí que: subjuntivo."
+    ],
+    [
+     "Que pasa el siguiente.",
+     "Que pase el siguiente.",
+     "opdracht in de derde persoon: subjuntivo."
+    ],
+    [
+     "No creo que ha llegado.",
+     "No creo que haya llegado.",
+     "perfecto de subjuntivo."
+    ],
+    [
+     "Espero que vienes.",
+     "Espero que vengas.",
+     "esperar que: subjuntivo."
+    ],
+    [
+     "Hazlo como quieres.",
+     "Hazlo como quieras.",
+     "zoals je maar wilt: subjuntivo."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Dice que ______ a las ocho.",
+     "hint": "venir: opdracht aan jou: tú, subjuntivo",
+     "a": "vengas",
+     "full": "Dice que vengas a las ocho."
+    },
+    {
+     "q": "Dice que ______ a las ocho.",
+     "hint": "venir: informatie: él, indicativo",
+     "a": "viene",
+     "full": "Dice que viene a las ocho."
+    },
+    {
+     "q": "Siento que no ______ venir.",
+     "hint": "poder: tú, subjuntivo",
+     "a": "puedas",
+     "full": "Siento que no puedas venir."
+    },
+    {
+     "q": "Busco un camarero que ______ inglés.",
+     "hint": "hablar: een willekeurige ober",
+     "a": "hable",
+     "full": "Busco un camarero que hable inglés."
+    },
+    {
+     "q": "No hay nadie que ______ la respuesta.",
+     "hint": "saber: subjuntivo",
+     "a": "sepa",
+     "full": "No hay nadie que sepa la respuesta."
+    },
+    {
+     "q": "Llovió; de ahí que no ______.",
+     "hint": "salir: nosotros, imperfecto de subj.",
+     "a": "saliéramos",
+     "full": "Llovió; de ahí que no saliéramos."
+    },
+    {
+     "q": "Que ______ el siguiente.",
+     "hint": "pasar: opdracht in de 3e persoon",
+     "a": "pase",
+     "full": "Que pase el siguiente."
+    },
+    {
+     "q": "¡Que lo ______ bien!",
+     "hint": "pasar: tú, subjuntivo",
+     "a": "pases",
+     "full": "¡Que lo pases bien!"
+    },
+    {
+     "q": "No creo que ______ llegado.",
+     "hint": "haber: perfecto de subj., él",
+     "a": "haya",
+     "full": "No creo que haya llegado."
+    },
+    {
+     "q": "Dudaba que ______ llegado.",
+     "hint": "haber: pluscuamperfecto de subj., él",
+     "a": "hubiera",
+     "full": "Dudaba que hubiera llegado."
+    },
+    {
+     "q": "Llévate un paraguas, no ______ a ser que llueva.",
+     "hint": "ir: presente de subj.",
+     "a": "vaya",
+     "full": "Llévate un paraguas, no vaya a ser que llueva."
+    },
+    {
+     "q": "Hazlo como ______.",
+     "hint": "querer: tú, subjuntivo",
+     "a": "quieras",
+     "full": "Hazlo como quieras."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Het spijt me dat je niet kunt komen.",
+     "a": "Siento que no puedas venir."
+    },
+    {
+     "q": "Ik zoek een ober die Engels spreekt.",
+     "a": "Busco un camarero que hable inglés."
+    },
+    {
+     "q": "Veel plezier!",
+     "a": "¡Que lo pases bien!"
+    },
+    {
+     "q": "Er is niemand die het antwoord weet.",
+     "a": "No hay nadie que sepa la respuesta."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

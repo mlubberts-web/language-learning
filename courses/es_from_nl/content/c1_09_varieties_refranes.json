@@ -1,0 +1,532 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Cultuur",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Spaans in Spanje en in de wereld",
+  "subtitle": "regionale varianten, voseo en ustedes, verschillen in woordenschat, andere officiële talen en refranes",
+  "footer": "Language Learning · C1 · Cultuur · Spaans in de wereld",
+  "next": "Volgende: C1 · pdf 10 — Woordenschat en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de belangrijkste varianten van het Spaans in Spanje en Latijns-Amerika herkennen",
+    "voseo, ustedes, seseo, yeísmo en de belangrijkste verschillen in woordenschat begrijpen",
+    "de regionale talen van Spanje en hun invloed herkennen (catalán, gallego, euskera)",
+    "veelgebruikte refranes en spreekwoorden begrijpen en ze natuurlijk gebruiken"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Over deze cursus:</b> alle pdf's van dit programma leren je <b>Spaans uit Spanje</b>. Deze pdf helpt je andere varianten te <b>begrijpen</b>; je hoeft ze zelf niet te gebruiken."
+  },
+  {
+   "type": "h1",
+   "text": "1. Spaans in Spanje"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.4,
+    7.0
+   ],
+   "head": [
+    "Streek",
+    "Kenmerken",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "Castiliaans (noorden, midden)",
+     "maatstaf voor de standaarduitspraak; z, c als /θ/",
+     "cielo, zapato, gracias"
+    ],
+    [
+     "Andalusisch",
+     "s aangeblazen of weggelaten; seseo / ceceo; d weggelaten",
+     "ehtá (está), pescao (pescado)"
+    ],
+    [
+     "Canarias",
+     "dichter bij Latijns-Amerika: seseo, ustedes",
+     "ustedes vienen"
+    ],
+    [
+     "Catalaans taalgebied",
+     "Spaans met Catalaanse leenwoorden en zinsbouw",
+     "tengo que ir (tegenover het Catalaanse haver d'anar)"
+    ],
+    [
+     "Galicia",
+     "Galicische invloed, intonatie",
+     "estar a facer, vir de + inf."
+    ],
+    [
+     "Baskenland",
+     "Baskische leenwoorden; leísmo is gewoon",
+     "le vi (hem)"
+    ],
+    [
+     "Madrid",
+     "informele 'madrileñismos'",
+     "chulo, molar, entrañable"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Andere officiële talen",
+   "text": "Spanje heeft talen die naast het Spaans officieel zijn: <b>catalán / valenciano</b> (Catalonië, Valencia, Balearen), <b>gallego</b> (Galicië), <b>euskera</b> (Baskenland, Navarra). Je hoort en ziet ze op borden, op tv en in het dagelijks leven. Leer de basis: <i>bon dia, gràcies</i> (catalán), <i>bos días, grazas</i> (gallego), <i>egun on, eskerrik asko</i> (euskera)."
+  },
+  {
+   "type": "h1",
+   "text": "2. De belangrijkste verschillen in grammatica en uitspraak"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.0,
+    6.8
+   ],
+   "head": [
+    "Kenmerk",
+    "Spanje (standaard)",
+    "Latijns-Amerika / elders"
+   ],
+   "rows": [
+    [
+     "vosotros",
+     "vosotros coméis",
+     "ustedes comen"
+    ],
+    [
+     "voseo",
+     "tú comes",
+     "vos comés (Argentinië, Uruguay, Midden-Amerika)"
+    ],
+    [
+     "seseo",
+     "cinco: z/c klinkt als de Engelse th",
+     "cinco: z/c klinkt als s (bijna heel Latijns-Amerika, Andalusië)"
+    ],
+    [
+     "yeísmo",
+     "calle: ll klinkt soms anders dan y (noorden, zeldzaam)",
+     "calle: ll klinkt precies als y (bijna overal)"
+    ],
+    [
+     "pretérito perfecto",
+     "Hoy he comido.",
+     "Hoy comí. (vaak)"
+    ],
+    [
+     "leísmo",
+     "A Juan le vi. (geaccepteerd)",
+     "A Juan lo vi."
+    ],
+    [
+     "laísmo",
+     "La dije la verdad. (geen standaard, vermijden)",
+     "(geen standaard, vermijden)"
+    ],
+    [
+     "vorm op -se van de subjuntivo",
+     "hubiese / hubiera",
+     "hubiera (meestal)"
+    ],
+    [
+     "ir a + infinitief",
+     "Voy a comer.",
+     "hetzelfde"
+    ],
+    [
+     "verkleinwoorden",
+     "-ito, -illo",
+     "-ito, -ico, -ingo (regionaal)"
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Veelvoorkomende verschillen in woordenschat"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.6,
+    4.4,
+    3.6
+   ],
+   "head": [
+    "Spanje",
+    "Latijns-Amerika",
+    "Nederlands",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "el coche",
+     "el carro / el auto",
+     "auto",
+     ""
+    ],
+    [
+     "el ordenador",
+     "la computadora / el computador",
+     "computer",
+     ""
+    ],
+    [
+     "el móvil",
+     "el celular",
+     "mobiele telefoon",
+     ""
+    ],
+    [
+     "el zumo",
+     "el jugo",
+     "sap",
+     ""
+    ],
+    [
+     "la patata",
+     "la papa",
+     "aardappel",
+     ""
+    ],
+    [
+     "el piso",
+     "el apartamento / el departamento",
+     "appartement",
+     ""
+    ],
+    [
+     "conducir",
+     "manejar",
+     "autorijden",
+     "manejar = hanteren"
+    ],
+    [
+     "coger (el autobús)",
+     "tomar",
+     "nemen",
+     "coger is taboe in Argentinië en Mexico"
+    ],
+    [
+     "el autobús",
+     "el camión / la guagua / el colectivo",
+     "bus",
+     "erg wisselend"
+    ],
+    [
+     "las gafas",
+     "los lentes",
+     "bril",
+     ""
+    ],
+    [
+     "la nata",
+     "la crema",
+     "room",
+     ""
+    ],
+    [
+     "vale",
+     "okay / dale / listo",
+     "oké",
+     ""
+    ],
+    [
+     "el bolígrafo",
+     "la lapicera / el lapicero",
+     "pen",
+     ""
+    ],
+    [
+     "el aparcamiento",
+     "el estacionamiento",
+     "parkeerplaats",
+     ""
+    ],
+    [
+     "la acera",
+     "la vereda / la banqueta",
+     "stoep",
+     ""
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Pas op met coger",
+   "text": "In Spanje is <b>coger</b> neutraal (<i>coger el tren</i>). In grote delen van Latijns-Amerika (Argentinië, Mexico) heeft het een vulgaire betekenis. Tegen Latijns-Amerikanen is <b>tomar</b> veiliger."
+  },
+  {
+   "type": "h1",
+   "text": "4. Refranes: spreekwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    5.6,
+    5.2
+   ],
+   "head": [
+    "Refrán",
+    "Betekenis",
+    "Nederlandse tegenhanger"
+   ],
+   "rows": [
+    [
+     "A quien madruga, Dios le ayuda.",
+     "wie vroeg opstaat, krijgt hulp",
+     "De morgenstond heeft goud in de mond."
+    ],
+    [
+     "Más vale tarde que nunca.",
+     "beter laat dan nooit",
+     "Beter laat dan nooit."
+    ],
+    [
+     "Camarón que se duerme, se lo lleva la corriente.",
+     "wacht niet te lang",
+     "Wie zit te slapen, mist de boot."
+    ],
+    [
+     "En casa del herrero, cuchillo de palo.",
+     "ironisch: vakmensen missen hun eigen gereedschap",
+     "De schoenmakerskinderen lopen op blote voeten."
+    ],
+    [
+     "No hay mal que por bien no venga.",
+     "elk nadeel heeft een voordeel",
+     "Elk nadeel heeft zijn voordeel."
+    ],
+    [
+     "Dime con quién andas y te diré quién eres.",
+     "je wordt beoordeeld op je gezelschap",
+     "Zeg me met wie je omgaat, en ik zeg je wie je bent."
+    ],
+    [
+     "Ojos que no ven, corazón que no siente.",
+     "wat je niet ziet, doet geen pijn",
+     "Uit het oog, uit het hart."
+    ],
+    [
+     "Quien mucho abarca, poco aprieta.",
+     "neem niet te veel hooi op je vork",
+     "Wie te veel hooi op zijn vork neemt, laat veel vallen."
+    ],
+    [
+     "A caballo regalado no le mires el diente.",
+     "kijk een gegeven paard niet in de bek",
+     "Een gegeven paard moet je niet in de bek kijken."
+    ],
+    [
+     "Más vale pájaro en mano que ciento volando.",
+     "kies voor zekerheid",
+     "Beter één vogel in de hand dan tien in de lucht."
+    ],
+    [
+     "El que no arriesga, no gana.",
+     "wie niet waagt, wie niet wint",
+     "Wie niet waagt, die niet wint."
+    ],
+    [
+     "Al mal tiempo, buena cara.",
+     "blijf lachen in slechte tijden",
+     "Goede moed houden."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Hablo castellano, no español. (as a rule)",
+     "Both are correct: castellano / español.",
+     "beide namen worden gebruikt.",
+     "advice"
+    ],
+    [
+     "En España decimos ustedes coméis.",
+     "En España decimos vosotros coméis.",
+     "vosotros + vormen van vosotros."
+    ],
+    [
+     "Never say coger in Latin America.",
+     "Voy a coger / tomar el autobús.",
+     "coger is prima in Spanje.",
+     "advice"
+    ],
+    [
+     "Hoy comí mucho. (in Spain)",
+     "Hoy he comido mucho.",
+     "periode nog niet voorbij."
+    ],
+    [
+     "Vos tenés (in Spain).",
+     "Tú tienes.",
+     "geen voseo in Spanje."
+    ],
+    [
+     "Me gustan las papas.",
+     "Me gustan las patatas.",
+     "Spanje: patata."
+    ],
+    [
+     "Voy a manejar a Madrid.",
+     "Voy a conducir a Madrid.",
+     "Spanje: conducir."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het woord uit het Spaans van Spanje in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "En España decimos ______ coméis.",
+     "hint": "jullie",
+     "a": "vosotros",
+     "full": "En España decimos vosotros coméis."
+    },
+    {
+     "q": "Voy a ______ el coche a la oficina.",
+     "hint": "autorijden, Spanje (werkwoord)",
+     "a": "conducir",
+     "full": "Voy a conducir el coche a la oficina."
+    },
+    {
+     "q": "Me gusta el ______ de naranja.",
+     "hint": "sap, Spanje",
+     "a": "zumo",
+     "full": "Me gusta el zumo de naranja."
+    },
+    {
+     "q": "Mi ______ me suena.",
+     "hint": "telefoon, woord uit Spanje",
+     "a": "móvil",
+     "full": "Mi móvil me suena."
+    },
+    {
+     "q": "Necesito mi ______ para trabajar.",
+     "hint": "computer, woord uit Spanje",
+     "a": "ordenador",
+     "full": "Necesito mi ordenador para trabajar."
+    },
+    {
+     "q": "Vivo en un ______ en Madrid.",
+     "hint": "appartement, woord uit Spanje",
+     "a": "piso",
+     "full": "Vivo en un piso en Madrid."
+    },
+    {
+     "q": "Prefiero las ______ fritas.",
+     "hint": "aardappels, woord uit Spanje",
+     "a": "patatas",
+     "full": "Prefiero las patatas fritas."
+    },
+    {
+     "q": "Más ______ tarde que nunca.",
+     "hint": "spreekwoord",
+     "a": "vale",
+     "full": "Más vale tarde que nunca."
+    },
+    {
+     "q": "A quien ______, Dios le ayuda.",
+     "hint": "madrugar: él, presente",
+     "a": "madruga",
+     "full": "A quien madruga, Dios le ayuda."
+    },
+    {
+     "q": "Hoy ______ muy tarde.",
+     "hint": "comer: perfecto, Spanje",
+     "a": "he comido",
+     "full": "Hoy he comido muy tarde."
+    },
+    {
+     "q": "No hay mal que por ______ no venga.",
+     "hint": "goed",
+     "a": "bien",
+     "full": "No hay mal que por bien no venga."
+    },
+    {
+     "q": "El que no ______, no gana.",
+     "hint": "arriesgar: él, presente",
+     "a": "arriesga",
+     "full": "El que no arriesga, no gana."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Jullie praten heel snel.",
+     "a": "Vosotros habláis muy rápido."
+    },
+    {
+     "q": "Ik rijd elke dag met de auto naar mijn werk.",
+     "a": "Conduzco al trabajo todos los días."
+    },
+    {
+     "q": "Beter laat dan nooit.",
+     "a": "Más vale tarde que nunca."
+    },
+    {
+     "q": "Ik ga de bus nemen.",
+     "a": "Voy a coger el autobús."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

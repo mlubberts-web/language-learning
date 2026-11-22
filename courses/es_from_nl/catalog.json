@@ -427,5 +427,115 @@
   "subtitle": "Gezondheid, technologie, economie, recht en politiek, kunst en wetenschap, werkwoorden van communicatie, uitdrukkingen en verwarrende woorden",
   "content": "b2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_01_Nuances_van_de_tijden_en_vertellen",
+  "file": "C1_01_Nuances_van_de_tijden_en_vertellen.pdf",
+  "level": "C1",
+  "number": 1,
+  "section": "Grammatica",
+  "title": "Nuances van de tijden en vertellen",
+  "subtitle": "waarschijnlijkheid en geruchten, beleefdheid met de imperfecto, werkwoorden die van betekenis veranderen, perfecto tegenover indefinido, literaire tijden",
+  "content": "c1_01_tense_nuance.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_02_Subjuntivo_of_indicativo_verschillen_in_betekenis",
+  "file": "C1_02_Subjuntivo_of_indicativo_verschillen_in_betekenis.pdf",
+  "level": "C1",
+  "number": 2,
+  "section": "Grammatica",
+  "title": "Subjuntivo of indicativo: verschillen in betekenis",
+  "subtitle": "werkwoorden waarvan de betekenis van de wijs afhangt, betrekkelijke bijzinnen, fijnere bijwoordelijke bijzinnen, losse subjuntivo en de keuze van de tijd",
+  "content": "c1_02_mood_contrasts.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_03_Gevorderde_verbindingswoorden_en_tekststructuur",
+  "file": "C1_03_Gevorderde_verbindingswoorden_en_tekststructuur.pdf",
+  "level": "C1",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Gevorderde verbindingswoorden en tekststructuur",
+  "subtitle": "toevoegen, tegenstellen, oorzaak en gevolg, ordenen en herformuleren, en een betoog opbouwen",
+  "content": "c1_03_connectors_discourse.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_04_se_de_lijdende_vorm_en_nominalisering",
+  "file": "C1_04_se_de_lijdende_vorm_en_nominalisering.pdf",
+  "level": "C1",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "se, de lijdende vorm en nominalisering",
+  "subtitle": "de functies van se, de lijdende vorm met se tegenover onpersoonlijk se, de formele lijdende vorm, nominalisering en vaste combinaties met een licht werkwoord",
+  "content": "c1_04_se_passive_nominal.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_05_Betrekkelijke_bijzinnen_en_vergelijkingen",
+  "file": "C1_05_Betrekkelijke_bijzinnen_en_vergelijkingen.pdf",
+  "level": "C1",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Betrekkelijke bijzinnen en vergelijkingen",
+  "subtitle": "el cual, cuyo, cuanto, beperkende en uitbreidende bijzinnen, de lo que, cuanto más ... más",
+  "content": "c1_05_relatives_comparison.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_06_Register_voorzichtig_formuleren_en_academische_stijl",
+  "file": "C1_06_Register_voorzichtig_formuleren_en_academische_stijl.pdf",
+  "level": "C1",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "Register, voorzichtig formuleren en academische stijl",
+  "subtitle": "van spreektaal tot academisch register, anderen aanhalen, voorzichtigheid en zekerheid, beleefdheid, spreektaal in Spanje",
+  "content": "c1_06_register_academic.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_07_Idiomatische_werkwoorden_en_vaste_uitdrukkingen",
+  "file": "C1_07_Idiomatische_werkwoorden_en_vaste_uitdrukkingen.pdf",
+  "level": "C1",
+  "number": 7,
+  "section": "Grammatica",
+  "title": "Idiomatische werkwoorden en vaste uitdrukkingen",
+  "subtitle": "wederkerende werkwoorden die van betekenis veranderen en vaste uitdrukkingen met dar, echar, tirar, meter, poner, hacer, tomar, sacar, tener, llevar, ir, pasar, dejar",
+  "content": "c1_07_idiomatic_verbs.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_08_Spelling_accenten_en_leestekens",
+  "file": "C1_08_Spelling_accenten_en_leestekens.pdf",
+  "level": "C1",
+  "number": 8,
+  "section": "Schrijven",
+  "title": "Spelling, accenten en leestekens",
+  "subtitle": "accentregels, hiaat, onderscheidende accenten, woorden die hetzelfde klinken, lastige spelling, leestekens en hoofdletters",
+  "content": "c1_08_spelling_punctuation.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_09_Spaans_in_Spanje_en_in_de_wereld",
+  "file": "C1_09_Spaans_in_Spanje_en_in_de_wereld.pdf",
+  "level": "C1",
+  "number": 9,
+  "section": "Cultuur",
+  "title": "Spaans in Spanje en in de wereld",
+  "subtitle": "regionale varianten, voseo en ustedes, verschillen in woordenschat, andere officiële talen en refranes",
+  "content": "c1_09_varieties_refranes.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "C1_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "C1",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "abstracte zelfstandige naamwoorden, academische werkwoorden, vaste combinaties, uitdrukkingen voor discussies en valse vrienden",
+  "content": "c1_10_vocabulary.json",
+  "exercise_count": 12
  }
 ]

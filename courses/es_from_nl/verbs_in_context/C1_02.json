@@ -1,0 +1,97 @@
+{
+ "pdf": "C1_02",
+ "items": [
+  [
+   "Ana dice que ella [viene] a las ocho.",
+   "venir",
+   "Decir als informatie: indicativo."
+  ],
+  [
+   "Tu madre dice que tú [vengas] a cenar ya.",
+   "venir",
+   "Decir als opdracht: subjuntivo."
+  ],
+  [
+   "Siento que tú no [puedas] venir.",
+   "poder",
+   "Sentir als spijt: subjuntivo."
+  ],
+  [
+   "Siento que algo [va] a pasar.",
+   "ir",
+   "Sentir als waarnemen: indicativo."
+  ],
+  [
+   "Busco un camarero que [hable] inglés.",
+   "hablar"
+  ],
+  [
+   "Busco al camarero que [habla] inglés.",
+   "hablar"
+  ],
+  [
+   "Aunque el piso [es] caro, ya lo he visto y lo compraremos.",
+   "ser",
+   "Aunque met een bekend feit: indicativo."
+  ],
+  [
+   "No sé cuánto cuesta, pero aunque [sea] caro, lo compraremos.",
+   "ser",
+   "Aunque met iets onbekends: subjuntivo."
+  ],
+  [
+   "Comprendo que tú [estés] enfadado.",
+   "estar"
+  ],
+  [
+   "Ahora comprendo que tú [tenías] razón.",
+   "tener",
+   "Comprender als een feit beseffen: indicativo."
+  ],
+  [
+   "El hecho de que no [llamara / llamase] me preocupó.",
+   "llamar",
+   "El hecho de que: meestal subjuntivo."
+  ],
+  [
+   "No niego que el plan [tenga / tiene] ventajas.",
+   "tener"
+  ],
+  [
+   "Cuando [seas] mayor, lo entenderás.",
+   "ser"
+  ],
+  [
+   "Cuando yo [era] joven, vivía en París.",
+   "ser"
+  ],
+  [
+   "No es que [esté] cansado; es que no quiero.",
+   "estar"
+  ],
+  [
+   "Me extraña que no [haya llegado] todavía.",
+   "llegar"
+  ],
+  [
+   "Es obvio que [tiene] razón.",
+   "tener"
+  ],
+  [
+   "No es obvio que [tenga] razón.",
+   "tener"
+  ],
+  [
+   "Por lo que [dice] Pedro, la reunión se ha cancelado.",
+   "decir"
+  ],
+  [
+   "Me pregunto si ella [sabe] algo.",
+   "saber"
+  ],
+  [
+   "Lo que tú [digas] estará bien.",
+   "decir"
+  ]
+ ]
+}

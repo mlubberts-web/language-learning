@@ -1,0 +1,525 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Grammatica",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Betrekkelijke bijzinnen en vergelijkingen",
+  "subtitle": "el cual, cuyo, cuanto, beperkende en uitbreidende bijzinnen, de lo que, cuanto más ... más",
+  "footer": "Language Learning · C1 · Grammatica · Betrekkelijke bijzinnen en vergelijkingen",
+  "next": "Volgende: C1 · pdf 6 — Register, voorzichtig formuleren en academische stijl"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "el cual, la cual, lo cual, cuyo en cuanto gebruiken in formele betrekkelijke bijzinnen",
+    "beperkende en uitbreidende betrekkelijke bijzinnen onderscheiden",
+    "gevorderde vergelijkingen maken (cuanto más ... más, de lo que, tanto es así que)",
+    "structuren voor verhouding en gradatie gebruiken (cada vez más, a medida que, tanto ... como)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Betrekkelijke voornaamwoorden: vormen en gebruik"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.4,
+    6.4
+   ],
+   "head": [
+    "Voornaamwoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "que",
+     "El libro que leí es bueno.",
+     "Het boek dat ik las is goed."
+    ],
+    [
+     "quien / quienes",
+     "La mujer con quien hablé es médica.",
+     "De vrouw met wie ik sprak is arts."
+    ],
+    [
+     "el que / la que / los que / las que",
+     "El que llegó tarde se disculpó.",
+     "Degene die te laat kwam, bood zijn excuses aan."
+    ],
+    [
+     "el cual / la cual / los cuales / las cuales",
+     "El motivo por el cual vine es personal.",
+     "De reden waarom ik kwam is persoonlijk."
+    ],
+    [
+     "lo que / lo cual",
+     "No vino, lo cual / lo que me molestó.",
+     "Hij kwam niet, wat me stoorde."
+    ],
+    [
+     "cuyo / cuya / cuyos / cuyas",
+     "El autor cuyo libro leí vive aquí.",
+     "De schrijver van wie ik het boek las, woont hier."
+    ],
+    [
+     "donde / en que / en el que",
+     "La casa donde / en la que vivo.",
+     "Het huis waar / waarin ik woon."
+    ],
+    [
+     "cuanto / cuanta / cuantos",
+     "Todo cuanto tengo es tuyo.",
+     "Alles wat ik heb is van jou."
+    ],
+    [
+     "como / cuando (als betrekkelijk voornaamwoord)",
+     "La forma como lo hizo me gustó. El día cuando llegué ...",
+     "De manier waarop hij het deed ... / De dag waarop ik aankwam ..."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Cuyo past bij wat erop volgt",
+   "text": "<b>Cuyo</b> past zich in geslacht en getal aan het zelfstandig naamwoord aan dat <b>erna</b> komt, niet aan de bezitter: <i>La empresa cuyos directivos dimitieron ...</i> (het bedrijf waarvan de directeuren aftraden). Zet er nooit een lidwoord achter: niet <i>cuyo el libro</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Beperkende en uitbreidende bijzinnen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Beperkend (geen komma's)",
+    "Uitbreidend (met komma's)",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "Los estudiantes que estudiaron aprobaron.",
+     "Los estudiantes, que estudiaron, aprobaron.",
+     "alleen wie studeerde / ze studeerden allemaal"
+    ],
+    [
+     "Mi hermano que vive en Madrid es médico.",
+     "Mi hermano, que vive en Madrid, es médico.",
+     "ik heb meerdere broers / ik heb één broer"
+    ],
+    [
+     "Los coches que son rápidos cuestan más.",
+     "Los coches, que son rápidos, cuestan más.",
+     "alleen de snelle / auto's in het algemeen"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Uitbreidende bijzinnen</b> (komma's) kunnen <b>el cual / quien / lo cual</b> gebruiken: <i>Su padre, quien/el cual trabaja en Londres, vuelve hoy.</i>",
+    "<b>Beperkende bijzinnen</b> gebruiken meestal <b>que</b> of <b>el que</b>.",
+    "Na een <b>voorzetsel</b> gebruik je <b>el que / el cual / quien</b>: <i>La razón por la que / por la cual ...</i>. Een kaal <i>que</i> kan niet na een lang voorzetsel staan."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Betrekkelijke voornaamwoorden met voorzetsels"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "a quien / al que",
+     "El amigo a quien escribí ...",
+     "De vriend aan wie ik schreef ..."
+    ],
+    [
+     "con quien / con el que",
+     "La persona con quien trabajo ...",
+     "De persoon met wie ik werk ..."
+    ],
+    [
+     "de quien / del que / de cuyo",
+     "El autor de quien hablamos ...",
+     "De schrijver over wie we het hadden ..."
+    ],
+    [
+     "en el que / donde",
+     "El país en el que vivo ...",
+     "Het land waar ik woon ..."
+    ],
+    [
+     "por lo que / por lo cual",
+     "Perdí el tren, por lo que llegué tarde.",
+     "Ik miste de trein, waardoor ik te laat kwam."
+    ],
+    [
+     "sobre el cual / acerca del cual",
+     "El tema sobre el cual escribió ...",
+     "Het onderwerp waarover hij schreef ..."
+    ],
+    [
+     "tras lo cual",
+     "Cenó, tras lo cual se acostó.",
+     "Hij at, waarna hij naar bed ging."
+    ],
+    [
+     "lo de + zelfst. nw.",
+     "Lo de ayer fue un error.",
+     "Dat gedoe van gisteren was een vergissing."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Gevorderde vergelijkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "más / menos + bijv. nw. + que",
+     "Es más alto que su padre.",
+     "Hij is langer dan zijn vader."
+    ],
+    [
+     "más / menos de + getal",
+     "Hay más de cien personas.",
+     "Er zijn meer dan honderd mensen."
+    ],
+    [
+     "más ... de lo que + werkwoord",
+     "Es más difícil de lo que pensaba.",
+     "Het is moeilijker dan ik dacht."
+    ],
+    [
+     "más ... del que / de la que ...",
+     "Tiene más dinero del que necesita.",
+     "Hij heeft meer geld dan hij nodig heeft."
+    ],
+    [
+     "más ... de los que + zelfst. nw.",
+     "Compró más libros de los que podía leer.",
+     "Hij kocht meer boeken dan hij kon lezen."
+    ],
+    [
+     "tan ... como / tanto ... como",
+     "Es tan alto como yo. Come tanto como tú.",
+     "Hij is even lang als ik. Hij eet net zoveel als jij."
+    ],
+    [
+     "cuanto más ... (más / menos)",
+     "Cuanto más estudio, más aprendo.",
+     "Hoe meer ik studeer, hoe meer ik leer."
+    ],
+    [
+     "cuanto más ... tanto más",
+     "Cuanto más lo pienso, tanto más lo dudo.",
+     "Hoe meer ik erover nadenk, hoe meer ik eraan twijfel."
+    ],
+    [
+     "cada vez más / menos",
+     "Cada vez hay más gente.",
+     "Er zijn steeds meer mensen."
+    ],
+    [
+     "mucho / bastante / algo más",
+     "Es mucho más caro.",
+     "Het is veel duurder."
+    ],
+    [
+     "lo más ... posible",
+     "Hazlo lo más rápido posible.",
+     "Doe het zo snel mogelijk."
+    ],
+    [
+     "cuanto antes / tan pronto como",
+     "Llámame cuanto antes.",
+     "Bel me zo snel mogelijk."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "de lo que / del que",
+   "text": "Gebruik <b>de lo que</b> vóór een werkwoord (je vergelijkt met een bijzin): <i>Es más caro de lo que creía.</i> Gebruik <b>del que / de la que / de los que / de las que</b> als je een zelfstandig naamwoord vergelijkt: <i>Hay más gente de la que esperaba.</i> Het moet bij dat zelfstandig naamwoord passen."
+  },
+  {
+   "type": "h1",
+   "text": "5. Verhouding, mate en gevolg"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "a medida que / conforme",
+     "Conforme crece, cambia.",
+     "Naarmate hij groeit, verandert hij."
+    ],
+    [
+     "tanto es así que",
+     "Estaba cansado, tanto es así que se durmió.",
+     "Hij was zo moe dat hij in slaap viel."
+    ],
+    [
+     "tal ... que",
+     "Fue tal el ruido que nadie durmió.",
+     "Het lawaai was zo erg dat niemand sliep."
+    ],
+    [
+     "tan ... que / tanto ... que",
+     "Corre tanto que no lo alcanzo.",
+     "Hij rent zo hard dat ik hem niet inhaal."
+    ],
+    [
+     "al punto de que",
+     "Llegó al punto de que ya no hablaba.",
+     "Het kwam zover dat hij niet meer praatte."
+    ],
+    [
+     "de tal manera que",
+     "Habló de tal manera que todos lloraron.",
+     "Hij sprak zo dat iedereen huilde."
+    ],
+    [
+     "cuanto más ... menos",
+     "Cuanto más leo, menos entiendo.",
+     "Hoe meer ik lees, hoe minder ik begrijp."
+    ],
+    [
+     "a tal punto que",
+     "Se esforzó a tal punto que enfermó.",
+     "Hij deed zo zijn best dat hij ziek werd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "El hombre cuyo el hijo es médico ...",
+     "El hombre cuyo hijo es médico ...",
+     "geen lidwoord na cuyo."
+    ],
+    [
+     "La mujer cuyo libros leí ...",
+     "La mujer cuyos libros leí ...",
+     "cuyo past bij libros."
+    ],
+    [
+     "Es más caro que pensaba.",
+     "Es más caro de lo que pensaba.",
+     "de lo que + werkwoord."
+    ],
+    [
+     "Tiene más dinero que necesita.",
+     "Tiene más dinero del que necesita.",
+     "del que + zelfst. nw."
+    ],
+    [
+     "Hay más que cien personas.",
+     "Hay más de cien personas.",
+     "más de + getal."
+    ],
+    [
+     "La razón por que vine ...",
+     "La razón por la que vine ...",
+     "voorzetsel + la que."
+    ],
+    [
+     "Es tan alto que yo.",
+     "Es tan alto como yo.",
+     "tan ... como."
+    ],
+    [
+     "Cuanto más estudio, más más aprendo.",
+     "Cuanto más estudio, más aprendo.",
+     "één keer más."
+    ],
+    [
+     "No vino, que me molestó.",
+     "No vino, lo cual me molestó.",
+     "lo cual / lo que voor een hele zin."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het juiste betrekkelijk voornaamwoord of de juiste vergelijkingsvorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El autor ______ libro leí vive aquí.",
+     "hint": "wiens",
+     "a": "cuyo",
+     "full": "El autor cuyo libro leí vive aquí."
+    },
+    {
+     "q": "La empresa ______ directivos dimitieron cerró.",
+     "hint": "wiens + meervoud",
+     "a": "cuyos",
+     "full": "La empresa cuyos directivos dimitieron cerró."
+    },
+    {
+     "q": "No vino, ______ me molestó.",
+     "hint": "wat (verwijst naar de hele zin)",
+     "a": "lo cual",
+     "full": "No vino, lo cual me molestó."
+    },
+    {
+     "q": "La razón por la ______ vine es personal.",
+     "hint": "betrekkelijk voornaamwoord",
+     "a": "que",
+     "full": "La razón por la que vine es personal."
+    },
+    {
+     "q": "Es más difícil ______ lo que pensaba.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Es más difícil de lo que pensaba."
+    },
+    {
+     "q": "Tiene más dinero ______ que necesita.",
+     "hint": "del / de lo / de la",
+     "a": "del",
+     "full": "Tiene más dinero del que necesita."
+    },
+    {
+     "q": "Hay más ______ cien personas.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Hay más de cien personas."
+    },
+    {
+     "q": "______ más estudio, más aprendo.",
+     "hint": "hoe meer",
+     "a": "Cuanto",
+     "full": "Cuanto más estudio, más aprendo."
+    },
+    {
+     "q": "Todo ______ tengo es tuyo.",
+     "hint": "alles wat",
+     "a": "cuanto",
+     "full": "Todo cuanto tengo es tuyo."
+    },
+    {
+     "q": "Es ______ alto como yo.",
+     "hint": "even, net zo",
+     "a": "tan",
+     "full": "Es tan alto como yo."
+    },
+    {
+     "q": "Hazlo lo más ______ posible.",
+     "hint": "snel (vorm van het bijv. nw.)",
+     "a": "rápido",
+     "full": "Hazlo lo más rápido posible."
+    },
+    {
+     "q": "El amigo a ______ escribí vive en Lima.",
+     "hint": "wie (persoon)",
+     "a": "quien",
+     "full": "El amigo a quien escribí vive en Lima."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "De schrijver van wie ik het boek las, woont hier.",
+     "a": "El autor cuyo libro leí vive aquí."
+    },
+    {
+     "q": "Het is duurder dan ik dacht.",
+     "a": "Es más caro de lo que pensaba."
+    },
+    {
+     "q": "Hoe meer ik studeer, hoe meer ik leer.",
+     "a": "Cuanto más estudio, más aprendo."
+    },
+    {
+     "q": "Hij kwam niet, wat me stoorde.",
+     "a": "No vino, lo cual me molestó."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
