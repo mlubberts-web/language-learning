@@ -1,0 +1,968 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Werkwoorden",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Futuro en condicional",
+  "subtitle": "De toekomende tijd en de voorwaardelijke wijs: regelmatige vormen, onregelmatige stammen, waarschijnlijkheid, beleefdheid en advies",
+  "footer": "Language Learning · B1 · Werkwoorden · Futuro en condicional",
+  "next": "Volgende: B1 · pdf 2 — De presente de subjuntivo: vormen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de futuro simple en de condicional vormen van regelmatige en onregelmatige werkwoorden",
+    "over de toekomst praten, beloftes doen en voorspellingen maken",
+    "beleefde verzoeken doen, advies geven en denkbeeldige situaties beschrijven",
+    "waarschijnlijkheid uitdrukken over het heden (estará) en het verleden (serían)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De futuro simple"
+  },
+  {
+   "type": "p",
+   "text": "De futuro simple maak je door de uitgangen hieronder achter de <b>hele infinitief</b> te zetten. Er is geen stamverandering, en de uitgangen zijn gelijk voor werkwoorden op -ar, -er en -ir. Elke vorm behalve nosotros heeft een geschreven accent."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    4.0,
+    8.0
+   ],
+   "head": [
+    "Persoon",
+    "Uitgang",
+    "Voorbeeld: hablar"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-é",
+     "hablaré"
+    ],
+    [
+     "tú",
+     "-ás",
+     "hablarás"
+    ],
+    [
+     "él / ella / usted",
+     "-á",
+     "hablará"
+    ],
+    [
+     "nosotros / nosotras",
+     "-emos",
+     "hablaremos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-éis",
+     "hablaréis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-án",
+     "hablarán"
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "futuro",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "forms": [
+    "hablar*é*",
+    "hablar*ás*",
+    "hablar*á*",
+    "hablar*emos*",
+    "hablar*éis*",
+    "hablar*án*"
+   ],
+   "examples": [
+    [
+     "Mañana hablaré con mi jefe.",
+     "Morgen zal ik met mijn baas praten."
+    ],
+    [
+     "¿Hablarás con Ana?",
+     "Zul je met Ana praten?"
+    ],
+    [
+     "Ella hablará en la reunión.",
+     "Zij zal in de vergadering spreken."
+    ],
+    [
+     "Hablaremos por teléfono.",
+     "We zullen bellen."
+    ],
+    [
+     "¿Hablaréis con el profesor?",
+     "Zullen jullie met de leraar praten?"
+    ],
+    [
+     "Mis padres hablarán con el director.",
+     "Mijn ouders zullen met de directeur praten."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "conj",
+   "tense": "futuro",
+   "verb": "comer",
+   "meaning": "eten",
+   "forms": [
+    "comer*é*",
+    "comer*ás*",
+    "comer*á*",
+    "comer*emos*",
+    "comer*éis*",
+    "comer*án*"
+   ],
+   "examples": [
+    [
+     "Esta noche comeré en casa.",
+     "Vanavond zal ik thuis eten."
+    ],
+    [
+     "¿Comerás con nosotros?",
+     "Eet je met ons mee?"
+    ],
+    [
+     "Marta comerá más tarde.",
+     "Marta zal later eten."
+    ],
+    [
+     "Comeremos paella el domingo.",
+     "Zondag zullen we paella eten."
+    ],
+    [
+     "¿Comeréis aquí?",
+     "Zullen jullie hier eten?"
+    ],
+    [
+     "Los niños comerán primero.",
+     "De kinderen eten eerst."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "conj",
+   "tense": "futuro",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "forms": [
+    "vivir*é*",
+    "vivir*ás*",
+    "vivir*á*",
+    "vivir*emos*",
+    "vivir*éis*",
+    "vivir*án*"
+   ],
+   "examples": [
+    [
+     "Algún día viviré en México.",
+     "Ooit zal ik in Mexico wonen."
+    ],
+    [
+     "¿Vivirás en Madrid?",
+     "Zul jij in Madrid wonen?"
+    ],
+    [
+     "Mi hermano vivirá en Londres.",
+     "Mijn broer zal in Londen wonen."
+    ],
+    [
+     "Viviremos cerca del mar.",
+     "We zullen dicht bij de zee wonen."
+    ],
+    [
+     "¿Viviréis juntos?",
+     "Zullen jullie samenwonen?"
+    ],
+    [
+     "Mis abuelos vivirán con nosotros.",
+     "Mijn opa en oma zullen bij ons wonen."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "h1",
+   "text": "2. Onregelmatige stammen"
+  },
+  {
+   "type": "p",
+   "text": "Zo'n twaalf veelgebruikte werkwoorden veranderen hun stam. De uitgangen blijven gelijk, en <b>dezelfde stammen</b> gebruik je voor de condicional (deel 4). Er zijn drie soorten veranderingen:"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>De klinker valt weg:</b> poder, querer, saber, haber, caber: <i>podr-, querr-, sabr-, habr-, cabr-</i>",
+    "<b>d vervangt de klinker:</b> poner, salir, tener, venir: <i>pondr-, saldr-, tendr-, vendr-</i>",
+    "<b>Ingekort:</b> decir geeft <i>dir-</i> en hacer geeft <i>har-</i>"
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "futuro",
+   "verbs": [
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "*tendr*é",
+      "*tendr*ás",
+      "*tendr*á",
+      "*tendr*emos",
+      "*tendr*éis",
+      "*tendr*án"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "*har*é",
+      "*har*ás",
+      "*har*á",
+      "*har*emos",
+      "*har*éis",
+      "*har*án"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen",
+     "forms": [
+      "*dir*é",
+      "*dir*ás",
+      "*dir*á",
+      "*dir*emos",
+      "*dir*éis",
+      "*dir*án"
+     ]
+    },
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "*podr*é",
+      "*podr*ás",
+      "*podr*á",
+      "*podr*emos",
+      "*podr*éis",
+      "*podr*án"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "futuro",
+   "verbs": [
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "*pondr*é",
+      "*pondr*ás",
+      "*pondr*á",
+      "*pondr*emos",
+      "*pondr*éis",
+      "*pondr*án"
+     ]
+    },
+    {
+     "inf": "salir",
+     "meaning": "weggaan",
+     "forms": [
+      "*saldr*é",
+      "*saldr*ás",
+      "*saldr*á",
+      "*saldr*emos",
+      "*saldr*éis",
+      "*saldr*án"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "*vendr*é",
+      "*vendr*ás",
+      "*vendr*á",
+      "*vendr*emos",
+      "*vendr*éis",
+      "*vendr*án"
+     ]
+    },
+    {
+     "inf": "querer",
+     "meaning": "willen",
+     "forms": [
+      "*querr*é",
+      "*querr*ás",
+      "*querr*á",
+      "*querr*emos",
+      "*querr*éis",
+      "*querr*án"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "futuro",
+   "verbs": [
+    {
+     "inf": "saber",
+     "meaning": "weten",
+     "forms": [
+      "*sabr*é",
+      "*sabr*ás",
+      "*sabr*á",
+      "*sabr*emos",
+      "*sabr*éis",
+      "*sabr*án"
+     ]
+    },
+    {
+     "inf": "haber",
+     "meaning": "hebben (hulpww.)",
+     "forms": [
+      "*habr*é",
+      "*habr*ás",
+      "*habr*á",
+      "*habr*emos",
+      "*habr*éis",
+      "*habr*án"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Samenstellingen volgen het basiswerkwoord: <i>detener</i> geeft detendré, <i>mantener</i> geeft mantendré, <i>suponer</i> geeft supondré, <i>deshacer</i> geeft desharé.",
+    "<b>hay</b> wordt <b>habrá</b>: <i>Habrá mucha gente.</i> (Er zullen veel mensen zijn.)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Het gebruik van de futuro"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Voorspellingen",
+     "El año que viene hará más calor.",
+     "Volgend jaar wordt het warmer."
+    ],
+    [
+     "Beloftes",
+     "Te llamaré mañana.",
+     "Ik bel je morgen."
+    ],
+    [
+     "Formele of geschreven plannen",
+     "La reunión empezará a las diez.",
+     "De vergadering begint om tien uur."
+    ],
+    [
+     "Waarschijnlijkheid, nu",
+     "Estará en casa.",
+     "Hij zal wel thuis zijn."
+    ],
+    [
+     "Waarschijnlijkheid, nu",
+     "¿Qué hora será? Serán las tres.",
+     "Hoe laat zou het zijn? Het zal drie uur zijn."
+    ],
+    [
+     "Bevelen (stellig)",
+     "Mañana vendrás a verme.",
+     "Morgen kom je bij me langs."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Futuro of ir a?",
+   "text": "In het dagelijkse Spaans is <b>ir a + infinitief</b> (A2 pdf 6) gewoner voor plannen: <i>Voy a llamarte mañana.</i> De futuro simple heeft de voorkeur voor <b>beloftes, voorspellingen, formele taal en waarschijnlijkheid</b>. Na <b>si</b> (als) gebruik je nooit de futuro in de bijzin: <i>Si tengo tiempo, iré.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "zal = futuro, zou = condicional",
+   "text": "Het Nederlandse <i>zal</i> past bij de Spaanse futuro, en het Nederlandse <i>zou</i> bij de condicional. Het Nederlands gebruikt vaak de tegenwoordige tijd voor de toekomst (<i>Morgen werk ik</i>), en het Spaans ook (<i>Mañana trabajo</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "4. De condicional"
+  },
+  {
+   "type": "p",
+   "text": "Neem dezelfde stam als bij de futuro (de hele infinitief, of de onregelmatige stam) en voeg de <b>uitgangen van de imperfecto van -er / -ir</b> toe: <b>-ía, -ías, -ía, -íamos, -íais, -ían</b>. De uitgangen zijn gelijk voor alle drie de groepen."
+  },
+  {
+   "type": "conj",
+   "tense": "condicional",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "forms": [
+    "hablar*ía*",
+    "hablar*ías*",
+    "hablar*ía*",
+    "hablar*íamos*",
+    "hablar*íais*",
+    "hablar*ían*"
+   ],
+   "examples": [
+    [
+     "Hablaría con él, pero no puedo.",
+     "Ik zou met hem praten, maar ik kan niet."
+    ],
+    [
+     "¿Hablarías más despacio?",
+     "Zou je langzamer willen praten?"
+    ],
+    [
+     "Ella hablaría con el jefe.",
+     "Zij zou met de baas praten."
+    ],
+    [
+     "Hablaríamos con ella mañana.",
+     "We zouden morgen met haar praten."
+    ],
+    [
+     "¿Hablaríais con el director?",
+     "Zouden jullie met de directeur praten?"
+    ],
+    [
+     "Ellos hablarían con todos.",
+     "Zij zouden met iedereen praten."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "conj",
+   "tense": "condicional",
+   "verb": "comer",
+   "meaning": "eten",
+   "forms": [
+    "comer*ía*",
+    "comer*ías*",
+    "comer*ía*",
+    "comer*íamos*",
+    "comer*íais*",
+    "comer*ían*"
+   ],
+   "examples": [
+    [
+     "Comería algo ligero.",
+     "Ik zou iets lichts eten."
+    ],
+    [
+     "¿Comerías en este restaurante?",
+     "Zou jij in dit restaurant eten?"
+    ],
+    [
+     "Marta comería sola.",
+     "Marta zou alleen eten."
+    ],
+    [
+     "Comeríamos más tarde.",
+     "We zouden later eten."
+    ],
+    [
+     "¿Comeríais con nosotros?",
+     "Zouden jullie met ons eten?"
+    ],
+    [
+     "Ellos comerían en la terraza.",
+     "Zij zouden op het terras eten."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "conj",
+   "tense": "condicional",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "forms": [
+    "vivir*ía*",
+    "vivir*ías*",
+    "vivir*ía*",
+    "vivir*íamos*",
+    "vivir*íais*",
+    "vivir*ían*"
+   ],
+   "examples": [
+    [
+     "Viviría en el campo.",
+     "Ik zou op het platteland wonen."
+    ],
+    [
+     "¿Vivirías en otro país?",
+     "Zou jij in een ander land wonen?"
+    ],
+    [
+     "Ella viviría en Madrid.",
+     "Zij zou in Madrid wonen."
+    ],
+    [
+     "Viviríamos más cerca.",
+     "We zouden dichterbij wonen."
+    ],
+    [
+     "¿Viviríais aquí?",
+     "Zouden jullie hier wonen?"
+    ],
+    [
+     "Mis tíos vivirían en Cuba.",
+     "Mijn oom en tante zouden op Cuba wonen."
+    ]
+   ],
+   "label": "regelmatig werkwoord: infinitief + uitgang"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "condicional",
+   "verbs": [
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "*tendr*ía",
+      "*tendr*ías",
+      "*tendr*ía",
+      "*tendr*íamos",
+      "*tendr*íais",
+      "*tendr*ían"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "*har*ía",
+      "*har*ías",
+      "*har*ía",
+      "*har*íamos",
+      "*har*íais",
+      "*har*ían"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen",
+     "forms": [
+      "*dir*ía",
+      "*dir*ías",
+      "*dir*ía",
+      "*dir*íamos",
+      "*dir*íais",
+      "*dir*ían"
+     ]
+    },
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "*podr*ía",
+      "*podr*ías",
+      "*podr*ía",
+      "*podr*íamos",
+      "*podr*íais",
+      "*podr*ían"
+     ]
+    }
+   ],
+   "title": "Onregelmatige condicional (dezelfde stammen als bij de futuro)"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "condicional",
+   "verbs": [
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "*pondr*ía",
+      "*pondr*ías",
+      "*pondr*ía",
+      "*pondr*íamos",
+      "*pondr*íais",
+      "*pondr*ían"
+     ]
+    },
+    {
+     "inf": "salir",
+     "meaning": "weggaan",
+     "forms": [
+      "*saldr*ía",
+      "*saldr*ías",
+      "*saldr*ía",
+      "*saldr*íamos",
+      "*saldr*íais",
+      "*saldr*ían"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "*vendr*ía",
+      "*vendr*ías",
+      "*vendr*ía",
+      "*vendr*íamos",
+      "*vendr*íais",
+      "*vendr*ían"
+     ]
+    },
+    {
+     "inf": "querer",
+     "meaning": "willen",
+     "forms": [
+      "*querr*ía",
+      "*querr*ías",
+      "*querr*ía",
+      "*querr*íamos",
+      "*querr*íais",
+      "*querr*ían"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "condicional",
+   "verbs": [
+    {
+     "inf": "saber",
+     "meaning": "weten",
+     "forms": [
+      "*sabr*ía",
+      "*sabr*ías",
+      "*sabr*ía",
+      "*sabr*íamos",
+      "*sabr*íais",
+      "*sabr*ían"
+     ]
+    },
+    {
+     "inf": "haber",
+     "meaning": "hebben (hulpww.)",
+     "forms": [
+      "*habr*ía",
+      "*habr*ías",
+      "*habr*ía",
+      "*habr*íamos",
+      "*habr*íais",
+      "*habr*ían"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Het gebruik van de condicional"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Beleefd verzoek",
+     "¿Podrías ayudarme? ¿Me darías un vaso de agua?",
+     "Zou je me kunnen helpen? Zou je me een glas water willen geven?"
+    ],
+    [
+     "Beleefde wens",
+     "Me gustaría reservar una mesa. Querría un café.",
+     "Ik zou graag een tafel reserveren. Ik wil graag een koffie."
+    ],
+    [
+     "Advies",
+     "Deberías descansar más. Yo que tú, iría al médico.",
+     "Je zou meer moeten rusten. Als ik jou was, zou ik naar de dokter gaan."
+    ],
+    [
+     "Hypothese",
+     "Sería genial viajar a Chile.",
+     "Het zou geweldig zijn om naar Chili te reizen."
+    ],
+    [
+     "Toekomst in het verleden",
+     "Dijo que vendría a las ocho.",
+     "Hij zei dat hij om acht uur zou komen."
+    ],
+    [
+     "Waarschijnlijkheid, verleden",
+     "Serían las tres cuando llegó.",
+     "Het zal rond drie uur geweest zijn toen hij aankwam."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Indirecte rede gebruikt de condicional",
+   "text": "Als het hoofdwerkwoord in het verleden staat, wordt <i>hij zal komen</i> de condicional: <i>Dice que vendrá</i> (hij zegt dat hij zal komen) maar <b>Dijo que vendría</b> (hij zei dat hij zou komen)."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "zou is niet altijd de condicional",
+   "text": "Het Nederlandse <i>zou</i> is zowel voorwaardelijk (<i>ik zou gaan</i> = iría) als een beleefdheidsvorm. In het Spaans gebruikt men voor beleefdheid vaak <b>quisiera</b> of <b>me gustaría</b> (<i>Quisiera un café</i>); de imperfecto de subjuntivo komt in B2."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.7,
+    5.7
+   ],
+   "head": [
+    "Tijd",
+    "Waarschijnlijkheid over het heden",
+    "Waarschijnlijkheid over het verleden"
+   ],
+   "rows": [
+    [
+     "Werkwoordstijd",
+     "futuro",
+     "condicional"
+    ],
+    [
+     "Voorbeeld",
+     "Estará enfermo.",
+     "Estaría enfermo."
+    ],
+    [
+     "Nederlands",
+     "Hij is waarschijnlijk ziek.",
+     "Hij was waarschijnlijk ziek."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Mañana haceré la cena.",
+     "Mañana haré la cena.",
+     "hacer heeft de stam har-."
+    ],
+    [
+     "Yo no poderé venir.",
+     "Yo no podré venir.",
+     "poder heeft de stam podr-."
+    ],
+    [
+     "Ellos tenerán tiempo.",
+     "Ellos tendrán tiempo.",
+     "tener heeft de stam tendr-."
+    ],
+    [
+     "Mañana hablare con él.",
+     "Mañana hablaré con él.",
+     "De yo-vorm heeft een accent nodig: hablaré."
+    ],
+    [
+     "Si tendré tiempo, iré.",
+     "Si tengo tiempo, iré.",
+     "Na si (als) gebruik je de presente, niet de futuro."
+    ],
+    [
+     "Dijo que vendrá a las ocho.",
+     "Dijo que vendría a las ocho.",
+     "Indirecte rede in het verleden heeft de condicional nodig."
+    ],
+    [
+     "Yo gustaría un café.",
+     "Me gustaría un café.",
+     "gustar heeft het meewerkend voornaamwoord nodig: me gustaría."
+    ],
+    [
+     "Yo sabré la respuesta ayer.",
+     "Supe la respuesta ayer.",
+     "De futuro gebruik je niet voor het verleden. Gebruik de indefinido."
+    ],
+    [
+     "Será tres horas.",
+     "Serán las tres.",
+     "Uren staan in het meervoud: serán las tres (het zal drie uur zijn)."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf de futuro of de condicional van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Mañana yo ______ con mi jefe.",
+     "hint": "hablar (futuro)",
+     "a": "hablaré",
+     "full": "Mañana yo hablaré con mi jefe."
+    },
+    {
+     "q": "El año que viene ellos ______ en Berlín.",
+     "hint": "vivir (futuro)",
+     "a": "vivirán",
+     "full": "El año que viene ellos vivirán en Berlín."
+    },
+    {
+     "q": "Nosotros ______ a las ocho.",
+     "hint": "salir (futuro)",
+     "a": "saldremos",
+     "full": "Nosotros saldremos a las ocho."
+    },
+    {
+     "q": "Yo ______ la cena esta noche.",
+     "hint": "hacer (futuro)",
+     "a": "haré",
+     "full": "Yo haré la cena esta noche."
+    },
+    {
+     "q": "¿Tú ______ venir a mi fiesta?",
+     "hint": "poder (futuro)",
+     "a": "podrás",
+     "full": "¿Tú podrás venir a mi fiesta?"
+    },
+    {
+     "q": "Ana ______ muchos regalos.",
+     "hint": "tener (futuro)",
+     "a": "tendrá",
+     "full": "Ana tendrá muchos regalos."
+    },
+    {
+     "q": "Yo ______ otro café, por favor.",
+     "hint": "querer (condicional)",
+     "a": "querría",
+     "full": "Yo querría otro café, por favor."
+    },
+    {
+     "q": "¿Me ______ ayudar?",
+     "hint": "poder (condicional, tú)",
+     "a": "podrías",
+     "full": "¿Me podrías ayudar?"
+    },
+    {
+     "q": "Me ______ viajar a Chile.",
+     "hint": "gustar (condicional)",
+     "a": "gustaría",
+     "full": "Me gustaría viajar a Chile."
+    },
+    {
+     "q": "Tú ______ descansar más.",
+     "hint": "deber (condicional)",
+     "a": "deberías",
+     "full": "Tú deberías descansar más."
+    },
+    {
+     "q": "Dijo que ______ a las ocho.",
+     "hint": "venir (condicional)",
+     "a": "vendría",
+     "full": "Dijo que vendría a las ocho."
+    },
+    {
+     "q": "¿Dónde ______ mis llaves? (waarschijnlijk)",
+     "hint": "estar (futuro)",
+     "a": "estarán",
+     "full": "¿Dónde estarán mis llaves? (probably)"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik bel je morgen.",
+     "a": "Te llamaré mañana."
+    },
+    {
+     "q": "Zou je het raam open willen doen?",
+     "a": "¿Abrirías la ventana?"
+    },
+    {
+     "q": "Er zullen veel mensen zijn.",
+     "a": "Habrá mucha gente."
+    },
+    {
+     "q": "Hij is waarschijnlijk thuis.",
+     "a": "Estará en casa."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

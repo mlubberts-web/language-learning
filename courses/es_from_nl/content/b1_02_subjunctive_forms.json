@@ -1,0 +1,893 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Werkwoorden",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "De presente de subjuntivo: vormen",
+  "subtitle": "Zo vorm je de presente de subjuntivo: regelmatige werkwoorden, onregelmatige yo-vormen, stamveranderingen, spellingsveranderingen en zes onregelmatige werkwoorden",
+  "footer": "Language Learning · B1 · Werkwoorden · Presente de subjuntivo (vormen)",
+  "next": "Volgende: B1 · pdf 3 — De presente de subjuntivo: gebruik"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de presente de subjuntivo van regelmatige werkwoorden in elke persoon vormen",
+    "hem vormen voor werkwoorden met een onregelmatige yo-vorm, een stamverandering of een spellingsverandering",
+    "de zes helemaal onregelmatige werkwoorden herkennen (ser, estar, ir, haber, saber, dar)",
+    "zien wanneer het Spaans que + subjuntivo nodig heeft (het gebruik staat in pdf 3)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Wat is de subjuntivo?"
+  },
+  {
+   "type": "p",
+   "text": "Tot nu toe heb je de <b>indicativo</b> gebruikt (presente, indefinido, imperfecto, futuro ...), die feiten vaststelt. De <b>subjuntivo</b> is een andere <b>wijs</b>: je gebruikt hem in een bijzin (na <i>que</i>) voor wensen, verzoeken, gevoelens, twijfel en dingen die nog niet echt zijn."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Indicativo (feit)",
+    "Subjuntivo (wens, twijfel, gevoel)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Sé que vienes.",
+     "Quiero que vengas.",
+     "Ik weet dat je komt. / Ik wil dat je komt."
+    ],
+    [
+     "Creo que tiene tiempo.",
+     "Espero que tenga tiempo.",
+     "Ik denk dat hij tijd heeft. / Ik hoop dat hij tijd heeft."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlands gebruikt hier de gewone tegenwoordige tijd",
+   "text": "<i>Ik wil dat je komt</i> gebruikt in het Nederlands de gewone tegenwoordige tijd. Het Spaans heeft <b>Quiero que vengas</b> nodig. Zeg je <i>dat</i> na een werkwoord van willen, hopen of voelen, denk dan aan de subjuntivo."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zelfde onderwerp: infinitief. Ander onderwerp: que + subjuntivo",
+   "text": "<i>Quiero comer.</i> (Ik wil eten: dezelfde persoon.) <i>Quiero que comas.</i> (Ik wil dat jij eet: een andere persoon.) Dit patroon is de sleutel tot de volgende pdf."
+  },
+  {
+   "type": "h1",
+   "text": "2. Zo vorm je de presente de subjuntivo"
+  },
+  {
+   "type": "p",
+   "text": "Neem de <b>yo</b>-vorm van de presente, haal de <b>-o</b> eraf en voeg de <b>tegenovergestelde klinker</b> toe: werkwoorden op <b>-ar</b> krijgen <b>e</b>, werkwoorden op <b>-er / -ir</b> krijgen <b>a</b>. Dit zijn dezelfde vormen die je al kent van de geboden aan usted en de ontkennende geboden (A2 pdf 7)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    4.0,
+    4.0,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "-ar (hablar)",
+    "-er (comer)",
+    "-ir (vivir)"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-e",
+     "-a",
+     "-a"
+    ],
+    [
+     "tú",
+     "-es",
+     "-as",
+     "-as"
+    ],
+    [
+     "él / ella / usted",
+     "-e",
+     "-a",
+     "-a"
+    ],
+    [
+     "nosotros / nosotras",
+     "-emos",
+     "-amos",
+     "-amos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-éis",
+     "-áis",
+     "-áis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-en",
+     "-an",
+     "-an"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Waarom de onregelmatige yo-vormen ertoe doen",
+   "text": "Omdat je begint bij de yo-vorm, geeft <i>tengo</i> <b>tenga</b>, <i>hago</i> <b>haga</b>, <i>conozco</i> <b>conozca</b>. Yo en él / ella / usted hebben <b>dezelfde vorm</b>: <i>que yo hable</i> en <i>que él hable</i>."
+  },
+  {
+   "type": "conj",
+   "tense": "presente de subjuntivo",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "group": "-ar",
+   "stem": "habl",
+   "endings": [
+    "e",
+    "es",
+    "e",
+    "emos",
+    "éis",
+    "en"
+   ],
+   "examples": [
+    [
+     "Quiero que hable con el jefe.",
+     "Ik wil dat hij met de baas praat."
+    ],
+    [
+     "Espero que hables con Ana.",
+     "Ik hoop dat je met Ana praat."
+    ],
+    [
+     "Es importante que ella hable despacio.",
+     "Het is belangrijk dat ze langzaam praat."
+    ],
+    [
+     "Es mejor que hablemos mañana.",
+     "Het is beter dat we morgen praten."
+    ],
+    [
+     "Quiero que habléis con el profesor.",
+     "Ik wil dat jullie met de leraar praten."
+    ],
+    [
+     "Prefiero que hablen ellos.",
+     "Ik heb liever dat zij praten."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "presente de subjuntivo",
+   "verb": "comer",
+   "meaning": "eten",
+   "group": "-er",
+   "stem": "com",
+   "endings": [
+    "a",
+    "as",
+    "a",
+    "amos",
+    "áis",
+    "an"
+   ],
+   "examples": [
+    [
+     "Quiero que coma más fruta.",
+     "Ik wil dat hij meer fruit eet."
+    ],
+    [
+     "Espero que comas bien.",
+     "Ik hoop dat je goed eet."
+    ],
+    [
+     "Es necesario que él coma algo.",
+     "Het is nodig dat hij iets eet."
+    ],
+    [
+     "Ojalá comamos juntos.",
+     "Ik hoop dat we samen eten."
+    ],
+    [
+     "Os pido que comáis despacio.",
+     "Ik vraag jullie langzaam te eten."
+    ],
+    [
+     "Dudo que coman tanto.",
+     "Ik betwijfel of ze zoveel eten."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "tense": "presente de subjuntivo",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "group": "-ir",
+   "stem": "viv",
+   "endings": [
+    "a",
+    "as",
+    "a",
+    "amos",
+    "áis",
+    "an"
+   ],
+   "examples": [
+    [
+     "Espero que viva cerca.",
+     "Ik hoop dat hij dichtbij woont."
+    ],
+    [
+     "Quiero que vivas feliz.",
+     "Ik wil dat je gelukkig leeft."
+    ],
+    [
+     "Es probable que ella viva en Madrid.",
+     "Het is waarschijnlijk dat ze in Madrid woont."
+    ],
+    [
+     "Ojalá vivamos aquí mucho tiempo.",
+     "Ik hoop dat we hier lang wonen."
+    ],
+    [
+     "Deseo que viváis bien.",
+     "Ik wens jullie een goed leven."
+    ],
+    [
+     "Dudo que vivan aquí.",
+     "Ik betwijfel of ze hier wonen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Onregelmatige yo-vormen"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "tenga",
+      "tengas",
+      "tenga",
+      "tengamos",
+      "tengáis",
+      "tengan"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "haga",
+      "hagas",
+      "haga",
+      "hagamos",
+      "hagáis",
+      "hagan"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen",
+     "forms": [
+      "diga",
+      "digas",
+      "diga",
+      "digamos",
+      "digáis",
+      "digan"
+     ]
+    },
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "ponga",
+      "pongas",
+      "ponga",
+      "pongamos",
+      "pongáis",
+      "pongan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "salir",
+     "meaning": "weggaan",
+     "forms": [
+      "salga",
+      "salgas",
+      "salga",
+      "salgamos",
+      "salgáis",
+      "salgan"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "venga",
+      "vengas",
+      "venga",
+      "vengamos",
+      "vengáis",
+      "vengan"
+     ]
+    },
+    {
+     "inf": "traer",
+     "meaning": "brengen",
+     "forms": [
+      "traiga",
+      "traigas",
+      "traiga",
+      "traigamos",
+      "traigáis",
+      "traigan"
+     ]
+    },
+    {
+     "inf": "oír",
+     "meaning": "horen",
+     "forms": [
+      "oiga",
+      "oigas",
+      "oiga",
+      "oigamos",
+      "oigáis",
+      "oigan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "conocer",
+     "meaning": "kennen (een persoon)",
+     "forms": [
+      "conozca",
+      "conozcas",
+      "conozca",
+      "conozcamos",
+      "conozcáis",
+      "conozcan"
+     ]
+    },
+    {
+     "inf": "ver",
+     "meaning": "zien",
+     "forms": [
+      "vea",
+      "veas",
+      "vea",
+      "veamos",
+      "veáis",
+      "vean"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Zes helemaal onregelmatige werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Deze komen niet van de yo-vorm. Leer ze uit je hoofd: <b>ser, estar, ir, haber, saber, dar</b>."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "ser",
+     "meaning": "zijn",
+     "forms": [
+      "sea",
+      "seas",
+      "sea",
+      "seamos",
+      "seáis",
+      "sean"
+     ]
+    },
+    {
+     "inf": "estar",
+     "meaning": "zijn",
+     "forms": [
+      "esté",
+      "estés",
+      "esté",
+      "estemos",
+      "estéis",
+      "estén"
+     ]
+    },
+    {
+     "inf": "ir",
+     "meaning": "gaan",
+     "forms": [
+      "vaya",
+      "vayas",
+      "vaya",
+      "vayamos",
+      "vayáis",
+      "vayan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "haber",
+     "meaning": "hebben (hulpww.)",
+     "forms": [
+      "haya",
+      "hayas",
+      "haya",
+      "hayamos",
+      "hayáis",
+      "hayan"
+     ]
+    },
+    {
+     "inf": "saber",
+     "meaning": "weten",
+     "forms": [
+      "sepa",
+      "sepas",
+      "sepa",
+      "sepamos",
+      "sepáis",
+      "sepan"
+     ]
+    },
+    {
+     "inf": "dar",
+     "meaning": "geven",
+     "forms": [
+      "dé",
+      "des",
+      "dé",
+      "demos",
+      "deis",
+      "den"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>dar</b> heeft alleen een accent in <b>dé</b> (om het te onderscheiden van het voorzetsel <i>de</i>). <b>deis</b> heeft geen accent.",
+    "<b>estar</b> houdt de accenten van de presente: esté, estés, esté, estén. Ook estéis houdt zijn accent."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Stamveranderende werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Werkwoorden op <b>-ar en -er</b> veranderen precies zoals in de presente (de 'laars': yo, tú, él, ellos; niet nosotros / vosotros)."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "pensar",
+     "meaning": "denken",
+     "forms": [
+      "p*ie*nse",
+      "p*ie*nses",
+      "p*ie*nse",
+      "pensemos",
+      "penséis",
+      "p*ie*nsen"
+     ]
+    },
+    {
+     "inf": "volver",
+     "meaning": "terugkomen",
+     "forms": [
+      "v*ue*lva",
+      "v*ue*lvas",
+      "v*ue*lva",
+      "volvamos",
+      "volváis",
+      "v*ue*lvan"
+     ]
+    },
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "p*ue*da",
+      "p*ue*das",
+      "p*ue*da",
+      "podamos",
+      "podáis",
+      "p*ue*dan"
+     ]
+    },
+    {
+     "inf": "querer",
+     "meaning": "willen",
+     "forms": [
+      "qu*ie*ra",
+      "qu*ie*ras",
+      "qu*ie*ra",
+      "queramos",
+      "queráis",
+      "qu*ie*ran"
+     ]
+    }
+   ],
+   "kind": "boot"
+  },
+  {
+   "type": "p",
+   "text": "Werkwoorden op <b>-ir</b> veranderen ook bij <b>nosotros en vosotros</b>: e wordt i en o wordt u (dezelfde verandering als in de derde persoon van de indefinido)."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "dormir",
+     "meaning": "slapen",
+     "forms": [
+      "d*ue*rma",
+      "d*ue*rmas",
+      "d*ue*rma",
+      "d*u*rmamos",
+      "d*u*rmáis",
+      "d*ue*rman"
+     ]
+    },
+    {
+     "inf": "pedir",
+     "meaning": "vragen om",
+     "forms": [
+      "p*i*da",
+      "p*i*das",
+      "p*i*da",
+      "p*i*damos",
+      "p*i*dáis",
+      "p*i*dan"
+     ]
+    },
+    {
+     "inf": "preferir",
+     "meaning": "liever hebben",
+     "forms": [
+      "pref*ie*ra",
+      "pref*ie*ras",
+      "pref*ie*ra",
+      "pref*i*ramos",
+      "pref*i*ráis",
+      "pref*ie*ran"
+     ]
+    },
+    {
+     "inf": "sentir",
+     "meaning": "voelen",
+     "forms": [
+      "s*ie*nta",
+      "s*ie*ntas",
+      "s*ie*nta",
+      "s*i*ntamos",
+      "s*i*ntáis",
+      "s*ie*ntan"
+     ]
+    },
+    {
+     "inf": "seguir",
+     "meaning": "volgen",
+     "forms": [
+      "s*i*ga",
+      "s*i*gas",
+      "s*i*ga",
+      "s*i*gamos",
+      "s*i*gáis",
+      "s*i*gan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Spellingsveranderingen"
+  },
+  {
+   "type": "p",
+   "text": "Omdat de uitgang nu met een <b>e</b> begint, veranderen werkwoorden op -car, -gar en -zar in <b>alle personen</b> om de klank te houden (net als in de yo-vorm van de indefinido):"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "presente de subjuntivo",
+   "verbs": [
+    {
+     "inf": "buscar",
+     "meaning": "zoeken",
+     "forms": [
+      "bus*qu*e",
+      "bus*qu*es",
+      "bus*qu*e",
+      "bus*qu*emos",
+      "bus*qu*éis",
+      "bus*qu*en"
+     ]
+    },
+    {
+     "inf": "llegar",
+     "meaning": "aankomen",
+     "forms": [
+      "lle*gu*e",
+      "lle*gu*es",
+      "lle*gu*e",
+      "lle*gu*emos",
+      "lle*gu*éis",
+      "lle*gu*en"
+     ]
+    },
+    {
+     "inf": "empezar",
+     "meaning": "beginnen",
+     "forms": [
+      "emp*ie*ce",
+      "emp*ie*ces",
+      "emp*ie*ce",
+      "empe*c*emos",
+      "empe*c*éis",
+      "emp*ie*cen"
+     ]
+    },
+    {
+     "inf": "jugar",
+     "meaning": "spelen",
+     "forms": [
+      "j*ue*gue",
+      "j*ue*gues",
+      "j*ue*gue",
+      "ju*gu*emos",
+      "ju*gu*éis",
+      "j*ue*guen"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Werkwoorden op <b>-ger / -gir</b> veranderen g in j voor een a: <i>coger</i> geeft <b>coja</b>, <i>elegir</i> geeft <b>elija</b>, <i>dirigir</i> geeft <b>dirija</b>.",
+    "Werkwoorden op <b>-guar</b>: <i>averiguar</i> geeft <b>averigüe</b> (met een trema)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Quiero que hablas.",
+     "Quiero que hables.",
+     "Na querer que gebruik je de subjuntivo, niet de presente."
+    ],
+    [
+     "Quiero que vienes.",
+     "Quiero que vengas.",
+     "venir: de yo-vorm is vengo, dus de subjuntivo is venga."
+    ],
+    [
+     "Espero que es feliz.",
+     "Espero que sea feliz.",
+     "ser is onregelmatig: sea, seas, sea ..."
+    ],
+    [
+     "Quiero que vas.",
+     "Quiero que vayas.",
+     "ir is onregelmatig: vaya, vayas, vaya ..."
+    ],
+    [
+     "Quiero que haces la cena.",
+     "Quiero que hagas la cena.",
+     "hacer: hago geeft haga."
+    ],
+    [
+     "Espero que tienes tiempo.",
+     "Espero que tengas tiempo.",
+     "tener: tengo geeft tenga."
+    ],
+    [
+     "Es importante que sepes.",
+     "Es importante que sepas.",
+     "saber: sepa, sepas, sepa ..."
+    ],
+    [
+     "Quiero que dormamos.",
+     "Quiero que durmamos.",
+     "Werkwoorden op -ir veranderen o in u bij nosotros en vosotros."
+    ],
+    [
+     "Espero que busces las llaves.",
+     "Espero que busques las llaves.",
+     "Werkwoorden op -car veranderen c in qu."
+    ],
+    [
+     "Quiero que me das el libro.",
+     "Quiero que me des el libro.",
+     "dar: dé, des, dé, demos, deis, den."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf de presente de subjuntivo van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Quiero que tú ______ conmigo.",
+     "hint": "hablar (tú)",
+     "a": "hables",
+     "full": "Quiero que tú hables conmigo."
+    },
+    {
+     "q": "Espero que ellos ______ pronto.",
+     "hint": "llegar (ellos)",
+     "a": "lleguen",
+     "full": "Espero que ellos lleguen pronto."
+    },
+    {
+     "q": "Es importante que nosotros ______ temprano.",
+     "hint": "salir (nosotros)",
+     "a": "salgamos",
+     "full": "Es importante que nosotros salgamos temprano."
+    },
+    {
+     "q": "Quiero que vosotros ______ a la fiesta.",
+     "hint": "venir (vosotros)",
+     "a": "vengáis",
+     "full": "Quiero que vosotros vengáis a la fiesta."
+    },
+    {
+     "q": "Ojalá ______ buen tiempo mañana.",
+     "hint": "hacer",
+     "a": "haga",
+     "full": "Ojalá haga buen tiempo mañana."
+    },
+    {
+     "q": "Espero que tú ______ muy feliz.",
+     "hint": "ser (tú)",
+     "a": "seas",
+     "full": "Espero que tú seas muy feliz."
+    },
+    {
+     "q": "Quiero que ella ______ a casa.",
+     "hint": "ir (ella)",
+     "a": "vaya",
+     "full": "Quiero que ella vaya a casa."
+    },
+    {
+     "q": "Es mejor que yo ______ la verdad.",
+     "hint": "saber (yo)",
+     "a": "sepa",
+     "full": "Es mejor que yo sepa la verdad."
+    },
+    {
+     "q": "Espero que tú ______ bien esta noche.",
+     "hint": "dormir (tú)",
+     "a": "duermas",
+     "full": "Espero que tú duermas bien esta noche."
+    },
+    {
+     "q": "Prefiero que ellos ______ pizza.",
+     "hint": "pedir (ellos)",
+     "a": "pidan",
+     "full": "Prefiero que ellos pidan pizza."
+    },
+    {
+     "q": "Quiero que tú me ______ el libro.",
+     "hint": "dar (tú)",
+     "a": "des",
+     "full": "Quiero que tú me des el libro."
+    },
+    {
+     "q": "Dudo que ellos ______ tiempo.",
+     "hint": "tener (ellos)",
+     "a": "tengan",
+     "full": "Dudo que ellos tengan tiempo."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik wil dat je komt.",
+     "a": "Quiero que vengas."
+    },
+    {
+     "q": "Ik hoop dat het goed met haar gaat.",
+     "a": "Espero que ella esté bien."
+    },
+    {
+     "q": "Het is belangrijk dat we praten.",
+     "a": "Es importante que hablemos."
+    },
+    {
+     "q": "Ik heb liever dat ze hier eten.",
+     "a": "Prefiero que coman aquí."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
