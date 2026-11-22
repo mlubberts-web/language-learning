@@ -1,0 +1,784 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Grammatica",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Vergelijkingen, ontkenningen en voorzetsels",
+  "subtitle": "Vergrotende en overtreffende trap, ontkennende woorden, por of para, verplichting en vaste voorzetsels",
+  "footer": "Language Learning · A2 · Grammatica · Vergelijkingen en voorzetsels",
+  "next": "Volgende: A2 · pdf 10 — Woordenschat en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "mensen en dingen vergelijken (más que, tan como, el mejor de)",
+    "alle ontkennende en bevestigende woorden gebruiken (nada, nadie, nunca, ningún, ni ... ni)",
+    "in de meest voorkomende situaties kiezen tussen por en para",
+    "verplichting uitdrukken (tener que, hay que, deber) en het goede voorzetsel gebruiken na veelvoorkomende werkwoorden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Vergelijkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.8,
+    6.2,
+    6.0
+   ],
+   "head": [
+    "Constructie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "más + bijv. nw. + que",
+     "Madrid es más grande que Sevilla.",
+     "Madrid is groter dan Sevilla."
+    ],
+    [
+     "menos + bijv. nw. + que",
+     "Este libro es menos caro que ese.",
+     "Dit boek is goedkoper dan dat."
+    ],
+    [
+     "tan + bijv. nw. + como",
+     "Ella es tan alta como su padre.",
+     "Zij is net zo lang als haar vader."
+    ],
+    [
+     "más / menos + zelfst. nw. + que",
+     "Tengo más libros que tú.",
+     "Ik heb meer boeken dan jij."
+    ],
+    [
+     "tanto/a/os/as + zelfst. nw. + como",
+     "Tengo tantos libros como tú.",
+     "Ik heb net zoveel boeken als jij."
+    ],
+    [
+     "werkwoord + más / menos que",
+     "Trabajo más que antes.",
+     "Ik werk meer dan vroeger."
+    ],
+    [
+     "werkwoord + tanto como",
+     "Estudio tanto como mi hermano.",
+     "Ik studeer net zoveel als mijn broer."
+    ],
+    [
+     "más / menos de + getal",
+     "Hay más de cien personas.",
+     "Er zijn meer dan honderd mensen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "que of de",
+   "text": "Gebruik <b>que</b> om twee dingen te vergelijken. Gebruik <b>de</b> in plaats van <i>que</i> voor een <b>getal</b>: <i>más de diez</i>, <i>menos de cinco euros</i>. <b>Tanto</b> past zich aan het zelfstandig naamwoord aan: tanto dinero, tanta agua, tantos libros, tantas cosas."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "Bijvoeglijk naamwoord",
+    "Vergrotende trap",
+    "Overtreffende trap",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "bueno / bien",
+     "mejor",
+     "el / la mejor",
+     "Es la mejor idea."
+    ],
+    [
+     "malo / mal",
+     "peor",
+     "el / la peor",
+     "Fue el peor día."
+    ],
+    [
+     "grande (leeftijd)",
+     "mayor",
+     "el / la mayor",
+     "Mi hermana es mayor que yo."
+    ],
+    [
+     "pequeño (leeftijd)",
+     "menor",
+     "el / la menor",
+     "Soy el menor de tres hermanos."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>mejor</b> en <b>peor</b> gebruik je voor kwaliteit: <i>Este vino es mejor que ese.</i> Zeg niet <i>más bueno</i>.",
+    "<b>mayor</b> en <b>menor</b> gebruik je voor leeftijd: <i>mi hermano mayor</i> (mijn oudere broer). Voor grootte gebruik je <b>más grande</b> en <b>más pequeño</b>.",
+    "Even goed: <i>igual de + bijv. nw. + que</i>: <i>Es igual de rápido que tú.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. De overtreffende trap"
+  },
+  {
+   "type": "p",
+   "text": "De meeste / de minste: <b>el / la / los / las + más / menos + bijv. nw. + de</b>. Na de overtreffende trap komt <b>de</b>, niet <i>en</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    5.0,
+    4.6
+   ],
+   "head": [
+    "Voorbeeld",
+    "Nederlands",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "Es la ciudad más grande de España.",
+     "Het is de grootste stad van Spanje.",
+     "de, niet en"
+    ],
+    [
+     "Es el alumno más inteligente de la clase.",
+     "Hij is de slimste leerling van de klas.",
+     ""
+    ],
+    [
+     "Son los coches menos caros de la tienda.",
+     "Het zijn de goedkoopste auto's van de winkel.",
+     ""
+    ],
+    [
+     "Este es el mejor restaurante del barrio.",
+     "Dit is het beste restaurant van de buurt.",
+     "de + el = del"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "-ísimo: heel erg",
+   "text": "Voeg <b>-ísimo</b> toe (de laatste klinker valt weg) voor een uiterste graad: <i>grande</i> geeft <b>grandísimo</b>, <i>caro</i> geeft <b>carísimo</b>, <i>muy bueno</i> geeft <b>buenísimo</b>, <i>rico</i> geeft <b>riquísimo</b> (c wordt qu). Het past zich aan: <i>buenísima, buenísimos</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse dan, als en in",
+   "text": "<i>groter dan</i> = <b>más grande que</b>. <i>zo groot als</i> = <b>tan grande como</b>. <i>de grootste in Spanje</i> = <b>el más grande de España</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Ontkennende en bevestigende woorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    3.2,
+    3.2,
+    3.2,
+    4.2
+   ],
+   "head": [
+    "Bevestigend",
+    "Ontkennend",
+    "Bevestigend",
+    "Ontkennend",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "algo",
+     "nada",
+     "alguien",
+     "nadie",
+     "No veo nada. No veo a nadie."
+    ],
+    [
+     "siempre",
+     "nunca / jamás",
+     "también",
+     "tampoco",
+     "Nunca llego tarde. Yo tampoco."
+    ],
+    [
+     "algún / alguno",
+     "ningún / ninguno",
+     "o ... o",
+     "ni ... ni",
+     "No tengo ningún problema."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Na het werkwoord</b> heb je <b>no</b> ervoor nodig: <i>No veo nada.</i> <b>Voor het werkwoord</b> geen <i>no</i>: <i>Nada veo. Nadie habla. Nunca llego tarde.</i>",
+    "<b>ningún</b> / <b>ninguna</b> gebruik je met een zelfstandig naamwoord in het enkelvoud, ook als het idee meervoud is: <i>No tengo ningún amigo aquí. No hay ninguna solución.</i> <b>Ninguno</b> staat alleen: <i>¿Tienes hermanos? No, ninguno.</i>",
+    "<b>ni ... ni</b>: <i>No tengo ni tiempo ni dinero.</i> / <i>Ni él ni ella hablan francés.</i>",
+    "<b>jamás</b> is een sterkere <i>nunca</i>: <i>Jamás lo olvidaré.</i>"
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Por en para"
+  },
+  {
+   "type": "p",
+   "text": "Allebei kunnen ze 'voor' betekenen, en dat maakt ze lastig voor Nederlandstaligen. Het basisidee: <b>para</b> wijst vooruit naar een doel, een bestemming of een ontvanger. <b>Por</b> kijkt terug naar de oorzaak of gaat ergens doorheen."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.0,
+    5.0,
+    5.4,
+    4.6
+   ],
+   "head": [
+    "",
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "para",
+     "doel (om te)",
+     "Estudio para aprender.",
+     "Ik studeer om te leren."
+    ],
+    [
+     "para",
+     "ontvanger",
+     "Este regalo es para ti.",
+     "Dit cadeau is voor jou."
+    ],
+    [
+     "para",
+     "bestemming",
+     "Salgo para Madrid.",
+     "Ik vertrek naar Madrid."
+    ],
+    [
+     "para",
+     "uiterste datum",
+     "Lo necesito para el lunes.",
+     "Ik heb het maandag nodig."
+    ],
+    [
+     "para",
+     "mening",
+     "Para mí, es muy difícil.",
+     "Voor mij is het heel moeilijk."
+    ],
+    [
+     "para",
+     "werkgever",
+     "Trabajo para una empresa grande.",
+     "Ik werk voor een groot bedrijf."
+    ],
+    [
+     "por",
+     "oorzaak, reden",
+     "Lo hago por ti.",
+     "Ik doe het voor jou / om jou."
+    ],
+    [
+     "por",
+     "dank, excuses",
+     "Gracias por la ayuda.",
+     "Bedankt voor de hulp."
+    ],
+    [
+     "por",
+     "ruil, prijs",
+     "Pagué diez euros por el libro.",
+     "Ik heb tien euro voor het boek betaald."
+    ],
+    [
+     "por",
+     "middel",
+     "Hablamos por teléfono.",
+     "We praten via de telefoon."
+    ],
+    [
+     "por",
+     "door, langs",
+     "Paseo por el parque.",
+     "Ik wandel door het park."
+    ],
+    [
+     "por",
+     "dagdeel",
+     "Trabajo por la mañana.",
+     "Ik werk 's ochtends."
+    ],
+    [
+     "por",
+     "frequentie",
+     "Voy al gimnasio tres veces por semana.",
+     "Ik ga drie keer per week naar de sportschool."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "voor en door",
+   "text": "Het Nederlandse <i>voor</i> wordt <b>para</b> (ontvanger, doel) of <b>por</b> (reden, prijs, in ruil voor). <i>door</i> (doorheen, vanwege) is meestal <b>por</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Verplichting en noodzaak"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Constructie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "tener que + infinitief",
+     "Tengo que estudiar hoy.",
+     "Ik moet vandaag studeren."
+    ],
+    [
+     "hay que + infinitief",
+     "Hay que llegar pronto.",
+     "Je moet vroeg komen."
+    ],
+    [
+     "deber + infinitief",
+     "Debes descansar más.",
+     "Je moet meer rusten."
+    ],
+    [
+     "necesitar + infinitief",
+     "Necesito comprar pan.",
+     "Ik moet brood kopen."
+    ],
+    [
+     "hace falta + zelfst. nw. / infinitief",
+     "Hace falta paciencia.",
+     "Er is geduld nodig."
+    ],
+    [
+     "se puede / no se puede",
+     "Aquí no se puede fumar.",
+     "Hier mag je niet roken."
+    ],
+    [
+     "está prohibido + infinitief",
+     "Está prohibido aparcar aquí.",
+     "Parkeren is hier verboden."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>tener que</b> is persoonlijk en wordt vervoegd (tengo que, tienes que ...). <b>hay que</b> is onpersoonlijk en verandert nooit.",
+    "<b>Ontkennend:</b> <i>No tienes que venir</i> = je hoeft niet te komen. <i>No debes venir</i> = je moet niet komen (je kunt beter niet komen)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Meer voorzetsels"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    4.0,
+    9.8
+   ],
+   "head": [
+    "Voorzetsel",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "antes de / después de",
+     "voor / na",
+     "Antes de comer, me lavo las manos. Después de cenar, veo la tele."
+    ],
+    [
+     "durante",
+     "tijdens",
+     "Durante el verano trabajo en un bar."
+    ],
+    [
+     "desde",
+     "sinds, vanaf",
+     "Estudio español desde 2023."
+    ],
+    [
+     "desde hace",
+     "al (tot nu toe)",
+     "Vivo aquí desde hace tres años."
+    ],
+    [
+     "hasta",
+     "tot, tot aan",
+     "Trabajo hasta las seis. Voy hasta la plaza."
+    ],
+    [
+     "hacia",
+     "naar ... toe",
+     "Caminamos hacia el centro."
+    ],
+    [
+     "según",
+     "volgens",
+     "Según el profesor, el examen es fácil."
+    ],
+    [
+     "sobre",
+     "over, bovenop",
+     "Un libro sobre España. Está sobre la mesa."
+    ],
+    [
+     "contra",
+     "tegen",
+     "Juegan contra el Real Madrid."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Werkwoorden met een vast voorzetsel"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "pensar en",
+     "denken aan",
+     "Pienso en ti."
+    ],
+    [
+     "soñar con",
+     "dromen van",
+     "Sueño con viajar."
+    ],
+    [
+     "enamorarse de",
+     "verliefd worden op",
+     "Se enamoró de Ana."
+    ],
+    [
+     "acordarse de",
+     "zich herinneren",
+     "Me acuerdo de ti."
+    ],
+    [
+     "preocuparse por",
+     "zich zorgen maken over",
+     "Me preocupo por mis padres."
+    ],
+    [
+     "casarse con",
+     "trouwen met",
+     "Se casó con un médico."
+    ],
+    [
+     "confiar en",
+     "vertrouwen op",
+     "Confío en ti."
+    ],
+    [
+     "depender de",
+     "afhangen van",
+     "Depende del tiempo."
+    ],
+    [
+     "reírse de",
+     "lachen om",
+     "Se ríen de mí."
+    ],
+    [
+     "tener ganas de",
+     "zin hebben in",
+     "Tengo ganas de salir."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Zonder voorzetsel",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "esperar",
+     "wachten op",
+     "Espero el autobús."
+    ],
+    [
+     "buscar",
+     "zoeken naar",
+     "Busco mis llaves."
+    ],
+    [
+     "mirar",
+     "kijken naar",
+     "Miro la tele."
+    ],
+    [
+     "escuchar",
+     "luisteren naar",
+     "Escucho música."
+    ],
+    [
+     "pedir",
+     "vragen om",
+     "Pido un café."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Es más grande de mi casa.",
+     "Es más grande que mi casa.",
+     "Vergelijkingen gebruiken que. Gebruik de alleen voor een getal."
+    ],
+    [
+     "Es tan alto que su padre.",
+     "Es tan alto como su padre.",
+     "tan ... como, nooit tan ... que (dat betekent 'zo ... dat')."
+    ],
+    [
+     "Tengo tan libros como tú.",
+     "Tengo tantos libros como tú.",
+     "Voor een zelfstandig naamwoord gebruik je tanto, en dat past zich aan."
+    ],
+    [
+     "Es el más bueno.",
+     "Es el mejor.",
+     "bueno heeft een onregelmatige vergrotende trap: mejor."
+    ],
+    [
+     "Nadie no habla.",
+     "Nadie habla.",
+     "Voor het werkwoord komt geen 'no'."
+    ],
+    [
+     "No tengo algún problema.",
+     "No tengo ningún problema.",
+     "Een ontkennende zin heeft ningún nodig, niet algún."
+    ],
+    [
+     "Estudio por aprender.",
+     "Estudio para aprender.",
+     "para + infinitief voor een doel."
+    ],
+    [
+     "Gracias para tu ayuda.",
+     "Gracias por tu ayuda.",
+     "Bedankt VOOR iets: por."
+    ],
+    [
+     "Pienso de ti.",
+     "Pienso en ti.",
+     "pensar krijgt en."
+    ],
+    [
+     "Espero por el autobús.",
+     "Espero el autobús.",
+     "esperar heeft geen voorzetsel nodig."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Madrid es más grande ______ Sevilla.",
+     "hint": "dan",
+     "a": "que",
+     "full": "Madrid es más grande que Sevilla."
+    },
+    {
+     "q": "Mi hermana es ______ alta como yo.",
+     "hint": "net zo",
+     "a": "tan",
+     "full": "Mi hermana es tan alta como yo."
+    },
+    {
+     "q": "Tengo ______ libros como tú.",
+     "hint": "net zoveel",
+     "a": "tantos",
+     "full": "Tengo tantos libros como tú."
+    },
+    {
+     "q": "Este es ______ restaurante del barrio.",
+     "hint": "het beste",
+     "a": "el mejor",
+     "full": "Este es el mejor restaurante del barrio."
+    },
+    {
+     "q": "Mi coche es ______ que el tuyo.",
+     "hint": "slechter",
+     "a": "peor",
+     "full": "Mi coche es peor que el tuyo."
+    },
+    {
+     "q": "No tengo ______ problema.",
+     "hint": "geen enkel",
+     "a": "ningún",
+     "full": "No tengo ningún problema."
+    },
+    {
+     "q": "______ habla alemán en mi familia.",
+     "hint": "niemand",
+     "a": "Nadie",
+     "full": "Nadie habla alemán en mi familia."
+    },
+    {
+     "q": "Estudio ______ aprender español.",
+     "hint": "por / para",
+     "a": "para",
+     "full": "Estudio para aprender español."
+    },
+    {
+     "q": "Gracias ______ tu ayuda.",
+     "hint": "por / para",
+     "a": "por",
+     "full": "Gracias por tu ayuda."
+    },
+    {
+     "q": "Trabajo ______ la mañana.",
+     "hint": "por / para",
+     "a": "por",
+     "full": "Trabajo por la mañana."
+    },
+    {
+     "q": "______ comer, me lavo las manos.",
+     "hint": "voor (tijd)",
+     "a": "Antes de",
+     "full": "Antes de comer, me lavo las manos."
+    },
+    {
+     "q": "Vivo aquí ______ hace tres años.",
+     "hint": "al (sinds)",
+     "a": "desde",
+     "full": "Vivo aquí desde hace tres años."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Zij is langer dan haar broer.",
+     "a": "Es más alta que su hermano."
+    },
+    {
+     "q": "Dit is voor jou.",
+     "a": "Esto es para ti."
+    },
+    {
+     "q": "We moeten werken.",
+     "a": "Tenemos que trabajar."
+    },
+    {
+     "q": "Ik denk aan jou.",
+     "a": "Pienso en ti."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

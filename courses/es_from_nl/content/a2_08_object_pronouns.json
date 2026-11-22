@@ -1,0 +1,614 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Grammatica",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Voornaamwoorden als voorwerp",
+  "subtitle": "Lijdend en meewerkend voorwerp, twee voornaamwoorden samen, de plaats in de zin en voornaamwoorden na een voorzetsel",
+  "footer": "Language Learning · A2 · Grammatica · Voornaamwoorden als voorwerp",
+  "next": "Volgende: A2 · pdf 9 — Vergelijkingen, ontkenningen en voorzetsels"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "zelfstandige naamwoorden vervangen door voornaamwoorden als lijdend en meewerkend voorwerp (lo, la, le, les, me, te, nos, os)",
+    "de voornaamwoorden op de goede plek zetten bij vervoegde werkwoorden, infinitieven, gerundios, de pretérito perfecto en geboden",
+    "twee voornaamwoorden goed combineren (se lo doy, dímelo)",
+    "de voornaamwoorden na een voorzetsel gebruiken (para mí, conmigo)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De voornaamwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Een <b>lijdend voorwerp</b> antwoordt op <i>wat / wie?</i> (<i>Compro el pan</i>: wat koop ik? het brood). Een <b>meewerkend voorwerp</b> antwoordt op <i>aan / voor wie?</i> (<i>Doy el pan a Ana</i>: aan wie? aan Ana). Voornaamwoorden vervangen ze, zodat je het zelfstandig naamwoord niet hoeft te herhalen."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.2,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "Lijdend",
+    "Meewerkend",
+    "Wederkerend"
+   ],
+   "rows": [
+    [
+     "yo",
+     "me",
+     "me",
+     "me"
+    ],
+    [
+     "tú",
+     "te",
+     "te",
+     "te"
+    ],
+    [
+     "él / ella / usted",
+     "lo / la",
+     "le",
+     "se"
+    ],
+    [
+     "nosotros / nosotras",
+     "nos",
+     "nos",
+     "nos"
+    ],
+    [
+     "vosotros / vosotras",
+     "os",
+     "os",
+     "os"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "los / las",
+     "les",
+     "se"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Alleen de derde persoon is verschillend voor lijdend en meewerkend voorwerp: <b>lo, la, los, las</b> (lijdend) en <b>le, les</b> (meewerkend).",
+    "<b>Lo</b> vervangt een mannelijk zelfstandig naamwoord (<i>el libro</i>) of een algemeen idee; <b>la</b> een vrouwelijk (<i>la casa</i>); <b>los / las</b> de meervouden.",
+    "<b>Le</b> en <b>les</b> zijn gelijk voor mannelijk en vrouwelijk."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "le voor een man in Spanje",
+   "text": "In Spanje hoor je vaak <b>le</b> in plaats van <b>lo</b> voor een man: <i>Le veo</i> in plaats van <i>Lo veo</i>. Dat wordt in Spanje geaccepteerd (<i>leísmo</i>), maar deze cursus gebruikt lo / la."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Geen 'het' als onderwerp",
+   "text": "Het Nederlandse <i>het</i> heeft vaak geen Spaanse tegenhanger: <i>Het regent</i> = <b>Llueve</b>. Als <b>voorwerp</b> wordt <i>het</i> <b>lo / la</b>: <i>Ik zie het</i> = <b>Lo veo</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Voornaamwoorden als lijdend voorwerp"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Met zelfstandig naamwoord",
+    "Met voornaamwoord",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Compro el pan.",
+     "Lo compro.",
+     "Ik koop het (het brood)."
+    ],
+    [
+     "Veo la casa.",
+     "La veo.",
+     "Ik zie het (het huis)."
+    ],
+    [
+     "Tengo los billetes.",
+     "Los tengo.",
+     "Ik heb ze (de kaartjes)."
+    ],
+    [
+     "Compro las entradas.",
+     "Las compro.",
+     "Ik koop ze (de kaartjes)."
+    ],
+    [
+     "Veo a Ana.",
+     "La veo.",
+     "Ik zie haar."
+    ],
+    [
+     "Conozco a tus padres.",
+     "Los conozco.",
+     "Ik ken ze (je ouders)."
+    ],
+    [
+     "¿Me ves?",
+     "Sí, te veo.",
+     "Zie je me? Ja, ik zie je."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Voornaamwoorden als meewerkend voorwerp"
+  },
+  {
+   "type": "p",
+   "text": "Het voornaamwoord als meewerkend voorwerp gebruik je bij <b>dar, decir, escribir, enviar, mandar, regalar, prestar, enseñar, ofrecer, preguntar, explicar, comprar</b> (voor iemand) en andere werkwoorden van geven, vertellen en laten zien. In het Spaans is het normaal om het voornaamwoord te gebruiken, ook als de persoon genoemd wordt: <b>Le doy el libro a Ana.</b>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Spaans",
+    "Met voornaamwoord",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Doy el libro a Ana.",
+     "Le doy el libro (a Ana).",
+     "Ik geef Ana het boek."
+    ],
+    [
+     "Escribo a mis padres.",
+     "Les escribo.",
+     "Ik schrijf mijn ouders."
+    ],
+    [
+     "Compro un regalo para ti.",
+     "Te compro un regalo.",
+     "Ik koop een cadeau voor je."
+    ],
+    [
+     "¿Me dices la hora?",
+     "Sí, te digo la hora.",
+     "Zeg je me hoe laat het is? Ja."
+    ],
+    [
+     "Explico la regla a los alumnos.",
+     "Les explico la regla.",
+     "Ik leg de leerlingen de regel uit."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    7.0,
+    4.6
+   ],
+   "head": [
+    "Werkwoorden zoals gustar",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "encantar",
+     "Me encanta el cine.",
+     "Ik ben dol op de bioscoop."
+    ],
+    [
+     "interesar",
+     "Me interesan las ciencias.",
+     "Ik ben geïnteresseerd in wetenschap."
+    ],
+    [
+     "doler",
+     "Me duele la cabeza.",
+     "Ik heb hoofdpijn."
+    ],
+    [
+     "parecer",
+     "Me parece buena idea.",
+     "Het lijkt me een goed idee."
+    ],
+    [
+     "faltar",
+     "Me falta tiempo.",
+     "Ik kom tijd tekort."
+    ],
+    [
+     "quedar bien",
+     "Esa chaqueta te queda bien.",
+     "Dat jasje staat je goed."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Waar staan de voornaamwoorden?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Situatie",
+    "Plaats",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "Vervoegd werkwoord",
+     "voor het werkwoord",
+     "Lo compro. No lo compro."
+    ],
+    [
+     "Infinitief",
+     "voor het eerste werkwoord of vast aan de infinitief",
+     "Lo voy a comprar. / Voy a comprarlo."
+    ],
+    [
+     "Gerundio",
+     "voor estar of vast aan het gerundio (accent)",
+     "Lo estoy leyendo. / Estoy leyéndolo."
+    ],
+    [
+     "Pretérito perfecto",
+     "voor haber (nooit tussen he en het deelwoord)",
+     "Lo he visto."
+    ],
+    [
+     "Bevestigend gebod",
+     "vast aan het werkwoord",
+     "Cómpralo. Dímelo."
+    ],
+    [
+     "Ontkennend gebod",
+     "voor het werkwoord",
+     "No lo compres. No me lo digas."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Geschreven accenten",
+   "text": "Als je een voornaamwoord vastmaakt, moet de klemtoon blijven waar hij was. Zou die dan op de derde lettergreep van achteren of eerder komen, zet dan een accent: <i>comprar</i> geeft <b>comprarlo</b> (geen accent), maar <i>leyendo</i> geeft <b>leyéndolo</b>, <i>compra</i> geeft <b>cómpralo</b> en <i>di + me + lo</i> geeft <b>dímelo</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Twee voornaamwoorden samen"
+  },
+  {
+   "type": "p",
+   "text": "Zet het <b>meewerkend</b> voorwerp voor het <b>lijdend</b> voorwerp: <b>me lo, te la, nos las</b>. Als <b>le</b> of <b>les</b> voor <b>lo, la, los, las</b> zou komen, wordt het <b>se</b>: <i>Le doy el libro</i> geeft <b>Se lo doy</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Spaans",
+    "Vervangt",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Me lo das.",
+     "me + el libro",
+     "Jij geeft het aan mij."
+    ],
+    [
+     "Te la compro.",
+     "te + la camisa",
+     "Ik koop het voor je."
+    ],
+    [
+     "Nos las envía.",
+     "nos + las fotos",
+     "Hij stuurt ze naar ons."
+    ],
+    [
+     "Se lo digo.",
+     "a ella / a él + lo",
+     "Ik zeg het tegen haar / hem."
+    ],
+    [
+     "Se los explico.",
+     "a ellos + los problemas",
+     "Ik leg ze hun uit."
+    ],
+    [
+     "Voy a dárselo.",
+     "dar + a ellos + lo",
+     "Ik ga het hun geven."
+    ],
+    [
+     "Dámelo.",
+     "da + me + lo",
+     "Geef het aan mij."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "De volgorde is anders dan in het Nederlands",
+   "text": "Het Nederlands zet het ding eerst: <i>Ik geef het hem</i>. Het Spaans zet de persoon eerst: <b>Se lo doy</b> (hem / het). Onthoud: <b>meewerkend voor lijdend</b>."
+  },
+  {
+   "type": "h1",
+   "text": "6. Voornaamwoorden na een voorzetsel"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    5.4,
+    7.0
+   ],
+   "head": [
+    "Persoon",
+    "Na een voorzetsel",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "mí (conmigo)",
+     "Es para mí. Ven conmigo."
+    ],
+    [
+     "tú",
+     "ti (contigo)",
+     "Voy sin ti. Quiero ir contigo."
+    ],
+    [
+     "él / ella / usted",
+     "él / ella / usted",
+     "Hablo de ella."
+    ],
+    [
+     "nosotros / nosotras",
+     "nosotros / nosotras",
+     "Vienen con nosotros."
+    ],
+    [
+     "vosotros / vosotras",
+     "vosotros / vosotras",
+     "Esto es para vosotros."
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "ellos / ellas / ustedes",
+     "Voy sin ellos."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>para mí</b>, <b>a ti</b>, <b>de él</b>, <b>con nosotros</b>, <b>sin ellos</b>: <i>Esto es para mí. Voy sin ti. Hablo de ellos.</i>",
+    "<b>conmigo</b> en <b>contigo</b> zijn één woord: <i>¿Vienes conmigo? Quiero ir contigo.</i>",
+    "Na <b>entre</b>, <b>según</b> en <b>excepto</b> gebruik je <b>yo / tú</b>: <i>entre tú y yo, según tú</i>.",
+    "<b>A mí</b>, <b>a ti</b> ... geven nadruk: <i>A mí me gusta el té, pero a ti te gusta el café.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Veo lo.",
+     "Lo veo.",
+     "Het voornaamwoord staat voor een vervoegd werkwoord."
+    ],
+    [
+     "Voy a lo comprar.",
+     "Voy a comprarlo. / Lo voy a comprar.",
+     "Maak het vast aan de infinitief of zet het voor het eerste werkwoord, niet ertussen."
+    ],
+    [
+     "He lo visto.",
+     "Lo he visto.",
+     "Voornaamwoord voor haber."
+    ],
+    [
+     "Le lo doy.",
+     "Se lo doy.",
+     "le / les worden se voor lo, la, los, las."
+    ],
+    [
+     "Lo compro un regalo.",
+     "Le compro un regalo.",
+     "Degene voor wie je het koopt, is een meewerkend voorwerp: le."
+    ],
+    [
+     "Estoy comiendolo.",
+     "Estoy comiéndolo.",
+     "Zet een accent als je een voornaamwoord aan een gerundio vastmaakt."
+    ],
+    [
+     "Damelo.",
+     "Dámelo.",
+     "Twee voornaamwoorden aan een gebod hebben een accent nodig."
+    ],
+    [
+     "Ven con yo.",
+     "Ven conmigo.",
+     "con + mí = conmigo."
+    ],
+    [
+     "Es para yo.",
+     "Es para mí.",
+     "Na een voorzetsel gebruik je mí, ti, él ..."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vervang het zelfstandig naamwoord door een voornaamwoord, of maak de zin af. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Opdracht"
+   ],
+   "items": [
+    {
+     "q": "¿Compras el pan? Sí, ______ compro.",
+     "hint": "lijdend voorwerp",
+     "a": "lo",
+     "full": "¿Compras el pan? Sí, lo compro."
+    },
+    {
+     "q": "¿Ves a Ana? Sí, ______ veo.",
+     "hint": "lijdend voorwerp",
+     "a": "la",
+     "full": "¿Ves a Ana? Sí, la veo."
+    },
+    {
+     "q": "¿Tienes las llaves? Sí, ______ tengo.",
+     "hint": "lijdend voorwerp",
+     "a": "las",
+     "full": "¿Tienes las llaves? Sí, las tengo."
+    },
+    {
+     "q": "¿Conoces a mis padres? Sí, ______ conozco.",
+     "hint": "lijdend voorwerp",
+     "a": "los",
+     "full": "¿Conoces a mis padres? Sí, los conozco."
+    },
+    {
+     "q": "Doy un regalo a Marta. = ______ doy un regalo.",
+     "hint": "meewerkend voorwerp",
+     "a": "Le",
+     "full": "Doy un regalo a Marta. = Le doy un regalo."
+    },
+    {
+     "q": "Escribo una carta a mis padres. = ______ escribo una carta.",
+     "hint": "meewerkend voorwerp",
+     "a": "Les",
+     "full": "Escribo una carta a mis padres. = Les escribo una carta."
+    },
+    {
+     "q": "¿Me das el libro? Sí, ______ doy.",
+     "hint": "twee voornaamwoorden",
+     "a": "te lo",
+     "full": "¿Me das el libro? Sí, te lo doy."
+    },
+    {
+     "q": "Doy el libro a Pablo. = ______ doy.",
+     "hint": "twee voornaamwoorden",
+     "a": "Se lo",
+     "full": "Doy el libro a Pablo. = Se lo doy."
+    },
+    {
+     "q": "Voy a comprar el coche. = Voy a ______.",
+     "hint": "vastgemaakt",
+     "a": "comprarlo",
+     "full": "Voy a comprar el coche. = Voy a comprarlo."
+    },
+    {
+     "q": "Estoy leyendo el libro. = Estoy ______.",
+     "hint": "vastgemaakt",
+     "a": "leyéndolo",
+     "full": "Estoy leyendo el libro. = Estoy leyéndolo."
+    },
+    {
+     "q": "¿Has visto la película? Sí, ______ he visto.",
+     "hint": "lijdend voorwerp",
+     "a": "la",
+     "full": "¿Has visto la película? Sí, la he visto."
+    },
+    {
+     "q": "Trae el café. = ______, por favor.",
+     "hint": "gebod + voornaamwoord",
+     "a": "Tráelo",
+     "full": "Trae el café. = Tráelo, por favor."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik zie het (het huis).",
+     "a": "La veo."
+    },
+    {
+     "q": "Geef jij het aan mij?",
+     "a": "¿Me lo das?"
+    },
+    {
+     "q": "Ik ga het haar vertellen.",
+     "a": "Voy a decírselo."
+    },
+    {
+     "q": "Kom met mij mee.",
+     "a": "Ven conmigo."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
