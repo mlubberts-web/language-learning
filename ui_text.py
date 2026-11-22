@@ -60,6 +60,21 @@ MONTHS = {"en": ["January", "February", "March", "April", "May", "June", "July",
                  "septiembre", "octubre", "noviembre", "diciembre"]}
 
 
+SHORT_DAYS = {"en": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+              "nl": ["ma", "di", "wo", "do", "vr", "za", "zo"],
+              "es": ["lun", "mar", "mié", "jue", "vie", "sáb", "dom"]}
+
+
+def short_day(day, lang=None):
+    """'Mon', 'ma', 'lun'."""
+    return SHORT_DAYS[lang or interface()][day.weekday()]
+
+
+def short_month(day, lang=None):
+    """'Dec', 'dec', 'dic': the first three letters."""
+    return month_name(day, lang)[:3]
+
+
 def day_name(day, lang=None):
     """'Monday' for a date; day.weekday() is 0 on Monday."""
     return DAYS[lang or interface()][day.weekday()]

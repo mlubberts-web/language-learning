@@ -1,4 +1,4 @@
-"""The Schedule screen: your daily goals in PDFs and exercises until 20 January, a dashboard of
+"""The Schedule screen: your daily goals in PDFs and exercises up to your deadlines, a dashboard of
 what you studied, and how far you are. The plan is made in study_plan.py, the study time and the
 dates you finished things are kept in study_log.py."""
 import html
@@ -14,16 +14,19 @@ import practice_screen as practice
 import practice_store as store
 import study_log
 import study_plan as plans
+import ui_text
 from ui import go_view, hero, log_data, save_log
+from ui_text import mark, t
 
 HERE = Path(__file__).parent
-SECTIONS = ["📅 Today", "🗓️ Coming days", "📈 Total", "⏱️ Mock exams", "⚙️ Settings"]
+# mark(): translated where they are shown; the English names are what is saved
+SECTIONS = [mark("📅 Today"), mark("🗓️ Coming days"), mark("📈 Total"), mark("⏱️ Mock exams"), mark("⚙️ Settings")]
 ICONS = {"read": "📖", "exercise": "✍️", "mock": "⏱️", "theme": "📚"}
-PARTS = ["Reading", "Listening", "Writing", "Speaking"]
+PARTS = [mark("Reading"), mark("Listening"), mark("Writing"), mark("Speaking")]
 TARGET = 70  # aim for at least this percentage on every part of a mock exam
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 MOCK_SLOTS = [(level, number) for level in LEVELS for number in (1, 2)]
-OFFICIAL_SITE = "https://cervantes.org/es/examenes/dele"
+
 
 # app.py fills these in with connect(), because the reader and its progress live in app.py.
 ACTIONS = {}
@@ -45,7 +48,28 @@ def fmt(minutes):
 
 
 def long_date(day):
-    return f"{day:%A} {day.day} {day:%B}"
+    """'Friday 4 December', in the interface language."""
+    return ui_text.long_date(day)
+
+
+def exam_name():
+    """The official exam of the course, such as 'DELE'."""
+    return course.info().get("exam", "")
+
+
+def goal_text(phase):
+    """'B2 by 4 December', 'C1 and C2 by 20 January', in the interface language."""
+    levels = phase["name"].replace("/", " " + t("and") + " ")
+    return t("{levels} by {day}", levels=levels, day=ui_text.short_date(phase["end"]))
+
+
+def mock_title(level, number):
+    return t("Official {exam} {level} mock exam no. {number}", exam=exam_name(), level=level, number=number)
+
+
+def slot_label(slot):
+    """'B2 · no. 1' in the interface language; the slot itself stays as it is saved."""
+    return slot.replace(" · no. ", " · " + t("no.") + " ")
 
 
 def monday_of(day):
@@ -56,8 +80,9 @@ def safe(text):
     return "".join(ch if ch.isalnum() else "_" for ch in text)
 
 
-def plural(count, word):
-    return f"{count} {word}" if count == 1 else f"{count} {word}s"
+def counted(count, one, many):
+    """t(one) for 1, t(many) otherwise, with {count} filled in: '1 exercise', '3 exercises'."""
+    return t(one if count == 1 else many, count=count)
 
 
 # ---------- the units of the plan and how far you are ----------
@@ -245,14 +270,16 @@ def pace_text(plan, finished, today):
     week = [today - timedelta(days=n) for n in range(7)]
     did_read = sum(finished_on(d, "read") for d in week) / 7
     did_ex = sum(finished_on(d, "exercise") for d in week) / 7
-    text = (f"For **{phase['goal']}** you need on average **{need_read:.1f} PDFs** and **{need_ex:.1f} exercises** "
-            f"per study day. Over the last 7 days you did {did_read:.1f} and {did_ex:.1f} a day.")
+    text = t("For **{goal}** you need on average **{reads} PDFs** and **{exercises} exercises** per study day. "
+             "Over the last 7 days you did {did_reads} and {did_exercises} a day.",
+             goal=goal_text(phase), reads=f"{need_read:.1f}", exercises=f"{need_ex:.1f}",
+             did_reads=f"{did_read:.1f}", did_exercises=f"{did_ex:.1f}")
     if need_read == 0 and need_ex == 0:
-        return "success", f"Everything for {phase['goal']} is finished. 🎉"
+        return "success", t("Everything for {goal} is finished. 🎉", goal=goal_text(phase))
     if did_ex >= need_ex and did_read >= need_read:
         return "success", text + " 🎉"
-    return "info", text + (" The lists are shared out by the time things take, so while you are in the "
-                           "lower levels, whose exercises go quickly, a day's list is longer than this average.")
+    return "info", text + " " + t("The lists are shared out by the time things take, so while you are in the "
+                                  "lower levels, whose exercises go quickly, a day's list is longer than this average.")
 
 
 # ---------- callbacks ----------
@@ -287,30 +314,32 @@ def schedule_screen():
     goal = goal_units(today)
     done = study_log.finished_by(log_data(), [u["id"] for u in goal], today.isoformat())
     studied = study_log.studied_minutes(log_data(), today.isoformat())
-    countdown = " · ".join(f"{(phase['end'] - today).days} days to {phase['name']}"
+    countdown = " · ".join(t("{days} days to {levels}", days=(phase["end"] - today).days, levels=phase["name"])
                            for phase in phases() if phase["end"] >= today)
     reads, exercises = [u["id"] for u in goal if u["kind"] == "read"], [u["id"] for u in goal if u["kind"] == "exercise"]
     log = log_data()
-    hero("Schedule", long_date(today),
-         f"{study_log.finished_by(log, exercises, today.isoformat())} of {len(exercises)} exercises · "
-         f"{study_log.finished_by(log, reads, today.isoformat())} of {len(reads)} PDFs read today · "
-         f"{fmt(studied)} studied · {countdown}", done / len(goal) if goal else 0)
+    hero(t("Schedule"), long_date(today),
+         t("{exercises_done} of {exercises} exercises · {reads_done} of {reads} PDFs read today · {time} studied",
+           exercises_done=study_log.finished_by(log, exercises, today.isoformat()), exercises=len(exercises),
+           reads_done=study_log.finished_by(log, reads, today.isoformat()), reads=len(reads), time=fmt(studied))
+         + f" · {countdown}", done / len(goal) if goal else 0)
     st.write("")
     st.session_state.setdefault("schedule_section", SECTIONS[0])
     if st.session_state.schedule_section not in SECTIONS:  # a name from an older version
         st.session_state.schedule_section = SECTIONS[0]
     # A row of buttons; required=True keeps one chosen. Its value comes from session_state above.
-    section = st.segmented_control("Show", SECTIONS, required=True, key="schedule_section",
-                                   label_visibility="collapsed")
+    section = st.segmented_control(t("Show"), SECTIONS, required=True, key="schedule_section",
+                                   label_visibility="collapsed", format_func=t)
     if "deadlines" not in log_data():
         c = st.columns([4, 1.5], vertical_alignment="center")
-        c[0].info("These deadlines are examples: " + ", ".join(p["goal"] for p in phases()) +
-                  ". Set your own in ⚙️ Settings, or keep these.")
-        c[1].button("Keep these deadlines", key="deadlines_keep", on_click=save_goals, args=(goals(),),
+        c[0].info(t("These deadlines are examples: {deadlines}. Set your own in ⚙️ Settings, or keep these.",
+                    deadlines=", ".join(goal_text(p) for p in phases())))
+        c[1].button(t("Keep these deadlines"), key="deadlines_keep", on_click=save_goals, args=(goals(),),
                     width="stretch")
     if plan["late"]:
-        st.error(f"{plural(len(plan['late']), 'part')} of the plan no longer fit before "
-                 f"{long_date(phases()[-1]['end'])}.")
+        late = len(plan["late"])
+        st.error(t(mark("{count} part of the plan no longer fits before {day}.") if late == 1 else
+                   mark("{count} parts of the plan no longer fit before {day}."), count=late, day=long_date(phases()[-1]["end"])))
     {"📅 Today": today_section, "🗓️ Coming days": coming_section,
      "📈 Total": total_section, "⏱️ Mock exams": mock_section, "⚙️ Settings": settings_section}[section](
         plan, shares, finished, today)
@@ -321,44 +350,44 @@ def today_section(plan, shares, finished, today):
     row = day_rows(plan).get(today)
     if row is None:
         first, last = phases()[0]["start"], phases()[-1]["end"]
-        st.info(f"Your plan runs from {long_date(first)} {first.year} to {long_date(last)} {last.year}. "
-                "Set new deadlines in ⚙️ Settings.")
+        st.info(t("Your plan runs from {first} to {last}. Set new deadlines in ⚙️ Settings.",
+                  first=f"{long_date(first)} {first.year}", last=f"{long_date(last)} {last.year}"))
         return
     log = log_data()
     goal = goal_units(today)
     text = today.isoformat()
     c = st.columns(4)
-    for column, kind, label in [(c[0], "exercise", "Exercises finished"), (c[1], "read", "PDFs read")]:
+    for column, kind, label in [(c[0], "exercise", t("Exercises finished")), (c[1], "read", t("PDFs read"))]:
         ids = [u["id"] for u in goal if u["kind"] == kind]
-        column.metric(label, f"{study_log.finished_by(log, ids, text)} of {len(ids)}",
-                      help="Finished from today's list. Work you do beyond it counts too: it makes the coming days lighter.")
-    c[2].metric("Studied today", fmt(study_log.studied_minutes(log, text)),
-                help="Time in the app is counted from your answers and the pages you turn. A break of "
-                     "more than 3 minutes (10 while reading) isn't counted.")
-    c[3].metric("Streak", f"{study_log.streak(log, text)} days",
-                help="Days in a row on which you finished your whole list. Days off don't break it.")
+        column.metric(label, t("{done} of {total}", done=study_log.finished_by(log, ids, text), total=len(ids)),
+                      help=t("Finished from today's list. Work you do beyond it counts too: it makes the coming days lighter."))
+    c[2].metric(t("Studied today"), fmt(study_log.studied_minutes(log, text)),
+                help=t("Time in the app is counted from your answers and the pages you turn. A break of "
+                       "more than 3 minutes (10 while reading) isn't counted."))
+    c[3].metric(t("Streak"), counted(study_log.streak(log, text), mark("{count} day"), mark("{count} days")),
+                help=t("Days in a row on which you finished your whole list. Days off don't break it."))
     kind, message = pace_text(plan, finished, today)
     getattr(st, kind)(message)  # st.success or st.info
 
     if row["budget"] == 0 and not goal:
-        st.info("🌴 Day off. Enjoy it, the plan has moved its work to the other days.")
+        st.info(t("🌴 Day off. Enjoy it, the plan has moved its work to the other days."))
         return
     estimate = row["review"] + row["writing"] + sum(u["minutes"] for u in goal)
-    st.subheader("Today's goal")
-    st.caption(f"Estimated time: about {fmt(estimate)}. Your goal is the list, not the time: finish it "
-               "faster or slower, both are fine.")
+    st.subheader(t("Today's goal"))
+    st.caption(t("Estimated time: about {time}. Your goal is the list, not the time: finish it "
+                 "faster or slower, both are fine.", time=fmt(estimate)))
     review_row(today)
     for title, kind_units in group_units(goal):
         unit_row(title, kind_units, shares, "today")
     if goal and all(shares.get(u["id"], 0) >= 0.999 for u in goal):
-        st.success("Today's list is done. ✅ If you want to do more, these come next:")
+        st.success(t("Today's list is done. ✅ If you want to do more, these come next:"))
         upcoming = next((r["units"] for r in plan["days"] if r["date"] > today and r["units"]), [])
         for title, kind_units in group_units(upcoming)[:3]:
             unit_row(title, kind_units, shares, "next")
     if row["writing"]:
         writing_row(today, row)
     key = f"extra_{text}"
-    st.number_input("Minutes you studied outside the app today (a class, a book, a podcast...)", 0, 600,
+    st.number_input(t("Minutes you studied outside the app today (a class, a book, a podcast...)"), 0, 600,
                     value=int(day_entry(today).get("extra", 0)), step=15, key=key,
                     on_change=set_extra, args=(text, key))
 
@@ -369,11 +398,11 @@ def group_units(units):
     for unit in units:
         if unit["kind"] == "exercise":
             key = unit.get("pdf_id") or f"{unit['theme']}|{unit['group']}"
-            groups.setdefault(("exercise", key), (f"Practise {unit['title']}", []))[1].append(unit)
+            groups.setdefault(("exercise", key), (t("Practise {title}", title=unit["title"]), []))[1].append(unit)
         elif unit["kind"] == "read":
-            groups[("read", unit["id"])] = (f"Read {unit['title']}", [unit])
+            groups[("read", unit["id"])] = (t("Read {title}", title=unit["title"]), [unit])
         else:
-            groups[("mock", unit["id"])] = (unit["title"], [unit])
+            groups[("mock", unit["id"])] = (mock_title(unit["level"], unit["number"]), [unit])
     return list(groups.values())
 
 
@@ -390,12 +419,14 @@ def block_row(key, icon, title, caption, ticked):
 def review_row(today):
     due = practice.due_items()
     ticked = "review" in day_entry(today).get("blocks", {})
-    left, right = block_row("review", "📅", f"Daily review · {plural(len(due), 'question')} due",
-                            "The oldest come first. Not part of the goal: do what you can.", ticked)
+    left, right = block_row("review", "📅",
+                            t("Daily review") + " · " + counted(len(due), mark("{count} question due"), mark("{count} questions due")),
+                            t("The oldest come first. Not part of the goal: do what you can."), ticked)
     if due:
-        left.button(f"Review {min(30, len(due))}", key="plan_review_start", type="primary", width="stretch",
-                    on_click=practice.start_drill, args=(due[:30], "📅 Daily review", ("view", "schedule")))
-    right.button("Undo" if ticked else "Done", key="plan_review_tick", width="stretch",
+        left.button(t("Review {count}", count=min(30, len(due))), key="plan_review_start", type="primary",
+                    width="stretch", on_click=practice.start_drill,
+                    args=(due[:30], t("📅 Daily review"), ("view", "schedule")))
+    right.button(t("Undo") if ticked else t("Done"), key="plan_review_tick", width="stretch",
                  on_click=tick, args=(today.isoformat(), "review", 0))
 
 
@@ -405,18 +436,18 @@ def unit_row(title, units, shares, place):
     done = [u for u in units if shares.get(u["id"], 0) >= 0.999]
     finished = len(done) == len(units)
     if first["kind"] == "exercise":
-        caption = f"{len(done)} of {plural(len(units), 'exercise')} finished: " + " · ".join(
+        caption = t("{done} of {total} finished:", done=len(done), total=len(units)) + " " + " · ".join(
             f"{'✅' if u in done else '⬜'} {practice.mode_title(u['mode'])}" for u in units)
         share = sum(min(1.0, shares.get(u["id"], 0)) for u in units) / len(units)
         icon = ICONS["theme"] if first.get("theme") else ICONS["exercise"]
     elif first["kind"] == "read":
         share = shares.get(first["id"], 0)
-        caption = f"{first['pages']} pages · {share:.0%} read"
+        caption = t("{pages} pages · {percent} read", pages=first["pages"], percent=f"{share:.0%}")
         icon = ICONS["read"]
     else:
         share = shares.get(first["id"], 0)
-        caption = ("Use an official model exam, on paper and timed. You may split it over two days, "
-                   "then log your scores.")
+        caption = t("Use an official model exam, on paper and timed. You may split it over two days, "
+                    "then log your scores.")
         icon = ICONS["mock"]
     key = f"{place}_{safe(first['id'])}"
     left, right = block_row(key, icon, title, caption, finished)
@@ -424,28 +455,28 @@ def unit_row(title, units, shares, place):
     kind = "secondary" if finished else "primary"
     if first["kind"] == "read":
         # A PDF you finished opens at page 1, otherwise where you stopped (None).
-        right.button("Read", key=f"{key}_go", type=kind, width="stretch", on_click=ACTIONS["open_reader"],
+        right.button(t("Read"), key=f"{key}_go", type=kind, width="stretch", on_click=ACTIONS["open_reader"],
                      args=(first["pdf_id"], 0 if share >= 0.999 else None))
     elif first["kind"] == "exercise" and first.get("pdf_id"):
-        right.button("Practise", key=f"{key}_go", type=kind, width="stretch", on_click=practice.go_practice,
+        right.button(t("Practise"), key=f"{key}_go", type=kind, width="stretch", on_click=practice.go_practice,
                      args=(first["pdf_id"],))
     elif first["kind"] == "exercise":
-        right.button("Open", key=f"{key}_go", type=kind, width="stretch", on_click=go_view, args=("themes",))
+        right.button(t("Open"), key=f"{key}_go", type=kind, width="stretch", on_click=go_view, args=("themes",))
     else:
-        right.button("Log result", key=f"{key}_go", type=kind, width="stretch", on_click=go_mock_log,
+        right.button(t("Log result"), key=f"{key}_go", type=kind, width="stretch", on_click=go_mock_log,
                      args=(first["level"], first["number"]))
 
 
 def writing_row(today, row):
     # Writing and speaking take turns, one day each.
     if today.toordinal() % 2:
-        title, caption = "Writing", "Write one task from an official model exam, then check it or have it checked."
+        title, caption = "Writing", t("Write one task from an official model exam, then check it or have it checked.")
     else:
-        title, caption = "Speaking", "Record a 3-minute monologue on a topic from a model exam and listen back."
+        title, caption = "Speaking", t("Record a 3-minute monologue on a topic from a model exam and listen back.")
     ticked = "writing" in day_entry(today).get("blocks", {})
-    _, right = block_row("writing", "🖋️" if title == "Writing" else "🎙️", f"{title} · {fmt(row['writing'])}",
-                         caption + " Ticking it adds its time to today.", ticked)
-    right.button("Undo" if ticked else "Done", key="plan_writing_tick", width="stretch",
+    _, right = block_row("writing", "🖋️" if title == "Writing" else "🎙️", f"{t(title)} · {fmt(row['writing'])}",
+                         caption + " " + t("Ticking it adds its time to today."), ticked)
+    right.button(t("Undo") if ticked else t("Done"), key="plan_writing_tick", width="stretch",
                  on_click=tick, args=(today.isoformat(), "writing", row["writing"]))
 
 
@@ -455,44 +486,45 @@ def coming_section(plan, shares, finished, today):
     days = [monday + timedelta(days=n) for n in range(7)]
     rows = day_rows(plan)
     with st.container(horizontal=True, vertical_alignment="center"):
-        st.button("◀ Previous week", key="week_back", on_click=move_week, args=("plan_week", -1),
+        st.button(t("◀ Previous week"), key="week_back", on_click=move_week, args=("plan_week", -1),
                   disabled=monday <= monday_of(today))
-        st.button("This week", key="week_now", on_click=move_week, args=("plan_week", 0))
-        st.button("Next week ▶", key="week_next", on_click=move_week, args=("plan_week", 1),
+        st.button(t("This week"), key="week_now", on_click=move_week, args=("plan_week", 0))
+        st.button(t("Next week ▶"), key="week_next", on_click=move_week, args=("plan_week", 1),
                   disabled=days[-1] >= phases()[-1]["end"])
-        st.markdown(f"**{days[0].day} {days[0]:%B} – {days[6].day} {days[6]:%B}**")
-    st.caption("The coming days are a forecast: each morning the plan starts again from where you are, "
-               "so finishing more today makes the following days lighter.")
+        st.markdown(f"**{ui_text.short_date(days[0])} – {ui_text.short_date(days[6])}**")
+    st.caption(t("The coming days are a forecast: each morning the plan starts again from where you are, "
+                 "so finishing more today makes the following days lighter."))
     columns = st.columns(7)
     for column, day in zip(columns, days):
         with column.container(border=True, key=f"week_{day.isoformat()}"):
-            st.markdown(f"**{day:%a} {day.day}**" + (" · :red[today]" if day == today else ""))
+            st.markdown(f"**{ui_text.short_day(day)} {day.day}**" + (" · :red[" + t("today") + "]" if day == today else ""))
             row = rows.get(day)
             if day < today:
-                st.caption("Past: see the 📊 Progress tab")
+                st.caption(t("Past: see the 📊 Progress tab"))
                 continue
             if row is None:
-                st.caption("Outside the plan")
+                st.caption(t("Outside the plan"))
                 continue
             units = goal_units(day) if day == today else row["units"]
             if not units:
-                st.caption("🌴 Day off" if row["budget"] == 0 else "Nothing planned")
+                st.caption(t("🌴 Day off") if row["budget"] == 0 else t("Nothing planned"))
                 continue
             lines = []
             for title, group in group_units(units):
                 first = group[0]
-                mark = "✅" if all(shares.get(u["id"], 0) >= 0.999 for u in group) else \
+                sign = "✅" if all(shares.get(u["id"], 0) >= 0.999 for u in group) else \
                     ICONS["theme"] if first.get("theme") else ICONS[first["kind"]]
                 if first["kind"] == "exercise":
                     name = f"{first['level']} {first['number']:02d}" if first.get("pdf_id") else first["group"]
-                    lines.append(f"{mark} {name}: {plural(len(group), 'exercise')}")
+                    lines.append(f"{sign} {name}: " + counted(len(group), mark("{count} exercise"), mark("{count} exercises")))
                 elif first["kind"] == "read":
-                    lines.append(f"{mark} Read {first['level']} {first['number']:02d}")
+                    lines.append(f"{sign} " + t("Read {pdf}", pdf=f"{first['level']} {first['number']:02d}"))
                 else:
-                    lines.append(f"{mark} Mock {first['level']} no. {first['number']}")
+                    lines.append(f"{sign} " + t("Mock {level} no. {number}", level=first["level"], number=first["number"]))
             if row["writing"]:
-                lines.append(f"🖋️ Writing {row['writing']} min")
-            st.caption(f"{count(units, 'read')} PDFs · {count(units, 'exercise')} exercises  \n" + "  \n".join(lines))
+                lines.append("🖋️ " + t("Writing {minutes} min", minutes=row["writing"]))
+            st.caption(t("{reads} PDFs · {exercises} exercises", reads=count(units, "read"),
+                         exercises=count(units, "exercise")) + "  \n" + "  \n".join(lines))
 
 
 # ---------- total ----------
@@ -500,15 +532,16 @@ def total_section(plan, shares, finished, today):
     log = log_data()
     units = plan["units"]
     c = st.columns(5)
-    c[0].metric("PDFs read", f"{sum(1 for u in units if u['kind'] == 'read' and u['id'] in finished)} of "
-                             f"{count(units, 'read')}")
-    c[1].metric("Exercises finished", f"{sum(1 for u in units if u['kind'] == 'exercise' and u['id'] in finished)} of "
-                                      f"{count(units, 'exercise')}")
-    c[2].metric("Studied in total", fmt(sum(study_log.studied_minutes(log, d) for d in log.get("days", {}))))
-    c[3].metric("Mock exams", f"{len(log.get('mocks', []))} of {len(MOCK_SLOTS)}")
-    c[4].metric("Streak", f"{study_log.streak(log, today.isoformat())} days")
+    c[0].metric(t("PDFs read"), t("{done} of {total}", done=sum(1 for u in units if u["kind"] == "read" and u["id"] in finished),
+                                  total=count(units, "read")))
+    c[1].metric(t("Exercises finished"), t("{done} of {total}",
+                                           done=sum(1 for u in units if u["kind"] == "exercise" and u["id"] in finished),
+                                           total=count(units, "exercise")))
+    c[2].metric(t("Studied in total"), fmt(sum(study_log.studied_minutes(log, d) for d in log.get("days", {}))))
+    c[3].metric(t("Mock exams"), t("{done} of {total}", done=len(log.get("mocks", [])), total=len(MOCK_SLOTS)))
+    c[4].metric(t("Streak"), counted(study_log.streak(log, today.isoformat()), mark("{count} day"), mark("{count} days")))
 
-    st.subheader("Deadlines")
+    st.subheader(t("Deadlines"))
     every = phases()
     columns = st.columns(len(every))
     week = [today - timedelta(days=n) for n in range(7)]
@@ -517,25 +550,28 @@ def total_section(plan, shares, finished, today):
         names = [p["name"] for p in every[:n + 1]]  # this phase and the ones before it
         left = [u for u in units if u["phase"] in names and u["id"] not in finished]
         with column.container(border=True, key=f"deadline_{safe(phase['name'])}"):
-            st.markdown(f"#### 🏁 {phase['goal']}")
-            st.markdown(f"Deadline: **{long_date(phase['end'])}** · {max(0, (phase['end'] - today).days)} days left  \n"
-                        f"Left{', earlier levels included' if n else ''}: **{count(left, 'read')} PDFs** to read, **{count(left, 'exercise')} exercises**, "
-                        f"**{count(left, 'mock')} mock exams**")
+            st.markdown(f"#### 🏁 {goal_text(phase)}")
+            left_text = t("Left, earlier levels included:") if n else t("Left:")
+            st.markdown(t("Deadline: **{day}** · {days} days left", day=long_date(phase["end"]),
+                          days=max(0, (phase["end"] - today).days)) + "  \n" + left_text + " "
+                        + t("**{reads} PDFs** to read, **{exercises} exercises**, **{mocks} mock exams**",
+                            reads=count(left, "read"), exercises=count(left, "exercise"), mocks=count(left, "mock")))
             if not left:
-                st.success("All done! 🎉")
+                st.success(t("All done! 🎉"))
             elif pace <= 0:
-                st.caption("Your expected finish date appears here once you finish PDFs and exercises.")
+                st.caption(t("Your expected finish date appears here once you finish PDFs and exercises."))
             else:
                 projected = today + timedelta(days=-(-len(left) // pace))  # -(-a // b) rounds up
                 if projected <= phase["end"]:
-                    st.success(f"At your pace of the last 7 days you finish on **{long_date(projected)}**.")
+                    st.success(t("At your pace of the last 7 days you finish on **{day}**.", day=long_date(projected)))
                 else:
-                    st.warning(f"At your pace of the last 7 days you finish on **{long_date(projected)}**, "
-                               f"{(projected - phase['end']).days} days late. The daily lists will grow to make up for it.")
+                    st.warning(t("At your pace of the last 7 days you finish on **{day}**, {days} days late. "
+                                 "The daily lists will grow to make up for it.",
+                                 day=long_date(projected), days=(projected - phase["end"]).days))
 
-    st.subheader("Levels")
+    st.subheader(t("Levels"))
     level_rows(plan, finished)
-    st.subheader("Calendar")
+    st.subheader(t("Calendar"))
     st.html(calendar_html(plan, today))
 
 
@@ -554,10 +590,10 @@ def level_rows(plan, finished):
         with st.container(border=True, key=f"total_{level}"):
             c = st.columns([0.8, 2, 2, 1.2, 1.6], vertical_alignment="center")
             c[0].markdown(f"### {level}")
-            c[1].progress(read, text=f"PDFs read {read:.0%}")
-            c[2].progress(practised, text=f"Exercises finished {practised:.0%}")
-            c[3].markdown(f"⏱️ Mocks **{level_mocks}/2**")
-            c[4].caption(f"Planned to finish: {long_date(end)}" if end else "")
+            c[1].progress(read, text=t("PDFs read {percent}", percent=f"{read:.0%}"))
+            c[2].progress(practised, text=t("Exercises finished {percent}", percent=f"{practised:.0%}"))
+            c[3].markdown(t("⏱️ Mocks **{done}/2**", done=level_mocks))
+            c[4].caption(t("Planned to finish: {day}", day=long_date(end)) if end else "")
 
 
 def calendar_html(plan, today):
@@ -569,9 +605,9 @@ def calendar_html(plan, today):
     for row in plan["days"]:
         for unit in row["units"]:
             if unit["kind"] == "mock":
-                mock_days.setdefault(row["date"], f"Mock {unit['level']} no. {unit['number']}")
+                mock_days.setdefault(row["date"], t("Mock {level} no. {number}", level=unit["level"], number=unit["number"]))
     every = phases()
-    deadlines = {phase["end"]: phase["goal"] for phase in every}
+    deadlines = {phase["end"]: goal_text(phase) for phase in every}
     start, last_day = every[0]["start"], every[-1]["end"]
     first = monday_of(start)
     weeks = max(1, (last_day - first).days // 7 + 1)
@@ -581,7 +617,7 @@ def calendar_html(plan, today):
         # The month name goes above the first week, and above each week in which a month starts.
         month_start = next((monday + timedelta(days=n) for n in range(7)
                             if (monday + timedelta(days=n)).day == 1), monday if w == 0 else None)
-        months.append(f'<div class="cal-month">{f"{month_start:%b}" if month_start else ""}</div>')
+        months.append(f'<div class="cal-month">{ui_text.short_month(month_start) if month_start else ""}</div>')
         for n in range(7):
             day = monday + timedelta(days=n)
             row = rows.get(day)
@@ -595,17 +631,19 @@ def calendar_html(plan, today):
                 share = study_log.finished_by(log, goal, text) / len(goal)
                 classes.append("cal-4" if share >= 1 else "cal-3" if share >= 0.66 else
                                "cal-2" if share >= 0.33 else "cal-1" if share > 0 else "cal-0")
-                tip.append(f"{study_log.finished_by(log, goal, text)} of {len(goal)} of the list · {fmt(studied)}")
+                tip.append(t("{done} of {total} of the list", done=study_log.finished_by(log, goal, text), total=len(goal))
+                           + f" · {fmt(studied)}")
             elif day <= today:
                 classes.append("cal-2" if studied >= 60 else "cal-1" if studied > 0 else "cal-0")
-                tip.append(f"{fmt(studied)} studied" + (" · no list yet" if day < today else ""))
+                tip.append(t("{time} studied", time=fmt(studied)) + (" · " + t("no list yet") if day < today else ""))
             elif row is not None and row["budget"] == 0:
                 classes.append("cal-off")
-                tip.append("day off")
+                tip.append(t("day off"))
             else:
                 classes.append("cal-future")
                 if row is not None:
-                    tip.append(f"{count(row['units'], 'read')} PDFs · {count(row['units'], 'exercise')} exercises")
+                    tip.append(t("{reads} PDFs · {exercises} exercises", reads=count(row["units"], "read"),
+                                 exercises=count(row["units"], "exercise")))
             if day in mock_days:  # a small dot in the corner
                 classes.append("cal-mock")
                 tip.append(mock_days[day])
@@ -617,7 +655,8 @@ def calendar_html(plan, today):
             cells.append(f'<div class="{" ".join(classes)}" style="grid-column:{w + 2};grid-row:{n + 2}" '
                          f'title="{html.escape(" · ".join(tip))}">{day.day}</div>')
     labels = "".join(f'<div class="cal-label" style="grid-row:{n + 2}">{name}</div>'
-                     for n, name in enumerate(["Mon", "", "Wed", "", "Fri", "", "Sun"]))
+                     for n, name in enumerate([ui_text.SHORT_DAYS[ui_text.interface()][k] if k % 2 == 0 else ""
+                                               for k in range(7)]))
     month_row = "".join(m.replace('class="cal-month"', f'class="cal-month" style="grid-column:{w + 2};grid-row:1"')
                         for w, m in enumerate(months))
     return f"""
@@ -642,11 +681,11 @@ def calendar_html(plan, today):
 </style>
 <div class="cal">{month_row}{labels}{"".join(cells)}</div>
 <div class="cal-legend">
-  <span><i class="cal-0"></i>nothing</span><span><i class="cal-1"></i>under a third of the list</span>
-  <span><i class="cal-2"></i>a third</span><span><i class="cal-3"></i>two thirds</span>
-  <span><i class="cal-4"></i>list finished</span><span><i class="cal-off"></i>day off</span>
-  <span><i class="cal-future cal-mock" style="position:relative"></i>mock exam planned</span>
-  <span><i class="cal-future cal-deadline"></i>deadline</span><span>hover over a day for details</span>
+  <span><i class="cal-0"></i>{t("nothing")}</span><span><i class="cal-1"></i>{t("under a third of the list")}</span>
+  <span><i class="cal-2"></i>{t("a third")}</span><span><i class="cal-3"></i>{t("two thirds")}</span>
+  <span><i class="cal-4"></i>{t("list finished")}</span><span><i class="cal-off"></i>{t("day off")}</span>
+  <span><i class="cal-future cal-mock" style="position:relative"></i>{t("mock exam planned")}</span>
+  <span><i class="cal-future cal-deadline"></i>{t("deadline")}</span><span>{t("hover over a day for details")}</span>
 </div>"""
 
 
@@ -664,14 +703,16 @@ def save_mock_form(slot):
     study_log.save_mock(log_data(), level, int(number), s[f"mock_date_{slot}"].isoformat(),
                         s[f"mock_minutes_{slot}"], parts, s[f"mock_note_{slot}"])
     save_log()
-    st.toast(f"Saved: DELE {level} mock exam no. {number}")
+    st.toast(t("Saved: {exam} {level} mock exam no. {number}", exam=exam_name(), level=level, number=number))
 
 
 def mock_section(plan, shares, finished, today):
-    st.markdown(f"Take these on paper with the official model exams of the Instituto Cervantes, timed and "
-                f"with the audio, then log your scores here. My suggestion: aim for at least **{TARGET}%** on "
-                "every part. That is a target for practice, not the official pass mark.")
-    st.link_button("Official DELE page of the Instituto Cervantes", OFFICIAL_SITE)
+    info = course.info()
+    st.markdown(t("Take these on paper with the official model exams, timed and with the audio, then log "
+                  "your scores here. My suggestion: aim for at least **{target}%** on every part. That is a "
+                  "target for practice, not the official pass mark.", target=TARGET))
+    if info.get("exam_site"):
+        st.link_button(t("Official {exam} page", exam=exam_name()), info["exam_site"])
     logged = {(m["level"], m["number"]): m for m in log_data().get("mocks", [])}
     starts = {}
     for row in plan["days"]:
@@ -683,46 +724,49 @@ def mock_section(plan, shares, finished, today):
             columns = st.columns(4)
         mock = logged.get((level, number))
         with columns[n % 4].container(border=True, key=f"mock_{level}_{number}"):
-            st.markdown(f"#### {level} · no. {number}")
+            st.markdown(f"#### {level} · {t('no.')} {number}")
             if mock:
                 scores = mock["parts"]
                 average = sum(scores.values()) / len(scores)
-                st.markdown(f"{'✅' if min(scores.values()) >= TARGET else '🔸'} **{average:.0f}%** on average · "
-                            f"{long_date(date.fromisoformat(mock['date']))}")
-                st.markdown("  \n".join(f"{':green' if score >= TARGET else ':red'}[{part}: {score}%]"
+                st.markdown(f"{'✅' if min(scores.values()) >= TARGET else '🔸'} "
+                            + t("**{percent}%** on average", percent=f"{average:.0f}")
+                            + f" · {long_date(date.fromisoformat(mock['date']))}")
+                st.markdown("  \n".join(f"{':green' if score >= TARGET else ':red'}[{t(part)}: {score}%]"
                                         for part, score in scores.items()))
                 if mock.get("note"):
                     st.caption(mock["note"])
                 c = st.columns(2)
-                c[0].button("Edit", key=f"mock_edit_{level}_{number}", on_click=go_mock_log, args=(level, number),
+                c[0].button(t("Edit"), key=f"mock_edit_{level}_{number}", on_click=go_mock_log, args=(level, number),
                             width="stretch")
-                c[1].button("Remove", key=f"mock_remove_{level}_{number}", on_click=remove_mock,
+                c[1].button(t("Remove"), key=f"mock_remove_{level}_{number}", on_click=remove_mock,
                             args=(level, number), width="stretch")
             else:
                 start = starts.get((level, number))
-                st.caption(f"Planned for {long_date(start)}" if start else "Not in the plan")
-                st.button("Log result", key=f"mock_log_{level}_{number}", on_click=go_mock_log, args=(level, number),
+                st.caption(t("Planned for {day}", day=long_date(start)) if start else t("Not in the plan"))
+                st.button(t("Log result"), key=f"mock_log_{level}_{number}", on_click=go_mock_log, args=(level, number),
                           width="stretch")
 
-    st.subheader("Log a result")
+    st.subheader(t("Log a result"))
     st.session_state.setdefault("mock_slot", f"{MOCK_SLOTS[0][0]} · no. 1")
     # The choice of exam is outside the form, so the fields below change straight away when you pick another.
-    slot = st.selectbox("Mock exam", [f"{level} · no. {number}" for level, number in MOCK_SLOTS], key="mock_slot")
+    slot = st.selectbox(t("Mock exam"), [f"{level} · no. {number}" for level, number in MOCK_SLOTS], key="mock_slot",
+                        format_func=slot_label)
     level, number = slot.split(" · no. ")
     old = logged.get((level, int(number)))
     with st.form(f"mock_form_{slot}"):
         c = st.columns(2)
-        c[0].date_input("Date", value=date.fromisoformat(old["date"]) if old else today, key=f"mock_date_{slot}")
-        c[1].number_input("Minutes it took you", 10, 600, value=old["minutes"] if old else plans.MOCK_MINUTES[level],
+        c[0].date_input(t("Date"), value=date.fromisoformat(old["date"]) if old else today, key=f"mock_date_{slot}",
+                        format="DD/MM/YYYY")
+        c[1].number_input(t("Minutes it took you"), 10, 600, value=old["minutes"] if old else plans.MOCK_MINUTES[level],
                           step=10, key=f"mock_minutes_{slot}")
         c = st.columns(4)
         for column, part in zip(c, PARTS):
-            column.number_input(f"{part} (%)", 0, 100, value=old["parts"][part] if old else 0, step=1,
+            column.number_input(f"{t(part)} (%)", 0, 100, value=old["parts"][part] if old else 0, step=1,
                                 key=f"mock_part_{part}_{slot}")
-        st.text_input("Note (what went wrong, what to practise)", value=old.get("note", "") if old else "",
+        st.text_input(t("Note (what went wrong, what to practise)"), value=old.get("note", "") if old else "",
                       key=f"mock_note_{slot}")
-        st.form_submit_button("Save result", type="primary", on_click=save_mock_form, args=(slot,))
-    st.caption("The minutes count towards your study time on that date.")
+        st.form_submit_button(t("Save result"), type="primary", on_click=save_mock_form, args=(slot,))
+    st.caption(t("The minutes count towards your study time on that date."))
 
 
 # ---------- settings ----------
@@ -774,80 +818,82 @@ def add_deadline():
 
 
 def deadlines_settings(today):
-    st.subheader("Deadlines")
-    st.caption("Finish everything up to a level by a date: its PDFs, exercises and mock exams. The themed "
-               "word lists go with your last deadline. Changing a deadline makes today's list again.")
+    st.subheader(t("Deadlines"))
+    st.caption(t("Finish everything up to a level by a date: its PDFs, exercises and mock exams. The themed "
+                 "word lists go with your last deadline. Changing a deadline makes today's list again."))
     if st.session_state.get("deadline_problem"):
-        st.error(st.session_state.pop("deadline_problem"))
+        st.error(t(st.session_state.pop("deadline_problem")))
     every = phases()
     for n, (goal, phase) in enumerate(zip(goals(), every)):
         widget_key = f"deadline_date_{n}"
         st.session_state[widget_key] = phase["end"]  # always show what is saved
         c = st.columns([2.2, 1.6, 1], vertical_alignment="bottom")
-        c[0].markdown(f"🏁 **{phase['goal']}**  \n{' · '.join(phase['levels'])}")
-        c[1].date_input("Date", key=widget_key, on_change=change_deadline, args=(n,), format="DD/MM/YYYY")
-        c[2].button("Remove", key=f"deadline_remove_{n}", on_click=remove_deadline, args=(n,),
+        c[0].markdown(f"🏁 **{goal_text(phase)}**  \n{' · '.join(phase['levels'])}")
+        c[1].date_input(t("Date"), key=widget_key, on_change=change_deadline, args=(n,), format="DD/MM/YYYY")
+        c[2].button(t("Remove"), key=f"deadline_remove_{n}", on_click=remove_deadline, args=(n,),
                     disabled=len(every) == 1)
     free = [level for level in plans.LEVELS if level not in {goal["level"] for goal in goals()}]
     if free:
         c = st.columns([2.2, 1.6, 1], vertical_alignment="bottom")
-        c[0].selectbox("Add a deadline for", free, index=len(free) - 1, key="deadline_new_level")
-        c[1].date_input("Date", value=every[-1]["end"] + timedelta(days=30), min_value=today,
+        c[0].selectbox(t("Add a deadline for"), free, index=len(free) - 1, key="deadline_new_level")
+        c[1].date_input(t("Date"), value=every[-1]["end"] + timedelta(days=30), min_value=today,
                         key="deadline_new_date", format="DD/MM/YYYY")
-        c[2].button("Add", key="deadline_add", on_click=add_deadline)
+        c[2].button(t("Add"), key="deadline_add", on_click=add_deadline)
 
 
 def settings_section(plan, shares, finished, today):
     deadlines_settings(today)
 
-    st.subheader("Study time per day")
+    st.subheader(t("Study time per day"))
     c = st.columns(2)
-    c[0].number_input("Monday to Friday (hours)", 0.0, 12.0, value=hours()["weekday"] / 60, step=0.5,
+    c[0].number_input(t("Monday to Friday (hours)"), 0.0, 12.0, value=hours()["weekday"] / 60, step=0.5,
                       key="hours_weekday", on_change=save_hours)
-    c[1].number_input("Saturday and Sunday (hours)", 0.0, 12.0, value=hours()["weekend"] / 60, step=0.5,
+    c[1].number_input(t("Saturday and Sunday (hours)"), 0.0, 12.0, value=hours()["weekend"] / 60, step=0.5,
                       key="hours_weekend", on_change=save_hours)
-    st.caption("Your goals are PDFs and exercises, not hours. These hours set how the work is shared between "
-               "weekdays and the weekend, and give the time estimate on the Today page. Changing them makes "
-               "today's list again.")
+    st.caption(t("Your goals are PDFs and exercises, not hours. These hours set how the work is shared between "
+                 "weekdays and the weekend, and give the time estimate on the Today page. Changing them makes "
+                 "today's list again."))
     phase = current_phase(today)
     load = plan["load"].get(phase["name"])
     if load and load > 1.05:
-        st.warning(f"What is left for {phase['goal']} takes about {load:.0%} of these hours, by my estimate. "
-                   "The lists still fit the deadline, but the days will feel longer than this.")
+        st.warning(t("What is left for {goal} takes about {percent} of these hours, by my estimate. "
+                     "The lists still fit the deadline, but the days will feel longer than this.",
+                     goal=goal_text(phase), percent=f"{load:.0%}"))
 
-    st.subheader("Days off")
+    st.subheader(t("Days off"))
     with st.container(horizontal=True, vertical_alignment="bottom"):
         last = max(today, phases()[-1]["end"])  # max(): also when your last deadline has passed
-        st.date_input("Day", value=today, min_value=min(today, phases()[0]["start"]), max_value=last,
-                      key="day_off_pick")
-        st.button("Add day off", key="day_off_add", on_click=add_day_off)
+        st.date_input(t("Day"), value=today, min_value=min(today, phases()[0]["start"]), max_value=last,
+                      key="day_off_pick", format="DD/MM/YYYY")
+        st.button(t("Add day off"), key="day_off_add", on_click=add_day_off)
     days_off = log_data().get("days_off", [])
     if days_off:
         for day_text in days_off:
             c = st.columns([3, 1], vertical_alignment="center")
             c[0].markdown(f"🌴 {long_date(date.fromisoformat(day_text))} {day_text[:4]}")
-            c[1].button("Remove", key=f"day_off_remove_{day_text}", on_click=remove_day_off, args=(day_text,))
+            c[1].button(t("Remove"), key=f"day_off_remove_{day_text}", on_click=remove_day_off, args=(day_text,))
     else:
-        st.caption("None yet. Christmas Day and New Year's Day might be good ones.")
+        st.caption(t("None yet. Christmas Day and New Year's Day might be good ones."))
 
-    with st.expander("How the plan is made"):
-        st.markdown(
+    with st.expander(t("How the plan is made")):
+        st.markdown(t(
             "- **Goals:** each day has a list of PDFs to read and exercises to finish. An exercise is one "
-            "exercise type of a PDF (like *Words, Spanish to English*) or of a themed list, finished when "
+            "exercise type of a PDF (like *{example}*) or of a themed list, finished when "
             "every question was answered once, or when you marked it as done.\n"
             "- **Order:** for each PDF, first read it, then its exercises. Mock exam 1 of a level comes after "
             "its last PDF, no. 2 halfway through the next level. The last level before each deadline has "
             "them after PDF 7 and at the end. The themed lists are spread over the part before your last "
             "deadline, up to its level.\n"
-            "- **Deadlines:** " + "; ".join(p["goal"] for p in phases()) + ". From C1 on, the plan also "
-            "has an hour of writing practice on weekdays.\n"
+            "- **Deadlines:** {deadlines}. From C1 on, the plan also has an hour of writing practice on weekdays.\n"
             "- **Every morning:** the plan starts from where you are and spreads what is left over the days "
             "to the deadline, weekdays getting more than the weekend. Today's list is fixed the first time "
             "you open it, so it doesn't change while you work through it.\n"
             "- **Estimates:** 2 to 5 minutes per page, 5 to 40 seconds per question depending on the type, plus "
             "extra for the repeats in the rounds. A mock exam counts as 2.5 to 5 hours including checking it.\n"
             "- **Study time:** counted from your answers and page turns. A pause of more than 3 minutes "
-            "(10 while reading) counts as a break.")
+            "(10 while reading) counts as a break.",
+            example=practice.mode_title("reverse").split(" ", 1)[1],
+            deadlines="; ".join(goal_text(p) for p in phases())))
 
 
 # ---------- the row on the home screen ----------
@@ -863,9 +909,10 @@ def home_row():
     studied = study_log.studied_minutes(log, today.isoformat())
     c = st.columns([4, 1.5], vertical_alignment="center")
     if not goal:
-        c[0].markdown(f"**🗓️ Today:** nothing on your list · {fmt(studied)} studied")
+        c[0].markdown(t("**🗓️ Today:** nothing on your list · {time} studied", time=fmt(studied)))
     else:
-        c[0].markdown(f"**🗓️ Today:** {study_log.finished_by(log, exercises, today.isoformat())} of "
-                      f"{len(exercises)} exercises · {study_log.finished_by(log, reads, today.isoformat())} of "
-                      f"{len(reads)} PDFs read · {fmt(studied)} studied")
-    c[1].button("Open schedule", key="home_schedule", on_click=go_view, args=("schedule",), width="stretch")
+        c[0].markdown(t("**🗓️ Today:** {exercises_done} of {exercises} exercises · {reads_done} of {reads} PDFs read "
+                        "· {time} studied", exercises_done=study_log.finished_by(log, exercises, today.isoformat()),
+                        exercises=len(exercises), reads_done=study_log.finished_by(log, reads, today.isoformat()),
+                        reads=len(reads), time=fmt(studied)))
+    c[1].button(t("Open schedule"), key="home_schedule", on_click=go_view, args=("schedule",), width="stretch")

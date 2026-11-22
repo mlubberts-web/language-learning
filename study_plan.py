@@ -18,6 +18,7 @@ Like a MATLAB struct array, the plan is a list of dicts: one dict per day.
 from datetime import date, timedelta
 
 from practice_items import MODE_IDS
+from ui_text import mark
 
 # Estimated seconds for one question of each exercise type, the first time you answer it.
 SECONDS = {"gender": 5, "words": 12, "reverse": 12, "verbs": 12, "fill": 20, "build": 25,
@@ -69,14 +70,14 @@ def make_phases(goals, start):
 def deadline_problem(goals):
     """None when the deadlines can be planned, else what is wrong, in words."""
     if not goals:
-        return "Keep at least one deadline."
+        return mark("Keep at least one deadline.")  # mark(): translated where it is shown
     goals = sorted(goals, key=lambda goal: LEVELS.index(goal["level"]))  # from low to high level
     levels = [LEVELS.index(goal["level"]) for goal in goals]
     dates = [goal["date"] for goal in goals]
     if len(set(levels)) < len(levels):
-        return "Each level can have only one deadline."
+        return mark("Each level can have only one deadline.")
     if sorted(dates) != dates or len(set(dates)) < len(dates):
-        return "A higher level needs a later date."
+        return mark("A higher level needs a later date.")
     return None
 
 

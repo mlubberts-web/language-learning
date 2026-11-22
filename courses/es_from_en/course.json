@@ -5,5 +5,9 @@
   "title": "Spanish",
   "subtitle": "Spanish from Spain, explained in English",
   "exam": "DELE",
-  "accent_pdfs": ["A1_01", "C1_08"]
+  "accent_pdfs": [
+    "A1_01",
+    "C1_08"
+  ],
+  "exam_site": "https://cervantes.org/es/examenes/dele"
 }
