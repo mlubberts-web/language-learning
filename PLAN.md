@@ -103,7 +103,7 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 3: English for Dutch speakers (`en_from_nl`)
 
-- [ ] 3.1 Curriculum: the list of ~59 units A1–C2 with their contents, following the CEFR and the
+- [x] 3.1 Curriculum: the list of ~59 units A1–C2 with their contents, following the CEFR and the
       Cambridge exams; write it to `courses/en_from_nl/curriculum.md`.
 - [ ] 3.2 A1 units
 - [ ] 3.3 A2 units
