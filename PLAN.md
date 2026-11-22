@@ -64,8 +64,15 @@ Choices made (Menno can overrule any of them):
       persons for verb forms, the speech voice, letters for the article keys.
 - [x] 1.3 Exercise types per course: the article exercise becomes "el or la?" / "de or het?" or is
       left out; titles such as "Words, Spanish to English" come from the course.
-- [ ] 1.4 Interface translations: every text on screen comes from `ui_text/en.json`, `nl.json`,
-      `es.json`; the interface language is the course's explanation language.
+- [ ] 1.4 Interface translations: every text on screen goes through `t()` in `ui_text.py`, with
+      the Dutch and Spanish in `ui_text/nl.json` and `es.json`; the interface language is the
+      course's explanation language.
+  - [x] 1.4a `ui_text.py`, day and month names, and a test that every `t()` text is translated
+  - [ ] 1.4b app.py, ui.py, login.py
+  - [ ] 1.4c practice_screen.py, practice_items.py, practice_logic.py, extra_screens.py
+  - [ ] 1.4d schedule_screen.py, study_plan.py
+  - [ ] 1.4e progress_screen.py
+  - [ ] 1.4f Check every screen in Dutch and Spanish in the browser (with a test course)
 - [ ] 1.5 Choosing a course: on your own computer a course picker; online the course is chosen
       when making an account, and the sidebar can switch or add courses. Saved rows are named
       per course, so results never mix.
