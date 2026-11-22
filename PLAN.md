@@ -96,8 +96,10 @@ Choices made (Menno can overrule any of them):
 - [x] 2.5 C1
 - [x] 2.6 C2
 - [x] 2.7 Themed lists in Dutch (32 files).
-- [ ] 2.8 Dutch-specific notes: false friends and typical mistakes of Dutch speakers.
-- [ ] 2.9 🙋 Menno spot-checks a few units.
+- [x] 2.8 Dutch-specific notes: false friends and typical mistakes of Dutch speakers.
+      (New themed list `courses/es_from_nl/themes/dutch_traps.json`, 44 entries; the Dutch notes
+      inside the units were translated with them.)
+- [ ] 2.9 🙋 Menno spot-checks a few units. (Asked on 2026-11-22; Phase 3 goes on in the meantime.)
 
 ## Phase 3: English for Dutch speakers (`en_from_nl`)
 
