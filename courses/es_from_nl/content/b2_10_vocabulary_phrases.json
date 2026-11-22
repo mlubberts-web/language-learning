@@ -1,0 +1,1199 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Woordenschat",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Gezondheid, technologie, economie, recht en politiek, kunst en wetenschap, werkwoorden van communicatie, uitdrukkingen en verwarrende woorden",
+  "footer": "Language Learning · B2 · Woordenschat en vaste uitdrukkingen",
+  "next": "Volgende: C1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zo gebruik je deze lijsten",
+   "bullets": [
+    "Zelfstandige naamwoorden staan met hun <b>lidwoord</b> (el / la). Leer ze samen: el ordenador, la inversión.",
+    "Dek één kolom af en overhoor jezelf in beide richtingen. Gebruik de woorden daarna in zinnen met de grammatica van B2: tijdsvolgorde, omschrijvingen en verbindingswoorden.",
+    "Alle woorden zijn Spaans uit Spanje. Haakjes na een werkwoord geven een stamverandering aan: <i>competir (i)</i> geeft <i>compito</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Gezondheid en geneeskunde"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Gezondheid",
+   "items": [
+    [
+     "el médico / la médica",
+     "arts, dokter"
+    ],
+    [
+     "el paciente",
+     "patiënt"
+    ],
+    [
+     "el enfermero / la enfermera",
+     "verpleegkundige"
+    ],
+    [
+     "el hospital",
+     "ziekenhuis"
+    ],
+    [
+     "la consulta",
+     "spreekkamer, consult"
+    ],
+    [
+     "la receta",
+     "recept (van de dokter)"
+    ],
+    [
+     "la medicina",
+     "medicijn (geneesmiddel, wetenschap)"
+    ],
+    [
+     "la pastilla",
+     "pil"
+    ],
+    [
+     "la vacuna",
+     "vaccin"
+    ],
+    [
+     "el síntoma",
+     "symptoom"
+    ],
+    [
+     "la fiebre",
+     "koorts"
+    ],
+    [
+     "la tos",
+     "hoest"
+    ],
+    [
+     "el dolor",
+     "pijn"
+    ],
+    [
+     "la herida",
+     "wond"
+    ],
+    [
+     "la alergia",
+     "allergie"
+    ],
+    [
+     "el resfriado",
+     "verkoudheid"
+    ],
+    [
+     "la gripe",
+     "griep"
+    ],
+    [
+     "la lesión",
+     "blessure, letsel"
+    ],
+    [
+     "la cirugía",
+     "operatie"
+    ],
+    [
+     "la urgencia",
+     "spoedeisende hulp"
+    ],
+    [
+     "la seguridad social",
+     "openbare zorgverzekering"
+    ],
+    [
+     "el análisis de sangre",
+     "bloedonderzoek"
+    ],
+    [
+     "la dieta",
+     "dieet"
+    ],
+    [
+     "el estrés",
+     "stress"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor gezondheid",
+   "items": [
+    [
+     "curar",
+     "genezen"
+    ],
+    [
+     "recuperarse",
+     "herstellen"
+    ],
+    [
+     "operar",
+     "opereren"
+    ],
+    [
+     "recetar",
+     "voorschrijven"
+    ],
+    [
+     "vacunar",
+     "vaccineren"
+    ],
+    [
+     "sufrir de",
+     "lijden aan"
+    ],
+    [
+     "estar sano",
+     "gezond zijn"
+    ],
+    [
+     "encontrarse mal",
+     "zich niet lekker voelen"
+    ],
+    [
+     "marearse",
+     "duizelig worden"
+    ],
+    [
+     "desmayarse",
+     "flauwvallen"
+    ],
+    [
+     "torcerse (ue)",
+     "verstuiken"
+    ],
+    [
+     "tener buena pinta",
+     "er goed uitzien"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Technologie en internet"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Technologie",
+   "items": [
+    [
+     "el ordenador",
+     "computer"
+    ],
+    [
+     "el portátil",
+     "laptop"
+    ],
+    [
+     "el móvil",
+     "mobiele telefoon"
+    ],
+    [
+     "la pantalla",
+     "scherm"
+    ],
+    [
+     "el teclado",
+     "toetsenbord"
+    ],
+    [
+     "el ratón",
+     "muis"
+    ],
+    [
+     "el cargador",
+     "oplader"
+    ],
+    [
+     "la batería",
+     "batterij, accu"
+    ],
+    [
+     "la aplicación",
+     "app"
+    ],
+    [
+     "el programa",
+     "programma"
+    ],
+    [
+     "el archivo",
+     "bestand"
+    ],
+    [
+     "la contraseña",
+     "wachtwoord"
+    ],
+    [
+     "la red",
+     "netwerk"
+    ],
+    [
+     "el wifi",
+     "wifi"
+    ],
+    [
+     "el correo electrónico",
+     "e-mail"
+    ],
+    [
+     "el mensaje",
+     "bericht"
+    ],
+    [
+     "la nube",
+     "cloud"
+    ],
+    [
+     "el sitio web",
+     "website"
+    ],
+    [
+     "el enlace",
+     "link"
+    ],
+    [
+     "el buscador",
+     "zoekmachine"
+    ],
+    [
+     "la inteligencia artificial",
+     "kunstmatige intelligentie"
+    ],
+    [
+     "los datos",
+     "gegevens"
+    ],
+    [
+     "la privacidad",
+     "privacy"
+    ],
+    [
+     "el ciberataque",
+     "cyberaanval"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor technologie",
+   "items": [
+    [
+     "descargar",
+     "downloaden"
+    ],
+    [
+     "subir",
+     "uploaden"
+    ],
+    [
+     "instalar",
+     "installeren"
+    ],
+    [
+     "actualizar",
+     "bijwerken, updaten"
+    ],
+    [
+     "guardar",
+     "opslaan"
+    ],
+    [
+     "borrar",
+     "verwijderen"
+    ],
+    [
+     "iniciar sesión",
+     "inloggen"
+    ],
+    [
+     "cerrar sesión",
+     "uitloggen"
+    ],
+    [
+     "conectarse",
+     "verbinden"
+    ],
+    [
+     "navegar",
+     "surfen"
+    ],
+    [
+     "compartir",
+     "delen"
+    ],
+    [
+     "reiniciar",
+     "opnieuw opstarten"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Economie en financiën"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Economie",
+   "items": [
+    [
+     "la economía",
+     "economie"
+    ],
+    [
+     "la empresa",
+     "bedrijf"
+    ],
+    [
+     "el mercado",
+     "markt"
+    ],
+    [
+     "la inversión",
+     "investering"
+    ],
+    [
+     "el inversor",
+     "investeerder"
+    ],
+    [
+     "la bolsa",
+     "beurs"
+    ],
+    [
+     "la acción",
+     "aandeel"
+    ],
+    [
+     "el beneficio",
+     "winst"
+    ],
+    [
+     "la pérdida",
+     "verlies"
+    ],
+    [
+     "la deuda",
+     "schuld"
+    ],
+    [
+     "el préstamo",
+     "lening"
+    ],
+    [
+     "la hipoteca",
+     "hypotheek"
+    ],
+    [
+     "el interés",
+     "rente"
+    ],
+    [
+     "la inflación",
+     "inflatie"
+    ],
+    [
+     "el presupuesto",
+     "begroting, budget"
+    ],
+    [
+     "el ahorro",
+     "spaargeld"
+    ],
+    [
+     "la crisis",
+     "crisis"
+    ],
+    [
+     "el crecimiento",
+     "groei"
+    ],
+    [
+     "la factura",
+     "factuur, rekening"
+    ],
+    [
+     "el gasto",
+     "uitgave"
+    ],
+    [
+     "el ingreso",
+     "inkomen"
+    ],
+    [
+     "la cuenta bancaria",
+     "bankrekening"
+    ],
+    [
+     "el impuesto",
+     "belasting"
+    ],
+    [
+     "la subida / la bajada",
+     "stijging / daling"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor economie",
+   "items": [
+    [
+     "invertir (ie)",
+     "investeren"
+    ],
+    [
+     "ahorrar",
+     "sparen"
+    ],
+    [
+     "endeudarse",
+     "schulden maken"
+    ],
+    [
+     "prestar",
+     "uitlenen"
+    ],
+    [
+     "pedir prestado",
+     "lenen (van iemand)"
+    ],
+    [
+     "aumentar",
+     "stijgen, verhogen"
+    ],
+    [
+     "disminuir",
+     "dalen, verlagen"
+    ],
+    [
+     "crecer",
+     "groeien"
+    ],
+    [
+     "quebrar (ie)",
+     "failliet gaan"
+    ],
+    [
+     "fundar",
+     "oprichten"
+    ],
+    [
+     "competir (i)",
+     "concurreren"
+    ],
+    [
+     "exportar / importar",
+     "exporteren / importeren"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Recht, misdaad en politiek"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Recht en politiek",
+   "items": [
+    [
+     "la ley",
+     "wet"
+    ],
+    [
+     "el juez / la jueza",
+     "rechter"
+    ],
+    [
+     "el abogado / la abogada",
+     "advocaat"
+    ],
+    [
+     "el juicio",
+     "proces, rechtszaak"
+    ],
+    [
+     "el tribunal",
+     "rechtbank"
+    ],
+    [
+     "la sentencia",
+     "vonnis, straf"
+    ],
+    [
+     "la multa",
+     "boete"
+    ],
+    [
+     "el delito",
+     "misdaad, delict"
+    ],
+    [
+     "el ladrón",
+     "dief"
+    ],
+    [
+     "el robo",
+     "diefstal"
+    ],
+    [
+     "la policía",
+     "politie"
+    ],
+    [
+     "la cárcel",
+     "gevangenis"
+    ],
+    [
+     "el testigo",
+     "getuige"
+    ],
+    [
+     "la prueba",
+     "bewijs, test"
+    ],
+    [
+     "el derecho",
+     "recht"
+    ],
+    [
+     "la constitución",
+     "grondwet"
+    ],
+    [
+     "el parlamento",
+     "parlement"
+    ],
+    [
+     "el ministro",
+     "minister"
+    ],
+    [
+     "la campaña",
+     "campagne"
+    ],
+    [
+     "la manifestación",
+     "demonstratie"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor recht en politiek",
+   "items": [
+    [
+     "votar",
+     "stemmen"
+    ],
+    [
+     "gobernar (ie)",
+     "regeren"
+    ],
+    [
+     "aprobar (ue)",
+     "aannemen (een wet)"
+    ],
+    [
+     "prohibir",
+     "verbieden"
+    ],
+    [
+     "denunciar",
+     "aangifte doen"
+    ],
+    [
+     "acusar",
+     "beschuldigen"
+    ],
+    [
+     "condenar",
+     "veroordelen"
+    ],
+    [
+     "robar",
+     "stelen"
+    ],
+    [
+     "detener",
+     "arresteren"
+    ],
+    [
+     "declarar",
+     "verklaren, getuigen"
+    ],
+    [
+     "firmar",
+     "ondertekenen"
+    ],
+    [
+     "reclamar",
+     "eisen, terugvorderen"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Kunst, cultuur en wetenschap"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Kunst en cultuur",
+   "items": [
+    [
+     "el arte",
+     "kunst"
+    ],
+    [
+     "la exposición",
+     "tentoonstelling"
+    ],
+    [
+     "el museo",
+     "museum"
+    ],
+    [
+     "la obra",
+     "werk, toneelstuk"
+    ],
+    [
+     "el escritor",
+     "schrijver"
+    ],
+    [
+     "la novela",
+     "roman"
+    ],
+    [
+     "el cuento",
+     "kort verhaal"
+    ],
+    [
+     "el poema",
+     "gedicht"
+    ],
+    [
+     "el pintor",
+     "schilder"
+    ],
+    [
+     "el cuadro",
+     "schilderij"
+    ],
+    [
+     "la escultura",
+     "beeldhouwwerk"
+    ],
+    [
+     "el estreno",
+     "première"
+    ],
+    [
+     "el guion",
+     "script, draaiboek"
+    ],
+    [
+     "el director",
+     "regisseur"
+    ],
+    [
+     "el espectáculo",
+     "voorstelling"
+    ],
+    [
+     "el festival",
+     "festival"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Wetenschap",
+   "items": [
+    [
+     "la ciencia",
+     "wetenschap"
+    ],
+    [
+     "el científico",
+     "wetenschapper"
+    ],
+    [
+     "la investigación",
+     "onderzoek"
+    ],
+    [
+     "el experimento",
+     "experiment"
+    ],
+    [
+     "la teoría",
+     "theorie"
+    ],
+    [
+     "el descubrimiento",
+     "ontdekking"
+    ],
+    [
+     "el avance",
+     "vooruitgang"
+    ],
+    [
+     "la prueba",
+     "test, bewijs"
+    ],
+    [
+     "la hipótesis",
+     "hypothese"
+    ],
+    [
+     "la fórmula",
+     "formule"
+    ],
+    [
+     "el laboratorio",
+     "laboratorium"
+    ],
+    [
+     "la energía",
+     "energie"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Werkwoorden van communicatie en denken"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Communicatie",
+   "items": [
+    [
+     "afirmar",
+     "beweren"
+    ],
+    [
+     "negar (ie)",
+     "ontkennen"
+    ],
+    [
+     "advertir (ie)",
+     "waarschuwen"
+    ],
+    [
+     "aconsejar",
+     "aanraden"
+    ],
+    [
+     "sugerir (ie)",
+     "voorstellen"
+    ],
+    [
+     "prometer",
+     "beloven"
+    ],
+    [
+     "anunciar",
+     "aankondigen"
+    ],
+    [
+     "comentar",
+     "opmerken, commentaar geven"
+    ],
+    [
+     "añadir",
+     "toevoegen"
+    ],
+    [
+     "recalcar",
+     "benadrukken"
+    ],
+    [
+     "admitir",
+     "toegeven"
+    ],
+    [
+     "insistir",
+     "aandringen"
+    ],
+    [
+     "rechazar",
+     "afwijzen"
+    ],
+    [
+     "quejarse",
+     "klagen"
+    ],
+    [
+     "discutir",
+     "discussiëren, bespreken"
+    ],
+    [
+     "convencer",
+     "overtuigen"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Denken",
+   "items": [
+    [
+     "considerar",
+     "overwegen"
+    ],
+    [
+     "suponer",
+     "veronderstellen"
+    ],
+    [
+     "deducir",
+     "afleiden"
+    ],
+    [
+     "imaginar",
+     "zich voorstellen"
+    ],
+    [
+     "recordar (ue)",
+     "zich herinneren"
+    ],
+    [
+     "olvidar",
+     "vergeten"
+    ],
+    [
+     "reflexionar",
+     "nadenken"
+    ],
+    [
+     "analizar",
+     "analyseren"
+    ],
+    [
+     "comparar",
+     "vergelijken"
+    ],
+    [
+     "decidir",
+     "beslissen"
+    ],
+    [
+     "dudar",
+     "twijfelen"
+    ],
+    [
+     "sospechar",
+     "vermoeden"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Idiomen en uitdrukkingen"
+  },
+  {
+   "type": "h2",
+   "text": "Idiomen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "tirar la toalla",
+     "de handdoek in de ring gooien"
+    ],
+    [
+     "dar en el clavo",
+     "de spijker op de kop slaan"
+    ],
+    [
+     "ponerse las pilas",
+     "de schouders eronder zetten"
+    ],
+    [
+     "estar al tanto",
+     "op de hoogte zijn"
+    ],
+    [
+     "no pegar ojo",
+     "geen oog dichtdoen"
+    ],
+    [
+     "ser uña y carne",
+     "twee handen op één buik zijn"
+    ],
+    [
+     "hacer la vista gorda",
+     "een oogje dichtknijpen"
+    ],
+    [
+     "ir al grano",
+     "ter zake komen"
+    ],
+    [
+     "no tener pelos en la lengua",
+     "geen blad voor de mond nemen"
+    ],
+    [
+     "hablar por los codos",
+     "honderduit praten"
+    ],
+    [
+     "tirar la casa por la ventana",
+     "geen kosten sparen"
+    ],
+    [
+     "echar una mano",
+     "een handje helpen"
+    ],
+    [
+     "dar la cara",
+     "de verantwoordelijkheid nemen"
+    ],
+    [
+     "poner los pelos de punta",
+     "de haren te berge doen rijzen"
+    ],
+    [
+     "estar en las últimas",
+     "op zijn laatste benen lopen"
+    ],
+    [
+     "a ciegas",
+     "blindelings"
+    ],
+    [
+     "a pesar de todo",
+     "ondanks alles"
+    ],
+    [
+     "sin ir más lejos",
+     "om maar een voorbeeld te noemen"
+    ],
+    [
+     "con los pelos de punta",
+     "doodsbang"
+    ],
+    [
+     "cueste lo que cueste",
+     "koste wat kost"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Verwarrende woorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.0,
+    6.6
+   ],
+   "head": [
+    "Woord",
+    "Betekent",
+    "Niet verwarren met"
+   ],
+   "rows": [
+    [
+     "ahora / en seguida",
+     "nu / meteen",
+     "ahora mismo = nu meteen"
+    ],
+    [
+     "pedir / preguntar",
+     "vragen om / een vraag stellen",
+     "Le pedí dinero. Le pregunté la hora."
+    ],
+    [
+     "saber / conocer",
+     "weten (feit) / kennen (persoon, plaats)",
+     "Sé la respuesta. Conozco Madrid."
+    ],
+    [
+     "llevar / traer",
+     "(weg)brengen / (mee)brengen",
+     "Llévalo allí. Tráelo aquí."
+    ],
+    [
+     "ir / venir",
+     "gaan / komen",
+     "Voy allí. Vengo aquí."
+    ],
+    [
+     "quedar / quedarse",
+     "afspreken / blijven",
+     "Quedamos a las ocho. Me quedo en casa."
+    ],
+    [
+     "hacer / dejar",
+     "laten doen / toestaan",
+     "Me hizo reír. Me dejó entrar."
+    ],
+    [
+     "tiempo / vez / rato",
+     "tijd (duur) / keer / poosje",
+     "Tengo tiempo. Una vez. Un rato."
+    ],
+    [
+     "sentir / sentirse",
+     "voelen (iets) / zich voelen (toestand)",
+     "Siento frío. Me siento bien."
+    ],
+    [
+     "pensar / creer",
+     "denken / geloven",
+     "Pienso en ti. Creo que sí."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "9. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El médico me dio una ______ para la farmacia.",
+     "hint": "recept",
+     "a": "receta",
+     "full": "El médico me dio una receta para la farmacia."
+    },
+    {
+     "q": "Tengo que ______ la aplicación antes de usarla.",
+     "hint": "installeren",
+     "a": "instalar",
+     "full": "Tengo que instalar la aplicación antes de usarla."
+    },
+    {
+     "q": "Han subido los ______ de la hipoteca.",
+     "hint": "rente",
+     "a": "intereses",
+     "full": "Han subido los intereses de la hipoteca."
+    },
+    {
+     "q": "El ______ condenó al ladrón a dos años.",
+     "hint": "rechter",
+     "a": "juez",
+     "full": "El juez condenó al ladrón a dos años."
+    },
+    {
+     "q": "Anoche no pegué ______.",
+     "hint": "oog (uitdrukking)",
+     "a": "ojo",
+     "full": "Anoche no pegué ojo."
+    },
+    {
+     "q": "Ana y Luis son ______ y carne.",
+     "hint": "onafscheidelijk",
+     "a": "uña",
+     "full": "Ana y Luis son uña y carne."
+    },
+    {
+     "q": "Voy a ir ______ grano: no hay dinero.",
+     "hint": "ter zake",
+     "a": "al",
+     "full": "Voy a ir al grano: no hay dinero."
+    },
+    {
+     "q": "Él ______ haberlo visto.",
+     "hint": "ontkennen (indefinido)",
+     "a": "negó",
+     "full": "Él negó haberlo visto."
+    },
+    {
+     "q": "Quedamos ______ las ocho.",
+     "hint": "voorzetsel",
+     "a": "a",
+     "full": "Quedamos a las ocho."
+    },
+    {
+     "q": "______ Madrid muy bien.",
+     "hint": "conocer, yo",
+     "a": "Conozco",
+     "full": "Conozco Madrid muy bien."
+    },
+    {
+     "q": "Mi empresa ______ en 2010.",
+     "hint": "oprichten, lijdende vorm met se, indefinido",
+     "a": "se fundó",
+     "full": "Mi empresa se fundó en 2010."
+    },
+    {
+     "q": "Hay que ______ el archivo antes de cerrar.",
+     "hint": "opslaan",
+     "a": "guardar",
+     "full": "Hay que guardar el archivo antes de cerrar."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ben al drie dagen ziek.",
+     "a": "Llevo tres días enfermo."
+    },
+    {
+     "q": "Koste wat kost, ik doe het.",
+     "a": "Cueste lo que cueste, lo haré."
+    },
+    {
+     "q": "Hij gaf toe dat hij een fout had gemaakt.",
+     "a": "Admitió que se había equivocado."
+    },
+    {
+     "q": "Laten we ter zake komen.",
+     "a": "Vayamos al grano."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

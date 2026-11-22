@@ -92,7 +92,7 @@ Choices made (Menno can overrule any of them):
       Spanish stays as it is. Generate the PDFs, run the tests.
 - [x] 2.2 A2
 - [x] 2.3 B1
-- [ ] 2.4 B2
+- [x] 2.4 B2
 - [ ] 2.5 C1
 - [ ] 2.6 C2
 - [ ] 2.7 Themed lists in Dutch (32 files).

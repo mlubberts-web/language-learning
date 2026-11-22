@@ -317,5 +317,115 @@
   "subtitle": "Werk, onderwijs, milieu, samenleving, media, gevoelens, meningen, uitdrukkingen en valse vrienden",
   "content": "b1_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_01_Subjuntivo_tijdsvolgorde_en_gebruik_van_de_imperfecto",
+  "file": "B2_01_Subjuntivo_tijdsvolgorde_en_gebruik_van_de_imperfecto.pdf",
+  "level": "B2",
+  "number": 1,
+  "section": "Grammatica",
+  "title": "Subjuntivo: tijdsvolgorde en gebruik van de imperfecto",
+  "subtitle": "de juiste tijd van de subjuntivo kiezen, de imperfecto de subjuntivo in alle soorten bijzinnen, ojalá en de vormen op -se",
+  "content": "b2_01_sequence_tenses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_02_Pluscuamperfecto_de_subjuntivo_en_complexe_voorwaardelijke_zinnen",
+  "file": "B2_02_Pluscuamperfecto_de_subjuntivo_en_complexe_voorwaardelijke_zinnen.pdf",
+  "level": "B2",
+  "number": 2,
+  "section": "Grammatica",
+  "title": "Pluscuamperfecto de subjuntivo en complexe voorwaardelijke zinnen",
+  "subtitle": "hubiera + deelwoord, onwerkelijke en gemengde voorwaarden, spijt, en alternatieven voor si",
+  "content": "b2_02_pluperfect_conditionals.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_03_Gevorderde_subjuntivo",
+  "file": "B2_03_Gevorderde_subjuntivo.pdf",
+  "level": "B2",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Gevorderde subjuntivo",
+  "subtitle": "toegeving, onbepaalde vormen (wie ook, wat ook), waarschijnlijkheid, en vaste constructies met de subjuntivo",
+  "content": "b2_03_advanced_subjunctive.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_04_Werkwoordelijke_omschrijvingen",
+  "file": "B2_04_Werkwoordelijke_omschrijvingen.pdf",
+  "level": "B2",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "Werkwoordelijke omschrijvingen",
+  "subtitle": "hulpwerkwoord + infinitief, gerundio of deelwoord: volver a, soler, llevar + gerundio, deber de, tener + deelwoord en meer",
+  "content": "b2_04_periphrases.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_05_Constructies_met_infinitief_gerundio_en_deelwoord",
+  "file": "B2_05_Constructies_met_infinitief_gerundio_en_deelwoord.pdf",
+  "level": "B2",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Constructies met infinitief, gerundio en deelwoord",
+  "subtitle": "al + inf., sin + inf., de voltooide infinitief, het gebruik van het gerundio, losse deelwoordzinnen",
+  "content": "b2_05_non_finite.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_06_Voorzetsels_en_werkwoord_voorzetsel",
+  "file": "B2_06_Voorzetsels_en_werkwoord_voorzetsel.pdf",
+  "level": "B2",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "Voorzetsels en werkwoord + voorzetsel",
+  "subtitle": "por tegenover para, de persoonlijke a, werkwoorden met een vast voorzetsel, dequeísmo en queísmo",
+  "content": "b2_06_prepositions.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_07_Gevorderde_voornaamwoorden",
+  "file": "B2_07_Gevorderde_voornaamwoorden.pdf",
+  "level": "B2",
+  "number": 7,
+  "section": "Grammatica",
+  "title": "Gevorderde voornaamwoorden",
+  "subtitle": "twee voornaamwoorden samen, de plaats, dubbele voornaamwoorden, werkwoorden zoals gustar, het onzijdige lo, voornaamwoorden na een voorzetsel, leísmo",
+  "content": "b2_07_pronouns.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_08_Nadruk_woordvolgorde_en_achtervoegsels",
+  "file": "B2_08_Nadruk_woordvolgorde_en_achtervoegsels.pdf",
+  "level": "B2",
+  "number": 8,
+  "section": "Grammatica",
+  "title": "Nadruk, woordvolgorde en achtervoegsels",
+  "subtitle": "gespleten zinnen, focus en herhaalde voornaamwoorden, uitroepen, verkleinwoorden, vergrotingen en -ísimo",
+  "content": "b2_08_emphasis_suffixes.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_09_Woordvorming_en_register",
+  "file": "B2_09_Woordvorming_en_register.pdf",
+  "level": "B2",
+  "number": 9,
+  "section": "Grammatica",
+  "title": "Woordvorming en register",
+  "subtitle": "voorvoegsels, achtervoegsels, informeel tegenover formeel Spaans, en formele e-mails en brieven schrijven",
+  "content": "b2_09_word_formation_register.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "B2_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "B2",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Gezondheid, technologie, economie, recht en politiek, kunst en wetenschap, werkwoorden van communicatie, uitdrukkingen en verwarrende woorden",
+  "content": "b2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

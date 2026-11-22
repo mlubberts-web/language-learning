@@ -1,0 +1,541 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Constructies met infinitief, gerundio en deelwoord",
+  "subtitle": "al + inf., sin + inf., de voltooide infinitief, het gebruik van het gerundio, losse deelwoordzinnen",
+  "footer": "Language Learning · B2 · Grammatica · Infinitief, gerundio, deelwoord",
+  "next": "Volgende: B2 · pdf 6 — Voorzetsels en werkwoord + voorzetsel"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de infinitief gebruiken na voorzetsels (al + inf., sin + inf., por + inf., de + inf.)",
+    "het gewone en het voltooide gerundio gebruiken voor tijd, oorzaak, manier en voorwaarde",
+    "losse deelwoordzinnen gebruiken (Terminada la reunión, ...)",
+    "de veelgemaakte fouten met het gerundio vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De infinitief"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "al + inf. (toen, bij)",
+     "Al llegar, llamé a Ana.",
+     "Toen ik aankwam, belde ik Ana."
+    ],
+    [
+     "al + inf. (oorzaak)",
+     "Al ser domingo, está cerrado.",
+     "Omdat het zondag is, is het dicht."
+    ],
+    [
+     "sin + inf.",
+     "Salió sin decir nada.",
+     "Hij ging weg zonder iets te zeggen."
+    ],
+    [
+     "por + inf. (oorzaak)",
+     "Lo despidieron por llegar tarde.",
+     "Ze hebben hem ontslagen omdat hij te laat kwam."
+    ],
+    [
+     "por + inf. (nog niet)",
+     "La carta está por escribir.",
+     "De brief moet nog geschreven worden."
+    ],
+    [
+     "para + inf.",
+     "Estudio para aprobar.",
+     "Ik studeer om te slagen."
+    ],
+    [
+     "de + inf. (voorwaarde)",
+     "De llover, nos quedamos.",
+     "Als het regent, blijven we."
+    ],
+    [
+     "a + inf. (vaste uitdrukking)",
+     "A decir verdad, no me gusta.",
+     "Eerlijk gezegd vind ik het niet leuk."
+    ],
+    [
+     "después de / antes de + inf.",
+     "Antes de salir, cierra la puerta.",
+     "Doe de deur dicht voordat je weggaat."
+    ],
+    [
+     "hasta + inf.",
+     "Trabaja hasta caer rendido.",
+     "Hij werkt tot hij erbij neervalt."
+    ],
+    [
+     "infinitief als onderwerp",
+     "Fumar es malo.",
+     "Roken is slecht."
+    ],
+    [
+     "el + inf. (als zelfstandig naamwoord)",
+     "El fumar es malo. / El comer bien es sano.",
+     "Roken is slecht. / Gezond eten is gezond."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "De <b>voltooide infinitief</b> (haber + deelwoord) laat een handeling zien die <b>vóór</b> het hoofdwerkwoord gebeurde: <i>Dice haber llegado tarde.</i> (Hij zegt dat hij te laat kwam.) <i>Después de haber comido, salimos.</i> <i>Me alegro de haberte conocido.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zelfde onderwerp: infinitief",
+   "text": "Als beide werkwoorden hetzelfde onderwerp hebben, gebruik je de infinitief: <i>Quiero salir.</i> / <i>Me alegro de verte.</i> Bij een ander onderwerp gebruik je <b>que + subjuntivo</b>: <i>Quiero que salgas. / Me alegro de que vengas.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. Het gerundio"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Gelijktijdige handeling",
+     "Entró cantando.",
+     "Hij kwam zingend binnen."
+    ],
+    [
+     "Manier",
+     "Aprendió español viendo series.",
+     "Hij leerde Spaans door series te kijken."
+    ],
+    [
+     "Oorzaak",
+     "Siendo así, no puedo ir.",
+     "Als dat zo is, kan ik niet gaan."
+    ],
+    [
+     "Voorwaarde",
+     "Estudiando, aprobarás.",
+     "Als je studeert, slaag je."
+    ],
+    [
+     "Toegeving",
+     "Aun siendo caro, lo compré.",
+     "Hoewel het duur was, heb ik het gekocht."
+    ],
+    [
+     "Tijd",
+     "Vio el accidente volviendo a casa.",
+     "Hij zag het ongeluk op weg naar huis."
+    ],
+    [
+     "Voltooid gerundio",
+     "Habiendo terminado, se fue.",
+     "Toen hij klaar was, ging hij weg."
+    ],
+    [
+     "Na een werkwoord van waarnemen",
+     "Lo vi cruzando la calle.",
+     "Ik zag hem de straat oversteken."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Beperkingen van het gerundio",
+   "bullets": [
+    "Het gerundio beschrijft de <b>handeling</b> van het werkwoord. Om een zelfstandig naamwoord te beschrijven gebruik je een betrekkelijke bijzin: <i>Conozco a la chica que vive allí</i>, niet <i>la chica viviendo allí</i>.",
+    "Niet voor een handeling die erna komt, zoals in het Engels ('he left, closing the door'), tenzij het tegelijk gebeurt: <i>Salió y cerró la puerta</i>.",
+    "Niet als bijvoeglijk naamwoord: <i>agua hirviendo</i> (kokend water) is een vaste uitdrukking; gebruik verder een betrekkelijke bijzin of een bijvoeglijk naamwoord: <i>una caja que contiene ...</i>, niet <i>una caja conteniendo ...</i>."
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Voornaamwoorden worden aan het gerundio vastgeschreven: <i>mirándolo, diciéndomelo</i> (accent op de beklemtoonde klinker).",
+    "Onregelmatige gerundios: <i>diciendo, durmiendo, pidiendo, sintiendo, leyendo, oyendo, viniendo, yendo</i>."
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Losse deelwoordzinnen"
+  },
+  {
+   "type": "p",
+   "text": "Een voltooid deelwoord kan een zin openen en 'nadat / zodra ...' betekenen. Het deelwoord <b>past bij het zelfstandig naamwoord</b> dat erop volgt."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Patroon"
+   ],
+   "rows": [
+    [
+     "Terminada la reunión, salimos.",
+     "Toen de vergadering voorbij was, gingen we weg.",
+     "deelwoord + zelfst. nw."
+    ],
+    [
+     "Hecho esto, nos fuimos.",
+     "Toen dat gedaan was, gingen we weg.",
+     "deelwoord + voornaamwoord"
+    ],
+    [
+     "Dicho esto, cerró la puerta.",
+     "Dat gezegd hebbende, deed hij de deur dicht.",
+     "vaste uitdrukking"
+    ],
+    [
+     "Una vez terminado el trabajo, descansó.",
+     "Zodra het werk af was, rustte hij uit.",
+     "una vez + deelwoord"
+    ],
+    [
+     "Cerradas las tiendas, volvimos.",
+     "Toen de winkels dicht waren, gingen we terug.",
+     "past zich aan: vrouwelijk meervoud"
+    ],
+    [
+     "Visto lo visto, me voy.",
+     "Gezien wat ik gezien heb, ga ik weg.",
+     "vaste uitdrukking"
+    ],
+    [
+     "Acabado el curso, viajó.",
+     "Toen de cursus afgelopen was, ging hij reizen.",
+     "deelwoord + zelfst. nw."
+    ],
+    [
+     "Pasadas las diez, cierran.",
+     "Na tienen gaan ze dicht.",
+     "pasado / pasadas"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Deelwoorden als bijvoeglijk en zelfstandig naamwoord"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Deelwoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "cansado",
+     "Estoy cansado.",
+     "moe"
+    ],
+    [
+     "cerrado",
+     "La puerta cerrada.",
+     "gesloten, dicht"
+    ],
+    [
+     "el herido",
+     "El herido está grave.",
+     "de gewonde"
+    ],
+    [
+     "la comida",
+     "La comida está lista.",
+     "het eten, de maaltijd"
+    ],
+    [
+     "lo hecho",
+     "Lo hecho, hecho está.",
+     "gedane zaken nemen geen keer"
+    ],
+    [
+     "el desempleado",
+     "El desempleado busca trabajo.",
+     "de werkloze"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Infinitief, gerundio of bijzin met que?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Situatie",
+    "Gebruik",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "Zelfde onderwerp, doel",
+     "para + inf.",
+     "Estudio para aprobar."
+    ],
+    [
+     "Ander onderwerp, doel",
+     "para que + subj.",
+     "Te lo explico para que lo entiendas."
+    ],
+    [
+     "Zelfde onderwerp, tijd",
+     "al / antes de + inf.",
+     "Al salir, apagó la luz."
+    ],
+    [
+     "Ander onderwerp, tijd",
+     "cuando / antes de que + werkwoord",
+     "Cuando salí, llovía."
+    ],
+    [
+     "Zelfde onderwerp, gevoel",
+     "de + inf.",
+     "Me alegro de verte."
+    ],
+    [
+     "Ander onderwerp, gevoel",
+     "de que + subj.",
+     "Me alegro de que vengas."
+    ],
+    [
+     "Manier / middel",
+     "gerundio",
+     "Aprendió trabajando."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Al llegando, llamé.",
+     "Al llegar, llamé.",
+     "al + infinitief, nooit gerundio."
+    ],
+    [
+     "Salió sin diciendo nada.",
+     "Salió sin decir nada.",
+     "sin + infinitief."
+    ],
+    [
+     "Estoy cansada de trabajando.",
+     "Estoy cansada de trabajar.",
+     "Voorzetsel + infinitief."
+    ],
+    [
+     "Una caja conteniendo libros.",
+     "Una caja que contiene libros.",
+     "Een gerundio kan geen zelfstandig naamwoord beschrijven."
+    ],
+    [
+     "Terminado las clases, salimos.",
+     "Terminadas las clases, salimos.",
+     "Het deelwoord past bij het zelfstandig naamwoord."
+    ],
+    [
+     "Después de llegando, comió.",
+     "Después de llegar, comió.",
+     "Na een voorzetsel: infinitief."
+    ],
+    [
+     "Me alegro de que verte.",
+     "Me alegro de verte.",
+     "Zelfde onderwerp: infinitief."
+    ],
+    [
+     "Quiero que yo salga.",
+     "Quiero salir.",
+     "Zelfde onderwerp: infinitief."
+    ],
+    [
+     "Se sentó, abriendo el libro.",
+     "Se sentó y abrió el libro.",
+     "Handelingen na elkaar vragen om een tweede werkwoord."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Al ______, llamé a Ana.",
+     "hint": "llegar: infinitief",
+     "a": "llegar",
+     "full": "Al llegar, llamé a Ana."
+    },
+    {
+     "q": "Salió sin ______ nada.",
+     "hint": "decir: infinitief",
+     "a": "decir",
+     "full": "Salió sin decir nada."
+    },
+    {
+     "q": "______ la reunión, salimos.",
+     "hint": "terminar: deelwoord, vrouwelijk",
+     "a": "Terminada",
+     "full": "Terminada la reunión, salimos."
+    },
+    {
+     "q": "______, aprobarás el examen.",
+     "hint": "estudiar: gerundio",
+     "a": "Estudiando",
+     "full": "Estudiando, aprobarás el examen."
+    },
+    {
+     "q": "Dice ______ llegado tarde.",
+     "hint": "voltooide infinitief: hulpwerkwoord",
+     "a": "haber",
+     "full": "Dice haber llegado tarde."
+    },
+    {
+     "q": "Me alegro de ______ conocido.",
+     "hint": "haber + te: voltooide infinitief",
+     "a": "haberte",
+     "full": "Me alegro de haberte conocido."
+    },
+    {
+     "q": "Una vez ______ el trabajo, descansó.",
+     "hint": "terminar: deelwoord, mannelijk",
+     "a": "terminado",
+     "full": "Una vez terminado el trabajo, descansó."
+    },
+    {
+     "q": "Lo vi ______ la calle.",
+     "hint": "cruzar: gerundio",
+     "a": "cruzando",
+     "full": "Lo vi cruzando la calle."
+    },
+    {
+     "q": "Se fue ______ despedirse.",
+     "hint": "zonder",
+     "a": "sin",
+     "full": "Se fue sin despedirse."
+    },
+    {
+     "q": "Antes de ______, cierra la puerta.",
+     "hint": "salir: infinitief",
+     "a": "salir",
+     "full": "Antes de salir, cierra la puerta."
+    },
+    {
+     "q": "Me alegro de que ______.",
+     "hint": "venir: tú, subjuntivo",
+     "a": "vengas",
+     "full": "Me alegro de que vengas."
+    },
+    {
+     "q": "Aprendió español ______ series.",
+     "hint": "ver: gerundio",
+     "a": "viendo",
+     "full": "Aprendió español viendo series."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Toen ik aankwam, belde ik Ana.",
+     "a": "Al llegar, llamé a Ana."
+    },
+    {
+     "q": "Hij ging weg zonder iets te zeggen.",
+     "a": "Salió sin decir nada."
+    },
+    {
+     "q": "Zodra het werk af was, rustte hij uit.",
+     "a": "Una vez terminado el trabajo, descansó."
+    },
+    {
+     "q": "Hij leerde Spaans door series te kijken.",
+     "a": "Aprendió español viendo series."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

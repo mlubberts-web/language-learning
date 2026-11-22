@@ -1,0 +1,539 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Subjuntivo: tijdsvolgorde en gebruik van de imperfecto",
+  "subtitle": "de juiste tijd van de subjuntivo kiezen, de imperfecto de subjuntivo in alle soorten bijzinnen, ojalá en de vormen op -se",
+  "footer": "Language Learning · B2 · Grammatica · Tijdsvolgorde",
+  "next": "Volgende: B2 · pdf 2 — Pluscuamperfecto de subjuntivo en complexe voorwaardelijke zinnen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "na elk hoofdwerkwoord de juiste tijd van de subjuntivo kiezen (tijdsvolgorde)",
+    "de imperfecto de subjuntivo gebruiken in voorwerpszinnen, bijwoordelijke bijzinnen en betrekkelijke bijzinnen",
+    "wensen uitdrukken met ojalá (mogelijk, onwaarschijnlijk en onmogelijk)",
+    "de vormen op -se van de imperfecto de subjuntivo herkennen in geschreven Spaans"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De tijdsvolgorde"
+  },
+  {
+   "type": "p",
+   "text": "De tijd van de subjuntivo hangt af van de <b>tijd van het hoofdwerkwoord</b> en van <b>wanneer de handeling in de bijzin gebeurt</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.4,
+    6.2
+   ],
+   "head": [
+    "Hoofdwerkwoord",
+    "Tijd van de subjuntivo",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "presente",
+     "presente de subjuntivo",
+     "Quiero que vengas."
+    ],
+    [
+     "pretérito perfecto",
+     "presente de subjuntivo",
+     "Me ha pedido que le ayude."
+    ],
+    [
+     "futuro",
+     "presente de subjuntivo",
+     "Te pedirá que vuelvas."
+    ],
+    [
+     "gebiedende wijs",
+     "presente de subjuntivo",
+     "Dile que venga."
+    ],
+    [
+     "indefinido",
+     "imperfecto de subjuntivo",
+     "Quise que vinieras."
+    ],
+    [
+     "imperfecto",
+     "imperfecto de subjuntivo",
+     "Quería que vinieras."
+    ],
+    [
+     "pluscuamperfecto",
+     "imperfecto de subjuntivo",
+     "Había pedido que vinieran."
+    ],
+    [
+     "condicional",
+     "imperfecto de subjuntivo",
+     "Me gustaría que vinieras."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Vuistregel",
+   "text": "Tegenwoordige wereld: presente de subjuntivo. <b>Verleden wereld</b> (indefinido, imperfecto, pluscuamperfecto, condicional): <b>imperfecto de subjuntivo</b>. Vraag jezelf vóór het werkwoord in de bijzin af in welke wereld het hoofdwerkwoord leeft."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.0,
+    5.0,
+    5.0
+   ],
+   "head": [
+    "Heden",
+    "Verleden",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Quiero que vengas.",
+     "Quería que vinieras.",
+     "Ik wil / wilde dat je komt / kwam."
+    ],
+    [
+     "Dudo que sea verdad.",
+     "Dudaba que fuera verdad.",
+     "Ik betwijfel / betwijfelde of het waar is / was."
+    ],
+    [
+     "Me alegro de que estés aquí.",
+     "Me alegré de que estuvieras aquí.",
+     "Ik ben / was blij dat je hier bent / was."
+    ],
+    [
+     "Es importante que lo sepas.",
+     "Era importante que lo supieras.",
+     "Het is / was belangrijk dat je het weet / wist."
+    ],
+    [
+     "No creo que llegue.",
+     "No creía que llegara.",
+     "Ik denk / dacht niet dat hij zou komen."
+    ],
+    [
+     "Pídele que ayude.",
+     "Le pedí que ayudara.",
+     "Vraag hem / Ik vroeg hem te helpen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Aanleidingen in het verleden in de praktijk"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Wensen en opdrachten:</b> <i>Mi madre quería que estudiara medicina. Nos pidió que esperáramos.</i>",
+    "<b>Gevoelens:</b> <i>Me molestó que no me llamaras. Sentí que se fuera.</i>",
+    "<b>Twijfel en ontkenning:</b> <i>No pensaba que fuera tan caro. Dudaban que ganáramos.</i>",
+    "<b>Onpersoonlijke uitdrukkingen:</b> <i>Era necesario que todos firmaran. Fue una pena que no vinieras.</i>",
+    "<b>Hoofdwerkwoord in de condicional:</b> <i>Sería mejor que te quedaras. Preferiría que no dijeras nada.</i>"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Presente de subjuntivo na een werkwoord in het verleden?",
+   "text": "Soms volgt een presente de subjuntivo op een hoofdwerkwoord in het verleden, als het gevolg <b>nu nog geldt</b>: <i>Me pidió que le ayude esta tarde.</i> (Hij vroeg het me, en het helpen moet nog gebeuren.) In de meeste gevallen, en op examens, gebruik je de imperfecto: <i>Me pidió que le ayudara.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. De imperfecto de subjuntivo in andere bijzinnen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.4,
+    5.6
+   ],
+   "head": [
+    "Soort bijzin",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Doel (para que)",
+     "Lo explicó despacio para que lo entendiéramos.",
+     "Hij legde het langzaam uit, zodat we het zouden begrijpen."
+    ],
+    [
+     "Tijd (antes de que)",
+     "Salió antes de que llegáramos.",
+     "Hij ging weg voordat we aankwamen."
+    ],
+    [
+     "Tijd (hasta que, toekomst in het verleden)",
+     "Esperó hasta que terminaran.",
+     "Hij wachtte tot ze klaar waren."
+    ],
+    [
+     "Tijd (en cuanto, toekomst in het verleden)",
+     "Dijo que llamaría en cuanto llegara.",
+     "Hij zei dat hij zou bellen zodra hij aankwam."
+    ],
+    [
+     "Toegeving (aunque, denkbeeldig)",
+     "Aunque lloviera, iríamos.",
+     "Zelfs als het regende, zouden we gaan."
+    ],
+    [
+     "Betrekkelijke bijzin, bestaat niet",
+     "No había nadie que lo supiera.",
+     "Er was niemand die het wist."
+    ],
+    [
+     "Betrekkelijke bijzin, onbekend",
+     "Buscaba un piso que tuviera balcón.",
+     "Ik zocht een appartement met een balkon (maakt niet uit welk)."
+    ],
+    [
+     "como si",
+     "Hablaba como si lo supiera todo.",
+     "Hij praatte alsof hij alles wist."
+    ],
+    [
+     "Beleefde wens",
+     "Quisiera pedir la cuenta.",
+     "Ik zou graag de rekening willen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Bepaald tegenover onbepaald",
+   "text": "<b>Tenía un piso que tenía balcón</b> (ik had er een, een bepaald appartement: indicativo). <b>Buscaba un piso que tuviera balcón</b> (nog niet gevonden: subjuntivo). Hetzelfde verschil bestaat in de presente: <i>Busco un piso que tenga balcón.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Ojalá"
+  },
+  {
+   "type": "p",
+   "text": "<b>Ojalá</b> (hopelijk, was het maar zo) krijgt altijd de subjuntivo. De tijd laat zien hoe waarschijnlijk de wens is."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Tijd",
+    "Voorbeeld",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "presente de subjuntivo",
+     "Ojalá venga mañana.",
+     "Hopelijk komt hij morgen (mogelijk)."
+    ],
+    [
+     "imperfecto de subjuntivo",
+     "Ojalá tuviera más tiempo.",
+     "Had ik maar meer tijd (onwaarschijnlijk)."
+    ],
+    [
+     "pluscuamperfecto de subjuntivo",
+     "Ojalá hubiera venido.",
+     "Was hij maar gekomen (te laat)."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Ojalá que</b> is ook goed: <i>Ojalá que no llueva.</i>",
+    "De pluscuamperfecto de subjuntivo maak je met <b>hubiera + deelwoord</b> (meer in pdf 2)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De vormen op -se"
+  },
+  {
+   "type": "p",
+   "text": "De imperfecto de subjuntivo heeft een tweede reeks uitgangen: <b>-se, -ses, -se, -semos, -seis, -sen</b>. Die gebruik je in <b>geschreven en formele taal</b>; in Spanje zijn beide vormen helemaal correct. Ze zijn uitwisselbaar, behalve dat de beleefde <i>quisiera</i> / <i>pudiera</i> alleen -ra gebruiken."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    2.8,
+    2.8,
+    2.8,
+    2.8,
+    2.4
+   ],
+   "head": [
+    "",
+    "hablar",
+    "comer",
+    "vivir",
+    "ser / ir",
+    "tener"
+   ],
+   "rows": [
+    [
+     "yo",
+     "hablase",
+     "comiese",
+     "viviese",
+     "fuese",
+     "tuviese"
+    ],
+    [
+     "tú",
+     "hablases",
+     "comieses",
+     "vivieses",
+     "fueses",
+     "tuvieses"
+    ],
+    [
+     "él / ella / usted",
+     "hablase",
+     "comiese",
+     "viviese",
+     "fuese",
+     "tuviese"
+    ],
+    [
+     "nosotros",
+     "hablásemos",
+     "comiésemos",
+     "viviésemos",
+     "fuésemos",
+     "tuviésemos"
+    ],
+    [
+     "vosotros",
+     "hablaseis",
+     "comieseis",
+     "vivieseis",
+     "fueseis",
+     "tuvieseis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "hablasen",
+     "comiesen",
+     "viviesen",
+     "fuesen",
+     "tuviesen"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Welke in Spanje?",
+   "text": "Beide vormen zijn correct in Spanje. <b>-ra</b> is de gewone keuze in spreektaal, en -se komt meer voor in literaire en formele teksten: <i>Si tuviera / tuviese tiempo, iría.</i> In je eigen teksten is één vorm genoeg: kies -ra en houd dat vol."
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Quería que vienes.",
+     "Quería que vinieras.",
+     "Hoofdwerkwoord in het verleden: imperfecto de subjuntivo."
+    ],
+    [
+     "Me pidió que ayudo.",
+     "Me pidió que ayudara.",
+     "Doorgegeven opdracht: subjuntivo."
+    ],
+    [
+     "Dudaba que es verdad.",
+     "Dudaba que fuera verdad.",
+     "Twijfel in het verleden: imperfecto de subjuntivo."
+    ],
+    [
+     "No había nadie que lo sabía.",
+     "No había nadie que lo supiera.",
+     "Iets dat niet bestaat: subjuntivo."
+    ],
+    [
+     "Buscaba un piso que tenía balcón.",
+     "Buscaba un piso que tuviera balcón.",
+     "Een onbekend appartement: subjuntivo."
+    ],
+    [
+     "Ojalá tengo más tiempo.",
+     "Ojalá tuviera más tiempo.",
+     "Ojalá krijgt altijd de subjuntivo."
+    ],
+    [
+     "Habló como si es el jefe.",
+     "Habló como si fuera el jefe.",
+     "como si: imperfecto de subjuntivo."
+    ],
+    [
+     "Quiero que vinieras.",
+     "Quiero que vengas.",
+     "Hoofdwerkwoord in de presente: presente de subjuntivo."
+    ],
+    [
+     "Salió antes de que llegamos.",
+     "Salió antes de que llegáramos.",
+     "antes de que: subjuntivo, in het verleden: imperfecto."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm van de subjuntivo in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Mi madre quería que yo ______ medicina.",
+     "hint": "estudiar",
+     "a": "estudiara",
+     "full": "Mi madre quería que yo estudiara medicina."
+    },
+    {
+     "q": "Nos pidió que ______ en la puerta.",
+     "hint": "esperar",
+     "a": "esperáramos",
+     "full": "Nos pidió que esperáramos en la puerta."
+    },
+    {
+     "q": "Dudaba que ______ verdad.",
+     "hint": "ser",
+     "a": "fuera",
+     "full": "Dudaba que fuera verdad."
+    },
+    {
+     "q": "Me alegré de que ______ en la fiesta.",
+     "hint": "tú, estar",
+     "a": "estuvieras",
+     "full": "Me alegré de que estuvieras en la fiesta."
+    },
+    {
+     "q": "No había nadie que ______ la respuesta.",
+     "hint": "saber",
+     "a": "supiera",
+     "full": "No había nadie que supiera la respuesta."
+    },
+    {
+     "q": "Buscaba un piso que ______ balcón.",
+     "hint": "tener",
+     "a": "tuviera",
+     "full": "Buscaba un piso que tuviera balcón."
+    },
+    {
+     "q": "Ojalá ______ más tiempo.",
+     "hint": "yo, tener: onwaarschijnlijk",
+     "a": "tuviera",
+     "full": "Ojalá tuviera más tiempo."
+    },
+    {
+     "q": "Ojalá ______ mañana.",
+     "hint": "venir: mogelijk",
+     "a": "venga",
+     "full": "Ojalá venga mañana."
+    },
+    {
+     "q": "Hablaba como si lo ______ todo.",
+     "hint": "saber",
+     "a": "supiera",
+     "full": "Hablaba como si lo supiera todo."
+    },
+    {
+     "q": "Sería mejor que te ______ en casa.",
+     "hint": "quedar",
+     "a": "quedaras",
+     "full": "Sería mejor que te quedaras en casa."
+    },
+    {
+     "q": "Salió antes de que nosotros ______.",
+     "hint": "llegar",
+     "a": "llegáramos",
+     "full": "Salió antes de que nosotros llegáramos."
+    },
+    {
+     "q": "Me ha pedido que le ______ esta tarde.",
+     "hint": "ayudar, yo",
+     "a": "ayude",
+     "full": "Me ha pedido que le ayude esta tarde."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik wilde dat je kwam.",
+     "a": "Quería que vinieras."
+    },
+    {
+     "q": "Had ik maar meer geld.",
+     "a": "Ojalá tuviera más dinero."
+    },
+    {
+     "q": "Er was niemand die het wist.",
+     "a": "No había nadie que lo supiera."
+    },
+    {
+     "q": "Hij vroeg me te wachten.",
+     "a": "Me pidió que esperara."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

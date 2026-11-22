@@ -1,0 +1,664 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Gevorderde voornaamwoorden",
+  "subtitle": "twee voornaamwoorden samen, de plaats, dubbele voornaamwoorden, werkwoorden zoals gustar, het onzijdige lo, voornaamwoorden na een voorzetsel, leísmo",
+  "footer": "Language Learning · B2 · Grammatica · Gevorderde voornaamwoorden",
+  "next": "Volgende: B2 · pdf 8 — Nadruk, woordvolgorde en achtervoegsels"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "twee voornaamwoorden in de goede volgorde combineren (se lo, me lo, te la)",
+    "voornaamwoorden goed plaatsen bij infinitieven, gerundios, gebiedende wijs en omschrijvingen",
+    "dubbele voornaamwoorden gebruiken (A mí me gusta, Le di el libro a Ana)",
+    "het onzijdige lo gebruiken (lo bueno, lo que, lo de) en voornaamwoorden na een voorzetsel (conmigo, entre tú y yo)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Twee voornaamwoorden samen"
+  },
+  {
+   "type": "p",
+   "text": "Volgorde: <b>meewerkend (me, te, le, nos, os, les) + lijdend (lo, la, los, las)</b>. Meewerkend vóór lijdend, en allebei vóór het werkwoord."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.8,
+    5.6
+   ],
+   "head": [
+    "Zin",
+    "Met voornaamwoorden",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Doy el libro a ti.",
+     "Te lo doy.",
+     "Ik geef het aan jou."
+    ],
+    [
+     "Mandó la carta a nosotros.",
+     "Nos la mandó.",
+     "Hij stuurde hem ons."
+    ],
+    [
+     "Explicaré las reglas a vosotros.",
+     "Os las explicaré.",
+     "Ik zal ze jullie uitleggen."
+    ],
+    [
+     "Dije la verdad a Ana.",
+     "Se la dije.",
+     "Ik heb het haar gezegd."
+    ],
+    [
+     "Compré flores a mis padres.",
+     "Se las compré.",
+     "Ik heb ze voor hen gekocht."
+    ],
+    [
+     "Presté mi coche a él.",
+     "Se lo presté.",
+     "Ik heb hem hem geleend."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "le / les + lo = se lo",
+   "text": "Als <b>le</b> of <b>les</b> vóór <b>lo, la, los, las</b> komt, wordt het <b>se</b>: <i>Le doy el libro</i> geeft <i>Se lo doy</i>, nooit <i>Le lo doy</i>. Om duidelijk te maken wie, voeg je <b>a él / a ella / a usted / a ellos</b> toe: <i>Se lo doy a ella.</i>"
+  },
+  {
+   "type": "h2",
+   "text": "Plaats"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Werkwoordsvorm",
+    "Voorbeeld",
+    "Regel"
+   ],
+   "rows": [
+    [
+     "Vervoegd werkwoord",
+     "Me lo dijo.",
+     "vóór het werkwoord"
+    ],
+    [
+     "Infinitief",
+     "Voy a decírtelo. / Te lo voy a decir.",
+     "erachter (vast) of vóór het hulpwerkwoord"
+    ],
+    [
+     "Gerundio",
+     "Estoy explicándotelo. / Te lo estoy explicando.",
+     "erachter (vast) of vóór het hulpwerkwoord"
+    ],
+    [
+     "Bevestigende gebiedende wijs",
+     "Dímelo. / Dáselo.",
+     "erachter, vast"
+    ],
+    [
+     "Ontkennende gebiedende wijs",
+     "No me lo digas. / No se lo des.",
+     "vóór het werkwoord"
+    ],
+    [
+     "Samengestelde tijd",
+     "Me lo ha dicho.",
+     "vóór haber, nooit ertussen"
+    ],
+    [
+     "Voltooid gerundio",
+     "Habiéndotelo dicho, me fui.",
+     "vast aan habiendo"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Geschreven accenten</b> houden de klemtoon op zijn plaats als er voornaamwoorden bij komen: <i>dime, dímelo, dándoselo, escríbemelo</i>.",
+    "<b>Wederkerend + voorwerp:</b> <i>Me lo pongo. Se lo quitó.</i> (het wederkerend voornaamwoord komt eerst: se, me, te, nos, os).",
+    "In de bevestigende gebiedende wijs met nosotros valt de -s van het werkwoord weg vóór <b>se / nos</b>: <i>Sentémonos</i> (niet sentemosnos), <i>Démoselo</i>."
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "2. Dubbele voornaamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Waarom"
+   ],
+   "rows": [
+    [
+     "A mí me gusta el café.",
+     "Ik houd van koffie.",
+     "nadruk / duidelijkheid"
+    ],
+    [
+     "A Ana le encantan los gatos.",
+     "Ana is gek op katten.",
+     "naam + le"
+    ],
+    [
+     "Le di el libro a Ana.",
+     "Ik gaf Ana het boek.",
+     "le staat er altijd"
+    ],
+    [
+     "¿A ti te parece bien?",
+     "Vind jij het goed?",
+     "nadruk"
+    ],
+    [
+     "A nosotros nos tocó ganar.",
+     "Wij mochten winnen.",
+     "nadruk"
+    ],
+    [
+     "El libro lo compré ayer.",
+     "Het boek heb ik gisteren gekocht.",
+     "onderwerp herhaald met lo"
+    ],
+    [
+     "A María la vi ayer.",
+     "María heb ik gisteren gezien.",
+     "onderwerp herhaald met la"
+    ],
+    [
+     "Dáselo a ellos.",
+     "Geef het aan hen.",
+     "maakt se duidelijk"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Regel",
+   "text": "Als het meewerkend voorwerp als zelfstandig naamwoord in de zin staat, is <b>le / les</b> toch nodig: <i>Escribí a mi madre</i> kan, maar <i>Le escribí a mi madre</i> is natuurlijker. <i>Le di el libro a Ana</i> is de gewone volgorde."
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden zoals gustar"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.4,
+    6.2
+   ],
+   "head": [
+    "Werkwoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "encantar",
+     "Me encanta el cine.",
+     "Ik ben gek op film."
+    ],
+    [
+     "importar",
+     "No me importa.",
+     "Het maakt me niet uit."
+    ],
+    [
+     "molestar",
+     "Me molesta el ruido.",
+     "Het lawaai stoort me."
+    ],
+    [
+     "apetecer",
+     "¿Te apetece un café?",
+     "Heb je zin in een koffie?"
+    ],
+    [
+     "parecer",
+     "Me parece buena idea.",
+     "Het lijkt me een goed idee."
+    ],
+    [
+     "doler",
+     "Me duele la cabeza.",
+     "Ik heb hoofdpijn."
+    ],
+    [
+     "faltar",
+     "Me falta tiempo.",
+     "Ik heb te weinig tijd."
+    ],
+    [
+     "sobrar",
+     "Nos sobra comida.",
+     "We hebben eten over."
+    ],
+    [
+     "quedar",
+     "Me quedan dos euros.",
+     "Ik heb nog twee euro over."
+    ],
+    [
+     "hacer falta",
+     "Me hace falta ayuda.",
+     "Ik heb hulp nodig."
+    ],
+    [
+     "interesar",
+     "Me interesa la política.",
+     "Politiek interesseert me."
+    ],
+    [
+     "sorprender",
+     "Me sorprende que llegue.",
+     "Het verbaast me dat hij komt."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Het werkwoord past bij het <b>ding</b> dat bevalt / pijn doet / ontbreekt: <i>Me gustan los libros. Me duelen los pies. Le faltan dos páginas.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Het onzijdige lo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "lo + bijv. nw.",
+     "Lo bueno es que es barato.",
+     "Het goede is dat het goedkoop is."
+    ],
+    [
+     "lo + bijv. nw. + que",
+     "No sabes lo difícil que es.",
+     "Je weet niet hoe moeilijk het is."
+    ],
+    [
+     "lo que",
+     "Lo que dices es verdad.",
+     "Wat je zegt is waar."
+    ],
+    [
+     "lo de",
+     "Lo de ayer fue un error.",
+     "Dat gedoe van gisteren was een vergissing."
+    ],
+    [
+     "lo + bijwoord + que",
+     "Corre lo más rápido que puede.",
+     "Hij rent zo snel als hij kan."
+    ],
+    [
+     "lo mismo",
+     "Quiero lo mismo.",
+     "Ik wil hetzelfde."
+    ],
+    [
+     "a lo mejor",
+     "A lo mejor viene.",
+     "Misschien komt hij."
+    ],
+    [
+     "por lo menos",
+     "Por lo menos llamó.",
+     "Hij heeft in elk geval gebeld."
+    ],
+    [
+     "lo cual",
+     "No vino, lo cual me molestó.",
+     "Hij kwam niet, wat me stoorde."
+    ],
+    [
+     "lo + deelwoord",
+     "Lo hecho, hecho está.",
+     "Gedane zaken nemen geen keer."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Lo voor een hele gedachte",
+   "text": "<b>Lo</b> kan een gedachte vervangen: <i>¿Está cansado? Sí, lo está.</i> / <i>Lo sé.</i> / <i>No lo creo.</i> Na <b>ser, estar, parecer</b> met een bijvoeglijk naamwoord verwijst het naar dat bijvoeglijk naamwoord: <i>Ella es lista y su hermano también lo es.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. Voornaamwoorden na een voorzetsel en wederkerende voornaamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "Na een voorzetsel",
+    "Met con",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "mí",
+     "conmigo",
+     "Es para mí. Ven conmigo."
+    ],
+    [
+     "tú",
+     "ti",
+     "contigo",
+     "Es para ti. Voy contigo."
+    ],
+    [
+     "él / ella / usted",
+     "él / ella / usted",
+     "con él",
+     "Hablo con ella."
+    ],
+    [
+     "wederkerend (3e persoon)",
+     "sí",
+     "consigo",
+     "Lo trajo consigo."
+    ],
+    [
+     "nosotros",
+     "nosotros",
+     "con nosotros",
+     "Vienen con nosotros."
+    ],
+    [
+     "vosotros",
+     "vosotros",
+     "con vosotros",
+     "Voy con vosotros."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Entre, según, excepto, salvo, menos, incluso</b> krijgen <b>onderwerps</b>vormen: <i>entre tú y yo, según tú, excepto yo, hasta yo</i>.",
+    "<b>Mismo</b> geeft nadruk: <i>yo mismo, ella misma, nosotros mismos, por sí mismo</i>.",
+    "<b>Uno / una</b> is het algemene 'men' of 'je': <i>Uno nunca sabe.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Leísmo, laísmo en loísmo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Standaard (Latijns-Amerika, het grootste deel van Spanje)",
+     "A Juan lo vi. A María la vi.",
+     "correct"
+    ],
+    [
+     "Leísmo (mannelijke personen)",
+     "A Juan le vi.",
+     "geaccepteerd in Spanje"
+    ],
+    [
+     "Laísmo",
+     "A María la di un libro.",
+     "niet geaccepteerd"
+    ],
+    [
+     "Loísmo",
+     "A Juan lo di un libro.",
+     "niet geaccepteerd"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Gebruik voor het meewerkend voorwerp altijd <b>le / les</b>: <i>Le di un libro a María.</i> Voor veilig, standaard Spaans gebruik je <b>lo</b> voor een mannelijk lijdend voorwerp (<i>Lo vi</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Le lo dije.",
+     "Se lo dije.",
+     "le + lo: se lo."
+    ],
+    [
+     "Lo me dijo.",
+     "Me lo dijo.",
+     "meewerkend vóór lijdend."
+    ],
+    [
+     "Quiero decirlo te.",
+     "Quiero decírtelo.",
+     "meewerkend eerst, vast in de goede volgorde."
+    ],
+    [
+     "Me ha lo dicho.",
+     "Me lo ha dicho.",
+     "voornaamwoorden vóór haber."
+    ],
+    [
+     "Dame lo.",
+     "Dámelo.",
+     "vast aan de gebiedende wijs."
+    ],
+    [
+     "Entre tú y mí.",
+     "Entre tú y yo.",
+     "entre krijgt onderwerpsvormen."
+    ],
+    [
+     "Voy con mí.",
+     "Voy conmigo.",
+     "conmigo."
+    ],
+    [
+     "A mí gusta el café.",
+     "A mí me gusta el café.",
+     "houd me bij a mí."
+    ],
+    [
+     "Me gusta los libros.",
+     "Me gustan los libros.",
+     "gustar past bij het ding."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in met behulp van de hint. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ doy.",
+     "hint": "Doy el libro a ti: voornaamwoorden",
+     "a": "Te lo",
+     "full": "Te lo doy."
+    },
+    {
+     "q": "______ dije.",
+     "hint": "Dije la verdad a Ana: twee woorden",
+     "a": "Se la",
+     "full": "Se la dije."
+    },
+    {
+     "q": "Voy a ______.",
+     "hint": "decir + lo + a ti: vast, één woord",
+     "a": "decírtelo",
+     "full": "Voy a decírtelo."
+    },
+    {
+     "q": "¡______!",
+     "hint": "Dime + lo: met een accent",
+     "a": "Dímelo",
+     "full": "¡Dímelo!"
+    },
+    {
+     "q": "No ______ digas.",
+     "hint": "a mí + lo: ontkennende gebiedende wijs",
+     "a": "me lo",
+     "full": "No me lo digas."
+    },
+    {
+     "q": "______ ha dicho.",
+     "hint": "Ha dicho a mí: me, lo",
+     "a": "Me lo",
+     "full": "Me lo ha dicho."
+    },
+    {
+     "q": "Es para ______.",
+     "hint": "yo: voornaamwoord",
+     "a": "mí",
+     "full": "Es para mí."
+    },
+    {
+     "q": "Voy ______.",
+     "hint": "con + tú: met jou",
+     "a": "contigo",
+     "full": "Voy contigo."
+    },
+    {
+     "q": "Entre ______ y yo, no me gusta.",
+     "hint": "jij",
+     "a": "tú",
+     "full": "Entre tú y yo, no me gusta."
+    },
+    {
+     "q": "Me ______ los pies.",
+     "hint": "doler: presente",
+     "a": "duelen",
+     "full": "Me duelen los pies."
+    },
+    {
+     "q": "No sabes ______ difícil que es.",
+     "hint": "onzijdig lidwoord",
+     "a": "lo",
+     "full": "No sabes lo difícil que es."
+    },
+    {
+     "q": "______ que dices es verdad.",
+     "hint": "wat",
+     "a": "Lo",
+     "full": "Lo que dices es verdad."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik zeg het je morgen.",
+     "a": "Te lo diré mañana. / Voy a decírtelo mañana."
+    },
+    {
+     "q": "Geef het aan hem!",
+     "a": "¡Dáselo!"
+    },
+    {
+     "q": "Heb je zin in een koffie?",
+     "a": "¿Te apetece un café?"
+    },
+    {
+     "q": "Het goede is dat het goedkoop is.",
+     "a": "Lo bueno es que es barato."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

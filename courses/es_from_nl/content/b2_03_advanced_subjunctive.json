@@ -1,0 +1,565 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Gevorderde subjuntivo",
+  "subtitle": "toegeving, onbepaalde vormen (wie ook, wat ook), waarschijnlijkheid, en vaste constructies met de subjuntivo",
+  "footer": "Language Learning · B2 · Grammatica · Gevorderde subjuntivo",
+  "next": "Volgende: B2 · pdf 4 — Werkwoordelijke omschrijvingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "toegeving uitdrukken met por mucho que, por muy ... que, así, ni que",
+    "onbepaalde vormen gebruiken (cualquiera que, quienquiera que, dondequiera que, sea lo que sea)",
+    "na quizá, tal vez, a lo mejor en puede que kiezen tussen indicativo en subjuntivo",
+    "de subjuntivo gebruiken in vaste constructies (que yo sepa, no es que, sin que, el hecho de que)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Toegeving: hoewel, hoe ... ook"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "aunque + indicativo",
+     "Aunque está cansado, sigue.",
+     "Hoewel hij moe is, gaat hij door."
+    ],
+    [
+     "aunque + subjuntivo",
+     "Aunque esté cansado, seguirá.",
+     "Ook als hij moe is, zal hij doorgaan."
+    ],
+    [
+     "a pesar de que + indicativo",
+     "A pesar de que llovía, salimos.",
+     "Hoewel het regende, gingen we naar buiten."
+    ],
+    [
+     "por mucho que + subjuntivo",
+     "Por mucho que estudie, no aprueba.",
+     "Hoeveel hij ook studeert, hij haalt het niet."
+    ],
+    [
+     "por más que + subjuntivo",
+     "Por más que lo intento, no puedo.",
+     "Hoe hard ik het ook probeer, het lukt me niet."
+    ],
+    [
+     "por muy + bijv. nw. + que + subjuntivo",
+     "Por muy caro que sea, lo compraré.",
+     "Hoe duur het ook is, ik koop het."
+    ],
+    [
+     "así + subjuntivo",
+     "No lo haré, así me paguen.",
+     "Ik doe het niet, al betalen ze me."
+    ],
+    [
+     "ni que + imperfecto de subj.",
+     "¡Ni que fueras rico!",
+     "Alsof je rijk bent! (dat ben je niet)"
+    ],
+    [
+     "si bien + indicativo",
+     "Si bien es caro, es bueno.",
+     "Hoewel het duur is, is het goed."
+    ],
+    [
+     "con todo y + zelfst. nw.",
+     "Con todo y eso, fuimos.",
+     "Ondanks dat alles gingen we."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Bekend feit of niet?",
+   "text": "<b>Aunque + indicativo</b>: de spreker aanvaardt het feit. <b>Aunque + subjuntivo</b>: geen feit, of het maakt de spreker niet uit. <i>Por mucho que</i> krijgt altijd de subjuntivo: de moeite heeft geen grens."
+  },
+  {
+   "type": "h1",
+   "text": "2. Onbepaalde vormen: wie ook, waar ook, wat ook"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.8,
+    5.6
+   ],
+   "head": [
+    "Vorm",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "quienquiera que + subj.",
+     "Quienquiera que llame, no abras.",
+     "Wie er ook belt, doe niet open."
+    ],
+    [
+     "cualquiera que + subj.",
+     "Cualquiera que sea la razón, lo haré.",
+     "Wat de reden ook is, ik doe het."
+    ],
+    [
+     "dondequiera que + subj.",
+     "Dondequiera que vayas, te seguiré.",
+     "Waar je ook heen gaat, ik volg je."
+    ],
+    [
+     "comoquiera que + subj.",
+     "Comoquiera que lo hagas, saldrá bien.",
+     "Hoe je het ook doet, het komt goed."
+    ],
+    [
+     "lo que + subj. + que sea",
+     "Lo que sea, avísame.",
+     "Wat het ook is, laat het me weten."
+    ],
+    [
+     "sea lo que sea",
+     "Sea lo que sea, no cambiaré.",
+     "Wat het ook is, ik verander niet."
+    ],
+    [
+     "sea como sea",
+     "Sea como sea, lo conseguiré.",
+     "Hoe dan ook, het gaat me lukken."
+    ],
+    [
+     "pase lo que pase",
+     "Pase lo que pase, estaré allí.",
+     "Wat er ook gebeurt, ik ben er."
+    ],
+    [
+     "digan lo que digan",
+     "Digan lo que digan, voy a ir.",
+     "Wat ze ook zeggen, ik ga."
+    ],
+    [
+     "sea ... sea ...",
+     "Sea hoy, sea mañana, llámame.",
+     "Vandaag of morgen, bel me."
+    ],
+    [
+     "ya sea ... o ...",
+     "Ya sea por dinero o por amor, lo hará.",
+     "Of het nu om geld of om liefde is, hij doet het."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Het patroon <b>werkwoord + lo que + hetzelfde werkwoord</b> (subjuntivo) betekent 'wat ... ook': <i>pase lo que pase, haga lo que haga, digas lo que digas, pienses lo que pienses</i>.",
+    "<b>Cualquiera</b> wordt <b>cualquier</b> voor een zelfstandig naamwoord: <i>cualquier día, cualquier persona</i>."
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Waarschijnlijkheid: quizá, tal vez, a lo mejor"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Uitdrukking",
+    "Wijs",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "a lo mejor",
+     "alleen indicativo",
+     "A lo mejor viene mañana."
+    ],
+    [
+     "quizá(s), tal vez",
+     "indicativo = zekerder; subjuntivo = minder zeker",
+     "Quizá viene. / Quizá venga."
+    ],
+    [
+     "acaso",
+     "subjuntivo (of indicativo)",
+     "Acaso lo sepa ella."
+    ],
+    [
+     "puede que",
+     "subjuntivo",
+     "Puede que llueva."
+    ],
+    [
+     "es posible / probable que",
+     "subjuntivo",
+     "Es probable que llegue tarde."
+    ],
+    [
+     "posiblemente, probablemente",
+     "indicativo of subjuntivo",
+     "Probablemente llegue / llegará tarde."
+    ],
+    [
+     "igual, a saber",
+     "informeel, indicativo",
+     "Igual no vienen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "A lo mejor",
+   "text": "<b>A lo mejor</b> is de gewone manier om in Spanje 'misschien' te zeggen. Het krijgt nooit de subjuntivo: <i>A lo mejor no puede.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Vaste constructies met de subjuntivo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "Uitdrukking",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "que yo sepa",
+     "Que yo sepa, no ha llegado.",
+     "Voor zover ik weet, is hij niet aangekomen."
+    ],
+    [
+     "que yo recuerde",
+     "Que yo recuerde, nunca lo dijo.",
+     "Voor zover ik me herinner, heeft hij het nooit gezegd."
+    ],
+    [
+     "no es que + subj.",
+     "No es que no quiera, es que no puedo.",
+     "Het is niet dat ik niet wil, ik kan gewoon niet."
+    ],
+    [
+     "no porque + subj.",
+     "No lo hice porque me obligaran.",
+     "Ik deed het niet omdat ze me dwongen."
+    ],
+    [
+     "sin que + subj.",
+     "Salió sin que lo viéramos.",
+     "Hij ging weg zonder dat we hem zagen."
+    ],
+    [
+     "con tal de que + subj.",
+     "Con tal de que vengas, me da igual.",
+     "Als je maar komt, de rest maakt me niet uit."
+    ],
+    [
+     "el hecho de que + subj.",
+     "El hecho de que llegue tarde me molesta.",
+     "Dat hij te laat komt, stoort me."
+    ],
+    [
+     "mientras + subj. (zolang)",
+     "Mientras tú quieras, me quedo.",
+     "Zolang jij wilt, blijf ik."
+    ],
+    [
+     "cada vez que + indicativo",
+     "Cada vez que viene, trae flores.",
+     "Elke keer dat hij komt, neemt hij bloemen mee."
+    ],
+    [
+     "apenas",
+     "Apenas llegó, se fue.",
+     "Hij was nauwelijks aangekomen of hij ging alweer."
+    ],
+    [
+     "en cuanto a",
+     "En cuanto a mí, estoy de acuerdo.",
+     "Wat mij betreft, ben ik het ermee eens."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Feit met el hecho de que",
+   "text": "Echte feiten krijgen normaal de indicativo, maar na <b>el hecho de que</b> gebruikt het Spaans de subjuntivo als de spreker op het feit reageert: <i>El hecho de que sea tu amigo no importa.</i> De indicativo kan als het feit alleen informatie geeft: <i>El hecho de que llegó tarde se notó.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. Gevoel, oordeel en ontkenning (herhaling en uitbreiding)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "lamentar / sentir que",
+     "Siento que no puedas venir.",
+     "Het spijt me dat je niet kunt komen."
+    ],
+    [
+     "molestar, extrañar, sorprender que",
+     "Me sorprende que sepa tanto.",
+     "Het verbaast me dat hij zoveel weet."
+    ],
+    [
+     "no negar que + indicativo",
+     "No niego que tiene razón.",
+     "Ik ontken niet dat hij gelijk heeft."
+    ],
+    [
+     "negar que + subjuntivo",
+     "Niego que sea verdad.",
+     "Ik ontken dat het waar is."
+    ],
+    [
+     "no es verdad / cierto que + subj.",
+     "No es verdad que lo haya dicho.",
+     "Het is niet waar dat hij het gezegd heeft."
+    ],
+    [
+     "es verdad / evidente que + ind.",
+     "Es evidente que tiene razón.",
+     "Het is duidelijk dat hij gelijk heeft."
+    ],
+    [
+     "tener miedo de que + subj.",
+     "Temo que llegue tarde.",
+     "Ik ben bang dat hij te laat komt."
+    ],
+    [
+     "parecer que (bevestigend) / no parecer que",
+     "Parece que llueve. / No parece que llueva.",
+     "Het lijkt te regenen. / Het lijkt niet te regenen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Por mucho que estudia, no aprueba.",
+     "Por mucho que estudie, no aprueba.",
+     "por mucho que + subjuntivo."
+    ],
+    [
+     "A lo mejor venga.",
+     "A lo mejor viene.",
+     "a lo mejor + indicativo."
+    ],
+    [
+     "Puede que viene.",
+     "Puede que venga.",
+     "puede que + subjuntivo."
+    ],
+    [
+     "Que yo sé, no ha venido.",
+     "Que yo sepa, no ha venido.",
+     "Vaste uitdrukking: sepa."
+    ],
+    [
+     "Salió sin que lo vimos.",
+     "Salió sin que lo viéramos.",
+     "sin que: subjuntivo."
+    ],
+    [
+     "Cualquiera persona puede.",
+     "Cualquier persona puede.",
+     "cualquier voor een zelfstandig naamwoord."
+    ],
+    [
+     "Por muy cansado es, trabaja.",
+     "Por muy cansado que esté, trabaja.",
+     "por muy + bijv. nw. + que + subj."
+    ],
+    [
+     "No es que no quiero.",
+     "No es que no quiera.",
+     "no es que: subjuntivo."
+    ],
+    [
+     "Pase lo que pasa, iré.",
+     "Pase lo que pase, iré.",
+     "Herhaal het werkwoord in de subjuntivo."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Por mucho que ______, no aprueba.",
+     "hint": "estudiar: él, subjuntivo",
+     "a": "estudie",
+     "full": "Por mucho que estudie, no aprueba."
+    },
+    {
+     "q": "Por muy caro que ______, lo compraré.",
+     "hint": "ser: subjuntivo",
+     "a": "sea",
+     "full": "Por muy caro que sea, lo compraré."
+    },
+    {
+     "q": "A lo mejor ______ mañana.",
+     "hint": "venir: él, presente",
+     "a": "viene",
+     "full": "A lo mejor viene mañana."
+    },
+    {
+     "q": "Puede que ______ mañana.",
+     "hint": "llover: subjuntivo",
+     "a": "llueva",
+     "full": "Puede que llueva mañana."
+    },
+    {
+     "q": "Que yo ______, no ha llegado.",
+     "hint": "saber: subjuntivo",
+     "a": "sepa",
+     "full": "Que yo sepa, no ha llegado."
+    },
+    {
+     "q": "Salió sin que lo ______.",
+     "hint": "ver, nosotros: imperfecto de subj.",
+     "a": "viéramos",
+     "full": "Salió sin que lo viéramos."
+    },
+    {
+     "q": "Pase lo que ______, estaré allí.",
+     "hint": "pasar: subjuntivo",
+     "a": "pase",
+     "full": "Pase lo que pase, estaré allí."
+    },
+    {
+     "q": "______ la razón, lo haré.",
+     "hint": "cualquiera que: + subjuntivo van ser",
+     "a": "Cualquiera que sea",
+     "full": "Cualquiera que sea la razón, lo haré."
+    },
+    {
+     "q": "No es que no ______, es que no puedo.",
+     "hint": "querer: yo, subjuntivo",
+     "a": "quiera",
+     "full": "No es que no quiera, es que no puedo."
+    },
+    {
+     "q": "______ que llame, no abras.",
+     "hint": "wie ook: één woord",
+     "a": "Quienquiera",
+     "full": "Quienquiera que llame, no abras."
+    },
+    {
+     "q": "Dondequiera que ______, te seguiré.",
+     "hint": "ir: tú, subjuntivo",
+     "a": "vayas",
+     "full": "Dondequiera que vayas, te seguiré."
+    },
+    {
+     "q": "Cada vez que ______, trae flores.",
+     "hint": "venir: él, presente",
+     "a": "viene",
+     "full": "Cada vez que viene, trae flores."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hoe hard ik het ook probeer, het lukt me niet.",
+     "a": "Por más que lo intento, no puedo."
+    },
+    {
+     "q": "Wat er ook gebeurt, ik ben er.",
+     "a": "Pase lo que pase, estaré allí."
+    },
+    {
+     "q": "Misschien komt hij.",
+     "a": "A lo mejor viene. / Quizá venga."
+    },
+    {
+     "q": "Voor zover ik weet, heeft hij niet gebeld.",
+     "a": "Que yo sepa, no ha llamado."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

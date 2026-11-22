@@ -1,0 +1,754 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Voorzetsels en werkwoord + voorzetsel",
+  "subtitle": "por tegenover para, de persoonlijke a, werkwoorden met een vast voorzetsel, dequeísmo en queísmo",
+  "footer": "Language Learning · B2 · Grammatica · Voorzetsels",
+  "next": "Volgende: B2 · pdf 7 — Gevorderde voornaamwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "in alle belangrijke gevallen kiezen tussen por en para",
+    "werkwoorden met een vast voorzetsel gebruiken (depender de, soñar con, fijarse en, ...)",
+    "de persoonlijke a goed gebruiken",
+    "dequeísmo en queísmo vermijden (pienso que, me doy cuenta de que)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Por en para"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "",
+    "POR",
+    "PARA"
+   ],
+   "rows": [
+    [
+     "Oorzaak / reden",
+     "Lo hizo por amor. (vanwege)",
+     ""
+    ],
+    [
+     "Doel",
+     "",
+     "Estudio para aprobar. (om te)"
+    ],
+    [
+     "Ontvanger",
+     "",
+     "El regalo es para ti."
+    ],
+    [
+     "Deadline",
+     "",
+     "Lo necesito para el lunes."
+    ],
+    [
+     "Richting",
+     "Pasamos por el centro. (door)",
+     "Salgo para Madrid. (naar)"
+    ],
+    [
+     "Ruil / prijs",
+     "Lo compré por diez euros.",
+     ""
+    ],
+    [
+     "Middel",
+     "Hablamos por teléfono. / por correo",
+     ""
+    ],
+    [
+     "Duur",
+     "Estuve allí por tres meses.",
+     ""
+    ],
+    [
+     "Handelende persoon (lijdende vorm)",
+     "Escrito por Cervantes.",
+     ""
+    ],
+    [
+     "Mening",
+     "",
+     "Para mí, es difícil."
+    ],
+    [
+     "Vergelijking",
+     "",
+     "Para ser extranjero, habla muy bien."
+    ],
+    [
+     "Namens, ten behoeve van",
+     "Lo hizo por mí. (voor mij, om mij)",
+     ""
+    ],
+    [
+     "Frequentie / tempo",
+     "Dos veces por semana. 100 km por hora.",
+     ""
+    ],
+    [
+     "Nog niet gedaan",
+     "La carta está por escribir.",
+     ""
+    ],
+    [
+     "Op het punt van",
+     "",
+     "Está para llover. (zeldzaam)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "De kern",
+   "text": "<b>por</b> kijkt <b>terug</b> (oorzaak, herkomst, ruil, route). <b>para</b> kijkt <b>vooruit</b> (doel, bestemming, deadline, ontvanger). <i>Trabajo por mi familia</i> (voor hen, om hen) tegenover <i>Trabajo para mi familia</i> (ik werk voor hen, bijvoorbeeld in het familiebedrijf)."
+  },
+  {
+   "type": "h2",
+   "text": "Vaste uitdrukkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Met por",
+    "Met para",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "por eso",
+     "para eso",
+     "daarom / daarvoor"
+    ],
+    [
+     "por favor",
+     "para siempre",
+     "alstublieft / voor altijd"
+    ],
+    [
+     "por ejemplo",
+     "para colmo",
+     "bijvoorbeeld / tot overmaat van ramp"
+    ],
+    [
+     "por fin, por lo menos",
+     "para nada",
+     "eindelijk, minstens / helemaal niet"
+    ],
+    [
+     "por si acaso",
+     "para variar",
+     "voor het geval dat / voor de verandering"
+    ],
+    [
+     "por cierto",
+     "no ser para tanto",
+     "trouwens / niet zo erg zijn"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. De persoonlijke a"
+  },
+  {
+   "type": "p",
+   "text": "Het lijdend voorwerp krijgt <b>a</b> als het een <b>bepaalde persoon</b> is (of een huisdier of iets dat als persoon wordt gezien)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Met a",
+    "Zonder a",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "Veo a Ana.",
+     "Veo la casa.",
+     "persoon tegenover ding"
+    ],
+    [
+     "Conozco a tu hermano.",
+     "Conozco Madrid.",
+     "persoon tegenover plaats"
+    ],
+    [
+     "Quiero a mi perro.",
+     "Quiero un coche.",
+     "huisdier tegenover ding"
+    ],
+    [
+     "Busco a mi hermano.",
+     "Busco un hermano que sepa inglés.",
+     "bepaald tegenover onbepaald"
+    ],
+    [
+     "Necesito a mi madre.",
+     "Necesito un médico.",
+     "een bepaalde persoon tegenover wie dan ook"
+    ],
+    [
+     "No conozco a nadie.",
+     "No tengo hermanos.",
+     "nadie / alguien: a"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Alguien, nadie, alguno, ninguno</b> als lijdend voorwerp krijgen <i>a</i>: <i>¿Has visto a alguien? No vi a nadie.</i>",
+    "<b>Tener</b> krijgt meestal geen persoonlijke a: <i>Tengo dos hermanos.</i>",
+    "<b>Ser</b> en <b>haber</b> krijgen hem nooit: <i>Hay mucha gente.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden met een vast voorzetsel"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden + a",
+   "items": [
+    [
+     "aprender a",
+     "leren (om) te"
+    ],
+    [
+     "ayudar a",
+     "helpen te"
+    ],
+    [
+     "atreverse a",
+     "durven te"
+    ],
+    [
+     "dedicarse a",
+     "zich wijden aan"
+    ],
+    [
+     "negarse a",
+     "weigeren te"
+    ],
+    [
+     "acostumbrarse a",
+     "wennen aan"
+    ],
+    [
+     "asistir a",
+     "bijwonen"
+    ],
+    [
+     "oler a",
+     "ruiken naar"
+    ],
+    [
+     "jugar a",
+     "spelen (een spel)"
+    ],
+    [
+     "llegar a",
+     "aankomen in, bereiken"
+    ],
+    [
+     "parecerse a",
+     "lijken op"
+    ],
+    [
+     "renunciar a",
+     "afzien van, opgeven"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden + de",
+   "items": [
+    [
+     "depender de",
+     "afhangen van"
+    ],
+    [
+     "acordarse de",
+     "zich herinneren"
+    ],
+    [
+     "olvidarse de",
+     "vergeten"
+    ],
+    [
+     "darse cuenta de",
+     "beseffen, merken"
+    ],
+    [
+     "quejarse de",
+     "klagen over"
+    ],
+    [
+     "arrepentirse de",
+     "spijt hebben van"
+    ],
+    [
+     "alegrarse de",
+     "blij zijn met"
+    ],
+    [
+     "enamorarse de",
+     "verliefd worden op"
+    ],
+    [
+     "burlarse de",
+     "de spot drijven met"
+    ],
+    [
+     "tratar de",
+     "proberen te"
+    ],
+    [
+     "tratarse de",
+     "gaan over"
+    ],
+    [
+     "dudar de",
+     "twijfelen aan"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden + en",
+   "items": [
+    [
+     "pensar en",
+     "denken aan / over"
+    ],
+    [
+     "confiar en",
+     "vertrouwen op"
+    ],
+    [
+     "fijarse en",
+     "letten op, opmerken"
+    ],
+    [
+     "insistir en",
+     "aandringen op"
+    ],
+    [
+     "consistir en",
+     "bestaan uit"
+    ],
+    [
+     "tardar en",
+     "lang doen over"
+    ],
+    [
+     "quedar en",
+     "afspreken om"
+    ],
+    [
+     "basarse en",
+     "gebaseerd zijn op"
+    ],
+    [
+     "convertirse en",
+     "veranderen in"
+    ],
+    [
+     "especializarse en",
+     "zich specialiseren in"
+    ],
+    [
+     "influir en",
+     "invloed hebben op"
+    ],
+    [
+     "participar en",
+     "deelnemen aan"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden + con",
+   "items": [
+    [
+     "soñar con",
+     "dromen van"
+    ],
+    [
+     "contar con",
+     "rekenen op"
+    ],
+    [
+     "casarse con",
+     "trouwen met"
+    ],
+    [
+     "encontrarse con",
+     "tegen het lijf lopen"
+    ],
+    [
+     "salir con",
+     "uitgaan met"
+    ],
+    [
+     "comprometerse con",
+     "zich verplichten tot"
+    ],
+    [
+     "conformarse con",
+     "genoegen nemen met"
+    ],
+    [
+     "quedarse con",
+     "houden, inpikken"
+    ],
+    [
+     "enfadarse con",
+     "boos worden op"
+    ],
+    [
+     "tener que ver con",
+     "te maken hebben met"
+    ],
+    [
+     "acabar con",
+     "een eind maken aan"
+    ],
+    [
+     "bastar con",
+     "genoeg zijn"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden + por / para",
+   "items": [
+    [
+     "preocuparse por",
+     "zich zorgen maken over"
+    ],
+    [
+     "interesarse por",
+     "geïnteresseerd zijn in"
+    ],
+    [
+     "luchar por",
+     "vechten voor"
+    ],
+    [
+     "esforzarse por",
+     "zijn best doen om"
+    ],
+    [
+     "optar por",
+     "kiezen voor"
+    ],
+    [
+     "felicitar por",
+     "feliciteren met"
+    ],
+    [
+     "preguntar por",
+     "vragen naar (iemand)"
+    ],
+    [
+     "votar por",
+     "stemmen op"
+    ],
+    [
+     "servir para",
+     "dienen voor"
+    ],
+    [
+     "estar para",
+     "op het punt staan / in de stemming zijn"
+    ],
+    [
+     "prepararse para",
+     "zich voorbereiden op"
+    ],
+    [
+     "trabajar para",
+     "werken voor"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Dequeísmo en queísmo"
+  },
+  {
+   "type": "p",
+   "text": "Het voorzetsel blijft bij het werkwoord dat het nodig heeft. Heeft het werkwoord <b>de</b> nodig, houd dan <b>de que</b>; zo niet, gebruik gewoon <b>que</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Fout",
+    "Goed",
+    "Reden"
+   ],
+   "rows": [
+    [
+     "Pienso de que es verdad.",
+     "Pienso que es verdad.",
+     "pensar que: zonder de"
+    ],
+    [
+     "Dijo de que vendría.",
+     "Dijo que vendría.",
+     "decir que"
+    ],
+    [
+     "Creo de que tienes razón.",
+     "Creo que tienes razón.",
+     "creer que"
+    ],
+    [
+     "Me alegro que vengas.",
+     "Me alegro de que vengas.",
+     "alegrarse DE que"
+    ],
+    [
+     "Me di cuenta que era tarde.",
+     "Me di cuenta de que era tarde.",
+     "darse cuenta DE que"
+    ],
+    [
+     "Estoy seguro que vendrá.",
+     "Estoy seguro de que vendrá.",
+     "estar seguro DE que"
+    ],
+    [
+     "Me acuerdo que dijo eso.",
+     "Me acuerdo de que dijo eso.",
+     "acordarse DE que"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Snelle test",
+   "text": "Maak van de bijzin een vraag met <b>qué</b>: <i>¿Qué piensas?</i> (geen voorzetsel) geeft <i>pienso que</i>. <i>¿De qué te alegras?</i> (met de) geeft <i>me alegro de que</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "El regalo es por ti.",
+     "El regalo es para ti.",
+     "ontvanger: para"
+    ],
+    [
+     "Estudio por aprobar.",
+     "Estudio para aprobar.",
+     "doel: para"
+    ],
+    [
+     "Gracias para tu ayuda.",
+     "Gracias por tu ayuda.",
+     "bedankt VOOR: por"
+    ],
+    [
+     "Lo compré para diez euros.",
+     "Lo compré por diez euros.",
+     "prijs: por"
+    ],
+    [
+     "Veo Ana.",
+     "Veo a Ana.",
+     "persoonlijke a"
+    ],
+    [
+     "Llegué en Madrid.",
+     "Llegué a Madrid.",
+     "llegar a"
+    ],
+    [
+     "Sueño de ti.",
+     "Sueño contigo.",
+     "soñar con"
+    ],
+    [
+     "Depende en ti.",
+     "Depende de ti.",
+     "depender de"
+    ],
+    [
+     "Me casé a mi pareja.",
+     "Me casé con mi pareja.",
+     "casarse con"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het juiste voorzetsel in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Este regalo es ______ ti.",
+     "hint": "por / para",
+     "a": "para",
+     "full": "Este regalo es para ti."
+    },
+    {
+     "q": "Gracias ______ tu ayuda.",
+     "hint": "por / para",
+     "a": "por",
+     "full": "Gracias por tu ayuda."
+    },
+    {
+     "q": "Lo compré ______ diez euros.",
+     "hint": "prijs",
+     "a": "por",
+     "full": "Lo compré por diez euros."
+    },
+    {
+     "q": "Lo necesito ______ el lunes.",
+     "hint": "deadline",
+     "a": "para",
+     "full": "Lo necesito para el lunes."
+    },
+    {
+     "q": "Veo ______ Ana.",
+     "hint": "persoonlijke a",
+     "a": "a",
+     "full": "Veo a Ana."
+    },
+    {
+     "q": "Depende ______ ti.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Depende de ti."
+    },
+    {
+     "q": "Sueño ______.",
+     "hint": "con + ti: één woord",
+     "a": "contigo",
+     "full": "Sueño contigo."
+    },
+    {
+     "q": "Me alegro ______ que vengas.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Me alegro de que vengas."
+    },
+    {
+     "q": "Me casé ______ mi pareja.",
+     "hint": "voorzetsel",
+     "a": "con",
+     "full": "Me casé con mi pareja."
+    },
+    {
+     "q": "No me fijé ______ el cartel.",
+     "hint": "voorzetsel",
+     "a": "en",
+     "full": "No me fijé en el cartel."
+    },
+    {
+     "q": "Salgo ______ Madrid mañana.",
+     "hint": "richting",
+     "a": "para",
+     "full": "Salgo para Madrid mañana."
+    },
+    {
+     "q": "Hablamos ______ teléfono.",
+     "hint": "middel",
+     "a": "por",
+     "full": "Hablamos por teléfono."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik studeer om voor het examen te slagen.",
+     "a": "Estudio para aprobar el examen."
+    },
+    {
+     "q": "Bedankt voor je hulp.",
+     "a": "Gracias por tu ayuda."
+    },
+    {
+     "q": "Ik besefte dat het laat was.",
+     "a": "Me di cuenta de que era tarde."
+    },
+    {
+     "q": "Ik zoek mijn broer.",
+     "a": "Busco a mi hermano."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "Pluscuamperfecto de subjuntivo en complexe voorwaardelijke zinnen",
+  "subtitle": "hubiera + deelwoord, onwerkelijke en gemengde voorwaarden, spijt, en alternatieven voor si",
+  "footer": "Language Learning · B2 · Grammatica · Pluscuamperfecto de subjuntivo en voorwaarden",
+  "next": "Volgende: B2 · pdf 3 — Gevorderde subjuntivo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de pluscuamperfecto de subjuntivo vormen (hubiera + deelwoord)",
+    "onwerkelijke voorwaarden in het verleden maken (Si hubiera sabido, habría venido) en gemengde voorwaarden",
+    "spijt en gemiste kansen uitdrukken (Ojalá hubiera ..., Me habría gustado que ...)",
+    "alternatieven voor si gebruiken: de + infinitief, como + subjuntivo, a no ser que, salvo que"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Vormen: pluscuamperfecto de subjuntivo"
+  },
+  {
+   "type": "p",
+   "text": "<b>hubiera</b> (of <b>hubiese</b>) + <b>voltooid deelwoord</b>. Het deelwoord verandert nooit."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.4,
+    3.4,
+    3.4,
+    3.4
+   ],
+   "head": [
+    "",
+    "hablar",
+    "comer",
+    "vivir",
+    "hacer"
+   ],
+   "rows": [
+    [
+     "yo",
+     "hubiera hablado",
+     "hubiera comido",
+     "hubiera vivido",
+     "hubiera hecho"
+    ],
+    [
+     "tú",
+     "hubieras hablado",
+     "hubieras comido",
+     "hubieras vivido",
+     "hubieras hecho"
+    ],
+    [
+     "él / ella / usted",
+     "hubiera hablado",
+     "hubiera comido",
+     "hubiera vivido",
+     "hubiera hecho"
+    ],
+    [
+     "nosotros",
+     "hubiéramos hablado",
+     "hubiéramos comido",
+     "hubiéramos vivido",
+     "hubiéramos hecho"
+    ],
+    [
+     "vosotros",
+     "hubierais hablado",
+     "hubierais comido",
+     "hubierais vivido",
+     "hubierais hecho"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "hubieran hablado",
+     "hubieran comido",
+     "hubieran vivido",
+     "hubieran hecho"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Onregelmatige deelwoorden die je nodig hebt: <b>hecho, dicho, visto, puesto, escrito, vuelto, abierto, roto, muerto, cubierto, resuelto, descubierto</b>. Tweede vorm: <i>hubiese hablado, hubieses hablado ...</i> (gebruik is hetzelfde)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Onwerkelijk verleden: wat niet meer kan"
+  },
+  {
+   "type": "p",
+   "text": "Voor iets dat in het verleden <b>niet</b> gebeurd is, en het bedachte gevolg ervan: <b>si + pluscuamperfecto de subjuntivo</b>, <b>condicional perfecto</b> (habría + deelwoord)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.4,
+    4.2
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Feit"
+   ],
+   "rows": [
+    [
+     "Si hubiera estudiado, habría aprobado.",
+     "Als ik had gestudeerd, was ik geslaagd.",
+     "Ik heb niet gestudeerd."
+    ],
+    [
+     "Si hubieras venido, te lo habría contado.",
+     "Als je was gekomen, had ik het je verteld.",
+     "Je bent niet gekomen."
+    ],
+    [
+     "Si no hubiera llovido, habríamos salido.",
+     "Als het niet had geregend, waren we uitgegaan.",
+     "Het heeft geregend."
+    ],
+    [
+     "Si me lo hubieran dicho, lo habría sabido.",
+     "Als ze het me hadden verteld, had ik het geweten.",
+     "Niemand heeft het me verteld."
+    ],
+    [
+     "¿Qué habrías hecho si hubieras ganado?",
+     "Wat had je gedaan als je had gewonnen?",
+     "Je hebt niet gewonnen."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "In het gevolg wordt vaak <b>hubiera + deelwoord</b> gebruikt in plaats van <i>habría</i>: <i>Si hubiera estudiado, hubiera aprobado.</i> Dat is gewoon in spreektaal en correct, maar <i>habría</i> is de veilige keuze voor examens.",
+    "Gebruik nooit <i>habría</i> in de bijzin met <b>si</b>: niet <i>Si habría estudiado ...</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Gemengde voorwaarden"
+  },
+  {
+   "type": "p",
+   "text": "Combineer een <b>voorwaarde in het verleden</b> met een <b>gevolg in het heden</b>, of een voorwaarde in het heden met een gevolg in het verleden."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    5.4,
+    4.2
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Patroon"
+   ],
+   "rows": [
+    [
+     "Si hubiera estudiado medicina, ahora sería médico.",
+     "Als ik geneeskunde had gestudeerd, was ik nu arts.",
+     "voorwaarde verleden, gevolg heden"
+    ],
+    [
+     "Si hubiéramos ahorrado, ahora tendríamos casa.",
+     "Als we hadden gespaard, hadden we nu een huis.",
+     "voorwaarde verleden, gevolg heden"
+    ],
+    [
+     "Si fuera más valiente, te lo habría dicho.",
+     "Als ik dapperder was, had ik het je gezegd.",
+     "eigenschap nu, gevolg verleden"
+    ],
+    [
+     "Si hablara mejor inglés, me habrían contratado.",
+     "Als ik beter Engels sprak, hadden ze me aangenomen.",
+     "eigenschap nu, gevolg verleden"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Spijt en gemiste kansen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    6.4,
+    4.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Structuur"
+   ],
+   "rows": [
+    [
+     "Ojalá hubiera venido.",
+     "Was hij maar gekomen.",
+     "ojalá + pluscuamperfecto"
+    ],
+    [
+     "Ojalá no hubiera dicho eso.",
+     "Had ik dat maar niet gezegd.",
+     "ojalá + pluscuamperfecto"
+    ],
+    [
+     "Me habría gustado que vinieras.",
+     "Ik had het leuk gevonden als je was gekomen.",
+     "habría + imperf. de subj."
+    ],
+    [
+     "Me habría gustado que hubieras venido.",
+     "Ik had graag gehad dat je gekomen was.",
+     "habría + pluscuamperfecto"
+    ],
+    [
+     "Habría sido mejor que te quedaras.",
+     "Het was beter geweest als je was gebleven.",
+     "habría + imperf. de subj."
+    ],
+    [
+     "Si lo hubiera sabido...",
+     "Als ik het had geweten...",
+     "onafgemaakte zin"
+    ],
+    [
+     "¡Quién lo hubiera dicho!",
+     "Wie had dat gedacht!",
+     "uitdrukking van verbazing"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Pluscuamperfecto de subjuntivo in andere bijzinnen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.4,
+    4.2
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Aanleiding"
+   ],
+   "rows": [
+    [
+     "No creía que hubiera llegado.",
+     "Ik dacht niet dat hij was aangekomen.",
+     "twijfel, verleden vóór verleden"
+    ],
+    [
+     "Me alegré de que hubieras venido.",
+     "Ik was blij dat je gekomen was.",
+     "gevoel"
+    ],
+    [
+     "Aunque hubiera llovido, habríamos ido.",
+     "Zelfs als het had geregend, waren we gegaan.",
+     "toegeving"
+    ],
+    [
+     "Lo hizo como si nunca hubiera pasado.",
+     "Hij deed het alsof het nooit gebeurd was.",
+     "como si"
+    ],
+    [
+     "No había nadie que lo hubiera visto.",
+     "Er was niemand die het had gezien.",
+     "bestaat niet"
+    ],
+    [
+     "Esperaba que hubieran terminado.",
+     "Ik hoopte dat ze klaar waren.",
+     "verwachting"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Andere manieren om een voorwaarde te maken"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.2,
+    5.4
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "de + infinitief",
+     "De haberlo sabido, habría venido.",
+     "Had ik het geweten, dan was ik gekomen."
+    ],
+    [
+     "de + infinitief (heden)",
+     "De querer ir, avísame.",
+     "Als je wilt gaan, laat het me weten."
+    ],
+    [
+     "como + subjuntivo (dreigement)",
+     "Como no estudies, suspenderás.",
+     "Als je niet studeert, zak je."
+    ],
+    [
+     "gerundio",
+     "Estudiando, aprobarás.",
+     "Door te studeren slaag je."
+    ],
+    [
+     "a no ser que + subj.",
+     "Iré a no ser que llueva.",
+     "Ik ga, tenzij het regent."
+    ],
+    [
+     "salvo que + subj.",
+     "Saldremos salvo que nieve.",
+     "We gaan uit, tenzij het sneeuwt."
+    ],
+    [
+     "siempre y cuando + subj.",
+     "Te ayudo siempre y cuando lo pidas.",
+     "Ik help je, op voorwaarde dat je het vraagt."
+    ],
+    [
+     "en caso de que + subj.",
+     "En caso de que llueva, llévate un paraguas.",
+     "Neem een paraplu mee voor het geval het regent."
+    ],
+    [
+     "por si + indicativo",
+     "Llévate un paraguas por si llueve.",
+     "Neem een paraplu mee voor het geval het regent."
+    ],
+    [
+     "con tal de que + subj.",
+     "Lo hago con tal de que me ayudes.",
+     "Ik doe het, zolang je me helpt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "como + subjuntivo",
+   "text": "<b>Como no vengas, me enfadaré</b> is een dreigement of waarschuwing (als je niet komt ...). Het is niet de <i>como</i> van oorzaak uit B1 (<i>Como llovía, nos quedamos</i>), die de indicativo krijgt."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Si habría sabido, habría venido.",
+     "Si hubiera sabido, habría venido.",
+     "Geen condicional in de bijzin met si."
+    ],
+    [
+     "Si hubiera sabido, vendría.",
+     "Si hubiera sabido, habría venido.",
+     "Gevolg in het verleden: condicional perfecto."
+    ],
+    [
+     "Si había estudiado, habría aprobado.",
+     "Si hubiera estudiado, habría aprobado.",
+     "Onwerkelijk verleden: pluscuamperfecto de subjuntivo."
+    ],
+    [
+     "Si hubiera estudiado medicina, ahora fuera médico.",
+     "Si hubiera estudiado medicina, ahora sería médico.",
+     "Gevolg in het heden: condicional."
+    ],
+    [
+     "Ojalá hubiera viniera.",
+     "Ojalá hubiera venido.",
+     "hubiera + deelwoord."
+    ],
+    [
+     "Si hubiera habido sabido...",
+     "Si hubiera sabido...",
+     "Voeg nooit een tweede haber toe."
+    ],
+    [
+     "Ojalá habría venido.",
+     "Ojalá hubiera venido.",
+     "ojalá krijgt de subjuntivo."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in (hubiera + deelwoord of habría + deelwoord). De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Si ______, habría aprobado.",
+     "hint": "estudiar, yo: hubiera + deelwoord",
+     "a": "hubiera estudiado",
+     "full": "Si hubiera estudiado, habría aprobado."
+    },
+    {
+     "q": "Si hubieras venido, te lo ______.",
+     "hint": "contar, yo: habría + deelwoord",
+     "a": "habría contado",
+     "full": "Si hubieras venido, te lo habría contado."
+    },
+    {
+     "q": "Si no ______, habríamos salido.",
+     "hint": "llover: hubiera + deelwoord",
+     "a": "hubiera llovido",
+     "full": "Si no hubiera llovido, habríamos salido."
+    },
+    {
+     "q": "Ojalá ______.",
+     "hint": "venir, él: spijt",
+     "a": "hubiera venido",
+     "full": "Ojalá hubiera venido."
+    },
+    {
+     "q": "Si hubiera estudiado medicina, ahora ______ médico.",
+     "hint": "ser (condicional, yo)",
+     "a": "sería",
+     "full": "Si hubiera estudiado medicina, ahora sería médico."
+    },
+    {
+     "q": "Me ______ gustado que vinieras.",
+     "hint": "haber (condicional)",
+     "a": "habría",
+     "full": "Me habría gustado que vinieras."
+    },
+    {
+     "q": "De ______ sabido, habría venido.",
+     "hint": "haber",
+     "a": "haberlo",
+     "full": "De haberlo sabido, habría venido."
+    },
+    {
+     "q": "No creía que ______.",
+     "hint": "llegar, él: pluscuamperfecto de subj.",
+     "a": "hubiera llegado",
+     "full": "No creía que hubiera llegado."
+    },
+    {
+     "q": "Si lo ______, lo habría sabido.",
+     "hint": "decir, ellos: hubieran + deelwoord",
+     "a": "hubieran dicho",
+     "full": "Si lo hubieran dicho, lo habría sabido."
+    },
+    {
+     "q": "Como no ______, suspenderás.",
+     "hint": "estudiar, tú: presente de subjuntivo",
+     "a": "estudies",
+     "full": "Como no estudies, suspenderás."
+    },
+    {
+     "q": "Iré ______ que llueva.",
+     "hint": "tenzij (3 woorden: a no ser)",
+     "a": "a no ser",
+     "full": "Iré a no ser que llueva."
+    },
+    {
+     "q": "Llévate un paraguas ______ si llueve.",
+     "hint": "voor het geval",
+     "a": "por",
+     "full": "Llévate un paraguas por si llueve."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Als ik het had geweten, was ik gekomen.",
+     "a": "Si hubiera sabido, habría venido."
+    },
+    {
+     "q": "Had ik maar niets gezegd.",
+     "a": "Ojalá no hubiera dicho nada."
+    },
+    {
+     "q": "Als ik had gestudeerd, was ik nu arts.",
+     "a": "Si hubiera estudiado, ahora sería médico."
+    },
+    {
+     "q": "Ik ga, tenzij het regent.",
+     "a": "Iré a no ser que llueva."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

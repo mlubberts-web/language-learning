@@ -1,0 +1,598 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Nadruk, woordvolgorde en achtervoegsels",
+  "subtitle": "gespleten zinnen, focus en herhaalde voornaamwoorden, uitroepen, verkleinwoorden, vergrotingen en -ísimo",
+  "footer": "Language Learning · B2 · Grammatica · Nadruk, woordvolgorde, achtervoegsels",
+  "next": "Volgende: B2 · pdf 9 — Woordvorming en register"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "nadruk leggen op één deel van een zin (Fue Ana quien llamó, Lo que quiero es ...)",
+    "woordvolgorde gebruiken voor focus, met herhaalde voornaamwoorden (El libro lo compré ayer)",
+    "versterkers en uitroepen gebruiken (qué ... más, ni siquiera, vaya)",
+    "verkleinwoorden, vergrotingen en -ísimo goed gebruiken"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Gespleten zinnen (focus)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "ser + focus + que",
+     "Fue ayer cuando lo vi.",
+     "Het was gisteren dat ik hem zag."
+    ],
+    [
+     "ser + persoon + quien / el que",
+     "Fue Ana quien llamó.",
+     "Het was Ana die belde."
+    ],
+    [
+     "ser + plaats + donde",
+     "Es en Madrid donde vivo.",
+     "Het is in Madrid dat ik woon."
+    ],
+    [
+     "ser + manier + como",
+     "Así es como se hace.",
+     "Zo doe je dat."
+    ],
+    [
+     "lo que + werkwoord + ser + focus",
+     "Lo que quiero es descansar.",
+     "Wat ik wil is uitrusten."
+    ],
+    [
+     "lo que pasa es que",
+     "Lo que pasa es que no tengo tiempo.",
+     "Het punt is dat ik geen tijd heb."
+    ],
+    [
+     "es que (excuus)",
+     "¿Por qué no vienes? Es que estoy cansado.",
+     "Waarom kom je niet? Ik ben gewoon moe."
+    ],
+    [
+     "el que / la que + werkwoord + ser",
+     "La que llamó fue tu madre.",
+     "Degene die belde was je moeder."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Overeenkomst in gespleten zinnen",
+   "text": "Het betrekkelijk voornaamwoord past bij de focus: <i>Fueron mis padres quienes pagaron.</i> <i>Somos nosotros los que decidimos.</i> Ook het werkwoord ser past bij de focus: <i>Son ellas las que mandan.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. Woordvolgorde en herhaalde voornaamwoorden"
+  },
+  {
+   "type": "p",
+   "text": "De Spaanse woordvolgorde is flexibel. De belangrijkste (nieuwe) informatie staat vaak <b>achteraan</b>; bekende informatie staat vooraan."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Neutraal",
+    "Gemarkeerd (focus)",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Compré el libro ayer.",
+     "El libro lo compré ayer.",
+     "El libro: onderwerp van gesprek, herhaald met lo"
+    ],
+    [
+     "Vi a Ana ayer.",
+     "A Ana la vi ayer.",
+     "onderwerp van gesprek vooraan"
+    ],
+    [
+     "Llegó un paquete.",
+     "Un paquete llegó. / Llegó un paquete.",
+     "nieuwe informatie achteraan"
+    ],
+    [
+     "Ana habla español.",
+     "Español habla Ana.",
+     "contrast: Spaans, geen Frans"
+    ],
+    [
+     "Me gusta esto.",
+     "Esto sí que me gusta.",
+     "nadruk met sí que"
+    ],
+    [
+     "No me gusta nada.",
+     "Nada me gusta.",
+     "ontkenning vooraan"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Als het <b>lijdend voorwerp vooraan</b> staat, herhaal je het met een voornaamwoord: <i>A Pedro lo conozco. Los libros los dejé en casa.</i>",
+    "Een <b>onderwerp na het werkwoord</b> is gewoon bij nieuwe informatie: <i>Ha llamado tu madre. Vino mucha gente.</i>",
+    "Na een vraagwoord komt het onderwerp normaal na het werkwoord: <i>¿Qué dijo Ana?</i> (niet <i>¿Qué Ana dijo?</i>)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Versterkers en uitroepen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.2,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¡Qué + bijv. nw. / zelfst. nw.!",
+     "¡Qué bonito! ¡Qué suerte!",
+     "Wat mooi! Wat een geluk!"
+    ],
+    [
+     "¡Qué + zelfst. nw. + más / tan + bijv. nw.!",
+     "¡Qué día más / tan bonito!",
+     "Wat een mooie dag!"
+    ],
+    [
+     "¡Cuánto / cuántos!",
+     "¡Cuánto has crecido!",
+     "Wat ben je gegroeid!"
+    ],
+    [
+     "¡Vaya + zelfst. nw.!",
+     "¡Vaya sorpresa!",
+     "Wat een verrassing!"
+    ],
+    [
+     "¡Mira que + werkwoord!",
+     "¡Mira que eres tonto!",
+     "Wat ben je toch dom!"
+    ],
+    [
+     "ni siquiera",
+     "Ni siquiera me llamó.",
+     "Hij heeft me niet eens gebeld."
+    ],
+    [
+     "ni ... ni ...",
+     "No tengo ni tiempo ni dinero.",
+     "Ik heb geen tijd en geen geld."
+    ],
+    [
+     "sí que / no ... sino",
+     "No es caro, sino barato.",
+     "Het is niet duur, maar goedkoop."
+    ],
+    [
+     "tan ... que",
+     "Es tan alto que no cabe.",
+     "Hij is zo lang dat hij er niet in past."
+    ],
+    [
+     "tanto ... que",
+     "Llovió tanto que se inundó.",
+     "Het regende zo hard dat het overstroomde."
+    ],
+    [
+     "apenas, recién",
+     "Apenas lo conozco.",
+     "Ik ken hem nauwelijks."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Vaya, hombre, mira, anda",
+   "text": "Spanjaarden zijn dol op tussenwerpsels uit de spreektaal: <b>¡Vaya! ¡Anda! ¡Venga! ¡Hombre! ¡Mira!</b> hoor je voortdurend: <i>¡Venga, vámonos! ¡Anda ya! (Echt niet!) ¡Hombre, qué sorpresa!</i>"
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. Verkleinwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Verkleinwoorden drukken kleinheid, genegenheid, beleefdheid of soms ironie uit. In Spanje zijn <b>-ito / -ita</b> en <b>-illo / -illa</b> het gewoonst."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Uitgang",
+    "Regel",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "-ito / -ita",
+     "standaard",
+     "casa: casita; perro: perrito",
+     "huisje; hondje"
+    ],
+    [
+     "-cito / -cita",
+     "na -n, -r, -e",
+     "pan: pancito; café: cafecito",
+     "broodje; kopje koffie"
+    ],
+    [
+     "-ecito / -ecita",
+     "na woorden van één lettergreep",
+     "flor: florecita; luz: lucecita",
+     "bloempje; lichtje"
+    ],
+    [
+     "-illo / -illa",
+     "standaard (Spanje)",
+     "ventana: ventanilla; chico: chiquillo",
+     "raampje, loket; jochie"
+    ],
+    [
+     "-ico / -ica",
+     "Aragón, Murcia",
+     "katje",
+     "little cat"
+    ],
+    [
+     "c wordt qu / g wordt gu",
+     "spelling",
+     "poco: poquito; amigo: amiguito",
+     "een beetje; vriendje"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Bijwoorden en bijvoeglijke naamwoorden:</b> <i>cerquita, despacito, rapidito, chiquitito, poquito</i>.",
+    "<b>Beleefdheid:</b> <i>Un momentito, por favor. ¿Me da un cafetito?</i> maakt een verzoek zachter.",
+    "<b>Ironie:</b> <i>¡Menudo problemita!</i> (wat een 'probleempje') kan een groot probleem betekenen."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Vergrotingen en ongunstige achtervoegsels"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    6.2,
+    7.4
+   ],
+   "head": [
+    "Uitgang",
+    "Voorbeeld",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "-ón / -ona",
+     "grande: grandote; hombre: hombretón",
+     "groter, sterker of lelijk"
+    ],
+    [
+     "-azo / -aza",
+     "coche: cochazo; golpe: golpazo; manos: manazas",
+     "groot, geweldig of een klap"
+    ],
+    [
+     "-ote / -ota",
+     "grande: grandote; palabra: palabrota",
+     "groot, grof"
+    ],
+    [
+     "-ucho / -ucha",
+     "casa: casucha; flaco: flacucho",
+     "armzalig, lelijk (ongunstig)"
+    ],
+    [
+     "-aco / -aca",
+     "pájaro: pajarraco; libro: libraco",
+     "ongunstig"
+    ],
+    [
+     "-ísimo / -ísima",
+     "bueno: buenísimo; rico: riquísimo",
+     "heel, erg (overtreffende trap)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "-ísimo (absolute overtreffende trap)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Bijv. nw.",
+    "Overtreffend",
+    "Bijv. nw.",
+    "Overtreffend"
+   ],
+   "rows": [
+    [
+     "bueno",
+     "buenísimo",
+     "difícil",
+     "dificilísimo"
+    ],
+    [
+     "rico",
+     "riquísimo",
+     "fácil",
+     "facilísimo"
+    ],
+    [
+     "largo",
+     "larguísimo",
+     "feliz",
+     "felicísimo"
+    ],
+    [
+     "poco",
+     "poquísimo",
+     "amable",
+     "amabilísimo"
+    ],
+    [
+     "fuerte",
+     "fortísimo",
+     "antiguo",
+     "antiquísimo"
+    ],
+    [
+     "caro",
+     "carísimo",
+     "mucho",
+     "muchísimo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Spelling van -ísimo",
+   "text": "Haal de laatste klinker weg en voeg <b>-ísimo</b> toe. Spellingsveranderingen: <b>c wordt qu</b> (rico: riquísimo), <b>g wordt gu</b> (largo: larguísimo), <b>z wordt c</b> (feliz: felicísimo). <i>Muy</i> + bijvoeglijk naamwoord is het neutrale alternatief: <i>muy bueno</i>. Nooit <i>muy buenísimo</i>."
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Fue Ana que llamó.",
+     "Fue Ana quien llamó.",
+     "quien / la que in gespleten zinnen."
+    ],
+    [
+     "Es en Madrid que vivo.",
+     "Es en Madrid donde vivo.",
+     "donde bij focus op een plaats."
+    ],
+    [
+     "El libro compré ayer.",
+     "El libro lo compré ayer.",
+     "Herhaal een lijdend voorwerp vooraan met lo."
+    ],
+    [
+     "¿Qué Ana dijo?",
+     "¿Qué dijo Ana?",
+     "Werkwoord vóór het onderwerp na vraagwoorden."
+    ],
+    [
+     "¡Qué día muy bonito!",
+     "¡Qué día tan / más bonito!",
+     "tan of más, nooit muy."
+    ],
+    [
+     "Muy buenísimo.",
+     "Buenísimo. / Muy bueno.",
+     "-ísimo betekent al 'heel'."
+    ],
+    [
+     "Es riquísimo, ricísimo.",
+     "Es riquísimo.",
+     "c wordt qu."
+    ],
+    [
+     "No tengo ni tiempo ni de dinero.",
+     "No tengo ni tiempo ni dinero.",
+     "ni ... ni ... zonder extra woorden."
+    ],
+    [
+     "¡Cuánto grande es!",
+     "¡Qué grande es!",
+     "qué + bijvoeglijk naamwoord."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende woord of de ontbrekende vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Fue Ana ______ llamó.",
+     "hint": "die (persoon)",
+     "a": "quien",
+     "full": "Fue Ana quien llamó."
+    },
+    {
+     "q": "Es en Madrid ______ vivo.",
+     "hint": "waar",
+     "a": "donde",
+     "full": "Es en Madrid donde vivo."
+    },
+    {
+     "q": "Lo ______ quiero es descansar.",
+     "hint": "wat",
+     "a": "que",
+     "full": "Lo que quiero es descansar."
+    },
+    {
+     "q": "El libro ______ compré ayer.",
+     "hint": "voornaamwoord",
+     "a": "lo",
+     "full": "El libro lo compré ayer."
+    },
+    {
+     "q": "¡Qué día ______ bonito!",
+     "hint": "versterker: más / tan",
+     "a": "tan",
+     "full": "¡Qué día tan bonito!"
+    },
+    {
+     "q": "Ni siquiera me ______.",
+     "hint": "llamar: él, indefinido",
+     "a": "llamó",
+     "full": "Ni siquiera me llamó."
+    },
+    {
+     "q": "Esta comida está ______.",
+     "hint": "rico: overtreffende trap",
+     "a": "riquísima",
+     "full": "Esta comida está riquísima."
+    },
+    {
+     "q": "Es un libro ______.",
+     "hint": "largo: overtreffende trap",
+     "a": "larguísimo",
+     "full": "Es un libro larguísimo."
+    },
+    {
+     "q": "Un ______, por favor.",
+     "hint": "momento: verkleinwoord",
+     "a": "momentito",
+     "full": "Un momentito, por favor."
+    },
+    {
+     "q": "Tiene un ______ nuevo.",
+     "hint": "coche: vergroting, -azo",
+     "a": "cochazo",
+     "full": "Tiene un cochazo nuevo."
+    },
+    {
+     "q": "¡______ sorpresa!",
+     "hint": "spreektaal: wat een",
+     "a": "Vaya",
+     "full": "¡Vaya sorpresa!"
+    },
+    {
+     "q": "Llovió ______ que se inundó.",
+     "hint": "zo veel, zo hard",
+     "a": "tanto",
+     "full": "Llovió tanto que se inundó."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Wat ik wil is uitrusten.",
+     "a": "Lo que quiero es descansar."
+    },
+    {
+     "q": "Het was Ana die belde.",
+     "a": "Fue Ana quien llamó."
+    },
+    {
+     "q": "Wat een mooie dag!",
+     "a": "¡Qué día tan bonito!"
+    },
+    {
+     "q": "Het boek heb ik gisteren gekocht.",
+     "a": "El libro lo compré ayer."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Woordvorming en register",
+  "subtitle": "voorvoegsels, achtervoegsels, informeel tegenover formeel Spaans, en formele e-mails en brieven schrijven",
+  "footer": "Language Learning · B2 · Grammatica · Woordvorming en register",
+  "next": "Volgende: B2 · pdf 10 — Woordenschat en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "nieuwe woorden maken met veelgebruikte voor- en achtervoegsels",
+    "zelfstandige naamwoorden maken van werkwoorden en bijvoeglijke naamwoorden (-ción, -miento, -dad, -ura, -ez)",
+    "wisselen tussen informeel en formeel Spaans",
+    "een formele e-mail of brief schrijven met de juiste aanhef, verzoeken en afsluiting"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Voorvoegsels"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    4.0,
+    5.4,
+    4.6
+   ],
+   "head": [
+    "Voorvoegsel",
+    "Betekenis",
+    "Voorbeelden",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "des- / in- / im- / i-",
+     "ontkenning, tegendeel",
+     "hacer: deshacer; posible: imposible; legal: ilegal",
+     "ongedaan maken; onmogelijk; illegaal"
+    ],
+    [
+     "re-",
+     "opnieuw, versterkend",
+     "hacer: rehacer; leer: releer",
+     "overdoen; herlezen"
+    ],
+    [
+     "pre- / ante-",
+     "voor",
+     "histórico: prehistórico; ayer: anteayer",
+     "prehistorisch; eergisteren"
+    ],
+    [
+     "post- / pos-",
+     "na",
+     "guerra: posguerra",
+     "naoorlogse periode"
+    ],
+    [
+     "sobre-",
+     "over, boven",
+     "estimar: sobrestimar; vivir: sobrevivir",
+     "overschatten; overleven"
+    ],
+    [
+     "sub- / infra-",
+     "onder",
+     "marino: submarino",
+     "onderzeeër"
+    ],
+    [
+     "inter-",
+     "tussen",
+     "nacional: internacional",
+     "internationaal"
+    ],
+    [
+     "anti-",
+     "tegen",
+     "social: antisocial",
+     "asociaal"
+    ],
+    [
+     "contra-",
+     "tegen",
+     "decir: contradecir",
+     "tegenspreken"
+    ],
+    [
+     "co- / con-",
+     "samen",
+     "operar: cooperar; vivir: convivir",
+     "samenwerken; samenwonen"
+    ],
+    [
+     "auto-",
+     "zelf",
+     "estima: autoestima",
+     "zelfvertrouwen"
+    ],
+    [
+     "mal- / bien-",
+     "slecht / goed",
+     "tratar: maltratar; venir: bienvenido",
+     "mishandelen; welkom"
+    ],
+    [
+     "multi- / semi-",
+     "veel / half",
+     "cultural: multicultural",
+     "multicultureel"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Achtervoegsels voor zelfstandige naamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    4.0,
+    5.4,
+    4.6
+   ],
+   "head": [
+    "Achtervoegsel",
+    "Vormt",
+    "Voorbeelden",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "-ción / -sión",
+     "zelfst. nw. van werkwoorden (v.)",
+     "comunicar: comunicación; decidir: decisión",
+     "communicatie; besluit"
+    ],
+    [
+     "-miento",
+     "zelfst. nw. van werkwoorden (m.)",
+     "mover: movimiento; pensar: pensamiento",
+     "beweging; gedachte"
+    ],
+    [
+     "-dad / -tad",
+     "zelfst. nw. van bijv. nw. (v.)",
+     "feliz: felicidad; libre: libertad",
+     "geluk; vrijheid"
+    ],
+    [
+     "-ez / -eza",
+     "zelfst. nw. van bijv. nw. (v.)",
+     "pobre: pobreza; tímido: timidez",
+     "armoede; verlegenheid"
+    ],
+    [
+     "-ura",
+     "zelfst. nw. van bijv. nw. (v.)",
+     "alto: altura; abrir: apertura",
+     "hoogte; opening"
+    ],
+    [
+     "-ismo / -ista",
+     "leer / aanhanger",
+     "social: socialismo; arte: artista",
+     "socialisme; kunstenaar"
+    ],
+    [
+     "-dor / -dora",
+     "wie of wat iets doet (persoon of machine)",
+     "trabajar: trabajador; lavar: lavadora",
+     "werknemer; wasmachine"
+    ],
+    [
+     "-ero / -era",
+     "beroep / bak, schaal",
+     "pan: panadero; ensalada: ensaladera",
+     "bakker; slabak"
+    ],
+    [
+     "-ería",
+     "winkel / plaats",
+     "libro: librería; pan: panadería",
+     "boekhandel; bakkerij"
+    ],
+    [
+     "-aje / -anza",
+     "resultaat, handeling",
+     "viajar: viaje; enseñar: enseñanza",
+     "reis; onderwijs"
+    ],
+    [
+     "-ncia / -nza",
+     "toestand, eigenschap",
+     "paciente: paciencia; confiar: confianza",
+     "geduld; vertrouwen"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Het geslacht volgt het achtervoegsel",
+   "text": "-ción, -sión, -dad, -tad, -ez, -eza, -ura, -ería, -ncia zijn <b>vrouwelijk</b>. -miento, -aje, -or en -ismo zijn <b>mannelijk</b>. Uitzonderingen: <i>el avión, el corazón, la sartén</i> (geen regel van een achtervoegsel)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Achtervoegsels voor bijvoeglijke naamwoorden en bijwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    4.6,
+    5.2,
+    3.8
+   ],
+   "head": [
+    "Achtervoegsel",
+    "Betekenis",
+    "Voorbeelden",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "-ble",
+     "kan gedaan worden",
+     "comprar: comprable; creer: creíble",
+     "koopbaar; geloofwaardig"
+    ],
+    [
+     "-oso / -osa",
+     "vol van",
+     "peligro: peligroso; gracia: gracioso",
+     "gevaarlijk; grappig"
+    ],
+    [
+     "-ico / -al / -ar",
+     "met betrekking tot",
+     "teoría: teórico; ciudad: urbano",
+     "theoretisch; stedelijk"
+    ],
+    [
+     "-ivo / -ivo",
+     "geneigd tot",
+     "decidir: decisivo; actuar: activo",
+     "beslissend; actief"
+    ],
+    [
+     "-ado / -ido",
+     "deelwoord als bijv. nw.",
+     "cansar: cansado; vivir: vivido",
+     "moe; beleefd"
+    ],
+    [
+     "-mente",
+     "bijwoord van wijze",
+     "rápida: rápidamente; fácil: fácilmente",
+     "snel; gemakkelijk"
+    ],
+    [
+     "-ísimo",
+     "heel, erg",
+     "alto: altísimo",
+     "heel lang"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "-mente",
+   "text": "Neem het <b>vrouwelijke</b> bijvoeglijk naamwoord en voeg -mente toe: <i>lento: lentamente, claro: claramente, fácil: fácilmente</i>. Het accent van het bijvoeglijk naamwoord blijft: <i>rápida: rápidamente</i>. Bij twee bijwoorden achter elkaar krijgt alleen het laatste -mente: <i>lenta y claramente</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Register: informeel en formeel"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Informeel (vrienden)",
+    "Formeel (werk, officieel)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "tú",
+     "usted",
+     "jij / u"
+    ],
+    [
+     "Hola, ¿qué tal?",
+     "Buenos días / Buenas tardes",
+     "groet"
+    ],
+    [
+     "Quiero pedirte un favor.",
+     "Me gustaría solicitarle un favor.",
+     "verzoek"
+    ],
+    [
+     "¿Puedes ayudarme?",
+     "¿Podría ayudarme?",
+     "beleefd verzoek"
+    ],
+    [
+     "Dime lo que necesitas.",
+     "Indíqueme lo que necesita.",
+     "gebiedende wijs"
+    ],
+    [
+     "Te llamo mañana.",
+     "Me pondré en contacto con usted mañana.",
+     "contact opnemen"
+    ],
+    [
+     "Lo siento.",
+     "Le pido disculpas.",
+     "excuses"
+    ],
+    [
+     "Vale, genial.",
+     "De acuerdo, perfecto.",
+     "instemming"
+    ],
+    [
+     "Mira, ...",
+     "Cabe señalar que ...",
+     "een punt inleiden"
+    ],
+    [
+     "Qué rollo.",
+     "Resulta molesto.",
+     "klacht"
+    ],
+    [
+     "Nos vemos.",
+     "Quedo a su disposición.",
+     "afsluiting"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Formeel Spaans</b> gebruikt liever <i>podría / le agradecería que + imperfecto de subjuntivo</i>: <i>Le agradecería que me enviara la factura.</i>",
+    "<b>Vermijd afkortingen en straattaal</b>: gebruik <i>para, estar, hacer</i>, niet <i>pa, tar</i> enzovoort.",
+    "<b>De lijdende vorm en constructies met se</b> klinken formeel: <i>Se ruega puntualidad. Se ha producido un error.</i>",
+    "<b>Woordniveau:</b> <i>comprar</i> (neutraal) / <i>adquirir</i> (formeel), <i>empezar</i> / <i>iniciar</i>, <i>decir</i> / <i>indicar</i>, <i>pedir</i> / <i>solicitar</i>, <i>ver</i> / <i>observar</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Een formele e-mail of brief schrijven"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    12.0
+   ],
+   "head": [
+    "Onderdeel",
+    "Handige zinnen"
+   ],
+   "rows": [
+    [
+     "Aanhef",
+     "Estimado señor López: / Estimada señora García: / Estimados señores: / Muy señor mío:"
+    ],
+    [
+     "Opening",
+     "Me dirijo a usted para + inf. / Le escribo con motivo de ... / En relación con su anuncio ..."
+    ],
+    [
+     "Verzoek",
+     "Le agradecería que + imperf. de subj. / Quisiera solicitar ... / Les ruego que + subj."
+    ],
+    [
+     "Klacht",
+     "Lamento comunicarle que ... / No estoy conforme con ... / Exijo una solución."
+    ],
+    [
+     "Informatie geven",
+     "Le informo de que ... / Adjunto le envío ... / Como le comenté por teléfono ..."
+    ],
+    [
+     "Afsluiting",
+     "Quedo a su disposición para cualquier duda. / A la espera de su respuesta, ..."
+    ],
+    [
+     "Groet",
+     "Atentamente, / Un cordial saludo, / Reciba un cordial saludo. / Cordialmente,"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Voorbeeld: e-mail met een klacht"
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Asunto: Reclamación del pedido número 4582",
+   "text": "Estimados señores:<br/><br/>Me dirijo a ustedes para comunicarles que el pedido que realicé el 3 de octubre todavía no ha llegado. Según su página web, el plazo máximo de entrega era de cinco días.<br/><br/>Les agradecería que me informaran del estado del envío y que, en caso de que no pudiera entregarse, me devolvieran el importe.<br/><br/>A la espera de su respuesta, reciban un cordial saludo.<br/><br/>Mark de Vries"
+  },
+  {
+   "type": "h2",
+   "text": "Informele e-mail (aan een vriendin)"
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Asunto: ¡Nos vemos el sábado!",
+   "text": "Hola, Ana:<br/><br/>¿Qué tal todo? Te escribo para decirte que al final puedo ir el sábado. ¿Quedamos a las ocho en la plaza? Si quieres, llevo yo algo de beber.<br/><br/>Un abrazo, y hasta pronto.<br/>Mark"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Informele groeten",
+    "Neutraal",
+    "Formeel"
+   ],
+   "rows": [
+    [
+     "Un abrazo, / Besos, / Hasta pronto,",
+     "Saludos, / Un saludo,",
+     "Atentamente, / Reciba un cordial saludo,"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Estimado Sr. López, quiero que me mandas la factura.",
+     "Estimado señor López: Le agradecería que me enviara la factura.",
+     "formeel verzoek: imperfecto de subjuntivo."
+    ],
+    [
+     "Un abrazo, Atentamente.",
+     "Un abrazo. / Atentamente.",
+     "Kies één groet."
+    ],
+    [
+     "Es muy imposible.",
+     "Es imposible.",
+     "im- is al een ontkenning."
+    ],
+    [
+     "Rápida mente.",
+     "Rápidamente.",
+     "één woord."
+    ],
+    [
+     "La pobreza es muy grande, pobresa.",
+     "La pobreza.",
+     "-eza, niet -esa."
+    ],
+    [
+     "La felicitad.",
+     "La felicidad.",
+     "-dad: felicidad."
+    ],
+    [
+     "Lentomente.",
+     "Lentamente.",
+     "vrouwelijke vorm + -mente."
+    ],
+    [
+     "Hola Señor López.",
+     "Estimado señor López:",
+     "formele aanhef + dubbele punt."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak het woord of kies de juiste formele vorm. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El contrario de posible es ______.",
+     "hint": "im- + posible",
+     "a": "imposible",
+     "full": "El contrario de posible es imposible."
+    },
+    {
+     "q": "La ______ es el período anterior a la historia.",
+     "hint": "pre- + historia",
+     "a": "prehistoria",
+     "full": "La prehistoria es el período anterior a la historia."
+    },
+    {
+     "q": "Feliz: la ______.",
+     "hint": "zelfst. nw. op -dad",
+     "a": "felicidad",
+     "full": "Feliz: la felicidad."
+    },
+    {
+     "q": "Pobre: la ______.",
+     "hint": "zelfst. nw. op -eza",
+     "a": "pobreza",
+     "full": "Pobre: la pobreza."
+    },
+    {
+     "q": "Rápido: ______.",
+     "hint": "bijwoord",
+     "a": "rápidamente",
+     "full": "Rápido: rápidamente."
+    },
+    {
+     "q": "Comunicar: la ______.",
+     "hint": "zelfst. nw. op -ción",
+     "a": "comunicación",
+     "full": "Comunicar: la comunicación."
+    },
+    {
+     "q": "Pan: la ______.",
+     "hint": "winkel, -ería",
+     "a": "panadería",
+     "full": "Pan: la panadería."
+    },
+    {
+     "q": "Formal: Le ______ que me enviara la factura.",
+     "hint": "agradecer: condicional, yo",
+     "a": "agradecería",
+     "full": "Formal: Le agradecería que me enviara la factura."
+    },
+    {
+     "q": "Le agradecería que me ______ la factura.",
+     "hint": "enviar: usted, imperfecto de subjuntivo",
+     "a": "enviara",
+     "full": "Le agradecería que me enviara la factura."
+    },
+    {
+     "q": "______ a su disposición.",
+     "hint": "quedar: yo, presente (formele afsluiting)",
+     "a": "Quedo",
+     "full": "Quedo a su disposición."
+    },
+    {
+     "q": "______ un cordial saludo.",
+     "hint": "recibir: usted, gebiedende wijs (formeel)",
+     "a": "Reciba",
+     "full": "Reciba un cordial saludo."
+    },
+    {
+     "q": "Trabajar: el ______.",
+     "hint": "zelfst. nw. op -dor (wie het doet)",
+     "a": "trabajador",
+     "full": "Trabajar: el trabajador."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (formeel):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik zou het op prijs stellen als u mij de factuur zou kunnen sturen.",
+     "a": "Le agradecería que me enviara la factura."
+    },
+    {
+     "q": "Ik schrijf u naar aanleiding van uw advertentie.",
+     "a": "Le escribo en relación con su anuncio."
+    },
+    {
+     "q": "Ik blijf tot uw beschikking.",
+     "a": "Quedo a su disposición."
+    },
+    {
+     "q": "Met vriendelijke groet (formele afsluiting).",
+     "a": "Atentamente."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

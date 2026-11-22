@@ -1,0 +1,616 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Grammatica",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Werkwoordelijke omschrijvingen",
+  "subtitle": "hulpwerkwoord + infinitief, gerundio of deelwoord: volver a, soler, llevar + gerundio, deber de, tener + deelwoord en meer",
+  "footer": "Language Learning · B2 · Grammatica · Werkwoordelijke omschrijvingen",
+  "next": "Volgende: B2 · pdf 5 — Constructies met infinitief, gerundio en deelwoord"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "omschrijvingen met een infinitief gebruiken (volver a, acabar de, dejar de, soler, ponerse a)",
+    "omschrijvingen met een gerundio gebruiken (seguir, llevar, ir, andar, venir + gerundio)",
+    "omschrijvingen met een deelwoord gebruiken (tener, llevar, dar por + deelwoord)",
+    "kiezen tussen deber, deber de, tener que en haber que"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Een <b>perífrasis</b> (werkwoordelijke omschrijving) is een vervoegd hulpwerkwoord plus een infinitief, gerundio of deelwoord. Alleen het eerste werkwoord wordt vervoegd; het tweede blijft gelijk. Voornaamwoorden kunnen vóór het hulpwerkwoord of achter de infinitief / het gerundio staan: <i>Lo voy a hacer / Voy a hacerlo.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "1. Met een infinitief"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Omschrijving",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "ir a + inf.",
+     "nabije toekomst",
+     "Voy a salir.",
+     "Ik ga uit."
+    ],
+    [
+     "acabar de + inf.",
+     "net gedaan",
+     "Acabo de llegar.",
+     "Ik ben net aangekomen."
+    ],
+    [
+     "volver a + inf.",
+     "opnieuw doen",
+     "Volvió a llamar.",
+     "Hij belde opnieuw."
+    ],
+    [
+     "soler + inf.",
+     "gewoonlijk",
+     "Suelo madrugar.",
+     "Ik sta meestal vroeg op."
+    ],
+    [
+     "empezar / comenzar a + inf.",
+     "beginnen te",
+     "Empezó a llover.",
+     "Het begon te regenen."
+    ],
+    [
+     "ponerse a + inf.",
+     "plotseling beginnen",
+     "Se puso a llorar.",
+     "Ze begon te huilen."
+    ],
+    [
+     "echarse a + inf.",
+     "uitbarsten in",
+     "Se echó a reír.",
+     "Hij barstte in lachen uit."
+    ],
+    [
+     "romper a + inf.",
+     "uitbarsten in",
+     "Rompió a llorar.",
+     "Ze barstte in tranen uit."
+    ],
+    [
+     "dejar de + inf.",
+     "stoppen met",
+     "Dejé de fumar.",
+     "Ik ben gestopt met roken."
+    ],
+    [
+     "terminar / acabar de + inf.",
+     "klaar zijn met",
+     "Terminó de cenar.",
+     "Hij was klaar met eten."
+    ],
+    [
+     "estar a punto de + inf.",
+     "op het punt staan",
+     "Está a punto de salir.",
+     "Ze staat op het punt te vertrekken."
+    ],
+    [
+     "llegar a + inf.",
+     "zover komen dat",
+     "Llegó a ser director.",
+     "Hij werd uiteindelijk directeur."
+    ],
+    [
+     "pasar a + inf.",
+     "overgaan tot",
+     "Pasó a explicar.",
+     "Hij ging verder met uitleggen."
+    ],
+    [
+     "tratar de + inf.",
+     "proberen te",
+     "Trato de dormir.",
+     "Ik probeer te slapen."
+    ],
+    [
+     "venir a + inf.",
+     "neerkomen op, ongeveer",
+     "Viene a costar 50 euros.",
+     "Het komt neer op ongeveer 50 euro."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Verplichting en waarschijnlijkheid"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    4.2,
+    3.6
+   ],
+   "head": [
+    "Omschrijving",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "tener que + inf.",
+     "sterke persoonlijke verplichting",
+     "Tengo que estudiar.",
+     "Ik moet studeren."
+    ],
+    [
+     "haber que + inf.",
+     "algemene verplichting (onpersoonlijk)",
+     "Hay que estudiar.",
+     "Je moet studeren. (Men moet studeren.)"
+    ],
+    [
+     "deber + inf.",
+     "morele plicht",
+     "Debes llamar a tu madre.",
+     "Je zou je moeder moeten bellen."
+    ],
+    [
+     "deber de + inf.",
+     "waarschijnlijkheid",
+     "Debe de estar en casa.",
+     "Hij is vast thuis."
+    ],
+    [
+     "haber de + inf.",
+     "formele verplichting",
+     "He de reconocer que...",
+     "Ik moet toegeven dat..."
+    ],
+    [
+     "poder + inf.",
+     "kunnen, mogelijkheid",
+     "Puede llover.",
+     "Het kan gaan regenen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "deber tegenover deber de",
+   "text": "<b>Debe estudiar</b> = hij moet studeren (plicht). <b>Debe de estar estudiando</b> = hij zit waarschijnlijk te studeren (gissing). In het dagelijkse Spaans gebruiken veel mensen <i>deber</i> voor allebei, maar in geschreven Spaans en op examens houd je het verschil aan. <b>Hay que</b> heeft geen onderwerp; 'hay que yo' bestaat niet."
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "2. Met een gerundio"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Omschrijving",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "estar + gerundio",
+     "aan de gang",
+     "Estoy leyendo.",
+     "Ik ben aan het lezen."
+    ],
+    [
+     "seguir + gerundio",
+     "doorgaan",
+     "Sigo trabajando.",
+     "Ik ben nog steeds aan het werk."
+    ],
+    [
+     "continuar + gerundio",
+     "doorgaan",
+     "Continúa lloviendo.",
+     "Het blijft regenen."
+    ],
+    [
+     "llevar + tijd + gerundio",
+     "hoe lang al",
+     "Llevo dos años estudiando.",
+     "Ik studeer al twee jaar."
+    ],
+    [
+     "ir + gerundio",
+     "geleidelijke vooruitgang",
+     "Voy mejorando.",
+     "Het gaat steeds beter met me."
+    ],
+    [
+     "andar + gerundio",
+     "rondlopen met, bezig zijn met",
+     "Anda buscando trabajo.",
+     "Hij is op zoek naar werk."
+    ],
+    [
+     "venir + gerundio",
+     "al een tijd doen",
+     "Vengo diciéndolo hace años.",
+     "Ik zeg het al jaren."
+    ],
+    [
+     "acabar + gerundio",
+     "uiteindelijk doen",
+     "Acabó vendiendo la casa.",
+     "Hij verkocht uiteindelijk het huis."
+    ],
+    [
+     "quedarse + gerundio",
+     "blijven doen",
+     "Se quedó mirando.",
+     "Hij bleef staan kijken."
+    ],
+    [
+     "pasarse + tijd + gerundio",
+     "tijd besteden aan",
+     "Se pasó la tarde leyendo.",
+     "Hij bracht de middag lezend door."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Seguir sin + infinitief</b> (nog steeds niet): <i>Sigo sin entenderlo.</i> (Ik begrijp het nog steeds niet.)",
+    "<b>Llevar sin + infinitief</b> (al een tijd niet): <i>Llevo dos días sin dormir.</i> (Ik heb al twee dagen niet geslapen.)",
+    "<b>No dejar de + infinitief</b> (blijven doen): <i>No deja de llover.</i> (Het blijft maar regenen.)"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Llevo dos años estudiando",
+   "text": "Het Nederlands zegt <i>ik studeer al twee jaar</i> (tegenwoordige tijd) of <i>ik ben al twee jaar aan het studeren</i>. Het Spaans heeft hiervoor een eigen structuur: <b>llevar + tijd + gerundio</b>. <i>Estudio desde hace dos años</i> is ook goed (zie de pdf's van B1)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Met een deelwoord"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.2,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Omschrijving",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "tener + deelwoord",
+     "het resultaat hebben",
+     "Tengo escritas tres cartas.",
+     "Ik heb drie brieven geschreven (klaarliggen)."
+    ],
+    [
+     "llevar + deelwoord",
+     "tot nu toe gedaan hebben",
+     "Llevo leídas cien páginas.",
+     "Ik heb tot nu toe honderd bladzijden gelezen."
+    ],
+    [
+     "dejar + deelwoord",
+     "in een toestand achterlaten",
+     "Dejó la puerta abierta.",
+     "Hij liet de deur open."
+    ],
+    [
+     "dar por + deelwoord",
+     "beschouwen als",
+     "Lo dieron por perdido.",
+     "Ze gaven het op als verloren."
+    ],
+    [
+     "estar + deelwoord",
+     "toestand",
+     "Está cansado.",
+     "Hij is moe."
+    ],
+    [
+     "ir + deelwoord",
+     "in een toestand (houding, kleding)",
+     "Va vestido de negro.",
+     "Hij is in het zwart gekleed."
+    ],
+    [
+     "quedar + deelwoord",
+     "in een toestand terechtkomen",
+     "Quedó sorprendido.",
+     "Hij stond versteld."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Bij <b>tener / llevar / dejar + deelwoord</b> <b>past</b> het deelwoord zich aan het lijdend voorwerp aan: <i>Tengo escritas tres cartas. Dejó cerradas las ventanas.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Andere handige structuren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "quedar en + inf.",
+     "Quedamos en vernos a las ocho.",
+     "We spraken af om elkaar om acht uur te zien."
+    ],
+    [
+     "acordarse de + inf.",
+     "Me acordé de llamarte.",
+     "Ik dacht eraan je te bellen."
+    ],
+    [
+     "limitarse a + inf.",
+     "Se limitó a escuchar.",
+     "Hij luisterde alleen maar."
+    ],
+    [
+     "tardar en + inf.",
+     "Tardó en responder.",
+     "Het duurde even voor hij antwoordde."
+    ],
+    [
+     "insistir en + inf.",
+     "Insiste en pagar.",
+     "Hij staat erop te betalen."
+    ],
+    [
+     "no tener más remedio que + inf.",
+     "No tengo más remedio que irme.",
+     "Ik heb geen andere keus dan te gaan."
+    ],
+    [
+     "no poder menos de + inf.",
+     "No pude menos de reír.",
+     "Ik moest wel lachen."
+    ],
+    [
+     "hacer + inf. (laten doen)",
+     "Me hizo reír.",
+     "Hij liet me lachen."
+    ],
+    [
+     "dejar + inf. (toestemming)",
+     "Me dejó entrar.",
+     "Hij liet me binnen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Estudio dos años.",
+     "Llevo dos años estudiando.",
+     "Duur: llevar + gerundio."
+    ],
+    [
+     "Acabo llegar.",
+     "Acabo de llegar.",
+     "acabar de + infinitief."
+    ],
+    [
+     "Vuelvo llamar.",
+     "Vuelvo a llamar.",
+     "volver a + infinitief."
+    ],
+    [
+     "Debe estar en casa (probability).",
+     "Debe de estar en casa.",
+     "Waarschijnlijkheid: deber de."
+    ],
+    [
+     "Hay que yo estudiar.",
+     "Tengo que estudiar.",
+     "hay que is onpersoonlijk."
+    ],
+    [
+     "Sigo no entendiendo.",
+     "Sigo sin entenderlo.",
+     "seguir sin + infinitief."
+    ],
+    [
+     "Tengo escrito tres cartas.",
+     "Tengo escritas tres cartas.",
+     "Het deelwoord past bij het lijdend voorwerp."
+    ],
+    [
+     "Dejé fumando.",
+     "Dejé de fumar.",
+     "dejar de + infinitief."
+    ],
+    [
+     "Estoy yendo a salir.",
+     "Voy a salir.",
+     "ir a wordt niet in de duurvorm gebruikt."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de ontbrekende woorden in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Acabo ______ llegar.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Acabo de llegar."
+    },
+    {
+     "q": "Ayer ______ a llamar.",
+     "hint": "volver: él, indefinido",
+     "a": "volvió",
+     "full": "Ayer volvió a llamar."
+    },
+    {
+     "q": "______ madrugar.",
+     "hint": "soler: yo, presente",
+     "a": "Suelo",
+     "full": "Suelo madrugar."
+    },
+    {
+     "q": "______ dos años estudiando español.",
+     "hint": "llevar: yo, presente",
+     "a": "Llevo",
+     "full": "Llevo dos años estudiando español."
+    },
+    {
+     "q": "Ella ______ de estar en casa.",
+     "hint": "deber: waarschijnlijkheid",
+     "a": "debe",
+     "full": "Ella debe de estar en casa."
+    },
+    {
+     "q": "______ que estudiar para aprobar.",
+     "hint": "onpersoonlijke verplichting: haber",
+     "a": "Hay",
+     "full": "Hay que estudiar para aprobar."
+    },
+    {
+     "q": "Sigo ______ entenderlo.",
+     "hint": "niet + inf.",
+     "a": "sin",
+     "full": "Sigo sin entenderlo."
+    },
+    {
+     "q": "Se ______ a llorar.",
+     "hint": "ponerse: ella, indefinido",
+     "a": "puso",
+     "full": "Se puso a llorar."
+    },
+    {
+     "q": "Tengo ______ tres cartas.",
+     "hint": "escribir: deelwoord (past zich aan)",
+     "a": "escritas",
+     "full": "Tengo escritas tres cartas."
+    },
+    {
+     "q": "Dejó la puerta ______.",
+     "hint": "abrir: deelwoord",
+     "a": "abierta",
+     "full": "Dejó la puerta abierta."
+    },
+    {
+     "q": "Acabó ______ la casa.",
+     "hint": "vender: gerundio",
+     "a": "vendiendo",
+     "full": "Acabó vendiendo la casa."
+    },
+    {
+     "q": "Quedamos ______ vernos a las ocho.",
+     "hint": "voorzetsel",
+     "a": "en",
+     "full": "Quedamos en vernos a las ocho."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik studeer al twee jaar Spaans.",
+     "a": "Llevo dos años estudiando español."
+    },
+    {
+     "q": "Hij begon te huilen.",
+     "a": "Se puso a llorar."
+    },
+    {
+     "q": "Ze is vast thuis.",
+     "a": "Debe de estar en casa."
+    },
+    {
+     "q": "Ik begrijp het nog steeds niet.",
+     "a": "Sigo sin entenderlo."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
