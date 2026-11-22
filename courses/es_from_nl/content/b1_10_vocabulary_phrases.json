@@ -1,0 +1,1280 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Woordenschat",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Werk, onderwijs, milieu, samenleving, media, gevoelens, meningen, uitdrukkingen en valse vrienden",
+  "footer": "Language Learning · B1 · Woordenschat en vaste uitdrukkingen",
+  "next": "Volgende: B2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zo gebruik je deze lijsten",
+   "bullets": [
+    "Zelfstandige naamwoorden staan met hun <b>lidwoord</b> (el / la). Leer ze samen: el medio ambiente, la ley.",
+    "Dek één kolom af en overhoor jezelf in beide richtingen. Schrijf daarna zinnen met de grammatica van B1: subjuntivo, condicional, lijdende vorm en verbindingswoorden.",
+    "Alle woorden zijn Spaans uit Spanje. Haakjes na een werkwoord geven een stamverandering aan: <i>pedir (i)</i> geeft <i>pido</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Werk en loopbaan"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werk",
+   "items": [
+    [
+     "el trabajo",
+     "werk, baan"
+    ],
+    [
+     "el empleo",
+     "werkgelegenheid, baan"
+    ],
+    [
+     "el empleado / la empleada",
+     "werknemer"
+    ],
+    [
+     "el jefe / la jefa",
+     "baas"
+    ],
+    [
+     "el compañero de trabajo",
+     "collega"
+    ],
+    [
+     "la empresa",
+     "bedrijf"
+    ],
+    [
+     "la oficina",
+     "kantoor"
+    ],
+    [
+     "la reunión",
+     "vergadering"
+    ],
+    [
+     "el sueldo",
+     "salaris"
+    ],
+    [
+     "el contrato",
+     "contract"
+    ],
+    [
+     "el currículum",
+     "cv"
+    ],
+    [
+     "la entrevista de trabajo",
+     "sollicitatiegesprek"
+    ],
+    [
+     "el horario",
+     "werktijden"
+    ],
+    [
+     "la jornada completa",
+     "voltijd"
+    ],
+    [
+     "la jornada parcial",
+     "deeltijd"
+    ],
+    [
+     "el paro",
+     "werkloosheid"
+    ],
+    [
+     "el autónomo",
+     "zzp'er, zelfstandige"
+    ],
+    [
+     "las prácticas",
+     "stage"
+    ],
+    [
+     "la experiencia",
+     "ervaring"
+    ],
+    [
+     "el puesto",
+     "functie, positie"
+    ],
+    [
+     "la huelga",
+     "staking"
+    ],
+    [
+     "la jubilación",
+     "pensioen"
+    ],
+    [
+     "las vacaciones",
+     "vakantiedagen"
+    ],
+    [
+     "la baja",
+     "ziekteverlof"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor werk",
+   "items": [
+    [
+     "trabajar",
+     "werken"
+    ],
+    [
+     "contratar",
+     "aannemen (personeel)"
+    ],
+    [
+     "despedir (i)",
+     "ontslaan"
+    ],
+    [
+     "dimitir",
+     "ontslag nemen"
+    ],
+    [
+     "solicitar",
+     "solliciteren naar"
+    ],
+    [
+     "ganar",
+     "verdienen"
+    ],
+    [
+     "cobrar",
+     "betaald krijgen"
+    ],
+    [
+     "jubilarse",
+     "met pensioen gaan"
+    ],
+    [
+     "ascender (ie)",
+     "promotie maken"
+    ],
+    [
+     "dirigir",
+     "leidinggeven, leiden"
+    ],
+    [
+     "colaborar",
+     "samenwerken"
+    ],
+    [
+     "entregar",
+     "inleveren"
+    ],
+    [
+     "cumplir un plazo",
+     "een deadline halen"
+    ],
+    [
+     "quedarse en paro",
+     "werkloos worden"
+    ],
+    [
+     "trabajar a distancia",
+     "thuiswerken, op afstand werken"
+    ],
+    [
+     "hacer horas extra",
+     "overwerken"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Onderwijs en studie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Onderwijs",
+   "items": [
+    [
+     "la universidad",
+     "universiteit"
+    ],
+    [
+     "la facultad",
+     "faculteit"
+    ],
+    [
+     "la carrera",
+     "studie, opleiding"
+    ],
+    [
+     "el grado",
+     "bachelor"
+    ],
+    [
+     "el máster",
+     "master"
+    ],
+    [
+     "la asignatura",
+     "vak"
+    ],
+    [
+     "el profesor / la profesora",
+     "leraar, docent"
+    ],
+    [
+     "el estudiante",
+     "student"
+    ],
+    [
+     "el examen",
+     "examen"
+    ],
+    [
+     "la nota",
+     "cijfer"
+    ],
+    [
+     "el trabajo de fin de grado",
+     "bachelorscriptie"
+    ],
+    [
+     "la beca",
+     "beurs"
+    ],
+    [
+     "la matrícula",
+     "inschrijving, collegegeld"
+    ],
+    [
+     "el curso",
+     "cursus, studiejaar"
+    ],
+    [
+     "la clase",
+     "les"
+    ],
+    [
+     "los apuntes",
+     "aantekeningen"
+    ],
+    [
+     "la biblioteca",
+     "bibliotheek"
+    ],
+    [
+     "el título",
+     "diploma"
+    ],
+    [
+     "el aula",
+     "klaslokaal"
+    ],
+    [
+     "la conferencia",
+     "hoorcollege"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor studie",
+   "items": [
+    [
+     "estudiar",
+     "studeren"
+    ],
+    [
+     "aprobar (ue)",
+     "slagen, halen"
+    ],
+    [
+     "suspender",
+     "zakken"
+    ],
+    [
+     "matricularse",
+     "zich inschrijven"
+    ],
+    [
+     "graduarse",
+     "afstuderen"
+    ],
+    [
+     "repasar",
+     "herhalen, leren voor een toets"
+    ],
+    [
+     "entender (ie)",
+     "begrijpen"
+    ],
+    [
+     "aprender",
+     "leren"
+    ],
+    [
+     "explicar",
+     "uitleggen"
+    ],
+    [
+     "presentar",
+     "presenteren"
+    ],
+    [
+     "investigar",
+     "onderzoeken"
+    ],
+    [
+     "resumir",
+     "samenvatten"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Milieu en natuur"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Milieu",
+   "items": [
+    [
+     "el medio ambiente",
+     "milieu"
+    ],
+    [
+     "el cambio climático",
+     "klimaatverandering"
+    ],
+    [
+     "el calentamiento global",
+     "opwarming van de aarde"
+    ],
+    [
+     "la contaminación",
+     "vervuiling"
+    ],
+    [
+     "el reciclaje",
+     "recycling"
+    ],
+    [
+     "la basura",
+     "afval, vuilnis"
+    ],
+    [
+     "la energía renovable",
+     "duurzame energie"
+    ],
+    [
+     "la energía solar",
+     "zonne-energie"
+    ],
+    [
+     "el petróleo",
+     "aardolie"
+    ],
+    [
+     "el bosque",
+     "bos"
+    ],
+    [
+     "el río",
+     "rivier"
+    ],
+    [
+     "el mar",
+     "zee"
+    ],
+    [
+     "la sequía",
+     "droogte"
+    ],
+    [
+     "la inundación",
+     "overstroming"
+    ],
+    [
+     "el incendio",
+     "brand"
+    ],
+    [
+     "el terremoto",
+     "aardbeving"
+    ],
+    [
+     "la especie",
+     "soort (dier, plant)"
+    ],
+    [
+     "el recurso",
+     "grondstof, hulpbron"
+    ],
+    [
+     "los residuos",
+     "afval (restafval)"
+    ],
+    [
+     "el aire",
+     "lucht"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor het milieu",
+   "items": [
+    [
+     "contaminar",
+     "vervuilen"
+    ],
+    [
+     "reciclar",
+     "recyclen"
+    ],
+    [
+     "proteger",
+     "beschermen"
+    ],
+    [
+     "ahorrar",
+     "besparen"
+    ],
+    [
+     "desperdiciar",
+     "verspillen"
+    ],
+    [
+     "cuidar",
+     "zorgen voor"
+    ],
+    [
+     "reducir",
+     "verminderen"
+    ],
+    [
+     "destruir",
+     "vernietigen"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Samenleving, politiek en media"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Samenleving",
+   "items": [
+    [
+     "la sociedad",
+     "samenleving"
+    ],
+    [
+     "el gobierno",
+     "regering"
+    ],
+    [
+     "el presidente",
+     "president"
+    ],
+    [
+     "las elecciones",
+     "verkiezingen"
+    ],
+    [
+     "el voto",
+     "stem"
+    ],
+    [
+     "el partido",
+     "politieke partij"
+    ],
+    [
+     "la ley",
+     "wet"
+    ],
+    [
+     "el derecho",
+     "recht, rechten (vak)"
+    ],
+    [
+     "la libertad",
+     "vrijheid"
+    ],
+    [
+     "la igualdad",
+     "gelijkheid"
+    ],
+    [
+     "el impuesto",
+     "belasting"
+    ],
+    [
+     "el ciudadano",
+     "burger"
+    ],
+    [
+     "la inmigración",
+     "immigratie"
+    ],
+    [
+     "la pobreza",
+     "armoede"
+    ],
+    [
+     "la desigualdad",
+     "ongelijkheid"
+    ],
+    [
+     "el ayuntamiento",
+     "gemeentehuis"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Media",
+   "items": [
+    [
+     "las noticias",
+     "nieuws, nieuwsbericht"
+    ],
+    [
+     "el periódico",
+     "krant"
+    ],
+    [
+     "la revista",
+     "tijdschrift"
+    ],
+    [
+     "el periodista",
+     "journalist"
+    ],
+    [
+     "el artículo",
+     "artikel"
+    ],
+    [
+     "el titular",
+     "kop (krant)"
+    ],
+    [
+     "la entrevista",
+     "interview"
+    ],
+    [
+     "la prensa",
+     "de pers"
+    ],
+    [
+     "la red social",
+     "sociaal netwerk"
+    ],
+    [
+     "la publicidad",
+     "reclame"
+    ],
+    [
+     "el anuncio",
+     "advertentie"
+    ],
+    [
+     "el canal",
+     "zender, kanaal"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Gevoelens, karakter en relaties"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Gevoelens",
+   "items": [
+    [
+     "la alegría",
+     "vreugde"
+    ],
+    [
+     "la tristeza",
+     "verdriet"
+    ],
+    [
+     "el miedo",
+     "angst"
+    ],
+    [
+     "la rabia",
+     "woede"
+    ],
+    [
+     "el enfado",
+     "ergernis"
+    ],
+    [
+     "los celos",
+     "jaloezie"
+    ],
+    [
+     "la vergüenza",
+     "schaamte, gêne"
+    ],
+    [
+     "el orgullo",
+     "trots"
+    ],
+    [
+     "la esperanza",
+     "hoop"
+    ],
+    [
+     "la preocupación",
+     "zorg"
+    ],
+    [
+     "el estrés",
+     "stress"
+    ],
+    [
+     "la confianza",
+     "vertrouwen"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Karakter",
+   "items": [
+    [
+     "amable",
+     "aardig, vriendelijk"
+    ],
+    [
+     "generoso",
+     "vrijgevig"
+    ],
+    [
+     "tímido",
+     "verlegen"
+    ],
+    [
+     "simpático",
+     "aardig, sympathiek"
+    ],
+    [
+     "testarudo",
+     "koppig"
+    ],
+    [
+     "perezoso",
+     "lui"
+    ],
+    [
+     "trabajador",
+     "hardwerkend"
+    ],
+    [
+     "sincero",
+     "oprecht"
+    ],
+    [
+     "egoísta",
+     "egoïstisch"
+    ],
+    [
+     "paciente",
+     "geduldig"
+    ],
+    [
+     "nervioso",
+     "zenuwachtig"
+    ],
+    [
+     "responsable",
+     "verantwoordelijk"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Relaties",
+   "items": [
+    [
+     "el amigo íntimo",
+     "goede vriend"
+    ],
+    [
+     "la pareja",
+     "partner, stel"
+    ],
+    [
+     "el novio / la novia",
+     "vriend / vriendin (relatie)"
+    ],
+    [
+     "el matrimonio",
+     "huwelijk, getrouwd stel"
+    ],
+    [
+     "la boda",
+     "bruiloft"
+    ],
+    [
+     "el divorcio",
+     "scheiding"
+    ],
+    [
+     "los suegros",
+     "schoonouders"
+    ],
+    [
+     "el cuñado / la cuñada",
+     "zwager / schoonzus"
+    ],
+    [
+     "quedar con",
+     "afspreken met"
+    ],
+    [
+     "llevarse bien con",
+     "goed overweg kunnen met"
+    ],
+    [
+     "discutir",
+     "ruzie maken, discussiëren"
+    ],
+    [
+     "pelearse",
+     "vechten"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Werkwoorden voor meningen en handige abstracte woorden"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Meningen",
+   "items": [
+    [
+     "opinar",
+     "vinden, een mening geven"
+    ],
+    [
+     "creer",
+     "geloven, denken"
+    ],
+    [
+     "pensar (ie)",
+     "denken"
+    ],
+    [
+     "suponer",
+     "veronderstellen"
+    ],
+    [
+     "dudar",
+     "betwijfelen"
+    ],
+    [
+     "estar convencido de",
+     "overtuigd zijn van"
+    ],
+    [
+     "tener razón",
+     "gelijk hebben"
+    ],
+    [
+     "estar equivocado",
+     "zich vergissen, ongelijk hebben"
+    ],
+    [
+     "aceptar",
+     "accepteren"
+    ],
+    [
+     "rechazar",
+     "afwijzen"
+    ],
+    [
+     "defender (ie)",
+     "verdedigen"
+    ],
+    [
+     "criticar",
+     "bekritiseren"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Abstracte woorden",
+   "items": [
+    [
+     "la ventaja",
+     "voordeel"
+    ],
+    [
+     "la desventaja",
+     "nadeel"
+    ],
+    [
+     "el problema",
+     "probleem"
+    ],
+    [
+     "la solución",
+     "oplossing"
+    ],
+    [
+     "la razón",
+     "reden"
+    ],
+    [
+     "el motivo",
+     "motief, reden"
+    ],
+    [
+     "el resultado",
+     "resultaat"
+    ],
+    [
+     "la consecuencia",
+     "gevolg"
+    ],
+    [
+     "el objetivo",
+     "doel"
+    ],
+    [
+     "el esfuerzo",
+     "inspanning, moeite"
+    ],
+    [
+     "el riesgo",
+     "risico"
+    ],
+    [
+     "la oportunidad",
+     "kans, gelegenheid"
+    ],
+    [
+     "el cambio",
+     "verandering"
+    ],
+    [
+     "la diferencia",
+     "verschil"
+    ],
+    [
+     "el recuerdo",
+     "herinnering, souvenir"
+    ],
+    [
+     "el peligro",
+     "gevaar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Vaste uitdrukkingen en idiomen"
+  },
+  {
+   "type": "h2",
+   "text": "Handige uitdrukkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "llover a cántaros",
+     "regenen dat het giet"
+    ],
+    [
+     "estar en las nubes",
+     "met je hoofd in de wolken zitten"
+    ],
+    [
+     "ser pan comido",
+     "een eitje zijn"
+    ],
+    [
+     "costar un ojo de la cara",
+     "een rib uit je lijf kosten"
+    ],
+    [
+     "tomar el pelo a alguien",
+     "iemand in de maling nemen"
+    ],
+    [
+     "meter la pata",
+     "een blunder begaan"
+    ],
+    [
+     "no tener ni idea",
+     "geen idee hebben"
+    ],
+    [
+     "estar hecho polvo",
+     "doodmoe zijn, kapot zijn"
+    ],
+    [
+     "dar igual",
+     "niet uitmaken"
+    ],
+    [
+     "echar de menos",
+     "missen"
+    ],
+    [
+     "tener ganas de + inf.",
+     "zin hebben om"
+    ],
+    [
+     "darse cuenta de",
+     "beseffen, merken"
+    ],
+    [
+     "hacer caso a",
+     "luisteren naar, gehoorzamen"
+    ],
+    [
+     "tener en cuenta",
+     "rekening houden met"
+    ],
+    [
+     "valer la pena",
+     "de moeite waard zijn"
+    ],
+    [
+     "llevar a cabo",
+     "uitvoeren"
+    ],
+    [
+     "a lo mejor + indicativo",
+     "misschien"
+    ],
+    [
+     "de repente",
+     "plotseling"
+    ],
+    [
+     "por lo menos",
+     "minstens, in elk geval"
+    ],
+    [
+     "sin duda",
+     "zonder twijfel"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Valse vrienden (Engels en Nederlands)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.4,
+    6.4
+   ],
+   "head": [
+    "Spaans",
+    "Lijkt op, maar is NIET",
+    "Betekent echt"
+   ],
+   "rows": [
+    [
+     "actual",
+     "Engels actual (echt, werkelijk)",
+     "huidig, tegenwoordig"
+    ],
+    [
+     "actualmente",
+     "Engels actually (eigenlijk)",
+     "op dit moment, tegenwoordig"
+    ],
+    [
+     "embarazada",
+     "Engels embarrassed (in verlegenheid)",
+     "zwanger"
+    ],
+    [
+     "éxito",
+     "Engels exit (uitgang)",
+     "succes"
+    ],
+    [
+     "la carpeta",
+     "karpet, tapijt",
+     "map"
+    ],
+    [
+     "la librería",
+     "bibliotheek",
+     "boekhandel"
+    ],
+    [
+     "realizar",
+     "Engels to realize (beseffen)",
+     "uitvoeren, verwezenlijken"
+    ],
+    [
+     "soportar",
+     "Engels to support (steunen)",
+     "verdragen, uitstaan"
+    ],
+    [
+     "asistir a",
+     "assisteren, helpen",
+     "bijwonen, aanwezig zijn bij"
+    ],
+    [
+     "la lectura",
+     "lezing, college",
+     "het lezen, leesstof"
+    ],
+    [
+     "sensible",
+     "Engels sensible (verstandig)",
+     "gevoelig"
+    ],
+    [
+     "constipado",
+     "geconstipeerd, verstopt",
+     "verkouden"
+    ],
+    [
+     "en realidad",
+     "alleen 'in werkelijkheid'",
+     "eigenlijk, sterker nog"
+    ],
+    [
+     "largo",
+     "groot (Engels large)",
+     "lang"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "9. Spanje of Latijns-Amerika?"
+  },
+  {
+   "type": "table",
+   "latam_ok": true,
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Spanje",
+    "Latijns-Amerika",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "el ordenador",
+     "la computadora",
+     "computer"
+    ],
+    [
+     "el móvil",
+     "el celular",
+     "mobiele telefoon"
+    ],
+    [
+     "el coche",
+     "el carro / el auto",
+     "auto"
+    ],
+    [
+     "conducir",
+     "manejar",
+     "autorijden"
+    ],
+    [
+     "el zumo",
+     "el jugo",
+     "sap"
+    ],
+    [
+     "el piso",
+     "el apartamento",
+     "appartement"
+    ],
+    [
+     "la patata",
+     "la papa",
+     "aardappel"
+    ],
+    [
+     "el autobús",
+     "el camión / la guagua",
+     "bus"
+    ],
+    [
+     "coger el tren",
+     "tomar el tren",
+     "de trein nemen"
+    ],
+    [
+     "vale",
+     "okay / dale",
+     "oké"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "10. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El ______ de mi trabajo es de 2000 euros al mes.",
+     "hint": "salaris",
+     "a": "sueldo",
+     "full": "El sueldo de mi trabajo es de 2000 euros al mes."
+    },
+    {
+     "q": "Mañana tengo un ______ de matemáticas.",
+     "hint": "examen",
+     "a": "examen",
+     "full": "Mañana tengo un examen de matemáticas."
+    },
+    {
+     "q": "Hay que ______ el plástico para cuidar el medio ambiente.",
+     "hint": "recyclen",
+     "a": "reciclar",
+     "full": "Hay que reciclar el plástico para cuidar el medio ambiente."
+    },
+    {
+     "q": "Mi jefe me ______ ayer: ya no tengo trabajo.",
+     "hint": "ontslaan (indefinido)",
+     "a": "despidió",
+     "full": "Mi jefe me despidió ayer: ya no tengo trabajo."
+    },
+    {
+     "q": "Estoy ______ polvo después del examen.",
+     "hint": "doodmoe",
+     "a": "hecho",
+     "full": "Estoy hecho polvo después del examen."
+    },
+    {
+     "q": "Esta película ______ la pena.",
+     "hint": "de moeite waard zijn",
+     "a": "vale",
+     "full": "Esta película vale la pena."
+    },
+    {
+     "q": "Ella está ______ y espera un bebé.",
+     "hint": "zwanger (niet in verlegenheid!)",
+     "a": "embarazada",
+     "full": "Ella está embarazada y espera un bebé."
+    },
+    {
+     "q": "Hoy ______ a cántaros.",
+     "hint": "regenen (3e persoon)",
+     "a": "llueve",
+     "full": "Hoy llueve a cántaros."
+    },
+    {
+     "q": "Mi hermano es muy ______: nunca cambia de opinión.",
+     "hint": "koppig",
+     "a": "testarudo",
+     "full": "Mi hermano es muy testarudo: nunca cambia de opinión."
+    },
+    {
+     "q": "Los jóvenes votaron en las ______.",
+     "hint": "verkiezingen",
+     "a": "elecciones",
+     "full": "Los jóvenes votaron en las elecciones."
+    },
+    {
+     "q": "Tengo que ______ el currículum antes del viernes.",
+     "hint": "inleveren",
+     "a": "entregar",
+     "full": "Tengo que entregar el currículum antes del viernes."
+    },
+    {
+     "q": "Estudio la ______ de ingeniería industrial.",
+     "hint": "studie, opleiding",
+     "a": "carrera",
+     "full": "Estudio la carrera de ingeniería industrial."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik mis mijn vrienden.",
+     "a": "Echo de menos a mis amigos."
+    },
+    {
+     "q": "Het maakt niet uit.",
+     "a": "Da igual."
+    },
+    {
+     "q": "Ze zoekt op dit moment werk.",
+     "a": "Actualmente busca trabajo."
+    },
+    {
+     "q": "Het is de moeite waard.",
+     "a": "Vale la pena."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

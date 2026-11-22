@@ -1,0 +1,503 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Betrekkelijke bijzinnen",
+  "subtitle": "que, quien, el que, lo que, donde, cuyo, en de indicativo of subjuntivo in betrekkelijke bijzinnen",
+  "footer": "Language Learning · B1 · Grammatica · Betrekkelijke bijzinnen",
+  "next": "Volgende: B1 · pdf 6 — De lijdende vorm en constructies met se"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "zinnen verbinden met que, quien, el que, lo que, donde en cuyo",
+    "het juiste betrekkelijk voornaamwoord kiezen na een voorzetsel (en la que, con quien)",
+    "de indicativo of de subjuntivo gebruiken in betrekkelijke bijzinnen (busco un piso que tiene / tenga)",
+    "de meest voorkomende fouten van Nederlandstaligen met betrekkelijke bijzinnen vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Que: het betrekkelijk voornaamwoord voor alles"
+  },
+  {
+   "type": "p",
+   "text": "Een betrekkelijke bijzin geeft extra informatie over een zelfstandig naamwoord. <b>Que</b> is het meest gebruikte betrekkelijk voornaamwoord: het werkt voor mensen en dingen, als onderwerp en als lijdend voorwerp, in het enkelvoud en het meervoud. Het verandert nooit en wordt <b>nooit weggelaten</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    6.4,
+    4.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "El libro que leí es muy bueno.",
+     "Het boek dat ik las is heel goed.",
+     "lijdend voorwerp, ding"
+    ],
+    [
+     "La chica que vive aquí es mi prima.",
+     "Het meisje dat hier woont is mijn nicht.",
+     "onderwerp, persoon"
+    ],
+    [
+     "Los amigos que invité no vinieron.",
+     "De vrienden die ik uitnodigde zijn niet gekomen.",
+     "lijdend voorwerp, mensen"
+    ],
+    [
+     "Es la película que más me gusta.",
+     "Het is de film die ik het leukst vind.",
+     "que mag niet weg"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "die, dat, wat",
+   "text": "Het Nederlands kiest tussen <i>die</i> en <i>dat</i> afhankelijk van het woord, en gebruikt <i>wat</i> voor algemene dingen. Het Spaans is eenvoudiger: <b>que</b> na een zelfstandig naamwoord (<i>het boek dat</i> = el libro que, <i>de man die</i> = el hombre que) en <b>lo que</b> voor 'wat' (<i>wat je zegt</i> = lo que dices)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Na een voorzetsel"
+  },
+  {
+   "type": "p",
+   "text": "Na <b>a, con, de, en, por, para, sin ...</b> gebruik je <b>el que, la que, los que, las que</b> (het lidwoord past bij het zelfstandig naamwoord) of <b>quien / quienes</b> voor mensen."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.4,
+    4.6
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Patroon"
+   ],
+   "rows": [
+    [
+     "La casa en la que vivo es pequeña.",
+     "Het huis waarin ik woon is klein.",
+     "en + la que"
+    ],
+    [
+     "El restaurante al que fuimos era caro.",
+     "Het restaurant waar we naartoe gingen was duur.",
+     "a + el que = al que"
+    ],
+    [
+     "Las razones por las que no vino son claras.",
+     "De redenen waarom hij niet kwam zijn duidelijk.",
+     "por + las que"
+    ],
+    [
+     "La chica con quien hablé es de Chile.",
+     "Het meisje met wie ik praatte komt uit Chili.",
+     "con + quien (mensen)"
+    ],
+    [
+     "Los amigos con los que viajo son holandeses.",
+     "De vrienden met wie ik reis zijn Nederlands.",
+     "con + los que"
+    ],
+    [
+     "Es un tema del que sé poco.",
+     "Het is een onderwerp waar ik weinig van weet.",
+     "de + el que = del que"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Quien / quienes</b> verwijst alleen naar mensen en past zich alleen aan in getal: <i>la persona con quien, las personas con quienes</i>. In het dagelijkse Spaans in Spanje is <b>con la que</b> net zo gewoon.",
+    "<b>Quien</b> betekent ook 'wie' of 'degene die': <i>Quien quiera venir, que me llame.</i> (Wie wil komen, moet me maar bellen.)",
+    "<b>Donde</b> vervangt <i>en el que</i> bij plaatsen: <i>La ciudad donde nací</i> = <i>la ciudad en la que nací</i>.",
+    "<b>El cual / la cual</b> is een formeel alternatief (schrijftaal): <i>la razón por la cual ...</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Lo que en lo cual"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    6.4,
+    4.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Gebruik"
+   ],
+   "rows": [
+    [
+     "No entiendo lo que dices.",
+     "Ik begrijp niet wat je zegt.",
+     "wat = datgene wat"
+    ],
+    [
+     "Todo lo que dijo es verdad.",
+     "Alles wat hij zei is waar.",
+     "todo lo que"
+    ],
+    [
+     "Lo que más me gusta es viajar.",
+     "Wat ik het leukst vind is reizen.",
+     "onderwerp van de zin"
+    ],
+    [
+     "Llegó tarde, lo que me molestó.",
+     "Hij kwam te laat, wat me stoorde.",
+     "verwijst naar een hele gedachte"
+    ],
+    [
+     "No sé lo que quiero.",
+     "Ik weet niet wat ik wil.",
+     "indirecte vraag"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "que tegenover lo que",
+   "text": "<b>Que</b> heeft een zelfstandig naamwoord ervoor nodig (<i>el libro que</i>). Staat er geen zelfstandig naamwoord, of bedoel je 'wat', gebruik dan <b>lo que</b>: <i>No sé lo que dices</i>, nooit <i>No sé que dices</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Donde, cuando, como en cuyo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.4,
+    5.0
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Opmerkingen"
+   ],
+   "rows": [
+    [
+     "La ciudad donde nací es preciosa.",
+     "De stad waar ik geboren ben is prachtig.",
+     "plaats"
+    ],
+    [
+     "El día en que nos conocimos fue sábado.",
+     "De dag waarop we elkaar leerden kennen was een zaterdag.",
+     "tijd: en que"
+    ],
+    [
+     "La forma en que habla me encanta.",
+     "Ik vind de manier waarop hij praat geweldig.",
+     "manier: en que"
+    ],
+    [
+     "El hombre cuya hija es médica vive aquí.",
+     "De man wiens dochter arts is woont hier.",
+     "cuyo = wiens, wier"
+    ],
+    [
+     "La mujer cuyos hijos estudian fuera es mi vecina.",
+     "De vrouw van wie de kinderen elders studeren is mijn buurvrouw.",
+     "past bij het zelfstandig naamwoord erna"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cuyo past bij wat iemand bezit",
+   "text": "<b>cuyo, cuya, cuyos, cuyas</b> past bij het zelfstandig naamwoord dat erop <b>volgt</b>, niet bij de bezitter: <i>el hombre cuya hija</i> (hija is vrouwelijk). Het is gewoon in geschreven taal en minder gewoon in spreektaal, waar je soms <i>que su</i> hoort (vermijd dat in verzorgd Spaans)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Indicativo of subjuntivo?"
+  },
+  {
+   "type": "p",
+   "text": "Gebruik in een betrekkelijke bijzin de <b>indicativo</b> als het zelfstandig naamwoord <b>bepaald is en bestaat</b>, en de <b>subjuntivo</b> als het <b>onbekend of denkbeeldig is of niet bestaat</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Indicativo (bepaald)",
+    "Subjuntivo (onbekend of bestaat niet)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Busco un piso que tiene balcón.",
+     "Busco un piso que tenga balcón.",
+     "Ik zoek het appartement dat een balkon heeft. / Ik zoek een appartement met een balkon (maakt niet uit welk)."
+    ],
+    [
+     "Tengo un amigo que habla chino.",
+     "¿Tienes algún amigo que hable chino?",
+     "Ik heb een vriend die Chinees spreekt. / Heb je een vriend die Chinees spreekt?"
+    ],
+    [
+     "Hay alguien que sabe la respuesta.",
+     "No hay nadie que sepa la respuesta.",
+     "Er is iemand die het antwoord weet. / Er is niemand die het antwoord weet."
+    ],
+    [
+     "Quiero el libro que me recomendaste.",
+     "Quiero un libro que me ayude.",
+     "Ik wil het boek dat je me aanraadde. / Ik wil een boek dat me helpt."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "De <b>persoonlijke a</b> komt terug bij mensen: <i>Busco a un médico que hable inglés.</i> / <i>Busco a mi médico.</i> Maar <i>No hay nadie</i> en <i>Busco a alguien</i> houden hun vorm.",
+    "Aanleidingen: <i>buscar, necesitar, querer</i> + een onbepaald zelfstandig naamwoord, <i>no hay ningún / nadie / nada que</i>, vragen met <i>algún / alguien que</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Leestekens"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.0,
+    4.6
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Regel"
+   ],
+   "rows": [
+    [
+     "Los alumnos que estudian aprueban.",
+     "De leerlingen die studeren slagen.",
+     "geen komma's: beperkend (alleen wie studeert)"
+    ],
+    [
+     "Los alumnos, que estudian mucho, aprueban.",
+     "De leerlingen, die veel studeren, slagen.",
+     "komma's: extra informatie over allemaal"
+    ],
+    [
+     "Mi hermano, que vive en Madrid, es médico.",
+     "Mijn broer, die in Madrid woont, is arts.",
+     "komma's voor extra informatie"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "El libro lo que leí es bueno.",
+     "El libro que leí es bueno.",
+     "Na een zelfstandig naamwoord gebruik je que, niet lo que."
+    ],
+    [
+     "La casa que vivo es pequeña.",
+     "La casa en la que vivo es pequeña.",
+     "Houd het voorzetsel: en la que."
+    ],
+    [
+     "La chica que con hablé es de Chile.",
+     "La chica con la que hablé es de Chile.",
+     "Het voorzetsel staat vóór het betrekkelijk voornaamwoord."
+    ],
+    [
+     "No entiendo que dices.",
+     "No entiendo lo que dices.",
+     "'Wat' is lo que."
+    ],
+    [
+     "El hombre que su hija es médica vive aquí.",
+     "El hombre cuya hija es médica vive aquí.",
+     "'Wiens' is cuyo, dat past bij wat iemand bezit."
+    ],
+    [
+     "Busco una casa que tiene jardín (cualquiera).",
+     "Busco una casa que tenga jardín.",
+     "Een onbekend of willekeurig huis: subjuntivo."
+    ],
+    [
+     "No hay nadie que sabe.",
+     "No hay nadie que sepa.",
+     "Iets dat niet bestaat: subjuntivo."
+    ],
+    [
+     "La persona quien llamó.",
+     "La persona que llamó.",
+     "Quien wordt in het dagelijkse Spaans niet gebruikt als onderwerp van een beperkende bijzin."
+    ],
+    [
+     "Todo que dijo es verdad.",
+     "Todo lo que dijo es verdad.",
+     "todo + lo que."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het betrekkelijk voornaamwoord in, of het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El libro ______ leí es muy bueno.",
+     "hint": "dat",
+     "a": "que",
+     "full": "El libro que leí es muy bueno."
+    },
+    {
+     "q": "La casa en ______ vivo es pequeña.",
+     "hint": "waarin",
+     "a": "la que",
+     "full": "La casa en la que vivo es pequeña."
+    },
+    {
+     "q": "La chica con ______ hablé es de Chile.",
+     "hint": "met wie (persoon)",
+     "a": "quien",
+     "full": "La chica con quien hablé es de Chile."
+    },
+    {
+     "q": "No entiendo ______ dices.",
+     "hint": "wat",
+     "a": "lo que",
+     "full": "No entiendo lo que dices."
+    },
+    {
+     "q": "El hombre ______ hija es médica vive aquí.",
+     "hint": "wiens",
+     "a": "cuya",
+     "full": "El hombre cuya hija es médica vive aquí."
+    },
+    {
+     "q": "La ciudad ______ nací es preciosa.",
+     "hint": "waar",
+     "a": "donde",
+     "full": "La ciudad donde nací es preciosa."
+    },
+    {
+     "q": "Todo ______ dijo es verdad.",
+     "hint": "alles wat hij zei",
+     "a": "lo que",
+     "full": "Todo lo que dijo es verdad."
+    },
+    {
+     "q": "Busco un piso que ______ balcón.",
+     "hint": "tener (een willekeurig appartement)",
+     "a": "tenga",
+     "full": "Busco un piso que tenga balcón."
+    },
+    {
+     "q": "Tengo un amigo que ______ en Londres.",
+     "hint": "vivir (een bepaalde vriend)",
+     "a": "vive",
+     "full": "Tengo un amigo que vive en Londres."
+    },
+    {
+     "q": "No hay nadie que ______ la respuesta.",
+     "hint": "saber",
+     "a": "sepa",
+     "full": "No hay nadie que sepa la respuesta."
+    },
+    {
+     "q": "______ quieran venir pueden apuntarse.",
+     "hint": "wie (meervoud)",
+     "a": "Quienes",
+     "full": "Quienes quieran venir pueden apuntarse."
+    },
+    {
+     "q": "El día en ______ nos conocimos fue sábado.",
+     "hint": "waarop",
+     "a": "que",
+     "full": "El día en que nos conocimos fue sábado."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "De film die ik zag was geweldig.",
+     "a": "La película que vi fue genial."
+    },
+    {
+     "q": "Ik begrijp niet wat je zegt.",
+     "a": "No entiendo lo que dices."
+    },
+    {
+     "q": "Ik zoek iemand die Duits spreekt.",
+     "a": "Busco a alguien que hable alemán."
+    },
+    {
+     "q": "Dat is de vrouw van wie de zoon in Madrid studeert.",
+     "a": "Esa es la mujer cuyo hijo estudia en Madrid."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

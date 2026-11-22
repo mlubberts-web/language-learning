@@ -1,0 +1,91 @@
+{
+ "pdf": "B1_07",
+ "items": [
+  [
+   "Si [llueve] mañana, nos quedaremos en casa.",
+   "llover",
+   "Een echte mogelijkheid: si + presente."
+  ],
+  [
+   "Si yo [tuviera / tuviese] dinero, viajaría por el mundo.",
+   "tener",
+   "Onwaarschijnlijk of onwerkelijk nu: si + imperfecto de subjuntivo."
+  ],
+  [
+   "Si [hubieras estudiado / hubieses estudiado], habrías aprobado.",
+   "estudiar",
+   "Onwerkelijk verleden: si + pluscuamperfecto de subjuntivo."
+  ],
+  [
+   "Si estudias, [aprobarás] el examen.",
+   "aprobar"
+  ],
+  [
+   "Si yo fuera tú, [hablaría] con ella.",
+   "hablar"
+  ],
+  [
+   "Si me hubieras llamado, yo [habría ido / hubiera ido] contigo.",
+   "ir"
+  ],
+  [
+   "Si tienes tiempo, [llámame].",
+   "llamar"
+  ],
+  [
+   "Si nosotros [viviéramos / viviésemos] en la costa, iríamos a la playa cada día.",
+   "vivir"
+  ],
+  [
+   "Ana dijo: «Estoy cansada». Es decir, Ana dijo que [estaba] cansada.",
+   "estar",
+   "Indirecte rede: de presente wordt imperfecto."
+  ],
+  [
+   "Juan dijo: «Iré mañana». Es decir, Juan dijo que [iría] al día siguiente.",
+   "ir",
+   "Indirecte rede: de futuro wordt condicional."
+  ],
+  [
+   "Me dijeron: «Hemos terminado». Es decir, me dijeron que [habían terminado].",
+   "terminar"
+  ],
+  [
+   "María me pidió: «Ven pronto». Es decir, María me pidió que [viniera / viniese] pronto.",
+   "venir",
+   "Een doorgegeven verzoek: que + imperfecto de subjuntivo."
+  ],
+  [
+   "Pedro dijo: «Compré un coche». Es decir, Pedro dijo que [había comprado / compró] un coche.",
+   "comprar"
+  ],
+  [
+   "Si yo [ganara / ganase] la lotería, dejaría de trabajar.",
+   "ganar"
+  ],
+  [
+   "Si [hace] buen tiempo, iremos de excursión.",
+   "hacer"
+  ],
+  [
+   "Si vosotros [hubierais venido / hubieseis venido], os habríais divertido.",
+   "venir"
+  ],
+  [
+   "Mi madre me preguntó si yo [tenía] hambre.",
+   "tener"
+  ],
+  [
+   "Le dije que yo no [sabía] nada.",
+   "saber"
+  ],
+  [
+   "Si yo [pudiera / pudiese], te ayudaría.",
+   "poder"
+  ],
+  [
+   "El profesor nos dijo que [estudiáramos / estudiásemos] el capítulo tres.",
+   "estudiar"
+  ]
+ ]
+}

@@ -1,0 +1,548 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "ser, estar en werkwoorden van verandering",
+  "subtitle": "het volledige verschil tussen ser en estar, bijvoeglijke naamwoorden met twee betekenissen, ponerse, volverse, hacerse, quedarse en meer",
+  "footer": "Language Learning · B1 · Grammatica · ser, estar en werkwoorden van verandering",
+  "next": "Volgende: B1 · pdf 9 — Verbindingswoorden en signaalwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "in alle belangrijke situaties kiezen tussen ser en estar",
+    "bijvoeglijke naamwoorden gebruiken waarvan de betekenis verandert met ser of estar (listo, aburrido, malo ...)",
+    "verandering uitdrukken: ponerse, volverse, hacerse, convertirse en, quedarse, llegar a ser",
+    "veelgebruikte vaste uitdrukkingen met ser en estar gebruiken (estar de acuerdo, ser de, estar a punto de)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Ser en estar: het hele plaatje"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    6.6,
+    6.6
+   ],
+   "head": [
+    "",
+    "SER",
+    "ESTAR"
+   ],
+   "rows": [
+    [
+     "Kern",
+     "wat iets IS",
+     "hoe of waar iets IS"
+    ],
+    [
+     "Identiteit",
+     "Soy Menno. Es mi hermano.",
+     ""
+    ],
+    [
+     "Beroep, nationaliteit",
+     "Es ingeniero. Somos holandeses.",
+     ""
+    ],
+    [
+     "Herkomst, materiaal",
+     "Es de Groningen. La mesa es de madera.",
+     ""
+    ],
+    [
+     "Tijd, datum",
+     "Son las tres. Es lunes.",
+     ""
+    ],
+    [
+     "Eigenschappen",
+     "Es alto. El libro es interesante.",
+     ""
+    ],
+    [
+     "Bezit",
+     "Es de Ana. Es mío.",
+     ""
+    ],
+    [
+     "Plaats",
+     "(van gebeurtenissen) La fiesta es en mi casa.",
+     "(van dingen en mensen) El libro está en la mesa."
+    ],
+    [
+     "Tijdelijke toestand",
+     "",
+     "Estoy cansado. La sopa está fría."
+    ],
+    [
+     "Resultaat van een handeling",
+     "",
+     "La puerta está cerrada."
+    ],
+    [
+     "Handeling die bezig is",
+     "",
+     "Estoy estudiando."
+    ],
+    [
+     "Indruk op het moment zelf",
+     "",
+     "¡Qué rica está esta paella!"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Snelle test",
+   "text": "Vraag jezelf: gaat het om <b>wat het is</b> (ser) of <b>hoe het nu is</b> (estar)? Ser = definitie. Estar = toestand en plaats. Gebeurtenissen zijn de uitzondering: <i>La boda es en la iglesia</i>."
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "2. Bijvoeglijke naamwoorden die van betekenis veranderen"
+  },
+  {
+   "type": "p",
+   "text": "Met ser beschrijft het bijvoeglijk naamwoord een <b>blijvende eigenschap</b>; met estar een <b>toestand, resultaat of indruk</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    6.4,
+    7.6
+   ],
+   "head": [
+    "Bijvoeglijk naamwoord",
+    "SER",
+    "ESTAR"
+   ],
+   "rows": [
+    [
+     "listo",
+     "ser listo = slim zijn",
+     "estar listo = klaar zijn"
+    ],
+    [
+     "aburrido",
+     "ser aburrido = saai zijn",
+     "estar aburrido = zich vervelen"
+    ],
+    [
+     "malo",
+     "ser malo = slecht zijn (karakter)",
+     "estar malo = ziek zijn / vies smaken"
+    ],
+    [
+     "bueno",
+     "ser bueno = goed zijn (aardig)",
+     "estar bueno = lekker smaken / aantrekkelijk zijn"
+    ],
+    [
+     "rico",
+     "ser rico = rijk zijn",
+     "estar rico = heerlijk smaken"
+    ],
+    [
+     "vivo",
+     "ser vivo = pienter, vlug zijn",
+     "estar vivo = in leven zijn"
+    ],
+    [
+     "seguro",
+     "ser seguro = veilig zijn",
+     "estar seguro = zeker zijn"
+    ],
+    [
+     "cansado",
+     "ser cansado = vermoeiend zijn",
+     "estar cansado = moe zijn"
+    ],
+    [
+     "verde",
+     "ser verde = groen zijn (kleur)",
+     "estar verde = onrijp zijn"
+    ],
+    [
+     "abierto",
+     "ser abierto = open van geest zijn",
+     "estar abierto = open zijn (niet dicht)"
+    ],
+    [
+     "orgulloso",
+     "ser orgulloso = trots zijn (arrogant)",
+     "estar orgulloso = trots zijn (op iets)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Voorbeelden:</b> <i>Mi primo es muy listo. / ¿Estás listo? Nos vamos.</i> · <i>El profesor es aburrido. / Estoy aburrido.</i> · <i>Ese chico es malo. / Estoy malo: tengo fiebre.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Estar bueno / estar rico",
+   "text": "In Spanje betekent <b>está buena</b> / <b>está bueno</b> over een persoon 'aantrekkelijk' (informeel). Over eten gebruik je <b>está rico</b> of <b>está bueno</b>: <i>Este jamón está buenísimo.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Verandering uitdrukken"
+  },
+  {
+   "type": "p",
+   "text": "Het Nederlands gebruikt <i>worden</i> voor alle veranderingen. Het Spaans kiest een werkwoord dat past bij het soort verandering."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    5.6,
+    5.0,
+    3.2
+   ],
+   "head": [
+    "Werkwoord",
+    "Gebruik",
+    "Voorbeeld",
+    "Gevolgd door"
+   ],
+   "rows": [
+    [
+     "ponerse",
+     "tijdelijke verandering: stemming, kleur, gezondheid",
+     "Me puse nervioso. Se puso rojo.",
+     "bijvoeglijk naamwoord"
+    ],
+    [
+     "volverse",
+     "plotselinge of diepe verandering van karakter",
+     "Se volvió loco. Se ha vuelto muy callado.",
+     "bijvoeglijk naamwoord"
+    ],
+    [
+     "hacerse",
+     "verandering door inspanning of keuze (beroep, geloof, rijk)",
+     "Se hizo médico. Me hice vegetariano.",
+     "zelfstandig / bijvoeglijk naamwoord"
+    ],
+    [
+     "convertirse en",
+     "volledige verandering",
+     "El pueblo se convirtió en ciudad.",
+     "zelfstandig naamwoord"
+    ],
+    [
+     "quedarse",
+     "gevolg van een gebeurtenis (blijvende toestand)",
+     "Se quedó calvo. Me quedé sin dinero.",
+     "bijvoeglijk naamwoord / sin"
+    ],
+    [
+     "llegar a ser",
+     "geleidelijk bereikt",
+     "Llegó a ser director.",
+     "zelfstandig naamwoord"
+    ],
+    [
+     "acabar + gerund",
+     "uiteindelijk iets doen",
+     "Acabé comprando el rojo.",
+     "gerundio"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Gevoelens</b> met wederkerende werkwoorden: <i>enfadarse, alegrarse, preocuparse, aburrirse, enamorarse, sorprenderse</i>.",
+    "<b>Ponerse + bijvoeglijk naamwoord</b> is het meest gebruikt: <i>Cuando oyó la noticia, se puso muy triste.</i>",
+    "<b>Hacerse</b> betekent ook ouder worden: <i>Me estoy haciendo mayor.</i>",
+    "Met tijd: <i>hacerse de noche</i> (donker worden), <i>hacerse tarde</i> (laat worden)."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "worden",
+   "text": "Het Nederlandse <i>hij werd boos</i> = <b>se puso furioso</b> (tijdelijke stemming). <i>Hij werd arts</i> = <b>se hizo médico</b>. <i>Hij werd gek</i> = <b>se volvió loco</b>. Vraag je altijd af: tijdelijk, inspanning of plotseling?"
+  },
+  {
+   "type": "h1",
+   "text": "4. Vaste uitdrukkingen met ser en estar"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.6,
+    6.0
+   ],
+   "head": [
+    "Uitdrukking",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "estar de acuerdo (con)",
+     "het eens zijn (met)",
+     "Estoy de acuerdo contigo."
+    ],
+    [
+     "estar a punto de + inf.",
+     "op het punt staan om",
+     "Estoy a punto de salir."
+    ],
+    [
+     "estar de vacaciones",
+     "op vakantie zijn",
+     "Estamos de vacaciones."
+    ],
+    [
+     "estar de viaje",
+     "op reis zijn",
+     "Mi padre está de viaje."
+    ],
+    [
+     "estar de moda",
+     "in de mode zijn",
+     "Esta chaqueta está de moda."
+    ],
+    [
+     "estar de pie",
+     "staan",
+     "Llevo dos horas de pie."
+    ],
+    [
+     "estar en forma",
+     "fit zijn",
+     "Estás muy en forma."
+    ],
+    [
+     "estar harto de",
+     "genoeg hebben van",
+     "Estoy harto de esperar."
+    ],
+    [
+     "ser de + herkomst / materiaal",
+     "komen uit / gemaakt zijn van",
+     "Es de Madrid. Es de plástico."
+    ],
+    [
+     "ser para + doel",
+     "voor iemand of iets zijn",
+     "Este regalo es para ti."
+    ],
+    [
+     "ser capaz de",
+     "in staat zijn om",
+     "Es capaz de todo."
+    ],
+    [
+     "ser cuestión de",
+     "een kwestie zijn van",
+     "Es cuestión de tiempo."
+    ],
+    [
+     "ser mejor / necesario + inf.",
+     "beter / nodig zijn",
+     "Es mejor esperar."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Soy cansado.",
+     "Estoy cansado.",
+     "Tijdelijke toestand: estar."
+    ],
+    [
+     "Estoy ingeniero.",
+     "Soy ingeniero.",
+     "Beroep: ser."
+    ],
+    [
+     "La fiesta está en mi casa.",
+     "La fiesta es en mi casa.",
+     "Bij gebeurtenissen gebruik je ser voor de plaats."
+    ],
+    [
+     "Soy aburrido porque no hay nada que hacer.",
+     "Estoy aburrido porque no hay nada que hacer.",
+     "Verveling als toestand: estar."
+    ],
+    [
+     "Se hizo nervioso.",
+     "Se puso nervioso.",
+     "Tijdelijke stemming: ponerse."
+    ],
+    [
+     "Me puse médico.",
+     "Me hice médico.",
+     "Beroep door inspanning: hacerse."
+    ],
+    [
+     "Se puso loco para siempre.",
+     "Se volvió loco.",
+     "Diepe verandering: volverse."
+    ],
+    [
+     "Estoy de acuerdo a ti.",
+     "Estoy de acuerdo contigo.",
+     "estar de acuerdo con."
+    ],
+    [
+     "La sopa es fría.",
+     "La sopa está fría.",
+     "Tijdelijke toestand: estar."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in (presente, tenzij anders aangegeven). De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Mi hermana ______ ingeniera.",
+     "hint": "ser / estar",
+     "a": "es",
+     "full": "Mi hermana es ingeniera."
+    },
+    {
+     "q": "La sopa ______ fría.",
+     "hint": "ser / estar",
+     "a": "está",
+     "full": "La sopa está fría."
+    },
+    {
+     "q": "La fiesta ______ en mi casa.",
+     "hint": "gebeurtenis: ser / estar",
+     "a": "es",
+     "full": "La fiesta es en mi casa."
+    },
+    {
+     "q": "Mi primo ______ muy listo.",
+     "hint": "slim",
+     "a": "es",
+     "full": "Mi primo es muy listo."
+    },
+    {
+     "q": "¿______ listo? Nos vamos.",
+     "hint": "klaar: tú",
+     "a": "Estás",
+     "full": "¿Estás listo? Nos vamos."
+    },
+    {
+     "q": "Cuando oyó la noticia, ______ muy triste.",
+     "hint": "ponerse (indefinido)",
+     "a": "se puso",
+     "full": "Cuando oyó la noticia, se puso muy triste."
+    },
+    {
+     "q": "Mi tío ______ médico después de muchos años.",
+     "hint": "hacerse (indefinido)",
+     "a": "se hizo",
+     "full": "Mi tío se hizo médico después de muchos años."
+    },
+    {
+     "q": "Después del accidente ______ calvo.",
+     "hint": "quedarse (indefinido, él)",
+     "a": "se quedó",
+     "full": "Después del accidente se quedó calvo."
+    },
+    {
+     "q": "Estoy ______ acuerdo contigo.",
+     "hint": "één woord",
+     "a": "de",
+     "full": "Estoy de acuerdo contigo."
+    },
+    {
+     "q": "El pueblo ______ en una ciudad grande.",
+     "hint": "convertirse (indefinido)",
+     "a": "se convirtió",
+     "full": "El pueblo se convirtió en una ciudad grande."
+    },
+    {
+     "q": "Esta paella ______ riquísima.",
+     "hint": "smaak: ser / estar",
+     "a": "está",
+     "full": "Esta paella está riquísima."
+    },
+    {
+     "q": "Estoy a punto ______ salir.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Estoy a punto de salir."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ben moe en de soep is koud.",
+     "a": "Estoy cansado y la sopa está fría."
+    },
+    {
+     "q": "Ze werd arts.",
+     "a": "Se hizo médica."
+    },
+    {
+     "q": "Hij werd boos.",
+     "a": "Se enfadó. / Se puso furioso."
+    },
+    {
+     "q": "Het feest is bij mij thuis.",
+     "a": "La fiesta es en mi casa."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

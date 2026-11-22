@@ -1,0 +1,713 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "De presente de subjuntivo: gebruik",
+  "subtitle": "Wensen, gevoelens, twijfel, onpersoonlijke uitdrukkingen, ojalá en de belangrijkste voegwoorden",
+  "footer": "Language Learning · B1 · Grammatica · Gebruik van de subjuntivo",
+  "next": "Volgende: B1 · pdf 4 — Voltooide tijden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "beslissen wanneer een bijzin na que de subjuntivo nodig heeft",
+    "hem gebruiken na wensen, gevoelens, twijfel, onpersoonlijke uitdrukkingen en ojalá",
+    "hem tegenover de indicativo zetten (creo que viene / no creo que venga)",
+    "hem gebruiken na para que, antes de que, sin que, en met cuando voor de toekomst"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het basispatroon"
+  },
+  {
+   "type": "p",
+   "text": "De subjuntivo komt voor in een <b>bijzin</b> die begint met <b>que</b>, als de hoofdzin iets anders uitdrukt dan een gewoon feit. Een kort ezelsbruggetje is het Engelse <b>WEIRDO</b>:"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.0,
+    8.4
+   ],
+   "head": [
+    "Letter",
+    "Aanleiding",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "W",
+     "Wensen en verzoeken (Wishes)",
+     "Quiero que vengas."
+    ],
+    [
+     "E",
+     "Gevoelens (Emotions)",
+     "Me alegro de que estés aquí."
+    ],
+    [
+     "I",
+     "Onpersoonlijke uitdrukkingen (Impersonal)",
+     "Es importante que estudies."
+    ],
+    [
+     "R",
+     "Aanraden (Recommendations)",
+     "Te recomiendo que descanses."
+    ],
+    [
+     "D",
+     "Twijfel en ontkenning (Doubt)",
+     "Dudo que tenga tiempo."
+    ],
+    [
+     "O",
+     "Ojalá",
+     "Ojalá haga buen tiempo."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Er moeten twee dingen kloppen",
+   "bullets": [
+    "De twee zinsdelen hebben <b>een ander onderwerp</b>: <i>Quiero que tú vengas.</i> Met hetzelfde onderwerp gebruik je de infinitief: <i>Quiero venir.</i>",
+    "De hoofdzin drukt <b>invloed, een gevoel of twijfel</b> uit, geen zekerheid: <i>Sé que vienes</i> (indicativo) tegenover <i>Dudo que vengas</i> (subjuntivo)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Wensen, verzoeken en advies"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.8,
+    5.6
+   ],
+   "head": [
+    "Werkwoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "querer que",
+     "Quiero que me ayudes.",
+     "Ik wil dat je me helpt."
+    ],
+    [
+     "preferir que",
+     "Prefiero que hables tú.",
+     "Ik heb liever dat jij praat."
+    ],
+    [
+     "esperar que",
+     "Espero que tengas suerte.",
+     "Ik hoop dat je geluk hebt."
+    ],
+    [
+     "pedir que",
+     "Te pido que me escuches.",
+     "Ik vraag je naar me te luisteren."
+    ],
+    [
+     "necesitar que",
+     "Necesito que vengas pronto.",
+     "Ik heb je snel nodig."
+    ],
+    [
+     "aconsejar / recomendar que",
+     "Te recomiendo que pruebes el pescado.",
+     "Ik raad je aan de vis te proberen."
+    ],
+    [
+     "permitir / dejar que",
+     "No me deja que salga tarde.",
+     "Hij laat me niet laat uitgaan."
+    ],
+    [
+     "prohibir que",
+     "Mis padres prohíben que fume.",
+     "Mijn ouders verbieden me te roken."
+    ],
+    [
+     "decir que (opdracht)",
+     "Dime que vengas.",
+     "Zeg me dat ik moet komen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "decir que: feit of opdracht?",
+   "text": "<b>Dice que viene</b> (hij zegt dat hij komt) geeft informatie: indicativo. <b>Dice que vengas</b> (hij zegt dat je moet komen) geeft een opdracht: subjuntivo. Hetzelfde geldt voor <i>escribir que</i> en <i>gritar que</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse dat = que + subjuntivo",
+   "text": "<i>Ik hoop dat je komt</i> is <b>Espero que vengas</b>; <i>Ik wil dat je helpt</i> is <b>Quiero que ayudes</b>. In het Nederlands staat het werkwoord na <i>dat</i> in de gewone tegenwoordige tijd, in het Spaans niet."
+  },
+  {
+   "type": "h1",
+   "text": "3. Gevoelens en reacties"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.6,
+    5.0
+   ],
+   "head": [
+    "Uitdrukking",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "alegrarse de que / me alegra que",
+     "Me alegra que estés mejor.",
+     "Ik ben blij dat het beter met je gaat."
+    ],
+    [
+     "me gusta / me encanta que",
+     "Me encanta que cocines.",
+     "Ik vind het heerlijk dat je kookt."
+    ],
+    [
+     "me molesta / me preocupa que",
+     "Me molesta que llegues tarde.",
+     "Het stoort me dat je te laat komt."
+    ],
+    [
+     "me sorprende que",
+     "Me sorprende que no sepa nada.",
+     "Het verbaast me dat hij niets weet."
+    ],
+    [
+     "tener miedo de que",
+     "Tengo miedo de que llueva.",
+     "Ik ben bang dat het gaat regenen."
+    ],
+    [
+     "sentir / lamentar que",
+     "Siento que no puedas venir.",
+     "Jammer dat je niet kunt komen."
+    ],
+    [
+     "es una pena / lástima que",
+     "Es una pena que se vayan.",
+     "Het is jammer dat ze weggaan."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Bij werkwoorden en uitdrukkingen met <b>de</b> (alegrarse de, tener miedo de, estar contento de) houd je het voorzetsel voor <b>que</b>: <i>Me alegro <b>de que</b> vengas.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Twijfel en ontkenning"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Subjuntivo (twijfel, ontkenning)",
+    "Indicativo (zekerheid)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "No creo que venga.",
+     "Creo que viene.",
+     "Ik denk niet dat hij komt. / Ik denk dat hij komt."
+    ],
+    [
+     "Dudo que tenga razón.",
+     "No dudo que tiene razón.",
+     "Ik betwijfel of hij gelijk heeft. / Ik twijfel er niet aan dat hij gelijk heeft."
+    ],
+    [
+     "No es verdad que sea fácil.",
+     "Es verdad que es fácil.",
+     "Het is niet waar dat het makkelijk is. / Het is waar dat het makkelijk is."
+    ],
+    [
+     "No estoy seguro de que funcione.",
+     "Estoy seguro de que funciona.",
+     "Ik weet niet zeker of het werkt. / Ik weet zeker dat het werkt."
+    ],
+    [
+     "Niego que lo sepa.",
+     "Es obvio que lo sabe.",
+     "Ik ontken dat hij het weet. / Het is duidelijk dat hij het weet."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Uitdrukking van mogelijkheid",
+    "Wijs",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "es posible que, es probable que, puede ser que",
+     "subjuntivo",
+     "Es posible que llueva."
+    ],
+    [
+     "quizás, tal vez",
+     "subjuntivo (meer twijfel) of indicativo",
+     "Quizás venga. / Quizás viene."
+    ],
+    [
+     "a lo mejor",
+     "alleen indicativo",
+     "A lo mejor viene."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Vraag: is het een feit of een mening?",
+   "text": "<b>Creer, pensar, opinar, parecer</b> en <b>estar seguro</b> krijgen de <b>indicativo</b> als ze bevestigend zijn (ze brengen een overtuiging als feit) en de <b>subjuntivo</b> als ze ontkennend zijn. In een vraag hangt de keuze af van de twijfel: <i>¿Crees que viene?</i> (neutraal) tegenover <i>¿Crees que venga?</i> (je betwijfelt het)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Onpersoonlijke uitdrukkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.0,
+    6.0
+   ],
+   "head": [
+    "Subjuntivo",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "es importante / necesario / urgente que",
+     "Es necesario que llegues pronto.",
+     "Het is nodig dat je snel komt."
+    ],
+    [
+     "es mejor / bueno / malo que",
+     "Es mejor que esperemos.",
+     "Het is beter dat we wachten."
+    ],
+    [
+     "es una lástima que",
+     "Es una lástima que no vengas.",
+     "Het is jammer dat je niet komt."
+    ],
+    [
+     "hace falta / conviene / basta que",
+     "Hace falta que estudies más.",
+     "Je moet meer studeren."
+    ],
+    [
+     "es raro / extraño que",
+     "Es raro que no conteste.",
+     "Het is vreemd dat hij niet antwoordt."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.0,
+    6.0
+   ],
+   "head": [
+    "Indicativo (zekerheid)",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "es verdad / cierto / obvio / evidente que",
+     "Es evidente que tiene razón.",
+     "Het is duidelijk dat hij gelijk heeft."
+    ],
+    [
+     "está claro que",
+     "Está claro que no viene.",
+     "Het is duidelijk dat hij niet komt."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Algemene uitspraken</b> gebruiken de infinitief (zonder onderwerp): <i>Es importante estudiar.</i> Een bepaalde persoon heeft que + subjuntivo nodig: <i>Es importante que tú estudies.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Ojalá en wensen met que"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Uitdrukking",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Ojalá (que) + subjuntivo",
+     "Ojalá haga buen tiempo.",
+     "Hopelijk is het mooi weer."
+    ],
+    [
+     "¡Que + subjuntivo!",
+     "¡Que te vaya bien!",
+     "Succes! (Ik hoop dat het goed gaat!)"
+    ],
+    [
+     "¡Que + subjuntivo!",
+     "¡Que descanses!",
+     "Slaap lekker!"
+    ],
+    [
+     "¡Que + subjuntivo!",
+     "¡Que lo pases bien!",
+     "Veel plezier!"
+    ],
+    [
+     "¡Que aproveche!",
+     "¡Que aproveche!",
+     "Eet smakelijk!"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Ojalá</b> komt van het Arabische <i>inshallah</i> en werkt zonder onderwerp: <i>Ojalá vengas. Ojalá lo sepa.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "7. Voegwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    4.0,
+    7.8
+   ],
+   "head": [
+    "Altijd subjuntivo",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "para que",
+     "zodat",
+     "Te lo explico para que lo entiendas."
+    ],
+    [
+     "antes de que",
+     "voordat",
+     "Llámame antes de que salgas."
+    ],
+    [
+     "sin que",
+     "zonder dat",
+     "Salió sin que lo viéramos."
+    ],
+    [
+     "a menos que",
+     "tenzij",
+     "Iré, a menos que llueva."
+    ],
+    [
+     "con tal de que",
+     "op voorwaarde dat",
+     "Iré con tal de que vengas."
+    ],
+    [
+     "en caso de que",
+     "voor het geval dat",
+     "Lleva paraguas en caso de que llueva."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    5.8,
+    6.0
+   ],
+   "head": [
+    "Tijd en toegeving",
+    "Toekomst / onbekend: subjuntivo",
+    "Gewoonte / feit: indicativo"
+   ],
+   "rows": [
+    [
+     "cuando (wanneer, als)",
+     "Cuando llegues, llámame.",
+     "Cuando llego, llamo."
+    ],
+    [
+     "hasta que (totdat)",
+     "Espero hasta que vuelvas.",
+     "Espero hasta que vuelves."
+    ],
+    [
+     "en cuanto (zodra)",
+     "En cuanto lo sepa, te aviso.",
+     "En cuanto lo sé, te aviso."
+    ],
+    [
+     "después de que (nadat)",
+     "Después de que comas, saldremos.",
+     "Después de que como, salgo."
+    ],
+    [
+     "aunque (zelfs als / hoewel)",
+     "Aunque llueva, iré. (zelfs als het regent)",
+     "Aunque llueve, voy. (hoewel het regent)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlands gebruikt de tegenwoordige tijd voor de toekomst",
+   "text": "Het Nederlands zegt <i>Als je aankomt, bel me</i> en <i>Wanneer ik aankom, bel ik</i> met dezelfde tegenwoordige tijd. Het Spaans maakt onderscheid: <b>Cuando llegues</b> (het is nog niet gebeurd) tegenover <b>Cuando llego</b> (het gebeurt regelmatig)."
+  },
+  {
+   "type": "h1",
+   "text": "8. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Quiero que tú vienes.",
+     "Quiero que tú vengas.",
+     "querer que heeft de subjuntivo nodig."
+    ],
+    [
+     "Espero que tengo tiempo.",
+     "Espero tener tiempo.",
+     "Zelfde onderwerp: infinitief in plaats van que."
+    ],
+    [
+     "Quiero que yo voy.",
+     "Quiero ir.",
+     "Zelfde onderwerp: infinitief."
+    ],
+    [
+     "Creo que vengas.",
+     "Creo que vienes.",
+     "Bevestigend creer que krijgt de indicativo."
+    ],
+    [
+     "No creo que viene.",
+     "No creo que venga.",
+     "Ontkennend creer que krijgt de subjuntivo."
+    ],
+    [
+     "Es verdad que sea difícil.",
+     "Es verdad que es difícil.",
+     "es verdad que stelt een feit vast: indicativo."
+    ],
+    [
+     "Cuando llego mañana, te llamo.",
+     "Cuando llegue mañana, te llamo.",
+     "cuando met een betekenis in de toekomst heeft de subjuntivo nodig."
+    ],
+    [
+     "Te lo digo para que sabes.",
+     "Te lo digo para que sepas.",
+     "Na para que volgt altijd de subjuntivo."
+    ],
+    [
+     "A lo mejor venga.",
+     "A lo mejor viene.",
+     "a lo mejor krijgt de indicativo."
+    ],
+    [
+     "Me alegro que vienes.",
+     "Me alegro de que vengas.",
+     "Houd de voor que, en gebruik de subjuntivo."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "9. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf het werkwoord tussen haakjes in de subjuntivo, de indicativo of de infinitief. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Quiero que tú ______ a la fiesta.",
+     "hint": "venir",
+     "a": "vengas",
+     "full": "Quiero que tú vengas a la fiesta."
+    },
+    {
+     "q": "Es importante que ellos ______ la verdad.",
+     "hint": "saber",
+     "a": "sepan",
+     "full": "Es importante que ellos sepan la verdad."
+    },
+    {
+     "q": "Me alegro de que ______ bien.",
+     "hint": "estar (tú)",
+     "a": "estés",
+     "full": "Me alegro de que estés bien."
+    },
+    {
+     "q": "Dudo que él ______ tiempo.",
+     "hint": "tener",
+     "a": "tenga",
+     "full": "Dudo que él tenga tiempo."
+    },
+    {
+     "q": "No creo que el examen ______ difícil.",
+     "hint": "ser",
+     "a": "sea",
+     "full": "No creo que el examen sea difícil."
+    },
+    {
+     "q": "Creo que ella ______ razón.",
+     "hint": "tener",
+     "a": "tiene",
+     "full": "Creo que ella tiene razón."
+    },
+    {
+     "q": "Ojalá ______ mañana.",
+     "hint": "llover",
+     "a": "llueva",
+     "full": "Ojalá llueva mañana."
+    },
+    {
+     "q": "Te lo explico para que lo ______.",
+     "hint": "entender (tú)",
+     "a": "entiendas",
+     "full": "Te lo explico para que lo entiendas."
+    },
+    {
+     "q": "Cuando ______ a casa mañana, te llamaré.",
+     "hint": "llegar (yo)",
+     "a": "llegue",
+     "full": "Cuando llegue a casa mañana, te llamaré."
+    },
+    {
+     "q": "Voy a esperar hasta que tú ______.",
+     "hint": "volver",
+     "a": "vuelvas",
+     "full": "Voy a esperar hasta que tú vuelvas."
+    },
+    {
+     "q": "Es verdad que ellos ______ cansados.",
+     "hint": "estar",
+     "a": "están",
+     "full": "Es verdad que ellos están cansados."
+    },
+    {
+     "q": "Prefiero ______ en casa.",
+     "hint": "quedarse (yo)",
+     "a": "quedarme",
+     "full": "Prefiero quedarme en casa."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik hoop dat je een fijn weekend hebt.",
+     "a": "Espero que tengas un buen fin de semana."
+    },
+    {
+     "q": "Ik denk niet dat hij komt.",
+     "a": "No creo que venga."
+    },
+    {
+     "q": "Bel me als je aankomt.",
+     "a": "Llámame cuando llegues."
+    },
+    {
+     "q": "Ik wil naar huis.",
+     "a": "Quiero ir a casa."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

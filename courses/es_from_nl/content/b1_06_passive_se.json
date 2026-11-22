@@ -1,0 +1,536 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "De lijdende vorm en constructies met se",
+  "subtitle": "ser + deelwoord, estar + deelwoord, de lijdende vorm met se, onpersoonlijk se en ongelukjes (se me cayó)",
+  "footer": "Language Learning · B1 · Grammatica · Lijdende vorm en se",
+  "next": "Volgende: B1 · pdf 7 — Voorwaardelijke zinnen en indirecte rede"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de lijdende vorm maken met ser + deelwoord en weten wanneer hij gebruikt wordt",
+    "een resultaat beschrijven met estar + deelwoord",
+    "se gebruiken voor lijdende en onpersoonlijke uitspraken (se habla español, se dice que)",
+    "over ongelukjes praten met se me ... (se me olvidó, se me cayó)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De lijdende vorm: ser + deelwoord"
+  },
+  {
+   "type": "p",
+   "text": "In een bedrijvende zin doet het onderwerp de handeling (<i>Cervantes escribió el libro</i>). In een lijdende zin wordt het lijdend voorwerp het onderwerp: <b>ser</b> (in elke tijd) + <b>voltooid deelwoord</b>, dat <b>past bij het nieuwe onderwerp</b>. Wie de handeling doet, komt na <b>por</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Tijd",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Presente",
+     "La casa es limpiada cada semana.",
+     "Het huis wordt elke week schoongemaakt."
+    ],
+    [
+     "Indefinido",
+     "El libro fue escrito por Cervantes.",
+     "Het boek werd geschreven door Cervantes."
+    ],
+    [
+     "Imperfecto",
+     "Las cartas eran enviadas por correo.",
+     "De brieven werden per post verstuurd."
+    ],
+    [
+     "Futuro",
+     "La puerta será abierta mañana.",
+     "De deur zal morgen geopend worden."
+    ],
+    [
+     "Pretérito perfecto",
+     "El problema ha sido resuelto.",
+     "Het probleem is opgelost."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Overeenkomst:</b> <i>la casa fue construida, los edificios fueron construidos, las casas fueron construidas</i>.",
+    "De lijdende vorm met <b>ser</b> is gewoon in <b>geschreven</b> Spaans (nieuws, geschiedenis, formele teksten) en zeldzaam in spreektaal. In spreektaal gebruikt het Spaans de bedrijvende vorm of <b>se</b> (deel 3).",
+    "Gebruik hem als <b>genoemd wordt wie het doet</b>, of als de nadruk op degene ligt die de handeling ondergaat: <i>Fue elegida presidenta por los socios.</i>"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "worden tegenover ser",
+   "text": "Het Nederlands heeft <i>worden</i> (het huis wordt schoongemaakt) en <i>zijn</i> (het huis is schoon). Het Spaans gebruikt <b>ser + deelwoord</b> voor de handeling (<i>es limpiada</i>) en <b>estar + deelwoord</b> voor het resultaat (<i>está limpia</i>). Het Nederlandse <i>werd</i> = <b>fue</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Het resultaat: estar + deelwoord"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.2,
+    5.2
+   ],
+   "head": [
+    "Handeling (ser)",
+    "Resultaat (estar)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "La puerta fue cerrada por el portero.",
+     "La puerta está cerrada.",
+     "De deur werd door de portier gesloten. / De deur is dicht."
+    ],
+    [
+     "La cena fue preparada por mi madre.",
+     "La cena está preparada.",
+     "Het eten werd door mijn moeder klaargemaakt. / Het eten is klaar."
+    ],
+    [
+     "Las ventanas fueron rotas por la tormenta.",
+     "Las ventanas están rotas.",
+     "De ramen werden door de storm gebroken. / De ramen zijn kapot."
+    ],
+    [
+     "La carta fue escrita por mi abuelo.",
+     "La carta está escrita a mano.",
+     "De brief werd door mijn opa geschreven. / De brief is met de hand geschreven."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Estar + deelwoord</i> werkt ook bij bijvoeglijke naamwoorden: <i>cansado, abierto, ocupado, preocupado, sentado, enamorado</i>. Het deelwoord past zich altijd aan: <i>Los museos están cerrados. Ana está sentada.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Pasiva refleja: se + werkwoord"
+  },
+  {
+   "type": "p",
+   "text": "Als het niet uitmaakt wie het doet, gebruikt het Spaans liever <b>se + derde persoon</b>. Het werkwoord past bij het ding (het echte onderwerp): enkelvoud voor één ding, meervoud voor meer."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Overeenkomst"
+   ],
+   "rows": [
+    [
+     "Se vende casa.",
+     "Huis te koop.",
+     "enkelvoud"
+    ],
+    [
+     "Se venden pisos.",
+     "Appartementen te koop.",
+     "meervoud"
+    ],
+    [
+     "Aquí se habla español.",
+     "Hier wordt Spaans gesproken.",
+     "enkelvoud"
+    ],
+    [
+     "Se necesitan camareros.",
+     "Obers gezocht.",
+     "meervoud"
+    ],
+    [
+     "Se cerró el museo a las ocho.",
+     "Het museum ging om acht uur dicht.",
+     "enkelvoud"
+    ],
+    [
+     "Estas cosas no se hacen.",
+     "Zulke dingen doe je niet.",
+     "meervoud"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Geen 'door' bij se",
+   "text": "Je kunt geen <b>por + persoon</b> toevoegen aan een zin met se. Noem je wie het deed, gebruik dan ser + deelwoord: <i>Fue construido por los romanos</i>, niet <i>Se construyó por los romanos</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Onpersoonlijk se ('men')"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Patroon"
+   ],
+   "rows": [
+    [
+     "Se vive bien en España.",
+     "Men leeft goed in Spanje.",
+     "se + werkwoord, geen onderwerp"
+    ],
+    [
+     "En España se cena tarde.",
+     "In Spanje eet men laat.",
+     "se + werkwoord"
+    ],
+    [
+     "Se dice que va a llover.",
+     "Ze zeggen dat het gaat regenen.",
+     "se dice que"
+    ],
+    [
+     "¿Cómo se dice \"hello\" en español?",
+     "Hoe zeg je 'hallo' in het Spaans?",
+     "vraag"
+    ],
+    [
+     "Se busca a un empleado.",
+     "Medewerker gezocht.",
+     "persoonlijke a + werkwoord in het enkelvoud"
+    ],
+    [
+     "Se puede entrar.",
+     "Je mag binnenkomen.",
+     "se + modaal werkwoord"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Een andere manier om onpersoonlijk te zijn is de <b>derde persoon meervoud</b>: <i>Dicen que va a llover. Llaman a la puerta. Aquí hablan muy rápido.</i> ('ze')",
+    "Of <b>tú</b> in spreektaal: <i>Si pagas con tarjeta, tienes descuento.</i> ('als je met je kaart betaalt ...')",
+    "<b>uno</b> is formeler: <i>Uno nunca sabe.</i> (Je weet maar nooit.)"
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "5. Ongelukjes: se me ..."
+  },
+  {
+   "type": "p",
+   "text": "Voor dingen die je <b>per ongeluk overkomen</b> (niet expres), gebruikt het Spaans <b>se + meewerkend voornaamwoord + werkwoord</b>. Het werkwoord past bij het ding, en de persoon wordt het meewerkend voorwerp."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.4,
+    5.4
+   ],
+   "head": [
+    "Spaans",
+    "Letterlijk",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Se me olvidó la llave.",
+     "De sleutel is me vergeten.",
+     "Ik ben de sleutel vergeten."
+    ],
+    [
+     "Se me olvidaron las llaves.",
+     "De sleutels zijn me vergeten.",
+     "Ik ben de sleutels vergeten."
+    ],
+    [
+     "Se me cayó el vaso.",
+     "Het glas is me gevallen.",
+     "Ik heb het glas laten vallen."
+    ],
+    [
+     "Se te ha roto el móvil.",
+     "De telefoon is je kapotgegaan.",
+     "Je hebt je telefoon (per ongeluk) kapotgemaakt."
+    ],
+    [
+     "Se le perdió el pasaporte.",
+     "Het paspoort is hem kwijtgeraakt.",
+     "Hij is zijn paspoort kwijt."
+    ],
+    [
+     "Se nos acabó el tiempo.",
+     "De tijd is ons opgeraakt.",
+     "Onze tijd is op."
+    ],
+    [
+     "Se les quemó la comida.",
+     "Het eten is hun aangebrand.",
+     "Ze hebben het eten laten aanbranden."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    3.6,
+    3.6,
+    2.6
+   ],
+   "head": [
+    "Voornaamwoord",
+    "Persoon",
+    "Voornaamwoord",
+    "Persoon",
+    "Werkwoorden"
+   ],
+   "rows": [
+    [
+     "se me",
+     "mij",
+     "se nos",
+     "ons",
+     "olvidar"
+    ],
+    [
+     "se te",
+     "jou",
+     "se os",
+     "jullie",
+     "caer"
+    ],
+    [
+     "se le",
+     "hem / haar / u",
+     "se les",
+     "hen / u (meervoud)",
+     "romper, perder, acabar, quemar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Nederlands: per ongeluk",
+   "text": "Het Nederlands zegt <i>ik heb het laten vallen</i>; het Spaans zegt bij een ongelukje liever <i>se me cayó</i> (het is me gevallen). <b>Rompí el móvil</b> klinkt alsof je het expres deed, terwijl <b>Se me rompió el móvil</b> zegt dat het gewoon gebeurde."
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "La casa fue construido en 1990.",
+     "La casa fue construida en 1990.",
+     "Het deelwoord past bij het onderwerp."
+    ],
+    [
+     "Se vende pisos.",
+     "Se venden pisos.",
+     "Het werkwoord past bij het ding: meervoud."
+    ],
+    [
+     "El libro es escrito en 1605.",
+     "El libro fue escrito en 1605.",
+     "Een afgeronde gebeurtenis in het verleden: fue."
+    ],
+    [
+     "La tienda es cerrada ahora.",
+     "La tienda está cerrada ahora.",
+     "Een toestand vraagt om estar."
+    ],
+    [
+     "Aquí se hablan español.",
+     "Aquí se habla español.",
+     "español is enkelvoud."
+    ],
+    [
+     "Se olvidó las llaves.",
+     "Se me olvidaron las llaves.",
+     "Voeg me toe en zet het werkwoord in het meervoud."
+    ],
+    [
+     "Se me cayó los libros.",
+     "Se me cayeron los libros.",
+     "Het werkwoord past bij het ding dat viel."
+    ],
+    [
+     "Se construyó por los romanos.",
+     "Fue construido por los romanos.",
+     "Zinnen met se kunnen geen 'door' met por hebben."
+    ],
+    [
+     "Se dicen que va a llover.",
+     "Se dice que va a llover.",
+     "se dice que: altijd enkelvoud."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het ontbrekende woord in, of het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "La catedral ______ construida en el siglo XIII.",
+     "hint": "ser (indefinido)",
+     "a": "fue",
+     "full": "La catedral fue construida en el siglo XIII."
+    },
+    {
+     "q": "Ya son las once: la tienda ______ cerrada.",
+     "hint": "toestand: estar",
+     "a": "está",
+     "full": "Ya son las once: la tienda está cerrada."
+    },
+    {
+     "q": "Se ______ pisos en el centro.",
+     "hint": "vender",
+     "a": "venden",
+     "full": "Se venden pisos en el centro."
+    },
+    {
+     "q": "Aquí se ______ español.",
+     "hint": "hablar",
+     "a": "habla",
+     "full": "Aquí se habla español."
+    },
+    {
+     "q": "Se ______ que va a llover.",
+     "hint": "decir",
+     "a": "dice",
+     "full": "Se dice que va a llover."
+    },
+    {
+     "q": "La novela fue escrita ______ Cervantes.",
+     "hint": "door",
+     "a": "por",
+     "full": "La novela fue escrita por Cervantes."
+    },
+    {
+     "q": "¿Cómo se ______ esto en español?",
+     "hint": "decir",
+     "a": "dice",
+     "full": "¿Cómo se dice esto en español?"
+    },
+    {
+     "q": "Se me ______ las llaves.",
+     "hint": "olvidar (indefinido)",
+     "a": "olvidaron",
+     "full": "Se me olvidaron las llaves."
+    },
+    {
+     "q": "Se le ______ el vaso.",
+     "hint": "caer (indefinido)",
+     "a": "cayó",
+     "full": "Se le cayó el vaso."
+    },
+    {
+     "q": "Se nos ______ el tiempo.",
+     "hint": "acabar (indefinido)",
+     "a": "acabó",
+     "full": "Se nos acabó el tiempo."
+    },
+    {
+     "q": "Las cartas ______ enviadas ayer.",
+     "hint": "ser (indefinido)",
+     "a": "fueron",
+     "full": "Las cartas fueron enviadas ayer."
+    },
+    {
+     "q": "En España se ______ tarde.",
+     "hint": "cenar",
+     "a": "cena",
+     "full": "En España se cena tarde."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hier wordt Spaans gesproken.",
+     "a": "Aquí se habla español."
+    },
+    {
+     "q": "De ramen werden door de storm gebroken.",
+     "a": "Las ventanas fueron rotas por la tormenta."
+    },
+    {
+     "q": "Ik ben mijn sleutels vergeten (per ongeluk).",
+     "a": "Se me olvidaron las llaves."
+    },
+    {
+     "q": "Appartementen te koop.",
+     "a": "Se venden pisos."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

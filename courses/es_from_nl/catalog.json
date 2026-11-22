@@ -207,5 +207,115 @@
   "subtitle": "Reizen, hotels, winkelen, gezondheid, de stad, het weer, werk, vrije tijd, technologie, onderwijs, gevoelens en alledaagse zinnen",
   "content": "a2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_01_Futuro_en_condicional",
+  "file": "B1_01_Futuro_en_condicional.pdf",
+  "level": "B1",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Futuro en condicional",
+  "subtitle": "De toekomende tijd en de voorwaardelijke wijs: regelmatige vormen, onregelmatige stammen, waarschijnlijkheid, beleefdheid en advies",
+  "content": "b1_01_future_conditional.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_02_De_presente_de_subjuntivo_vormen",
+  "file": "B1_02_De_presente_de_subjuntivo_vormen.pdf",
+  "level": "B1",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "De presente de subjuntivo: vormen",
+  "subtitle": "Zo vorm je de presente de subjuntivo: regelmatige werkwoorden, onregelmatige yo-vormen, stamveranderingen, spellingsveranderingen en zes onregelmatige werkwoorden",
+  "content": "b1_02_subjunctive_forms.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_03_De_presente_de_subjuntivo_gebruik",
+  "file": "B1_03_De_presente_de_subjuntivo_gebruik.pdf",
+  "level": "B1",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "De presente de subjuntivo: gebruik",
+  "subtitle": "Wensen, gevoelens, twijfel, onpersoonlijke uitdrukkingen, ojalá en de belangrijkste voegwoorden",
+  "content": "b1_03_subjunctive_uses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_04_Voltooide_tijden",
+  "file": "B1_04_Voltooide_tijden.pdf",
+  "level": "B1",
+  "number": 4,
+  "section": "Werkwoorden",
+  "title": "Voltooide tijden",
+  "subtitle": "Pluscuamperfecto, futuro perfecto, condicional perfecto en pretérito perfecto de subjuntivo",
+  "content": "b1_04_perfect_tenses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_05_Betrekkelijke_bijzinnen",
+  "file": "B1_05_Betrekkelijke_bijzinnen.pdf",
+  "level": "B1",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Betrekkelijke bijzinnen",
+  "subtitle": "que, quien, el que, lo que, donde, cuyo, en de indicativo of subjuntivo in betrekkelijke bijzinnen",
+  "content": "b1_05_relative_clauses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_06_De_lijdende_vorm_en_constructies_met_se",
+  "file": "B1_06_De_lijdende_vorm_en_constructies_met_se.pdf",
+  "level": "B1",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "De lijdende vorm en constructies met se",
+  "subtitle": "ser + deelwoord, estar + deelwoord, de lijdende vorm met se, onpersoonlijk se en ongelukjes (se me cayó)",
+  "content": "b1_06_passive_se.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_07_Voorwaardelijke_zinnen_en_indirecte_rede",
+  "file": "B1_07_Voorwaardelijke_zinnen_en_indirecte_rede.pdf",
+  "level": "B1",
+  "number": 7,
+  "section": "Grammatica",
+  "title": "Voorwaardelijke zinnen en indirecte rede",
+  "subtitle": "werkelijke en onwerkelijke voorwaarden, de imperfecto de subjuntivo, en uitspraken, vragen en opdrachten doorgeven",
+  "content": "b1_07_if_reported.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_08_ser_estar_en_werkwoorden_van_verandering",
+  "file": "B1_08_ser_estar_en_werkwoorden_van_verandering.pdf",
+  "level": "B1",
+  "number": 8,
+  "section": "Grammatica",
+  "title": "ser, estar en werkwoorden van verandering",
+  "subtitle": "het volledige verschil tussen ser en estar, bijvoeglijke naamwoorden met twee betekenissen, ponerse, volverse, hacerse, quedarse en meer",
+  "content": "b1_08_ser_estar_change.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_09_Verbindingswoorden_en_signaalwoorden",
+  "file": "B1_09_Verbindingswoorden_en_signaalwoorden.pdf",
+  "level": "B1",
+  "number": 9,
+  "section": "Grammatica",
+  "title": "Verbindingswoorden en signaalwoorden",
+  "subtitle": "ideeën verbinden, voegwoorden met indicativo of subjuntivo, een tekst opbouwen en natuurlijk praten",
+  "content": "b1_09_connectors.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "B1_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "B1",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Werk, onderwijs, milieu, samenleving, media, gevoelens, meningen, uitdrukkingen en valse vrienden",
+  "content": "b1_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

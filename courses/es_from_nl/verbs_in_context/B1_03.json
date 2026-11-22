@@ -1,0 +1,98 @@
+{
+ "pdf": "B1_03",
+ "items": [
+  [
+   "Creo que Juan [tiene] razón.",
+   "tener",
+   "Creo que: indicativo."
+  ],
+  [
+   "No creo que Juan [tenga] razón.",
+   "tener",
+   "No creo que: subjuntivo."
+  ],
+  [
+   "Yo quiero [ir] al cine.",
+   "ir",
+   "Hetzelfde onderwerp: infinitief."
+  ],
+  [
+   "Quiero que tú [vayas] al cine conmigo.",
+   "ir",
+   "Een ander onderwerp: que + subjuntivo."
+  ],
+  [
+   "Cuando [tengo] tiempo, leo.",
+   "tener",
+   "Iets wat je gewoonlijk doet: indicativo."
+  ],
+  [
+   "Cuando [tenga] tiempo, leeré ese libro.",
+   "tener",
+   "Cuando over de toekomst: subjuntivo."
+  ],
+  [
+   "Es evidente que el plan [funciona].",
+   "funcionar"
+  ],
+  [
+   "Es posible que el plan no [funcione].",
+   "funcionar"
+  ],
+  [
+   "Me alegro de que tú [estés] aquí.",
+   "estar"
+  ],
+  [
+   "Sé que tú [estás] cansado.",
+   "estar"
+  ],
+  [
+   "Aunque [llueva] mañana, iremos a la playa.",
+   "llover",
+   "Aunque over iets wat nog niet bekend is: subjuntivo."
+  ],
+  [
+   "Busco a la chica que [trabaja] aquí; la conozco.",
+   "trabajar",
+   "Een persoon die bestaat en bekend is: indicativo."
+  ],
+  [
+   "Busco a alguien que [hable] alemán.",
+   "hablar",
+   "Wie dan ook: subjuntivo."
+  ],
+  [
+   "Te llamo para que me [ayudes].",
+   "ayudar"
+  ],
+  [
+   "Me parece que [va] a llover.",
+   "ir"
+  ],
+  [
+   "No me parece que [sea] buena idea.",
+   "ser"
+  ],
+  [
+   "Es una pena que vosotros no [podáis] venir.",
+   "poder"
+  ],
+  [
+   "Está claro que ellos [saben] la verdad.",
+   "saber"
+  ],
+  [
+   "Tan pronto como vosotros [lleguéis], cenaremos.",
+   "llegar"
+  ],
+  [
+   "Siempre que [voy] a Madrid, visito el Prado.",
+   "ir"
+  ],
+  [
+   "Adiós, Marta, que [tengas] un buen día.",
+   "tener"
+  ]
+ ]
+}

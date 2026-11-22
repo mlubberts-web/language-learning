@@ -1,0 +1,762 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Werkwoorden",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Voltooide tijden",
+  "subtitle": "Pluscuamperfecto, futuro perfecto, condicional perfecto en pretérito perfecto de subjuntivo",
+  "footer": "Language Learning · B1 · Werkwoorden · Voltooide tijden",
+  "next": "Volgende: B1 · pdf 5 — Betrekkelijke bijzinnen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "alle voltooide tijden vormen met haber + voltooid deelwoord",
+    "de pluscuamperfecto gebruiken voor iets dat vóór een andere gebeurtenis in het verleden gebeurde",
+    "de futuro perfecto en de condicional perfecto gebruiken voor iets dat af is, voor waarschijnlijkheid en voor 'zou hebben'",
+    "de pretérito perfecto de subjuntivo gebruiken (espero que hayas llegado)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Eén patroon, vijf tijden"
+  },
+  {
+   "type": "p",
+   "text": "Elke voltooide tijd is een vorm van <b>haber</b> + het <b>voltooid deelwoord</b> (A2 pdf 5). Alleen de tijd van haber verandert. Het deelwoord verandert nooit: <i>he hecho, habíamos hecho, habrán hecho</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    2.6,
+    2.6,
+    2.6,
+    2.8,
+    2.8
+   ],
+   "head": [
+    "Persoon",
+    "Pretérito perfecto",
+    "Pluscuamperfecto",
+    "Futuro perfecto",
+    "Condicional perfecto",
+    "Perfecto de subjuntivo"
+   ],
+   "rows": [
+    [
+     "yo",
+     "he",
+     "había",
+     "habré",
+     "habría",
+     "haya"
+    ],
+    [
+     "tú",
+     "has",
+     "habías",
+     "habrás",
+     "habrías",
+     "hayas"
+    ],
+    [
+     "él / ella / usted",
+     "ha",
+     "había",
+     "habrá",
+     "habría",
+     "haya"
+    ],
+    [
+     "nosotros / nosotras",
+     "hemos",
+     "habíamos",
+     "habremos",
+     "habríamos",
+     "hayamos"
+    ],
+    [
+     "vosotros / vosotras",
+     "habéis",
+     "habíais",
+     "habréis",
+     "habríais",
+     "hayáis"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "han",
+     "habían",
+     "habrán",
+     "habrían",
+     "hayan"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.4,
+    7.0
+   ],
+   "head": [
+    "Tijd",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Pretérito perfecto",
+     "He terminado.",
+     "Ik ben klaar. (Ik heb het afgemaakt.)"
+    ],
+    [
+     "Pluscuamperfecto",
+     "Ya había terminado.",
+     "Ik was al klaar."
+    ],
+    [
+     "Futuro perfecto",
+     "Habré terminado.",
+     "Ik zal klaar zijn. (Ik zal het afgemaakt hebben.)"
+    ],
+    [
+     "Condicional perfecto",
+     "Habría terminado.",
+     "Ik zou het afgemaakt hebben."
+    ],
+    [
+     "Pretérito perfecto de subjuntivo",
+     "Espero que hayas terminado.",
+     "Ik hoop dat je klaar bent."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Dezelfde logica als in het Nederlands",
+   "text": "Nederlands <i>had gegeten</i> = <b>había comido</b>, <i>zal gegeten hebben</i> = <b>habrá comido</b>, <i>zou gegeten hebben</i> = <b>habría comido</b>. Het verschil: het Nederlands gebruikt <i>hebben</i> of <i>zijn</i>, het Spaans altijd <b>haber</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. De pluscuamperfecto"
+  },
+  {
+   "type": "p",
+   "text": "Hij beschrijft een handeling die <b>al af was vóór een ander moment in het verleden</b>: <i>Cuando llegué, ya había salido.</i> (Toen ik aankwam, was hij al weg.) Typische woorden: <b>ya</b>, <b>todavía no</b>, <b>nunca antes</b>, <b>antes de</b>."
+  },
+  {
+   "type": "conj",
+   "tense": "pluscuamperfecto",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "forms": [
+    "había *hablado*",
+    "habías *hablado*",
+    "había *hablado*",
+    "habíamos *hablado*",
+    "habíais *hablado*",
+    "habían *hablado*"
+   ],
+   "examples": [
+    [
+     "Ya había hablado con él.",
+     "Ik had hem al gesproken."
+    ],
+    [
+     "¿Habías hablado con Ana antes?",
+     "Had je Ana al eerder gesproken?"
+    ],
+    [
+     "Ella había hablado con el jefe.",
+     "Zij had met de baas gesproken."
+    ],
+    [
+     "Habíamos hablado por teléfono.",
+     "We hadden elkaar aan de telefoon gesproken."
+    ],
+    [
+     "¿Habíais hablado con el profesor?",
+     "Hadden jullie met de leraar gesproken?"
+    ],
+    [
+     "Ellos habían hablado con todos.",
+     "Zij hadden met iedereen gesproken."
+    ]
+   ],
+   "label": "regelmatig werkwoord"
+  },
+  {
+   "type": "conj",
+   "tense": "pluscuamperfecto",
+   "verb": "comer",
+   "meaning": "eten",
+   "forms": [
+    "había *comido*",
+    "habías *comido*",
+    "había *comido*",
+    "habíamos *comido*",
+    "habíais *comido*",
+    "habían *comido*"
+   ],
+   "examples": [
+    [
+     "Ya había comido cuando llegaste.",
+     "Ik had al gegeten toen jij kwam."
+    ],
+    [
+     "¿Habías comido ya?",
+     "Had je al gegeten?"
+    ],
+    [
+     "Marta había comido en casa.",
+     "Marta had thuis gegeten."
+    ],
+    [
+     "Habíamos comido paella.",
+     "We hadden paella gegeten."
+    ],
+    [
+     "¿Habíais comido antes?",
+     "Hadden jullie al eerder gegeten?"
+    ],
+    [
+     "Los niños habían comido poco.",
+     "De kinderen hadden weinig gegeten."
+    ]
+   ],
+   "label": "regelmatig werkwoord"
+  },
+  {
+   "type": "conj",
+   "tense": "pluscuamperfecto",
+   "verb": "hacer",
+   "meaning": "doen, maken",
+   "forms": [
+    "había *hecho*",
+    "habías *hecho*",
+    "había *hecho*",
+    "habíamos *hecho*",
+    "habíais *hecho*",
+    "habían *hecho*"
+   ],
+   "examples": [
+    [
+     "Ya había hecho la compra.",
+     "Ik had de boodschappen al gedaan."
+    ],
+    [
+     "¿Habías hecho los deberes?",
+     "Had je je huiswerk gemaakt?"
+    ],
+    [
+     "Ella había hecho la maleta.",
+     "Zij had haar koffer gepakt."
+    ],
+    [
+     "Habíamos hecho un plan.",
+     "We hadden een plan gemaakt."
+    ],
+    [
+     "¿Habíais hecho la reserva?",
+     "Hadden jullie de reservering gemaakt?"
+    ],
+    [
+     "Mis padres habían hecho una reforma.",
+     "Mijn ouders hadden een verbouwing gedaan."
+    ]
+   ],
+   "label": "onregelmatig voltooid deelwoord"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.6,
+    5.4
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Vóór een andere gebeurtenis in het verleden",
+     "Cuando llegué, ya había salido.",
+     "Toen ik aankwam, was hij al weg."
+    ],
+    [
+     "Ervaring vóór een moment in het verleden",
+     "Nunca había visto el mar.",
+     "Ik had de zee nog nooit gezien."
+    ],
+    [
+     "Indirecte rede",
+     "Dijo que había terminado.",
+     "Hij zei dat hij klaar was."
+    ],
+    [
+     "Een situatie in het verleden uitleggen",
+     "Estaba cansado porque había trabajado mucho.",
+     "Ik was moe omdat ik veel had gewerkt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Volgorde van gebeurtenissen",
+   "text": "Gebruik de indefinido voor de latere gebeurtenis en de pluscuamperfecto voor de eerdere: <b>Cuando llegamos</b> (indefinido), <b>ya habían empezado</b> (pluscuamperfecto). Als de volgorde duidelijk is uit de woorden (<i>antes, después</i>), gebruikt het Spaans vaak gewoon de indefinido."
+  },
+  {
+   "type": "h1",
+   "text": "3. De futuro perfecto"
+  },
+  {
+   "type": "p",
+   "text": "<b>habré + deelwoord</b> zegt dat iets <b>op een bepaald moment af zal zijn</b>, of drukt <b>waarschijnlijkheid over een recent verleden</b> uit."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "futuro perfecto",
+   "verbs": [
+    {
+     "inf": "hablar",
+     "meaning": "spreken",
+     "forms": [
+      "habré *hablado*",
+      "habrás *hablado*",
+      "habrá *hablado*",
+      "habremos *hablado*",
+      "habréis *hablado*",
+      "habrán *hablado*"
+     ]
+    },
+    {
+     "inf": "comer",
+     "meaning": "eten",
+     "forms": [
+      "habré *comido*",
+      "habrás *comido*",
+      "habrá *comido*",
+      "habremos *comido*",
+      "habréis *comido*",
+      "habrán *comido*"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "habré *hecho*",
+      "habrás *hecho*",
+      "habrá *hecho*",
+      "habremos *hecho*",
+      "habréis *hecho*",
+      "habrán *hecho*"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Af op een bepaald moment",
+     "Para el viernes habré terminado.",
+     "Vrijdag ben ik klaar. (Vrijdag zal ik het afgemaakt hebben.)"
+    ],
+    [
+     "Waarschijnlijkheid, verleden",
+     "Ya habrán llegado.",
+     "Ze zullen nu wel aangekomen zijn."
+    ],
+    [
+     "Waarschijnlijkheid, verleden",
+     "¿Dónde habrá puesto las llaves?",
+     "Waar zou hij de sleutels gelaten hebben?"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "4. De condicional perfecto"
+  },
+  {
+   "type": "p",
+   "text": "<b>habría + deelwoord</b> betekent <b>zou hebben</b>: iets dat niet gebeurd is, of een beleefde of onzekere uitspraak over het verleden."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "condicional perfecto",
+   "verbs": [
+    {
+     "inf": "hablar",
+     "meaning": "spreken",
+     "forms": [
+      "habría *hablado*",
+      "habrías *hablado*",
+      "habría *hablado*",
+      "habríamos *hablado*",
+      "habríais *hablado*",
+      "habrían *hablado*"
+     ]
+    },
+    {
+     "inf": "comer",
+     "meaning": "eten",
+     "forms": [
+      "habría *comido*",
+      "habrías *comido*",
+      "habría *comido*",
+      "habríamos *comido*",
+      "habríais *comido*",
+      "habrían *comido*"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "habría *hecho*",
+      "habrías *hecho*",
+      "habría *hecho*",
+      "habríamos *hecho*",
+      "habríais *hecho*",
+      "habrían *hecho*"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Onwerkelijk verleden",
+     "Yo habría hecho lo mismo.",
+     "Ik zou hetzelfde gedaan hebben."
+    ],
+    [
+     "Gemiste kans",
+     "Habría ido, pero no tenía tiempo.",
+     "Ik zou gegaan zijn, maar ik had geen tijd."
+    ],
+    [
+     "Indirecte rede",
+     "Dijo que habría terminado para el lunes.",
+     "Hij zei dat hij maandag klaar zou zijn."
+    ],
+    [
+     "Waarschijnlijkheid, verleden",
+     "Habría salido ya.",
+     "Hij was waarschijnlijk al weg."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De pretérito perfecto de subjuntivo"
+  },
+  {
+   "type": "p",
+   "text": "Gebruik <b>haya + deelwoord</b> na dezelfde aanleidingen als bij de presente de subjuntivo (pdf 3) als de handeling in de bijzin <b>al af is</b>."
+  },
+  {
+   "type": "conjgrid",
+   "tense": "pretérito perfecto de subjuntivo",
+   "verbs": [
+    {
+     "inf": "hablar",
+     "meaning": "spreken",
+     "forms": [
+      "haya *hablado*",
+      "hayas *hablado*",
+      "haya *hablado*",
+      "hayamos *hablado*",
+      "hayáis *hablado*",
+      "hayan *hablado*"
+     ]
+    },
+    {
+     "inf": "comer",
+     "meaning": "eten",
+     "forms": [
+      "haya *comido*",
+      "hayas *comido*",
+      "haya *comido*",
+      "hayamos *comido*",
+      "hayáis *comido*",
+      "hayan *comido*"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "haya *hecho*",
+      "hayas *hecho*",
+      "haya *hecho*",
+      "hayamos *hecho*",
+      "hayáis *hecho*",
+      "hayan *hecho*"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.2,
+    5.2
+   ],
+   "head": [
+    "Presente de subjuntivo (nog niet)",
+    "Perfecto de subjuntivo (af)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Espero que vengas.",
+     "Espero que hayas venido.",
+     "Ik hoop dat je komt. / Ik hoop dat je gekomen bent."
+    ],
+    [
+     "Dudo que termine.",
+     "Dudo que haya terminado.",
+     "Ik betwijfel of hij het afmaakt. / Ik betwijfel of hij klaar is."
+    ],
+    [
+     "Me alegro de que estés aquí.",
+     "Me alegro de que hayas llegado.",
+     "Ik ben blij dat je hier bent. / Ik ben blij dat je aangekomen bent."
+    ],
+    [
+     "Cuando termines, llámame.",
+     "Cuando hayas terminado, llámame.",
+     "Bel me als je klaar bent. / Bel me als je het afgemaakt hebt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "En cuanto, cuando, después de que",
+   "text": "Gebruik voor de toekomst de perfecto de subjuntivo om te benadrukken dat iets af is: <i>En cuanto hayamos comido, saldremos.</i> (Zodra we gegeten hebben, gaan we de deur uit.)"
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Cuando llegué, ya salí.",
+     "Cuando llegué, ya había salido.",
+     "De eerdere handeling krijgt de pluscuamperfecto."
+    ],
+    [
+     "Había comió.",
+     "Había comido.",
+     "Het deelwoord van werkwoorden op -er eindigt op -ido."
+    ],
+    [
+     "Habíamos hacido.",
+     "Habíamos hecho.",
+     "Het deelwoord van hacer is hecho."
+    ],
+    [
+     "Dijo que ha terminado.",
+     "Dijo que había terminado.",
+     "Na een werkwoord van zeggen in het verleden gebruik je de pluscuamperfecto."
+    ],
+    [
+     "Para mañana he terminado.",
+     "Para mañana habré terminado.",
+     "Een deadline in de toekomst vraagt om de futuro perfecto."
+    ],
+    [
+     "Espero que has llegado bien.",
+     "Espero que hayas llegado bien.",
+     "Espero que heeft de subjuntivo nodig: hayas."
+    ],
+    [
+     "Me alegro de que has venido.",
+     "Me alegro de que hayas venido.",
+     "Dezelfde regel: haya, hayas, haya ..."
+    ],
+    [
+     "Habían ya salido.",
+     "Ya habían salido.",
+     "haber en het deelwoord worden nooit gescheiden."
+    ],
+    [
+     "Yo había vivir en Cuba.",
+     "Yo había vivido en Cuba.",
+     "Na haber volgt het deelwoord, niet de infinitief."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf de voltooide vorm van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Cuando llegué, ellos ya ______.",
+     "hint": "salir (pluscuamperfecto)",
+     "a": "habían salido",
+     "full": "Cuando llegué, ellos ya habían salido."
+    },
+    {
+     "q": "Yo nunca ______ el mar antes de ese viaje.",
+     "hint": "ver (pluscuamperfecto)",
+     "a": "había visto",
+     "full": "Yo nunca había visto el mar antes de ese viaje."
+    },
+    {
+     "q": "¿______ ya cuando llegamos?",
+     "hint": "comer (tú, pluscuamperfecto)",
+     "a": "Habías comido",
+     "full": "¿Habías comido ya cuando llegamos?"
+    },
+    {
+     "q": "Nosotros ya ______ la reserva.",
+     "hint": "hacer (pluscuamperfecto)",
+     "a": "habíamos hecho",
+     "full": "Nosotros ya habíamos hecho la reserva."
+    },
+    {
+     "q": "Dijo que ya ______ el trabajo.",
+     "hint": "terminar (pluscuamperfecto)",
+     "a": "había terminado",
+     "full": "Dijo que ya había terminado el trabajo."
+    },
+    {
+     "q": "Para el viernes yo ______ el informe.",
+     "hint": "escribir (futuro perfecto)",
+     "a": "habré escrito",
+     "full": "Para el viernes yo habré escrito el informe."
+    },
+    {
+     "q": "Ya ______ a casa, seguro.",
+     "hint": "llegar (ellos, futuro perfecto)",
+     "a": "habrán llegado",
+     "full": "Ya habrán llegado a casa, seguro."
+    },
+    {
+     "q": "Yo ______ lo mismo.",
+     "hint": "hacer (condicional perfecto)",
+     "a": "habría hecho",
+     "full": "Yo habría hecho lo mismo."
+    },
+    {
+     "q": "Espero que tú ______ bien.",
+     "hint": "llegar (perfecto de subjuntivo)",
+     "a": "hayas llegado",
+     "full": "Espero que tú hayas llegado bien."
+    },
+    {
+     "q": "Me alegro de que ______.",
+     "hint": "venir (vosotros, perfecto de subjuntivo)",
+     "a": "hayáis venido",
+     "full": "Me alegro de que hayáis venido."
+    },
+    {
+     "q": "Cuando ______, llámame.",
+     "hint": "terminar (tú, perfecto de subjuntivo)",
+     "a": "hayas terminado",
+     "full": "Cuando hayas terminado, llámame."
+    },
+    {
+     "q": "Dudo que ellos ______ la verdad.",
+     "hint": "decir (perfecto de subjuntivo)",
+     "a": "hayan dicho",
+     "full": "Dudo que ellos hayan dicho la verdad."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik had de zee nog nooit gezien.",
+     "a": "Nunca había visto el mar."
+    },
+    {
+     "q": "Ze zal nu wel aangekomen zijn.",
+     "a": "Habrá llegado ya."
+    },
+    {
+     "q": "Ik zou nee gezegd hebben.",
+     "a": "Habría dicho que no."
+    },
+    {
+     "q": "Ik hoop dat je goed geslapen hebt.",
+     "a": "Espero que hayas dormido bien."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,651 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Voorwaardelijke zinnen en indirecte rede",
+  "subtitle": "werkelijke en onwerkelijke voorwaarden, de imperfecto de subjuntivo, en uitspraken, vragen en opdrachten doorgeven",
+  "footer": "Language Learning · B1 · Grammatica · Voorwaardelijke zinnen en indirecte rede",
+  "next": "Volgende: B1 · pdf 8 — ser/estar en werkwoorden van verandering"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "werkelijke voorwaarden maken met si + presente (Si llueve, me quedo en casa)",
+    "onwerkelijke of onwaarschijnlijke voorwaarden maken met si + imperfecto de subjuntivo (Si tuviera dinero, viajaría)",
+    "doorgeven wat iemand zei, vroeg of opdroeg (Dijo que vendría)",
+    "tijden, tijdwoorden en voornaamwoorden goed verschuiven in de indirecte rede"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Werkelijke voorwaarden: si + presente"
+  },
+  {
+   "type": "p",
+   "text": "Als de voorwaarde <b>mogelijk of waarschijnlijk</b> is, gebruik je <b>si + presente de indicativo</b>. Het gevolg kan in de presente, de futuro of de gebiedende wijs staan."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.2,
+    5.2
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "si + presente, presente",
+     "Si llueve, me quedo en casa.",
+     "Als het regent, blijf ik thuis."
+    ],
+    [
+     "si + presente, futuro",
+     "Si estudias, aprobarás el examen.",
+     "Als je studeert, haal je het examen."
+    ],
+    [
+     "si + presente, gebiedende wijs",
+     "Si tienes sed, bebe agua.",
+     "Als je dorst hebt, drink water."
+    ],
+    [
+     "si + presente, ir a + inf.",
+     "Si no te das prisa, vas a llegar tarde.",
+     "Als je niet opschiet, kom je te laat."
+    ],
+    [
+     "si + pretérito perfecto, futuro",
+     "Si no ha llegado, lo llamaré.",
+     "Als hij nog niet is aangekomen, bel ik hem."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Nooit een futuro na si",
+   "text": "Na <b>si</b> (als) gebruik je de <b>presente</b>, nooit de futuro: <i>Si tengo tiempo, iré</i>, niet <i>Si tendré tiempo, iré</i>. (<i>Me pregunto si vendrá</i> is anders: hier betekent si 'of'.)"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Net als in het Nederlands",
+   "text": "Het Nederlandse <i>als het regent, blijf ik thuis</i> werkt precies hetzelfde. Het enige verschil is de toekomst: ook het Nederlands vermijdt <i>als ik zal komen</i>."
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "2. De imperfecto de subjuntivo (vormen)"
+  },
+  {
+   "type": "p",
+   "text": "Neem de <b>ellos-vorm van de indefinido</b>, haal <b>-ron</b> eraf en voeg de uitgangen hieronder toe. Dit werkt voor elk werkwoord, regelmatig of onregelmatig."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    2.8,
+    2.8,
+    2.8,
+    2.8,
+    2.4
+   ],
+   "head": [
+    "",
+    "hablar",
+    "comer",
+    "vivir",
+    "ser / ir",
+    "tener"
+   ],
+   "rows": [
+    [
+     "yo",
+     "hablara",
+     "comiera",
+     "viviera",
+     "fuera",
+     "tuviera"
+    ],
+    [
+     "tú",
+     "hablaras",
+     "comieras",
+     "vivieras",
+     "fueras",
+     "tuvieras"
+    ],
+    [
+     "él / ella / usted",
+     "hablara",
+     "comiera",
+     "viviera",
+     "fuera",
+     "tuviera"
+    ],
+    [
+     "nosotros",
+     "habláramos",
+     "comiéramos",
+     "viviéramos",
+     "fuéramos",
+     "tuviéramos"
+    ],
+    [
+     "vosotros",
+     "hablarais",
+     "comierais",
+     "vivierais",
+     "fuerais",
+     "tuvierais"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "hablaran",
+     "comieran",
+     "vivieran",
+     "fueran",
+     "tuvieran"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.4,
+    4.2,
+    4.2
+   ],
+   "head": [
+    "Infinitief",
+    "Indefinido (ellos)",
+    "Stam",
+    "yo-vorm"
+   ],
+   "rows": [
+    [
+     "hacer",
+     "hicieron",
+     "hicie-",
+     "hiciera"
+    ],
+    [
+     "poder",
+     "pudieron",
+     "pudie-",
+     "pudiera"
+    ],
+    [
+     "querer",
+     "quisieron",
+     "quisie-",
+     "quisiera"
+    ],
+    [
+     "estar",
+     "estuvieron",
+     "estuvie-",
+     "estuviera"
+    ],
+    [
+     "decir",
+     "dijeron",
+     "dije-",
+     "dijera"
+    ],
+    [
+     "saber",
+     "supieron",
+     "supie-",
+     "supiera"
+    ],
+    [
+     "venir",
+     "vinieron",
+     "vinie-",
+     "viniera"
+    ],
+    [
+     "poner",
+     "pusieron",
+     "pusie-",
+     "pusiera"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Uitgangen: <b>-ra, -ras, -ra, -ramos, -rais, -ran</b>. De <b>nosotros</b>-vorm heeft altijd een accent op de klinker voor -ramos: <i>habláramos, tuviéramos</i>.",
+    "Werkwoorden met een <b>j</b> in de indefinido (decir, traer, conducir) laten de i weg: <i>dijeron</i> geeft <i>dijera</i>, niet <i>dijiera</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Onwaarschijnlijke of onwerkelijke voorwaarden"
+  },
+  {
+   "type": "p",
+   "text": "Voor dingen die <b>onwaarschijnlijk, denkbeeldig of in strijd met de werkelijkheid</b> zijn, gebruik je <b>si + imperfecto de subjuntivo</b>, en de <b>condicional</b> in het gevolg (zie B1 pdf 1)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.2,
+    5.2
+   ],
+   "head": [
+    "Situatie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Denkbeeldig",
+     "Si tuviera dinero, viajaría por el mundo.",
+     "Als ik geld had, zou ik de wereld rondreizen."
+    ],
+    [
+     "Onwaarschijnlijk",
+     "Si ganara la lotería, compraría una casa.",
+     "Als ik de loterij won, zou ik een huis kopen."
+    ],
+    [
+     "In strijd met de werkelijkheid",
+     "Si fuera tú, hablaría con ella.",
+     "Als ik jou was, zou ik met haar praten."
+    ],
+    [
+     "Beleefd verzoek",
+     "Si pudieras ayudarme, te lo agradecería.",
+     "Als je me zou kunnen helpen, zou ik je dankbaar zijn."
+    ],
+    [
+     "Om advies vragen",
+     "¿Qué harías si estuvieras en mi lugar?",
+     "Wat zou jij doen als je in mijn schoenen stond?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Geen condicional na si",
+   "text": "De bijzin met <b>si</b> krijgt nooit de condicional: <i>Si tuviera tiempo, iría</i>, niet <i>Si tendría tiempo, iría</i>. Nederlandstaligen maken deze fout vaak, omdat ze twee keer aan <i>zou</i> denken (<i>als ik tijd zou hebben, zou ik gaan</i>)."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Handig met quisiera",
+   "text": "<b>Quisiera</b> (imperfecto de subjuntivo van querer) is een beleefd 'ik zou graag willen': <i>Quisiera una mesa para dos.</i> Ook <b>pudiera</b> en <b>debiera</b> worden gebruikt om beleefd te zijn."
+  },
+  {
+   "type": "p",
+   "text": "<b>como si</b> (alsof) krijgt altijd de imperfecto de subjuntivo: <i>Habla como si fuera el jefe.</i> (Hij praat alsof hij de baas is.)"
+  },
+  {
+   "type": "h1",
+   "text": "4. Indirecte rede: uitspraken"
+  },
+  {
+   "type": "p",
+   "text": "Als het inleidende werkwoord in de <b>presente</b> staat (dice que), verandert er niets behalve de voornaamwoorden. Staat het in een <b>verleden tijd</b> (dijo que), dan schuift de tijd meestal een stap terug."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Directe rede",
+    "Indirect (dijo que ...)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "\"Tengo hambre.\" (presente)",
+     "Dijo que tenía hambre. (imperfecto)",
+     "Hij zei dat hij honger had."
+    ],
+    [
+     "\"Voy al cine.\" (presente)",
+     "Dijo que iba al cine.",
+     "Ze zei dat ze naar de bioscoop ging."
+    ],
+    [
+     "\"Compré un coche.\" (indefinido)",
+     "Dijo que había comprado un coche. (pluscuamperfecto)",
+     "Hij zei dat hij een auto had gekocht."
+    ],
+    [
+     "\"He terminado.\" (pretérito perfecto)",
+     "Dijo que había terminado.",
+     "Ze zei dat ze klaar was."
+    ],
+    [
+     "\"Iré mañana.\" (futuro)",
+     "Dijo que iría al día siguiente. (condicional)",
+     "Hij zei dat hij de volgende dag zou gaan."
+    ],
+    [
+     "\"Estaba cansado.\" (imperfecto)",
+     "Dijo que estaba cansado. (geen verandering)",
+     "Hij zei dat hij moe was."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Overzicht van de verschuivingen",
+   "bullets": [
+    "presente wordt <b>imperfecto</b>",
+    "indefinido / pretérito perfecto wordt <b>pluscuamperfecto</b> (había + deelwoord)",
+    "futuro wordt <b>condicional</b>",
+    "imperfecto blijft <b>imperfecto</b>"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Ook <b>woorden voor tijd en plaats</b> verschuiven, als je het op een ander moment doorvertelt:"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    4.4,
+    3.6,
+    5.4
+   ],
+   "head": [
+    "Direct",
+    "Indirect",
+    "Direct",
+    "Indirect"
+   ],
+   "rows": [
+    [
+     "hoy",
+     "ese día",
+     "aquí",
+     "allí"
+    ],
+    [
+     "mañana",
+     "al día siguiente",
+     "este",
+     "ese / aquel"
+    ],
+    [
+     "ayer",
+     "el día anterior",
+     "ahora",
+     "entonces"
+    ],
+    [
+     "la semana que viene",
+     "la semana siguiente",
+     "hace un año",
+     "un año antes"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Indirecte vragen en opdrachten"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.8,
+    5.2
+   ],
+   "head": [
+    "Direct",
+    "Indirect",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "\"¿Tienes hambre?\"",
+     "Me preguntó si tenía hambre.",
+     "Hij vroeg me of ik honger had."
+    ],
+    [
+     "\"¿Dónde vives?\"",
+     "Me preguntó dónde vivía.",
+     "Ze vroeg me waar ik woonde."
+    ],
+    [
+     "\"¿Qué quieres?\"",
+     "Me preguntó qué quería.",
+     "Hij vroeg me wat ik wilde."
+    ],
+    [
+     "\"Ven aquí.\"",
+     "Me dijo que viniera allí.",
+     "Hij zei dat ik daarheen moest komen."
+    ],
+    [
+     "\"No hables.\"",
+     "Me pidió que no hablara.",
+     "Ze vroeg me niet te praten."
+    ],
+    [
+     "\"Cierra la puerta.\"",
+     "Me ordenó que cerrara la puerta.",
+     "Hij beval me de deur dicht te doen."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Ja/nee-vragen</b> gebruiken <b>si</b>: <i>Preguntó si venías.</i> <b>Vraagwoorden</b> blijven staan, zonder vraagtekens: <i>Preguntó cuándo llegaba.</i>",
+    "<b>Opdrachten en verzoeken</b> gebruiken <b>que + subjuntivo</b>. Staat het inleidende werkwoord in het verleden, dan is het de imperfecto de subjuntivo: <i>Me dijo que viniera.</i> Staat het in de presente, dan de presente de subjuntivo: <i>Me dice que venga.</i>",
+    "Veelgebruikte inleidende werkwoorden: <b>decir, preguntar, contestar, responder, pedir, explicar, contar, comentar, añadir</b>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Si tendré tiempo, iré.",
+     "Si tengo tiempo, iré.",
+     "Geen futuro na si."
+    ],
+    [
+     "Si tendría dinero, viajaría.",
+     "Si tuviera dinero, viajaría.",
+     "si + imperfecto de subjuntivo."
+    ],
+    [
+     "Si fuera rico, compro un barco.",
+     "Si fuera rico, compraría un barco.",
+     "Condicional in het gevolg."
+    ],
+    [
+     "Si estudiaras, apruebas.",
+     "Si estudiaras, aprobarías.",
+     "Laat beide helften kloppen: subjuntivo + condicional."
+    ],
+    [
+     "Dijo que tiene hambre ayer.",
+     "Dijo que tenía hambre.",
+     "Inleidend werkwoord in het verleden: imperfecto."
+    ],
+    [
+     "Dijo que iré mañana.",
+     "Dijo que iría al día siguiente.",
+     "Futuro wordt condicional."
+    ],
+    [
+     "Me preguntó que tenía hambre.",
+     "Me preguntó si tenía hambre.",
+     "Ja/nee-vraag: si."
+    ],
+    [
+     "Me dijo que vienes.",
+     "Me dijo que viniera.",
+     "Opdracht: que + subjuntivo."
+    ],
+    [
+     "Si pudiera, lo haré.",
+     "Si pudiera, lo haría.",
+     "Onwerkelijke bijzin met si: condicional."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het werkwoord tussen haakjes of het ontbrekende woord in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Si ______ mañana, me quedaré en casa.",
+     "hint": "llover",
+     "a": "llueve",
+     "full": "Si llueve mañana, me quedaré en casa."
+    },
+    {
+     "q": "Si ______ dinero, viajaría por el mundo.",
+     "hint": "tener (imperfecto de subj.)",
+     "a": "tuviera",
+     "full": "Si tuviera dinero, viajaría por el mundo."
+    },
+    {
+     "q": "Si yo ______ tú, hablaría con ella.",
+     "hint": "ser (imperfecto de subj.)",
+     "a": "fuera",
+     "full": "Si yo fuera tú, hablaría con ella."
+    },
+    {
+     "q": "Si ______ la lotería, compraría una casa.",
+     "hint": "ganar (imperfecto de subj.)",
+     "a": "ganara",
+     "full": "Si ganara la lotería, compraría una casa."
+    },
+    {
+     "q": "Si estudias, ______ el examen.",
+     "hint": "aprobar (futuro)",
+     "a": "aprobarás",
+     "full": "Si estudias, aprobarás el examen."
+    },
+    {
+     "q": "Habla como si ______ el jefe.",
+     "hint": "ser (imperfecto de subj.)",
+     "a": "fuera",
+     "full": "Habla como si fuera el jefe."
+    },
+    {
+     "q": "Dijo que ______ hambre.",
+     "hint": "tener (imperfecto)",
+     "a": "tenía",
+     "full": "Dijo que tenía hambre."
+    },
+    {
+     "q": "Dijo que ______ al día siguiente.",
+     "hint": "ir (condicional)",
+     "a": "iría",
+     "full": "Dijo que iría al día siguiente."
+    },
+    {
+     "q": "Dijo que ya ______ comprado el billete.",
+     "hint": "haber (pluscuamperfecto)",
+     "a": "había",
+     "full": "Dijo que ya había comprado el billete."
+    },
+    {
+     "q": "Me preguntó ______ tenía hambre.",
+     "hint": "of",
+     "a": "si",
+     "full": "Me preguntó si tenía hambre."
+    },
+    {
+     "q": "Me dijo que ______ la puerta.",
+     "hint": "cerrar (imperfecto de subj.)",
+     "a": "cerrara",
+     "full": "Me dijo que cerrara la puerta."
+    },
+    {
+     "q": "Si ______ más tiempo, aprendería chino.",
+     "hint": "tener (imperfecto de subj.)",
+     "a": "tuviera",
+     "full": "Si tuviera más tiempo, aprendería chino."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Als het regent, blijven we thuis.",
+     "a": "Si llueve, nos quedaremos en casa."
+    },
+    {
+     "q": "Als ik een auto had, zou ik meer reizen.",
+     "a": "Si tuviera coche, viajaría más."
+    },
+    {
+     "q": "Ze zei dat ze moe was.",
+     "a": "Dijo que estaba cansada."
+    },
+    {
+     "q": "Hij vroeg me waar ik woonde.",
+     "a": "Me preguntó dónde vivía."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

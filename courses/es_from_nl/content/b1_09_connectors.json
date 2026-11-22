@@ -1,0 +1,636 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Grammatica",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Verbindingswoorden en signaalwoorden",
+  "subtitle": "ideeën verbinden, voegwoorden met indicativo of subjuntivo, een tekst opbouwen en natuurlijk praten",
+  "footer": "Language Learning · B1 · Grammatica · Verbindingswoorden en signaalwoorden",
+  "next": "Volgende: B1 · pdf 10 — Woordenschat en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "ideeën verbinden met woorden voor toevoeging, tegenstelling, oorzaak, gevolg en doel",
+    "na voegwoorden kiezen tussen indicativo en subjuntivo (aunque, cuando, para que, antes de que)",
+    "een tekst of praatje opbouwen (en primer lugar, por último, en resumen)",
+    "signaalwoorden uit de spreektaal gebruiken (bueno, pues, o sea, por cierto, de hecho)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Toevoeging en tegenstelling"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "además",
+     "Es barato; además, está cerca.",
+     "Het is goedkoop; bovendien is het dichtbij."
+    ],
+    [
+     "también / tampoco",
+     "Yo también voy. Yo tampoco voy.",
+     "Ik ga ook. Ik ga ook niet."
+    ],
+    [
+     "incluso / hasta",
+     "Incluso mi abuelo vino.",
+     "Zelfs mijn opa kwam."
+    ],
+    [
+     "pero",
+     "Quiero ir, pero no puedo.",
+     "Ik wil gaan, maar ik kan niet."
+    ],
+    [
+     "sin embargo",
+     "Es caro. Sin embargo, lo compraré.",
+     "Het is duur. Toch koop ik het."
+    ],
+    [
+     "no obstante",
+     "Es difícil; no obstante, lo intentaré.",
+     "Het is moeilijk; desondanks zal ik het proberen."
+    ],
+    [
+     "en cambio",
+     "Yo trabajo; mi hermano, en cambio, descansa.",
+     "Ik werk; mijn broer daarentegen rust uit."
+    ],
+    [
+     "mientras que",
+     "Ana es seria, mientras que Eva es divertida.",
+     "Ana is serieus, terwijl Eva grappig is."
+    ],
+    [
+     "por el contrario",
+     "No es fácil; por el contrario, es muy difícil.",
+     "Het is niet makkelijk; integendeel, het is heel moeilijk."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Oorzaak en gevolg"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "porque",
+     "No voy porque estoy enfermo.",
+     "Ik ga niet, omdat ik ziek ben."
+    ],
+    [
+     "ya que / puesto que",
+     "Ya que estás aquí, ayúdame.",
+     "Nu je hier toch bent, help me."
+    ],
+    [
+     "como (aan het begin)",
+     "Como llovía, nos quedamos.",
+     "Omdat het regende, bleven we."
+    ],
+    [
+     "debido a / a causa de + zelfstandig naamwoord",
+     "Debido a la lluvia, cancelaron el partido.",
+     "Door de regen werd de wedstrijd afgelast."
+    ],
+    [
+     "gracias a + zelfstandig naamwoord",
+     "Gracias a ti, aprobé.",
+     "Dankzij jou ben ik geslaagd."
+    ],
+    [
+     "así que",
+     "Estaba cansado, así que me acosté.",
+     "Ik was moe, dus ik ging naar bed."
+    ],
+    [
+     "por eso",
+     "Llovía; por eso me quedé.",
+     "Het regende; daarom bleef ik."
+    ],
+    [
+     "por lo tanto",
+     "Pagué; por lo tanto, puedo entrar.",
+     "Ik heb betaald; daarom mag ik naar binnen."
+    ],
+    [
+     "de modo que",
+     "Hablé claro, de modo que lo entendieron.",
+     "Ik sprak duidelijk, zodat ze het begrepen."
+    ],
+    [
+     "entonces",
+     "No hay tiempo; entonces, vámonos.",
+     "Er is geen tijd; laten we dan gaan."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "porque / por qué / porqué / por que",
+   "bullets": [
+    "<b>porque</b> (één woord) = omdat: <i>No vino porque estaba enfermo.</i>",
+    "<b>por qué</b> (twee woorden, accent) = waarom in een vraag: <i>¿Por qué no viniste?</i>",
+    "<b>el porqué</b> = de reden (zelfstandig naamwoord): <i>No sé el porqué.</i>",
+    "<b>por que</b> = voorzetsel + betrekkelijk voornaamwoord: <i>La razón por que...</i> (zeldzaam)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Doel, voorwaarde en toegeving"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    5.0,
+    7.4
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Gevolgd door",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "para + infinitief",
+     "infinitief (zelfde onderwerp)",
+     "Estudio para aprobar."
+    ],
+    [
+     "para que",
+     "subjuntivo (ander onderwerp)",
+     "Te llamo para que vengas."
+    ],
+    [
+     "a menos que",
+     "subjuntivo",
+     "Iré a menos que llueva."
+    ],
+    [
+     "con tal de que",
+     "subjuntivo",
+     "Te ayudo con tal de que me lo pidas."
+    ],
+    [
+     "siempre que",
+     "subjuntivo (voorwaarde)",
+     "Puedes venir siempre que avises."
+    ],
+    [
+     "a condición de que",
+     "subjuntivo",
+     "Lo hago a condición de que me pagues."
+    ],
+    [
+     "aunque",
+     "indicativo (een feit)",
+     "Aunque llueve, salgo."
+    ],
+    [
+     "aunque",
+     "subjuntivo (denkbeeldig)",
+     "Aunque llueva, saldré."
+    ],
+    [
+     "a pesar de que",
+     "indicativo",
+     "A pesar de que está cansado, trabaja."
+    ],
+    [
+     "a pesar de + zelfstandig naamwoord / inf.",
+     "zelfstandig naamwoord / infinitief",
+     "A pesar de la lluvia, salimos."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "aunque: feit of misschien?",
+   "text": "<b>Aunque + indicativo</b> = een feit dat je kent: <i>Aunque llueve, voy.</i> (Het regent, maar ik ga.) <b>Aunque + subjuntivo</b> = niet bekend of niet belangrijk: <i>Aunque llueva, iré.</i> (Zelfs als het regent, ga ik.)"
+  },
+  {
+   "type": "h1",
+   "text": "4. Verbindingswoorden van tijd"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    5.0,
+    7.4
+   ],
+   "head": [
+    "Verbindingswoord",
+    "Wijs voor de toekomst",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "cuando",
+     "subjuntivo",
+     "Cuando llegues, llámame."
+    ],
+    [
+     "en cuanto / tan pronto como",
+     "subjuntivo",
+     "En cuanto termine, te aviso."
+    ],
+    [
+     "hasta que",
+     "subjuntivo",
+     "Espera hasta que vuelva."
+    ],
+    [
+     "antes de que",
+     "subjuntivo (altijd)",
+     "Salimos antes de que llueva."
+    ],
+    [
+     "después de que",
+     "subjuntivo (toekomst)",
+     "Después de que comas, saldremos."
+    ],
+    [
+     "mientras",
+     "indicativo (aan de gang)",
+     "Mientras cocino, escucho música."
+    ],
+    [
+     "siempre que",
+     "indicativo (elke keer)",
+     "Siempre que viene, trae flores."
+    ],
+    [
+     "antes de / después de + inf.",
+     "infinitief (zelfde onderwerp)",
+     "Antes de salir, cierra la puerta."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Voor gebeurtenissen <b>in het verleden of uit gewoonte</b> krijgen ze de indicativo: <i>Cuando llegó, cenamos. Cuando llego, saludo.</i>",
+    "Gebruik voor de <b>toekomst</b> de subjuntivo na cuando, en cuanto, hasta que (niet de futuro): <i>Cuando tenga tiempo, te llamaré.</i>"
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "5. Een tekst of praatje opbouwen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    12.0
+   ],
+   "head": [
+    "Functie",
+    "Uitdrukkingen"
+   ],
+   "rows": [
+    [
+     "Beginnen",
+     "en primer lugar, para empezar, ante todo, lo primero"
+    ],
+    [
+     "Verdergaan",
+     "en segundo lugar, además, asimismo, también, por otro lado"
+    ],
+    [
+     "Een voorbeeld geven",
+     "por ejemplo, es decir, en concreto, como"
+    ],
+    [
+     "Mening",
+     "en mi opinión, a mi parecer, creo que, desde mi punto de vista, me parece que"
+    ],
+    [
+     "Het eens zijn",
+     "estoy de acuerdo, tienes razón, exacto, por supuesto"
+    ],
+    [
+     "Het oneens zijn",
+     "no estoy de acuerdo, no creo que + subjuntivo, al contrario"
+    ],
+    [
+     "Twee kanten tegenover elkaar",
+     "por un lado ... por otro (lado), mientras que"
+    ],
+    [
+     "Afsluiten",
+     "por último, finalmente, en resumen, en conclusión, para terminar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "creer que tegenover no creer que",
+   "text": "<b>Creo que</b> + indicativo: <i>Creo que tiene razón.</i> <b>No creo que</b> + subjuntivo: <i>No creo que tenga razón.</i> (Hetzelfde geldt voor pensar en parecer.)"
+  },
+  {
+   "type": "h1",
+   "text": "6. Spreken: signaalwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Signaalwoord",
+    "Gebruik",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "bueno",
+     "een antwoord beginnen, aarzelen",
+     "Bueno, la verdad es que no sé."
+    ],
+    [
+     "pues",
+     "verdergaan, pauzeren",
+     "Pues no lo sé."
+    ],
+    [
+     "o sea",
+     "anders zeggen, 'ik bedoel'",
+     "Llegó tarde, o sea, a las diez."
+    ],
+    [
+     "es decir",
+     "anders zeggen (formeler)",
+     "Es ingeniero, es decir, trabaja con máquinas."
+    ],
+    [
+     "vale",
+     "oké (Spanje)",
+     "¿Quedamos a las ocho? Vale."
+    ],
+    [
+     "por cierto",
+     "trouwens",
+     "Por cierto, ¿has visto a Luis?"
+    ],
+    [
+     "a propósito",
+     "trouwens (formeler)",
+     "A propósito, mañana hay reunión."
+    ],
+    [
+     "la verdad es que",
+     "eerlijk gezegd",
+     "La verdad es que no me gusta."
+    ],
+    [
+     "de hecho",
+     "sterker nog, eigenlijk",
+     "De hecho, ya lo sabía."
+    ],
+    [
+     "en realidad",
+     "eigenlijk, in werkelijkheid",
+     "En realidad, no es tan caro."
+    ],
+    [
+     "total",
+     "kortom, uiteindelijk",
+     "Total, que no fuimos."
+    ],
+    [
+     "¿no?, ¿verdad?",
+     "vraagstaartje, 'toch?'",
+     "Hace calor, ¿verdad?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spaanse stopwoordjes",
+   "text": "Spanjaarden gebruiken in gesprekken voortdurend <b>bueno, pues, vale, o sea, ¿sabes?, ¿vale?</b>. <b>Vale</b> betekent 'oké' in Spanje; in Latijns-Amerika zegt men <i>okay</i>, <i>dale</i> of <i>de acuerdo</i>."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Cuando llegaré, te llamo.",
+     "Cuando llegue, te llamo.",
+     "Subjuntivo na cuando voor de toekomst."
+    ],
+    [
+     "Voy para que verte.",
+     "Voy para verte.",
+     "Zelfde onderwerp: para + infinitief."
+    ],
+    [
+     "Te llamo para que vienes.",
+     "Te llamo para que vengas.",
+     "para que + subjuntivo."
+    ],
+    [
+     "Salimos antes de que llueve.",
+     "Salimos antes de que llueva.",
+     "antes de que: altijd subjuntivo."
+    ],
+    [
+     "Debido que llovía, me quedé.",
+     "Debido a que llovía, me quedé.",
+     "debido a (que)."
+    ],
+    [
+     "Porque no viniste?",
+     "¿Por qué no viniste?",
+     "Vraag: por qué."
+    ],
+    [
+     "No creo que tiene razón.",
+     "No creo que tenga razón.",
+     "no creer que + subjuntivo."
+    ],
+    [
+     "Aunque llueve, iré mañana.",
+     "Aunque llueva, iré mañana.",
+     "Onbekende gebeurtenis in de toekomst: subjuntivo."
+    ],
+    [
+     "Estoy cansado, pero por eso me acuesto.",
+     "Estoy cansado, por eso me acuesto.",
+     "Haal pero en por eso niet door elkaar."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het werkwoord tussen haakjes of het ontbrekende verbindingswoord in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Cuando ______ a casa, te llamaré.",
+     "hint": "llegar (yo, subjuntivo)",
+     "a": "llegue",
+     "full": "Cuando llegue a casa, te llamaré."
+    },
+    {
+     "q": "Te llamo para que ______.",
+     "hint": "venir (tú, subjuntivo)",
+     "a": "vengas",
+     "full": "Te llamo para que vengas."
+    },
+    {
+     "q": "Estudio ______ aprobar el examen.",
+     "hint": "doel, zelfde onderwerp",
+     "a": "para",
+     "full": "Estudio para aprobar el examen."
+    },
+    {
+     "q": "Salimos antes de que ______.",
+     "hint": "llover (subjuntivo)",
+     "a": "llueva",
+     "full": "Salimos antes de que llueva."
+    },
+    {
+     "q": "Estaba cansado, ______ me acosté.",
+     "hint": "dus",
+     "a": "así que",
+     "full": "Estaba cansado, así que me acosté."
+    },
+    {
+     "q": "______ la lluvia, cancelaron el partido.",
+     "hint": "door, vanwege",
+     "a": "Debido a",
+     "full": "Debido a la lluvia, cancelaron el partido."
+    },
+    {
+     "q": "¿______ no viniste ayer?",
+     "hint": "waarom",
+     "a": "Por qué",
+     "full": "¿Por qué no viniste ayer?"
+    },
+    {
+     "q": "No creo que ______ razón.",
+     "hint": "tener (él, subjuntivo)",
+     "a": "tenga",
+     "full": "No creo que tenga razón."
+    },
+    {
+     "q": "Aunque ______, saldré.",
+     "hint": "llover (misschien, subjuntivo)",
+     "a": "llueva",
+     "full": "Aunque llueva, saldré."
+    },
+    {
+     "q": "Ana es seria, ______ que Eva es divertida.",
+     "hint": "terwijl (tegenstelling)",
+     "a": "mientras",
+     "full": "Ana es seria, mientras que Eva es divertida."
+    },
+    {
+     "q": "En ______, no hay mucho tiempo.",
+     "hint": "kortom",
+     "a": "resumen",
+     "full": "En resumen, no hay mucho tiempo."
+    },
+    {
+     "q": "Espera hasta que ______.",
+     "hint": "volver (yo, subjuntivo)",
+     "a": "vuelva",
+     "full": "Espera hasta que vuelva."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Bel me als je aankomt.",
+     "a": "Cuando llegues, llámame."
+    },
+    {
+     "q": "Het regende, dus we bleven thuis.",
+     "a": "Llovía, así que nos quedamos en casa."
+    },
+    {
+     "q": "Zelfs als het regent, ga ik.",
+     "a": "Aunque llueva, iré."
+    },
+    {
+     "q": "Trouwens, heb je Luis gezien?",
+     "a": "Por cierto, ¿has visto a Luis?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
