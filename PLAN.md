@@ -90,7 +90,7 @@ Choices made (Menno can overrule any of them):
 
 - [x] 2.1 Translate the explanations of A1 (content, themes, verbs-in-context notes) into Dutch;
       Spanish stays as it is. Generate the PDFs, run the tests.
-- [ ] 2.2 A2
+- [x] 2.2 A2
 - [ ] 2.3 B1
 - [ ] 2.4 B2
 - [ ] 2.5 C1

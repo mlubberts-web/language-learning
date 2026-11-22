@@ -1,0 +1,2921 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Woordenschat",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Reizen, hotels, winkelen, gezondheid, de stad, het weer, werk, vrije tijd, technologie, onderwijs, gevoelens en alledaagse zinnen",
+  "footer": "Language Learning · A2 · Woordenschat en vaste uitdrukkingen",
+  "next": "Volgende: B1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zo gebruik je deze lijsten",
+   "bullets": [
+    "Zelfstandige naamwoorden staan erbij met hun <b>lidwoord</b> (el / la). Leer ze samen: el billete, la maleta.",
+    "Dek één kolom af en overhoor jezelf in beide richtingen; schrijf daarna zinnen met de indefinido, imperfecto en perfecto die je op dit niveau hebt geleerd.",
+    "Alle woorden zijn Spaans uit Spanje. De tabel in deel 14 laat zien waar Latijns-Amerika anders is.",
+    "Haakjes achter een werkwoord geven een stamverandering in de presente aan: <i>recordar (ue)</i> geeft <i>recuerdo</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Reizen en vakantie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Reizen",
+   "items": [
+    [
+     "el viaje",
+     "reis"
+    ],
+    [
+     "las vacaciones",
+     "vakantie"
+    ],
+    [
+     "el billete",
+     "kaartje (trein, vliegtuig)"
+    ],
+    [
+     "el billete de ida",
+     "enkeltje"
+    ],
+    [
+     "el billete de ida y vuelta",
+     "retourtje"
+    ],
+    [
+     "el pasaporte",
+     "paspoort"
+    ],
+    [
+     "el equipaje",
+     "bagage"
+    ],
+    [
+     "la maleta",
+     "koffer"
+    ],
+    [
+     "la mochila",
+     "rugzak"
+    ],
+    [
+     "el vuelo",
+     "vlucht"
+    ],
+    [
+     "el aeropuerto",
+     "vliegveld"
+    ],
+    [
+     "la estación",
+     "station"
+    ],
+    [
+     "el andén",
+     "perron"
+    ],
+    [
+     "la salida",
+     "vertrek, uitgang"
+    ],
+    [
+     "la llegada",
+     "aankomst"
+    ],
+    [
+     "el retraso",
+     "vertraging"
+    ],
+    [
+     "la reserva",
+     "reservering"
+    ],
+    [
+     "el destino",
+     "bestemming"
+    ],
+    [
+     "la aduana",
+     "douane"
+    ],
+    [
+     "la frontera",
+     "grens"
+    ],
+    [
+     "la tarjeta de embarque",
+     "instapkaart"
+    ],
+    [
+     "la puerta de embarque",
+     "gate"
+    ],
+    [
+     "el extranjero",
+     "het buitenland, in het buitenland"
+    ],
+    [
+     "el turista",
+     "toerist"
+    ],
+    [
+     "la playa",
+     "strand"
+    ],
+    [
+     "la montaña",
+     "berg, bergen"
+    ],
+    [
+     "el campo",
+     "platteland"
+    ],
+    [
+     "el mapa",
+     "kaart, plattegrond"
+    ],
+    [
+     "la excursión",
+     "uitstapje"
+    ],
+    [
+     "la visita guiada",
+     "rondleiding"
+    ],
+    [
+     "el recuerdo",
+     "souvenir, herinnering"
+    ],
+    [
+     "la isla",
+     "eiland"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor reizen",
+   "items": [
+    [
+     "viajar",
+     "reizen"
+    ],
+    [
+     "reservar",
+     "reserveren"
+    ],
+    [
+     "facturar",
+     "bagage inchecken"
+    ],
+    [
+     "despegar",
+     "opstijgen"
+    ],
+    [
+     "aterrizar",
+     "landen"
+    ],
+    [
+     "perder el tren",
+     "de trein missen"
+    ],
+    [
+     "hacer la maleta",
+     "de koffer pakken"
+    ],
+    [
+     "alquilar un coche",
+     "een auto huren"
+    ],
+    [
+     "tomar el sol",
+     "zonnebaden"
+    ],
+    [
+     "hacer turismo",
+     "bezienswaardigheden bekijken"
+    ],
+    [
+     "cambiar de tren",
+     "overstappen"
+    ],
+    [
+     "hacer cola",
+     "in de rij staan"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Hotel en onderdak"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Hotel",
+   "items": [
+    [
+     "el hotel",
+     "hotel"
+    ],
+    [
+     "la pensión",
+     "pension"
+    ],
+    [
+     "el albergue",
+     "hostel"
+    ],
+    [
+     "el camping",
+     "camping"
+    ],
+    [
+     "la habitación individual",
+     "eenpersoonskamer"
+    ],
+    [
+     "la habitación doble",
+     "tweepersoonskamer"
+    ],
+    [
+     "la recepción",
+     "receptie"
+    ],
+    [
+     "el recepcionista",
+     "receptionist"
+    ],
+    [
+     "la llave",
+     "sleutel"
+    ],
+    [
+     "la cama",
+     "bed"
+    ],
+    [
+     "la almohada",
+     "kussen"
+    ],
+    [
+     "la toalla",
+     "handdoek"
+    ],
+    [
+     "el baño",
+     "badkamer"
+    ],
+    [
+     "la ducha",
+     "douche"
+    ],
+    [
+     "el ascensor",
+     "lift"
+    ],
+    [
+     "la escalera",
+     "trap"
+    ],
+    [
+     "el aire acondicionado",
+     "airconditioning"
+    ],
+    [
+     "la calefacción",
+     "verwarming"
+    ],
+    [
+     "la piscina",
+     "zwembad"
+    ],
+    [
+     "el wifi",
+     "wifi"
+    ],
+    [
+     "la contraseña",
+     "wachtwoord"
+    ],
+    [
+     "el desayuno incluido",
+     "ontbijt inbegrepen"
+    ],
+    [
+     "la media pensión",
+     "halfpension"
+    ],
+    [
+     "la pensión completa",
+     "volpension"
+    ],
+    [
+     "el check-in",
+     "inchecken"
+    ],
+    [
+     "el check-out",
+     "uitchecken"
+    ],
+    [
+     "la vista al mar",
+     "uitzicht op zee"
+    ],
+    [
+     "el servicio de habitaciones",
+     "roomservice"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Winkelen en geld"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Winkelen",
+   "items": [
+    [
+     "la tienda",
+     "winkel"
+    ],
+    [
+     "el supermercado",
+     "supermarkt"
+    ],
+    [
+     "el mercado",
+     "markt"
+    ],
+    [
+     "el centro comercial",
+     "winkelcentrum"
+    ],
+    [
+     "el escaparate",
+     "etalage"
+    ],
+    [
+     "las rebajas",
+     "uitverkoop"
+    ],
+    [
+     "la oferta",
+     "aanbieding"
+    ],
+    [
+     "el precio",
+     "prijs"
+    ],
+    [
+     "el descuento",
+     "korting"
+    ],
+    [
+     "el dinero",
+     "geld"
+    ],
+    [
+     "el efectivo",
+     "contant geld"
+    ],
+    [
+     "la tarjeta de crédito",
+     "creditcard"
+    ],
+    [
+     "el cajero automático",
+     "geldautomaat"
+    ],
+    [
+     "el cambio",
+     "wisselgeld"
+    ],
+    [
+     "la moneda",
+     "munt"
+    ],
+    [
+     "el billete",
+     "bankbiljet"
+    ],
+    [
+     "el ticket / el recibo",
+     "kassabon"
+    ],
+    [
+     "la factura",
+     "factuur"
+    ],
+    [
+     "la talla",
+     "maat (kleding)"
+    ],
+    [
+     "el número",
+     "maat (schoenen)"
+    ],
+    [
+     "el probador",
+     "paskamer"
+    ],
+    [
+     "la bolsa",
+     "tas"
+    ],
+    [
+     "la caja",
+     "kassa"
+    ],
+    [
+     "el dependiente / la dependienta",
+     "verkoper, verkoopster"
+    ],
+    [
+     "el cliente",
+     "klant"
+    ],
+    [
+     "barato",
+     "goedkoop"
+    ],
+    [
+     "caro",
+     "duur"
+    ],
+    [
+     "gratis",
+     "gratis"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor winkelen",
+   "items": [
+    [
+     "gastar",
+     "uitgeven"
+    ],
+    [
+     "pagar",
+     "betalen"
+    ],
+    [
+     "costar (ue)",
+     "kosten"
+    ],
+    [
+     "devolver (ue)",
+     "terugbrengen, teruggeven"
+    ],
+    [
+     "probarse (ue)",
+     "passen"
+    ],
+    [
+     "regalar",
+     "cadeau geven"
+    ],
+    [
+     "quedar bien",
+     "goed staan, goed passen"
+    ],
+    [
+     "ahorrar",
+     "sparen"
+    ],
+    [
+     "cambiar",
+     "ruilen, wisselen"
+    ],
+    [
+     "pagar en efectivo",
+     "contant betalen"
+    ],
+    [
+     "pagar con tarjeta",
+     "met de kaart betalen"
+    ],
+    [
+     "ir de compras",
+     "gaan winkelen"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Restaurant en eten"
+  },
+  {
+   "type": "verbpairs",
+   "title": "In het restaurant",
+   "items": [
+    [
+     "la carta",
+     "menukaart"
+    ],
+    [
+     "el menú del día",
+     "dagmenu"
+    ],
+    [
+     "el camarero / la camarera",
+     "ober / serveerster"
+    ],
+    [
+     "la cuenta",
+     "rekening"
+    ],
+    [
+     "la propina",
+     "fooi"
+    ],
+    [
+     "el plato",
+     "bord, gerecht"
+    ],
+    [
+     "el primer plato",
+     "voorgerecht"
+    ],
+    [
+     "el segundo plato",
+     "hoofdgerecht"
+    ],
+    [
+     "el postre",
+     "toetje"
+    ],
+    [
+     "la bebida",
+     "drankje"
+    ],
+    [
+     "la tapa",
+     "klein hapje"
+    ],
+    [
+     "la ración",
+     "grote portie om te delen"
+    ],
+    [
+     "la caña",
+     "klein glas tapbier"
+    ],
+    [
+     "el vaso",
+     "glas"
+    ],
+    [
+     "la copa",
+     "wijnglas, drankje"
+    ],
+    [
+     "la botella",
+     "fles"
+    ],
+    [
+     "la servilleta",
+     "servet"
+    ],
+    [
+     "el tenedor",
+     "vork"
+    ],
+    [
+     "el cuchillo",
+     "mes"
+    ],
+    [
+     "la cuchara",
+     "lepel"
+    ],
+    [
+     "el bocadillo",
+     "broodje (stokbrood)"
+    ],
+    [
+     "la ensalada",
+     "salade"
+    ],
+    [
+     "el pescado",
+     "vis"
+    ],
+    [
+     "la carne",
+     "vlees"
+    ],
+    [
+     "el marisco",
+     "zeevruchten"
+    ],
+    [
+     "las patatas fritas",
+     "patat"
+    ],
+    [
+     "la tortilla de patatas",
+     "Spaanse tortilla"
+    ],
+    [
+     "la sal / la pimienta",
+     "zout / peper"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Menú del día",
+   "text": "De meeste Spaanse restaurants hebben 's middags een <b>menú del día</b>: een voorgerecht, een hoofdgerecht, een toetje of koffie, brood en een drankje voor een vaste prijs (vaak 10 tot 15 euro). Om <b>la cuenta</b> vragen is normaal: obers brengen de rekening niet uit zichzelf."
+  },
+  {
+   "type": "h1",
+   "text": "5. Gezondheid en het lichaam"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Het lichaam",
+   "items": [
+    [
+     "la cabeza",
+     "hoofd"
+    ],
+    [
+     "el pelo",
+     "haar"
+    ],
+    [
+     "la cara",
+     "gezicht"
+    ],
+    [
+     "el ojo",
+     "oog"
+    ],
+    [
+     "la nariz",
+     "neus"
+    ],
+    [
+     "la boca",
+     "mond"
+    ],
+    [
+     "el diente",
+     "tand"
+    ],
+    [
+     "la oreja",
+     "oor (buitenkant)"
+    ],
+    [
+     "el oído",
+     "oor (binnenkant), gehoor"
+    ],
+    [
+     "el cuello",
+     "nek, hals"
+    ],
+    [
+     "el hombro",
+     "schouder"
+    ],
+    [
+     "el brazo",
+     "arm"
+    ],
+    [
+     "la mano",
+     "hand"
+    ],
+    [
+     "el dedo",
+     "vinger"
+    ],
+    [
+     "la espalda",
+     "rug"
+    ],
+    [
+     "el pecho",
+     "borst"
+    ],
+    [
+     "el estómago",
+     "maag"
+    ],
+    [
+     "la barriga",
+     "buik"
+    ],
+    [
+     "la pierna",
+     "been"
+    ],
+    [
+     "la rodilla",
+     "knie"
+    ],
+    [
+     "el pie",
+     "voet"
+    ],
+    [
+     "el corazón",
+     "hart"
+    ],
+    [
+     "la piel",
+     "huid"
+    ],
+    [
+     "la garganta",
+     "keel"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Gezondheid",
+   "items": [
+    [
+     "la salud",
+     "gezondheid"
+    ],
+    [
+     "el médico / la médica",
+     "dokter"
+    ],
+    [
+     "el enfermero / la enfermera",
+     "verpleegkundige"
+    ],
+    [
+     "el hospital",
+     "ziekenhuis"
+    ],
+    [
+     "el centro de salud",
+     "gezondheidscentrum"
+    ],
+    [
+     "la farmacia",
+     "apotheek"
+    ],
+    [
+     "la receta",
+     "recept"
+    ],
+    [
+     "la medicina",
+     "medicijn"
+    ],
+    [
+     "la pastilla",
+     "pil"
+    ],
+    [
+     "la cita",
+     "afspraak"
+    ],
+    [
+     "la urgencia",
+     "spoedgeval"
+    ],
+    [
+     "la ambulancia",
+     "ambulance"
+    ],
+    [
+     "la fiebre",
+     "koorts"
+    ],
+    [
+     "la gripe",
+     "griep"
+    ],
+    [
+     "el resfriado",
+     "verkoudheid"
+    ],
+    [
+     "la tos",
+     "hoest"
+    ],
+    [
+     "el dolor",
+     "pijn"
+    ],
+    [
+     "el dolor de cabeza",
+     "hoofdpijn"
+    ],
+    [
+     "el dolor de estómago",
+     "buikpijn"
+    ],
+    [
+     "la alergia",
+     "allergie"
+    ],
+    [
+     "la herida",
+     "wond"
+    ],
+    [
+     "la tirita",
+     "pleister"
+    ],
+    [
+     "el seguro médico",
+     "zorgverzekering"
+    ],
+    [
+     "la sangre",
+     "bloed"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor gezondheid",
+   "items": [
+    [
+     "doler (ue)",
+     "pijn doen"
+    ],
+    [
+     "toser",
+     "hoesten"
+    ],
+    [
+     "sentirse (ie)",
+     "zich voelen"
+    ],
+    [
+     "estar resfriado",
+     "verkouden zijn"
+    ],
+    [
+     "tener fiebre",
+     "koorts hebben"
+    ],
+    [
+     "pedir cita",
+     "een afspraak maken"
+    ],
+    [
+     "tomar una pastilla",
+     "een pil innemen"
+    ],
+    [
+     "quedarse en cama",
+     "in bed blijven"
+    ],
+    [
+     "mejorar",
+     "beter worden"
+    ],
+    [
+     "cuidarse",
+     "goed voor jezelf zorgen"
+    ],
+    [
+     "romperse",
+     "breken (een bot)"
+    ],
+    [
+     "torcerse (ue)",
+     "verzwikken, verstuiken"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "oreja of oído?",
+   "text": "Het Nederlandse <i>oor</i> heeft twee Spaanse woorden: <b>la oreja</b> is de buitenkant van het oor, <b>el oído</b> is het binnenoor en het gehoor. <i>Me duele el oído</i> (ik heb oorpijn, vanbinnen), <i>Tiene las orejas grandes</i> (hij heeft grote oren)."
+  },
+  {
+   "type": "p",
+   "text": "Om te zeggen dat iets pijn doet, gebruik je <b>doler</b> met een meewerkend voornaamwoord, net als <i>gustar</i>: <i>Me duele la cabeza. Me duelen los pies.</i> Of: <i>Tengo dolor de cabeza.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "6. De stad en de weg vragen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Straten en plaatsen",
+   "items": [
+    [
+     "la calle",
+     "straat"
+    ],
+    [
+     "la avenida",
+     "laan"
+    ],
+    [
+     "la plaza",
+     "plein"
+    ],
+    [
+     "la esquina",
+     "hoek (van de straat)"
+    ],
+    [
+     "el cruce",
+     "kruispunt"
+    ],
+    [
+     "el semáforo",
+     "verkeerslicht"
+    ],
+    [
+     "el paso de cebra",
+     "zebrapad"
+    ],
+    [
+     "la acera",
+     "stoep"
+    ],
+    [
+     "el puente",
+     "brug"
+    ],
+    [
+     "la parada de autobús",
+     "bushalte"
+    ],
+    [
+     "el metro",
+     "metro"
+    ],
+    [
+     "la línea",
+     "lijn"
+    ],
+    [
+     "el taxi",
+     "taxi"
+    ],
+    [
+     "el aparcamiento",
+     "parkeergarage, parkeerplaats"
+    ],
+    [
+     "la gasolinera",
+     "tankstation"
+    ],
+    [
+     "el ayuntamiento",
+     "gemeentehuis"
+    ],
+    [
+     "la oficina de turismo",
+     "vvv, toeristenbureau"
+    ],
+    [
+     "el museo",
+     "museum"
+    ],
+    [
+     "la iglesia",
+     "kerk"
+    ],
+    [
+     "la catedral",
+     "kathedraal"
+    ],
+    [
+     "el castillo",
+     "kasteel"
+    ],
+    [
+     "el parque",
+     "park"
+    ],
+    [
+     "la biblioteca",
+     "bibliotheek"
+    ],
+    [
+     "la comisaría",
+     "politiebureau"
+    ],
+    [
+     "correos",
+     "postkantoor"
+    ],
+    [
+     "el banco",
+     "bank"
+    ],
+    [
+     "el barrio",
+     "wijk, buurt"
+    ],
+    [
+     "las afueras",
+     "buitenwijken"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "De weg wijzen en volgen",
+   "items": [
+    [
+     "seguir recto",
+     "rechtdoor gaan"
+    ],
+    [
+     "girar a la derecha",
+     "rechtsaf slaan"
+    ],
+    [
+     "girar a la izquierda",
+     "linksaf slaan"
+    ],
+    [
+     "cruzar",
+     "oversteken"
+    ],
+    [
+     "subir / bajar",
+     "omhooggaan / naar beneden gaan"
+    ],
+    [
+     "tomar la primera calle",
+     "de eerste straat nemen"
+    ],
+    [
+     "al final de la calle",
+     "aan het eind van de straat"
+    ],
+    [
+     "a la vuelta de la esquina",
+     "om de hoek"
+    ],
+    [
+     "a cinco minutos andando",
+     "vijf minuten lopen"
+    ],
+    [
+     "está lejos / cerca",
+     "het is ver / dichtbij"
+    ],
+    [
+     "está al lado de",
+     "het is naast"
+    ],
+    [
+     "en la esquina",
+     "op de hoek"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Weer en natuur"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Weer",
+   "items": [
+    [
+     "el tiempo",
+     "het weer"
+    ],
+    [
+     "el clima",
+     "klimaat"
+    ],
+    [
+     "la temperatura",
+     "temperatuur"
+    ],
+    [
+     "los grados",
+     "graden"
+    ],
+    [
+     "el sol",
+     "zon"
+    ],
+    [
+     "la nube",
+     "wolk"
+    ],
+    [
+     "la lluvia",
+     "regen"
+    ],
+    [
+     "la nieve",
+     "sneeuw"
+    ],
+    [
+     "el viento",
+     "wind"
+    ],
+    [
+     "la tormenta",
+     "onweer, storm"
+    ],
+    [
+     "la niebla",
+     "mist"
+    ],
+    [
+     "el cielo",
+     "lucht, hemel"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.8,
+    5.6,
+    5.6
+   ],
+   "head": [
+    "Uitdrukking",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "Hace sol.",
+     "De zon schijnt.",
+     "Hoy hace sol."
+    ],
+    [
+     "Hace calor / frío.",
+     "Het is warm / koud.",
+     "En agosto hace mucho calor."
+    ],
+    [
+     "Hace viento.",
+     "Het waait.",
+     "Hace viento en la costa."
+    ],
+    [
+     "Llueve. (llover)",
+     "Het regent.",
+     "Ayer llovió todo el día."
+    ],
+    [
+     "Nieva. (nevar)",
+     "Het sneeuwt.",
+     "En enero nieva en la sierra."
+    ],
+    [
+     "Está nublado.",
+     "Het is bewolkt.",
+     "Hoy está nublado."
+    ],
+    [
+     "Hay niebla / tormenta.",
+     "Het is mistig / Er is onweer.",
+     "Hay tormenta esta noche."
+    ],
+    [
+     "¿Qué tiempo hace?",
+     "Wat voor weer is het?",
+     "¿Qué tiempo hace en Sevilla?"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Natuur en dieren",
+   "items": [
+    [
+     "el mar",
+     "zee"
+    ],
+    [
+     "el río",
+     "rivier"
+    ],
+    [
+     "el lago",
+     "meer"
+    ],
+    [
+     "el bosque",
+     "bos"
+    ],
+    [
+     "el árbol",
+     "boom"
+    ],
+    [
+     "la flor",
+     "bloem"
+    ],
+    [
+     "el animal",
+     "dier"
+    ],
+    [
+     "el perro",
+     "hond"
+    ],
+    [
+     "el gato",
+     "kat"
+    ],
+    [
+     "el pájaro",
+     "vogel"
+    ],
+    [
+     "el caballo",
+     "paard"
+    ],
+    [
+     "la vaca",
+     "koe"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Werk en beroepen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werk",
+   "items": [
+    [
+     "el trabajo",
+     "werk, baan"
+    ],
+    [
+     "el empleo",
+     "werkgelegenheid, baan"
+    ],
+    [
+     "la empresa",
+     "bedrijf"
+    ],
+    [
+     "la oficina",
+     "kantoor"
+    ],
+    [
+     "el jefe / la jefa",
+     "baas"
+    ],
+    [
+     "el compañero de trabajo",
+     "collega"
+    ],
+    [
+     "el sueldo",
+     "salaris"
+    ],
+    [
+     "el horario",
+     "rooster, werktijden"
+    ],
+    [
+     "el contrato",
+     "contract"
+    ],
+    [
+     "la entrevista",
+     "sollicitatiegesprek"
+    ],
+    [
+     "el currículum",
+     "cv"
+    ],
+    [
+     "la reunión",
+     "vergadering"
+    ],
+    [
+     "el paro",
+     "werkloosheid"
+    ],
+    [
+     "la jornada completa",
+     "voltijds"
+    ],
+    [
+     "la media jornada",
+     "deeltijds"
+    ],
+    [
+     "las vacaciones",
+     "vakantie (verlof)"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Beroepen",
+   "items": [
+    [
+     "el ingeniero / la ingeniera",
+     "ingenieur"
+    ],
+    [
+     "el profesor / la profesora",
+     "leraar, lerares"
+    ],
+    [
+     "el médico / la médica",
+     "arts"
+    ],
+    [
+     "el abogado / la abogada",
+     "advocaat"
+    ],
+    [
+     "el arquitecto / la arquitecta",
+     "architect"
+    ],
+    [
+     "el camarero / la camarera",
+     "ober"
+    ],
+    [
+     "el cocinero / la cocinera",
+     "kok"
+    ],
+    [
+     "el conductor / la conductora",
+     "chauffeur"
+    ],
+    [
+     "el policía / la policía",
+     "politieagent"
+    ],
+    [
+     "el bombero / la bombera",
+     "brandweerman, brandweervrouw"
+    ],
+    [
+     "el vendedor / la vendedora",
+     "verkoper"
+    ],
+    [
+     "el programador / la programadora",
+     "programmeur"
+    ],
+    [
+     "el estudiante / la estudiante",
+     "student"
+    ],
+    [
+     "el empleado / la empleada",
+     "werknemer"
+    ],
+    [
+     "el obrero / la obrera",
+     "arbeider"
+    ],
+    [
+     "el funcionario / la funcionaria",
+     "ambtenaar"
+    ]
+   ],
+   "widths": [
+    5.6,
+    2.9,
+    5.6,
+    2.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor werk",
+   "items": [
+    [
+     "trabajar",
+     "werken"
+    ],
+    [
+     "ganar",
+     "verdienen"
+    ],
+    [
+     "contratar",
+     "aannemen (personeel)"
+    ],
+    [
+     "despedir (i)",
+     "ontslaan"
+    ],
+    [
+     "dimitir",
+     "ontslag nemen"
+    ],
+    [
+     "jubilarse",
+     "met pensioen gaan"
+    ],
+    [
+     "estar en paro",
+     "werkloos zijn"
+    ],
+    [
+     "buscar trabajo",
+     "werk zoeken"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Beroepen krijgen geen lidwoord na <b>ser</b>: <i>Soy ingeniero industrial. Mi madre es médica.</i> Met een bijvoeglijk naamwoord wel: <i>Es un buen ingeniero.</i>",
+    "Veel beroepen hebben een vrouwelijke vorm op <b>-a</b> (<i>la médica</i>, <i>la abogada</i>, <i>la ingeniera</i>); woorden op <b>-ista</b> en <b>-e</b> blijven gelijk (<i>el / la dentista</i>, <i>el / la estudiante</i>)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "9. Hobby's en vrije tijd"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vrije tijd",
+   "items": [
+    [
+     "el tiempo libre",
+     "vrije tijd"
+    ],
+    [
+     "la afición",
+     "hobby"
+    ],
+    [
+     "el deporte",
+     "sport"
+    ],
+    [
+     "el fútbol",
+     "voetbal"
+    ],
+    [
+     "el baloncesto",
+     "basketbal"
+    ],
+    [
+     "el tenis",
+     "tennis"
+    ],
+    [
+     "la natación",
+     "zwemmen"
+    ],
+    [
+     "el ciclismo",
+     "wielrennen"
+    ],
+    [
+     "el senderismo",
+     "wandelen (in de natuur)"
+    ],
+    [
+     "la música",
+     "muziek"
+    ],
+    [
+     "la película",
+     "film"
+    ],
+    [
+     "la serie",
+     "serie"
+    ],
+    [
+     "el libro",
+     "boek"
+    ],
+    [
+     "el videojuego",
+     "videospel"
+    ],
+    [
+     "el concierto",
+     "concert"
+    ],
+    [
+     "la fiesta",
+     "feest"
+    ],
+    [
+     "el gimnasio",
+     "sportschool"
+    ],
+    [
+     "el equipo",
+     "team"
+    ],
+    [
+     "el partido",
+     "wedstrijd"
+    ],
+    [
+     "el cine",
+     "bioscoop"
+    ],
+    [
+     "el teatro",
+     "theater"
+    ],
+    [
+     "el museo",
+     "museum"
+    ],
+    [
+     "la discoteca",
+     "club"
+    ],
+    [
+     "el bar",
+     "bar, café"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor vrije tijd",
+   "items": [
+    [
+     "jugar (ue) al fútbol",
+     "voetballen"
+    ],
+    [
+     "tocar la guitarra",
+     "gitaar spelen"
+    ],
+    [
+     "bailar",
+     "dansen"
+    ],
+    [
+     "cantar",
+     "zingen"
+    ],
+    [
+     "pintar",
+     "schilderen"
+    ],
+    [
+     "cocinar",
+     "koken"
+    ],
+    [
+     "leer",
+     "lezen"
+    ],
+    [
+     "hacer deporte",
+     "sporten"
+    ],
+    [
+     "hacer senderismo",
+     "een wandeltocht maken"
+    ],
+    [
+     "quedar con amigos",
+     "afspreken met vrienden"
+    ],
+    [
+     "salir de copas",
+     "iets gaan drinken"
+    ],
+    [
+     "ir de tapas",
+     "tapas gaan eten"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "jugar a, tocar",
+   "text": "Sporten en spellen krijgen <b>jugar a</b> (<i>jugar al tenis, jugar a las cartas</i>), muziekinstrumenten krijgen <b>tocar</b> (<i>tocar el piano</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "10. Technologie en communicatie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Technologie",
+   "items": [
+    [
+     "el ordenador",
+     "computer"
+    ],
+    [
+     "el portátil",
+     "laptop"
+    ],
+    [
+     "el móvil",
+     "mobiele telefoon"
+    ],
+    [
+     "la tableta",
+     "tablet"
+    ],
+    [
+     "la pantalla",
+     "scherm"
+    ],
+    [
+     "el teclado",
+     "toetsenbord"
+    ],
+    [
+     "el ratón",
+     "muis"
+    ],
+    [
+     "el cargador",
+     "oplader"
+    ],
+    [
+     "la batería",
+     "batterij, accu"
+    ],
+    [
+     "internet",
+     "internet"
+    ],
+    [
+     "la aplicación",
+     "app"
+    ],
+    [
+     "el correo electrónico",
+     "e-mail"
+    ],
+    [
+     "el mensaje",
+     "bericht"
+    ],
+    [
+     "el archivo",
+     "bestand"
+    ],
+    [
+     "el enlace",
+     "link"
+    ],
+    [
+     "la red social",
+     "sociaal netwerk"
+    ],
+    [
+     "el sitio web",
+     "website"
+    ],
+    [
+     "la foto",
+     "foto"
+    ],
+    [
+     "el vídeo",
+     "video"
+    ],
+    [
+     "la impresora",
+     "printer"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor technologie",
+   "items": [
+    [
+     "descargar",
+     "downloaden"
+    ],
+    [
+     "subir",
+     "uploaden"
+    ],
+    [
+     "enviar",
+     "sturen"
+    ],
+    [
+     "guardar",
+     "opslaan"
+    ],
+    [
+     "imprimir",
+     "printen"
+    ],
+    [
+     "conectarse",
+     "verbinden"
+    ],
+    [
+     "navegar por internet",
+     "surfen op internet"
+    ],
+    [
+     "hacer clic",
+     "klikken"
+    ],
+    [
+     "mandar un mensaje",
+     "een bericht sturen"
+    ],
+    [
+     "llamar por teléfono",
+     "bellen"
+    ],
+    [
+     "chatear",
+     "chatten"
+    ],
+    [
+     "apagar / encender",
+     "uitzetten / aanzetten"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "11. Onderwijs"
+  },
+  {
+   "type": "verbpairs",
+   "title": "School en universiteit",
+   "items": [
+    [
+     "la escuela",
+     "basisschool"
+    ],
+    [
+     "el colegio",
+     "school"
+    ],
+    [
+     "el instituto",
+     "middelbare school"
+    ],
+    [
+     "la universidad",
+     "universiteit"
+    ],
+    [
+     "la facultad",
+     "faculteit"
+    ],
+    [
+     "la clase",
+     "les"
+    ],
+    [
+     "el curso",
+     "cursus, schooljaar"
+    ],
+    [
+     "la asignatura",
+     "vak"
+    ],
+    [
+     "el examen",
+     "examen, toets"
+    ],
+    [
+     "la nota",
+     "cijfer"
+    ],
+    [
+     "el título",
+     "diploma, certificaat"
+    ],
+    [
+     "la carrera",
+     "universitaire studie"
+    ],
+    [
+     "el grado",
+     "bachelor"
+    ],
+    [
+     "el máster",
+     "master"
+    ],
+    [
+     "la beca",
+     "beurs"
+    ],
+    [
+     "el alumno / la alumna",
+     "leerling"
+    ],
+    [
+     "los deberes",
+     "huiswerk"
+    ],
+    [
+     "el trabajo",
+     "werkstuk"
+    ],
+    [
+     "la biblioteca",
+     "bibliotheek"
+    ],
+    [
+     "la matrícula",
+     "inschrijving"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden voor onderwijs",
+   "items": [
+    [
+     "aprobar (ue)",
+     "halen (een examen)"
+    ],
+    [
+     "suspender",
+     "zakken"
+    ],
+    [
+     "sacar buenas notas",
+     "goede cijfers halen"
+    ],
+    [
+     "estudiar una carrera",
+     "studeren (een opleiding volgen)"
+    ],
+    [
+     "matricularse",
+     "zich inschrijven"
+    ],
+    [
+     "graduarse",
+     "afstuderen"
+    ],
+    [
+     "repasar",
+     "herhalen, leren voor een toets"
+    ],
+    [
+     "hacer un examen",
+     "een examen doen"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje: aprobar en suspender",
+   "text": "In Spanje kun je voor een examen <b>aprobar</b> (slagen) of <b>suspender</b> (zakken), en een voldoende is een <b>cinco</b> op tien. <i>He suspendido matemáticas</i> = ik ben gezakt voor wiskunde. In sommige Latijns-Amerikaanse landen zegt men <i>reprobar</i> voor zakken."
+  },
+  {
+   "type": "h1",
+   "text": "12. Gevoelens en karakter"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Gevoelens (met estar)",
+   "items": [
+    [
+     "alegre",
+     "vrolijk"
+    ],
+    [
+     "contento / contenta",
+     "blij, gelukkig"
+    ],
+    [
+     "triste",
+     "verdrietig"
+    ],
+    [
+     "enfadado / enfadada",
+     "boos"
+    ],
+    [
+     "nervioso / nerviosa",
+     "zenuwachtig"
+    ],
+    [
+     "tranquilo / tranquila",
+     "rustig"
+    ],
+    [
+     "preocupado / preocupada",
+     "bezorgd"
+    ],
+    [
+     "cansado / cansada",
+     "moe"
+    ],
+    [
+     "sorprendido / sorprendida",
+     "verbaasd"
+    ],
+    [
+     "asustado / asustada",
+     "bang"
+    ],
+    [
+     "emocionado / emocionada",
+     "opgewonden, ontroerd"
+    ],
+    [
+     "orgulloso / orgullosa",
+     "trots"
+    ]
+   ],
+   "widths": [
+    4.8,
+    3.7,
+    4.8,
+    3.7
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Karakter (met ser)",
+   "items": [
+    [
+     "simpático / simpática",
+     "aardig, vriendelijk"
+    ],
+    [
+     "antipático / antipática",
+     "onaardig"
+    ],
+    [
+     "amable",
+     "vriendelijk, lief"
+    ],
+    [
+     "sincero / sincera",
+     "eerlijk"
+    ],
+    [
+     "trabajador / trabajadora",
+     "hardwerkend"
+    ],
+    [
+     "perezoso / perezosa",
+     "lui"
+    ],
+    [
+     "inteligente",
+     "slim"
+    ],
+    [
+     "divertido / divertida",
+     "leuk, grappig"
+    ],
+    [
+     "serio / seria",
+     "serieus"
+    ],
+    [
+     "generoso / generosa",
+     "vrijgevig"
+    ],
+    [
+     "tímido / tímida",
+     "verlegen"
+    ],
+    [
+     "abierto / abierta",
+     "open, extravert"
+    ]
+   ],
+   "widths": [
+    4.8,
+    3.7,
+    4.8,
+    3.7
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    6.9,
+    6.9
+   ],
+   "head": [
+    "Bijvoeglijk naamwoord",
+    "met ser",
+    "met estar"
+   ],
+   "rows": [
+    [
+     "aburrido",
+     "Es aburrido. (Hij is saai.)",
+     "Está aburrido. (Hij verveelt zich.)"
+    ],
+    [
+     "listo",
+     "Es listo. (Hij is slim.)",
+     "Está listo. (Hij is klaar.)"
+    ],
+    [
+     "malo",
+     "Es malo. (Hij is slecht / gemeen.)",
+     "Está malo. (Hij is ziek.)"
+    ],
+    [
+     "despierto",
+     "Es despierto. (Hij is pienter.)",
+     "Está despierto. (Hij is wakker.)"
+    ],
+    [
+     "atento",
+     "Es atento. (Hij is attent.)",
+     "Está atento. (Hij let op.)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "13. Handige werkwoorden en woorden voor frequentie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Handige werkwoorden",
+   "items": [
+    [
+     "echar de menos",
+     "missen"
+    ],
+    [
+     "recordar (ue)",
+     "zich herinneren"
+    ],
+    [
+     "olvidar",
+     "vergeten"
+    ],
+    [
+     "encontrar (ue)",
+     "vinden"
+    ],
+    [
+     "perder (ie)",
+     "verliezen"
+    ],
+    [
+     "llevar",
+     "dragen, meenemen, brengen"
+    ],
+    [
+     "traer",
+     "brengen, meebrengen"
+    ],
+    [
+     "dejar",
+     "laten, achterlaten"
+    ],
+    [
+     "prestar",
+     "lenen (aan iemand)"
+    ],
+    [
+     "conseguir (i)",
+     "bereiken, voor elkaar krijgen"
+    ],
+    [
+     "intentar",
+     "proberen"
+    ],
+    [
+     "esperar",
+     "wachten, hopen"
+    ],
+    [
+     "preguntar",
+     "vragen (een vraag)"
+    ],
+    [
+     "contestar",
+     "antwoorden"
+    ],
+    [
+     "enseñar",
+     "leren (aan iemand), laten zien"
+    ],
+    [
+     "cuidar",
+     "zorgen voor, passen op"
+    ],
+    [
+     "quedar",
+     "afspreken"
+    ],
+    [
+     "quedarse",
+     "blijven"
+    ],
+    [
+     "parecer",
+     "lijken"
+    ],
+    [
+     "ocurrir",
+     "gebeuren"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Woorden voor frequentie en tijd",
+   "items": [
+    [
+     "a menudo",
+     "vaak"
+    ],
+    [
+     "con frecuencia",
+     "regelmatig"
+    ],
+    [
+     "de vez en cuando",
+     "af en toe"
+    ],
+    [
+     "a veces",
+     "soms"
+    ],
+    [
+     "casi nunca",
+     "bijna nooit"
+    ],
+    [
+     "casi siempre",
+     "bijna altijd"
+    ],
+    [
+     "todos los días",
+     "elke dag"
+    ],
+    [
+     "una vez al mes",
+     "één keer per maand"
+    ],
+    [
+     "ya",
+     "al, nu"
+    ],
+    [
+     "todavía / aún",
+     "nog, nog steeds"
+    ],
+    [
+     "pronto",
+     "snel, vroeg"
+    ],
+    [
+     "tarde / temprano",
+     "laat / vroeg"
+    ],
+    [
+     "enseguida",
+     "meteen"
+    ],
+    [
+     "luego",
+     "later, daarna"
+    ],
+    [
+     "mientras",
+     "terwijl"
+    ],
+    [
+     "de repente",
+     "plotseling"
+    ]
+   ],
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "14. Spanje of Latijns-Amerika?"
+  },
+  {
+   "type": "p",
+   "latam_ok": true,
+   "text": "Deze cursus gebruikt Spaans uit Spanje. De woorden in de rechterkolom kom je tegen in films, series en apps uit Latijns-Amerika."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "latam_ok": true,
+   "widths": [
+    4.6,
+    6.0,
+    6.4
+   ],
+   "head": [
+    "Spanje",
+    "Latijns-Amerika (veel gebruikt)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "el ordenador",
+     "la computadora",
+     "computer"
+    ],
+    [
+     "el móvil",
+     "el celular",
+     "mobiele telefoon"
+    ],
+    [
+     "el coche",
+     "el carro, el auto",
+     "auto"
+    ],
+    [
+     "conducir",
+     "manejar",
+     "autorijden"
+    ],
+    [
+     "aparcar",
+     "estacionar",
+     "parkeren"
+    ],
+    [
+     "coger (el autobús)",
+     "tomar (el camión)",
+     "nemen (de bus)"
+    ],
+    [
+     "el billete",
+     "el boleto",
+     "kaartje"
+    ],
+    [
+     "el zumo",
+     "el jugo",
+     "sap"
+    ],
+    [
+     "la patata",
+     "la papa",
+     "aardappel"
+    ],
+    [
+     "el melocotón",
+     "el durazno",
+     "perzik"
+    ],
+    [
+     "las gafas",
+     "los lentes",
+     "bril"
+    ],
+    [
+     "el piso",
+     "el apartamento",
+     "appartement"
+    ],
+    [
+     "el grifo",
+     "la llave",
+     "kraan"
+    ],
+    [
+     "la nevera",
+     "el refrigerador, la heladera",
+     "koelkast"
+    ],
+    [
+     "el cacahuete",
+     "el maní",
+     "pinda"
+    ],
+    [
+     "¿vale?",
+     "¿okay? / ¿listo?",
+     "oké?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "15. Vaste uitdrukkingen"
+  },
+  {
+   "type": "h2",
+   "text": "Op het vliegveld of het station"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¿A qué hora sale el tren a Valencia?",
+     "Hoe laat vertrekt de trein naar Valencia?"
+    ],
+    [
+     "Un billete de ida y vuelta a Sevilla, por favor.",
+     "Een retourtje Sevilla, alstublieft."
+    ],
+    [
+     "¿De qué andén sale?",
+     "Van welk perron vertrekt hij?"
+    ],
+    [
+     "He perdido mi maleta.",
+     "Ik ben mijn koffer kwijt."
+    ],
+    [
+     "El vuelo lleva retraso.",
+     "De vlucht heeft vertraging."
+    ],
+    [
+     "¿Dónde puedo facturar el equipaje?",
+     "Waar kan ik mijn bagage inchecken?"
+    ],
+    [
+     "¿Es este el tren para Madrid?",
+     "Is dit de trein naar Madrid?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "In het hotel"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Tengo una reserva a nombre de ...",
+     "Ik heb een reservering op naam van ..."
+    ],
+    [
+     "¿Tienen una habitación libre?",
+     "Heeft u een kamer vrij?"
+    ],
+    [
+     "¿El desayuno está incluido?",
+     "Is het ontbijt inbegrepen?"
+    ],
+    [
+     "¿A qué hora es el check-out?",
+     "Hoe laat moet ik uitchecken?"
+    ],
+    [
+     "¿Cuál es la contraseña del wifi?",
+     "Wat is het wachtwoord van de wifi?"
+    ],
+    [
+     "No funciona el aire acondicionado.",
+     "De airconditioning doet het niet."
+    ],
+    [
+     "¿Me puede dar otra toalla, por favor?",
+     "Mag ik nog een handdoek, alstublieft?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Bij de dokter en de apotheek"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "No me encuentro bien.",
+     "Ik voel me niet goed."
+    ],
+    [
+     "Me duele la garganta.",
+     "Ik heb keelpijn."
+    ],
+    [
+     "Tengo fiebre y tos desde ayer.",
+     "Ik heb sinds gisteren koorts en hoest."
+    ],
+    [
+     "Soy alérgico a la penicilina.",
+     "Ik ben allergisch voor penicilline."
+    ],
+    [
+     "¿Cuántas veces al día tengo que tomarlo?",
+     "Hoe vaak per dag moet ik het innemen?"
+    ],
+    [
+     "¿Tiene algo para el dolor de cabeza?",
+     "Heeft u iets tegen hoofdpijn?"
+    ],
+    [
+     "Necesito pedir cita con el médico.",
+     "Ik moet een afspraak maken bij de dokter."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Aan de telefoon"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Diga. / Dígame. / ¿Sí?",
+     "Hallo (als je opneemt)."
+    ],
+    [
+     "Soy Menno. ¿Está Ana, por favor?",
+     "Met Menno. Is Ana er, alstublieft?"
+    ],
+    [
+     "¿Puede repetirlo, por favor?",
+     "Kunt u dat herhalen, alstublieft?"
+    ],
+    [
+     "Un momento, por favor.",
+     "Een momentje, alstublieft."
+    ],
+    [
+     "Le paso con el director.",
+     "Ik verbind u door met de directeur."
+    ],
+    [
+     "Te llamo luego.",
+     "Ik bel je straks."
+    ],
+    [
+     "Se ha cortado la llamada.",
+     "De verbinding is verbroken."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Plannen maken en uitnodigen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¿Qué vas a hacer este fin de semana?",
+     "Wat ga je dit weekend doen?"
+    ],
+    [
+     "¿Quedamos el sábado?",
+     "Zullen we zaterdag afspreken?"
+    ],
+    [
+     "¿Te apetece ir al cine?",
+     "Heb je zin om naar de bioscoop te gaan?"
+    ],
+    [
+     "Me encantaría, pero no puedo.",
+     "Heel graag, maar ik kan niet."
+    ],
+    [
+     "¿A qué hora quedamos?",
+     "Hoe laat spreken we af?"
+    ],
+    [
+     "Nos vemos allí.",
+     "Tot daar."
+    ],
+    [
+     "Vale, perfecto.",
+     "Oké, prima."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Meningen, het eens en oneens zijn"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Creo que tienes razón.",
+     "Ik denk dat je gelijk hebt."
+    ],
+    [
+     "Estoy de acuerdo.",
+     "Ik ben het ermee eens."
+    ],
+    [
+     "No estoy de acuerdo.",
+     "Ik ben het er niet mee eens."
+    ],
+    [
+     "Para mí, es muy interesante.",
+     "Voor mij is het heel interessant."
+    ],
+    [
+     "Depende.",
+     "Dat hangt ervan af."
+    ],
+    [
+     "Tal vez / quizás tengas razón.",
+     "Misschien heb je gelijk."
+    ],
+    [
+     "No lo sé, la verdad.",
+     "Ik weet het echt niet."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Excuses maken, bedanken en reageren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Lo siento mucho.",
+     "Het spijt me heel erg."
+    ],
+    [
+     "Perdona, no te había visto.",
+     "Sorry, ik had je niet gezien."
+    ],
+    [
+     "No pasa nada.",
+     "Geeft niks."
+    ],
+    [
+     "Gracias por todo. De nada.",
+     "Bedankt voor alles. Graag gedaan."
+    ],
+    [
+     "¡Qué bien! / ¡Qué pena! / ¡Qué rollo!",
+     "Wat leuk! / Wat jammer! / Wat saai!"
+    ],
+    [
+     "¡Madre mía! / ¡Anda!",
+     "Mijn hemel! / Nee toch!"
+    ],
+    [
+     "Es que no tengo tiempo.",
+     "Ik heb gewoon geen tijd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "16. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Zeg of schrijf het in het Spaans. Dek eerst de antwoorden op de laatste pagina af."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Nederlands",
+    "Opdracht"
+   ],
+   "answer_titles": [
+    "Spaans",
+    "Opmerking"
+   ],
+   "answer_widths": [
+    1.0,
+    8.0,
+    8.0
+   ],
+   "items": [
+    {
+     "q": "Een retourtje, alstublieft.",
+     "hint": "vertaal",
+     "a": "Un billete de ida y vuelta, por favor.",
+     "full": "Un billete de ida y vuelta, por favor.",
+     "why": "ida y vuelta = heen en terug.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik heb hoofdpijn.",
+     "hint": "vertaal",
+     "a": "Me duele la cabeza.",
+     "full": "Me duele la cabeza.",
+     "why": "doler werkt zoals gustar. Of: Tengo dolor de cabeza.",
+     "kind": "translate"
+    },
+    {
+     "q": "Hoeveel is de rekening?",
+     "hint": "vertaal",
+     "a": "¿Cuánto es la cuenta?",
+     "full": "¿Cuánto es la cuenta?",
+     "why": "la cuenta = de rekening (restaurant, hotel).",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik ben gezakt voor het examen.",
+     "hint": "vertaal",
+     "a": "He suspendido el examen.",
+     "full": "He suspendido el examen.",
+     "why": "suspender = zakken (Spanje). Pretérito perfecto voor iets recents.",
+     "kind": "translate"
+    },
+    {
+     "q": "Het regent en het is koud.",
+     "hint": "vertaal",
+     "a": "Llueve y hace frío.",
+     "full": "Llueve y hace frío.",
+     "why": "hace + frío / calor / sol / viento.",
+     "kind": "translate"
+    },
+    {
+     "q": "Sla op de hoek linksaf.",
+     "hint": "vertaal",
+     "a": "Gira a la izquierda en la esquina.",
+     "full": "Gira a la izquierda en la esquina.",
+     "why": "Tú-gebod van girar: gira.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik ben ingenieur.",
+     "hint": "vertaal",
+     "a": "Soy ingeniero.",
+     "full": "Soy ingeniero.",
+     "why": "Geen lidwoord na ser met een beroep. Vrouwen: ingeniera.",
+     "kind": "translate"
+    },
+    {
+     "q": "Heb je zin om naar de bioscoop te gaan?",
+     "hint": "vertaal",
+     "a": "¿Te apetece ir al cine?",
+     "full": "¿Te apetece ir al cine?",
+     "why": "apetecer werkt zoals gustar.",
+     "kind": "translate"
+    },
+    {
+     "q": "De vlucht heeft vertraging.",
+     "hint": "vertaal",
+     "a": "El vuelo lleva retraso.",
+     "full": "El vuelo lleva retraso.",
+     "why": "llevar retraso = vertraging hebben.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik verveel me.",
+     "hint": "vertaal",
+     "a": "Estoy aburrido.",
+     "full": "Estoy aburrido.",
+     "why": "estar aburrido = zich vervelen; ser aburrido = saai zijn.",
+     "kind": "translate"
+    },
+    {
+     "q": "Kunt u dat herhalen, alstublieft?",
+     "hint": "vertaal",
+     "a": "¿Puede repetirlo, por favor?",
+     "full": "¿Puede repetirlo, por favor?",
+     "why": "Beleefd: usted, dus puede.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik mis mijn familie.",
+     "hint": "vertaal",
+     "a": "Echo de menos a mi familia.",
+     "full": "Echo de menos a mi familia.",
+     "why": "echar de menos + persoonlijke a voor mensen.",
+     "kind": "translate"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

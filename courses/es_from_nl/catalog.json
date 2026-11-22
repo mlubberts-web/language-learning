@@ -97,5 +97,115 @@
   "subtitle": "Woordenlijsten per thema met lidwoord (Spaans uit Spanje), plus zinnen voor kennismaken, in het café, de weg vragen en winkelen",
   "content": "a1_09_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_01_Pretérito_indefinido_regelmatige_werkwoorden",
+  "file": "A2_01_Pretérito_indefinido_regelmatige_werkwoorden.pdf",
+  "level": "A2",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Pretérito indefinido: regelmatige werkwoorden",
+  "subtitle": "Afgeronde handelingen in het verleden: uitgangen, spellingsveranderingen en de stamverandering bij -ir in de derde persoon",
+  "content": "a2_01_preterite_regular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_02_Pretérito_indefinido_onregelmatige_werkwoorden",
+  "file": "A2_02_Pretérito_indefinido_onregelmatige_werkwoorden.pdf",
+  "level": "A2",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "Pretérito indefinido: onregelmatige werkwoorden",
+  "subtitle": "Onregelmatige stammen (u, i, j), ser en ir, en werkwoorden die in de pretérito indefinido van betekenis veranderen",
+  "content": "a2_02_preterite_irregular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_03_De_pretérito_imperfecto",
+  "file": "A2_03_De_pretérito_imperfecto.pdf",
+  "level": "A2",
+  "number": 3,
+  "section": "Werkwoorden",
+  "title": "De pretérito imperfecto",
+  "subtitle": "Gewoontes, beschrijvingen en situaties in het verleden: alle uitgangen, de drie onregelmatige werkwoorden en de tijdwoorden",
+  "content": "a2_03_imperfect.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_04_Pretérito_indefinido_of_imperfecto",
+  "file": "A2_04_Pretérito_indefinido_of_imperfecto.pdf",
+  "level": "A2",
+  "number": 4,
+  "section": "Werkwoorden",
+  "title": "Pretérito indefinido of imperfecto",
+  "subtitle": "Zo kies je tussen de twee verleden tijden, en zo gebruik je ze samen in een verhaal",
+  "content": "a2_04_preterite_vs_imperfect.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_05_De_pretérito_perfecto",
+  "file": "A2_05_De_pretérito_perfecto.pdf",
+  "level": "A2",
+  "number": 5,
+  "section": "Werkwoorden",
+  "title": "De pretérito perfecto",
+  "subtitle": "Haber + voltooid deelwoord: vormen, onregelmatige deelwoorden en wanneer Spanje hem gebruikt in plaats van de indefinido",
+  "content": "a2_05_present_perfect.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_06_Toekomst_en_handelingen_die_bezig_zijn",
+  "file": "A2_06_Toekomst_en_handelingen_die_bezig_zijn.pdf",
+  "level": "A2",
+  "number": 6,
+  "section": "Werkwoorden",
+  "title": "Toekomst en handelingen die bezig zijn",
+  "subtitle": "Ir a + infinitief, estar + gerundio, acabar de, volver a en andere werkwoordsconstructies",
+  "content": "a2_06_future_ongoing.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_07_De_gebiedende_wijs_basis",
+  "file": "A2_07_De_gebiedende_wijs_basis.pdf",
+  "level": "A2",
+  "number": 7,
+  "section": "Werkwoorden",
+  "title": "De gebiedende wijs (basis)",
+  "subtitle": "Geboden aan tú, usted, nosotros, vosotros en ustedes, bevestigend en ontkennend, met voornaamwoorden",
+  "content": "a2_07_imperative.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_08_Voornaamwoorden_als_voorwerp",
+  "file": "A2_08_Voornaamwoorden_als_voorwerp.pdf",
+  "level": "A2",
+  "number": 8,
+  "section": "Grammatica",
+  "title": "Voornaamwoorden als voorwerp",
+  "subtitle": "Lijdend en meewerkend voorwerp, twee voornaamwoorden samen, de plaats in de zin en voornaamwoorden na een voorzetsel",
+  "content": "a2_08_object_pronouns.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_09_Vergelijkingen_ontkenningen_en_voorzetsels",
+  "file": "A2_09_Vergelijkingen_ontkenningen_en_voorzetsels.pdf",
+  "level": "A2",
+  "number": 9,
+  "section": "Grammatica",
+  "title": "Vergelijkingen, ontkenningen en voorzetsels",
+  "subtitle": "Vergrotende en overtreffende trap, ontkennende woorden, por of para, verplichting en vaste voorzetsels",
+  "content": "a2_09_comparisons_prepositions.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "A2_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "A2",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Reizen, hotels, winkelen, gezondheid, de stad, het weer, werk, vrije tijd, technologie, onderwijs, gevoelens en alledaagse zinnen",
+  "content": "a2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
