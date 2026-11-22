@@ -2,37 +2,47 @@
 No screens in this file, which is what makes it possible to test it automatically."""
 import random, re
 
-from practice_items import MODES, clean_text, differences
+import languages
+from practice_items import MODES, clean_text, course_languages, differences
 
-ARTICLES = ("el ", "la ", "los ", "las ", "un ", "una ")
 # Spanish usually leaves out the subject pronoun (hablo instead of yo hablo). Adding it or leaving
 # it out never counts as a mistake in these exercise types. Not in listening, where you type what
 # you hear, and not in "Fix the mistake", where the pronoun can be the mistake itself.
+# Which pronouns these are is in languages.py (none for English and Dutch, which always need them).
 PRONOUN_MODES = ("verbs", "fill", "translate")
-PRONOUNS = {"yo", "tú", "él", "ella", "usted", "nosotros", "nosotras", "vosotros", "vosotras",
-            "ellos", "ellas", "ustedes"}
-TYPED_PRONOUNS = PRONOUNS | {"tu", "el"}  # in what you type, also tú and él without the accent
 MOCK_MODES = ("fill", "verbs", "words", "translate", "fix", "listen")
 CHAIN = [mode for mode, _, _ in MODES]  # the order in which the exercise types follow each other
 
-# How each small difference is described in the yellow warning. Capital letters are not in
-# here, so they never give a warning. Only "Fix the mistake" checks them, through must_match,
-# when the capital is the mistake itself.
-WARNINGS = {"accent": "the accent", "ñ": "the ñ", "question mark": "the ¿ ? ¡ !"}
+# The small differences that give a yellow warning. Capital letters are not in here, so they
+# never give a warning. Only "Fix the mistake" checks them, through must_match, when the capital
+# is the mistake itself. Commas are not in here either.
+WARNING_KINDS = ("accent", "special", "question mark", "spelling")
+
+
+def item_language(item):
+    """The language the answer to this question is typed in ('es', 'en', 'nl')."""
+    return item.get("lang") or course_languages()[0]
+
+
+def warning_name(kind, lang):
+    """How a warning names the small difference, for example 'the ñ'."""
+    profile = languages.profile(lang)
+    return {"accent": "the accent", "special": profile["special_name"],
+            "question mark": profile["marks_name"], "spelling": profile["spelling_name"]}[kind]
 
 
 # ---------- checking one answer ----------
 def compare(item, typed, answer):
     """Compares with one correct answer. Returns the small differences to warn about,
     or None when this answer does not match."""
-    found = differences(typed, answer)
+    found = differences(typed, answer, item_language(item))
     if found is None or any(kind in item["must_match"] for kind in found):
         return None
-    return [kind for kind in found if kind in WARNINGS]  # this drops the commas
+    return [kind for kind in found if kind in WARNING_KINDS]  # this drops the commas
 
 
-def warning_text(warnings):
-    return "Correct, but mind " + " and ".join(WARNINGS[kind] for kind in warnings) + "."
+def warning_text(warnings, lang):
+    return "Correct, but mind " + " and ".join(warning_name(kind, lang) for kind in warnings) + "."
 
 
 def answer_key(item):
@@ -59,8 +69,9 @@ def drop_pronoun(text, pronouns):
 def compare_without_pronoun(item, typed, answer):
     """Compares once more with the pronoun left out, when exactly one of the two has a pronoun.
     When both have one, they must be the same, so 'él come' stays wrong for 'ella come'."""
-    typed_short = drop_pronoun(typed, TYPED_PRONOUNS)
-    answer_short = drop_pronoun(answer, PRONOUNS)
+    profile = languages.profile(item_language(item))
+    typed_short = drop_pronoun(typed, profile["pronouns"] | profile["typed_pronouns"])
+    answer_short = drop_pronoun(answer, profile["pronouns"])
     if (typed_short is None) == (answer_short is None):  # both or neither have a pronoun
         return None
     return compare(item, typed_short or typed, answer_short or answer)
@@ -72,10 +83,11 @@ def check_answer(item, typed, accepted=()):
     'accepted' are extra answers you said were right with the 'I was actually right' button."""
     typed = " ".join(typed.split())
     answers = item["answers"] + list(accepted)  # + joins two lists, like [a, b] in MATLAB
+    lang = item_language(item)
 
     if item["mode"] == "build":  # the tiles have no capitals or punctuation, so only the order counts
-        words = clean_text(typed)
-        return ("right", "") if any(words == clean_text(a) for a in answers) else ("wrong", "")
+        words = clean_text(typed, lang)
+        return ("right", "") if any(words == clean_text(a, lang) for a in answers) else ("wrong", "")
 
     best = None
     for answer in answers:
@@ -85,12 +97,12 @@ def check_answer(item, typed, accepted=()):
         if warnings and best is None:
             best = warnings
     if best:
-        return "near", warning_text(best)
+        return "near", warning_text(best, lang)
 
     if item["mode"] == "words":  # vocabulary: the word is right, but el / la was left out
         for answer in answers:
             lower = answer.lower()
-            if lower.startswith(ARTICLES):
+            if lower.startswith(languages.profile(lang)["articles"]):
                 article, word = answer.split(" ", 1)
                 warnings = compare(item, typed, word)
                 if warnings is not None:
@@ -103,7 +115,7 @@ def check_answer(item, typed, accepted=()):
             if warnings == []:
                 return "right", ""
             if warnings:
-                return "near", warning_text(warnings)
+                return "near", warning_text(warnings, lang)
 
     return "wrong", ""
 

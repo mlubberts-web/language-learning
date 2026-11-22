@@ -4,5 +4,6 @@
   "explained_in": "en",
   "title": "Spanish",
   "subtitle": "Spanish from Spain, explained in English",
-  "exam": "DELE"
+  "exam": "DELE",
+  "accent_pdfs": ["A1_01", "C1_08"]
 }

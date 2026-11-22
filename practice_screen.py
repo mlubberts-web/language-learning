@@ -11,6 +11,7 @@ from pathlib import Path
 import streamlit as st
 
 import course
+import languages
 import practice_logic as logic
 import practice_store as store
 from practice_items import MODES, build_items, build_theme_items
@@ -74,7 +75,6 @@ def show_notice():
     """A message left by a button for the next screen, like 'you know all of these'."""
     if "notice" in st.session_state:
         st.info(st.session_state.pop("notice"))  # pop takes it out, so it shows only once
-ACCENT_KEYS = ["á", "é", "í", "ó", "ú", "ü", "ñ", "¿", "¡"]
 
 STYLE = """
 <style>
@@ -117,46 +117,51 @@ if (!window.accentKeysReady) {
 """
 
 
-# The browser reads the sentence aloud, always asking for the Spanish of Spain (es-ES).
+# The browser reads the sentence aloud, asking for the voice of the language you learn, such as
+# the Spanish of Spain (es-ES); languages.py has the code of each language.
 # Ctrl+Space plays it again, so your hands can stay on the keyboard.
 SPEECH_SCRIPT = """
 <script>
 if (!window.speechReady) {
   window.speechReady = true;
-  window.spainVoice = () => speechSynthesis.getVoices().find(v => v.lang.replace('_', '-') === 'es-ES');
-  window.speakSpanish = (text, rate) => {
-    window.lastSpanish = text;
+  window.findVoice = (code) => speechSynthesis.getVoices().find(v => v.lang.replace('_', '-') === code);
+  window.speakText = (text, rate, code) => {
+    window.lastSpeech = {text: text, code: code};
     speechSynthesis.cancel();
     const sentence = new SpeechSynthesisUtterance(text);
-    sentence.lang = 'es-ES';
+    sentence.lang = code;
     sentence.rate = rate;
-    const voice = window.spainVoice();
+    const voice = window.findVoice(code);
     if (voice) sentence.voice = voice;
     speechSynthesis.speak(sentence);
     setTimeout(() => {
       const warning = document.querySelector('.voice-warning');
-      if (warning) warning.style.display = window.spainVoice() ? 'none' : 'block';
+      if (warning) warning.style.display = window.findVoice(code) ? 'none' : 'block';
     }, 1500);
   };
+  const again = (rate) => window.speakText(window.lastSpeech.text, rate, window.lastSpeech.code);
   document.addEventListener('mousedown', (event) => {
     const button = event.target.closest && event.target.closest('.speak-button');
-    if (!button) return;
+    if (!button || !window.lastSpeech) return;
     event.preventDefault();
-    window.speakSpanish(window.lastSpanish, Number(button.dataset.rate));
+    again(Number(button.dataset.rate));
   });
   document.addEventListener('keydown', (event) => {
-    if (event.ctrlKey && event.code === 'Space' && window.lastSpanish) {
+    if (event.ctrlKey && event.code === 'Space' && window.lastSpeech) {
       event.preventDefault();
-      window.speakSpanish(window.lastSpanish, 1);
+      again(1);
     }
   });
 }
 </script>
 """
 
-VOICE_HELP = ("No Spanish (Spain) voice was found, so you may hear nothing or a different accent. "
-              "Use Microsoft Edge or Chrome, or add one in Windows: Settings, Time &amp; language, "
-              "Speech, Manage voices, Add voices, Spanish (Spain). Then restart your browser.")
+
+def voice_help(name):
+    """The message when the browser has no voice for the language, such as 'Spanish (Spain)'."""
+    return (f"No {name} voice was found, so you may hear nothing or a different accent. "
+            "Use Microsoft Edge or Chrome, or add one in Windows: Settings, Time &amp; language, "
+            f"Speech, Manage voices, Add voices, {name}. Then restart your browser.")
 
 
 # ---------- data ----------
@@ -203,7 +208,7 @@ def _load_themes(course_id):
         theme = json.loads(path.read_text(encoding="utf-8"))
         lists = [{"name": part["name"], "level": part["level"]} for part in theme["lists"]]
         themes[path.stem] = {"title": theme["title"], "kind": theme.get("kind", "topic"), "lists": lists,
-                             "items": build_theme_items(path.stem, theme)}
+                             "items": build_theme_items(path.stem, theme, course_id)}
     return themes
 
 
@@ -597,25 +602,28 @@ def show_prompt(drill, item):
             f'<div class="prompt-text">{html.escape(item["prompt"])}</div>{hint}</div>')
 
 
-def listening_controls(number, text):
+def listening_controls(number, text, lang):
     """The play buttons. The sentence plays once by itself; 'number' makes each script new, so
     it plays again for each new question, but not when the screen is only redrawn."""
+    profile = languages.profile(lang)
     st.html('<button type="button" class="speak-button" data-rate="1">🔊 Play again (Ctrl+Space)</button>'
             '<button type="button" class="speak-button" data-rate="0.65">🐢 Slowly</button>'
-            f'<div class="voice-warning">{VOICE_HELP}</div>{SPEECH_SCRIPT}'
-            f"<script>/* {number} */ window.speakSpanish({json.dumps(text)}, 1);</script>",
+            f'<div class="voice-warning">{voice_help(profile["voice_name"])}</div>{SPEECH_SCRIPT}'
+            f"<script>/* {number} */ window.speakText({json.dumps(text)}, 1, "
+            f"{json.dumps(profile['voice'])});</script>",
             unsafe_allow_javascript=True)
 
 
-def answer_box(number, on_submit):
-    """The input box, its button and the accent keys. Enter also presses the button.
-    on_submit is a function that gets the name under which the typed text is stored."""
+def answer_box(number, on_submit, letter_keys=()):
+    """The input box, its button and the keys for letters that are hard to type (á, ñ ...).
+    Enter also presses the button. on_submit is a function that gets the name under which the
+    typed text is stored."""
     key = f"answer_{number}"  # a new name for each question, so the box starts empty
     with st.form(f"form_{number}", border=False):
         st.text_input("Your answer", key=key, autocomplete="off")
         st.form_submit_button("Check (Enter)", type="primary", on_click=on_submit, args=(key,))
     keys = "".join(f'<button type="button" class="accent-key" data-letter="{k}">{k}</button>'
-                   for k in ACCENT_KEYS)
+                   for k in letter_keys)
     st.html(f"<div>{keys}</div>{ACCENT_SCRIPT}", unsafe_allow_javascript=True)
     # Puts the cursor in the box, so you can type straight away. The number makes each script new.
     st.html(f"<script>/* {number} */ setTimeout(() => document.querySelector("
@@ -624,9 +632,10 @@ def answer_box(number, on_submit):
 
 
 def typed_question(drill, item):
+    lang = logic.item_language(item)  # the language the answer is typed in
     if item["speak"]:
-        listening_controls(drill["asked"], item["speak"])
-    answer_box(drill["asked"], submit_typed)
+        listening_controls(drill["asked"], item["speak"], lang)
+    answer_box(drill["asked"], submit_typed, languages.profile(lang)["keys"])
 
 
 def choice_question(item):

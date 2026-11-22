@@ -157,9 +157,10 @@ def mock_run_screen():
         mock_clock()
     practice.show_prompt(None, item)
     st.write("")
+    lang = practice.logic.item_language(item)  # the language the answer is typed in
     if item["speak"]:
-        practice.listening_controls(f"mock{mock['position']}", item["speak"])
-    practice.answer_box(f"mock{mock['position']}", submit_mock)
+        practice.listening_controls(f"mock{mock['position']}", item["speak"], lang)
+    practice.answer_box(f"mock{mock['position']}", submit_mock, practice.languages.profile(lang)["keys"])
 
 
 # ---------- mock exam: the result ----------

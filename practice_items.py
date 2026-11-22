@@ -21,7 +21,10 @@ item.prompt. A list is like a cell array, and its first element is number 0, not
 import json, re, unicodedata
 from pathlib import Path
 
+import threading
+
 import course
+import languages
 
 # The exercise types: (mode, title, description). This is also the order you practise them in:
 # first recognising words, then producing them, then from controlled exercises to free ones.
@@ -38,60 +41,98 @@ MODES = [
     ("translate", "💬 Translate sentences", "Type the whole sentence in Spanish."),
 ]
 
-PERSONS = ["yo", "tú", "él / ella / usted", "nosotros", "vosotros", "ellos / ellas / ustedes"]
+# ---------- which language a text is in ----------
+# The rules for each language are in languages.py. Functions below take 'lang', the code of the
+# language a text is in ('es', 'en', 'nl'). Without it they use the language you learn: in the
+# course that build_items() is building at that moment, or else in the open course.
+# The cached loaders can build two courses at the same time on different threads, so the course
+# being built is kept per thread (threading.local is a struct that each thread has its own copy of).
+_building = threading.local()
 
-# In these PDFs the accents are the subject itself, so a missing accent is simply wrong.
-ACCENT_PDFS = ("A1_01", "C1_08")
 
-ARTICLE_WORDS = ("el ", "la ", "los ", "las ", "un ", "una ")
+def course_languages(course_id=None):
+    """(the language you learn, the language of the explanations), for example ('es', 'en')."""
+    info = course.info(course_id)
+    return info["learn"], info["explained_in"]
 
-ACCENT_LETTERS = str.maketrans("áéíóúü", "aeiouu")  # ñ is handled separately
-QUESTION_MARKS = "¿?¡!"
+
+def _code(lang=None):
+    if lang:
+        return lang
+    building = getattr(_building, "langs", None)  # getattr with a default: None when not building
+    return building[0] if building else course_languages()[0]
+
+
+def _profile(lang=None):
+    return languages.profile(_code(lang))
+
+
+ALL_MARKS = "¿?¡!"   # question and exclamation marks of every language: never part of a word
 COMMA_MARKS = ",;:"
 OTHER_PUNCTUATION = ".\"'«»…—()"  # never matters: not wrong, and no yellow warning either
 
 
-def words_only(text):
-    """The words without any punctuation. Capitals and accents stay."""
-    for mark in QUESTION_MARKS + COMMA_MARKS + OTHER_PUNCTUATION:
+def words_only(text, lang=None):
+    """The words without any punctuation. Capitals and accents stay. Contractions are written
+    out first (English: don't -> do not), before the apostrophe disappears."""
+    text = languages.expand(unicodedata.normalize("NFC", text), _code(lang))
+    for mark in ALL_MARKS + COMMA_MARKS + OTHER_PUNCTUATION:
         text = text.replace(mark, " ")
-    return " ".join(unicodedata.normalize("NFC", text).split())
+    return " ".join(text.split())
 
 
-def clean_text(text):
-    return words_only(text).lower()
+def clean_text(text, lang=None):
+    return words_only(text, lang).lower()
 
 
-def without_accents(text):
-    return text.translate(ACCENT_LETTERS)
+def without_accents(text, lang=None):
+    plain, accented = _profile(lang)["accents"][1], _profile(lang)["accents"][0]
+    return text.translate(str.maketrans(accented, plain))
 
 
-def plain_letters(text):
+def without_special(text, lang=None):
+    """ñ -> n in Spanish: the letters that are more than an accent."""
+    for letter, typed in _profile(lang)["special"].items():
+        text = text.replace(letter, typed)
+    return text
+
+
+def plain_letters(text, lang=None):
     """The text reduced as far as possible: no capitals, accents, ñ or punctuation."""
-    return without_accents(clean_text(text)).replace("ñ", "n")
+    return without_special(without_accents(clean_text(text, lang), lang), lang)
+
+
+def preferred_spelling(text, lang=None):
+    """Every word in the spelling the course teaches (English: colour, not color)."""
+    spelling = _profile(lang)["spelling"]
+    return " ".join(spelling.get(word, word) for word in text.split())
 
 
 def marks_in(text, marks):
     return [character for character in text if character in marks]
 
 
-def differences(typed, answer):
-    """Compares two texts. Returns None when they are different words, and otherwise the list
-    of small differences, empty when there are none. Dots never appear in this list."""
-    a, b = words_only(typed), words_only(answer)
-    if plain_letters(a) != plain_letters(b):
+def differences(typed, answer, lang=None):
+    """Compares two texts in language 'lang'. Returns None when they are different words, and
+    otherwise the list of small differences, empty when there are none. Dots never appear in it."""
+    profile = _profile(lang)
+    a, b = words_only(typed, lang), words_only(answer, lang)
+    plain_a, plain_b = plain_letters(a, lang), plain_letters(b, lang)
+    if plain_a != plain_b:
+        if profile["spelling"] and preferred_spelling(plain_a, lang) == preferred_spelling(plain_b, lang):
+            return ["spelling"]  # color for colour: right, with a warning
         return None
     found = []
-    if a.lower().replace("ñ", "n") != b.lower().replace("ñ", "n"):
+    if without_special(a.lower(), lang) != without_special(b.lower(), lang):
         found.append("accent")
-    if without_accents(a.lower()) != without_accents(b.lower()):
-        found.append("ñ")
+    if without_accents(a.lower(), lang) != without_accents(b.lower(), lang):
+        found.append("special")
     capitals_a, capitals_b = [c.isupper() for c in a], [c.isupper() for c in b]
     if capitals_a[1:] != capitals_b[1:]:  # [1:] means everything except the first element
         found.append("capital")
     elif capitals_a != capitals_b:
         found.append("first capital")
-    if marks_in(typed, QUESTION_MARKS) != marks_in(answer, QUESTION_MARKS):
+    if marks_in(typed, profile["marks"]) != marks_in(answer, profile["marks"]):
         found.append("question mark")
     if marks_in(typed, COMMA_MARKS) != marks_in(answer, COMMA_MARKS):
         found.append("comma")  # only counts in the few questions that are about commas
@@ -167,28 +208,39 @@ def add_item(items, pdf_id, mode, prompt, answers, hint="", show=None, why="", g
             old["answers"] += new_answers
             old["show"] += f"  or  {show or answers[0]}"
         return
+    # 'lang' is the language you type the answer in: the explanation language when you
+    # translate into it ('reverse'), and otherwise the language you learn.
+    learn, base = getattr(_building, "langs", None) or course_languages()
     items[item_id] = {"id": item_id, "mode": mode, "prompt": prompt, "hint": hint,
+                      "lang": base if mode == "reverse" else learn,
                       "answers": answers, "show": show or answers[0], "why": why, "group": group,
                       "tiles": list(tiles), "must_match": list(must_match), "speak": speak,
                       "choices": list(choices)}
 
 
-def english_answers(english, spanish):
-    """All the ways to write the English side: 'to tackle, address' accepts 'to tackle', 'tackle',
-    'to address' and 'address'. Text in brackets is a remark, unless it comes first: '(very) well'."""
-    parts = [part.strip() for part in re.split(r",| / ", english) if part.strip()]
-    is_verb = parts[0].startswith("to ")
-    is_noun = spanish.lower().startswith(ARTICLE_WORDS)
+def base_answers(base_text, target_text):
+    """All the ways to write the side in the language of the explanations. In English,
+    'to tackle, address' accepts 'to tackle', 'tackle', 'to address' and 'address', and a noun
+    also with the, a or an. In Dutch and Spanish an article may be left out: 'de hond' or 'hond'.
+    Text in brackets is a remark, unless it comes first: '(very) well'."""
+    base = languages.profile((getattr(_building, "langs", None) or course_languages())[1])
+    parts = [part.strip() for part in re.split(r",| / ", base_text) if part.strip()]
+    marker = base["infinitive"] + " " if base["infinitive"] else None  # 'to '
+    is_verb = bool(marker) and parts[0].startswith(marker)
+    is_noun = target_text.lower().startswith(_profile()["articles"])
     answers = []
     for part in parts:
         part = re.sub(r"(?<=\S)\s*\(.*?\)", "", part)  # a remark in brackets after a word
         for version in optional_versions(part):
-            bare = version[3:] if version.startswith("to ") else version
             answers.append(version)
             if is_verb:
-                answers += [bare, f"to {bare}"]
+                bare = version[len(marker):] if version.startswith(marker) else version
+                answers += [bare, marker + bare]
             if is_noun:
-                answers += [f"the {version}", f"a {version}", f"an {version}"]
+                if base["strip_articles"] and version.lower().startswith(base["articles"]):
+                    answers.append(version.split(" ", 1)[1])
+                elif not base["strip_articles"]:
+                    answers += [article + version for article in base["articles"]]
     return list(dict.fromkeys(answers))  # removes doubles and keeps the order
 
 
@@ -197,13 +249,14 @@ def add_word(items, pdf_id, english, spanish, group, show=None):
     if GAP_MARK.search(english) or GAP_MARK.search(spanish):
         return  # 'to be … years old': you would have to type the dots, so it is left out
     add_item(items, pdf_id, "words", english, word_answers(spanish), show=show, group=group)
-    add_item(items, pdf_id, "reverse", spanish, english_answers(english, spanish), show=english, group=group)
-    match = re.fullmatch(r"(el|la) ([^/()]+)", spanish.strip(), flags=re.IGNORECASE)
+    add_item(items, pdf_id, "reverse", spanish, base_answers(english, spanish), show=english, group=group)
+    gender = _profile()["gender"]  # ['el', 'la'], ['de', 'het'], or None: no article question
+    match = gender and re.fullmatch(rf"({'|'.join(gender)}) ([^/()]+)", spanish.strip(), flags=re.IGNORECASE)
     if match:  # 'el primo / la prima' can't be asked, since both articles are correct
         article, noun = match.group(1).lower(), match.group(2)
         hint = re.sub(r"\s*\((?:masculine|feminine)\)", "", english)  # or the hint gives it away
         add_item(items, pdf_id, "gender", noun, [article], hint=hint, show=f"{article} {noun}",
-                 group=group, choices=["el", "la"])
+                 group=group, choices=gender)
 
 
 def add_listening(items, pdf_id, sentence):
@@ -266,8 +319,18 @@ def add_tiles(items, pdf_id, prompt, spanish):
 
 def build_items(pdf_id, document, course_id=None):
     """Returns the list of all practice questions of one PDF of a course (None: the open course)."""
+    _building.langs = course_languages(course_id)
+    try:  # try/finally: the 'finally' part runs even when something goes wrong
+        return _build_items(pdf_id, document, course_id)
+    finally:
+        _building.langs = None
+
+
+def _build_items(pdf_id, document, course_id):
     items = {}
-    accent_pdf = pdf_id.startswith(ACCENT_PDFS)
+    # In some PDFs the accents are the subject itself, so a missing accent is simply wrong there.
+    accent_pdf = pdf_id.startswith(tuple(course.info(course_id).get("accent_pdfs", [])))
+    persons = _profile()["persons"]
     for block in document["blocks"]:
         kind = block.get("type")
 
@@ -305,7 +368,7 @@ def build_items(pdf_id, document, course_id=None):
         elif kind == "conj":
             forms = block.get("forms") or [block["stem"] + end for end in block["endings"]]
             add_verb_forms(items, pdf_id, block["verb"], block.get("meaning", ""),
-                           block.get("tense", "present"), forms, PERSONS)
+                           block.get("tense", "present"), forms, persons)
             for spanish, english in block.get("examples", []):
                 add_sentence(items, pdf_id, english, spanish)
                 add_tiles(items, pdf_id, english, spanish)
@@ -314,7 +377,7 @@ def build_items(pdf_id, document, course_id=None):
             for verb in block["verbs"]:
                 add_verb_forms(items, pdf_id, verb["inf"], verb.get("meaning", ""),
                                block.get("tense", "present"), verb["forms"],
-                               block.get("persons", PERSONS))
+                               block.get("persons", persons))
     add_verbs_in_context(items, pdf_id, course_id)
     return list(items.values())
 
@@ -343,7 +406,7 @@ def add_verbs_in_context(items, pdf_id, course_id=None):
 
 
 # ---------- the themed word lists ----------
-# A theme file in data/themes looks like this:
+# A theme file in courses/<course>/themes looks like this:
 #   {"title": "🍽️ Food and cooking", "kind": "topic",
 #    "lists": [{"name": "At the restaurant", "level": "B1", "items": [["la cuenta", "bill"], ...]}]}
 # "kind" is "topic" (things people talk about) or "language" (connectors, idioms and so on).
@@ -360,9 +423,17 @@ def gap_sentence(sentence):
     return prompt, match.group(1), sentence.replace("[", "").replace("]", "")
 
 
-def build_theme_items(name, theme):
+def build_theme_items(name, theme, course_id=None):
     """Returns the questions of one theme file. Each list in it becomes a group, like the topics
     of a PDF, so you can practise one list at a time."""
+    _building.langs = course_languages(course_id)
+    try:
+        return _build_theme_items(name, theme)
+    finally:
+        _building.langs = None
+
+
+def _build_theme_items(name, theme):
     items = {}
     theme_id = f"THEME_{name}"
     for part in theme["lists"]:

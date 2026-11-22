@@ -59,7 +59,7 @@ Choices made (Menno can overrule any of them):
 - [x] 1.1 Course folders: move the Spanish data to `courses/es_from_en/` (content, themes,
       verbs_in_context, pdfs, catalog, mock exams) with a `course.json` describing the course
       (languages, level names, PDF list). All code reads paths through one `course.py`.
-- [ ] 1.2 Language profiles `languages/es.py`, `en.py`, `nl.py`: what counts as a small
+- [x] 1.2 Language profiles in `languages.py` (es, en, nl): what counts as a small
       difference in answers (accents, ñ, ¿¡, contractions, ij/y, ë), articles (el/la, de/het, none),
       persons for verb forms, the speech voice, letters for the article keys.
 - [ ] 1.3 Exercise types per course: the article exercise becomes "el or la?" / "de or het?" or is

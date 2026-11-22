@@ -6,6 +6,7 @@ from pathlib import Path
 
 import practice_logic as logic
 import course
+import languages
 import practice_store as store
 from practice_items import MODES, build_items, build_theme_items, clean_text, without_accents
 
@@ -326,8 +327,8 @@ vive = next(i for i in all_items if i["mode"] == "fill" and i["prompt"] == "Ella
 expect(logic.check_answer(vive, "ella vive")[0] == "right", "fill: the pronoun before the gap word is fine")
 listen = next(i for i in all_items if i["mode"] == "listen" and i["answers"][0] == "Ella habla muy rápido.")
 expect(logic.check_answer(listen, "Habla muy rápido.")[0] == "wrong", "listening: you type what you hear")
-expect(logic.drop_pronoun("¿Tú hablas inglés?", logic.PRONOUNS) == "¿hablas inglés?", "¿ must stay")
-expect(logic.drop_pronoun("Tu casa es grande.", logic.PRONOUNS) is None, "tu without accent is 'your'")
+expect(logic.drop_pronoun("¿Tú hablas inglés?", languages.profile("es")["pronouns"]) == "¿hablas inglés?", "¿ must stay")
+expect(logic.drop_pronoun("Tu casa es grande.", languages.profile("es")["pronouns"]) is None, "tu without accent is 'your'")
 
 # ---------- verb forms: verb · person · tense, with the id of the older order ----------
 expect(verb["id"].endswith("|verbs|hablar · preterite · él / ella / usted|to speak") or
@@ -412,6 +413,33 @@ good = [{"id": f"g{n}"} for n in range(10)]
 stats.update({f"g{n}": known for n in range(10)})
 weak = logic.weak_subjects([("good", good), ("bad", qs), ("new", [{"id": "x"}])], stats)
 expect([name for _, _, name, _ in weak] == ["bad"], f"only 'bad' is weak, got {[w[2] for w in weak]}")
+
+# ---------- the rules of English and Dutch (languages.py) ----------
+def made_up(mode, answers, lang):
+    """A question made by hand, as build_items would make it."""
+    return {"id": f"T|{mode}|{answers[0]}", "mode": mode, "prompt": "?", "hint": "", "answers": answers,
+            "show": answers[0], "why": "", "group": "", "tiles": [], "must_match": [], "speak": "",
+            "choices": [], "lang": lang}
+
+
+english = made_up("translate", ["I do not know where she lives."], "en")
+expect(logic.check_answer(english, "I don't know where she lives.")[0] == "right", "en: don't = do not")
+expect(logic.check_answer(english, "I don’t know where she lives")[0] == "right", "en: curly apostrophe")
+expect(logic.check_answer(english, "Don't know where she lives.")[0] == "wrong", "en: the subject is needed")
+colour = made_up("words", ["my favourite colour"], "en")
+result, note = logic.check_answer(colour, "my favorite color")
+expect(result == "near" and "British" in note, f"en: American spelling is a warning, was {result} {note!r}")
+expect(logic.check_answer(made_up("words", ["I won't go"], "en"), "I will not go")[0] == "right", "en: won't")
+expect(logic.check_answer(made_up("words", ["I can't swim"], "en"), "I cannot swim")[0] == "right", "en: can't")
+expect(languages.expand("Want it?", "en") == "Want it?", "en: 'want' is not a contraction")
+een = made_up("fill", ["één"], "nl")
+result, note = logic.check_answer(een, "een")
+expect(result == "near" and "accent" in note, f"nl: een for één is a warning, was {result}")
+hond = made_up("words", ["de hond"], "nl")
+result, note = logic.check_answer(hond, "hond")
+expect(result == "near" and "de hond" in note, f"nl: a missing de/het is a warning, was {result} {note!r}")
+expect(logic.check_answer(made_up("translate", ["Ik woon in Utrecht."], "nl"), "Woon in Utrecht.")[0] == "wrong",
+       "nl: the subject is needed")
 
 # ---------- result ----------
 print()
