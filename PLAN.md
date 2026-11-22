@@ -83,6 +83,8 @@ Choices made (Menno can overrule any of them):
 - [x] 1.8 Landing page for visitors who are not logged in: what the site is, the six courses,
       log in / create an account. Works on a phone.
 - [ ] 1.9 🙋 New Supabase project + SQL, new Streamlit app with secrets. Deploy and test online.
+      (Asked Menno on 2026-11-21; Phase 2 goes on in the meantime. When he says it's done: log in
+      online, check the landing page, a course, saving, and update this step.)
 
 ## Phase 2: Spanish for Dutch speakers (`es_from_nl`)
 
