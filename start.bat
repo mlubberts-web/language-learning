@@ -1,0 +1,14 @@
+@echo off
+cd /d "%~dp0"
+if not exist .venv (
+    echo First run: creating virtual environment and installing packages...
+    python -m venv .venv
+    call .venv\Scripts\activate.bat
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
+) else (
+    call .venv\Scripts\activate.bat
+)
+rem headless false: open the browser by itself (the settings file has true for the online version)
+streamlit run app.py --server.headless false
+pause

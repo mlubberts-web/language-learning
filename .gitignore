@@ -1,0 +1,16 @@
+# Your personal results: these stay on your own computer, so back them up yourself
+progress.json
+practice.json
+study_log.json
+spanish-backup-*.json
+
+# Passwords and the database key for the online version: never upload these
+.streamlit/secrets.toml
+
+# Temporary file written for a moment while saving
+*.tmp
+
+# Python: can be recreated at any time with start.bat
+.venv/
+__pycache__/
+*.pyc

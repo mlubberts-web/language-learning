@@ -1,0 +1,15 @@
+[server]
+enableStaticServing = true
+# true: never ask questions or open a browser (needed online). start.bat switches it off on your
+# own computer, so the browser still opens there.
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#c0392b"
+backgroundColor = "#f7f4ee"
+secondaryBackgroundColor = "#ece7dd"
+textColor = "#2b3345"
