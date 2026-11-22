@@ -76,7 +76,7 @@ Choices made (Menno can overrule any of them):
 - [x] 1.5 Choosing a course: on your own computer a course picker; online the course is chosen
       when making an account, and the sidebar can switch or add courses. Saved rows are named
       per course, so results never mix.
-- [ ] 1.6 PDF generator: `make_pdfs.py` turns a content file into a PDF in the same style as the
+- [x] 1.6 PDF generator: `make_pdfs.py` turns a content file into a PDF in the same style as the
       Spanish PDFs (PyMuPDF). Check it on a few Spanish units side by side with the originals.
 - [ ] 1.7 Tests run for every course; a course with only some units is allowed (the plan and
       progress only count what exists).

@@ -1,7 +1,7 @@
 """Checks that every text on screen has a Dutch and a Spanish translation.
 Run with:  .venv\\Scripts\\python.exe test_ui_text.py
 
-It reads the code of every .py file and finds each t("...") and mark("...") with a fixed text.
+It reads the code of every .py file and finds each t("..."), mark("...") and tr("...") with a fixed text.
 That text must be in ui_text/nl.json and ui_text/es.json, with the same {values} in it.
 It also lists translations that the code no longer uses, so the files stay tidy."""
 import ast, string
@@ -25,7 +25,7 @@ for path in sorted(HERE.glob("*.py")):
         if not isinstance(node, ast.Call):
             continue
         name = getattr(node.func, "id", None) or getattr(node.func, "attr", None)
-        if name not in ("t", "mark") or not node.args:
+        if name not in ("t", "mark", "tr") or not node.args:  # tr: make_pdfs.py
             continue
         first = node.args[0]
         if isinstance(first, ast.Constant) and isinstance(first.value, str):

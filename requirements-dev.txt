@@ -1,0 +1,5 @@
+# Only for making the course material on your own computer; the app itself doesn't need these.
+# Install with:  .venv\Scripts\python.exe -m pip install -r requirements-dev.txt
+-r requirements.txt
+reportlab   # make_pdfs.py: turns content files into PDFs
+playwright  # browser tests (uses Microsoft Edge, no extra browser download needed)

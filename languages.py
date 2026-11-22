@@ -42,6 +42,9 @@ PROFILES = {
                      "vosotras", "ellos", "ellas", "ustedes"},
         "typed_pronouns": {"tu", "el"},
         "persons": ["yo", "tú", "él / ella / usted", "nosotros", "vosotros", "ellos / ellas / ustedes"],
+        # in the verb tables of the PDFs (make_pdfs.py): the longer forms
+        "table_persons": ["yo", "tú", "él / ella / usted", "nosotros / nosotras", "vosotros / vosotras",
+                          "ellos / ellas / ustedes"],
         "infinitive": "",
         "strip_articles": True,
         "contractions": {},
