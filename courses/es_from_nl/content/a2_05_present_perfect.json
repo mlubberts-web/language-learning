@@ -1,0 +1,762 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "De pretérito perfecto",
+  "subtitle": "Haber + voltooid deelwoord: vormen, onregelmatige deelwoorden en wanneer Spanje hem gebruikt in plaats van de indefinido",
+  "footer": "Language Learning · A2 · Werkwoorden · Pretérito perfecto",
+  "next": "Volgende: A2 · pdf 6 — Toekomst en handelingen die bezig zijn"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de pretérito perfecto vormen (he hablado, has comido, ha vivido) voor elke persoon",
+    "de regelmatige en onregelmatige voltooide deelwoorden gebruiken (hecho, dicho, visto, escrito ...)",
+    "praten over ervaringen, over wat je al wel of nog niet gedaan hebt, en over deze week of dit jaar",
+    "kiezen tussen de pretérito perfecto en de indefinido, zoals men dat in Spanje doet"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Hoe je hem vormt"
+  },
+  {
+   "type": "p",
+   "text": "De pretérito perfecto (voltooid tegenwoordige tijd) = de presente van <b>haber</b> + het <b>voltooid deelwoord</b>. Het deelwoord verandert nooit: het past zich niet aan het onderwerp aan."
+  },
+  {
+   "type": "conj",
+   "tense": "presente",
+   "verb": "haber",
+   "meaning": "hebben (hulpwerkwoord)",
+   "label": "onregelmatig werkwoord · hier alleen als hulpwerkwoord",
+   "forms": [
+    "*he*",
+    "*has*",
+    "*ha*",
+    "*hemos*",
+    "*habéis*",
+    "*han*"
+   ],
+   "examples": [
+    [
+     "He terminado el trabajo.",
+     "Ik heb het werk af."
+    ],
+    [
+     "¿Has visto mi móvil?",
+     "Heb jij mijn telefoon gezien?"
+    ],
+    [
+     "Ella ha llegado tarde.",
+     "Zij is te laat gekomen."
+    ],
+    [
+     "Hemos comido paella.",
+     "We hebben paella gegeten."
+    ],
+    [
+     "¿Habéis estado en Sevilla?",
+     "Zijn jullie in Sevilla geweest?"
+    ],
+    [
+     "Mis padres han salido.",
+     "Mijn ouders zijn uitgegaan."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Het voltooid deelwoord"
+  },
+  {
+   "type": "p",
+   "text": "Haal -ar / -er / -ir eraf en voeg <b>-ado</b> toe (bij -ar) of <b>-ido</b> (bij -er en -ir)."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Regelmatige deelwoorden",
+   "check": "participle",
+   "items": [
+    [
+     "hablar",
+     "hablado"
+    ],
+    [
+     "trabajar",
+     "trabajado"
+    ],
+    [
+     "comprar",
+     "comprado"
+    ],
+    [
+     "estudiar",
+     "estudiado"
+    ],
+    [
+     "comer",
+     "comido"
+    ],
+    [
+     "beber",
+     "bebido"
+    ],
+    [
+     "vivir",
+     "vivido"
+    ],
+    [
+     "salir",
+     "salido"
+    ],
+    [
+     "tener",
+     "tenido"
+    ],
+    [
+     "ser",
+     "sido"
+    ],
+    [
+     "estar",
+     "estado"
+    ],
+    [
+     "ir",
+     "ido"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Eindigt de stam op een klinker (a, e, o), dan krijgt de uitgang <b>-ido</b> een geschreven accent: <b>-ído</b>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Deelwoorden met een accent",
+   "check": "participle",
+   "items": [
+    [
+     "leer",
+     "leído"
+    ],
+    [
+     "creer",
+     "creído"
+    ],
+    [
+     "oír",
+     "oído"
+    ],
+    [
+     "traer",
+     "traído"
+    ],
+    [
+     "caer",
+     "caído"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onregelmatige deelwoorden (leer deze uit je hoofd)"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Onregelmatige deelwoorden",
+   "check": "participle",
+   "items": [
+    [
+     "hacer",
+     "hecho (gedaan, gemaakt)"
+    ],
+    [
+     "decir",
+     "dicho (gezegd)"
+    ],
+    [
+     "ver",
+     "visto (gezien)"
+    ],
+    [
+     "poner",
+     "puesto (gezet, gelegd)"
+    ],
+    [
+     "escribir",
+     "escrito (geschreven)"
+    ],
+    [
+     "abrir",
+     "abierto (geopend)"
+    ],
+    [
+     "volver",
+     "vuelto (teruggekomen)"
+    ],
+    [
+     "romper",
+     "roto (gebroken)"
+    ],
+    [
+     "morir",
+     "muerto (gestorven)"
+    ],
+    [
+     "cubrir",
+     "cubierto (bedekt)"
+    ],
+    [
+     "descubrir",
+     "descubierto (ontdekt)"
+    ],
+    [
+     "resolver",
+     "resuelto (opgelost)"
+    ],
+    [
+     "describir",
+     "descrito (beschreven)"
+    ],
+    [
+     "devolver",
+     "devuelto (teruggegeven)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Samenstellingen volgen het basiswerkwoord",
+   "text": "Een werkwoord dat op een ander werkwoord is gebouwd, neemt het deelwoord daarvan over: <i>deshacer</i> : deshecho, <i>componer</i> : compuesto, <i>suponer</i> : supuesto, <i>prever</i> : previsto, <i>reescribir</i> : reescrito, <i>satisfacer</i> : satisfecho."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "haber is niet tener",
+   "text": "<b>Haber</b> is alleen het hulpwerkwoord voor een deelwoord (<i>he comido</i>). Om te zeggen dat je iets bezit, gebruik je <b>tener</b> (<i>tengo un coche</i>). Schrijf nooit <i>tengo comido</i> voor de pretérito perfecto."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Geen zijn, niet uit elkaar halen",
+   "bullets": [
+    "Het Nederlands gebruikt <i>hebben</i> of <i>zijn</i>: <i>ik ben gegaan</i>. Het Spaans gebruikt altijd <b>haber</b>: <b>he ido</b>.",
+    "Het Nederlands haalt het werkwoord uit elkaar: <i>ik heb gisteren gegeten</i>. In het Spaans blijven <b>he</b> en het deelwoord bij elkaar: <b>ya he comido</b>, <b>no he comido</b>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Volledige vervoegingen"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito perfecto",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "forms": [
+    "he *hablado*",
+    "has *hablado*",
+    "ha *hablado*",
+    "hemos *hablado*",
+    "habéis *hablado*",
+    "han *hablado*"
+   ],
+   "examples": [
+    [
+     "Hoy he hablado con mi jefe.",
+     "Vandaag heb ik met mijn baas gesproken."
+    ],
+    [
+     "¿Has hablado con Ana?",
+     "Heb jij met Ana gesproken?"
+    ],
+    [
+     "Ella ha hablado mucho esta semana.",
+     "Zij heeft deze week veel gepraat."
+    ],
+    [
+     "Hemos hablado por teléfono.",
+     "We hebben gebeld."
+    ],
+    [
+     "¿Habéis hablado con el profesor?",
+     "Hebben jullie met de leraar gesproken?"
+    ],
+    [
+     "Mis padres han hablado con el director.",
+     "Mijn ouders hebben met de directeur gesproken."
+    ]
+   ],
+   "label": "regelmatig werkwoord"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito perfecto",
+   "verb": "comer",
+   "meaning": "eten",
+   "forms": [
+    "he *comido*",
+    "has *comido*",
+    "ha *comido*",
+    "hemos *comido*",
+    "habéis *comido*",
+    "han *comido*"
+   ],
+   "examples": [
+    [
+     "Hoy he comido muy tarde.",
+     "Vandaag heb ik heel laat gegeten."
+    ],
+    [
+     "¿Has comido ya?",
+     "Heb jij al gegeten?"
+    ],
+    [
+     "Marta ha comido en casa.",
+     "Marta heeft thuis gegeten."
+    ],
+    [
+     "Hemos comido paella esta semana.",
+     "We hebben deze week paella gegeten."
+    ],
+    [
+     "¿Habéis comido en este restaurante?",
+     "Hebben jullie in dit restaurant gegeten?"
+    ],
+    [
+     "Los niños han comido muy poco.",
+     "De kinderen hebben heel weinig gegeten."
+    ]
+   ],
+   "label": "regelmatig werkwoord"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito perfecto",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "forms": [
+    "he *vivido*",
+    "has *vivido*",
+    "ha *vivido*",
+    "hemos *vivido*",
+    "habéis *vivido*",
+    "han *vivido*"
+   ],
+   "examples": [
+    [
+     "He vivido en tres ciudades.",
+     "Ik heb in drie steden gewoond."
+    ],
+    [
+     "¿Has vivido en el extranjero?",
+     "Heb jij in het buitenland gewoond?"
+    ],
+    [
+     "Mi abuelo ha vivido aquí toda su vida.",
+     "Mijn opa heeft hier zijn hele leven gewoond."
+    ],
+    [
+     "Hemos vivido en este piso cinco años.",
+     "We wonen al vijf jaar in dit appartement."
+    ],
+    [
+     "¿Habéis vivido alguna vez en Madrid?",
+     "Hebben jullie ooit in Madrid gewoond?"
+    ],
+    [
+     "Mis tíos han vivido en Cuba.",
+     "Mijn oom en tante hebben op Cuba gewoond."
+    ]
+   ],
+   "label": "regelmatig werkwoord"
+  },
+  {
+   "type": "conj",
+   "tense": "pretérito perfecto",
+   "verb": "hacer",
+   "meaning": "doen, maken",
+   "forms": [
+    "he *hecho*",
+    "has *hecho*",
+    "ha *hecho*",
+    "hemos *hecho*",
+    "habéis *hecho*",
+    "han *hecho*"
+   ],
+   "examples": [
+    [
+     "Hoy he hecho la compra.",
+     "Vandaag heb ik boodschappen gedaan."
+    ],
+    [
+     "¿Qué has hecho este fin de semana?",
+     "Wat heb jij dit weekend gedaan?"
+    ],
+    [
+     "Ella ha hecho un pastel.",
+     "Zij heeft een taart gebakken."
+    ],
+    [
+     "Hemos hecho un viaje increíble.",
+     "We hebben een ongelooflijke reis gemaakt."
+    ],
+    [
+     "¿Habéis hecho los deberes?",
+     "Hebben jullie je huiswerk gemaakt?"
+    ],
+    [
+     "Mis padres han hecho una reforma.",
+     "Mijn ouders hebben het huis verbouwd."
+    ]
+   ],
+   "label": "onregelmatig deelwoord"
+  },
+  {
+   "type": "h1",
+   "text": "4. Woordvolgorde"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>He</b> en het deelwoord gaan nooit uit elkaar: <i>Ya he comido. No he visto nada. Todavía no hemos terminado.</i>",
+    "Ontkennend: <b>no</b> staat voor <b>he</b>: <i>No he comido.</i>",
+    "Vragen: <i>¿Has comido? ¿Ya has comido?</i>",
+    "Het deelwoord verandert niet naar geslacht of getal: <i>Ellos han comido. Ella ha comido.</i> (Voornaamwoorden als lijdend voorwerp staan voor haber: <i>Lo he visto</i>, zie pdf 8.)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Wanneer je hem gebruikt"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.6,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Een periode die nog niet voorbij is",
+     "Esta semana he trabajado mucho.",
+     "Deze week heb ik veel gewerkt."
+    ],
+    [
+     "Ervaring in je leven",
+     "¿Has estado alguna vez en México?",
+     "Ben je ooit in Mexico geweest?"
+    ],
+    [
+     "Nooit, tot nu toe",
+     "Nunca he visto el mar.",
+     "Ik heb de zee nog nooit gezien."
+    ],
+    [
+     "Recente handeling die nu nog telt",
+     "He perdido las llaves.",
+     "Ik ben mijn sleutels kwijt."
+    ],
+    [
+     "Al / nog niet",
+     "Ya he terminado. Todavía no he cenado.",
+     "Ik ben klaar. Ik heb nog niet gegeten."
+    ],
+    [
+     "Herhaald tot nu toe",
+     "He visto esa película tres veces.",
+     "Ik heb die film drie keer gezien."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.0,
+    5.8
+   ],
+   "head": [
+    "Tijdwoorden voor de pretérito perfecto",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "hoy, esta mañana, esta tarde",
+     "Hoy he llegado pronto.",
+     "Vandaag was ik vroeg."
+    ],
+    [
+     "esta semana / este mes / este año",
+     "Este año he viajado mucho.",
+     "Dit jaar heb ik veel gereisd."
+    ],
+    [
+     "ya / todavía no / aún no",
+     "Aún no he llamado.",
+     "Ik heb nog niet gebeld."
+    ],
+    [
+     "alguna vez / nunca",
+     "Nunca he comido pulpo.",
+     "Ik heb nog nooit inktvis gegeten."
+    ],
+    [
+     "últimamente / hasta ahora",
+     "Hasta ahora he aprendido mucho.",
+     "Tot nu toe heb ik veel geleerd."
+    ],
+    [
+     "muchas veces / varias veces",
+     "Lo he intentado varias veces.",
+     "Ik heb het meerdere keren geprobeerd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Pretérito perfecto of indefinido?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.7,
+    5.7
+   ],
+   "head": [
+    "Vraag",
+    "Pretérito perfecto",
+    "Indefinido"
+   ],
+   "rows": [
+    [
+     "Is de periode nog niet voorbij?",
+     "Hoy he comido tarde.",
+     "Ayer comí tarde."
+    ],
+    [
+     "",
+     "Este año he viajado a Italia.",
+     "El año pasado viajé a Italia."
+    ],
+    [
+     "Is er een tijdwoord voor iets wat voorbij is?",
+     "nee (hoy, esta semana ...)",
+     "ja (ayer, anoche, en 2019, hace dos días ...)"
+    ],
+    [
+     "Geen tijdwoord, een ervaring",
+     "¿Has estado en Roma?",
+     "¿Estuviste en Roma el año pasado?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlands gebruikt voor allebei de voltooide tijd",
+   "text": "<i>Ik heb gisteren gegeten</i> en <i>ik heb vandaag gegeten</i> lijken in het Nederlands op elkaar. In het Spaans heeft <b>gisteren</b> de indefinido nodig (<i>Ayer comí</i>) en <b>vandaag</b> de pretérito perfecto (<i>Hoy he comido</i>)."
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje en Latijns-Amerika",
+   "text": "In Spanje is de pretérito perfecto de gewone tijd voor <b>hoy</b>, <b>esta semana</b>, <b>este año</b> en recent nieuws: <i>¿Has comido?</i> <i>Hoy he trabajado mucho.</i> Veel Latijns-Amerikanen gebruiken daar de indefinido: <i>¿Comiste?</i> <i>Hoy trabajé mucho.</i> Allebei worden overal begrepen, maar leer het Spaanse patroon hierboven."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ayer he comido paella.",
+     "Ayer comí paella.",
+     "ayer is een afgesloten periode: indefinido."
+    ],
+    [
+     "El año pasado he viajado a Italia.",
+     "El año pasado viajé a Italia.",
+     "el año pasado is voorbij: indefinido."
+    ],
+    [
+     "Ellos han comidos.",
+     "Ellos han comido.",
+     "Het deelwoord past zich nooit aan het onderwerp aan."
+    ],
+    [
+     "He ya terminado.",
+     "Ya he terminado.",
+     "he en het deelwoord gaan nooit uit elkaar."
+    ],
+    [
+     "Yo soy ido a casa.",
+     "Yo he ido a casa.",
+     "Altijd haber, nooit ser, in de pretérito perfecto."
+    ],
+    [
+     "He hacido la cena.",
+     "He hecho la cena.",
+     "Het deelwoord van hacer is hecho."
+    ],
+    [
+     "Ha dicido la verdad.",
+     "Ha dicho la verdad.",
+     "Het deelwoord van decir is dicho."
+    ],
+    [
+     "Hemos escribido una carta.",
+     "Hemos escrito una carta.",
+     "Het deelwoord van escribir is escrito."
+    ],
+    [
+     "He leido el libro.",
+     "He leído el libro.",
+     "Accent nodig: leído, creído, oído, traído, caído."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf de pretérito perfecto van het werkwoord tussen haakjes. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Hoy yo ______ mucho.",
+     "hint": "trabajar (yo)",
+     "a": "he trabajado",
+     "full": "Hoy yo he trabajado mucho."
+    },
+    {
+     "q": "¿Tú ______ alguna vez en México?",
+     "hint": "estar (tú)",
+     "a": "has estado",
+     "full": "¿Tú has estado alguna vez en México?"
+    },
+    {
+     "q": "Nosotros ya ______ la cena.",
+     "hint": "preparar (nosotros)",
+     "a": "hemos preparado",
+     "full": "Nosotros ya hemos preparado la cena."
+    },
+    {
+     "q": "Mis padres ______ la compra esta mañana.",
+     "hint": "hacer (ellos)",
+     "a": "han hecho",
+     "full": "Mis padres han hecho la compra esta mañana."
+    },
+    {
+     "q": "¿Vosotros ______ la película?",
+     "hint": "ver (vosotros)",
+     "a": "habéis visto",
+     "full": "¿Vosotros habéis visto la película?"
+    },
+    {
+     "q": "Ella todavía no ______ el correo.",
+     "hint": "abrir (ella)",
+     "a": "ha abierto",
+     "full": "Ella todavía no ha abierto el correo."
+    },
+    {
+     "q": "Yo nunca ______ sushi.",
+     "hint": "comer (yo)",
+     "a": "he comido",
+     "full": "Yo nunca he comido sushi."
+    },
+    {
+     "q": "Esta semana ______ tres libros.",
+     "hint": "leer (yo)",
+     "a": "he leído",
+     "full": "Esta semana he leído tres libros."
+    },
+    {
+     "q": "Ana ______ la verdad.",
+     "hint": "decir (ella)",
+     "a": "ha dicho",
+     "full": "Ana ha dicho la verdad."
+    },
+    {
+     "q": "Mis amigos ya ______ de vacaciones.",
+     "hint": "volver (ellos)",
+     "a": "han vuelto",
+     "full": "Mis amigos ya han vuelto de vacaciones."
+    },
+    {
+     "q": "Sin querer, yo ______ la ventana.",
+     "hint": "romper (yo)",
+     "a": "he roto",
+     "full": "Sin querer, yo he roto la ventana."
+    },
+    {
+     "q": "Este año ______ mucho español.",
+     "hint": "aprender (nosotros)",
+     "a": "hemos aprendido",
+     "full": "Este año hemos aprendido mucho español."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik heb nog niet gegeten.",
+     "a": "Todavía no he comido."
+    },
+    {
+     "q": "Ben jij ooit in Spanje geweest?",
+     "a": "¿Has estado alguna vez en España?"
+    },
+    {
+     "q": "Deze week hebben we veel gewerkt.",
+     "a": "Esta semana hemos trabajado mucho."
+    },
+    {
+     "q": "Zij is al klaar.",
+     "a": "Ya ha terminado."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

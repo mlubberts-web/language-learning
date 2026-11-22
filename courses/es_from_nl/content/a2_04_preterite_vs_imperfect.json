@@ -1,0 +1,487 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Pretérito indefinido of imperfecto",
+  "subtitle": "Zo kies je tussen de twee verleden tijden, en zo gebruik je ze samen in een verhaal",
+  "footer": "Language Learning · A2 · Werkwoorden · Indefinido of imperfecto",
+  "next": "Volgende: A2 · pdf 5 — De pretérito perfecto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "in de meeste alledaagse situaties kiezen tussen de pretérito indefinido en de pretérito imperfecto",
+    "een kort verhaal vertellen met achtergrond (imperfecto) en gebeurtenissen (indefinido)",
+    "beide tijden in één zin combineren (<i>Cocinaba cuando sonó el teléfono</i>)",
+    "uitleggen waarom saber, conocer, querer en poder van betekenis veranderen"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het kernidee"
+  },
+  {
+   "type": "p",
+   "text": "Beide tijden gaan over het verleden. Het verschil is hoe je ernaar kijkt. De <b>pretérito indefinido</b> brengt het verhaal vooruit: hij zegt <b>wat er gebeurde</b>. De <b>pretérito imperfecto</b> schildert het decor: hij zegt <b>hoe het was</b> of <b>wat er vroeger gebeurde</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.7,
+    6.7
+   ],
+   "head": [
+    "",
+    "Indefinido",
+    "Imperfecto"
+   ],
+   "rows": [
+    [
+     "Rol in een verhaal",
+     "Gebeurtenissen, de verhaallijn, wat er gebeurde",
+     "Decor, achtergrond, wat er aan de gang was"
+    ],
+    [
+     "Tijd",
+     "Een afgerond moment of een afgeronde periode",
+     "Geen begin of eind in beeld"
+    ],
+    [
+     "Herhaling",
+     "Eén keer of een getelde aantal keren",
+     "Gewoonte, 'vroeger', elke dag"
+    ],
+    [
+     "Typische inhoud",
+     "Handelingen na elkaar",
+     "Beschrijvingen, leeftijd, tijd, weer, gevoelens"
+    ],
+    [
+     "Voorbeeld",
+     "Ayer comí paella.",
+     "Siempre comía paella."
+    ],
+    [
+     "Nederlands",
+     "Gisteren heb ik paella gegeten.",
+     "Vroeger at ik altijd paella."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse toen kan allebei zijn",
+   "text": "<i>Toen ik jong was</i> beschrijft een toestand: <b>Cuando era joven</b>. <i>Toen ik aankwam</i> is één gebeurtenis: <b>Cuando llegué</b>. Hetzelfde Nederlandse woord, een andere Spaanse tijd. Vraag jezelf af wat het werkwoord na <i>toen</i> beschrijft."
+  },
+  {
+   "type": "h1",
+   "text": "2. Tijdwoorden als aanwijzing"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Meestal indefinido",
+    "Meestal imperfecto"
+   ],
+   "rows": [
+    [
+     "ayer, anoche, anteayer",
+     "siempre, nunca (als gewoonte)"
+    ],
+    [
+     "el lunes, el 5 de mayo, en 2019",
+     "todos los días, cada verano"
+    ],
+    [
+     "la semana pasada, el año pasado",
+     "a menudo, a veces, normalmente"
+    ],
+    [
+     "hace tres días",
+     "de niño, de joven, antes"
+    ],
+    [
+     "de repente, entonces",
+     "mientras, en aquella época"
+    ],
+    [
+     "una vez, dos veces, muchas veces (geteld)",
+     "los domingos (elke zondag)"
+    ],
+    [
+     "durante dos años (een afgesloten periode)",
+     "cuando era niño"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Aanwijzingen helpen, maar de betekenis beslist",
+   "text": "Tijdwoorden zijn sterke hints, geen harde regels. Heeft een zin geen tijdwoord, of is de aanwijzing onduidelijk, stel dan de vragen uit deel 5."
+  },
+  {
+   "type": "h1",
+   "text": "3. Beide tijden in één verhaal"
+  },
+  {
+   "type": "p",
+   "text": "In een verhaal zet de imperfecto het decor neer en duwt de indefinido de handeling vooruit. Lees dit voorbeeld en kijk waarom elke tijd gekozen is."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.6,
+    3.2,
+    6.2
+   ],
+   "head": [
+    "Zin",
+    "Tijd",
+    "Waarom"
+   ],
+   "rows": [
+    [
+     "Era sábado y hacía mucho calor.",
+     "imperfecto",
+     "dag en weer: het decor"
+    ],
+    [
+     "Yo estaba en casa y leía un libro.",
+     "imperfecto",
+     "een toestand en een handeling die bezig is"
+    ],
+    [
+     "De repente sonó el teléfono.",
+     "indefinido",
+     "één gebeurtenis: de repente"
+    ],
+    [
+     "Era mi amiga Marta.",
+     "imperfecto",
+     "beschrijving / wie het is"
+    ],
+    [
+     "Me dijo que quería ir a la playa.",
+     "indefinido + imperfecto",
+     "zei = gebeurtenis; wilde = toestand"
+    ],
+    [
+     "Preparé mis cosas y salí.",
+     "indefinido",
+     "een reeks gebeurtenissen"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Het was zaterdag en het was erg warm. Ik was thuis een boek aan het lezen. Plotseling ging de telefoon. Het was mijn vriendin Marta. Ze zei dat ze naar het strand wilde. Ik pakte mijn spullen en ging weg.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Een onderbroken handeling, of twee handelingen tegelijk"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.4,
+    5.0
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "imperfecto + cuando + indefinido",
+     "Cocinaba cuando sonó el teléfono.",
+     "Ik was aan het koken toen de telefoon ging."
+    ],
+    [
+     "cuando + indefinido, imperfecto",
+     "Cuando llegué, mi madre cocinaba.",
+     "Toen ik aankwam, was mijn moeder aan het koken."
+    ],
+    [
+     "mientras + imperfecto, imperfecto",
+     "Mientras yo comía, ella veía la tele.",
+     "Terwijl ik zat te eten, keek zij tv."
+    ],
+    [
+     "indefinido + indefinido (na elkaar)",
+     "Llegué, comí y me acosté.",
+     "Ik kwam aan, at en ging naar bed."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "De vuistregel",
+   "text": "De <b>lange, doorlopende</b> handeling krijgt de <b>imperfecto</b>. De <b>korte onderbreking</b> krijgt de <b>indefinido</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Snelle beslisvragen"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Gebeurde het <b>één keer en was het klaar</b> (of een getelde aantal keren)? <b>Indefinido.</b>",
+    "Gebeurde het <b>steeds weer</b>, of past er <i>vroeger</i> of <i>altijd</i> bij? <b>Imperfecto.</b>",
+    "Is het een <b>beschrijving</b>: leeftijd, tijd, weer, gevoelens, hoe iemand eruitzag? <b>Imperfecto.</b>",
+    "Is het een <b>rijtje handelingen na elkaar</b> (eerst dit, dan dat)? <b>Indefinido.</b>",
+    "Was het <b>aan de gang toen er iets anders gebeurde</b>? <b>Imperfecto</b> voor de achtergrond, <b>indefinido</b> voor de onderbreking."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Werkwoorden die van betekenis veranderen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    7.3,
+    7.3
+   ],
+   "head": [
+    "Werkwoord",
+    "Imperfecto (toestand)",
+    "Indefinido (gebeurtenis)"
+   ],
+   "rows": [
+    [
+     "saber",
+     "Sabía la respuesta. (Ik wist het.)",
+     "Supe la respuesta. (Ik kwam erachter.)"
+    ],
+    [
+     "conocer",
+     "Conocía a Pedro. (Ik kende Pedro.)",
+     "Conocí a Pedro. (Ik leerde Pedro kennen.)"
+    ],
+    [
+     "querer",
+     "Quería irme. (Ik wilde weg.)",
+     "Quise irme. (Ik probeerde / besloot weg te gaan.)"
+    ],
+    [
+     "poder",
+     "No podía abrir la puerta. (Ik kon hem niet open krijgen.)",
+     "No pude abrir la puerta. (Ik probeerde het en het lukte niet.)"
+    ],
+    [
+     "estar",
+     "Estaba en Madrid. (Ik was in Madrid.)",
+     "Estuve en Madrid tres días. (Ik ben drie dagen in Madrid geweest.)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Dezelfde logica geldt voor beschrijving tegenover samenvatting: <i>La fiesta era genial</i> (het was geweldig terwijl ik er was) en <i>La fiesta fue genial</i> (terugkijkend: het was een geweldig feest)."
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Vandaag en deze week in Spanje",
+   "text": "Met <b>hoy</b>, <b>esta mañana</b>, <b>esta semana</b> en <b>este año</b> gebruikt men in Spanje meestal de pretérito perfecto (volgende pdf), geen van deze twee tijden: <i>Hoy he comido tarde.</i> Met <b>ayer</b>, <b>anoche</b> of <b>la semana pasada</b> gebruik je de indefinido."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Cuando era niño, fui al parque cada día.",
+     "Cuando era niño, iba al parque cada día.",
+     "Een gewoonte in het verleden: imperfecto."
+    ],
+    [
+     "Anoche cenaba a las ocho.",
+     "Anoche cené a las ocho.",
+     "Eén afgeronde gebeurtenis: indefinido."
+    ],
+    [
+     "Mientras comí, vi la tele.",
+     "Mientras comía, veía la tele.",
+     "Twee handelingen die tegelijk bezig waren: allebei imperfecto."
+    ],
+    [
+     "Cuando llegué, mi madre cocinó.",
+     "Cuando llegué, mi madre cocinaba.",
+     "Haar koken was bezig toen ik aankwam: imperfecto."
+    ],
+    [
+     "Tuve diez años.",
+     "Tenía diez años.",
+     "Leeftijd is een beschrijving: imperfecto."
+    ],
+    [
+     "El año pasado íbamos a Italia.",
+     "El año pasado fuimos a Italia.",
+     "Eén afgeronde reis met een tijdsaanduiding: indefinido."
+    ],
+    [
+     "Conocía a Marta ayer en la fiesta.",
+     "Conocí a Marta ayer en la fiesta.",
+     "Iemand voor het eerst ontmoeten: indefinido."
+    ],
+    [
+     "Eran las ocho cuando él llegaba.",
+     "Eran las ocho cuando él llegó.",
+     "De tijd is achtergrond; de aankomst is de gebeurtenis."
+    ],
+    [
+     "De niño, nunca comí verduras.",
+     "De niño, nunca comía verduras.",
+     "Een gewoonte in het verleden: imperfecto."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf het werkwoord in de indefinido of de imperfecto. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Ayer ______ al cine.",
+     "hint": "ir (nosotros)",
+     "a": "fuimos",
+     "full": "Ayer fuimos al cine."
+    },
+    {
+     "q": "Cuando era niño, ______ en la calle.",
+     "hint": "jugar (yo)",
+     "a": "jugaba",
+     "full": "Cuando era niño, jugaba en la calle."
+    },
+    {
+     "q": "Mientras ella ______, yo veía la tele.",
+     "hint": "estudiar (ella)",
+     "a": "estudiaba",
+     "full": "Mientras ella estudiaba, yo veía la tele."
+    },
+    {
+     "q": "Anoche ______ a las nueve.",
+     "hint": "cenar (yo)",
+     "a": "cené",
+     "full": "Anoche cené a las nueve."
+    },
+    {
+     "q": "Eran las ocho cuando ______.",
+     "hint": "llegar (tú)",
+     "a": "llegaste",
+     "full": "Eran las ocho cuando llegaste."
+    },
+    {
+     "q": "Hacía frío y ______.",
+     "hint": "llover",
+     "a": "llovía",
+     "full": "Hacía frío y llovía."
+    },
+    {
+     "q": "Cuando llegamos, mis padres ______.",
+     "hint": "cenar (ellos)",
+     "a": "cenaban",
+     "full": "Cuando llegamos, mis padres cenaban."
+    },
+    {
+     "q": "El año pasado ______ a Japón.",
+     "hint": "viajar (ellos)",
+     "a": "viajaron",
+     "full": "El año pasado viajaron a Japón."
+    },
+    {
+     "q": "De pequeño, siempre ______ en casa de mi abuela.",
+     "hint": "comer (yo)",
+     "a": "comía",
+     "full": "De pequeño, siempre comía en casa de mi abuela."
+    },
+    {
+     "q": "Ayer ______ a tu hermana.",
+     "hint": "conocer (yo)",
+     "a": "conocí",
+     "full": "Ayer conocí a tu hermana."
+    },
+    {
+     "q": "Dormía cuando ______ el teléfono.",
+     "hint": "sonar",
+     "a": "sonó",
+     "full": "Dormía cuando sonó el teléfono."
+    },
+    {
+     "q": "Ella ______ quince años cuando se mudó a Madrid.",
+     "hint": "tener",
+     "a": "tenía",
+     "full": "Ella tenía quince años cuando se mudó a Madrid."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Toen ik aankwam, regende het.",
+     "a": "Cuando llegué, llovía."
+    },
+    {
+     "q": "Afgelopen zomer zijn we naar Cádiz gegaan.",
+     "a": "El verano pasado fuimos a Cádiz."
+    },
+    {
+     "q": "Terwijl ik aan het koken was, belde ze me.",
+     "a": "Mientras cocinaba, me llamó."
+    },
+    {
+     "q": "Als kind at hij nooit vis.",
+     "a": "De niño nunca comía pescado."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
