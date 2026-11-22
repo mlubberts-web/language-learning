@@ -62,7 +62,7 @@ Choices made (Menno can overrule any of them):
 - [x] 1.2 Language profiles in `languages.py` (es, en, nl): what counts as a small
       difference in answers (accents, ñ, ¿¡, contractions, ij/y, ë), articles (el/la, de/het, none),
       persons for verb forms, the speech voice, letters for the article keys.
-- [ ] 1.3 Exercise types per course: the article exercise becomes "el or la?" / "de or het?" or is
+- [x] 1.3 Exercise types per course: the article exercise becomes "el or la?" / "de or het?" or is
       left out; titles such as "Words, Spanish to English" come from the course.
 - [ ] 1.4 Interface translations: every text on screen comes from `ui_text/en.json`, `nl.json`,
       `es.json`; the interface language is the course's explanation language.

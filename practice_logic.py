@@ -3,7 +3,7 @@ No screens in this file, which is what makes it possible to test it automaticall
 import random, re
 
 import languages
-from practice_items import MODES, clean_text, course_languages, differences
+from practice_items import MODE_IDS, clean_text, course_languages, differences
 
 # Spanish usually leaves out the subject pronoun (hablo instead of yo hablo). Adding it or leaving
 # it out never counts as a mistake in these exercise types. Not in listening, where you type what
@@ -11,7 +11,7 @@ from practice_items import MODES, clean_text, course_languages, differences
 # Which pronouns these are is in languages.py (none for English and Dutch, which always need them).
 PRONOUN_MODES = ("verbs", "fill", "translate")
 MOCK_MODES = ("fill", "verbs", "words", "translate", "fix", "listen")
-CHAIN = [mode for mode, _, _ in MODES]  # the order in which the exercise types follow each other
+CHAIN = MODE_IDS  # the order in which the exercise types follow each other
 
 # The small differences that give a yellow warning. Capital letters are not in here, so they
 # never give a warning. Only "Fix the mistake" checks them, through must_match, when the capital

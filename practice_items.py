@@ -2,7 +2,7 @@
 
 Every question, of every type, is one dict with the same keys:
     id             unique name, used to remember your results in practice.json
-    mode           which exercise type it belongs to, see MODES
+    mode           which exercise type it belongs to, see MODE_TEXTS
     prompt         what you see, for example "to eat"
     hint           small extra clue, can be empty
     answers        list of all answers that count as correct
@@ -29,17 +29,33 @@ import languages
 # The exercise types: (mode, title, description). This is also the order you practise them in:
 # first recognising words, then producing them, then from controlled exercises to free ones.
 # After a session, the app continues with the next type in this list.
-MODES = [
-    ("reverse", "🔄 Words, Spanish to English", "See the Spanish, type the English."),
-    ("gender", "⚖️ el or la?", "See a noun, choose its article."),
-    ("words", "🔤 Words, English to Spanish", "See the English, type the Spanish."),
+# The titles name the languages of the course: {learn} is the language you learn, {base} the
+# language of the explanations, {first} and {second} the two articles of the article exercise.
+# modes() fills them in for a course.
+MODE_TEXTS = [
+    ("reverse", "🔄 Words, {learn} to {base}", "See the {learn}, type the {base}."),
+    ("gender", "⚖️ {first} or {second}?", "See a noun, choose its article."),
+    ("words", "🔤 Words, {base} to {learn}", "See the {base}, type the {learn}."),
     ("verbs", "🔁 Verb forms", "Type the right form for the person and tense."),
     ("fill", "📝 Grammar exercises", "The exercises from the PDF, plus verbs in context. Type the missing part."),
     ("build", "🧩 Build the sentence", "Click the words in the right order."),
     ("listen", "🎧 Listening", "Hear a sentence, type what you hear."),
     ("fix", "🔍 Fix the mistake", "Type the sentence the way it should be."),
-    ("translate", "💬 Translate sentences", "Type the whole sentence in Spanish."),
+    ("translate", "💬 Translate sentences", "Type the whole sentence in {learn}."),
 ]
+MODE_IDS = [mode for mode, _, _ in MODE_TEXTS]  # every exercise type, in the order above
+
+
+def modes(course_id=None):
+    """The exercise types of a course as (mode, title, description), for example
+    ('reverse', '🔄 Words, Spanish to English', ...). Without an article exercise when the language
+    has none (English)."""
+    learn, base = course_languages(course_id)
+    gender = languages.profile(learn)["gender"]
+    names = {"learn": languages.name(learn, base), "base": languages.name(base, base),
+             "first": gender[0] if gender else "", "second": gender[1] if gender else ""}
+    return [(mode, title.format(**names), text.format(**names))  # ** passes the dict as name=value
+            for mode, title, text in MODE_TEXTS if mode != "gender" or gender]
 
 # ---------- which language a text is in ----------
 # The rules for each language are in languages.py. Functions below take 'lang', the code of the

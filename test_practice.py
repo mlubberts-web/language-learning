@@ -8,7 +8,7 @@ import practice_logic as logic
 import course
 import languages
 import practice_store as store
-from practice_items import MODES, build_items, build_theme_items, clean_text, without_accents
+from practice_items import build_items, modes, build_theme_items, clean_text, without_accents
 
 HERE = Path(__file__).parent
 COURSE_ID = "es_from_en"  # the course whose content is checked
@@ -100,7 +100,7 @@ for path in sorted((COURSE / "themes").glob("*.json")):
 print(f"Themed lists: {theme_words} entries")
 
 print("Questions per exercise type:")
-for mode, title, _ in MODES:
+for mode, title, _ in modes(COURSE_ID):
     print(f"  {title}: {totals[mode]}")
 print(f"  Total: {sum(totals.values())}")
 
@@ -440,6 +440,16 @@ result, note = logic.check_answer(hond, "hond")
 expect(result == "near" and "de hond" in note, f"nl: a missing de/het is a warning, was {result} {note!r}")
 expect(logic.check_answer(made_up("translate", ["Ik woon in Utrecht."], "nl"), "Woon in Utrecht.")[0] == "wrong",
        "nl: the subject is needed")
+
+# ---------- the exercise types of other courses ----------
+import practice_items
+real_languages = practice_items.course_languages
+practice_items.course_languages = lambda course_id=None: ("nl", "en")  # pretend: Dutch, explained in English
+titles = [title for _, title, _ in modes()]
+expect("⚖️ de or het?" in titles and "🔤 Words, English to Dutch" in titles, f"Dutch course titles: {titles}")
+practice_items.course_languages = lambda course_id=None: ("en", "nl")  # English, explained in Dutch
+expect(not any(mode == "gender" for mode, _, _ in modes()), "English has no article exercise")
+practice_items.course_languages = real_languages
 
 # ---------- result ----------
 print()

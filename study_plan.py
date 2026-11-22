@@ -17,7 +17,7 @@ Like a MATLAB struct array, the plan is a list of dicts: one dict per day.
 """
 from datetime import date, timedelta
 
-from practice_items import MODES
+from practice_items import MODE_IDS
 
 # Estimated seconds for one question of each exercise type, the first time you answer it.
 SECONDS = {"gender": 5, "words": 12, "reverse": 12, "verbs": 12, "fill": 20, "build": 25,
@@ -29,7 +29,7 @@ READ_MINUTES = {"A1": 2, "A2": 2, "B1": 3, "B2": 4, "C1": 5, "C2": 5}  # per pag
 MOCK_MINUTES = {"A1": 150, "A2": 150, "B1": 240, "B2": 240, "C1": 300, "C2": 300}
 REVIEW_MINUTES = 20
 DEFAULT_HOURS = {"weekday": 240, "weekend": 120}  # minutes per day
-MODE_ORDER = [mode for mode, _, _ in MODES]  # the exercise types in the order of the practice screen
+MODE_ORDER = MODE_IDS  # the exercise types in the order of the practice screen
 
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 WRITING_MINUTES = 60  # writing practice per weekday while you work on C1 or C2 (half at the weekend)

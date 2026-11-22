@@ -7,16 +7,24 @@ import streamlit as st
 import practice_logic as logic
 import practice_screen as practice
 import practice_store as store
-from practice_items import MODES
+from practice_items import modes
 from ui import go_view, hero, log_activity, log_overrule
 
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2", "All levels"]
 # Number of questions and the minutes you get for them: (questions, minutes).
 LENGTHS = {"20 questions, 15 minutes": (20, 15), "40 questions, 30 minutes": (40, 30),
            "60 questions, 45 minutes": (60, 45)}
-# The buttons on a theme card, in the order the exercise types follow each other.
-THEME_MODES = [("reverse", "🔄 To English"), ("gender", "⚖️ el or la?"), ("words", "🔤 To Spanish"),
-               ("fill", "✏️ In a sentence")]
+
+
+def theme_modes():
+    """The buttons on a theme card, in the order the exercise types follow each other, such as
+    ('reverse', '🔄 To English'). The names come from the exercise types of the course."""
+    titles = {mode: title for mode, title, _ in modes()}
+    short = {"reverse": "🔄 To " + titles["reverse"].split(" to ")[-1],
+             "words": "🔤 To " + titles["words"].split(" to ")[-1], "fill": "✏️ In a sentence"}
+    if "gender" in titles:
+        short["gender"] = titles["gender"]
+    return [(mode, short[mode]) for mode in ("reverse", "gender", "words", "fill") if mode in short]
 THEME_KINDS = [("topic", "Topics", "Words for what people talk about."),
                ("language", "Useful language", "The words that hold a text together: connectors, "
                                                "set phrases, idioms. These count in the DELE writing and speaking.")]
@@ -40,10 +48,10 @@ def theme_card(name, theme, size):
         source = theme["title"] if group is None else f"{theme['title']} · {group}"
         label = "Mark all lists as done" if group is None else "Mark this list as done"
         practice.done_checkbox(pool, label, f"done_{name}_{group}")
-        modes =[(mode, label) for mode, label in THEME_MODES if any(i["mode"] == mode for i in pool)]
+        buttons = [(mode, label) for mode, label in theme_modes() if any(i["mode"] == mode for i in pool)]
         # A horizontal container sizes each button to its text and wraps to a new line when needed.
         with st.container(horizontal=True):
-            for mode, label in modes:
+            for mode, label in buttons:
                 st.button(label, key=f"theme_{name}_{mode}", on_click=practice.start_mode,
                           args=(pool, source, ("view", "themes"), f"THEME_{name}", mode, size))
 
@@ -190,7 +198,7 @@ def mock_result_screen():
         st.button("New mock exam", key="mock_again", type="primary", on_click=go_view, args=("mock",))
 
     st.subheader("Per exercise type")
-    for mode, title, _ in MODES:
+    for mode, title, _ in modes():
         asked = [a for a in mock["answers"] if a["item"]["mode"] == mode]
         if asked:
             right = sum(a["result"] != "wrong" for a in asked)

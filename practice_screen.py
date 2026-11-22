@@ -14,7 +14,7 @@ import course
 import languages
 import practice_logic as logic
 import practice_store as store
-from practice_items import MODES, build_items, build_theme_items
+from practice_items import build_items, build_theme_items, modes
 from ui import go_home, go_level, go_view, hero, log_activity, log_overrule
 
 HERE = Path(__file__).parent
@@ -27,7 +27,7 @@ ACTIONS = {}
 
 def mode_title(mode):
     """'words' gives '🔤 Words, English to Spanish'."""
-    return next((title for m, title, _ in MODES if m == mode), EXTRA_TITLES.get(mode, mode))
+    return next((title for m, title, _ in modes() if m == mode), EXTRA_TITLES.get(mode, mode))
 
 
 def size_buttons(key):
@@ -340,8 +340,8 @@ def following_step(drill):
     # {...} makes a set: every type once. A type you marked as done is skipped, and with
     # 'Skip what I know' on, also a type of which you know every question.
     skip = skip_known()
-    modes = {item["mode"] for item in drill["pool"] if not (is_known(item) if skip else is_marked(item))}
-    return logic.next_step(modes, drill["mode"], bool(weak_items(drill["pool"])))
+    types_left = {item["mode"] for item in drill["pool"] if not (is_known(item) if skip else is_marked(item))}
+    return logic.next_step(types_left, drill["mode"], bool(weak_items(drill["pool"])))
 
 
 def next_pdf(pdf_id):
@@ -485,7 +485,7 @@ def practice_screen():
     source = f"{pdf['level']} · {pdf['title']}"
 
     # One card per exercise type, with only the types that exist for this PDF.
-    cards = [(mode, title, text, [i for i in items if i["mode"] == mode]) for mode, title, text in MODES]
+    cards = [(mode, title, text, [i for i in items if i["mode"] == mode]) for mode, title, text in modes()]
     cards = [card for card in cards if card[3]]
     cards.append(("test", "🎯 Mixed test", "All exercise types mixed together.", items))
     weak = weak_items(items)
@@ -571,7 +571,7 @@ def weak_subjects_section(level, back, key):
     # The same score per exercise type, over all questions in scope.
     every = [item for _, items in scope for item in items]
     per_type = []
-    for mode, title, _ in MODES:
+    for mode, title, _ in modes():
         score, _ = logic.first_try_score([i for i in every if i["mode"] == mode], stats)
         if score is not None:
             per_type.append((score, title))
@@ -596,7 +596,7 @@ def weak_subjects_section(level, back, key):
 
 # ---------- a running session ----------
 def show_prompt(drill, item):
-    kind = next((title for mode, title, _ in MODES if mode == item["mode"]), "")
+    kind = next((title for mode, title, _ in modes() if mode == item["mode"]), "")
     hint = f'<div class="prompt-hint">{html.escape(item["hint"])}</div>' if item["hint"] else ""
     st.html(f'<div class="prompt-card"><div class="prompt-kind">{kind}</div>'
             f'<div class="prompt-text">{html.escape(item["prompt"])}</div>{hint}</div>')
