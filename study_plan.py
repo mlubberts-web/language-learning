@@ -121,8 +121,9 @@ def make_units(phase, pdfs, themes):
     Mock exam 1 of a level comes after its last PDF and no. 2 halfway through the next level,
     so there is time to work on what went wrong. The last level of a phase has its first mock
     after PDF 7 and its second at the very end."""
-    levels = phase["levels"]
-    by_level = {level: [p for p in pdfs if p["level"] == level] for level in levels}
+    by_level = {level: [p for p in pdfs if p["level"] == level] for level in phase["levels"]}
+    # Only the levels that have PDFs: a course that is still being written may not have them all yet.
+    levels = [level for level in phase["levels"] if by_level[level]]
     after = {}  # PDF id -> the units that follow that PDF
 
     def put(pdf_id, unit):
@@ -152,13 +153,16 @@ def make_units(phase, pdfs, themes):
     if phase["themes"] and themes:
         # Spread the themed files evenly over the PDFs of this phase, each with all its lists.
         for k, theme in enumerate(themes):
-            spot = max(0, int((k + 1) * len(phase_pdfs) / len(themes)) - 1)
             units = []
             for part in theme["lists"]:
                 items = [i for i in theme["items"] if i["group"] == part["name"]]
                 units += exercise_units(f"THEME_{theme['name']}|list:{part['name']}",
                                         f"{theme['title']} · {part['name']}", items, "themes",
                                         theme=theme["name"], group=part["name"])
+            if not phase_pdfs:  # a phase whose levels have no PDFs yet: the lists come at its end
+                end += units
+                continue
+            spot = max(0, int((k + 1) * len(phase_pdfs) / len(themes)) - 1)
             after[phase_pdfs[spot]["id"]] = units + after.get(phase_pdfs[spot]["id"], [])
 
     result = []

@@ -210,6 +210,15 @@ expect(small_plan["days"][-1]["date"] == date(2027, 6, 1) and not small_plan["la
 expect(all(u["phase"] == "A2" for row in small_plan["days"] if row["date"] <= date(2027, 3, 1) for u in row["units"]),
        "nothing of B1 before the A2 deadline")
 
+# A course that is still being written: only A1 and A2 exist, the deadlines go up to C2.
+partial = [p for p in pdfs if p["level"] in ("A1", "A2")]
+partial_units = plans.all_units(partial, themes)  # the example deadlines: B2 and C2
+expect({u["level"] for u in partial_units if u.get("pdf_id")} == {"A1", "A2"}, "a partial course plans what exists")
+expect(sum(u["kind"] == "mock" for u in partial_units) == 4, "only A1 and A2 have mock exams in a partial course")
+expect(any(u.get("theme") for u in partial_units), "the themed lists are still planned")
+partial_plan = plans.build_plan(partial_units, date(2026, 11, 20), set())
+expect(not partial_plan["late"], "a partial course fits easily")
+
 if problems:
     print(f"{len(problems)} PROBLEMS:")
     for problem in problems[:40]:

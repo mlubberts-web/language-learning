@@ -272,8 +272,8 @@ def pace_text(plan, finished, today):
     did_ex = sum(finished_on(d, "exercise") for d in week) / 7
     text = t("For **{goal}** you need on average **{reads} PDFs** and **{exercises} exercises** per study day. "
              "Over the last 7 days you did {did_reads} and {did_exercises} a day.",
-             goal=goal_text(phase), reads=f"{need_read:.1f}", exercises=f"{need_ex:.1f}",
-             did_reads=f"{did_read:.1f}", did_exercises=f"{did_ex:.1f}")
+             goal=goal_text(phase), reads=ui_text.decimal(need_read), exercises=ui_text.decimal(need_ex),
+             did_reads=ui_text.decimal(did_read), did_exercises=ui_text.decimal(did_ex))
     if need_read == 0 and need_ex == 0:
         return "success", t("Everything for {goal} is finished. 🎉", goal=goal_text(phase))
     if did_ex >= need_ex and did_read >= need_read:

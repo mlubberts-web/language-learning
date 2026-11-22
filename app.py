@@ -134,6 +134,11 @@ def level_items(level):
     return [i for i in catalog if i["level"] == level]
 
 
+def course_levels():
+    """The levels that have PDFs. A course that is still being written may not have them all yet."""
+    return [level for level in LEVELS if level_items(level)]
+
+
 def browser_url(item, page_index=0):
     return f"{course.pdf_url(item['file'])}#page={page_index + 1}"
 
@@ -227,7 +232,8 @@ def scroll_to_top_after_moving():
 def language_name():
     """The language of the open course, in the interface language: 'Spanish', 'Engels' ..."""
     info = course.info()
-    return languages.name(info["learn"], info["explained_in"])
+    name = languages.name(info["learn"], info["explained_in"])
+    return name[:1].upper() + name[1:]  # 'español' -> 'Español' as a title
 
 
 def sidebar():
@@ -245,7 +251,7 @@ def sidebar():
                   type="primary" if st.session_state.view == "mock" else "secondary")
         st.divider()
         st.caption(t("LEVELS"))
-        for level in LEVELS:
+        for level in course_levels():
             items = level_items(level)
             done = sum(status(i) == "done" for i in items)
             st.button(f"{level} · {t(LEVEL_NAMES[level])}  ({done}/{len(items)})", key=f"nav_{level}",
@@ -371,7 +377,7 @@ def home():
 
     st.subheader(t("Levels"))
     cols = st.columns(3)
-    for n, level in enumerate(LEVELS):
+    for n, level in enumerate(course_levels()):
         items = level_items(level)
         level_done, level_read, level_total = stats(items)
         with cols[n % 3].container(border=True, key=f"card_{level}"):

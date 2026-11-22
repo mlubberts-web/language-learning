@@ -16,7 +16,7 @@ results/<id>_practice.json and so on, online in rows with the same names.
 Which course is open is kept in the session (st.session_state.course), like the time zone in
 clock.py. Outside a running page (in the tests) it is the first course, es_from_en.
 """
-import json
+import json, os
 from functools import lru_cache
 from pathlib import Path
 
@@ -29,8 +29,9 @@ DEFAULT = "es_from_en"
 
 
 def current():
-    """The id of the course that is open, for example 'es_from_en'."""
-    return session_value("course") or DEFAULT
+    """The id of the course that is open, for example 'es_from_en'. On your own computer you can
+    also start the app with another course: set COURSE=nl_from_en before 'streamlit run'."""
+    return session_value("course") or os.environ.get("COURSE") or DEFAULT
 
 
 def folder(course_id=None):

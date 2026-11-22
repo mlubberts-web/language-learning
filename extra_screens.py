@@ -105,8 +105,10 @@ def mock_screen():
          t("A mix of all exercise types, one attempt each, with no feedback until the end."), 0)
     st.write("")
     # format_func shows each choice translated; the choices themselves stay the English names
-    level = st.segmented_control(t("Level"), LEVELS, default="C2", required=True, key="mock_level",
-                                 format_func=t)
+    # Only levels with questions: a course that is still being written may not have them all yet.
+    choices = [level for level in LEVELS[:-1] if practice.items_of_level(level)] + LEVELS[-1:]
+    level = st.segmented_control(t("Level"), choices, default=choices[-2] if len(choices) > 1 else choices[0],
+                                 required=True, key="mock_level", format_func=t)
     length = st.segmented_control(t("Length"), list(LENGTHS), default="40 questions, 30 minutes",
                                   required=True, key="mock_length", format_func=t)
     st.button(t("Start the mock exam"), key="mock_start", type="primary", on_click=start_mock, args=(level, length))

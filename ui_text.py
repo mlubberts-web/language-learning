@@ -48,6 +48,12 @@ def t(text, lang=None, **values):
     return text.format(**values) if values else text
 
 
+def decimal(value, places=1, lang=None):
+    """1.4 in English, 1,4 in Dutch and Spanish."""
+    text = f"{value:.{places}f}"
+    return text if (lang or interface()) == "en" else text.replace(".", ",")
+
+
 # ---------- dates ----------
 DAYS = {"en": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
         "nl": ["maandag", "dinsdag", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag"],

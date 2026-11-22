@@ -136,7 +136,7 @@ def progress_screen():
     hero(t("Progress"), t("Your progress"),
          t("{hours} hours studied since {day} · {reads_done} of {reads} PDFs read · {exercises_done} of {exercises} "
            "exercises finished · {mastered} of {questions} questions mastered",
-           hours=f"{total_hours:.1f}", day=sched.long_date(first), reads_done=pdfs_read, reads=sched.count(units, "read"),
+           hours=ui_text.decimal(total_hours), day=sched.long_date(first), reads_done=pdfs_read, reads=sched.count(units, "read"),
            exercises_done=exercises, exercises=sched.count(units, "exercise"), mastered=mastered, questions=questions),
          (pdfs_read + exercises) / (sched.count(units, "read") + sched.count(units, "exercise")))
     st.write("")
@@ -147,7 +147,7 @@ def progress_screen():
     c = st.columns(5)
     c[0].metric(t("Days studied"), t("{done} of {total}", done=len(studied_days), total=len(days)),
                 help=t("Days with at least 15 minutes."))
-    c[1].metric(t("Average per study day"), f"{total_hours / len(studied_days):.1f} h" if studied_days else "–")
+    c[1].metric(t("Average per study day"), ui_text.decimal(total_hours / len(studied_days)) + " h" if studied_days else "–")
     c[2].metric(t("Best day"), sched.fmt(study_log.studied_minutes(log, best.isoformat())), help=sched.long_date(best))
     c[3].metric(t("Streak"), sched.counted(study_log.streak(log, today.isoformat()), mark("{count} day"), mark("{count} days")),
                 help=t("Days in a row on which you finished your whole list from the Schedule."))
@@ -190,7 +190,7 @@ def week_view(first, today):
     title = t("This week") if monday == this else t("Week of {week}", week=week_label(monday))
     st.subheader(title)
     c = st.columns(6)
-    c[0].metric(t("Hours studied"), f"{week['hours']:.1f} h",
+    c[0].metric(t("Hours studied"), ui_text.decimal(week["hours"]) + " h",
                 delta(round(week["hours"], 1), round(before["hours"], 1) if before else None, " h"))
     c[1].metric(t("Days studied"), t("{done} of {total}", done=week["studied_days"], total=len(week["days"])),
                 help=t("Days with at least 15 minutes."))
