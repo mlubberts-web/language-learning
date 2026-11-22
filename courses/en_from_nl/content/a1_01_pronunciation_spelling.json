@@ -1,0 +1,102 @@
+{"meta": {"level": "A1", "section": "Uitspraak", "number": 1, "total_in_level": 9,
+ "title": "Uitspraak en spelling",
+ "subtitle": "Het alfabet, klanken die het Nederlands niet heeft, stomme letters en de getallen tot 100",
+ "footer": "Language Learning · A1 · Uitspraak · Uitspraak en spelling",
+ "next": "Volgende: A1 · pdf 2 — to be"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het Engelse alfabet opzeggen en je naam spellen",
+  "de klanken uitspreken die het Nederlands niet heeft: th, w en de korte a van cat",
+  "stomme letters herkennen (knife, write, hour)",
+  "tellen en schrijven tot honderd"]},
+
+ {"type": "h1", "text": "1. Het alfabet"},
+ {"type": "p", "text": "De Engelse letters hebben andere namen dan de Nederlandse. Je hebt ze elke dag nodig om je naam, je adres of een e-mailadres te spellen. Leer ze in groepjes die op elkaar rijmen."},
+ {"type": "table", "style": "plain", "widths": [5.0, 4.0, 8.0], "head": ["Letters", "Klinkt ongeveer als", "Let op"], "rows": [
+  ["A H J K", "ee (zoals in 'eend' met een j erachter: eej)", "A klinkt als <b>eej</b>, niet als aa"],
+  ["B C D E G P T V", "ie", "E klinkt als <b>ie</b>; G klinkt als <b>dzjie</b>"],
+  ["F L M N S X Z", "e (ef, el, em, en, es, eks, zed)", "Z heet in Brits Engels <b>zed</b>"],
+  ["I Y", "aai", "I klinkt als <b>aai</b>, niet als ie"],
+  ["O", "oo (met een w erachter: oow)", ""],
+  ["Q U W", "joe (kjoe, joe, dubbel-joe)", "W heet <b>double u</b>"],
+  ["R", "aa (zonder r aan het eind in Brits Engels)", ""]]},
+ {"type": "callout", "kind": "dutch", "title": "Letters die Nederlanders verwarren", "bullets": [
+  "<b>E</b> klinkt als ie en <b>I</b> als aai. Dus e-mail spel je ie-mail.",
+  "<b>G</b> klinkt als dzjie en <b>J</b> als dzjee: precies andersom dan je zou denken.",
+  "Twee dezelfde letters zeg je met <b>double</b>: Anna = A, double N, A."]},
+ {"type": "callout", "kind": "tip", "title": "Je naam spellen", "text": "<i>What's your name? — Anna. How do you spell that? — A, double N, A.</i> En een e-mailadres: @ = <b>at</b>, . = <b>dot</b>, - = <b>dash</b>, _ = <b>underscore</b>."},
+
+ {"type": "h1", "text": "2. Klanken die het Nederlands niet heeft"},
+ {"type": "table", "style": "plain", "widths": [3.0, 4.6, 9.4], "head": ["Klank", "Voorbeelden", "Zo doe je het"], "rows": [
+  ["th (zonder stem)", "think, three, thank you", "tong tussen je tanden en blazen; niet t, niet s, niet f"],
+  ["th (met stem)", "this, the, mother", "tong tussen je tanden en je stem laten trillen; niet d, niet z"],
+  ["w", "we, water, wine", "lippen rond en naar voren, zoals bij oe; je tanden raken je lip niet"],
+  ["v", "very, live, love", "boventanden op je onderlip, en je stem laten trillen"],
+  ["a (kort)", "cat, bad, man", "mond wijd open, tussen de Nederlandse e en a in"],
+  ["e (kort)", "bed, pen, ten", "zoals de Nederlandse e in 'bed'"],
+  ["r", "red, very, car", "niet rollen; in Brits Engels hoor je de r niet aan het eind van een woord"],
+  ["eindmedeklinker", "bed, dog, love", "zeg de d, g en v aan het eind echt stemhebbend: bed is niet bet"]]},
+ {"type": "callout", "kind": "dutch", "title": "Het grootste uitspraakprobleem: de eindklank", "text": "In het Nederlands klinkt 'hond' als 'hont'. In het Engels verandert de betekenis als je dat doet: <b>bad</b> (slecht) en <b>bat</b> (vleermuis), <b>dog</b> en <b>dock</b>, <b>leave</b> en <b>leaf</b>. Maak de klinker vóór een stemhebbende eindklank ook iets langer."},
+ {"type": "verbpairs", "title": "Woorden om de klanken te oefenen", "items": [
+  ["think", "denken"], ["three", "drie"], ["thank you", "dank je"], ["this", "dit, deze"],
+  ["mother", "moeder"], ["water", "water"], ["wine", "wijn"], ["very", "heel, erg"],
+  ["cat", "kat"], ["bad", "slecht"], ["bed", "bed"], ["leave", "weggaan, vertrekken"]]},
+
+ {"type": "h1", "text": "3. Stomme letters"},
+ {"type": "p", "text": "Veel Engelse woorden hebben letters die je niet uitspreekt. De spelling komt uit een oudere fase van de taal; de uitspraak is veranderd, de spelling niet."},
+ {"type": "table", "style": "plain", "widths": [3.6, 3.6, 9.8], "head": ["Woord", "Stomme letter", "Meer voorbeelden"], "rows": [
+  ["knife", "k", "know, knee, knock"],
+  ["write", "w", "wrong, answer, two"],
+  ["listen", "t", "castle, often (vaak zonder t)"],
+  ["hour", "h", "honest, honour"],
+  ["island", "s", ""],
+  ["Wednesday", "de eerste d", "Wednesday klinkt als 'wens-dee'"],
+  ["half", "l", "walk, talk, could, should"],
+  ["climb", "b", "comb, thumb, doubt"]]},
+ {"type": "callout", "kind": "warn", "title": "an hour", "text": "Omdat je de h van <b>hour</b> niet uitspreekt, begint het woord met een klinker. Daarom zeg je <b>an hour</b> en <b>an honest man</b> (meer over a en an in pdf 5)."},
+
+ {"type": "h1", "text": "4. De getallen tot 100"},
+ {"type": "verbpairs", "title": "0 tot 20", "items": [
+  ["zero", "nul"], ["one", "een"], ["two", "twee"], ["three", "drie"], ["four", "vier"],
+  ["five", "vijf"], ["six", "zes"], ["seven", "zeven"], ["eight", "acht"], ["nine", "negen"],
+  ["ten", "tien"], ["eleven", "elf"], ["twelve", "twaalf"], ["thirteen", "dertien"],
+  ["fourteen", "veertien"], ["fifteen", "vijftien"], ["sixteen", "zestien"],
+  ["seventeen", "zeventien"], ["eighteen", "achttien"], ["nineteen", "negentien"], ["twenty", "twintig"]]},
+ {"type": "verbpairs", "title": "De tientallen", "items": [
+  ["thirty", "dertig"], ["forty", "veertig"], ["fifty", "vijftig"], ["sixty", "zestig"],
+  ["seventy", "zeventig"], ["eighty", "tachtig"], ["ninety", "negentig"], ["a hundred", "honderd"]]},
+ {"type": "callout", "kind": "dutch", "title": "Eerst het tiental, dan de eenheid", "text": "Het Nederlands zegt <i>drieëntwintig</i>: eerst drie, dan twintig. Het Engels zegt het andersom, met een streepje: <b>twenty-three</b>. Zo ook <b>forty-five</b>, <b>ninety-nine</b>."},
+ {"type": "callout", "kind": "tip", "title": "thirteen of thirty?", "text": "Bij <b>thirteen</b> tot <b>nineteen</b> ligt de klemtoon aan het eind: thir<b>TEEN</b>. Bij <b>thirty</b> tot <b>ninety</b> ligt hij vooraan: <b>THIR</b>ty. Zo hoor je het verschil."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["fourty", "forty", "Four heeft een u, maar forty niet."],
+  ["ninty", "ninety", "Ninety houdt de e van nine."],
+  ["fivety", "fifty", "Five wordt fif- in fifty en fifteen."],
+  ["twelf", "twelve", "Twelve eindigt op -ve."],
+  ["Wensday", "Wednesday", "Je hoort de d niet, maar je schrijft hem wel."],
+  ["a hour", "an hour", "De h is stom, dus het woord begint met een klinker."],
+  ["three and twenty", "twenty-three", "Eerst het tiental, dan de eenheid, met een streepje."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Schrijf het getal of het woord. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "14 = ______", "hint": "in woorden", "a": "fourteen", "full": "14 = fourteen"},
+  {"q": "40 = ______", "hint": "in woorden", "a": "forty", "full": "40 = forty"},
+  {"q": "90 = ______", "hint": "in woorden", "a": "ninety", "full": "90 = ninety"},
+  {"q": "12 = ______", "hint": "in woorden", "a": "twelve", "full": "12 = twelve"},
+  {"q": "55 = ______", "hint": "in woorden, met een streepje", "a": "fifty-five", "full": "55 = fifty-five"},
+  {"q": "How do you ______ your name?", "hint": "spellen", "a": "spell", "full": "How do you spell your name?"},
+  {"q": "It takes ______ hour.", "hint": "a of an", "a": "an", "full": "It takes an hour."},
+  {"q": "My birthday is on ______.", "hint": "woensdag", "a": "Wednesday", "full": "My birthday is on Wednesday."},
+  {"q": "Can you ______ that, please?", "hint": "herhalen", "a": "repeat", "full": "Can you repeat that, please?"},
+  {"q": "______ you very much.", "hint": "dank", "a": "Thank", "full": "Thank you very much."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hoe spel je dat?", "a": "How do you spell that?"},
+  {"q": "Kunt u dat herhalen, alstublieft?", "a": "Can you repeat that, please?"},
+  {"q": "Dank je wel.", "a": "Thank you very much."},
+  {"q": "Drieëntwintig.", "a": "Twenty-three."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

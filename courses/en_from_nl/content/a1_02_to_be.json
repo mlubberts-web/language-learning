@@ -1,0 +1,96 @@
+{"meta": {"level": "A1", "section": "Werkwoorden", "number": 2, "total_in_level": 9,
+ "title": "to be",
+ "subtitle": "am, is en are: jezelf voorstellen, leeftijd, afkomst en beroep, vragen en ontkenningen",
+ "footer": "Language Learning · A1 · Werkwoorden · to be",
+ "next": "Volgende: A1 · pdf 3 — De present simple"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het werkwoord <b>to be</b> (zijn) vervoegen, met de korte vormen",
+  "jezelf voorstellen: naam, leeftijd, land, beroep",
+  "vragen stellen en ontkennen met to be",
+  "a en an gebruiken voor een beroep"]},
+
+ {"type": "h1", "text": "1. De vormen"},
+ {"type": "p", "text": "<b>to be</b> is het belangrijkste werkwoord van het Engels. Het heeft drie vormen in de tegenwoordige tijd: <b>am</b>, <b>is</b> en <b>are</b>. In gesproken taal en in e-mails gebruik je bijna altijd de <b>korte vorm</b> met een apostrof."},
+ {"type": "conj", "verb": "to be", "meaning": "zijn", "label": "onregelmatig werkwoord", "tense": "present simple",
+  "forms": ["am", "are", "is", "are", "are", "are"],
+  "examples": [["I am Dutch.", "Ik ben Nederlands."], ["You are late.", "Je bent te laat."], ["She is a nurse.", "Zij is verpleegkundige."], ["We are at home.", "We zijn thuis."], ["You are very kind.", "Jullie zijn heel aardig."], ["They are from Spain.", "Zij komen uit Spanje."]]},
+ {"type": "table", "style": "plain", "widths": [4.2, 4.2, 4.2, 4.4], "head": ["Lange vorm", "Korte vorm", "Ontkenning", "Korte ontkenning"], "rows": [
+  ["I am", "I'm", "I am not", "I'm not"],
+  ["you are", "you're", "you are not", "you aren't"],
+  ["he is", "he's", "he is not", "he isn't"],
+  ["she is", "she's", "she is not", "she isn't"],
+  ["it is", "it's", "it is not", "it isn't"],
+  ["we are", "we're", "we are not", "we aren't"],
+  ["they are", "they're", "they are not", "they aren't"]]},
+ {"type": "callout", "kind": "warn", "title": "I'm not, nooit I amn't", "text": "Bij <b>I</b> is de enige korte ontkenning <b>I'm not</b>. De andere personen hebben twee mogelijkheden: <i>you're not</i> of <i>you aren't</i>, <i>he's not</i> of <i>he isn't</i>."},
+ {"type": "callout", "kind": "dutch", "title": "you = jij, u en jullie", "text": "Het Engels heeft geen verschil tussen jij, u en jullie: alles is <b>you</b>, met de vorm <b>are</b>. Beleefdheid zit in andere woorden: <i>please</i>, <i>could you</i>, <i>Sir</i>, <i>Madam</i>."},
+
+ {"type": "h1", "text": "2. Vragen en korte antwoorden"},
+ {"type": "p", "text": "Voor een vraag zet je <b>am / is / are</b> vóór het onderwerp, net als in het Nederlands: <i>Ben jij moe?</i> = <b>Are you tired?</b> Een kort antwoord herhaalt het werkwoord, zonder korte vorm bij yes."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Vraag", "Ja", "Nee"], "rows": [
+  ["Am I late?", "Yes, you are.", "No, you aren't."],
+  ["Are you Dutch?", "Yes, I am.", "No, I'm not."],
+  ["Is she a teacher?", "Yes, she is.", "No, she isn't."],
+  ["Is it cold?", "Yes, it is.", "No, it isn't."],
+  ["Are they at work?", "Yes, they are.", "No, they aren't."]]},
+ {"type": "callout", "kind": "tip", "title": "Yes, I am. — niet Yes, I'm.", "text": "Aan het eind van een zin gebruik je nooit de korte vorm van een bevestiging: <b>Yes, I am.</b> / <b>Yes, she is.</b> Bij nee mag het wel: <i>No, she isn't.</i>"},
+ {"type": "verbpairs", "title": "Vraagwoorden met to be", "items": [
+  ["What's your name?", "Hoe heet je?"], ["Where are you from?", "Waar kom je vandaan?"],
+  ["How old are you?", "Hoe oud ben je?"], ["How are you?", "Hoe gaat het?"],
+  ["Who is that?", "Wie is dat?"], ["Where is the station?", "Waar is het station?"]]},
+
+ {"type": "h1", "text": "3. Jezelf voorstellen"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Onderwerp", "Engels", "Nederlands"], "rows": [
+  ["Naam", "I'm Sara. / My name is Sara.", "Ik ben Sara. / Ik heet Sara."],
+  ["Leeftijd", "I'm twenty-five.", "Ik ben vijfentwintig."],
+  ["Land", "I'm from the Netherlands.", "Ik kom uit Nederland."],
+  ["Nationaliteit", "I'm Dutch.", "Ik ben Nederlands."],
+  ["Beroep", "I'm an engineer.", "Ik ben ingenieur."],
+  ["Gevoel", "I'm tired. / I'm hungry.", "Ik ben moe. / Ik heb honger."],
+  ["Getrouwd", "I'm married. / I'm single.", "Ik ben getrouwd. / Ik ben vrijgezel."]]},
+ {"type": "callout", "kind": "dutch", "title": "Drie valkuilen voor Nederlanders", "bullets": [
+  "<b>Leeftijd</b> met to be: <i>I'm twenty</i> of <i>I'm twenty years old</i>, nooit <i>I have twenty years</i>.",
+  "<b>Beroep</b> met <b>a / an</b>: <i>She's a doctor</i>, niet <i>She's doctor</i>. Het Nederlands laat het lidwoord weg, het Engels niet.",
+  "<b>Honger en dorst</b> met to be: <i>I'm hungry, I'm thirsty</i>. Ook <i>I'm cold</i> = ik heb het koud."]},
+ {"type": "verbpairs", "title": "Landen en nationaliteiten", "items": [
+  ["the Netherlands", "Nederland"], ["Dutch", "Nederlands"], ["Belgium", "België"], ["Belgian", "Belgisch"],
+  ["Germany", "Duitsland"], ["German", "Duits"], ["Spain", "Spanje"], ["Spanish", "Spaans"],
+  ["France", "Frankrijk"], ["French", "Frans"], ["the United Kingdom", "het Verenigd Koninkrijk"], ["British", "Brits"]]},
+ {"type": "callout", "kind": "tip", "title": "Hoofdletters", "text": "Landen, nationaliteiten én talen krijgen in het Engels altijd een hoofdletter: <b>Dutch</b>, <b>English</b>, <b>Spanish</b>. Ook de dagen en maanden: <b>Monday</b>, <b>January</b>. En <b>I</b> (ik) is altijd een hoofdletter."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I have 30 years.", "I'm 30.", "Leeftijd gaat met to be."],
+  ["She is teacher.", "She is a teacher.", "Bij een beroep hoort a of an."],
+  ["I am from Netherlands.", "I am from the Netherlands.", "the Netherlands heeft altijd the."],
+  ["Yes, I'm.", "Yes, I am.", "Geen korte vorm aan het eind van de zin.", "advice"],
+  ["I amn't tired.", "I'm not tired.", "Bij I is de ontkenning I'm not.", "advice"],
+  ["i am dutch.", "I am Dutch.", "I en nationaliteiten krijgen een hoofdletter."],
+  ["Are you hunger?", "Are you hungry?", "Honger hebben is be hungry (bijvoeglijk naamwoord)."],
+  ["He is a engineer.", "He is an engineer.", "Voor een klinkerklank gebruik je an."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul am, is of are in, of de juiste korte vorm. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ from Utrecht.", "hint": "to be", "a": "am", "full": "I am from Utrecht."},
+  {"q": "She ______ a nurse.", "hint": "to be", "a": "is", "full": "She is a nurse."},
+  {"q": "We ______ very tired.", "hint": "to be", "a": "are", "full": "We are very tired."},
+  {"q": "______ you Dutch?", "hint": "to be, vraag", "a": "Are", "full": "Are you Dutch?"},
+  {"q": "It ______ cold today.", "hint": "to be, ontkenning, korte vorm", "a": "isn't", "full": "It isn't cold today."},
+  {"q": "Is he at home? Yes, he ______.", "hint": "kort antwoord", "a": "is", "full": "Is he at home? Yes, he is."},
+  {"q": "They ______ from Spain.", "hint": "to be", "a": "are", "full": "They are from Spain."},
+  {"q": "I ______ hungry.", "hint": "to be, ontkenning, korte vorm", "a": "'m not", "full": "I'm not hungry."},
+  {"q": "My brother is ______ engineer.", "hint": "a of an", "a": "an", "full": "My brother is an engineer."},
+  {"q": "How old ______ you?", "hint": "to be", "a": "are", "full": "How old are you?"},
+  {"q": "Where ______ the station?", "hint": "to be", "a": "is", "full": "Where is the station?"},
+  {"q": "I'm from ______ Netherlands.", "hint": "lidwoord", "a": "the", "full": "I'm from the Netherlands."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik ben vijfentwintig.", "a": "I'm twenty-five."},
+  {"q": "Zij is lerares.", "a": "She is a teacher."},
+  {"q": "Waar kom je vandaan?", "a": "Where are you from?"},
+  {"q": "We hebben het koud.", "a": "We are cold."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

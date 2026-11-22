@@ -1,0 +1,35 @@
+[
+ {
+  "id": "A1_01_Uitspraak_en_spelling",
+  "file": "A1_01_Uitspraak_en_spelling.pdf",
+  "level": "A1",
+  "number": 1,
+  "section": "Uitspraak",
+  "title": "Uitspraak en spelling",
+  "subtitle": "Het alfabet, klanken die het Nederlands niet heeft, stomme letters en de getallen tot 100",
+  "content": "a1_01_pronunciation_spelling.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "A1_02_to_be",
+  "file": "A1_02_to_be.pdf",
+  "level": "A1",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "to be",
+  "subtitle": "am, is en are: jezelf voorstellen, leeftijd, afkomst en beroep, vragen en ontkenningen",
+  "content": "a1_02_to_be.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_03_De_present_simple",
+  "file": "A1_03_De_present_simple.pdf",
+  "level": "A1",
+  "number": 3,
+  "section": "Werkwoorden",
+  "title": "De present simple",
+  "subtitle": "Gewoontes en feiten: de -s bij he, she en it, en do en does in vragen en ontkenningen",
+  "content": "a1_03_present_simple.json",
+  "exercise_count": 12
+ }
+]

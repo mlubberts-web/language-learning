@@ -1,0 +1,97 @@
+{"meta": {"level": "A1", "section": "Werkwoorden", "number": 3, "total_in_level": 9,
+ "title": "De present simple",
+ "subtitle": "Gewoontes en feiten: de -s bij he, she en it, en do en does in vragen en ontkenningen",
+ "footer": "Language Learning · A1 · Werkwoorden · Present simple",
+ "next": "Volgende: A1 · pdf 4 — have got, there is en can"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de present simple vormen, met de <b>-s</b> bij he, she en it",
+  "vragen en ontkenningen maken met <b>do</b> en <b>does</b>",
+  "over gewoontes, routines en feiten praten",
+  "woorden als always, often en never op de goede plek zetten"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "p", "text": "De present simple is heel eenvoudig: je gebruikt het hele werkwoord zonder <i>to</i>. Er is maar één uitzondering: bij <b>he, she en it</b> komt er een <b>-s</b> achter."},
+ {"type": "conj", "verb": "to work", "meaning": "werken", "label": "regelmatig werkwoord", "tense": "present simple",
+  "forms": ["work", "work", "work*s*", "work", "work", "work"],
+  "examples": [["I work in an office.", "Ik werk op een kantoor."], ["You work very hard.", "Jij werkt heel hard."], ["She works at a school.", "Zij werkt op een school."], ["We work from home on Fridays.", "Op vrijdag werken we thuis."], ["You work together.", "Jullie werken samen."], ["They work in London.", "Zij werken in Londen."]]},
+ {"type": "conj", "verb": "to live", "meaning": "wonen", "label": "regelmatig werkwoord", "tense": "present simple",
+  "forms": ["live", "live", "live*s*", "live", "live", "live"],
+  "examples": [["I live in Amsterdam.", "Ik woon in Amsterdam."], ["Where do you live?", "Waar woon jij?"], ["He lives with his parents.", "Hij woont bij zijn ouders."], ["We live near the sea.", "We wonen bij de zee."], ["You live in a big house.", "Jullie wonen in een groot huis."], ["They live in the city centre.", "Zij wonen in het centrum."]]},
+ {"type": "table", "style": "plain", "widths": [5.0, 4.0, 8.0], "head": ["Spellingregel voor he / she / it", "Voorbeeld", "Opmerking"], "rows": [
+  ["meestal + s", "work → works, play → plays", ""],
+  ["na s, sh, ch, x, o: + es", "watch → watches, go → goes, do → does", "je hoort een extra lettergreep bij watches"],
+  ["medeklinker + y: y wordt ies", "study → studies, fly → flies", "maar play → plays (klinker + y)"],
+  ["onregelmatig", "have → has", "be → is (pdf 2)"]]},
+
+ {"type": "h1", "text": "2. Ontkennen en vragen met do en does"},
+ {"type": "p", "text": "Het Engels kan een gewoon werkwoord niet zomaar omdraaien of ontkennen. Je hebt een hulpwerkwoord nodig: <b>do</b>, of <b>does</b> bij he, she en it. De -s gaat dan naar does, en het hoofdwerkwoord blijft kaal."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["I work.", "I don't work.", "Do I work?"],
+  ["You like tea.", "You don't like tea.", "Do you like tea?"],
+  ["She plays tennis.", "She doesn't play tennis.", "Does she play tennis?"],
+  ["We live here.", "We don't live here.", "Do we live here?"],
+  ["They speak English.", "They don't speak English.", "Do they speak English?"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands: 'Werk jij?' — Engels: 'Do you work?'", "text": "In het Nederlands draai je het werkwoord om: <i>Spreek jij Engels?</i> In het Engels mag dat niet met een gewoon werkwoord. Je zet <b>do</b> of <b>does</b> vooraan: <b>Do you speak English?</b> Ook bij ontkennen: <i>Ik werk niet</i> = <b>I don't work</b>, nooit <i>I work not</i>."},
+ {"type": "callout", "kind": "warn", "title": "Eén keer -s is genoeg", "text": "Bij does staat de -s al op het hulpwerkwoord. Dus <b>Does she work?</b> en <b>She doesn't work</b>, nooit <i>Does she works?</i> of <i>She doesn't works</i>."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Vraag", "Ja", "Nee"], "rows": [
+  ["Do you like coffee?", "Yes, I do.", "No, I don't."],
+  ["Does he drive?", "Yes, he does.", "No, he doesn't."],
+  ["Do they live here?", "Yes, they do.", "No, they don't."]]},
+
+ {"type": "h1", "text": "3. Wanneer gebruik je de present simple?"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Gewoontes en routines", "I get up at seven.", "Ik sta om zeven uur op."],
+  ["Feiten", "Water boils at 100 degrees.", "Water kookt bij 100 graden."],
+  ["Blijvende situaties", "She lives in Leiden.", "Zij woont in Leiden."],
+  ["Wat je vindt of weet", "I like jazz. I know him.", "Ik hou van jazz. Ik ken hem."],
+  ["Dienstregelingen", "The train leaves at 8.15.", "De trein vertrekt om 8.15 uur."]]},
+ {"type": "callout", "kind": "dutch", "title": "Niet voor wat nu gebeurt", "text": "In het Nederlands zeg je <i>Ik lees een boek</i> voor gewoontes én voor nu. Het Engels maakt verschil: <b>I read a lot</b> (gewoonte) tegenover <b>I'm reading a book</b> (nu, op dit moment). Die tweede vorm komt in pdf 7."},
+
+ {"type": "h1", "text": "4. Hoe vaak?"},
+ {"type": "verbpairs", "title": "Woorden voor frequentie", "items": [
+  ["always", "altijd"], ["usually", "meestal"], ["often", "vaak"], ["sometimes", "soms"],
+  ["rarely", "zelden"], ["never", "nooit"], ["every day", "elke dag"], ["once a week", "één keer per week"],
+  ["twice a month", "twee keer per maand"], ["on Mondays", "op maandag"]]},
+ {"type": "callout", "kind": "tip", "title": "De plek in de zin", "text": "Always, usually, often, sometimes en never staan <b>vóór</b> het gewone werkwoord, maar <b>na</b> am / is / are: <i>I <b>often</b> cook.</i> — <i>She is <b>often</b> late.</i> Uitdrukkingen als <i>every day</i> en <i>once a week</i> staan aan het eind: <i>I swim twice a week.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Nooit vaak vooraan zoals in het Nederlands", "text": "Het Nederlands zegt <i>Ik kook vaak</i> of <i>Vaak kook ik</i>. Het Engels zegt <b>I often cook</b>: het woord staat tussen onderwerp en werkwoord. <i>I cook often</i> hoor je ook, maar <i>Often I cook</i> klinkt raar."},
+ {"type": "verbpairs", "title": "Veelgebruikte werkwoorden voor routines", "items": [
+  ["to get up", "opstaan"], ["to have breakfast", "ontbijten"], ["to go to work", "naar het werk gaan"],
+  ["to start", "beginnen"], ["to finish", "ophouden, eindigen"], ["to cook", "koken"],
+  ["to watch TV", "tv kijken"], ["to go to bed", "naar bed gaan"], ["to read", "lezen"], ["to study", "studeren"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["She work in a bank.", "She works in a bank.", "Bij he, she en it komt er een -s bij."],
+  ["Work you on Sundays?", "Do you work on Sundays?", "Een vraag met een gewoon werkwoord krijgt do."],
+  ["He don't like fish.", "He doesn't like fish.", "Bij he, she en it is het does."],
+  ["Does she likes tea?", "Does she like tea?", "Na does blijft het werkwoord kaal."],
+  ["I work not on Fridays.", "I don't work on Fridays.", "Ontkennen gaat met don't."],
+  ["He studys English.", "He studies English.", "Medeklinker + y wordt -ies."],
+  ["I go always by bike.", "I always go by bike.", "always staat vóór het werkwoord."],
+  ["She watchs TV.", "She watches TV.", "Na ch komt -es."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "My sister ______ in Rotterdam.", "hint": "live", "a": "lives", "full": "My sister lives in Rotterdam."},
+  {"q": "I ______ coffee every morning.", "hint": "drink", "a": "drink", "full": "I drink coffee every morning."},
+  {"q": "He ______ TV in the evening.", "hint": "watch", "a": "watches", "full": "He watches TV in the evening."},
+  {"q": "______ you speak French?", "hint": "do of does", "a": "Do", "full": "Do you speak French?"},
+  {"q": "______ she play the piano?", "hint": "do of does", "a": "Does", "full": "Does she play the piano?"},
+  {"q": "We ______ work on Sundays.", "hint": "ontkenning", "a": "don't", "full": "We don't work on Sundays."},
+  {"q": "He ______ eat meat.", "hint": "ontkenning", "a": "doesn't", "full": "He doesn't eat meat."},
+  {"q": "She ______ English at university.", "hint": "study", "a": "studies", "full": "She studies English at university."},
+  {"q": "The shop ______ at nine.", "hint": "open", "a": "opens", "full": "The shop opens at nine."},
+  {"q": "Do you like tea? Yes, I ______.", "hint": "kort antwoord", "a": "do", "full": "Do you like tea? Yes, I do."},
+  {"q": "I ______ go by bike.", "hint": "altijd", "a": "always", "full": "I always go by bike."},
+  {"q": "My father ______ to work by train.", "hint": "go", "a": "goes", "full": "My father goes to work by train."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Spreek je Engels?", "a": "Do you speak English?"},
+  {"q": "Zij woont in Utrecht.", "a": "She lives in Utrecht."},
+  {"q": "Hij drinkt geen koffie.", "a": "He doesn't drink coffee."},
+  {"q": "Ik sta meestal om zeven uur op.", "a": "I usually get up at seven."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
