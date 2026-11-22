@@ -1,0 +1,682 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Uitspraak",
+  "number": 1,
+  "total_in_level": 9,
+  "title": "Uitspraak, spelling en accenten",
+  "subtitle": "Het Spaanse alfabet, klanken, klemtoonregels en geschreven accenten (Spaans uit Spanje)",
+  "footer": "Language Learning · A1 · Uitspraak, spelling en accenten",
+  "next": "Volgende: A1 · pdf 2 — Regelmatige werkwoorden: presente"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "elke letter noemen en woorden hardop spellen",
+    "de vijf klinkers en de lastige medeklinkers uitspreken (c, z, g, j, h, ll, ñ, r, rr)",
+    "weten welke lettergreep de klemtoon krijgt, en wanneer er een geschreven accent nodig is",
+    "¿ en ¡ gebruiken en de basisregels voor hoofdletters in het Spaans toepassen"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het alfabet"
+  },
+  {
+   "type": "p",
+   "text": "Het Spaans heeft <b>27 letters</b>. De combinaties <b>ch</b> en <b>ll</b> telden vroeger als aparte letters, maar nu niet meer. De Spaanse spelling is heel regelmatig: als je de regels kent, kun je elk woord hardop lezen."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Letter en naam",
+   "items": [
+    [
+     "A a",
+     "a — agua"
+    ],
+    [
+     "B b",
+     "be — bien"
+    ],
+    [
+     "C c",
+     "ce — casa"
+    ],
+    [
+     "D d",
+     "de — día"
+    ],
+    [
+     "E e",
+     "e — escuela"
+    ],
+    [
+     "F f",
+     "efe — familia"
+    ],
+    [
+     "G g",
+     "ge — gato"
+    ],
+    [
+     "H h",
+     "hache — hola"
+    ],
+    [
+     "I i",
+     "i — isla"
+    ],
+    [
+     "J j",
+     "jota — jamón"
+    ],
+    [
+     "K k",
+     "ka — kilo"
+    ],
+    [
+     "L l",
+     "ele — leche"
+    ],
+    [
+     "M m",
+     "eme — madre"
+    ],
+    [
+     "N n",
+     "ene — nada"
+    ],
+    [
+     "Ñ ñ",
+     "eñe — año"
+    ],
+    [
+     "O o",
+     "o — ojo"
+    ],
+    [
+     "P p",
+     "pe — padre"
+    ],
+    [
+     "Q q",
+     "cu — queso"
+    ],
+    [
+     "R r",
+     "erre — rojo"
+    ],
+    [
+     "S s",
+     "ese — sol"
+    ],
+    [
+     "T t",
+     "te — tarde"
+    ],
+    [
+     "U u",
+     "u — uno"
+    ],
+    [
+     "V v",
+     "uve — vino"
+    ],
+    [
+     "W w",
+     "uve doble — web"
+    ],
+    [
+     "X x",
+     "equis — taxi"
+    ],
+    [
+     "Y y",
+     "i griega — yo"
+    ],
+    [
+     "Z z",
+     "zeta — zapato"
+    ]
+   ],
+   "kind": "letters"
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje en Latijns-Amerika",
+   "text": "In Spanje heten de letters v en w <b>uve</b> en <b>uve doble</b>. In Latijns-Amerika zegt men vaak ve en doble ve. Een naam spellen: C-A-R-L-O-S = ce, a, erre, ele, o, ese."
+  },
+  {
+   "type": "h1",
+   "text": "2. De vijf klinkers"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.2,
+    7.8,
+    7.0
+   ],
+   "head": [
+    "Klinker",
+    "Klank (ongeveer)",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "a",
+     "als de aa in 'kaas', maar korter",
+     "casa, mano, agua"
+    ],
+    [
+     "e",
+     "als de e in 'bed'",
+     "mesa, leche, ella"
+    ],
+    [
+     "i",
+     "als de ie in 'zien'",
+     "sí, mi, isla"
+    ],
+    [
+     "o",
+     "een korte, zuivere o: tussen de o van 'bot' en de oo van 'boot', zonder na-klank",
+     "solo, ocho, ojo"
+    ],
+    [
+     "u",
+     "als de oe in 'boek'",
+     "uno, luna, mucho"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Tips voor Nederlandstaligen",
+   "bullets": [
+    "Houd elke klinker <b>kort en zuiver</b>. In veel Nederlandse accenten schuiven de lange ee en oo een beetje na (zee, boot). De Spaanse e en o schuiven nooit na.",
+    "Spreek <b>elke klinker duidelijk</b> uit, ook zonder klemtoon: ca-sa, niet ca-se. Het Spaans heeft geen stomme e zoals in 'de' of 'lopen'."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Medeklinkers"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.7,
+    6.0,
+    3.7,
+    4.6
+   ],
+   "head": [
+    "Spelling",
+    "Klank in Spanje",
+    "Voorbeelden",
+    "Tip"
+   ],
+   "rows": [
+    [
+     "b, v",
+     "voor allebei dezelfde klank, zoals de b in 'bed' (zachter tussen klinkers)",
+     "bien, vino, lavar",
+     "vino begint met een b-klank, niet met een v"
+    ],
+    [
+     "c voor a, o, u",
+     "k",
+     "casa, color, cuando",
+     ""
+    ],
+    [
+     "c voor e, i; z",
+     "als de th in het Engelse 'think'",
+     "cena, cielo, zapato, zumo",
+     "in Latijns-Amerika zegt men hier een s"
+    ],
+    [
+     "qu",
+     "k (de u spreek je niet uit)",
+     "queso, quiero",
+     "nooit gespeld als keso"
+    ],
+    [
+     "g voor a, o, u",
+     "een harde g, zoals in 'goal' of het Engelse 'go'",
+     "gato, goma, gusto",
+     ""
+    ],
+    [
+     "g voor e, i; j",
+     "een rauwe h, zoals de ch in 'acht'",
+     "gente, jamón, hijo, rojo",
+     "deze klank ken je al uit het Nederlands"
+    ],
+    [
+     "gu voor e, i",
+     "harde g (de u spreek je niet uit)",
+     "guerra, guitarra",
+     "gü = de u spreek je wél uit: pingüino"
+    ],
+    [
+     "h",
+     "stom",
+     "hola, hombre, hijo",
+     "nooit uitgesproken"
+    ],
+    [
+     "ll",
+     "als de j in 'ja'",
+     "calle, llave, ella",
+     ""
+    ],
+    [
+     "y",
+     "als de j in 'ja'; het woordje y (en) klinkt als ie",
+     "yo, playa, y",
+     ""
+    ],
+    [
+     "ñ",
+     "nj, zoals in 'oranje'",
+     "año, español, mañana",
+     "de tilde verandert het woord"
+    ],
+    [
+     "r (enkel)",
+     "één snelle tik van de tong",
+     "pero, cara, hora",
+     ""
+    ],
+    [
+     "rr, en r aan het begin van een woord",
+     "gerolde r, meerdere tikken",
+     "perro, rojo, rápido",
+     "oefen het rollen langzaam"
+    ],
+    [
+     "s",
+     "altijd een scherpe s, zoals in 'sok'",
+     "casa, mesa, rosa",
+     "nooit stemhebbend zoals een z"
+    ],
+    [
+     "d",
+     "als de d in 'dag' aan het begin; tussen klinkers een zachte th, zoals in het Engelse 'this'",
+     "dos, nada, ciudad",
+     ""
+    ],
+    [
+     "ch",
+     "tsj, zoals in 'Tsjechië'",
+     "chico, noche",
+     ""
+    ],
+    [
+     "x",
+     "ks",
+     "taxi, examen",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Hardop oefenen (de lettergreep met klemtoon in hoofdletters)",
+   "items": [
+    [
+     "queso",
+     "KE-so · kaas"
+    ],
+    [
+     "cena",
+     "THE-na · avondeten"
+    ],
+    [
+     "gente",
+     "CHEN-te · mensen"
+    ],
+    [
+     "jamón",
+     "cha-MON · ham"
+    ],
+    [
+     "hijo",
+     "IE-cho · zoon"
+    ],
+    [
+     "guerra",
+     "GHE-rra · oorlog"
+    ],
+    [
+     "llave",
+     "JA-be · sleutel"
+    ],
+    [
+     "año",
+     "A-njo · jaar"
+    ],
+    [
+     "perro",
+     "PE-rro · hond"
+    ],
+    [
+     "zapato",
+     "tha-PA-to · schoen"
+    ],
+    [
+     "ciudad",
+     "thioe-DAD · stad"
+    ],
+    [
+     "gracias",
+     "GRA-thjas · dank je"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "latam_ok": true,
+   "items": [
+    "<b>pero</b> (maar) en <b>perro</b> (hond): één tik tegenover een gerolde r.",
+    "<b>caro</b> (duur) en <b>carro</b> (kar): hetzelfde verschil.",
+    "<b>casa</b> (huis) en <b>caza</b> (jacht): s tegenover th, in Spanje."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Lettergrepen en klemtoon"
+  },
+  {
+   "type": "p",
+   "text": "Elk Spaans woord heeft één lettergreep met klemtoon. Twee eenvoudige regels vertellen je welke, en een geschreven accent markeert elke uitzondering."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.4,
+    3.2,
+    4.8
+   ],
+   "head": [
+    "Het woord eindigt op",
+    "Klemtoon op",
+    "Geschreven accent?",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "een klinker, n of s",
+     "de voorlaatste lettergreep",
+     "nee",
+     "CAsa, haBLAN, LUnes"
+    ],
+    [
+     "een andere medeklinker",
+     "de laatste lettergreep",
+     "nee",
+     "haBLAR, ciuDAD, esPAÑOL"
+    ],
+    [
+     "(een uitzondering op de regels hierboven)",
+     "de lettergreep met het accentteken",
+     "ja",
+     "caFÉ, canCIÓN, teLÉfono, ÁRbol"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Wat een accent wel en niet doet",
+   "text": "Een geschreven accent laat alleen zien <b>waar de klemtoon</b> ligt. Het verandert nooit de klank van de klinker. Woorden met de klemtoon op de derde lettergreep van achteren hebben er altijd een: <i>teléfono, música, sábado</i>."
+  },
+  {
+   "type": "p",
+   "text": "<b>Sterke klinkers</b> zijn a, e, o. <b>Zwakke klinkers</b> zijn i, u. Twee sterke klinkers vormen twee lettergrepen (le-o). Een sterke en een zwakke klinker, of twee zwakke klinkers, vormen één lettergreep: <i>bue-no, tiem-po, ciu-dad</i>. Een accent op de zwakke klinker splitst ze: <i>dí-a, pa-ís</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Geschreven accenten en spelling"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    4.8,
+    3.2,
+    5.8
+   ],
+   "head": [
+    "Zonder accent",
+    "Betekenis",
+    "Met accent",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "tu",
+     "jouw",
+     "tú",
+     "jij"
+    ],
+    [
+     "el",
+     "de, het",
+     "él",
+     "hij"
+    ],
+    [
+     "mi",
+     "mijn",
+     "mí",
+     "mij (na een voorzetsel)"
+    ],
+    [
+     "si",
+     "als, of",
+     "sí",
+     "ja"
+    ],
+    [
+     "te",
+     "je, jou (als lijdend voorwerp)",
+     "té",
+     "thee"
+    ],
+    [
+     "se",
+     "zich",
+     "sé",
+     "ik weet"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Vraagwoorden</b> hebben altijd een accent, in vragen en in uitroepen: <i>qué, quién, dónde, cuándo, cómo, cuánto, cuál</i> (<i>¡Qué bien!</i>).",
+    "<b>Openingstekens:</b> een vraag begint met <b>¿</b> en een uitroep met <b>¡</b>, en ze eindigen met ? en !",
+    "<b>Kleine letters:</b> dagen, maanden, talen en nationaliteiten krijgen geen hoofdletter: <i>lunes, enero, español, holandés</i>.",
+    "<b>Titels</b> krijgen alleen een hoofdletter aan het begin: <i>Cien años de soledad</i>.",
+    "<b>Dubbele letters</b> zijn zeldzaam: vooral <b>ll</b> en <b>rr</b> (en soms <b>cc</b> of <b>nn</b>). Verdubbel nooit een klinker zoals in het Nederlands: <i>hablar</i>, niet hablaar."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Gratis woordenschat: Nederlandse uitgangen die bij het Spaans passen",
+   "bullets": [
+    "Nederlands <b>-tie</b> = Spaans <b>-ción</b>: natie / nación, informatie / información, situatie / situación.",
+    "Nederlands <b>-teit</b> = Spaans <b>-dad</b>: universiteit / universidad, activiteit / actividad.",
+    "Nederlands <b>-logie</b> = Spaans <b>-logía</b>: biologie / biología, technologie / tecnología."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "telefono",
+     "teléfono",
+     "De klemtoon ligt op de derde lettergreep van achteren, dus er is een geschreven accent nodig."
+    ],
+    [
+     "estacion",
+     "estación",
+     "Eindigt op n, dus volgens de regel ligt de klemtoon op de voorlaatste lettergreep. Hij ligt op de laatste, dus komt er een accent."
+    ],
+    [
+     "Donde vives?",
+     "¿Dónde vives?",
+     "Een vraag begint met ¿ en het vraagwoord krijgt een accent."
+    ],
+    [
+     "Tu eres mi amigo.",
+     "Tú eres mi amigo.",
+     "tú (jij) heeft een accent; tu (jouw) niet."
+    ],
+    [
+     "Hablo Español.",
+     "Hablo español.",
+     "Talen schrijf je met een kleine letter."
+    ],
+    [
+     "keso",
+     "queso",
+     "De k-klank voor e of i spel je als qu."
+    ],
+    [
+     "gerra",
+     "guerra",
+     "Een harde g voor e of i heeft een stomme u nodig: gue, gui."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Zet het geschreven accent waar het nodig is. Is het woord al goed, schrijf het dan over. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Woord of zin",
+    "Opdracht"
+   ],
+   "answer_titles": [
+    "Antwoord",
+    "Waarom"
+   ],
+   "items": [
+    {
+     "q": "telefono",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "teléfono",
+     "full": "teléfono",
+     "why": "Met de klemtoon op de derde lettergreep van achteren komt er altijd een accent."
+    },
+    {
+     "q": "cancion",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "canción",
+     "full": "canción",
+     "why": "Eindigt op n, maar de klemtoon ligt op de laatste lettergreep."
+    },
+    {
+     "q": "arbol",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "árbol",
+     "full": "árbol",
+     "why": "Eindigt op l, dus de regel geeft de laatste lettergreep; de klemtoon ligt op de eerste."
+    },
+    {
+     "q": "cafe",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "café",
+     "full": "café",
+     "why": "Eindigt op een klinker, dus de regel geeft de voorlaatste; de klemtoon ligt op de laatste."
+    },
+    {
+     "q": "facil",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "fácil",
+     "full": "fácil",
+     "why": "Eindigt op l, dus de regel geeft de laatste lettergreep; de klemtoon ligt op de eerste."
+    },
+    {
+     "q": "pais",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "país",
+     "full": "país",
+     "why": "Het accent op de zwakke klinker í splitst a-í in twee lettergrepen en geeft de klemtoon aan."
+    },
+    {
+     "q": "estudiante",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "estudiante",
+     "full": "estudiante",
+     "why": "Eindigt op een klinker en de klemtoon ligt op de voorlaatste lettergreep: geen accent."
+    },
+    {
+     "q": "¿Donde vives?",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "¿Dónde vives?",
+     "full": "¿Dónde vives?",
+     "why": "Vraagwoorden krijgen een accent."
+    },
+    {
+     "q": "Tu eres mi amigo.",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "Tú eres mi amigo.",
+     "full": "Tú eres mi amigo.",
+     "why": "Hier betekent tú 'jij'."
+    },
+    {
+     "q": "Es para tu madre.",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "Es para tu madre.",
+     "full": "Es para tu madre.",
+     "why": "Hier betekent tu 'jouw': geen accent."
+    },
+    {
+     "q": "¿Como estas?",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "¿Cómo estás?",
+     "full": "¿Cómo estás?",
+     "why": "Accent op het vraagwoord, en estás (je bent) heeft de klemtoon op de laatste lettergreep."
+    },
+    {
+     "q": "lapiz",
+     "hint": "accent toevoegen als het nodig is",
+     "a": "lápiz",
+     "full": "lápiz",
+     "why": "Eindigt op z, dus de regel geeft de laatste lettergreep; de klemtoon ligt op de eerste."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

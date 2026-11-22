@@ -1,0 +1,13 @@
+{
+  "id": "es_from_nl",
+  "learn": "es",
+  "explained_in": "nl",
+  "title": "Spanish",
+  "subtitle": "Spaans uit Spanje, uitgelegd in het Nederlands",
+  "exam": "DELE",
+  "accent_pdfs": [
+    "A1_01",
+    "C1_08"
+  ],
+  "exam_site": "https://cervantes.org/es/examenes/dele"
+}

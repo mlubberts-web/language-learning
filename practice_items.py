@@ -277,7 +277,7 @@ def add_word(items, pdf_id, english, spanish, group, show=None):
     match = gender and re.fullmatch(rf"({'|'.join(gender)}) ([^/()]+)", spanish.strip(), flags=re.IGNORECASE)
     if match:  # 'el primo / la prima' can't be asked, since both articles are correct
         article, noun = match.group(1).lower(), match.group(2)
-        hint = re.sub(r"\s*\((?:masculine|feminine)\)", "", english)  # or the hint gives it away
+        hint = re.sub(r"\s*\((?:masculine|feminine|mannelijk|vrouwelijk|masculino|femenino)\)", "", english)  # or the hint gives it away
         add_item(items, pdf_id, "gender", noun, [article], hint=hint, show=f"{article} {noun}",
                  group=group, choices=gender)
 
@@ -292,14 +292,15 @@ def add_listening(items, pdf_id, sentence):
 
 def add_word_pairs(items, pdf_id, block):
     title = block.get("title", "")
-    if title == "Letter and name":  # letter names are not translations
+    # 'kind' marks special lists in any language; the English titles are how the first course marks them
+    if block.get("kind") == "letters" or title == "Letter and name":  # letter names are not translations
         return
     for left, right in block["items"]:
         if block.get("check"):  # lists like: hacer -> hecho (done, made)
             kind = {"participle": t("past participle", _base()), "gerund": t("gerund", _base())}[block["check"]]
             form = re.sub(r"\s*\(.*\)", "", right)
             add_item(items, pdf_id, "verbs", f"{left} · {kind}", [form], must_match=["accent"])
-        elif title == "Numbers":
+        elif block.get("kind") == "numbers" or title == "Numbers":
             add_item(items, pdf_id, "words", left, [right], group=title)
             add_item(items, pdf_id, "reverse", right, [left], group=title)
         elif " · " in right:  # queso -> KEH-so · cheese
@@ -366,7 +367,8 @@ def _build_items(pdf_id, document, course_id):
                          [e["a"], e["full"]] if e["a"] != e["full"] else [e["a"]],
                          hint=e.get("hint", ""), show=e["full"], why=e.get("why", ""),
                          must_match=["accent"] if accent_pdf else [])
-                if e.get("hint", "").startswith("translate"):
+                # a word or sentence to translate: marked with "kind": "translate", or a hint 'translate ...'
+                if e.get("kind") == "translate" or e.get("hint", "").startswith("translate"):
                     if len(e["a"].split()) > 2:
                         add_sentence(items, pdf_id, e["q"], e["a"])
                         add_tiles(items, pdf_id, e["q"], e["a"])
@@ -381,9 +383,12 @@ def _build_items(pdf_id, document, course_id):
                 add_tiles(items, pdf_id, pair["q"], pair["a"])
 
         elif kind == "mistakes":
-            for wrong, right, why in block["rows"]:
-                if right.startswith("Both are correct") or wrong.startswith("Never say"):
-                    continue  # these two rows give advice and contain no sentence to correct
+            for row in block["rows"]:
+                wrong, right, why = row[:3]
+                # Rows that give advice contain no sentence to correct: a 4th part "advice" marks them,
+                # or in the first course these two English beginnings.
+                if row[3:] == ["advice"] or right.startswith("Both are correct") or wrong.startswith("Never say"):
+                    continue
                 answers = sentence_answers(right)
                 add_item(items, pdf_id, "fix", wrong, answers, show=right, why=why,
                          must_match=what_the_mistake_is(wrong, answers))
@@ -391,7 +396,7 @@ def _build_items(pdf_id, document, course_id):
         elif kind == "conj":
             forms = block.get("forms") or [block["stem"] + end for end in block["endings"]]
             add_verb_forms(items, pdf_id, block["verb"], block.get("meaning", ""),
-                           block.get("tense", "present"), forms, persons)
+                           block.get("tense", t("present", _base())), forms, persons)
             for spanish, english in block.get("examples", []):
                 add_sentence(items, pdf_id, english, spanish)
                 add_tiles(items, pdf_id, english, spanish)
@@ -399,7 +404,7 @@ def _build_items(pdf_id, document, course_id):
         elif kind == "conjgrid":
             for verb in block["verbs"]:
                 add_verb_forms(items, pdf_id, verb["inf"], verb.get("meaning", ""),
-                               block.get("tense", "present"), verb["forms"],
+                               block.get("tense", t("present", _base())), verb["forms"],
                                block.get("persons", persons))
     add_verbs_in_context(items, pdf_id, course_id)
     return list(items.values())

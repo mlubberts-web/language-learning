@@ -15,3 +15,6 @@ study_log.json
 .venv/
 __pycache__/
 *.pyc
+
+# Work sheets of content_sheet.py (temporary)
+sheets/

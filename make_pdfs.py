@@ -240,7 +240,8 @@ def block_conjgrid(b, build):
 
 def block_mistakes(b, build):
     rows = [[build.tr("Instead of…"), build.tr("Write…"), build.tr("Why")]]
-    for wrong, right, why in b["rows"]:
+    for row in b["rows"]:
+        wrong, right, why = row[:3]  # a 4th part ("advice") only matters for the practice questions
         rows.append([f'<font color="#c0392b">{wrong}</font>', f'<font color="#2e7d4f"><b>{right}</b></font>', why])
     return [table(rows, [4.6, 4.6, 7.8], first_bold=False), Spacer(1, 8)]
 

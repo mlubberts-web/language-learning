@@ -1,0 +1,761 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Werkwoorden",
+  "number": 2,
+  "total_in_level": 9,
+  "title": "Regelmatige werkwoorden: presente",
+  "subtitle": "Zo vervoeg je werkwoorden op -ar, -er en -ir, met alle personen, ook vosotros (Spaans uit Spanje)",
+  "footer": "Language Learning · A1 · Werkwoorden · Regelmatige presente",
+  "next": "Volgende: A1 · pdf 3 — Onregelmatige werkwoorden: presente"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "elk regelmatig werkwoord splitsen in stam en uitgang",
+    "regelmatige werkwoorden op -ar, -er en -ir in de presente (tegenwoordige tijd) vervoegen voor alle zes personen",
+    "kiezen tussen tú, usted, vosotros en ustedes",
+    "de presente gebruiken voor gewoontes, feiten, wat nu gebeurt en de nabije toekomst",
+    "de meest gemaakte beginnersfouten vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het grote plaatje"
+  },
+  {
+   "type": "p",
+   "text": "In het Spaans vertelt de uitgang van het werkwoord wie de handeling doet. Elk werkwoord eindigt in zijn woordenboekvorm (de <b>infinitief</b>) op <b>-ar</b>, <b>-er</b> of <b>-ir</b>. Haal die uitgang eraf en je hebt de <b>stam</b>; daarna zet je er de uitgang achter die bij de persoon hoort."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Voorbeeld",
+   "text": "hablar (spreken): stam <b>habl-</b> + uitgang <b>-o</b> = <b>hablo</b> (ik spreek)"
+  },
+  {
+   "type": "p",
+   "text": "Regelmatige werkwoorden volgen één vast patroon per groep: met drie rijtjes uitgangen kun je honderden werkwoorden vervoegen."
+  },
+  {
+   "type": "h1",
+   "text": "2. Persoonlijke voornaamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    4.4,
+    2.6,
+    6.4
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Engels",
+    "Opmerkingen"
+   ],
+   "rows": [
+    [
+     "yo",
+     "ik",
+     "I",
+     ""
+    ],
+    [
+     "tú",
+     "jij / je (informeel, enkelvoud)",
+     "you (informal)",
+     "vrienden, familie, leeftijdgenoten"
+    ],
+    [
+     "él / ella",
+     "hij / zij",
+     "he / she",
+     ""
+    ],
+    [
+     "usted (Ud.)",
+     "u (beleefd, enkelvoud)",
+     "you (formal)",
+     "onbekenden, ouderen, respect; krijgt de werkwoordsvorm van él/ella"
+    ],
+    [
+     "nosotros / nosotras",
+     "wij / we",
+     "we",
+     "nosotras = een groep van alleen vrouwen"
+    ],
+    [
+     "vosotros / vosotras",
+     "jullie (informeel)",
+     "you (all)",
+     "gebruikt in Spanje; vosotras = een groep van alleen vrouwen"
+    ],
+    [
+     "ellos / ellas",
+     "zij / ze (meervoud)",
+     "they",
+     "ellas = een groep van alleen vrouwen"
+    ],
+    [
+     "ustedes (Uds.)",
+     "u (beleefd, meervoud)",
+     "you (formal, plural)",
+     "krijgt de werkwoordsvorm van ellos/ellas"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje en Latijns-Amerika",
+   "text": "In Spanje zeg je <b>vosotros</b> tegen een groep vrienden of familie en <b>ustedes</b> alleen tegen een groep die je beleefd aanspreekt. In Latijns-Amerika gebruikt men <b>ustedes</b> voor allebei, dus dat hoor je veel in video's en apps. Deze cursus gebruikt altijd vosotros."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Laat het voornaamwoord weg",
+   "text": "De uitgang laat de persoon al zien, dus het Spaans laat het onderwerp meestal weg: <b>Hablo español</b>, niet <i>Yo hablo español</i>. Gebruik het voornaamwoord alleen voor contrast of nadruk: <i>Yo hablo inglés, pero ella habla francés.</i> (Ik spreek Engels, maar zij spreekt Frans.) Él, ella en usted delen één werkwoordsvorm, dus een voornaamwoord of naam kan ook twijfel wegnemen."
+  },
+  {
+   "type": "h1",
+   "text": "3. De uitgangen"
+  },
+  {
+   "type": "p",
+   "text": "Leer deze drie kolommen. Bij regelmatige werkwoorden verandert de stam nooit."
+  },
+  {
+   "type": "table",
+   "style": "endings",
+   "widths": [
+    5.0,
+    4.0,
+    4.0,
+    4.0
+   ],
+   "head": [
+    "Persoon",
+    "-ar  (hablar)",
+    "-er  (comer)",
+    "-ir  (vivir)"
+   ],
+   "rows": [
+    [
+     "yo",
+     "-o",
+     "-o",
+     "-o"
+    ],
+    [
+     "tú",
+     "-as",
+     "-es",
+     "-es"
+    ],
+    [
+     "él / ella / usted",
+     "-a",
+     "-e",
+     "-e"
+    ],
+    [
+     "nosotros / nosotras",
+     "-amos",
+     "-emos",
+     "-imos"
+    ],
+    [
+     "vosotros / vosotras",
+     "-áis",
+     "-éis",
+     "-ís"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "-an",
+     "-en",
+     "-en"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Patronen om te onthouden",
+   "bullets": [
+    "De <b>yo</b>-vorm eindigt altijd op <b>-o</b>, in alle drie de groepen.",
+    "Werkwoorden op <b>-er</b> en <b>-ir</b> hebben dezelfde uitgangen, behalve bij <b>nosotros</b> (-emos / -imos) en <b>vosotros</b> (-éis / -ís).",
+    "De enige geschreven accenten in de regelmatige presente staan in de <b>vosotros</b>-vormen: habl<b>áis</b>, com<b>éis</b>, viv<b>ís</b>.",
+    "De klemtoon ligt op de stam in de vormen van yo, tú, él en ellos (HAblo, HAblas, HAbla, HAblan) en op de uitgang bij nosotros en vosotros (hablAmos, habLÁIS)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Volledige vervoegingen"
+  },
+  {
+   "type": "conj",
+   "verb": "hablar",
+   "meaning": "spreken, praten",
+   "group": "-ar",
+   "stem": "habl",
+   "endings": [
+    "o",
+    "as",
+    "a",
+    "amos",
+    "áis",
+    "an"
+   ],
+   "examples": [
+    [
+     "Hablo español.",
+     "Ik spreek Spaans."
+    ],
+    [
+     "¿Hablas inglés?",
+     "Spreek jij Engels?"
+    ],
+    [
+     "Ella habla muy rápido.",
+     "Zij praat heel snel."
+    ],
+    [
+     "Hablamos por teléfono.",
+     "We bellen met elkaar."
+    ],
+    [
+     "¿Habláis alemán?",
+     "Spreken jullie Duits?"
+    ],
+    [
+     "Ellos hablan con el profesor.",
+     "Zij praten met de leraar."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "comer",
+   "meaning": "eten",
+   "group": "-er",
+   "stem": "com",
+   "endings": [
+    "o",
+    "es",
+    "e",
+    "emos",
+    "éis",
+    "en"
+   ],
+   "examples": [
+    [
+     "Como fruta todos los días.",
+     "Ik eet elke dag fruit."
+    ],
+    [
+     "¿Comes carne?",
+     "Eet jij vlees?"
+    ],
+    [
+     "Él come en casa.",
+     "Hij eet thuis."
+    ],
+    [
+     "Comemos a las dos.",
+     "We eten om twee uur."
+    ],
+    [
+     "¿Coméis aquí?",
+     "Eten jullie hier?"
+    ],
+    [
+     "Ellas comen pasta.",
+     "Zij eten pasta."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "vivir",
+   "meaning": "wonen, leven",
+   "group": "-ir",
+   "stem": "viv",
+   "endings": [
+    "o",
+    "es",
+    "e",
+    "imos",
+    "ís",
+    "en"
+   ],
+   "examples": [
+    [
+     "Vivo en Madrid.",
+     "Ik woon in Madrid."
+    ],
+    [
+     "¿Dónde vives?",
+     "Waar woon jij?"
+    ],
+    [
+     "Ella vive con su hermana.",
+     "Zij woont bij haar zus."
+    ],
+    [
+     "Vivimos en un piso.",
+     "We wonen in een appartement."
+    ],
+    [
+     "¿Vivís cerca de aquí?",
+     "Wonen jullie hier in de buurt?"
+    ],
+    [
+     "Viven en España.",
+     "Zij wonen in Spanje."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgebruikte regelmatige werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Deze volgen allemaal precies de patronen hierboven. Oefen ze hardop met alle zes personen."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -ar",
+   "items": [
+    [
+     "hablar",
+     "spreken"
+    ],
+    [
+     "trabajar",
+     "werken"
+    ],
+    [
+     "estudiar",
+     "studeren"
+    ],
+    [
+     "comprar",
+     "kopen"
+    ],
+    [
+     "caminar",
+     "lopen, wandelen"
+    ],
+    [
+     "bailar",
+     "dansen"
+    ],
+    [
+     "cantar",
+     "zingen"
+    ],
+    [
+     "cocinar",
+     "koken"
+    ],
+    [
+     "escuchar",
+     "luisteren naar"
+    ],
+    [
+     "mirar",
+     "kijken naar"
+    ],
+    [
+     "necesitar",
+     "nodig hebben"
+    ],
+    [
+     "viajar",
+     "reizen"
+    ],
+    [
+     "llamar",
+     "bellen, roepen"
+    ],
+    [
+     "ayudar",
+     "helpen"
+    ],
+    [
+     "llegar",
+     "aankomen"
+    ],
+    [
+     "buscar",
+     "zoeken"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -er",
+   "items": [
+    [
+     "comer",
+     "eten"
+    ],
+    [
+     "beber",
+     "drinken"
+    ],
+    [
+     "leer",
+     "lezen"
+    ],
+    [
+     "aprender",
+     "leren"
+    ],
+    [
+     "correr",
+     "rennen"
+    ],
+    [
+     "comprender",
+     "begrijpen"
+    ],
+    [
+     "vender",
+     "verkopen"
+    ],
+    [
+     "responder",
+     "antwoorden"
+    ],
+    [
+     "creer",
+     "geloven, denken"
+    ],
+    [
+     "deber",
+     "moeten"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Werkwoorden op -ir",
+   "items": [
+    [
+     "vivir",
+     "wonen, leven"
+    ],
+    [
+     "escribir",
+     "schrijven"
+    ],
+    [
+     "abrir",
+     "openen"
+    ],
+    [
+     "recibir",
+     "ontvangen"
+    ],
+    [
+     "decidir",
+     "besluiten"
+    ],
+    [
+     "subir",
+     "naar boven gaan, klimmen"
+    ],
+    [
+     "compartir",
+     "delen"
+    ],
+    [
+     "describir",
+     "beschrijven"
+    ],
+    [
+     "permitir",
+     "toestaan"
+    ],
+    [
+     "asistir",
+     "bijwonen"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Bewust niet in deze lijsten",
+   "text": "Werkwoorden als <b>ser, estar, ir, tener, hacer, ver</b> en stamveranderaars als <b>poder, querer, dormir</b> zijn onregelmatig in de presente. Die staan in de volgende pdf."
+  },
+  {
+   "type": "h1",
+   "text": "6. Wanneer gebruik je de presente?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.6,
+    5.8
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Gewoontes en routines",
+     "Trabajo de lunes a viernes.",
+     "Ik werk van maandag tot en met vrijdag."
+    ],
+    [
+     "Feiten en blijvende situaties",
+     "Vivimos en Madrid.",
+     "We wonen in Madrid."
+    ],
+    [
+     "Wat nu gebeurt",
+     "Ahora estudio.",
+     "Ik ben nu aan het studeren."
+    ],
+    [
+     "Nabije toekomst",
+     "Mañana trabajo.",
+     "Morgen werk ik."
+    ],
+    [
+     "Vragen en antwoorden",
+     "¿Hablas inglés? Sí, hablo un poco.",
+     "Spreek jij Engels? Ja, ik spreek een beetje."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Goed nieuws voor Nederlandstaligen",
+   "text": "Net als het Nederlands gebruikt het Spaans vaak de presente voor de nabije toekomst (<i>Mañana trabajo</i> = Morgen werk ik). En één vorm zegt allebei: <b>hablo</b> betekent ik spreek <i>én</i> ik ben aan het praten."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Handige tijdwoorden",
+   "items": [
+    [
+     "siempre",
+     "altijd"
+    ],
+    [
+     "normalmente",
+     "meestal"
+    ],
+    [
+     "a menudo",
+     "vaak"
+    ],
+    [
+     "a veces",
+     "soms"
+    ],
+    [
+     "nunca",
+     "nooit"
+    ],
+    [
+     "todos los días",
+     "elke dag"
+    ],
+    [
+     "cada semana",
+     "elke week"
+    ],
+    [
+     "los lunes",
+     "op maandag"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Siempre bebo agua.</i> — Ik drink altijd water.<br/><i>A veces escucho música.</i> — Soms luister ik naar muziek.<br/><i>Nunca como carne.</i> — Ik eet nooit vlees."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Ontkenningen en vragen in één regel",
+   "text": "Zet <b>no</b> voor het werkwoord voor een ontkenning: <i>No hablo francés.</i> Voor een vraag zet je de zin tussen ¿ en ? en ga je aan het eind omhoog met je stem: <i>¿Hablas inglés?</i> Alle details volgen in A1 · pdf 8."
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yo hablar español.",
+     "Hablo español.",
+     "Vervoeg het werkwoord. Na een onderwerp gebruik je geen infinitief."
+    ],
+    [
+     "Yo trabajo, yo estudio y yo vivo en Madrid.",
+     "Trabajo, estudio y vivo en Madrid.",
+     "Het Nederlands heeft elke keer ik/jij nodig. De Spaanse uitgangen laten de persoon al zien."
+    ],
+    [
+     "Vivemos en Sevilla.",
+     "Vivimos en Sevilla.",
+     "Nosotros: -ar = -amos, -er = -emos, -ir = -imos."
+    ],
+    [
+     "¿Vosotros comís?",
+     "¿Vosotros coméis?",
+     "Vosotros: werkwoorden op -er krijgen -éis. De uitgang -ís hoort alleen bij werkwoorden op -ir (vivís)."
+    ],
+    [
+     "Ustedes habláis.",
+     "Ustedes hablan.",
+     "Ustedes (beleefd meervoud) gebruikt de vorm van ellos/ellas."
+    ],
+    [
+     "Tú trabaja mucho.",
+     "Tú trabajas mucho.",
+     "Tú eindigt altijd op -s. Él/ella/usted heeft geen -s."
+    ],
+    [
+     "¿Hablas usted inglés?",
+     "¿Habla usted inglés?",
+     "Usted is beleefd en krijgt de vorm van él/ella, niet die van tú."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af met de juiste vorm van de presente. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ español.",
+     "hint": "hablar (yo)",
+     "a": "Hablo",
+     "full": "Hablo español."
+    },
+    {
+     "q": "¿Qué ______ por la mañana?",
+     "hint": "comer (tú)",
+     "a": "comes",
+     "full": "¿Qué comes por la mañana?"
+    },
+    {
+     "q": "Ella ______ en Madrid.",
+     "hint": "vivir",
+     "a": "vive",
+     "full": "Ella vive en Madrid."
+    },
+    {
+     "q": "______ en una oficina.",
+     "hint": "trabajar (nosotros)",
+     "a": "Trabajamos",
+     "full": "Trabajamos en una oficina."
+    },
+    {
+     "q": "¿Qué ______?",
+     "hint": "beber (vosotros)",
+     "a": "bebéis",
+     "full": "¿Qué bebéis?"
+    },
+    {
+     "q": "______ correos.",
+     "hint": "escribir (ellos)",
+     "a": "Escriben",
+     "full": "Escriben correos."
+    },
+    {
+     "q": "______ por la tarde.",
+     "hint": "estudiar (yo)",
+     "a": "Estudio",
+     "full": "Estudio por la tarde."
+    },
+    {
+     "q": "¿______ español?",
+     "hint": "aprender (usted)",
+     "a": "Aprende",
+     "full": "¿Aprende español?"
+    },
+    {
+     "q": "______ la puerta.",
+     "hint": "abrir (nosotras)",
+     "a": "Abrimos",
+     "full": "Abrimos la puerta."
+    },
+    {
+     "q": "______ el pan.",
+     "hint": "comprar (vosotros)",
+     "a": "Compráis",
+     "full": "Compráis el pan."
+    },
+    {
+     "q": "Él ______ el periódico.",
+     "hint": "leer",
+     "a": "lee",
+     "full": "Él lee el periódico."
+    },
+    {
+     "q": "______ muy bien.",
+     "hint": "cantar (ellas)",
+     "a": "Cantan",
+     "full": "Cantan muy bien."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Wij wonen in Spanje.",
+     "a": "Vivimos en España."
+    },
+    {
+     "q": "Spreken jullie Engels?",
+     "a": "¿Habláis inglés?"
+    },
+    {
+     "q": "Ik eet elke dag fruit.",
+     "a": "Como fruta todos los días."
+    },
+    {
+     "q": "Zij werkt niet op zondag.",
+     "a": "No trabaja los domingos."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
