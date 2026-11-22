@@ -1,0 +1,1770 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Woordenschat",
+  "number": 9,
+  "total_in_level": 9,
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Woordenlijsten per thema met lidwoord (Spaans uit Spanje), plus zinnen voor kennismaken, in het café, de weg vragen en winkelen",
+  "footer": "Language Learning · A1 · Woordenschat en vaste uitdrukkingen",
+  "next": "Volgende: A2 · pdf 1 — Pretérito indefinido: regelmatige werkwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zo gebruik je deze lijsten",
+   "bullets": [
+    "Zelfstandige naamwoorden staan erbij <b>met hun lidwoord</b> (el / la). Leer ze samen: el pan, la leche.",
+    "Dek één kolom af en overhoor jezelf in allebei de richtingen.",
+    "Alle woorden zijn Spaans uit Spanje. De tabel in deel 12 laat zien waar Latijns-Amerika anders is."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Begroetingen en beleefde woorden"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Begroetingen en beleefdheid",
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ],
+   "items": [
+    [
+     "hola",
+     "hallo"
+    ],
+    [
+     "buenos días",
+     "goedemorgen"
+    ],
+    [
+     "buenas tardes",
+     "goedemiddag"
+    ],
+    [
+     "buenas noches",
+     "goedenavond, welterusten"
+    ],
+    [
+     "adiós",
+     "dag, tot ziens"
+    ],
+    [
+     "hasta luego",
+     "tot straks"
+    ],
+    [
+     "hasta mañana",
+     "tot morgen"
+    ],
+    [
+     "hasta pronto",
+     "tot gauw"
+    ],
+    [
+     "por favor",
+     "alsjeblieft, alstublieft"
+    ],
+    [
+     "gracias",
+     "dank je, dank u"
+    ],
+    [
+     "de nada",
+     "graag gedaan"
+    ],
+    [
+     "perdón",
+     "sorry, pardon"
+    ],
+    [
+     "lo siento",
+     "het spijt me"
+    ],
+    [
+     "con permiso",
+     "pardon (om erlangs te gaan)"
+    ],
+    [
+     "¿qué tal?",
+     "hoe gaat het?"
+    ],
+    [
+     "¿cómo estás?",
+     "hoe gaat het met je?"
+    ],
+    [
+     "(muy) bien",
+     "(heel) goed"
+    ],
+    [
+     "así así",
+     "gaat wel"
+    ],
+    [
+     "mal",
+     "slecht"
+    ],
+    [
+     "mucho gusto",
+     "aangenaam"
+    ],
+    [
+     "encantado / encantada",
+     "leuk je te ontmoeten"
+    ],
+    [
+     "sí / no",
+     "ja / nee"
+    ],
+    [
+     "vale",
+     "oké (heel gewoon in Spanje)"
+    ],
+    [
+     "bienvenido / bienvenida",
+     "welkom"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Welke groet wanneer?",
+   "text": "In Spanje luncht men rond 14.00 uur, dus <b>buenos días</b> zeg je tot ongeveer dan. <b>Buenas tardes</b> duurt tot het donker wordt; daarna is het <b>buenas noches</b>, ook als je welterusten zegt."
+  },
+  {
+   "type": "h1",
+   "text": "2. Getallen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Getallen",
+   "items": [
+    [
+     "0",
+     "cero"
+    ],
+    [
+     "1",
+     "uno"
+    ],
+    [
+     "2",
+     "dos"
+    ],
+    [
+     "3",
+     "tres"
+    ],
+    [
+     "4",
+     "cuatro"
+    ],
+    [
+     "5",
+     "cinco"
+    ],
+    [
+     "6",
+     "seis"
+    ],
+    [
+     "7",
+     "siete"
+    ],
+    [
+     "8",
+     "ocho"
+    ],
+    [
+     "9",
+     "nueve"
+    ],
+    [
+     "10",
+     "diez"
+    ],
+    [
+     "11",
+     "once"
+    ],
+    [
+     "12",
+     "doce"
+    ],
+    [
+     "13",
+     "trece"
+    ],
+    [
+     "14",
+     "catorce"
+    ],
+    [
+     "15",
+     "quince"
+    ],
+    [
+     "16",
+     "dieciséis"
+    ],
+    [
+     "17",
+     "diecisiete"
+    ],
+    [
+     "18",
+     "dieciocho"
+    ],
+    [
+     "19",
+     "diecinueve"
+    ],
+    [
+     "20",
+     "veinte"
+    ],
+    [
+     "30",
+     "treinta"
+    ],
+    [
+     "40",
+     "cuarenta"
+    ],
+    [
+     "50",
+     "cincuenta"
+    ],
+    [
+     "60",
+     "sesenta"
+    ],
+    [
+     "70",
+     "setenta"
+    ],
+    [
+     "80",
+     "ochenta"
+    ],
+    [
+     "90",
+     "noventa"
+    ],
+    [
+     "100",
+     "cien"
+    ],
+    [
+     "200",
+     "doscientos"
+    ],
+    [
+     "500",
+     "quinientos"
+    ],
+    [
+     "1000",
+     "mil"
+    ]
+   ],
+   "kind": "numbers"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>16 tot en met 19 en 21 tot en met 29</b> zijn één woord: dieciséis, diecisiete, veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve.",
+    "<b>Vanaf 31</b> zijn de tientallen en eenheden losse woorden met y: treinta y uno, cuarenta y cinco, noventa y nueve.",
+    "<b>100:</b> <i>cien</i> als het alleen staat of voor een zelfstandig naamwoord (cien euros), <i>ciento</i> in 101 tot en met 199 (ciento uno, ciento cincuenta).",
+    "<b>uno</b> wordt korter voor een mannelijk woord en past zich aan een vrouwelijk woord aan: <i>un euro, veintiún euros, una casa, veintiuna casas</i>. Honderdtallen passen zich ook aan: <i>doscientas casas</i>.",
+    "<b>mil</b> krijgt nooit un: <i>mil euros</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Dagen, maanden en seizoenen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Dagen van de week en tijdwoorden",
+   "items": [
+    [
+     "lunes",
+     "maandag"
+    ],
+    [
+     "martes",
+     "dinsdag"
+    ],
+    [
+     "miércoles",
+     "woensdag"
+    ],
+    [
+     "jueves",
+     "donderdag"
+    ],
+    [
+     "viernes",
+     "vrijdag"
+    ],
+    [
+     "sábado",
+     "zaterdag"
+    ],
+    [
+     "domingo",
+     "zondag"
+    ],
+    [
+     "hoy",
+     "vandaag"
+    ],
+    [
+     "mañana",
+     "morgen (ook: de ochtend)"
+    ],
+    [
+     "ayer",
+     "gisteren"
+    ],
+    [
+     "la semana",
+     "de week"
+    ],
+    [
+     "el fin de semana",
+     "het weekend"
+    ],
+    [
+     "el mes",
+     "de maand"
+    ],
+    [
+     "el año",
+     "het jaar"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Maanden en seizoenen",
+   "items": [
+    [
+     "enero",
+     "januari"
+    ],
+    [
+     "febrero",
+     "februari"
+    ],
+    [
+     "marzo",
+     "maart"
+    ],
+    [
+     "abril",
+     "april"
+    ],
+    [
+     "mayo",
+     "mei"
+    ],
+    [
+     "junio",
+     "juni"
+    ],
+    [
+     "julio",
+     "juli"
+    ],
+    [
+     "agosto",
+     "augustus"
+    ],
+    [
+     "septiembre",
+     "september"
+    ],
+    [
+     "octubre",
+     "oktober"
+    ],
+    [
+     "noviembre",
+     "november"
+    ],
+    [
+     "diciembre",
+     "december"
+    ],
+    [
+     "la primavera",
+     "de lente"
+    ],
+    [
+     "el verano",
+     "de zomer"
+    ],
+    [
+     "el otoño",
+     "de herfst"
+    ],
+    [
+     "el invierno",
+     "de winter"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Dagen en maanden schrijf je met een kleine letter, net als in het Nederlands. De week begint op maandag. <i>El lunes</i> = op maandag, <i>los lunes</i> = op maandagen. Data krijgen gewone getallen: <i>el cinco de mayo</i>, <i>el 1 de enero</i>. Seizoenen: <i>en verano</i>, <i>en invierno</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Hoe laat is het?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    7.4,
+    7.0
+   ],
+   "head": [
+    "Tijd",
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "1:00",
+     "Es la una.",
+     "Het is één uur."
+    ],
+    [
+     "2:00",
+     "Son las dos.",
+     "Het is twee uur."
+    ],
+    [
+     "2:15",
+     "Son las dos y cuarto.",
+     "Het is kwart over twee."
+    ],
+    [
+     "2:30",
+     "Son las dos y media.",
+     "Het is half drie."
+    ],
+    [
+     "2:45",
+     "Son las tres menos cuarto.",
+     "Het is kwart voor drie."
+    ],
+    [
+     "2:10",
+     "Son las dos y diez.",
+     "Het is tien over twee."
+    ],
+    [
+     "2:50",
+     "Son las tres menos diez.",
+     "Het is tien voor drie."
+    ],
+    [
+     "12:00",
+     "Es mediodía.",
+     "Het is twaalf uur 's middags."
+    ],
+    [
+     "0:00",
+     "Es medianoche.",
+     "Het is middernacht."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>¿Qué hora es?</b> (Hoe laat is het?) <b>¿A qué hora…?</b> (Hoe laat…? Om hoe laat…?) Antwoord: <i>A las ocho.</i>",
+    "Gebruik <b>es la</b> voor één uur en <b>son las</b> voor alle andere uren.",
+    "Voeg <b>de la mañana</b> ('s ochtends), <b>de la tarde</b> ('s middags en vroeg in de avond) of <b>de la noche</b> ('s nachts, laat op de avond) toe: <i>las ocho de la mañana, las diez de la noche</i>."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Half drie is niet 'media tres'",
+   "text": "Het Nederlandse <i>half drie</i> is 2.30, en dat is in het Spaans <b>las dos y media</b>. Vertaal <i>half drie</i> niet woord voor woord. Het Spaans telt het halfuur <b>na</b> het uur dat al begonnen is."
+  },
+  {
+   "type": "h1",
+   "text": "5. Familie en mensen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Familie en mensen",
+   "widths": [
+    4.8,
+    3.7,
+    4.8,
+    3.7
+   ],
+   "items": [
+    [
+     "la madre",
+     "moeder"
+    ],
+    [
+     "el padre",
+     "vader"
+    ],
+    [
+     "los padres",
+     "ouders"
+    ],
+    [
+     "el hermano / la hermana",
+     "broer / zus"
+    ],
+    [
+     "el hijo / la hija",
+     "zoon / dochter"
+    ],
+    [
+     "el abuelo / la abuela",
+     "opa / oma"
+    ],
+    [
+     "el nieto / la nieta",
+     "kleinzoon / kleindochter"
+    ],
+    [
+     "el tío / la tía",
+     "oom / tante"
+    ],
+    [
+     "el sobrino / la sobrina",
+     "neef / nicht (kind van broer of zus)"
+    ],
+    [
+     "el primo / la prima",
+     "neef, nicht (kind van oom of tante)"
+    ],
+    [
+     "el marido / la mujer",
+     "man / vrouw (echtgenoot / echtgenote)"
+    ],
+    [
+     "el novio / la novia",
+     "vriend / vriendin (relatie)"
+    ],
+    [
+     "el amigo / la amiga",
+     "vriend, vriendin"
+    ],
+    [
+     "el vecino / la vecina",
+     "buurman, buurvrouw"
+    ],
+    [
+     "el niño / la niña",
+     "kind"
+    ],
+    [
+     "el chico / la chica",
+     "jongen / meisje"
+    ],
+    [
+     "el hombre",
+     "man"
+    ],
+    [
+     "la mujer",
+     "vrouw, echtgenote"
+    ],
+    [
+     "la gente",
+     "mensen (enkelvoud!)"
+    ],
+    [
+     "la familia",
+     "familie, gezin"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Los padres</i> betekent <b>ouders</b>, <i>los hermanos</i> kan <b>broers en zussen</b> betekenen, en <i>la gente</i> krijgt een werkwoord in het enkelvoud: <i>La gente es simpática.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "6. Eten en drinken"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Eten en drinken",
+   "items": [
+    [
+     "el pan",
+     "brood"
+    ],
+    [
+     "el agua",
+     "water"
+    ],
+    [
+     "la leche",
+     "melk"
+    ],
+    [
+     "el café",
+     "koffie"
+    ],
+    [
+     "el té",
+     "thee"
+    ],
+    [
+     "el zumo",
+     "sap"
+    ],
+    [
+     "la cerveza",
+     "bier"
+    ],
+    [
+     "el vino",
+     "wijn"
+    ],
+    [
+     "la carne",
+     "vlees"
+    ],
+    [
+     "el pollo",
+     "kip"
+    ],
+    [
+     "el pescado",
+     "vis"
+    ],
+    [
+     "el huevo",
+     "ei"
+    ],
+    [
+     "el queso",
+     "kaas"
+    ],
+    [
+     "el jamón",
+     "ham"
+    ],
+    [
+     "el arroz",
+     "rijst"
+    ],
+    [
+     "la pasta",
+     "pasta"
+    ],
+    [
+     "la patata",
+     "aardappel"
+    ],
+    [
+     "la ensalada",
+     "salade"
+    ],
+    [
+     "la sopa",
+     "soep"
+    ],
+    [
+     "la fruta",
+     "fruit"
+    ],
+    [
+     "la manzana",
+     "appel"
+    ],
+    [
+     "el plátano",
+     "banaan"
+    ],
+    [
+     "la naranja",
+     "sinaasappel"
+    ],
+    [
+     "el tomate",
+     "tomaat"
+    ],
+    [
+     "la verdura",
+     "groente"
+    ],
+    [
+     "el azúcar",
+     "suiker"
+    ],
+    [
+     "la sal",
+     "zout"
+    ],
+    [
+     "el desayuno",
+     "ontbijt"
+    ],
+    [
+     "la comida",
+     "lunch, maaltijd"
+    ],
+    [
+     "la cena",
+     "avondeten"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Etenstijden in Spanje",
+   "text": "<b>El desayuno</b> is klein (koffie met een geroosterde boterham of een gebakje). <b>La comida</b> is de hoofdmaaltijd, rond 14.00 tot 15.00 uur. <b>La cena</b> is lichter en wordt laat gegeten, vaak rond 21.00 uur."
+  },
+  {
+   "type": "h1",
+   "text": "7. Huis en meubels"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Huis en meubels",
+   "items": [
+    [
+     "la casa",
+     "huis, thuis"
+    ],
+    [
+     "el piso",
+     "appartement, flat"
+    ],
+    [
+     "la habitación",
+     "kamer, slaapkamer"
+    ],
+    [
+     "el dormitorio",
+     "slaapkamer"
+    ],
+    [
+     "la cocina",
+     "keuken"
+    ],
+    [
+     "el baño",
+     "badkamer"
+    ],
+    [
+     "el salón",
+     "woonkamer"
+    ],
+    [
+     "el jardín",
+     "tuin"
+    ],
+    [
+     "el balcón",
+     "balkon"
+    ],
+    [
+     "la puerta",
+     "deur"
+    ],
+    [
+     "la ventana",
+     "raam"
+    ],
+    [
+     "la mesa",
+     "tafel"
+    ],
+    [
+     "la silla",
+     "stoel"
+    ],
+    [
+     "la cama",
+     "bed"
+    ],
+    [
+     "el sofá",
+     "bank (om op te zitten)"
+    ],
+    [
+     "el armario",
+     "kast, kledingkast"
+    ],
+    [
+     "la lámpara",
+     "lamp"
+    ],
+    [
+     "la nevera",
+     "koelkast"
+    ],
+    [
+     "la ducha",
+     "douche"
+    ],
+    [
+     "el espejo",
+     "spiegel"
+    ],
+    [
+     "la escalera",
+     "trap"
+    ],
+    [
+     "el ascensor",
+     "lift"
+    ],
+    [
+     "la planta",
+     "verdieping"
+    ],
+    [
+     "la llave",
+     "sleutel"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Kleren"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Kleren",
+   "items": [
+    [
+     "la camisa",
+     "overhemd"
+    ],
+    [
+     "la camiseta",
+     "T-shirt"
+    ],
+    [
+     "los pantalones",
+     "broek"
+    ],
+    [
+     "la falda",
+     "rok"
+    ],
+    [
+     "el vestido",
+     "jurk"
+    ],
+    [
+     "la chaqueta",
+     "jasje"
+    ],
+    [
+     "el abrigo",
+     "jas"
+    ],
+    [
+     "el jersey",
+     "trui"
+    ],
+    [
+     "los zapatos",
+     "schoenen"
+    ],
+    [
+     "las botas",
+     "laarzen"
+    ],
+    [
+     "los calcetines",
+     "sokken"
+    ],
+    [
+     "las zapatillas",
+     "sportschoenen, pantoffels"
+    ],
+    [
+     "el sombrero",
+     "hoed"
+    ],
+    [
+     "las gafas",
+     "bril"
+    ],
+    [
+     "el bolso",
+     "handtas"
+    ],
+    [
+     "el cinturón",
+     "riem"
+    ],
+    [
+     "la bufanda",
+     "sjaal"
+    ],
+    [
+     "los guantes",
+     "handschoenen"
+    ],
+    [
+     "la ropa",
+     "kleren, kleding"
+    ],
+    [
+     "la talla",
+     "maat"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Dragen is <b>llevar</b>: <i>Llevo una camisa azul y unos pantalones negros.</i> Aantrekken is <b>ponerse</b>: <i>Me pongo el abrigo.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "9. Dagelijkse routine"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Dagelijkse routine",
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ],
+   "items": [
+    [
+     "desayunar",
+     "ontbijten"
+    ],
+    [
+     "comer",
+     "lunchen, eten"
+    ],
+    [
+     "cenar",
+     "avondeten"
+    ],
+    [
+     "trabajar",
+     "werken"
+    ],
+    [
+     "estudiar",
+     "studeren"
+    ],
+    [
+     "ir al trabajo",
+     "naar het werk gaan"
+    ],
+    [
+     "ir a clase",
+     "naar de les gaan"
+    ],
+    [
+     "hacer la compra",
+     "boodschappen doen"
+    ],
+    [
+     "hacer los deberes",
+     "huiswerk maken"
+    ],
+    [
+     "limpiar la casa",
+     "het huis schoonmaken"
+    ],
+    [
+     "cocinar",
+     "koken"
+    ],
+    [
+     "ver la tele",
+     "tv kijken"
+    ],
+    [
+     "escuchar música",
+     "naar muziek luisteren"
+    ],
+    [
+     "leer un libro",
+     "een boek lezen"
+    ],
+    [
+     "salir con amigos",
+     "uitgaan met vrienden"
+    ],
+    [
+     "hacer deporte",
+     "sporten"
+    ],
+    [
+     "dar un paseo",
+     "een wandeling maken"
+    ],
+    [
+     "llegar a casa",
+     "thuiskomen"
+    ],
+    [
+     "salir de casa",
+     "de deur uitgaan"
+    ],
+    [
+     "dormir",
+     "slapen"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "10. Plaatsen en vervoer"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Plaatsen in de stad",
+   "widths": [
+    4.6,
+    3.9,
+    4.6,
+    3.9
+   ],
+   "items": [
+    [
+     "la ciudad",
+     "stad"
+    ],
+    [
+     "el pueblo",
+     "dorp"
+    ],
+    [
+     "la calle",
+     "straat"
+    ],
+    [
+     "la plaza",
+     "plein"
+    ],
+    [
+     "la tienda",
+     "winkel"
+    ],
+    [
+     "el supermercado",
+     "supermarkt"
+    ],
+    [
+     "el mercado",
+     "markt"
+    ],
+    [
+     "el banco",
+     "bank (geld)"
+    ],
+    [
+     "la farmacia",
+     "apotheek"
+    ],
+    [
+     "el hospital",
+     "ziekenhuis"
+    ],
+    [
+     "el colegio",
+     "school"
+    ],
+    [
+     "la universidad",
+     "universiteit"
+    ],
+    [
+     "la biblioteca",
+     "bibliotheek"
+    ],
+    [
+     "el parque",
+     "park"
+    ],
+    [
+     "la estación",
+     "station"
+    ],
+    [
+     "el aeropuerto",
+     "vliegveld"
+    ],
+    [
+     "la iglesia",
+     "kerk"
+    ],
+    [
+     "el restaurante",
+     "restaurant"
+    ],
+    [
+     "el bar",
+     "bar, café"
+    ],
+    [
+     "el museo",
+     "museum"
+    ],
+    [
+     "el cine",
+     "bioscoop"
+    ],
+    [
+     "correos",
+     "postkantoor"
+    ],
+    [
+     "el ayuntamiento",
+     "gemeentehuis, stadhuis"
+    ],
+    [
+     "la parada de autobús",
+     "bushalte"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vervoer en reizen",
+   "items": [
+    [
+     "el coche",
+     "auto"
+    ],
+    [
+     "el autobús",
+     "bus"
+    ],
+    [
+     "el tren",
+     "trein"
+    ],
+    [
+     "el metro",
+     "metro"
+    ],
+    [
+     "el taxi",
+     "taxi"
+    ],
+    [
+     "la bicicleta",
+     "fiets"
+    ],
+    [
+     "el avión",
+     "vliegtuig"
+    ],
+    [
+     "el barco",
+     "boot"
+    ],
+    [
+     "el billete",
+     "kaartje"
+    ],
+    [
+     "la maleta",
+     "koffer"
+    ],
+    [
+     "el viaje",
+     "reis"
+    ],
+    [
+     "la moto",
+     "motor"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "11. Landen"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Landen (nationaliteiten staan in pdf 5)",
+   "items": [
+    [
+     "España",
+     "Spanje"
+    ],
+    [
+     "los Países Bajos (Holanda)",
+     "Nederland"
+    ],
+    [
+     "Bélgica",
+     "België"
+    ],
+    [
+     "Alemania",
+     "Duitsland"
+    ],
+    [
+     "Francia",
+     "Frankrijk"
+    ],
+    [
+     "Italia",
+     "Italië"
+    ],
+    [
+     "Portugal",
+     "Portugal"
+    ],
+    [
+     "Inglaterra",
+     "Engeland"
+    ],
+    [
+     "el Reino Unido",
+     "het Verenigd Koninkrijk"
+    ],
+    [
+     "Irlanda",
+     "Ierland"
+    ],
+    [
+     "Estados Unidos",
+     "de Verenigde Staten"
+    ],
+    [
+     "México",
+     "Mexico"
+    ],
+    [
+     "Argentina",
+     "Argentinië"
+    ],
+    [
+     "Colombia",
+     "Colombia"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "12. Spanje of Latijns-Amerika?"
+  },
+  {
+   "type": "p",
+   "text": "Deze cursus gebruikt Spaans uit Spanje. De woorden in de rechterkolom kom je tegen in films, series en apps uit Latijns-Amerika."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "latam_ok": true,
+   "widths": [
+    4.6,
+    6.0,
+    6.4
+   ],
+   "head": [
+    "Spanje",
+    "Latijns-Amerika (veel gebruikt)",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "el coche",
+     "el carro, el auto",
+     "auto"
+    ],
+    [
+     "el ordenador",
+     "la computadora",
+     "computer"
+    ],
+    [
+     "el móvil",
+     "el celular",
+     "mobiele telefoon"
+    ],
+    [
+     "el zumo",
+     "el jugo",
+     "sap"
+    ],
+    [
+     "la patata",
+     "la papa",
+     "aardappel"
+    ],
+    [
+     "el piso",
+     "el apartamento, el departamento",
+     "appartement"
+    ],
+    [
+     "las gafas",
+     "los lentes, los anteojos",
+     "bril"
+    ],
+    [
+     "el billete",
+     "el boleto, el pasaje",
+     "kaartje"
+    ],
+    [
+     "conducir, aparcar",
+     "manejar, estacionar",
+     "autorijden, parkeren"
+    ],
+    [
+     "vosotros",
+     "ustedes",
+     "jullie (informeel)"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "latam_ok": true,
+   "items": [
+    "Let op met <b>coger</b>: in Spanje is het het gewone werkwoord voor de bus nemen (<i>coger el autobús</i>), maar in delen van Latijns-Amerika heeft het een grove betekenis. Daar zegt men <i>tomar</i>.",
+    "Ook de uitspraak verschilt: Spanje spreekt <i>c</i> en <i>z</i> uit als th (<i>gracias</i>), Latijns-Amerika als s."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "13. Vaste uitdrukkingen"
+  },
+  {
+   "type": "h2",
+   "text": "Jezelf voorstellen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Me llamo…",
+     "Ik heet…"
+    ],
+    [
+     "Soy de… / Soy holandés / holandesa.",
+     "Ik kom uit… / Ik ben Nederlander / Nederlandse."
+    ],
+    [
+     "Vivo en…",
+     "Ik woon in…"
+    ],
+    [
+     "Tengo … años.",
+     "Ik ben … jaar."
+    ],
+    [
+     "Soy estudiante. / Trabajo en…",
+     "Ik ben student. / Ik werk bij…"
+    ],
+    [
+     "Hablo holandés, inglés y un poco de español.",
+     "Ik spreek Nederlands, Engels en een beetje Spaans."
+    ],
+    [
+     "Mucho gusto. / Encantado. / Encantada.",
+     "Aangenaam."
+    ],
+    [
+     "¿Cómo te llamas? / ¿De dónde eres?",
+     "Hoe heet je? / Waar kom je vandaan?"
+    ],
+    [
+     "¿Cuántos años tienes? / ¿Y tú?",
+     "Hoe oud ben je? / En jij?"
+    ],
+    [
+     "¿A qué te dedicas?",
+     "Wat doe je voor werk?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "In een café of restaurant"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Una mesa para dos, por favor.",
+     "Een tafel voor twee, alstublieft."
+    ],
+    [
+     "Tengo una reserva.",
+     "Ik heb gereserveerd."
+    ],
+    [
+     "La carta, por favor.",
+     "De kaart, alstublieft."
+    ],
+    [
+     "¿Hay menú del día?",
+     "Is er een dagmenu?"
+    ],
+    [
+     "Quisiera un café con leche, por favor.",
+     "Ik wil graag een koffie met melk, alstublieft."
+    ],
+    [
+     "Para mí, un zumo de naranja.",
+     "Voor mij een sinaasappelsap."
+    ],
+    [
+     "Está muy rico.",
+     "Het is heel lekker."
+    ],
+    [
+     "La cuenta, por favor.",
+     "De rekening, alstublieft."
+    ],
+    [
+     "¿Cuánto es?",
+     "Hoeveel is het?"
+    ],
+    [
+     "¿Puedo pagar con tarjeta?",
+     "Kan ik met de kaart betalen?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "De weg vragen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¿Dónde está la estación?",
+     "Waar is het station?"
+    ],
+    [
+     "¿Hay un banco por aquí?",
+     "Is er hier in de buurt een bank?"
+    ],
+    [
+     "¿Cómo llego a la plaza?",
+     "Hoe kom ik bij het plein?"
+    ],
+    [
+     "¿Está lejos? / ¿Está cerca?",
+     "Is het ver? / Is het dichtbij?"
+    ],
+    [
+     "Todo recto.",
+     "Rechtdoor."
+    ],
+    [
+     "A la derecha. / A la izquierda.",
+     "Naar rechts. / Naar links."
+    ],
+    [
+     "Al final de la calle.",
+     "Aan het eind van de straat."
+    ],
+    [
+     "Está a cinco minutos andando.",
+     "Het is vijf minuten lopen."
+    ],
+    [
+     "Gire a la izquierda. / Siga todo recto.",
+     "Ga linksaf. / Ga rechtdoor. (beleefd; de gebiedende wijs komt in A2)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Winkelen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¿Cuánto cuesta?",
+     "Hoeveel kost het?"
+    ],
+    [
+     "Es muy caro. / Es muy barato.",
+     "Het is erg duur. / Het is erg goedkoop."
+    ],
+    [
+     "Quisiera…",
+     "Ik wil graag…"
+    ],
+    [
+     "¿Tiene otra talla?",
+     "Heeft u een andere maat?"
+    ],
+    [
+     "¿Puedo probarlo?",
+     "Mag ik het passen?"
+    ],
+    [
+     "Me lo llevo.",
+     "Ik neem het."
+    ],
+    [
+     "Solo estoy mirando.",
+     "Ik kijk alleen even rond."
+    ],
+    [
+     "¿Aceptan tarjeta?",
+     "Kan ik met de kaart betalen?"
+    ],
+    [
+     "¿A qué hora abre? / ¿A qué hora cierra?",
+     "Hoe laat gaat het open? / dicht?"
+    ],
+    [
+     "Abierto. / Cerrado.",
+     "Open. / Gesloten."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "In de les, of als je iets niet begrijpt"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "No entiendo. / No sé.",
+     "Ik begrijp het niet. / Ik weet het niet."
+    ],
+    [
+     "¿Puede repetir, por favor?",
+     "Kunt u dat herhalen, alstublieft?"
+    ],
+    [
+     "Más despacio, por favor.",
+     "Langzamer, alstublieft."
+    ],
+    [
+     "¿Cómo se dice … en español?",
+     "Hoe zeg je … in het Spaans?"
+    ],
+    [
+     "¿Qué significa…?",
+     "Wat betekent…?"
+    ],
+    [
+     "¿Cómo se escribe?",
+     "Hoe schrijf je dat?"
+    ],
+    [
+     "Hablo un poco de español.",
+     "Ik spreek een beetje Spaans."
+    ],
+    [
+     "¿Habla inglés?",
+     "Spreekt u Engels?"
+    ],
+    [
+     "¿Puede ayudarme?",
+     "Kunt u me helpen?"
+    ],
+    [
+     "Un momento, por favor.",
+     "Een momentje, alstublieft."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "14. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Zeg of schrijf het in het Spaans. Dek eerst de antwoorden op de laatste pagina af."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Nederlands",
+    "Opdracht"
+   ],
+   "answer_titles": [
+    "Spaans",
+    "Opmerking"
+   ],
+   "items": [
+    {
+     "q": "Goedemorgen!",
+     "hint": "vertaal",
+     "a": "¡Buenos días!",
+     "full": "¡Buenos días!",
+     "why": "Gebruik je tot de lunch, in Spanje rond 14.00 uur.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik woon bij mijn ouders.",
+     "hint": "vertaal",
+     "a": "Vivo con mis padres.",
+     "full": "Vivo con mis padres.",
+     "why": "padres = ouders. Het bezittelijk voornaamwoord staat in het meervoud: mis.",
+     "kind": "translate"
+    },
+    {
+     "q": "drieëntwintig",
+     "hint": "vertaal",
+     "a": "veintitrés",
+     "full": "veintitrés",
+     "why": "Eén woord, met een accent.",
+     "kind": "translate"
+    },
+    {
+     "q": "Het is half vijf.",
+     "hint": "vertaal",
+     "a": "Son las cuatro y media.",
+     "full": "Son las cuatro y media.",
+     "why": "son las voor elk uur behalve één uur.",
+     "kind": "translate"
+    },
+    {
+     "q": "zondag",
+     "hint": "vertaal",
+     "a": "domingo",
+     "full": "domingo",
+     "why": "Geen hoofdletter.",
+     "kind": "translate"
+    },
+    {
+     "q": "de keuken",
+     "hint": "vertaal",
+     "a": "la cocina",
+     "full": "la cocina",
+     "why": "Vrouwelijk.",
+     "kind": "translate"
+    },
+    {
+     "q": "Ik wil graag een koffie, alstublieft.",
+     "hint": "vertaal",
+     "a": "Quisiera un café, por favor.",
+     "full": "Quisiera un café, por favor.",
+     "why": "Beleefd verzoek.",
+     "kind": "translate"
+    },
+    {
+     "q": "brood",
+     "hint": "vertaal",
+     "a": "el pan",
+     "full": "el pan",
+     "why": "Mannelijk.",
+     "kind": "translate"
+    },
+    {
+     "q": "mijn oma",
+     "hint": "vertaal",
+     "a": "mi abuela",
+     "full": "mi abuela",
+     "why": "la abuela, dus mi abuela.",
+     "kind": "translate"
+    },
+    {
+     "q": "Waar is het station?",
+     "hint": "vertaal",
+     "a": "¿Dónde está la estación?",
+     "full": "¿Dónde está la estación?",
+     "why": "Vraag naar een plaats: estar.",
+     "kind": "translate"
+    },
+    {
+     "q": "sap",
+     "hint": "vertaal (Spanje)",
+     "a": "el zumo",
+     "full": "el zumo",
+     "why": "In Spanje zeg je zumo. Zie de tabel in deel 12.",
+     "kind": "translate"
+    },
+    {
+     "q": "Hoeveel kost het?",
+     "hint": "vertaal",
+     "a": "¿Cuánto cuesta?",
+     "full": "¿Cuánto cuesta?",
+     "why": "Cuánto heeft een accent.",
+     "kind": "translate"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

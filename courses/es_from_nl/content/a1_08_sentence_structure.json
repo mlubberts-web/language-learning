@@ -1,0 +1,555 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Grammatica",
+  "number": 8,
+  "total_in_level": 9,
+  "title": "Basiszinsbouw",
+  "subtitle": "Woordvolgorde, ontkenningen, vragen, verbindingswoorden en de eerste voorzetsels",
+  "footer": "Language Learning · A1 · Grammatica · Zinsbouw",
+  "next": "Volgende: A1 · pdf 9 — Woordenschat en vaste uitdrukkingen"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "eenvoudige zinnen in de goede volgorde bouwen",
+    "ontkennende zinnen maken, ook met nunca, nada en nadie",
+    "ja/nee-vragen stellen en vragen met een vraagwoord",
+    "ideeën verbinden met y, o, pero en porque, en de eerste voorzetsels goed gebruiken"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Woordvolgorde"
+  },
+  {
+   "type": "p",
+   "text": "De basisvolgorde is <b>(onderwerp) + werkwoord + de rest</b>. Het onderwerp laat je meestal weg. Tijd en plaats kunnen aan het eind of aan het begin staan, maar het werkwoord verschuift <b>niet</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    2.6,
+    4.2,
+    4.0,
+    3.8
+   ],
+   "head": [
+    "Onderwerp",
+    "Werkwoord",
+    "Lijdend voorwerp",
+    "Plaats",
+    "Tijd"
+   ],
+   "rows": [
+    [
+     "Ana",
+     "estudia",
+     "español",
+     "en la universidad",
+     "todos los días."
+    ],
+    [
+     "(Yo)",
+     "como",
+     "pasta",
+     "en casa",
+     "los domingos."
+    ],
+    [
+     "(Nosotros)",
+     "vemos",
+     "la tele",
+     "en el salón",
+     "por la noche."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Bijvoeglijke naamwoorden</b> staan achter het zelfstandig naamwoord: <i>una casa grande, un coche rojo</i> (pdf 5).",
+    "<b>Tijdwoorden</b> kunnen de zin openen: <i>Hoy trabajo en casa.</i> of <i>Trabajo en casa hoy.</i>"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Geen Nederlandse woordvolgorde nodig",
+   "bullets": [
+    "Het Nederlands keert de volgorde om na een tijdwoord (<i>Morgen werk ik</i>). Het Spaans niet: <b>Mañana trabajo.</b>",
+    "Het Nederlands zet het werkwoord achteraan na <i>omdat</i>, <i>dat</i>, <i>als</i>. Het Spaans houdt de gewone volgorde: <b>porque estoy cansado</b> (omdat ik moe ben)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Ontkennende zinnen"
+  },
+  {
+   "type": "p",
+   "text": "Zet <b>no</b> direct voor het werkwoord: <i>No hablo francés. No vivo en Madrid.</i> De ontkennende woorden hieronder volgen één regel: <b>staan ze na het werkwoord, dan heb je ook no voor het werkwoord nodig. Staan ze ervoor, dan niet.</b>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.8,
+    3.2,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Woord",
+    "Betekenis",
+    "Na het werkwoord (met no)",
+    "Voor het werkwoord (geen extra no)"
+   ],
+   "rows": [
+    [
+     "nada",
+     "niets",
+     "No tengo nada.",
+     "Nada es fácil."
+    ],
+    [
+     "nadie",
+     "niemand",
+     "No veo a nadie.",
+     "Nadie habla español aquí."
+    ],
+    [
+     "nunca",
+     "nooit",
+     "No voy nunca al cine.",
+     "Nunca voy al cine."
+    ],
+    [
+     "tampoco",
+     "ook niet",
+     "No hablo francés tampoco.",
+     "Tampoco hablo francés."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Dubbele ontkenningen zijn normaal",
+   "text": "Het Nederlands vermijdt twee ontkenningen (<i>ik zie niemand</i>). Het Spaans heeft ze juist nodig na het werkwoord: <b>No veo a nadie</b>, <b>No tengo nada</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Vragen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.4,
+    6.2
+   ],
+   "head": [
+    "Soort",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Ja / nee (dezelfde volgorde, stem omhoog)",
+     "¿Hablas inglés?",
+     "Spreek jij Engels?"
+    ],
+    [
+     "Ja / nee (werkwoord eerst, onderwerp erachter)",
+     "¿Habla Ana inglés?",
+     "Spreekt Ana Engels?"
+    ],
+    [
+     "Bevestigingsvraag",
+     "Hablas inglés, ¿verdad? / ¿no?",
+     "Jij spreekt Engels, toch?"
+    ],
+    [
+     "Vraagwoord + werkwoord",
+     "¿Dónde vives?",
+     "Waar woon jij?"
+    ],
+    [
+     "Vraagwoord + werkwoord + onderwerp",
+     "¿Qué hacen ellos?",
+     "Wat doen zij?"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Het Spaans heeft geen hulpwerkwoord zoals het Engelse <i>do</i> of <i>does</i>. Net als in het Nederlands doet dezelfde werkwoordsvorm het werk.",
+    "Noem je in Spanje het onderwerp in een vraag, dan komt het <b>na</b> het werkwoord: <i>¿Dónde vives (tú)?</i>",
+    "Bij het antwoord herhaal je het werkwoord: <i>¿Hablas inglés? Sí, hablo inglés. / No, no hablo inglés.</i> (Een ontkennend antwoord begint met <b>No,</b> en dan volgt een ontkennende zin.)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Verbindingswoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    3.2,
+    10.6
+   ],
+   "head": [
+    "Woord",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "y (e)",
+     "en",
+     "Hablo inglés y español."
+    ],
+    [
+     "o (u)",
+     "of",
+     "¿Quieres té o café?"
+    ],
+    [
+     "pero",
+     "maar",
+     "Es caro, pero es muy bueno."
+    ],
+    [
+     "porque",
+     "omdat, want",
+     "Estudio español porque quiero viajar."
+    ],
+    [
+     "también",
+     "ook",
+     "Yo también hablo inglés."
+    ],
+    [
+     "entonces",
+     "dus, dan",
+     "Tengo sueño, entonces me acuesto."
+    ],
+    [
+     "cuando",
+     "als, wanneer",
+     "Cuando llego a casa, ceno."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "y wordt e, o wordt u",
+   "text": "<b>y</b> wordt <b>e</b> voor een woord dat begint met <b>i-</b> of <b>hi-</b>: <i>español e inglés, padre e hijo</i> (maar <i>agua y hielo</i>, door hie-).<br/><b>o</b> wordt <b>u</b> voor een woord dat begint met <b>o-</b> of <b>ho-</b>: <i>siete u ocho, mujer u hombre</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. De eerste voorzetsels"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    5.6,
+    9.0
+   ],
+   "head": [
+    "Woord",
+    "Belangrijkste toepassingen",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "a",
+     "richting, tijd, persoonlijke a",
+     "Voy a Madrid. Llego a las dos. Veo a María."
+    ],
+    [
+     "de",
+     "herkomst, bezit, materiaal",
+     "Soy de España. Es el libro de Ana."
+    ],
+    [
+     "en",
+     "in, op, bij; met (vervoer)",
+     "Estoy en casa. Voy en tren."
+    ],
+    [
+     "con",
+     "met",
+     "Vivo con mi hermano."
+    ],
+    [
+     "sin",
+     "zonder",
+     "Quiero un café sin azúcar."
+    ],
+    [
+     "para",
+     "voor, om te",
+     "Es para ti. Estudio para aprender."
+    ],
+    [
+     "desde / hasta",
+     "vanaf / tot",
+     "Trabajo desde las nueve hasta las cinco."
+    ],
+    [
+     "entre",
+     "tussen",
+     "Está entre el banco y la farmacia."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Persoonlijke a:</b> zet <b>a</b> voor een lijdend voorwerp dat een bepaalde persoon is (of een huisdier): <i>Veo a Pedro. Conozco a tu hermana.</i> Niet voor dingen: <i>Veo la tele.</i> Niet na tener: <i>Tengo dos hermanos.</i>",
+    "<b>Bezit</b> gebruikt <b>de</b>, nooit een 's: <i>el libro de Ana</i> (Ana's boek).",
+    "<b>Samentrekkingen:</b> a + el = <b>al</b>, de + el = <b>del</b>."
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Voorzetsels van plaats",
+   "items": [
+    [
+     "encima de / sobre",
+     "op, bovenop"
+    ],
+    [
+     "debajo de",
+     "onder"
+    ],
+    [
+     "delante de",
+     "voor"
+    ],
+    [
+     "detrás de",
+     "achter"
+    ],
+    [
+     "al lado de",
+     "naast"
+    ],
+    [
+     "cerca de",
+     "dichtbij"
+    ],
+    [
+     "lejos de",
+     "ver van"
+    ],
+    [
+     "entre",
+     "tussen"
+    ],
+    [
+     "a la derecha de",
+     "rechts van"
+    ],
+    [
+     "a la izquierda de",
+     "links van"
+    ],
+    [
+     "enfrente de",
+     "tegenover"
+    ],
+    [
+     "dentro de",
+     "binnen, in"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>El gato está debajo de la mesa. La farmacia está al lado del banco. Mi casa está lejos de aquí.</i> (De kat zit onder de tafel. De apotheek is naast de bank. Mijn huis is ver hiervandaan.)"
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yo no tengo no dinero.",
+     "No tengo dinero.",
+     "Eén no voor het werkwoord. Herhaal hem niet voor het zelfstandig naamwoord."
+    ],
+    [
+     "Veo nadie.",
+     "No veo a nadie.",
+     "Een ontkennend woord na het werkwoord heeft no voor het werkwoord nodig, en een persoon als lijdend voorwerp krijgt de persoonlijke a."
+    ],
+    [
+     "Veo María.",
+     "Veo a María.",
+     "Persoonlijke a voor een bepaalde persoon."
+    ],
+    [
+     "Es el libro Ana.",
+     "Es el libro de Ana.",
+     "Bezit gebruikt de."
+    ],
+    [
+     "¿Dónde tú vives?",
+     "¿Dónde vives (tú)?",
+     "In Spanje staat het onderwerp na het werkwoord, of je laat het weg."
+    ],
+    [
+     "Padre y hijo.",
+     "Padre e hijo.",
+     "y wordt e voor i- en hi-."
+    ],
+    [
+     "Siete o ocho.",
+     "Siete u ocho.",
+     "o wordt u voor o- en ho-."
+    ],
+    [
+     "Voy en el mercado.",
+     "Voy al mercado.",
+     "Richting krijgt a, en a + el = al."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af of verander hem zoals gevraagd. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Opdracht"
+   ],
+   "items": [
+    {
+     "q": "Hablo francés.",
+     "hint": "maak hem ontkennend",
+     "a": "No hablo francés.",
+     "full": "No hablo francés."
+    },
+    {
+     "q": "Bebo café.",
+     "hint": "maak hem ontkennend met nunca",
+     "a": "Nunca bebo café.",
+     "full": "Nunca bebo café."
+    },
+    {
+     "q": "Veo ______ Pedro.",
+     "hint": "persoonlijke a",
+     "a": "a",
+     "full": "Veo a Pedro."
+    },
+    {
+     "q": "Es el libro ______ Ana.",
+     "hint": "van",
+     "a": "de",
+     "full": "Es el libro de Ana."
+    },
+    {
+     "q": "Voy ______ mercado.",
+     "hint": "a + el",
+     "a": "al",
+     "full": "Voy al mercado."
+    },
+    {
+     "q": "Ana ______ Isabel son amigas.",
+     "hint": "en",
+     "a": "e",
+     "full": "Ana e Isabel son amigas."
+    },
+    {
+     "q": "Tengo siete ______ ocho libros.",
+     "hint": "of",
+     "a": "u",
+     "full": "Tengo siete u ocho libros."
+    },
+    {
+     "q": "El gato está ______ de la mesa.",
+     "hint": "onder",
+     "a": "debajo",
+     "full": "El gato está debajo de la mesa."
+    },
+    {
+     "q": "La farmacia está ______ de correos.",
+     "hint": "naast",
+     "a": "al lado",
+     "full": "La farmacia está al lado de correos."
+    },
+    {
+     "q": "tú / dónde / vives",
+     "hint": "zet in de goede volgorde",
+     "a": "¿Dónde vives?",
+     "full": "¿Dónde vives?"
+    },
+    {
+     "q": "No tengo ______.",
+     "hint": "niets",
+     "a": "nada",
+     "full": "No tengo nada."
+    },
+    {
+     "q": "No veo a ______.",
+     "hint": "niemand",
+     "a": "nadie",
+     "full": "No veo a nadie."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik eet geen vlees.",
+     "a": "No como carne."
+    },
+    {
+     "q": "Is de bank hier dichtbij?",
+     "a": "¿Está el banco cerca de aquí?"
+    },
+    {
+     "q": "Zij werkt nooit op zaterdag.",
+     "a": "Nunca trabaja los sábados."
+    },
+    {
+     "q": "Wil je thee of koffie?",
+     "a": "¿Quieres té o café?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

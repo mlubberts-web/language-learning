@@ -88,7 +88,7 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 2: Spanish for Dutch speakers (`es_from_nl`)
 
-- [ ] 2.1 Translate the explanations of A1 (content, themes, verbs-in-context notes) into Dutch;
+- [x] 2.1 Translate the explanations of A1 (content, themes, verbs-in-context notes) into Dutch;
       Spanish stays as it is. Generate the PDFs, run the tests.
 - [ ] 2.2 A2
 - [ ] 2.3 B1
