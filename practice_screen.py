@@ -259,8 +259,8 @@ def done_checkbox(items, label, widget_key):
     ticked = all(store.is_marked_done(practice_data(), key) for key in keys)
     st.session_state[widget_key] = ticked  # always show what is saved in practice.json
     st.checkbox(label, key=widget_key, on_change=set_done, args=(keys, widget_key),
-                help="Counts this exercise as finished in your progress and the Schedule, "
-                     "and the automatic next step skips it. Your answers are not changed.")
+                help=t("Counts this exercise as finished in your progress and the Schedule, "
+                       "and the automatic next step skips it. Your answers are not changed."))
     return ticked
 
 

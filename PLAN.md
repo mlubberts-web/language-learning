@@ -71,7 +71,7 @@ Choices made (Menno can overrule any of them):
   - [x] 1.4b app.py, ui.py, login.py
   - [x] 1.4c practice_screen.py, practice_items.py, practice_logic.py, extra_screens.py
   - [x] 1.4d schedule_screen.py, study_plan.py
-  - [ ] 1.4e progress_screen.py
+  - [x] 1.4e progress_screen.py
   - [ ] 1.4f Check every screen in Dutch and Spanish in the browser (with a test course)
 - [ ] 1.5 Choosing a course: on your own computer a course picker; online the course is chosen
       when making an account, and the sidebar can switch or add courses. Saved rows are named
