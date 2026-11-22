@@ -1,0 +1,617 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Grammatica",
+  "number": 5,
+  "total_in_level": 9,
+  "title": "Zelfstandige naamwoorden, lidwoorden en bijvoeglijke naamwoorden",
+  "subtitle": "Geslacht, meervoud, el / la / un / una, en hoe het bijvoeglijk naamwoord zich aanpast",
+  "footer": "Language Learning · A1 · Grammatica · Zelfstandige naamwoorden, lidwoorden, bijvoeglijke naamwoorden",
+  "next": "Volgende: A1 · pdf 6 — Voornaamwoorden, bezittelijke en aanwijzende voornaamwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "het geslacht van de meeste zelfstandige naamwoorden raden aan de uitgang, en de uitzonderingen leren",
+    "regelmatige meervouden maken, ook met de spellingsveranderingen",
+    "el, la, los, las, un, una, unos, unas, al en del gebruiken",
+    "het bijvoeglijk naamwoord laten passen bij het zelfstandig naamwoord en op de goede plek zetten"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het geslacht van zelfstandige naamwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Elk Spaans zelfstandig naamwoord is <b>mannelijk</b> of <b>vrouwelijk</b>. Onzijdig bestaat niet. Leer elk woord <b>samen met het lidwoord</b>: <i>el libro, la mesa</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.0,
+    6.4
+   ],
+   "head": [
+    "Uitgang",
+    "Meestal",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "-o",
+     "mannelijk",
+     "el libro, el coche, el vaso"
+    ],
+    [
+     "-a",
+     "vrouwelijk",
+     "la casa, la mesa, la ventana"
+    ],
+    [
+     "-ción, -sión, -dad, -tad, -tud",
+     "vrouwelijk",
+     "la canción, la televisión, la ciudad, la libertad"
+    ],
+    [
+     "-aje, -or, -án",
+     "mannelijk",
+     "el viaje, el color, el plan"
+    ],
+    [
+     "-ma (Griekse woorden)",
+     "mannelijk",
+     "el problema, el tema, el sistema, el idioma, el programa"
+    ],
+    [
+     "-e of een medeklinker",
+     "geen regel: leer het met het lidwoord",
+     "el coche, la noche, el lápiz, la luz, el mes"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Uitzonderingen om te onthouden",
+   "items": [
+    [
+     "el día",
+     "de dag (mannelijk)"
+    ],
+    [
+     "el mapa",
+     "de kaart, de plattegrond (mannelijk)"
+    ],
+    [
+     "la mano",
+     "de hand (vrouwelijk)"
+    ],
+    [
+     "la foto",
+     "de foto (vrouwelijk)"
+    ],
+    [
+     "la moto",
+     "de motor (vrouwelijk)"
+    ],
+    [
+     "el planeta",
+     "de planeet (mannelijk)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Mensen:</b> bij veel woorden verandert de uitgang: <i>niño / niña, profesor / profesora, vecino / vecina</i>. Woorden op <b>-e</b>, <b>-ista</b> en veel andere blijven gelijk; alleen het lidwoord laat het geslacht zien: <i>el / la estudiante, el / la turista, el / la dentista</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Nederlands de / het past niet op el / la",
+   "text": "Leid het geslacht niet af van het Nederlandse woord. <i>Het meisje</i> is <b>la</b> chica, <i>de zon</i> is <b>el</b> sol, <i>de maan</i> is <b>la</b> luna. Leer elk Spaans woord met zijn lidwoord."
+  },
+  {
+   "type": "h1",
+   "text": "2. Het meervoud van zelfstandige naamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    3.0,
+    4.0,
+    4.6
+   ],
+   "head": [
+    "Het enkelvoud eindigt op",
+    "Voeg toe",
+    "Enkelvoud",
+    "Meervoud"
+   ],
+   "rows": [
+    [
+     "een klinker zonder klemtoon",
+     "-s",
+     "la casa, el coche",
+     "las casas, los coches"
+    ],
+    [
+     "een klinker met klemtoon (á, é, ó)",
+     "-s (of -es)",
+     "el café, el sofá",
+     "los cafés, los sofás"
+    ],
+    [
+     "een medeklinker",
+     "-es",
+     "la ciudad, el papel",
+     "las ciudades, los papeles"
+    ],
+    [
+     "-z",
+     "-ces (z wordt c)",
+     "el lápiz, la vez",
+     "los lápices, las veces"
+    ],
+    [
+     "-ción, -sión (het accent valt weg)",
+     "-ones",
+     "la canción",
+     "las canciones"
+    ],
+    [
+     "-s na een lettergreep zonder klemtoon",
+     "geen verandering",
+     "el lunes, el paraguas",
+     "los lunes, los paraguas"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Let op het accent als het woord langer wordt",
+   "text": "<b>canción wordt canciones</b> en verliest zijn accent. <b>examen wordt exámenes</b> en <b>joven wordt jóvenes</b> en krijgen er een. <b>país wordt países</b> en <b>autobús wordt autobuses</b> houden de klemtoon op dezelfde plek. De regel uit pdf 1 (klemtoon en accenten) beslist elke keer."
+  },
+  {
+   "type": "h1",
+   "text": "3. Lidwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    3.2,
+    3.2,
+    3.3,
+    3.3
+   ],
+   "head": [
+    "",
+    "mannelijk enk.",
+    "vrouwelijk enk.",
+    "mannelijk mv.",
+    "vrouwelijk mv."
+   ],
+   "rows": [
+    [
+     "bepaald (de, het)",
+     "el",
+     "la",
+     "los",
+     "las"
+    ],
+    [
+     "onbepaald (een / enkele)",
+     "un",
+     "una",
+     "unos",
+     "unas"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Samentrekkingen:</b> a + el = <b>al</b>, de + el = <b>del</b>. <i>Voy al mercado. Es el libro del profesor.</i> (Geen samentrekking met la, los, las, of met de naam <i>El</i> Salvador.)",
+    "<b>el bij een vrouwelijk woord:</b> een vrouwelijk woord in het enkelvoud dat begint met een beklemtoonde a- krijgt <i>el</i>, maar blijft vrouwelijk: <i>el agua fría, el águila</i>. Het meervoud is regelmatig: <i>las aguas</i>.",
+    "<b>Dagen:</b> <i>el lunes</i> (op maandag), <i>los lunes</i> (op maandagen, elke maandag). <b>Tijd:</b> <i>la una, las dos</i>.",
+    "<b>Geen lidwoord</b> na ser met een beroep: <i>Soy médico.</i> En bij een taal die je spreekt: <i>Hablo español.</i> Maar wel: <i>El español es fácil.</i> (de taal is het onderwerp)",
+    "<b>unos / unas</b> betekenen 'enkele' of 'een paar': <i>unos amigos</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Het bijvoeglijk naamwoord past zich aan"
+  },
+  {
+   "type": "p",
+   "text": "Een bijvoeglijk naamwoord past zich aan het zelfstandig naamwoord aan in <b>geslacht</b> en <b>getal</b>: <i>un chico alto, una chica alta, unos chicos altos, unas chicas altas</i>. Het staat meestal <b>achter</b> het zelfstandig naamwoord."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    3.2,
+    3.2,
+    3.2,
+    3.2
+   ],
+   "head": [
+    "Soort",
+    "mann. enk.",
+    "vrouw. enk.",
+    "mann. mv.",
+    "vrouw. mv."
+   ],
+   "rows": [
+    [
+     "bijv. nw. op -o",
+     "alto",
+     "alta",
+     "altos",
+     "altas"
+    ],
+    [
+     "-e of medeklinker",
+     "grande, fácil",
+     "grande, fácil",
+     "grandes, fáciles",
+     "grandes, fáciles"
+    ],
+    [
+     "nationaliteit op een medeklinker",
+     "español",
+     "española",
+     "españoles",
+     "españolas"
+    ],
+    [
+     "-dor, -ón, -és, -án",
+     "trabajador",
+     "trabajadora",
+     "trabajadores",
+     "trabajadoras"
+    ],
+    [
+     "kleur: -e of medeklinker",
+     "verde, azul",
+     "verde, azul",
+     "verdes, azules",
+     "verdes, azules"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Nationaliteiten (mannelijk / vrouwelijk)",
+   "items": [
+    [
+     "español / española",
+     "Spaans"
+    ],
+    [
+     "inglés / inglesa",
+     "Engels"
+    ],
+    [
+     "alemán / alemana",
+     "Duits"
+    ],
+    [
+     "francés / francesa",
+     "Frans"
+    ],
+    [
+     "holandés / holandesa",
+     "Nederlands"
+    ],
+    [
+     "italiano / italiana",
+     "Italiaans"
+    ],
+    [
+     "portugués / portuguesa",
+     "Portugees"
+    ],
+    [
+     "estadounidense",
+     "Amerikaans (voor allebei gelijk)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Veelgebruikte bijvoeglijke naamwoorden",
+   "items": [
+    [
+     "grande / pequeño",
+     "groot / klein"
+    ],
+    [
+     "alto / bajo",
+     "lang / kort"
+    ],
+    [
+     "nuevo / viejo",
+     "nieuw / oud"
+    ],
+    [
+     "bueno / malo",
+     "goed / slecht"
+    ],
+    [
+     "fácil / difícil",
+     "makkelijk / moeilijk"
+    ],
+    [
+     "caro / barato",
+     "duur / goedkoop"
+    ],
+    [
+     "rápido / lento",
+     "snel / langzaam"
+    ],
+    [
+     "simpático / antipático",
+     "aardig / onaardig"
+    ],
+    [
+     "guapo / feo",
+     "knap / lelijk"
+    ],
+    [
+     "joven / mayor",
+     "jong / ouder"
+    ],
+    [
+     "rico / pobre",
+     "rijk / arm"
+    ],
+    [
+     "feliz / triste",
+     "blij / verdrietig"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Kleuren",
+   "items": [
+    [
+     "rojo",
+     "rood"
+    ],
+    [
+     "azul",
+     "blauw"
+    ],
+    [
+     "verde",
+     "groen"
+    ],
+    [
+     "amarillo",
+     "geel"
+    ],
+    [
+     "negro",
+     "zwart"
+    ],
+    [
+     "blanco",
+     "wit"
+    ],
+    [
+     "gris",
+     "grijs"
+    ],
+    [
+     "marrón",
+     "bruin"
+    ],
+    [
+     "naranja",
+     "oranje"
+    ],
+    [
+     "rosa",
+     "roze"
+    ],
+    [
+     "morado",
+     "paars"
+    ],
+    [
+     "dorado",
+     "goudkleurig"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>bueno</b> en <b>malo</b> verliezen de -o voor een mannelijk zelfstandig naamwoord in het enkelvoud: <i>un buen día, un mal día</i> (maar <i>una buena idea</i>).",
+    "<b>Getallen en hoeveelheden</b> staan voor het zelfstandig naamwoord: <i>dos libros, muchos amigos, poco tiempo</i>.",
+    "<b>Kleuren</b> staan achter het zelfstandig naamwoord: <i>un coche rojo, una casa blanca</i>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "la problema",
+     "el problema",
+     "Woorden op -ma uit het Grieks zijn mannelijk."
+    ],
+    [
+     "una libro",
+     "un libro",
+     "libro is mannelijk, dus un."
+    ],
+    [
+     "las casas blanco",
+     "las casas blancas",
+     "Het bijvoeglijk naamwoord past zich aan in geslacht en getal."
+    ],
+    [
+     "un coche roja",
+     "un coche rojo",
+     "coche is mannelijk, dus rojo."
+    ],
+    [
+     "una chica simpático",
+     "una chica simpática",
+     "Vrouwelijk zelfstandig naamwoord, vrouwelijk bijvoeglijk naamwoord."
+    ],
+    [
+     "Hablo el español.",
+     "Hablo español.",
+     "Geen lidwoord na werkwoorden als hablar, estudiar of aprender met een taal."
+    ],
+    [
+     "un rojo coche",
+     "un coche rojo",
+     "Kleuren en de meeste bijvoeglijke naamwoorden staan achter het zelfstandig naamwoord."
+    ],
+    [
+     "los lápizes",
+     "los lápices",
+     "z wordt c voor -es."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Opdracht"
+   ],
+   "items": [
+    {
+     "q": "______ problema es difícil.",
+     "hint": "bepaald lidwoord",
+     "a": "El",
+     "full": "El problema es difícil."
+    },
+    {
+     "q": "Quiero ______ café.",
+     "hint": "onbepaald lidwoord",
+     "a": "un",
+     "full": "Quiero un café."
+    },
+    {
+     "q": "______ casas son grandes.",
+     "hint": "bepaald lidwoord (meervoud)",
+     "a": "Las",
+     "full": "Las casas son grandes."
+    },
+    {
+     "q": "Tengo dos ______.",
+     "hint": "libro (meervoud)",
+     "a": "libros",
+     "full": "Tengo dos libros."
+    },
+    {
+     "q": "Es una casa ______.",
+     "hint": "blanco",
+     "a": "blanca",
+     "full": "Es una casa blanca."
+    },
+    {
+     "q": "Mis amigos son ______.",
+     "hint": "simpático",
+     "a": "simpáticos",
+     "full": "Mis amigos son simpáticos."
+    },
+    {
+     "q": "______ agua está fría.",
+     "hint": "bepaald lidwoord",
+     "a": "El",
+     "full": "El agua está fría."
+    },
+    {
+     "q": "Voy ______ supermercado.",
+     "hint": "a + el",
+     "a": "al",
+     "full": "Voy al supermercado."
+    },
+    {
+     "q": "Los ______ de la clase están en la mesa.",
+     "hint": "lápiz (meervoud)",
+     "a": "lápices",
+     "full": "Los lápices de la clase están en la mesa."
+    },
+    {
+     "q": "Hay muchas ______ en el concierto.",
+     "hint": "canción (meervoud)",
+     "a": "canciones",
+     "full": "Hay muchas canciones en el concierto."
+    },
+    {
+     "q": "Es un ______ día.",
+     "hint": "bueno",
+     "a": "buen",
+     "full": "Es un buen día."
+    },
+    {
+     "q": "Las flores son ______.",
+     "hint": "rojo",
+     "a": "rojas",
+     "full": "Las flores son rojas."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "De rode auto is nieuw.",
+     "a": "El coche rojo es nuevo."
+    },
+    {
+     "q": "Ik heb een klein huis.",
+     "a": "Tengo una casa pequeña."
+    },
+    {
+     "q": "Het zijn goede vrienden.",
+     "a": "Son buenos amigos."
+    },
+    {
+     "q": "Zij is Spaanse.",
+     "a": "Es española."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

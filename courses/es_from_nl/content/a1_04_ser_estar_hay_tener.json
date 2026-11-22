@@ -1,0 +1,631 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Werkwoorden",
+  "number": 4,
+  "total_in_level": 9,
+  "title": "Ser, estar, hay en tener",
+  "subtitle": "Vier onmisbare werkwoorden: twee keer 'zijn', 'er is / er zijn' en 'hebben'",
+  "footer": "Language Learning · A1 · Werkwoorden · Ser, estar, hay, tener",
+  "next": "Volgende: A1 · pdf 5 — Zelfstandige naamwoorden, lidwoorden en bijvoeglijke naamwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "goed kiezen tussen ser en estar",
+    "met hay zeggen dat iets er is, en weten wanneer je estar gebruikt",
+    "met tener je leeftijd noemen en zeggen hoe je je voelt",
+    "tener que + infinitief gebruiken voor wat je moet"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het grote plaatje"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.2,
+    8.2
+   ],
+   "head": [
+    "Werkwoord",
+    "Belangrijkste taak",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "ser",
+     "wat iemand of iets is: identiteit, herkomst, beroep, eigenschappen, tijd",
+     "Soy estudiante. Es de Sevilla. Son las tres."
+    ],
+    [
+     "estar",
+     "waar iets is en hoe iemand zich nu voelt",
+     "Estoy en casa. Está cansado."
+    ],
+    [
+     "hay",
+     "er is, er zijn: iets bestaat",
+     "Hay un banco en la calle."
+    ],
+    [
+     "tener",
+     "hebben: bezit, leeftijd, gevoelens, verplichtingen",
+     "Tengo un coche. Tengo 20 años. Tengo hambre."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlands heeft één werkwoord, het Spaans twee",
+   "text": "Het Nederlandse <b>zijn</b> wordt <b>ser</b> of <b>estar</b>. Vraag jezelf af: zeg ik <b>wat iets is</b> (identiteit, eigenschap) of <b>waar of hoe het nu is</b> (plaats, tijdelijke toestand)? Het eerste is <b>ser</b>, het tweede <b>estar</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Ser"
+  },
+  {
+   "type": "conj",
+   "verb": "ser",
+   "meaning": "zijn",
+   "label": "onregelmatig · wat iets is",
+   "forms": [
+    "*soy*",
+    "*eres*",
+    "*es*",
+    "*somos*",
+    "*sois*",
+    "*son*"
+   ],
+   "examples": [
+    [
+     "Soy estudiante.",
+     "Ik ben student."
+    ],
+    [
+     "Eres muy simpático.",
+     "Jij bent heel aardig."
+    ],
+    [
+     "Ella es de Sevilla.",
+     "Zij komt uit Sevilla."
+    ],
+    [
+     "Somos amigos.",
+     "We zijn vrienden."
+    ],
+    [
+     "¿Sois hermanos?",
+     "Zijn jullie broers en zussen?"
+    ],
+    [
+     "Son las tres.",
+     "Het is drie uur."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    1.6,
+    4.0,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "",
+    "Gebruik ser voor",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "D",
+     "Beschrijving (Description)",
+     "Mi hermano es alto.",
+     "Mijn broer is lang."
+    ],
+    [
+     "O",
+     "Beroep (Occupation)",
+     "Soy profesor.",
+     "Ik ben leraar."
+    ],
+    [
+     "C",
+     "Eigenschap (Characteristic)",
+     "Ella es simpática.",
+     "Zij is aardig."
+    ],
+    [
+     "T",
+     "Tijd en datum (Time)",
+     "Hoy es lunes. Son las dos.",
+     "Vandaag is het maandag. Het is twee uur."
+    ],
+    [
+     "O",
+     "Herkomst en nationaliteit (Origin)",
+     "Somos de España.",
+     "We komen uit Spanje."
+    ],
+    [
+     "R",
+     "Relatie en bezit (Relationship)",
+     "Ella es mi madre. Es de Pedro.",
+     "Zij is mijn moeder. Het is van Pedro."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Ezelsbruggetje: DOCTOR",
+   "text": "De zes toepassingen vormen samen het Engelse woord <b>DOCTOR</b>: Description, Occupation, Characteristic, Time, Origin, Relationship. Na ser krijgt een beroep <b>geen lidwoord</b>: <i>Soy médico</i>, niet Soy un médico (behalve met een bijvoeglijk naamwoord: <i>Soy un buen médico</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Estar"
+  },
+  {
+   "type": "conj",
+   "verb": "estar",
+   "meaning": "zijn",
+   "label": "onregelmatig · waar en hoe iets is",
+   "forms": [
+    "est*oy*",
+    "est*ás*",
+    "est*á*",
+    "estamos",
+    "est*áis*",
+    "est*án*"
+   ],
+   "examples": [
+    [
+     "Estoy en casa.",
+     "Ik ben thuis."
+    ],
+    [
+     "¿Cómo estás?",
+     "Hoe gaat het met je?"
+    ],
+    [
+     "Está cansada.",
+     "Zij is moe."
+    ],
+    [
+     "Estamos en el parque.",
+     "We zijn in het park."
+    ],
+    [
+     "¿Estáis listos?",
+     "Zijn jullie klaar?"
+    ],
+    [
+     "Están de vacaciones.",
+     "Zij zijn op vakantie."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    1.6,
+    4.0,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "",
+    "Gebruik estar voor",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "P",
+     "Houding (Position)",
+     "Mi madre está sentada.",
+     "Mijn moeder zit."
+    ],
+    [
+     "L",
+     "Plaats (Location)",
+     "Madrid está en España.",
+     "Madrid ligt in Spanje."
+    ],
+    [
+     "A",
+     "Handeling die bezig is (Action, vooruitblik op A2)",
+     "Estoy comiendo.",
+     "Ik ben aan het eten."
+    ],
+    [
+     "C",
+     "Toestand: gezondheid, staat (Condition)",
+     "El café está frío.",
+     "De koffie is koud."
+    ],
+    [
+     "E",
+     "Emotie (Emotion)",
+     "Estoy contento.",
+     "Ik ben blij."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Ezelsbruggetje: PLACE",
+   "text": "Het Engelse <b>PLACE</b>: Position, Location, Action, Condition, Emotion. Als je vraagt <b>¿Dónde está…?</b> (waar is…?) gebruik je altijd estar: <i>¿Dónde está el baño? Está al fondo.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Ser of estar? Hetzelfde bijvoeglijk naamwoord, een andere betekenis"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "ser: hoe het is",
+    "estar: hoe het nu is"
+   ],
+   "rows": [
+    [
+     "Soy nervioso. (Ik ben een nerveus type.)",
+     "Estoy nervioso. (Ik ben nu zenuwachtig.)"
+    ],
+    [
+     "Es aburrido. (Hij is saai.)",
+     "Está aburrido. (Hij verveelt zich.)"
+    ],
+    [
+     "Es listo. (Hij is slim.)",
+     "Está listo. (Hij is klaar.)"
+    ],
+    [
+     "Es guapa. (Zij is mooi.)",
+     "Está guapa. (Zij ziet er vandaag mooi uit.)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Hay"
+  },
+  {
+   "type": "p",
+   "text": "<b>Hay</b> betekent <b>er is</b> en <b>er zijn</b>. Het verandert nooit, in het enkelvoud en het meervoud. Het introduceert iets nieuws of onbepaalds: <i>un, una, unos, unas</i>, een getal, <i>mucho</i>, <i>algún</i> of helemaal geen lidwoord."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.5,
+    8.5
+   ],
+   "head": [
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Hay un museo en la ciudad.",
+     "Er is een museum in de stad."
+    ],
+    [
+     "Hay tres chicos en la puerta.",
+     "Er staan drie jongens bij de deur."
+    ],
+    [
+     "¿Hay un banco por aquí?",
+     "Is er hier in de buurt een bank?"
+    ],
+    [
+     "No hay problema.",
+     "Geen probleem."
+    ],
+    [
+     "¿Cuántos estudiantes hay?",
+     "Hoeveel studenten zijn er?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Hay of está?",
+   "text": "<b>hay</b> = iets nieuws of onbepaalds: <i>Hay un banco en la calle Mayor.</i><br/><b>estar</b> = iets bekends of bepaalds (el, la, mi, este…): <i>El banco está en la calle Mayor.</i><br/>Combineer hay nooit met el, la, mi of este: <i>Hay el banco</i> is fout."
+  },
+  {
+   "type": "h1",
+   "text": "6. Tener"
+  },
+  {
+   "type": "conj",
+   "verb": "tener",
+   "meaning": "hebben",
+   "label": "onregelmatig · hebben, leeftijd, gevoelens, verplichting",
+   "forms": [
+    "ten*g*o",
+    "t*ie*nes",
+    "t*ie*ne",
+    "tenemos",
+    "tenéis",
+    "t*ie*nen"
+   ],
+   "examples": [
+    [
+     "Tengo dos hermanos.",
+     "Ik heb twee broers."
+    ],
+    [
+     "¿Tienes tiempo?",
+     "Heb jij tijd?"
+    ],
+    [
+     "Ella tiene veinte años.",
+     "Zij is twintig jaar."
+    ],
+    [
+     "Tenemos un perro.",
+     "We hebben een hond."
+    ],
+    [
+     "¿Tenéis hambre?",
+     "Hebben jullie honger?"
+    ],
+    [
+     "Tienen que trabajar.",
+     "Zij moeten werken."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Leeftijd: het Spaans zegt 'hebben', niet 'zijn'",
+   "text": "In het Nederlands zeg je <i>ik ben 20</i>. In het Spaans zeg je <b>Tengo 20 años</b> (letterlijk: ik heb 20 jaren). Zeg er altijd <b>años</b> bij. Vragen doe je zo: <i>¿Cuántos años tienes?</i>"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Veelgebruikte uitdrukkingen met tener",
+   "items": [
+    [
+     "tener hambre",
+     "honger hebben"
+    ],
+    [
+     "tener sed",
+     "dorst hebben"
+    ],
+    [
+     "tener frío",
+     "het koud hebben"
+    ],
+    [
+     "tener calor",
+     "het warm hebben"
+    ],
+    [
+     "tener sueño",
+     "slaap hebben"
+    ],
+    [
+     "tener miedo",
+     "bang zijn"
+    ],
+    [
+     "tener prisa",
+     "haast hebben"
+    ],
+    [
+     "tener razón",
+     "gelijk hebben"
+    ],
+    [
+     "tener suerte",
+     "geluk hebben"
+    ],
+    [
+     "tener ganas de + inf.",
+     "zin hebben (om iets te doen)"
+    ],
+    [
+     "tener que + inf.",
+     "moeten (iets doen)"
+    ],
+    [
+     "tener … años",
+     "… jaar oud zijn"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Tengo que estudiar esta noche.</i> (Ik moet vanavond studeren.) &nbsp;·&nbsp; <i>Tenemos ganas de viajar.</i> (We hebben zin om te reizen.)"
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Soy 20 años.",
+     "Tengo 20 años.",
+     "Het Spaans geeft leeftijd met tener en zegt altijd años."
+    ],
+    [
+     "Estoy profesor.",
+     "Soy profesor.",
+     "Een beroep is wat iemand is: ser."
+    ],
+    [
+     "Soy cansado.",
+     "Estoy cansado.",
+     "Moe zijn is een tijdelijke toestand: estar."
+    ],
+    [
+     "Soy en Madrid.",
+     "Estoy en Madrid.",
+     "Bij een plaats gebruik je altijd estar."
+    ],
+    [
+     "Estoy de España.",
+     "Soy de España.",
+     "Herkomst en nationaliteit krijgen ser."
+    ],
+    [
+     "Estoy hambre.",
+     "Tengo hambre.",
+     "Honger, dorst, kou en warmte gaan met tener, niet met estar."
+    ],
+    [
+     "Hay el libro en la mesa.",
+     "Hay un libro en la mesa. / El libro está en la mesa.",
+     "Hay heeft een onbepaald zelfstandig naamwoord nodig. Een bepaald zelfstandig naamwoord krijgt estar."
+    ],
+    [
+     "Están dos libros en la mesa.",
+     "Hay dos libros en la mesa.",
+     "Om te zeggen dat iets bestaat, gebruik je hay."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af met ser, estar, hay of tener in de juiste vorm. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Mi madre ______ profesora.",
+     "hint": "ser",
+     "a": "es",
+     "full": "Mi madre es profesora."
+    },
+    {
+     "q": "¿Dónde ______ el baño?",
+     "hint": "estar",
+     "a": "está",
+     "full": "¿Dónde está el baño?"
+    },
+    {
+     "q": "Ellos ______ 20 años.",
+     "hint": "tener",
+     "a": "tienen",
+     "full": "Ellos tienen 20 años."
+    },
+    {
+     "q": "En mi ciudad ______ un museo grande.",
+     "hint": "hay",
+     "a": "hay",
+     "full": "En mi ciudad hay un museo grande."
+    },
+    {
+     "q": "Nosotros ______ de España.",
+     "hint": "ser",
+     "a": "somos",
+     "full": "Nosotros somos de España."
+    },
+    {
+     "q": "Hoy yo ______ muy cansado.",
+     "hint": "estar",
+     "a": "estoy",
+     "full": "Hoy yo estoy muy cansado."
+    },
+    {
+     "q": "¿______ hambre?",
+     "hint": "tener (vosotros)",
+     "a": "Tenéis",
+     "full": "¿Tenéis hambre?"
+    },
+    {
+     "q": "Ellos ______ en el parque.",
+     "hint": "estar",
+     "a": "están",
+     "full": "Ellos están en el parque."
+    },
+    {
+     "q": "Tú ______ muy simpático.",
+     "hint": "ser",
+     "a": "eres",
+     "full": "Tú eres muy simpático."
+    },
+    {
+     "q": "______ las cinco de la tarde.",
+     "hint": "ser",
+     "a": "Son",
+     "full": "Son las cinco de la tarde."
+    },
+    {
+     "q": "Marta ______ en casa.",
+     "hint": "estar",
+     "a": "está",
+     "full": "Marta está en casa."
+    },
+    {
+     "q": "Nosotros ______ que estudiar.",
+     "hint": "tener",
+     "a": "tenemos",
+     "full": "Nosotros tenemos que estudiar."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ben student.",
+     "a": "Soy estudiante."
+    },
+    {
+     "q": "Er liggen twee boeken op tafel.",
+     "a": "Hay dos libros en la mesa."
+    },
+    {
+     "q": "Zij is 25 jaar.",
+     "a": "Tiene 25 años."
+    },
+    {
+     "q": "De sleutels liggen in de keuken.",
+     "a": "Las llaves están en la cocina."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

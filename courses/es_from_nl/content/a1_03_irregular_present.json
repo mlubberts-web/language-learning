@@ -1,0 +1,851 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Werkwoorden",
+  "number": 3,
+  "total_in_level": 9,
+  "title": "Onregelmatige werkwoorden: presente",
+  "subtitle": "De belangrijkste onregelmatige werkwoorden, ingedeeld in families, zodat je patronen leert in plaats van lijstjes",
+  "footer": "Language Learning · A1 · Werkwoorden · Onregelmatige presente",
+  "next": "Volgende: A1 · pdf 4 — Ser, estar, hay en tener"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "herkennen tot welke familie een onregelmatig werkwoord hoort",
+    "de 30 meest gebruikte onregelmatige werkwoorden in de presente vervoegen",
+    "de 'laars'-regel toepassen bij stamveranderende werkwoorden (e-ie, o-ue, e-i, u-ue)",
+    "kiezen tussen saber en conocer"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Vier families onregelmatige werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Onregelmatige werkwoorden wijken af van het patroon uit pdf 2, maar niet zomaar. De uitgangen zijn bijna altijd de regelmatige. Wat verandert, is de <b>stam</b> of de <b>yo-vorm</b>. In de tabellen hieronder staat het onregelmatige deel in het <font color=\"#B8322A\"><b>rood</b></font>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.2,
+    5.2
+   ],
+   "head": [
+    "Familie",
+    "Wat er gebeurt",
+    "Voorbeelden"
+   ],
+   "rows": [
+    [
+     "Helemaal onregelmatig",
+     "de meeste vormen zijn uniek en moet je uit je hoofd leren",
+     "ser, estar, ir, dar, ver"
+    ],
+    [
+     "Alleen yo onregelmatig",
+     "alleen de yo-vorm verandert (-go, -zco, -oy, sé)",
+     "hacer, poner, salir, traer, saber, conocer"
+    ],
+    [
+     "Stamveranderaars ('laarswerkwoorden')",
+     "een klinker in de stam verandert bij yo, tú, él en ellos",
+     "querer, poder, pedir, jugar"
+    ],
+    [
+     "Allebei",
+     "onregelmatige yo-vorm én een stamverandering",
+     "tener, venir, decir"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "De laarsregel voor stamveranderaars"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    4.0,
+    7.8
+   ],
+   "head": [
+    "Persoon",
+    "poder (o wordt ue)",
+    "Stam"
+   ],
+   "rows": [
+    [
+     "yo",
+     "puedo",
+     "verandert"
+    ],
+    [
+     "tú",
+     "puedes",
+     "verandert"
+    ],
+    [
+     "él / ella / usted",
+     "puede",
+     "verandert"
+    ],
+    [
+     "nosotros / nosotras",
+     "podemos",
+     "blijft gelijk"
+    ],
+    [
+     "vosotros / vosotras",
+     "podéis",
+     "blijft gelijk"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "pueden",
+     "verandert"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Waarom het de laars heet",
+   "text": "Trek een lijn om de vier vormen die veranderen (yo, tú, él, ellos) en je krijgt de vorm van een laars. <b>Nosotros en vosotros blijven buiten de laars</b> en houden de gewone stam: podemos, podéis (nooit puedemos, puedéis)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Helemaal onregelmatige werkwoorden"
+  },
+  {
+   "type": "conjgrid",
+   "title": "ser, estar, ir, dar, ver",
+   "verbs": [
+    {
+     "inf": "ser",
+     "meaning": "zijn",
+     "forms": [
+      "*soy*",
+      "*eres*",
+      "*es*",
+      "*somos*",
+      "*sois*",
+      "*son*"
+     ]
+    },
+    {
+     "inf": "estar",
+     "meaning": "zijn",
+     "forms": [
+      "est*oy*",
+      "est*ás*",
+      "est*á*",
+      "estamos",
+      "est*áis*",
+      "est*án*"
+     ]
+    },
+    {
+     "inf": "ir",
+     "meaning": "gaan",
+     "forms": [
+      "*voy*",
+      "*vas*",
+      "*va*",
+      "*vamos*",
+      "*vais*",
+      "*van*"
+     ]
+    },
+    {
+     "inf": "dar",
+     "meaning": "geven",
+     "forms": [
+      "d*oy*",
+      "das",
+      "da",
+      "damos",
+      "dais",
+      "dan"
+     ]
+    },
+    {
+     "inf": "ver",
+     "meaning": "zien, kijken",
+     "forms": [
+      "*veo*",
+      "ves",
+      "ve",
+      "vemos",
+      "veis",
+      "ven"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Ser</b> en <b>estar</b> betekenen allebei 'zijn' en krijgen een eigen pdf (pdf 4). <b>Ir</b> (gaan) krijgt <b>a</b> voor een plaats: <i>Voy a Madrid.</i> Onthoud <b>a + el = al</b>: <i>Voy al cine.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden met een onregelmatige yo-vorm"
+  },
+  {
+   "type": "conjgrid",
+   "title": "Alleen yo verandert: hacer, poner, salir, traer, saber",
+   "verbs": [
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "ha*g*o",
+      "haces",
+      "hace",
+      "hacemos",
+      "hacéis",
+      "hacen"
+     ]
+    },
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "pon*g*o",
+      "pones",
+      "pone",
+      "ponemos",
+      "ponéis",
+      "ponen"
+     ]
+    },
+    {
+     "inf": "salir",
+     "meaning": "weggaan, uitgaan",
+     "forms": [
+      "sal*g*o",
+      "sales",
+      "sale",
+      "salimos",
+      "salís",
+      "salen"
+     ]
+    },
+    {
+     "inf": "traer",
+     "meaning": "brengen, meenemen",
+     "forms": [
+      "tra*ig*o",
+      "traes",
+      "trae",
+      "traemos",
+      "traéis",
+      "traen"
+     ]
+    },
+    {
+     "inf": "saber",
+     "meaning": "weten",
+     "forms": [
+      "*sé*",
+      "sabes",
+      "sabe",
+      "sabemos",
+      "sabéis",
+      "saben"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "title": "Onregelmatige yo plus andere veranderingen: tener, venir, decir, conocer, oír",
+   "verbs": [
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "ten*g*o",
+      "t*ie*nes",
+      "t*ie*ne",
+      "tenemos",
+      "tenéis",
+      "t*ie*nen"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "ven*g*o",
+      "v*ie*nes",
+      "v*ie*ne",
+      "venimos",
+      "venís",
+      "v*ie*nen"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen, vertellen",
+     "forms": [
+      "d*ig*o",
+      "d*i*ces",
+      "d*i*ce",
+      "decimos",
+      "decís",
+      "d*i*cen"
+     ]
+    },
+    {
+     "inf": "conocer",
+     "meaning": "kennen (een persoon of plaats)",
+     "forms": [
+      "cono*zc*o",
+      "conoces",
+      "conoce",
+      "conocemos",
+      "conocéis",
+      "conocen"
+     ]
+    },
+    {
+     "inf": "oír",
+     "meaning": "horen",
+     "forms": [
+      "o*ig*o",
+      "o*y*es",
+      "o*y*e",
+      "oímos",
+      "oís",
+      "o*y*en"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Meer werkwoorden met dezelfde patronen",
+   "items": [
+    [
+     "caer",
+     "vallen (caigo)"
+    ],
+    [
+     "parecer",
+     "lijken (parezco)"
+    ],
+    [
+     "traducir",
+     "vertalen (traduzco)"
+    ],
+    [
+     "conducir",
+     "rijden, besturen (conduzco)"
+    ],
+    [
+     "ofrecer",
+     "aanbieden (ofrezco)"
+    ],
+    [
+     "agradecer",
+     "bedanken (agradezco)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Saber of conocer? Denk aan weten of kennen",
+   "text": "<b>saber</b> = weten: feiten, informatie en vaardigheden (<i>Sé la respuesta. Sé nadar.</i> = Ik weet het antwoord. Ik kan zwemmen.). <b>conocer</b> = kennen: mensen, plaatsen en dingen die je kent (<i>Conozco a Marta. Conozco Madrid.</i>). Verder: <b>poder</b> = kunnen en <b>querer</b> = willen."
+  },
+  {
+   "type": "h1",
+   "text": "4. Stamveranderende werkwoorden"
+  },
+  {
+   "type": "conjgrid",
+   "kind": "boot",
+   "title": "e wordt ie",
+   "verbs": [
+    {
+     "inf": "querer",
+     "meaning": "willen, houden van",
+     "forms": [
+      "qu*ie*ro",
+      "qu*ie*res",
+      "qu*ie*re",
+      "queremos",
+      "queréis",
+      "qu*ie*ren"
+     ]
+    },
+    {
+     "inf": "pensar",
+     "meaning": "denken",
+     "forms": [
+      "p*ie*nso",
+      "p*ie*nsas",
+      "p*ie*nsa",
+      "pensamos",
+      "pensáis",
+      "p*ie*nsan"
+     ]
+    },
+    {
+     "inf": "empezar",
+     "meaning": "beginnen",
+     "forms": [
+      "emp*ie*zo",
+      "emp*ie*zas",
+      "emp*ie*za",
+      "empezamos",
+      "empezáis",
+      "emp*ie*zan"
+     ]
+    },
+    {
+     "inf": "preferir",
+     "meaning": "liever hebben, de voorkeur geven aan",
+     "forms": [
+      "pref*ie*ro",
+      "pref*ie*res",
+      "pref*ie*re",
+      "preferimos",
+      "preferís",
+      "pref*ie*ren"
+     ]
+    },
+    {
+     "inf": "entender",
+     "meaning": "begrijpen",
+     "forms": [
+      "ent*ie*ndo",
+      "ent*ie*ndes",
+      "ent*ie*nde",
+      "entendemos",
+      "entendéis",
+      "ent*ie*nden"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "kind": "boot",
+   "title": "o wordt ue",
+   "verbs": [
+    {
+     "inf": "poder",
+     "meaning": "kunnen",
+     "forms": [
+      "p*ue*do",
+      "p*ue*des",
+      "p*ue*de",
+      "podemos",
+      "podéis",
+      "p*ue*den"
+     ]
+    },
+    {
+     "inf": "volver",
+     "meaning": "terugkomen, teruggaan",
+     "forms": [
+      "v*ue*lvo",
+      "v*ue*lves",
+      "v*ue*lve",
+      "volvemos",
+      "volvéis",
+      "v*ue*lven"
+     ]
+    },
+    {
+     "inf": "dormir",
+     "meaning": "slapen",
+     "forms": [
+      "d*ue*rmo",
+      "d*ue*rmes",
+      "d*ue*rme",
+      "dormimos",
+      "dormís",
+      "d*ue*rmen"
+     ]
+    },
+    {
+     "inf": "encontrar",
+     "meaning": "vinden, tegenkomen",
+     "forms": [
+      "enc*ue*ntro",
+      "enc*ue*ntras",
+      "enc*ue*ntra",
+      "encontramos",
+      "encontráis",
+      "enc*ue*ntran"
+     ]
+    },
+    {
+     "inf": "almorzar",
+     "meaning": "lunchen",
+     "forms": [
+      "alm*ue*rzo",
+      "alm*ue*rzas",
+      "alm*ue*rza",
+      "almorzamos",
+      "almorzáis",
+      "alm*ue*rzan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "kind": "boot",
+   "title": "e wordt i, en u wordt ue",
+   "verbs": [
+    {
+     "inf": "pedir",
+     "meaning": "vragen om, bestellen",
+     "forms": [
+      "p*i*do",
+      "p*i*des",
+      "p*i*de",
+      "pedimos",
+      "pedís",
+      "p*i*den"
+     ]
+    },
+    {
+     "inf": "repetir",
+     "meaning": "herhalen",
+     "forms": [
+      "rep*i*to",
+      "rep*i*tes",
+      "rep*i*te",
+      "repetimos",
+      "repetís",
+      "rep*i*ten"
+     ]
+    },
+    {
+     "inf": "seguir",
+     "meaning": "volgen, doorgaan",
+     "forms": [
+      "s*i*go",
+      "s*i*gues",
+      "s*i*gue",
+      "seguimos",
+      "seguís",
+      "s*i*guen"
+     ]
+    },
+    {
+     "inf": "servir",
+     "meaning": "serveren, dienen",
+     "forms": [
+      "s*i*rvo",
+      "s*i*rves",
+      "s*i*rve",
+      "servimos",
+      "servís",
+      "s*i*rven"
+     ]
+    },
+    {
+     "inf": "jugar",
+     "meaning": "spelen (u wordt ue)",
+     "forms": [
+      "j*ue*go",
+      "j*ue*gas",
+      "j*ue*ga",
+      "jugamos",
+      "jugáis",
+      "j*ue*gan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Meer stamveranderaars om te leren",
+   "items": [
+    [
+     "cerrar",
+     "sluiten (cierro)"
+    ],
+    [
+     "perder",
+     "verliezen, missen (pierdo)"
+    ],
+    [
+     "sentir",
+     "voelen (siento)"
+    ],
+    [
+     "recordar",
+     "zich herinneren (recuerdo)"
+    ],
+    [
+     "costar",
+     "kosten (cuesta)"
+    ],
+    [
+     "mostrar",
+     "laten zien (muestro)"
+    ],
+    [
+     "contar",
+     "tellen, vertellen (cuento)"
+    ],
+    [
+     "llover",
+     "regenen (llueve)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Jugar is bijzonder",
+   "text": "<b>Jugar</b> is het enige werkwoord waarbij u verandert in ue. In Spanje speel je een sport met <b>jugar al</b>: <i>Jugamos al fútbol.</i> Een instrument bespeel je met <b>tocar</b>: <i>Toco la guitarra.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. De werkwoorden in actie"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.8,
+    8.2
+   ],
+   "head": [
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "¿Qué quieres beber?",
+     "Wat wil je drinken?"
+    ],
+    [
+     "No puedo venir hoy.",
+     "Ik kan vandaag niet komen."
+    ],
+    [
+     "Hago los deberes por la tarde.",
+     "Ik maak 's middags mijn huiswerk."
+    ],
+    [
+     "Salimos de casa a las ocho.",
+     "We gaan om acht uur de deur uit."
+    ],
+    [
+     "¿Sabes dónde está la estación?",
+     "Weet jij waar het station is?"
+    ],
+    [
+     "Conozco a tu hermana.",
+     "Ik ken je zus."
+    ],
+    [
+     "Duermo siete horas.",
+     "Ik slaap zeven uur."
+    ],
+    [
+     "Mi madre vuelve del trabajo a las seis.",
+     "Mijn moeder komt om zes uur thuis van haar werk."
+    ],
+    [
+     "Pedimos dos cafés.",
+     "We bestellen twee koffie."
+    ],
+    [
+     "Jugamos al fútbol los sábados.",
+     "We voetballen op zaterdag."
+    ],
+    [
+     "Prefiero el té.",
+     "Ik drink liever thee."
+    ],
+    [
+     "Vienen a las nueve.",
+     "Ze komen om negen uur."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yo sabo la respuesta.",
+     "Sé la respuesta.",
+     "Saber is onregelmatig in de yo-vorm: sé."
+    ],
+    [
+     "Conozo a Marta.",
+     "Conozco a Marta.",
+     "Werkwoorden op -cer na een klinker krijgen -zco in de yo-vorm."
+    ],
+    [
+     "Nosotros puedemos ir.",
+     "Podemos ir.",
+     "Nosotros en vosotros blijven buiten de laars en houden de oorspronkelijke stam."
+    ],
+    [
+     "Vosotros quieréis cenar.",
+     "Vosotros queréis cenar.",
+     "Dezelfde regel: queréis, niet quieréis."
+    ],
+    [
+     "Yo teno hambre.",
+     "Tengo hambre.",
+     "Tener heeft een onregelmatige yo-vorm: tengo."
+    ],
+    [
+     "Yo conozco la respuesta.",
+     "Sé la respuesta.",
+     "Conocer is voor mensen en plaatsen. Voor feiten gebruik je saber."
+    ],
+    [
+     "Yo dormo ocho horas.",
+     "Duermo ocho horas.",
+     "Dormir verandert o in ue in de yo-vorm."
+    ],
+    [
+     "Vamos a el cine.",
+     "Vamos al cine.",
+     "a + el wordt altijd al."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af met de juiste vorm van de presente. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Yo ______ a casa a las seis.",
+     "hint": "volver (yo)",
+     "a": "vuelvo",
+     "full": "Yo vuelvo a casa a las seis."
+    },
+    {
+     "q": "¿Qué ______ hacer hoy?",
+     "hint": "querer (tú)",
+     "a": "quieres",
+     "full": "¿Qué quieres hacer hoy?"
+    },
+    {
+     "q": "Ella ______ la verdad.",
+     "hint": "decir",
+     "a": "dice",
+     "full": "Ella dice la verdad."
+    },
+    {
+     "q": "Nosotros ______ al cine.",
+     "hint": "ir",
+     "a": "vamos",
+     "full": "Nosotros vamos al cine."
+    },
+    {
+     "q": "¿______ ayudarme?",
+     "hint": "poder (usted)",
+     "a": "Puede",
+     "full": "¿Puede ayudarme?"
+    },
+    {
+     "q": "Yo no ______ la respuesta.",
+     "hint": "saber (yo)",
+     "a": "sé",
+     "full": "Yo no sé la respuesta."
+    },
+    {
+     "q": "Ellos ______ de casa a las ocho.",
+     "hint": "salir",
+     "a": "salen",
+     "full": "Ellos salen de casa a las ocho."
+    },
+    {
+     "q": "¿Cuántas horas ______ tú?",
+     "hint": "dormir",
+     "a": "duermes",
+     "full": "¿Cuántas horas duermes tú?"
+    },
+    {
+     "q": "Vosotros ______ al fútbol.",
+     "hint": "jugar",
+     "a": "jugáis",
+     "full": "Vosotros jugáis al fútbol."
+    },
+    {
+     "q": "Yo ______ la tele por la noche.",
+     "hint": "ver (yo)",
+     "a": "veo",
+     "full": "Yo veo la tele por la noche."
+    },
+    {
+     "q": "Yo ______ a tu hermano.",
+     "hint": "conocer (yo)",
+     "a": "conozco",
+     "full": "Yo conozco a tu hermano."
+    },
+    {
+     "q": "Él ______ un café.",
+     "hint": "pedir",
+     "a": "pide",
+     "full": "Él pide un café."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ga naar de markt.",
+     "a": "Voy al mercado."
+    },
+    {
+     "q": "Ze willen nu eten.",
+     "a": "Quieren comer ahora."
+    },
+    {
+     "q": "We kunnen vandaag niet komen.",
+     "a": "No podemos venir hoy."
+    },
+    {
+     "q": "Ik maak om vijf uur mijn huiswerk.",
+     "a": "Hago los deberes a las cinco."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

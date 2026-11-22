@@ -1,0 +1,607 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Werkwoorden",
+  "number": 7,
+  "total_in_level": 9,
+  "title": "Wederkerende werkwoorden en gustar",
+  "subtitle": "Werkwoorden voor je dagelijkse routine (me levanto), jezelf voorstellen (me llamo) en zeggen wat je leuk vindt (me gusta)",
+  "footer": "Language Learning · A1 · Werkwoorden · Wederkerende werkwoorden en gustar",
+  "next": "Volgende: A1 · pdf 8 — Basiszinsbouw"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "je naam zeggen en je dagelijkse routine beschrijven met wederkerende werkwoorden",
+    "het wederkerend voornaamwoord op de goede plek zetten",
+    "met gustar en encantar zeggen wat je leuk vindt en waar je dol op bent",
+    "het eens en oneens zijn: a mí también, a mí tampoco"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Wederkerende werkwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Bij een wederkerend werkwoord komt de handeling terug bij wie hem doet, net als bij het Nederlandse <i>zich wassen</i>. De infinitief eindigt op <b>-se</b>: <i>levantarse</i> (opstaan), <i>llamarse</i> (heten). Voor het vervoegde werkwoord zet je een <b>wederkerend voornaamwoord</b> dat bij het onderwerp past."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    3.4,
+    8.0
+   ],
+   "head": [
+    "Persoon",
+    "Voornaamwoord",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "me",
+     "Me levanto."
+    ],
+    [
+     "tú",
+     "te",
+     "Te levantas."
+    ],
+    [
+     "él / ella / usted",
+     "se",
+     "Se levanta."
+    ],
+    [
+     "nosotros / nosotras",
+     "nos",
+     "Nos levantamos."
+    ],
+    [
+     "vosotros / vosotras",
+     "os",
+     "Os levantáis."
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "se",
+     "Se levantan."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "llamarse",
+   "meaning": "heten",
+   "label": "wederkerend · regelmatig op -ar",
+   "forms": [
+    "me llamo",
+    "te llamas",
+    "se llama",
+    "nos llamamos",
+    "os llamáis",
+    "se llaman"
+   ],
+   "examples": [
+    [
+     "Me llamo Ana.",
+     "Ik heet Ana."
+    ],
+    [
+     "¿Cómo te llamas?",
+     "Hoe heet jij?"
+    ],
+    [
+     "Mi hermano se llama Pablo.",
+     "Mijn broer heet Pablo."
+    ],
+    [
+     "Nos llamamos igual.",
+     "We hebben dezelfde naam."
+    ],
+    [
+     "¿Cómo os llamáis?",
+     "Hoe heten jullie?"
+    ],
+    [
+     "Se llaman Luis y Marta.",
+     "Zij heten Luis en Marta."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "levantarse",
+   "meaning": "opstaan",
+   "label": "wederkerend · regelmatig op -ar",
+   "forms": [
+    "me levanto",
+    "te levantas",
+    "se levanta",
+    "nos levantamos",
+    "os levantáis",
+    "se levantan"
+   ],
+   "examples": [
+    [
+     "Me levanto a las siete.",
+     "Ik sta om zeven uur op."
+    ],
+    [
+     "¿A qué hora te levantas?",
+     "Hoe laat sta jij op?"
+    ],
+    [
+     "Ella se levanta tarde.",
+     "Zij staat laat op."
+    ],
+    [
+     "Nos levantamos temprano.",
+     "We staan vroeg op."
+    ],
+    [
+     "¿Os levantáis tarde los domingos?",
+     "Staan jullie op zondag laat op?"
+    ],
+    [
+     "Se levantan a las ocho.",
+     "Zij staan om acht uur op."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Beleefd: ¿Cómo se llama usted?",
+   "text": "Vraag je een onbekende of een oudere naar zijn naam, gebruik dan <b>usted</b>: <i>¿Cómo se llama usted?</i> Om jezelf voor te stellen kun je <i>Me llamo…</i> of <i>Soy…</i> zeggen."
+  },
+  {
+   "type": "h1",
+   "text": "2. Wederkerende werkwoorden met een stamverandering"
+  },
+  {
+   "type": "p",
+   "text": "Veel wederkerende werkwoorden zijn laarswerkwoorden (pdf 3): de stam verandert bij yo, tú, él en ellos, maar niet bij nosotros en vosotros."
+  },
+  {
+   "type": "conjgrid",
+   "kind": "boot",
+   "title": "despertarse, acostarse, vestirse",
+   "verbs": [
+    {
+     "inf": "despertarse",
+     "meaning": "wakker worden",
+     "forms": [
+      "me desp*ie*rto",
+      "te desp*ie*rtas",
+      "se desp*ie*rta",
+      "nos despertamos",
+      "os despertáis",
+      "se desp*ie*rtan"
+     ]
+    },
+    {
+     "inf": "acostarse",
+     "meaning": "naar bed gaan",
+     "forms": [
+      "me ac*ue*sto",
+      "te ac*ue*stas",
+      "se ac*ue*sta",
+      "nos acostamos",
+      "os acostáis",
+      "se ac*ue*stan"
+     ]
+    },
+    {
+     "inf": "vestirse",
+     "meaning": "zich aankleden",
+     "forms": [
+      "me v*i*sto",
+      "te v*i*stes",
+      "se v*i*ste",
+      "nos vestimos",
+      "os vestís",
+      "se v*i*sten"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "kind": "boot",
+   "title": "sentarse, dormirse",
+   "verbs": [
+    {
+     "inf": "sentarse",
+     "meaning": "gaan zitten",
+     "forms": [
+      "me s*ie*nto",
+      "te s*ie*ntas",
+      "se s*ie*nta",
+      "nos sentamos",
+      "os sentáis",
+      "se s*ie*ntan"
+     ]
+    },
+    {
+     "inf": "dormirse",
+     "meaning": "in slaap vallen",
+     "forms": [
+      "me d*ue*rmo",
+      "te d*ue*rmes",
+      "se d*ue*rme",
+      "nos dormimos",
+      "os dormís",
+      "se d*ue*rmen"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Regelmatige wederkerende werkwoorden voor je dagelijkse routine",
+   "items": [
+    [
+     "ducharse",
+     "zich douchen"
+    ],
+    [
+     "lavarse",
+     "zich wassen"
+    ],
+    [
+     "peinarse",
+     "zijn haar kammen"
+    ],
+    [
+     "afeitarse",
+     "zich scheren"
+    ],
+    [
+     "maquillarse",
+     "zich opmaken"
+    ],
+    [
+     "bañarse",
+     "in bad gaan"
+    ],
+    [
+     "cepillarse los dientes",
+     "zijn tanden poetsen"
+    ],
+    [
+     "ponerse",
+     "aantrekken (kleren)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Me despierto a las siete, me ducho, desayuno y salgo de casa a las ocho. Por la noche me acuesto a las once.</i> (Ik word om zeven uur wakker, douche, ontbijt en ga om acht uur de deur uit. 's Avonds ga ik om elf uur naar bed.)"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Lichaamsdelen en kleren: gebruik el, la, los, las",
+   "text": "In het Nederlands zeg je <i>ik was mijn handen</i>. Het Spaans gebruikt het lidwoord, geen bezittelijk voornaamwoord: <b>Me lavo las manos</b>, <b>Me pongo el abrigo</b>. Het wederkerend voornaamwoord laat al zien van wie de handen zijn."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Wederkerend of niet?",
+   "text": "Vergelijk <i>lavo el coche</i> (ik was de auto) met <i>me lavo</i> (ik was me), en <i>acuesto al niño</i> (ik breng het kind naar bed) met <i>me acuesto</i> (ik ga naar bed). Veel werkwoorden bestaan in allebei de vormen."
+  },
+  {
+   "type": "h1",
+   "text": "3. Gustar: zeggen wat je leuk vindt"
+  },
+  {
+   "type": "p",
+   "text": "<b>Gustar</b> werkt omgekeerd vergeleken met het Nederlands. Wat je leuk vindt, is het <b>onderwerp</b>, en wie het leuk vindt, is het <b>meewerkend voorwerp</b>. <i>Me gusta el café</i> betekent eigenlijk <i>koffie bevalt mij</i>. Het werkwoord past zich dus aan <b>wat je leuk vindt</b> aan: <b>gusta</b> voor één ding of een infinitief, <b>gustan</b> voor meer dingen."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    2.0,
+    5.4,
+    5.6
+   ],
+   "head": [
+    "Wie vindt het leuk",
+    "Voornaamwoord",
+    "één ding / een activiteit",
+    "meer dingen"
+   ],
+   "rows": [
+    [
+     "(a mí)",
+     "me",
+     "Me gusta el café. Me gusta bailar.",
+     "Me gustan los gatos."
+    ],
+    [
+     "(a ti)",
+     "te",
+     "Te gusta el café.",
+     "Te gustan los gatos."
+    ],
+    [
+     "(a él / ella / usted)",
+     "le",
+     "Le gusta el café.",
+     "Le gustan los gatos."
+    ],
+    [
+     "(a nosotros / nosotras)",
+     "nos",
+     "Nos gusta el café.",
+     "Nos gustan los gatos."
+    ],
+    [
+     "(a vosotros / vosotras)",
+     "os",
+     "Os gusta el café.",
+     "Os gustan los gatos."
+    ],
+    [
+     "(a ellos / ellas / ustedes)",
+     "les",
+     "Les gusta el café.",
+     "Les gustan los gatos."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Met een werkwoord</b> gebruik je gusta (enkelvoud), ook bij meer werkwoorden: <i>Me gusta cantar y bailar.</i>",
+    "<b>A mí, a ti, a él…</b> voeg je toe voor contrast of nadruk: <i>A mí me gusta el té, pero a ella le gusta el café.</i> Let op: <b>a mí</b> heeft een accent.",
+    "<b>Namen en zelfstandige naamwoorden</b> werken net zo: <i>A Pedro le gusta el fútbol. A mis padres les gustan los viajes.</i>",
+    "<b>Mate:</b> <i>Me gusta mucho / bastante / un poco.</i> Ontkennend: <i>No me gusta nada el frío.</i>"
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Denk aan 'het bevalt mij'",
+   "text": "Het Nederlandse <i>ik hou van katten</i> / <i>ik vind katten leuk</i> wordt <b>Me gustan los gatos</b>: letterlijk 'katten bevallen mij'. De katten zijn het onderwerp, dus het werkwoord staat in het meervoud: <b>gustan</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.7,
+    5.7
+   ],
+   "head": [
+    "Iemand zegt…",
+    "Jij bent het eens…",
+    "Jij bent het oneens…"
+   ],
+   "rows": [
+    [
+     "Me gusta el chocolate.",
+     "A mí también.",
+     "A mí no."
+    ],
+    [
+     "No me gusta el pescado.",
+     "A mí tampoco.",
+     "A mí sí."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Werkwoorden die werken zoals gustar"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    5.2,
+    4.6
+   ],
+   "head": [
+    "Werkwoord",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "encantar",
+     "dol zijn op",
+     "Me encanta la música. Nos encantan los viajes.",
+     "Ik ben dol op muziek. We zijn dol op reizen."
+    ],
+    [
+     "interesar",
+     "interesseren",
+     "Me interesa la historia. Les interesan los coches.",
+     "Geschiedenis interesseert me. Auto's interesseren hen."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Van een persoon houden: querer",
+   "text": "<b>Encantar</b> is voor dingen en activiteiten. Voor mensen gebruik je <b>querer</b>: <i>Quiero a mi familia. Te quiero.</i> (Ik hou van mijn familie. Ik hou van je.)"
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yo gusto el café.",
+     "Me gusta el café.",
+     "Wat je leuk vindt is het onderwerp. De persoon is me, te, le…"
+    ],
+    [
+     "Me gusta los gatos.",
+     "Me gustan los gatos.",
+     "Meervoud van wat je leuk vindt, dus het werkwoord in het meervoud."
+    ],
+    [
+     "Me gustan bailar.",
+     "Me gusta bailar.",
+     "Een infinitief krijgt altijd het enkelvoud gusta."
+    ],
+    [
+     "Me llamo es Ana.",
+     "Me llamo Ana.",
+     "Llamarse betekent al 'heten'. Geen extra es."
+    ],
+    [
+     "Yo levanto a las siete.",
+     "Me levanto a las siete.",
+     "Een wederkerend werkwoord heeft altijd zijn voornaamwoord nodig."
+    ],
+    [
+     "Me lavo mis manos.",
+     "Me lavo las manos.",
+     "Lichaamsdelen krijgen het lidwoord, geen bezittelijk voornaamwoord."
+    ],
+    [
+     "A mi me gusta el té.",
+     "A mí me gusta el té.",
+     "Na een voorzetsel is het voornaamwoord mí, met een accent."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Yo ______ a las siete.",
+     "hint": "levantarse (yo)",
+     "a": "me levanto",
+     "full": "Yo me levanto a las siete."
+    },
+    {
+     "q": "¿Cómo ______ tú?",
+     "hint": "llamarse",
+     "a": "te llamas",
+     "full": "¿Cómo te llamas tú?"
+    },
+    {
+     "q": "Ella ______ por la mañana.",
+     "hint": "ducharse",
+     "a": "se ducha",
+     "full": "Ella se ducha por la mañana."
+    },
+    {
+     "q": "Nosotros ______ a las once.",
+     "hint": "acostarse",
+     "a": "nos acostamos",
+     "full": "Nosotros nos acostamos a las once."
+    },
+    {
+     "q": "¿A qué hora ______ vosotros?",
+     "hint": "despertarse",
+     "a": "os despertáis",
+     "full": "¿A qué hora os despertáis vosotros?"
+    },
+    {
+     "q": "Ellos ______ en el sofá.",
+     "hint": "sentarse",
+     "a": "se sientan",
+     "full": "Ellos se sientan en el sofá."
+    },
+    {
+     "q": "Me ______ el chocolate.",
+     "hint": "gustar",
+     "a": "gusta",
+     "full": "Me gusta el chocolate."
+    },
+    {
+     "q": "Me ______ los deportes.",
+     "hint": "gustar",
+     "a": "gustan",
+     "full": "Me gustan los deportes."
+    },
+    {
+     "q": "A ella ______ gusta bailar.",
+     "hint": "voornaamwoord",
+     "a": "le",
+     "full": "A ella le gusta bailar."
+    },
+    {
+     "q": "A nosotros ______ encantan los viajes.",
+     "hint": "voornaamwoord",
+     "a": "nos",
+     "full": "A nosotros nos encantan los viajes."
+    },
+    {
+     "q": "A ti ______ gusta la música.",
+     "hint": "voornaamwoord",
+     "a": "te",
+     "full": "A ti te gusta la música."
+    },
+    {
+     "q": "No me gusta el pescado. — A mí ______.",
+     "hint": "ik ook niet",
+     "a": "tampoco",
+     "full": "No me gusta el pescado. — A mí tampoco."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik word om acht uur wakker.",
+     "a": "Me despierto a las ocho."
+    },
+    {
+     "q": "Zij vindt honden leuk.",
+     "a": "Le gustan los perros."
+    },
+    {
+     "q": "Wij zijn dol op muziek.",
+     "a": "Nos encanta la música."
+    },
+    {
+     "q": "Hoe heet je?",
+     "a": "¿Cómo te llamas?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

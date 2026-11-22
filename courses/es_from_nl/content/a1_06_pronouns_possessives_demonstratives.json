@@ -1,0 +1,463 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Grammatica",
+  "number": 6,
+  "total_in_level": 9,
+  "title": "Bezittelijke en aanwijzende voornaamwoorden en vraagwoorden",
+  "subtitle": "mijn, jouw, deze, die — plus voornaamwoorden na een voorzetsel en de vraagwoorden die je elke dag nodig hebt",
+  "footer": "Language Learning · A1 · Grammatica · Bezittelijke en aanwijzende voornaamwoorden, vragen",
+  "next": "Volgende: A1 · pdf 7 — Wederkerende werkwoorden en gustar"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "mijn, jouw, zijn, haar, ons en hun goed zeggen",
+    "dingen aanwijzen met este, ese en aquel",
+    "voornaamwoorden na een voorzetsel gebruiken (para mí, conmigo)",
+    "alle basisvragen stellen: wat, wie, waar, wanneer, hoe, hoeveel, welke, waarom"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Bezittelijke voornaamwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Bezittelijke voornaamwoorden staan <b>voor</b> het zelfstandig naamwoord en passen zich aan het <b>bezit</b> aan, niet aan de bezitter: <i>mi hermano, mis hermanas</i>. Alleen <b>nuestro</b> en <b>vuestro</b> veranderen ook naar geslacht."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    3.6,
+    4.4,
+    4.6
+   ],
+   "head": [
+    "Bezitter",
+    "Enkelvoud",
+    "Meervoud",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo (mijn)",
+     "mi",
+     "mis",
+     "mi casa, mis libros"
+    ],
+    [
+     "tú (jouw)",
+     "tu",
+     "tus",
+     "tu madre, tus llaves"
+    ],
+    [
+     "él / ella / usted (zijn, haar, uw)",
+     "su",
+     "sus",
+     "su coche, sus amigos"
+    ],
+    [
+     "nosotros (ons, onze)",
+     "nuestro / nuestra",
+     "nuestros / nuestras",
+     "nuestro piso, nuestras vacaciones"
+    ],
+    [
+     "vosotros (jullie)",
+     "vuestro / vuestra",
+     "vuestros / vuestras",
+     "vuestro perro, vuestras maletas"
+    ],
+    [
+     "ellos / ellas / ustedes (hun, uw)",
+     "su",
+     "sus",
+     "su casa, sus hijos"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Eén woord, veel bezitters: su",
+   "text": "<b>su</b> kan zijn, haar, uw of hun betekenen. Is het onduidelijk, zeg dan van wie: <i>la casa de él, la casa de ella, la casa de ustedes, la casa de ellos</i>. Let ook op: <b>tu</b> (jouw) heeft geen accent, <b>tú</b> (jij) wel."
+  },
+  {
+   "type": "h1",
+   "text": "2. Aanwijzende voornaamwoorden: deze, die, die daarginds"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    2.6,
+    2.6,
+    3.0,
+    3.8
+   ],
+   "head": [
+    "Afstand",
+    "m. enk.",
+    "v. enk.",
+    "m. / v. mv.",
+    "Plaatswoord"
+   ],
+   "rows": [
+    [
+     "dicht bij mij (deze, dit)",
+     "este",
+     "esta",
+     "estos / estas",
+     "aquí (hier)"
+    ],
+    [
+     "dicht bij jou (die, dat)",
+     "ese",
+     "esa",
+     "esos / esas",
+     "ahí (daar)"
+    ],
+    [
+     "ver van ons allebei (die, dat daarginds)",
+     "aquel",
+     "aquella",
+     "aquellos / aquellas",
+     "allí (daarginds)"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Ze passen zich aan het zelfstandig naamwoord aan: <i>este libro, esta casa, estos libros, estas casas</i>.",
+    "<b>esto, eso, aquello</b> zijn onzijdig. Gebruik ze voor iets onbekends of een idee: <i>¿Qué es esto? Eso es verdad.</i>",
+    "Het Spaans heeft <b>drie</b> afstanden, het Nederlands twee (dit / dat). <b>ese</b> is 'dat, bij jou', <b>aquel</b> is 'dat, ver weg'."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Este coche es nuevo, ese coche es viejo y aquel coche es muy caro.</i> (Deze auto is nieuw, die auto is oud en die auto daarginds is heel duur.)"
+  },
+  {
+   "type": "h1",
+   "text": "3. Voornaamwoorden na een voorzetsel"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    3.6,
+    9.2
+   ],
+   "head": [
+    "Persoon",
+    "Na een voorzetsel",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "mí",
+     "Es para mí."
+    ],
+    [
+     "tú",
+     "ti",
+     "Es para ti."
+    ],
+    [
+     "él / ella / usted",
+     "él / ella / usted",
+     "Voy con él. Hablo de ella."
+    ],
+    [
+     "nosotros / nosotras",
+     "nosotros / nosotras",
+     "Es para nosotros."
+    ],
+    [
+     "vosotros / vosotras",
+     "vosotros / vosotras",
+     "Voy sin vosotros."
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "ellos / ellas / ustedes",
+     "Pienso en ellos."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Twee bijzondere vormen",
+   "text": "<b>con + mí = conmigo</b> en <b>con + ti = contigo</b>: <i>¿Vienes conmigo? Sí, voy contigo.</i> Schrijf nooit con mí of con ti. Na para, a, de, en en sin gebruik je <b>mí</b> en <b>ti</b>, niet <i>yo</i> en <i>tú</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Vraagwoorden"
+  },
+  {
+   "type": "p",
+   "text": "Vraagwoorden hebben altijd een geschreven accent en de hele vraag staat tussen ¿ ?."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.6,
+    10.0
+   ],
+   "head": [
+    "Spaans",
+    "Nederlands",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "qué",
+     "wat",
+     "¿Qué es esto? ¿Qué hora es?"
+    ],
+    [
+     "quién / quiénes",
+     "wie",
+     "¿Quién es ella? ¿Quiénes son ellos?"
+    ],
+    [
+     "dónde",
+     "waar",
+     "¿Dónde vives?"
+    ],
+    [
+     "adónde",
+     "waarheen",
+     "¿Adónde vas?"
+    ],
+    [
+     "de dónde",
+     "waarvandaan",
+     "¿De dónde eres?"
+    ],
+    [
+     "cuándo",
+     "wanneer",
+     "¿Cuándo llegas?"
+    ],
+    [
+     "cómo",
+     "hoe",
+     "¿Cómo estás? ¿Cómo te llamas?"
+    ],
+    [
+     "cuánto / cuánta / cuántos / cuántas",
+     "hoeveel",
+     "¿Cuánto cuesta? ¿Cuántos años tienes?"
+    ],
+    [
+     "cuál / cuáles",
+     "welke, welk",
+     "¿Cuál es tu teléfono?"
+    ],
+    [
+     "por qué",
+     "waarom",
+     "¿Por qué estudias español?"
+    ],
+    [
+     "a qué hora",
+     "hoe laat",
+     "¿A qué hora llegas?"
+    ],
+    [
+     "de quién",
+     "van wie",
+     "¿De quién es este libro?"
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>cuánto</b> past zich aan het zelfstandig naamwoord erna aan: <i>¿Cuánta agua? ¿Cuántas personas?</i>",
+    "<b>qué</b> of <b>cuál</b>? Gebruik <b>qué es</b> om naar een omschrijving te vragen (<i>¿Qué es esto?</i>) en <b>qué + zelfstandig naamwoord</b> om te kiezen (<i>¿Qué libro prefieres?</i>). Gebruik <b>cuál es</b> om naar een bepaald gegeven te vragen (<i>¿Cuál es tu número?</i>).",
+    "<b>por qué</b> (twee woorden, accent) vraagt <i>waarom?</i>. <b>porque</b> (één woord, geen accent) antwoordt <i>omdat</i>: <i>¿Por qué estudias español? Porque quiero viajar.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Mi amigos son simpáticos.",
+     "Mis amigos son simpáticos.",
+     "Een bezittelijk voornaamwoord past zich aan het zelfstandig naamwoord aan, dus bij een meervoud mis, tus, sus."
+    ],
+    [
+     "Nuestro casa es grande.",
+     "Nuestra casa es grande.",
+     "Nuestro en vuestro veranderen ook naar geslacht."
+    ],
+    [
+     "Esta libro es interesante.",
+     "Este libro es interesante.",
+     "libro is mannelijk, dus este."
+    ],
+    [
+     "¿Que hora es?",
+     "¿Qué hora es?",
+     "Vraagwoorden hebben een accent."
+    ],
+    [
+     "¿Porque estudias?",
+     "¿Por qué estudias?",
+     "Een vraag gebruikt de vorm in twee woorden: por qué. Porque (één woord) is het antwoord."
+    ],
+    [
+     "¿Cuanto años tienes?",
+     "¿Cuántos años tienes?",
+     "Cuánto past zich aan años aan en heeft een accent."
+    ],
+    [
+     "Es para yo.",
+     "Es para mí.",
+     "Na een voorzetsel gebruik je mí, niet yo."
+    ],
+    [
+     "Voy con mí.",
+     "Voy conmigo.",
+     "con + mí = conmigo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ hermana es alta.",
+     "hint": "mijn",
+     "a": "Mi",
+     "full": "Mi hermana es alta."
+    },
+    {
+     "q": "______ padres viven en Madrid.",
+     "hint": "jouw (tú)",
+     "a": "Tus",
+     "full": "Tus padres viven en Madrid."
+    },
+    {
+     "q": "Es ______ casa.",
+     "hint": "ons",
+     "a": "nuestra",
+     "full": "Es nuestra casa."
+    },
+    {
+     "q": "¿Dónde están ______ llaves?",
+     "hint": "jullie (vosotros)",
+     "a": "vuestras",
+     "full": "¿Dónde están vuestras llaves?"
+    },
+    {
+     "q": "______ libro es interesante.",
+     "hint": "deze, dit",
+     "a": "Este",
+     "full": "Este libro es interesante."
+    },
+    {
+     "q": "Quiero ______ camisas.",
+     "hint": "die (bij jou)",
+     "a": "esas",
+     "full": "Quiero esas camisas."
+    },
+    {
+     "q": "______ montañas son muy altas.",
+     "hint": "die daarginds",
+     "a": "Aquellas",
+     "full": "Aquellas montañas son muy altas."
+    },
+    {
+     "q": "¿______ años tienes?",
+     "hint": "hoeveel",
+     "a": "Cuántos",
+     "full": "¿Cuántos años tienes?"
+    },
+    {
+     "q": "¿______ vives?",
+     "hint": "waar",
+     "a": "Dónde",
+     "full": "¿Dónde vives?"
+    },
+    {
+     "q": "¿______ estudias español?",
+     "hint": "waarom",
+     "a": "Por qué",
+     "full": "¿Por qué estudias español?"
+    },
+    {
+     "q": "Estudio español ______ quiero viajar.",
+     "hint": "omdat",
+     "a": "porque",
+     "full": "Estudio español porque quiero viajar."
+    },
+    {
+     "q": "¿______ es tu número de teléfono?",
+     "hint": "welk",
+     "a": "Cuál",
+     "full": "¿Cuál es tu número de teléfono?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Dit zijn mijn vrienden.",
+     "a": "Estos son mis amigos."
+    },
+    {
+     "q": "Waar is jouw huis?",
+     "a": "¿Dónde está tu casa?"
+    },
+    {
+     "q": "Hoe laat is het?",
+     "a": "¿Qué hora es?"
+    },
+    {
+     "q": "Wie is die vrouw?",
+     "a": "¿Quién es esa mujer?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
