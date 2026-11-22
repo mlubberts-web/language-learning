@@ -78,7 +78,7 @@ Choices made (Menno can overrule any of them):
       per course, so results never mix.
 - [x] 1.6 PDF generator: `make_pdfs.py` turns a content file into a PDF in the same style as the
       Spanish PDFs (PyMuPDF). Check it on a few Spanish units side by side with the originals.
-- [ ] 1.7 Tests run for every course; a course with only some units is allowed (the plan and
+- [x] 1.7 Tests run for every course (`run_tests.py` runs all of them); a course with only some units is allowed (the plan and
       progress only count what exists).
 - [ ] 1.8 Landing page for visitors who are not logged in: what the site is, the six courses,
       log in / create an account. Works on a phone.

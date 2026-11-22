@@ -1,4 +1,4 @@
-"""Checks the practice questions of all 59 PDFs and the rules of the rounds.
+"""Checks the rules of practising (grading, rounds, review) with real questions of the Spanish course.
 Run with:  .venv\\Scripts\\python.exe test_practice.py
 Use this after changing the practice files or the content. It does not touch your progress."""
 import collections, json, tempfile
@@ -9,6 +9,7 @@ import course
 import languages
 import practice_store as store
 from practice_items import build_items, modes, build_theme_items, clean_text, without_accents
+from test_content import LATIN_AMERICAN, check_course
 
 HERE = Path(__file__).parent
 COURSE_ID = "es_from_en"  # the course whose content is checked
@@ -21,84 +22,10 @@ def expect(condition, message):
         problems.append(message)
 
 
-# ---------- every question of every PDF ----------
+# ---------- every question of the Spanish course (the checks are in test_content.py) ----------
 catalog = json.loads((COURSE / "catalog.json").read_text(encoding="utf-8"))
-totals = collections.Counter()
-all_items = []
-for pdf in catalog:
-    document = json.loads((COURSE / "content" / pdf["content"]).read_text(encoding="utf-8"))
-    items = build_items(pdf["id"], document)
-    all_items += items
-    ids = [i["id"] for i in items]
-    expect(len(ids) == len(set(ids)), f"{pdf['id']}: two questions with the same id")
-    expect(any(i["mode"] == "fill" for i in items), f"{pdf['id']}: no grammar exercises")
-    for item in items:
-        totals[item["mode"]] += 1
-        name = f"{pdf['id']} {item['mode']} {item['prompt']!r}"
-        expect(item["prompt"].strip() and item["answers"], f"{name}: empty question")
-        expect("*" not in "".join(item["answers"]), f"{name}: star left in answer")
-        for answer in item["answers"]:
-            expect(answer.strip(), f"{name}: empty answer")
-            result = logic.check_answer(item, answer)[0]
-            expect(result == "right", f"{name}: its own answer {answer!r} gives {result}")
-            # Dots must not matter at all, for any exercise type.
-            no_dots = answer.replace(".", "")
-            if no_dots.strip():
-                result = logic.check_answer(item, no_dots)[0]
-                expect(result == "right", f"{name}: {no_dots!r} without dots gives {result}")
-            # Without accents: wrong only where the accent has to be right, otherwise yellow.
-            loose = without_accents(answer)
-            if loose != answer and item["mode"] != "build":
-                result = logic.check_answer(item, loose)[0]
-                wanted = "wrong" if "accent" in item["must_match"] else "near"
-                if len(item["answers"]) == 1:  # with more answers another one could match exactly
-                    expect(result == wanted, f"{name}: {loose!r} gives {result}, wanted {wanted}")
-        if item["mode"] == "verbs":
-            expect("accent" in item["must_match"], f"{name}: accents must matter in verbs")
-        if item["mode"] == "fix":  # a wrong sentence retyped without changes may never pass
-            result = logic.check_answer(item, item["prompt"])[0]
-            expect(result == "wrong", f"{name}: unchanged mistake gives {result}")
-        expect(logic.check_answer(item, "xyzzy")[0] == "wrong", f"{name}: accepts nonsense")
-        expect(logic.check_answer(item, "")[0] == "wrong", f"{name}: accepts an empty answer")
-        if item["mode"] == "build":
-            built = " ".join(item["tiles"])
-            expect(len(item["tiles"]) >= 3, f"{name}: too few tiles")
-            expect(logic.check_answer(item, built)[0] == "right", f"{name}: tiles give {built!r}")
-
-# ---------- the themed word lists ----------
-LATIN_AMERICAN = {"carro", "computadora", "celular", "jugo", "manejar", "boleto", "papa", "frijol", "frijoles",
-                  "durazno", "chamaco", "ómnibus", "tiquete", "refrigeradora", "mesero", "mesera",
-                  "elote", "ejote", "chícharo", "betabel"}
-theme_words = 0
-for path in sorted((COURSE / "themes").glob("*.json")):
-    theme = json.loads(path.read_text(encoding="utf-8"))
-    expect(theme.get("kind") in ("topic", "language"), f"{path.stem}: kind must be topic or language")
-    entries = [entry for part in theme["lists"] for entry in part["items"]]
-    theme_words += len(entries)
-    for part in theme["lists"]:
-        expect(12 <= len(part["items"]) <= 30, f"{path.stem} {part['name']}: {len(part['items'])} words, wanted 12 to 30")
-        expect(part["level"] in ("A1", "A2", "B1", "B2", "C1", "C2"), f"{path.stem} {part['name']}: no level")
-    spanish_words = [entry[0] for entry in entries]
-    expect(len(spanish_words) == len(set(spanish_words)), f"{path.stem}: a word appears twice: "
-           + str([w for w, n in collections.Counter(spanish_words).items() if n > 1]))
-    names = [part["name"] for part in theme["lists"]]
-    expect(len(names) == len(set(names)), f"{path.stem}: two lists with the same name")
-    for entry in entries:
-        expect(2 <= len(entry) <= 4 and all(isinstance(x, str) for x in entry), f"{path.stem}: bad item {entry}")
-        expect(not (set(clean_text(entry[0]).split()) & LATIN_AMERICAN), f"{path.stem}: not Spain Spanish? {entry[0]}")
-        expect(not any(mark in entry[1] for mark in "!?¡¿"), f"{path.stem}: no ! or ? in the English: {entry[1]}")
-        if len(entry) > 2:  # the example sentence has exactly one [gap]
-            expect(entry[2].count("[") == 1 and entry[2].count("]") == 1, f"{path.stem}: one [gap] needed: {entry[2]}")
-    items = build_theme_items(path.stem, theme)
-    all_items += items
-    expect(all(item["group"] in names for item in items), f"{path.stem}: a question without its list")
-    for item in items:
-        totals[item["mode"]] += 1
-        for answer in item["answers"]:
-            expect(logic.check_answer(item, answer)[0] == "right", f"{path.stem} {item['prompt']!r}: own answer {answer!r}")
-        expect(logic.check_answer(item, "xyzzy")[0] == "wrong", f"{path.stem} {item['prompt']!r}: accepts nonsense")
+all_items, totals, theme_words = check_course(COURSE_ID, expect)
 print(f"Themed lists: {theme_words} entries")
-
 print("Questions per exercise type:")
 for mode, title, _ in modes(COURSE_ID):
     print(f"  {title}: {totals[mode]}")
