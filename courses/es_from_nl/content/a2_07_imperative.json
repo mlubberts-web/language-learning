@@ -1,0 +1,831 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "De gebiedende wijs (basis)",
+  "subtitle": "Geboden aan tú, usted, nosotros, vosotros en ustedes, bevestigend en ontkennend, met voornaamwoorden",
+  "footer": "Language Learning · A2 · Werkwoorden · Imperativo",
+  "next": "Volgende: A2 · pdf 8 — Voornaamwoorden als voorwerp"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "opdrachten, instructies en uitnodigingen geven aan tú, usted, nosotros, vosotros en ustedes",
+    "bevestigende en ontkennende geboden maken, inclusief de 8 onregelmatige tú-vormen",
+    "voornaamwoorden als voorwerp en wederkerende voornaamwoorden op de goede plek zetten (dímelo, no me lo digas)",
+    "beleefd of vriendelijk klinken met de meest gebruikte zinnetjes in de gebiedende wijs"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Wat de gebiedende wijs doet"
+  },
+  {
+   "type": "p",
+   "text": "De gebiedende wijs (imperativo) gebruik je voor bevelen, instructies, adviezen, verzoeken en uitnodigingen: <i>Abre la puerta. Come más verdura. Pasa, por favor.</i> Het Spaans gebruikt hem veel vaker dan het Nederlands, en met <i>por favor</i> is hij heel beleefd."
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Instructies</b> (recepten, routebeschrijvingen): <i>Corta la cebolla y añade sal. Gira a la derecha.</i>",
+    "<b>Uitnodigingen</b>: <i>Pasa. Siéntate. Come algo.</i>",
+    "<b>Voorstellen met nosotros</b>: <i>Vamos. Comamos ya. Hablemos mañana.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tú: bevestigend"
+  },
+  {
+   "type": "p",
+   "text": "Het bevestigende gebod aan tú is gewoon de <b>él / ella-vorm van de presente</b>: <i>(tú) hablas, (él) habla</i>, dus het gebod is <b>habla</b>. Net zo voor <b>come</b> en <b>vive</b>."
+  },
+  {
+   "type": "p",
+   "text": "Acht veelgebruikte werkwoorden hebben een onregelmatig tú-gebod. Leer deze uit je hoofd:"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.1,
+    2.1,
+    2.1,
+    2.1,
+    2.1,
+    2.1,
+    2.1,
+    2.1
+   ],
+   "head": [
+    "decir",
+    "hacer",
+    "ir",
+    "poner",
+    "salir",
+    "ser",
+    "tener",
+    "venir"
+   ],
+   "rows": [
+    [
+     "di",
+     "haz",
+     "ve",
+     "pon",
+     "sal",
+     "sé",
+     "ten",
+     "ven"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Voorbeelden: <i>Dime la verdad. Haz los deberes. Ve a casa. Pon la mesa. Sal de aquí. Sé amable. Ten cuidado. Ven aquí.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Usted, nosotros, ustedes en alle ontkennende geboden"
+  },
+  {
+   "type": "p",
+   "text": "Neem de <b>yo</b>-vorm van de presente, haal de <b>-o</b> eraf en voeg de 'tegenovergestelde klinker' toe: werkwoorden op <b>-ar</b> krijgen <b>-e</b>, werkwoorden op <b>-er / -ir</b> krijgen <b>-a</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.2,
+    4.2,
+    4.0
+   ],
+   "head": [
+    "Gebod aan",
+    "-ar (hablar)",
+    "-er / -ir (comer, vivir)",
+    "Gebruikt voor"
+   ],
+   "rows": [
+    [
+     "tú (ontkennend)",
+     "-es: no hables",
+     "-as: no comas",
+     "vriend, familie"
+    ],
+    [
+     "usted",
+     "-e: hable",
+     "beleefd, één persoon",
+     "formal, one person"
+    ],
+    [
+     "nosotros",
+     "-emos: hablemos",
+     "-amos: comamos",
+     "laten we ..."
+    ],
+    [
+     "vosotros (ontkennend)",
+     "-éis: no habléis",
+     "-áis: no comáis",
+     "vrienden, familie, groep"
+    ],
+    [
+     "ustedes",
+     "-en: hablen",
+     "-an: coman",
+     "beleefd, groep"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Werkwoorden met een onregelmatige yo-vorm houden die onregelmatigheid",
+   "text": "Omdat het gebod begint bij de yo-vorm, geeft <i>hago</i> <b>haga, hagas, hagamos, hagáis, hagan</b>; <i>pongo</i> geeft <b>ponga</b>; <i>salgo</i> geeft <b>salga</b>; <i>tengo</i> geeft <b>tenga</b>; <i>vengo</i> geeft <b>venga</b>; <i>digo</i> geeft <b>diga</b>. Uitzonderingen: <b>ser</b> (sea) en <b>ir</b> (vaya)."
+  },
+  {
+   "type": "h2",
+   "text": "Vosotros: bevestigend"
+  },
+  {
+   "type": "p",
+   "text": "Vervang de <b>-r</b> aan het eind van de infinitief door <b>-d</b>: <b>hablad, comed, vivid</b>, en onregelmatige werkwoorden zijn hier ook regelmatig: <b>id, venid, haced, decid, poned, salid, tened</b>. (<i>ser</i> wordt <b>sed</b>.) Met een wederkerend voornaamwoord valt de d weg: <b>levantaos</b>, maar <b>idos</b> bij irse."
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Spanje en Latijns-Amerika",
+   "text": "Het vosotros-gebod (<i>hablad, comed, venid</i>) bestaat alleen waar vosotros gebruikt wordt: in Spanje. In Latijns-Amerika gebruikt men ustedes voor elke groep, dus daar hoor je <b>hablen, coman, vengan</b>. Beide staan in alle tabellen hieronder."
+  },
+  {
+   "type": "h1",
+   "text": "4. Alle regelmatige vormen"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo",
+   "title": "Bevestigende geboden: regelmatige werkwoorden",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "hablar",
+     "meaning": "spreken",
+     "forms": [
+      "*habla*",
+      "hable",
+      "hablemos",
+      "hablad",
+      "hablen"
+     ]
+    },
+    {
+     "inf": "comer",
+     "meaning": "eten",
+     "forms": [
+      "*come*",
+      "coma",
+      "comamos",
+      "comed",
+      "coman"
+     ]
+    },
+    {
+     "inf": "vivir",
+     "meaning": "wonen, leven",
+     "forms": [
+      "*vive*",
+      "viva",
+      "vivamos",
+      "vivid",
+      "vivan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo negativo",
+   "title": "Ontkennende geboden: regelmatige werkwoorden",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "hablar",
+     "meaning": "spreken",
+     "forms": [
+      "no hables",
+      "no hable",
+      "no hablemos",
+      "no habléis",
+      "no hablen"
+     ]
+    },
+    {
+     "inf": "comer",
+     "meaning": "eten",
+     "forms": [
+      "no comas",
+      "no coma",
+      "no comamos",
+      "no comáis",
+      "no coman"
+     ]
+    },
+    {
+     "inf": "vivir",
+     "meaning": "wonen, leven",
+     "forms": [
+      "no vivas",
+      "no viva",
+      "no vivamos",
+      "no viváis",
+      "no vivan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Onregelmatige werkwoorden"
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo",
+   "title": "Bevestigende geboden: onregelmatige werkwoorden (1)",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "ser",
+     "meaning": "zijn",
+     "forms": [
+      "*sé*",
+      "sea",
+      "seamos",
+      "sed",
+      "sean"
+     ]
+    },
+    {
+     "inf": "ir",
+     "meaning": "gaan",
+     "forms": [
+      "*ve*",
+      "vaya",
+      "vamos",
+      "id",
+      "vayan"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "*haz*",
+      "haga",
+      "hagamos",
+      "haced",
+      "hagan"
+     ]
+    },
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "*pon*",
+      "ponga",
+      "pongamos",
+      "poned",
+      "pongan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo",
+   "title": "Bevestigende geboden: onregelmatige werkwoorden (2)",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "salir",
+     "meaning": "weggaan, uitgaan",
+     "forms": [
+      "*sal*",
+      "salga",
+      "salgamos",
+      "salid",
+      "salgan"
+     ]
+    },
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "*ten*",
+      "tenga",
+      "tengamos",
+      "tened",
+      "tengan"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "*ven*",
+      "venga",
+      "vengamos",
+      "venid",
+      "vengan"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen, vertellen",
+     "forms": [
+      "*di*",
+      "diga",
+      "digamos",
+      "decid",
+      "digan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo negativo",
+   "title": "Ontkennende geboden: onregelmatige werkwoorden (1)",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "ser",
+     "meaning": "zijn",
+     "forms": [
+      "no seas",
+      "no sea",
+      "no seamos",
+      "no seáis",
+      "no sean"
+     ]
+    },
+    {
+     "inf": "ir",
+     "meaning": "gaan",
+     "forms": [
+      "no vayas",
+      "no vaya",
+      "no vayamos",
+      "no vayáis",
+      "no vayan"
+     ]
+    },
+    {
+     "inf": "hacer",
+     "meaning": "doen, maken",
+     "forms": [
+      "no hagas",
+      "no haga",
+      "no hagamos",
+      "no hagáis",
+      "no hagan"
+     ]
+    },
+    {
+     "inf": "poner",
+     "meaning": "zetten, leggen",
+     "forms": [
+      "no pongas",
+      "no ponga",
+      "no pongamos",
+      "no pongáis",
+      "no pongan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "conjgrid",
+   "tense": "imperativo negativo",
+   "title": "Ontkennende geboden: onregelmatige werkwoorden (2)",
+   "persons": [
+    "tú",
+    "usted",
+    "nosotros",
+    "vosotros",
+    "ustedes"
+   ],
+   "person_title": "Gebod aan",
+   "verbs": [
+    {
+     "inf": "salir",
+     "meaning": "weggaan, uitgaan",
+     "forms": [
+      "no salgas",
+      "no salga",
+      "no salgamos",
+      "no salgáis",
+      "no salgan"
+     ]
+    },
+    {
+     "inf": "tener",
+     "meaning": "hebben",
+     "forms": [
+      "no tengas",
+      "no tenga",
+      "no tengamos",
+      "no tengáis",
+      "no tengan"
+     ]
+    },
+    {
+     "inf": "venir",
+     "meaning": "komen",
+     "forms": [
+      "no vengas",
+      "no venga",
+      "no vengamos",
+      "no vengáis",
+      "no vengan"
+     ]
+    },
+    {
+     "inf": "decir",
+     "meaning": "zeggen, vertellen",
+     "forms": [
+      "no digas",
+      "no diga",
+      "no digamos",
+      "no digáis",
+      "no digan"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Ontkennende geboden zijn anders",
+   "text": "Het Nederlands gebruikt dezelfde vorm: <i>Praat!</i> / <i>Praat niet!</i>. In het Spaans kan een ontkennend tú-gebod niet de bevestigende vorm gebruiken: <b>Habla</b> maar <b>No hables</b> (nooit <i>No habla</i>). Net zo bij vosotros: <b>Hablad</b>, maar <b>No habléis</b>."
+  },
+  {
+   "type": "h1",
+   "text": "6. Voornaamwoorden en geboden"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Bevestigend:</b> voornaamwoorden komen vast achter het werkwoord. Een geschreven accent houdt de klemtoon op zijn plek als dat nodig is: <i>levántate, siéntese, dímelo, cómpralo</i>. Geen accent bij korte vormen: <i>dime, hazlo, ponlo</i>.",
+    "<b>Ontkennend:</b> voornaamwoorden staan voor het werkwoord, als losse woorden: <i>no te levantes, no me lo digas, no lo hagas</i>.",
+    "<b>Bij een wederkerend werkwoord</b> verliest het vosotros-gebod zijn d: <i>levantaos</i>, <i>sentaos</i>."
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    5.6,
+    6.2
+   ],
+   "head": [
+    "Bevestigend",
+    "Ontkennend",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Levántate.",
+     "No te levantes.",
+     "Sta op. / Blijf liggen."
+    ],
+    [
+     "Siéntate.",
+     "No te sientes.",
+     "Ga zitten. / Ga niet zitten."
+    ],
+    [
+     "Dime la verdad.",
+     "No me digas mentiras.",
+     "Zeg me de waarheid. / Lieg niet tegen me."
+    ],
+    [
+     "Hazlo ahora.",
+     "No lo hagas.",
+     "Doe het nu. / Doe het niet."
+    ],
+    [
+     "Ponlo aquí.",
+     "No lo pongas ahí.",
+     "Leg het hier. / Leg het daar niet."
+    ],
+    [
+     "Siéntese, por favor.",
+     "No se preocupe.",
+     "Gaat u zitten, alstublieft. / Maakt u zich geen zorgen."
+    ],
+    [
+     "Levantaos.",
+     "No os levantéis.",
+     "Sta op (jullie). / Blijf zitten (jullie)."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Handige zinnetjes in de gebiedende wijs"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Alledaagse geboden",
+   "widths": [
+    3.6,
+    4.9,
+    3.6,
+    4.9
+   ],
+   "items": [
+    [
+     "¡Ten cuidado!",
+     "Pas op!"
+    ],
+    [
+     "¡Mira!",
+     "Kijk!"
+    ],
+    [
+     "¡Oye!",
+     "Hé, luister!"
+    ],
+    [
+     "¡Dime!",
+     "Zeg het maar! (Wat is er?)"
+    ],
+    [
+     "¡Venga!",
+     "Kom op! (Spanje)"
+    ],
+    [
+     "¡Vamos!",
+     "Kom, we gaan!"
+    ],
+    [
+     "¡Espera!",
+     "Wacht!"
+    ],
+    [
+     "¡Cállate!",
+     "Hou je mond! (grof)"
+    ],
+    [
+     "Pasa / Pase",
+     "Kom binnen"
+    ],
+    [
+     "Siéntate / Siéntese",
+     "Ga zitten"
+    ],
+    [
+     "Perdona / Perdone",
+     "Pardon, sorry"
+    ],
+    [
+     "Oiga",
+     "Pardon (om aandacht te vragen, beleefd)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Beleefd klinken",
+   "text": "Voeg <b>por favor</b> toe: <i>Cierra la ventana, por favor.</i> Of maak van het gebod een vraag: <i>¿Puedes cerrar la ventana?</i> (informeel) / <i>¿Puede cerrar la ventana?</i> (beleefd)."
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Borden en geschreven instructies</b> gebruiken vaak de infinitief: <i>No fumar. Empujar. Tirar. Agitar antes de usar.</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "8. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "No habla tan rápido.",
+     "No hables tan rápido.",
+     "Ontkennende tú-geboden gebruiken de vorm op -es / -as, niet de él-vorm."
+    ],
+    [
+     "Haces la tarea, por favor.",
+     "Haz la tarea, por favor.",
+     "Een gebod is niet de presente. hacer heeft het onregelmatige tú-gebod haz."
+    ],
+    [
+     "Di me la verdad.",
+     "Dime la verdad.",
+     "Bij bevestigende geboden komen de voornaamwoorden vast aan het werkwoord."
+    ],
+    [
+     "No me dime nada.",
+     "No me digas nada.",
+     "Een ontkennend gebod gebruikt de ontkennende vorm: no digas."
+    ],
+    [
+     "Pon lo aquí.",
+     "Ponlo aquí.",
+     "Schrijf voornaamwoorden en werkwoord als één woord bij bevestigende geboden."
+    ],
+    [
+     "Levanta te.",
+     "Levántate.",
+     "Eén woord, met een geschreven accent op de lettergreep met klemtoon."
+    ],
+    [
+     "Sientate.",
+     "Siéntate.",
+     "Houd de klemtoon op de stam: Siéntate."
+    ],
+    [
+     "No lo haz.",
+     "No lo hagas.",
+     "Ontkennende geboden gebruiken nooit de bevestigende vorm."
+    ],
+    [
+     "Habláis más despacio, por favor.",
+     "Hablad más despacio, por favor.",
+     "Een vosotros-gebod: de -r van de infinitief wordt -d."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "9. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Schrijf het gebod. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "______ la puerta, por favor.",
+     "hint": "abrir (tú)",
+     "a": "Abre",
+     "full": "Abre la puerta, por favor."
+    },
+    {
+     "q": "______ más despacio.",
+     "hint": "hablar (tú)",
+     "a": "Habla",
+     "full": "Habla más despacio."
+    },
+    {
+     "q": "______ la verdad.",
+     "hint": "decir (tú)",
+     "a": "Di",
+     "full": "Di la verdad."
+    },
+    {
+     "q": "______ aquí, por favor.",
+     "hint": "venir (tú)",
+     "a": "Ven",
+     "full": "Ven aquí, por favor."
+    },
+    {
+     "q": "______ los deberes ahora.",
+     "hint": "hacer (tú)",
+     "a": "Haz",
+     "full": "Haz los deberes ahora."
+    },
+    {
+     "q": "No ______ tan tarde.",
+     "hint": "llegar (tú)",
+     "a": "llegues",
+     "full": "No llegues tan tarde."
+    },
+    {
+     "q": "No ______ eso.",
+     "hint": "hacer (tú)",
+     "a": "hagas",
+     "full": "No hagas eso."
+    },
+    {
+     "q": "______ el menú, por favor.",
+     "hint": "mirar (usted)",
+     "a": "Mire",
+     "full": "Mire el menú, por favor."
+    },
+    {
+     "q": "______, por favor.",
+     "hint": "sentarse (usted)",
+     "a": "Siéntese",
+     "full": "Siéntese, por favor."
+    },
+    {
+     "q": "______ en silencio, niños.",
+     "hint": "comer (vosotros)",
+     "a": "Comed",
+     "full": "Comed en silencio, niños."
+    },
+    {
+     "q": "No ______ tarde, chicos.",
+     "hint": "llegar (vosotros)",
+     "a": "lleguéis",
+     "full": "No lleguéis tarde, chicos."
+    },
+    {
+     "q": "______ con cuidado.",
+     "hint": "ir (tú)",
+     "a": "Ve",
+     "full": "Ve con cuidado."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Pas op!",
+     "a": "¡Ten cuidado!"
+    },
+    {
+     "q": "Zeg dat niet tegen me.",
+     "a": "No me digas eso."
+    },
+    {
+     "q": "Gaat u zitten, alstublieft.",
+     "a": "Siéntese, por favor."
+    },
+    {
+     "q": "Laten we naar het strand gaan!",
+     "a": "¡Vamos a la playa!"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

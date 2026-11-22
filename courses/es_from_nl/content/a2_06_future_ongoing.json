@@ -1,0 +1,806 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Werkwoorden",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Toekomst en handelingen die bezig zijn",
+  "subtitle": "Ir a + infinitief, estar + gerundio, acabar de, volver a en andere werkwoordsconstructies",
+  "footer": "Language Learning · A2 · Werkwoorden · Toekomst en handelingen die bezig zijn",
+  "next": "Volgende: A2 · pdf 7 — De gebiedende wijs (basis)"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "over plannen en de nabije toekomst praten met ir a + infinitief",
+    "zeggen wat er nu gebeurt met estar + gerundio",
+    "zeggen dat iets net gebeurd is (acabar de) of opnieuw gebeurt (volver a)",
+    "llevar, seguir, empezar a en dejar de gebruiken om te zeggen hoelang iets duurt en hoe het verloopt"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Plannen en de nabije toekomst: ir a + infinitief"
+  },
+  {
+   "type": "p",
+   "text": "Vervoeg <b>ir</b> in de presente, voeg <b>a</b> toe en dan de <b>infinitief</b>: <i>voy a estudiar</i> (ik ga studeren). Gebruik het voor plannen, voornemens en voorspellingen die je ziet aankomen."
+  },
+  {
+   "type": "conj",
+   "tense": "presente",
+   "verb": "ir",
+   "meaning": "gaan (+ a + infinitief)",
+   "label": "ir a + infinitief",
+   "forms": [
+    "*voy*",
+    "*vas*",
+    "*va*",
+    "*vamos*",
+    "*vais*",
+    "*van*"
+   ],
+   "examples": [
+    [
+     "Voy a estudiar esta noche.",
+     "Ik ga vanavond studeren."
+    ],
+    [
+     "¿Vas a venir a la fiesta?",
+     "Kom jij naar het feest?"
+    ],
+    [
+     "Ella va a viajar a Perú.",
+     "Zij gaat naar Peru reizen."
+    ],
+    [
+     "Vamos a cenar fuera.",
+     "We gaan uit eten."
+    ],
+    [
+     "¿Vais a comprar un coche?",
+     "Gaan jullie een auto kopen?"
+    ],
+    [
+     "Mis padres van a vender la casa.",
+     "Mijn ouders gaan het huis verkopen."
+    ]
+   ]
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "<b>Ontkennend:</b> <i>No voy a ir.</i> (Ik ga niet.)",
+    "<b>Voorspellingen:</b> <i>Va a llover.</i> (Het gaat regenen.) <i>Va a ser difícil.</i>",
+    "<b>Voorstel:</b> <i>¡Vamos a comer!</i> betekent 'laten we eten' en ook 'we gaan eten'.",
+    "<b>De presente werkt ook</b> voor vaste plannen: <i>Mañana trabajo.</i> <i>El sábado voy a Madrid.</i>"
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Tijdwoorden voor de toekomst",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "mañana, pasado mañana",
+     "Mañana voy a descansar.",
+     "Morgen ga ik uitrusten."
+    ],
+    [
+     "esta noche, luego, más tarde",
+     "Luego vamos a llamarte.",
+     "Straks bellen we je."
+    ],
+    [
+     "la semana que viene",
+     "La semana que viene van a venir.",
+     "Volgende week komen ze."
+    ],
+    [
+     "el próximo año / mes / verano",
+     "El próximo año voy a estudiar francés.",
+     "Volgend jaar ga ik Frans leren."
+    ],
+    [
+     "dentro de dos días",
+     "Voy a llegar dentro de dos días.",
+     "Ik kom over twee dagen aan."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Bijna hetzelfde als in het Nederlands",
+   "bullets": [
+    "<i>Ik ga studeren</i> = <b>voy a estudiar</b>. Vergeet de <b>a</b> niet.",
+    "<i>over twee dagen</i> (toekomst) = <b>dentro de dos días</b>. <i>en dos días</i> betekent 'binnen twee dagen' en is een ander idee."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Handelingen die bezig zijn: estar + gerundio"
+  },
+  {
+   "type": "p",
+   "text": "Gebruik <b>estar</b> in de presente + het <b>gerundio</b> voor iets wat <b>nu</b> of in deze periode gebeurt: <i>Estoy cocinando.</i> (Ik ben aan het koken.)"
+  },
+  {
+   "type": "p",
+   "text": "Regelmatige gerundios: werkwoorden op <b>-ar</b> krijgen <b>-ando</b>, werkwoorden op <b>-er</b> en <b>-ir</b> krijgen <b>-iendo</b>. Het gerundio verandert nooit naar geslacht of getal."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Regelmatige gerundios",
+   "check": "gerund",
+   "items": [
+    [
+     "hablar",
+     "hablando"
+    ],
+    [
+     "trabajar",
+     "trabajando"
+    ],
+    [
+     "estudiar",
+     "estudiando"
+    ],
+    [
+     "comprar",
+     "comprando"
+    ],
+    [
+     "comer",
+     "comiendo"
+    ],
+    [
+     "beber",
+     "bebiendo"
+    ],
+    [
+     "vivir",
+     "viviendo"
+    ],
+    [
+     "escribir",
+     "escribiendo"
+    ],
+    [
+     "salir",
+     "saliendo"
+    ],
+    [
+     "hacer",
+     "haciendo"
+    ],
+    [
+     "tener",
+     "teniendo"
+    ],
+    [
+     "poner",
+     "poniendo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Gerundios met y (i tussen klinkers)",
+   "check": "gerund",
+   "items": [
+    [
+     "leer",
+     "leyendo"
+    ],
+    [
+     "oír",
+     "oyendo"
+    ],
+    [
+     "traer",
+     "trayendo"
+    ],
+    [
+     "caer",
+     "cayendo"
+    ],
+    [
+     "construir",
+     "construyendo"
+    ],
+    [
+     "ir",
+     "yendo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Stamveranderende werkwoorden op -ir: o wordt u, e wordt i",
+   "check": "gerund",
+   "items": [
+    [
+     "dormir",
+     "durmiendo"
+    ],
+    [
+     "morir",
+     "muriendo"
+    ],
+    [
+     "pedir",
+     "pidiendo"
+    ],
+    [
+     "repetir",
+     "repitiendo"
+    ],
+    [
+     "seguir",
+     "siguiendo"
+    ],
+    [
+     "sentir",
+     "sintiendo"
+    ],
+    [
+     "servir",
+     "sirviendo"
+    ],
+    [
+     "decir",
+     "diciendo"
+    ],
+    [
+     "venir",
+     "viniendo"
+    ],
+    [
+     "poder",
+     "pudiendo"
+    ],
+    [
+     "preferir",
+     "prefiriendo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Alleen werkwoorden op -ir veranderen in het gerundio",
+   "text": "<i>pensar</i> geeft <b>pensando</b> en <i>volver</i> geeft <b>volviendo</b> (geen verandering), maar <i>dormir</i> geeft <b>durmiendo</b> en <i>pedir</i> geeft <b>pidiendo</b>."
+  },
+  {
+   "type": "conj",
+   "tense": "estar + gerundio",
+   "verb": "hablar",
+   "meaning": "spreken",
+   "forms": [
+    "estoy *hablando*",
+    "estás *hablando*",
+    "está *hablando*",
+    "estamos *hablando*",
+    "estáis *hablando*",
+    "están *hablando*"
+   ],
+   "examples": [
+    [
+     "Estoy hablando con mi madre.",
+     "Ik ben met mijn moeder aan het praten."
+    ],
+    [
+     "¿Estás hablando con Ana?",
+     "Ben jij met Ana aan het praten?"
+    ],
+    [
+     "Ella está hablando por teléfono.",
+     "Zij is aan het bellen."
+    ],
+    [
+     "Estamos hablando de trabajo.",
+     "We hebben het over werk."
+    ],
+    [
+     "¿Estáis hablando de mí?",
+     "Hebben jullie het over mij?"
+    ],
+    [
+     "Mis padres están hablando con el vecino.",
+     "Mijn ouders zijn met de buurman aan het praten."
+    ]
+   ],
+   "label": "regelmatig gerundio"
+  },
+  {
+   "type": "conj",
+   "tense": "estar + gerundio",
+   "verb": "comer",
+   "meaning": "eten",
+   "forms": [
+    "estoy *comiendo*",
+    "estás *comiendo*",
+    "está *comiendo*",
+    "estamos *comiendo*",
+    "estáis *comiendo*",
+    "están *comiendo*"
+   ],
+   "examples": [
+    [
+     "Estoy comiendo ahora.",
+     "Ik ben nu aan het eten."
+    ],
+    [
+     "¿Estás comiendo fuera?",
+     "Eet jij buiten de deur?"
+    ],
+    [
+     "Marta está comiendo en la cocina.",
+     "Marta zit in de keuken te eten."
+    ],
+    [
+     "Estamos comiendo paella.",
+     "We zitten paella te eten."
+    ],
+    [
+     "¿Estáis comiendo ya?",
+     "Zijn jullie al aan het eten?"
+    ],
+    [
+     "Los niños están comiendo.",
+     "De kinderen zitten te eten."
+    ]
+   ],
+   "label": "regelmatig gerundio"
+  },
+  {
+   "type": "conj",
+   "tense": "estar + gerundio",
+   "verb": "dormir",
+   "meaning": "slapen",
+   "forms": [
+    "estoy *durmiendo*",
+    "estás *durmiendo*",
+    "está *durmiendo*",
+    "estamos *durmiendo*",
+    "estáis *durmiendo*",
+    "están *durmiendo*"
+   ],
+   "examples": [
+    [
+     "Estoy durmiendo la siesta.",
+     "Ik doe een dutje."
+    ],
+    [
+     "¿Estás durmiendo?",
+     "Slaap je?"
+    ],
+    [
+     "El bebé está durmiendo.",
+     "De baby slaapt."
+    ],
+    [
+     "Estamos durmiendo en un hotel.",
+     "We slapen in een hotel."
+    ],
+    [
+     "¿Estáis durmiendo todavía?",
+     "Slapen jullie nog?"
+    ],
+    [
+     "Mis hijos están durmiendo.",
+     "Mijn kinderen slapen."
+    ]
+   ],
+   "label": "onregelmatig gerundio"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.8,
+    6.6,
+    5.6
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "Op dit moment",
+     "Ahora mismo estoy estudiando.",
+     "Op dit moment ben ik aan het studeren."
+    ],
+    [
+     "Deze periode",
+     "Este año estoy viviendo en Madrid.",
+     "Dit jaar woon ik in Madrid."
+    ],
+    [
+     "Situatie in het verleden (imperfecto)",
+     "Estaba leyendo cuando llegaste.",
+     "Ik zat te lezen toen je aankwam."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse aan het",
+   "text": "<i>Ik ben aan het koken</i> = <b>Estoy cocinando</b>. Voor gewoontes gebruikt het Spaans de gewone presente (<i>Cocino todos los días</i>), net als het Nederlands. Het gerundio is voor de handeling die bezig is."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Voornaamwoorden bij het gerundio",
+   "text": "Wederkerende voornaamwoorden en voornaamwoorden als voorwerp staan <b>voor estar</b> of <b>vast aan het gerundio</b> (en dan krijgt het gerundio een accent): <b>Me estoy duchando</b> = <b>Estoy duchándome</b>. Nooit ertussen: <i>Estoy me duchando</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Net gedaan, opnieuw doen, hoelang"
+  },
+  {
+   "type": "p",
+   "text": "<b>acabar de + infinitief</b> = net iets gedaan hebben:"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    4.6,
+    7.2
+   ],
+   "head": [
+    "Persoon",
+    "Vorm",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "acabo de",
+     "Acabo de llegar a casa."
+    ],
+    [
+     "tú",
+     "acabas de",
+     "¿Acabas de despertarte?"
+    ],
+    [
+     "él / ella / usted",
+     "acaba de",
+     "Ana acaba de salir."
+    ],
+    [
+     "nosotros / nosotras",
+     "acabamos de",
+     "Acabamos de comer."
+    ],
+    [
+     "vosotros / vosotras",
+     "acabáis de",
+     "¿Acabáis de volver?"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "acaban de",
+     "Mis padres acaban de llamar."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>volver a + infinitief</b> = iets opnieuw doen (volver verandert o in ue in de presente):"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    4.6,
+    7.2
+   ],
+   "head": [
+    "Persoon",
+    "Vorm",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "yo",
+     "vuelvo a",
+     "Vuelvo a intentarlo."
+    ],
+    [
+     "tú",
+     "vuelves a",
+     "¿Vuelves a llamar mañana?"
+    ],
+    [
+     "él / ella / usted",
+     "vuelve a",
+     "Ella vuelve a trabajar el lunes."
+    ],
+    [
+     "nosotros / nosotras",
+     "volvemos a",
+     "Volvemos a vernos pronto."
+    ],
+    [
+     "vosotros / vosotras",
+     "volvéis a",
+     "¿Volvéis a cenar aquí?"
+    ],
+    [
+     "ellos / ellas / ustedes",
+     "vuelven a",
+     "Vuelven a hacer lo mismo."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.8,
+    6.6,
+    5.6
+   ],
+   "head": [
+    "Constructie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "acabar de + infinitief",
+     "Acabo de comer.",
+     "Ik heb net gegeten."
+    ],
+    [
+     "acababa de + infinitief",
+     "Acababa de salir cuando llamaste.",
+     "Ik was net weg toen je belde."
+    ],
+    [
+     "volver a + infinitief",
+     "Volví a intentarlo.",
+     "Ik heb het opnieuw geprobeerd."
+    ],
+    [
+     "llevar + tijd + gerundio",
+     "Llevo dos años estudiando español.",
+     "Ik leer al twee jaar Spaans."
+    ],
+    [
+     "seguir + gerundio",
+     "Sigo viviendo en Madrid.",
+     "Ik woon nog steeds in Madrid."
+    ],
+    [
+     "empezar a + infinitief",
+     "Empecé a estudiar español hace un año.",
+     "Ik ben een jaar geleden begonnen met Spaans leren."
+    ],
+    [
+     "ponerse a + infinitief",
+     "Se puso a llover de repente.",
+     "Het begon plotseling te regenen."
+    ],
+    [
+     "dejar de + infinitief",
+     "Dejé de fumar en 2020.",
+     "Ik ben in 2020 gestopt met roken."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Het Nederlandse net en weer, plus nog twee",
+   "bullets": [
+    "<i>net</i> = <b>acabar de</b>: <i>Ik ben net aangekomen</i> = <b>Acabo de llegar</b>.",
+    "<i>weer</i> (opnieuw) = <b>volver a</b>. <i>Ik ben al twee jaar aan het studeren</i> = <b>Llevo dos años estudiando</b>.",
+    "Verder: <b>terminar de</b> + infinitief (<i>Terminé de trabajar a las seis</i>) en <b>aprender a</b> + infinitief (<i>Aprendí a nadar de niño</i>)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Voy estudiar mañana.",
+     "Voy a estudiar mañana.",
+     "ir heeft de a voor de infinitief nodig."
+    ],
+    [
+     "Estoy estudio ahora.",
+     "Estoy estudiando ahora.",
+     "Gebruik na estar het gerundio, niet de presente."
+    ],
+    [
+     "Estoy comendo.",
+     "Estoy comiendo.",
+     "Werkwoorden op -er: -iendo."
+    ],
+    [
+     "Estoy leiendo.",
+     "Estoy leyendo.",
+     "Tussen klinkers wordt de i een y."
+    ],
+    [
+     "Estoy dormiendo.",
+     "Estoy durmiendo.",
+     "Werkwoorden op -ir veranderen o in u in het gerundio."
+    ],
+    [
+     "Estoy me duchando.",
+     "Me estoy duchando.",
+     "Het voornaamwoord staat voor estar of vast aan het gerundio (duchándome)."
+    ],
+    [
+     "Acabo llegar.",
+     "Acabo de llegar.",
+     "acabar heeft de nodig."
+    ],
+    [
+     "Vuelvo hacerlo.",
+     "Vuelvo a hacerlo.",
+     "volver heeft a nodig voor 'opnieuw'."
+    ],
+    [
+     "Llevo dos años a estudiar español.",
+     "Llevo dos años estudiando español.",
+     "llevar + tijd gebruikt het gerundio."
+    ],
+    [
+     "Mañana estoy trabajando.",
+     "Mañana trabajo. / Mañana voy a trabajar.",
+     "Estar + gerundio beschrijft wat nu bezig is. Voor plannen gebruik je de presente of ir a."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "5. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Maak elke zin af met de juiste vorm. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Werkwoord"
+   ],
+   "items": [
+    {
+     "q": "Mañana ______ visitar a mis abuelos.",
+     "hint": "ir a (yo)",
+     "a": "voy a",
+     "full": "Mañana voy a visitar a mis abuelos."
+    },
+    {
+     "q": "¿______ venir a la fiesta?",
+     "hint": "ir a (tú)",
+     "a": "Vas a",
+     "full": "¿Vas a venir a la fiesta?"
+    },
+    {
+     "q": "Nosotros ______ cenar fuera esta noche.",
+     "hint": "ir a (nosotros)",
+     "a": "vamos a",
+     "full": "Nosotros vamos a cenar fuera esta noche."
+    },
+    {
+     "q": "Mis padres ______ comprar un piso.",
+     "hint": "ir a (ellos)",
+     "a": "van a",
+     "full": "Mis padres van a comprar un piso."
+    },
+    {
+     "q": "Ahora mismo yo ______ la cena.",
+     "hint": "preparar (yo, estar + gerundio)",
+     "a": "estoy preparando",
+     "full": "Ahora mismo yo estoy preparando la cena."
+    },
+    {
+     "q": "¿Qué ______ ahora?",
+     "hint": "hacer (tú, estar + gerundio)",
+     "a": "estás haciendo",
+     "full": "¿Qué estás haciendo ahora?"
+    },
+    {
+     "q": "Los niños ______ en el jardín.",
+     "hint": "jugar (ellos, estar + gerundio)",
+     "a": "están jugando",
+     "full": "Los niños están jugando en el jardín."
+    },
+    {
+     "q": "Ella ______ una carta.",
+     "hint": "escribir (ella, estar + gerundio)",
+     "a": "está escribiendo",
+     "full": "Ella está escribiendo una carta."
+    },
+    {
+     "q": "El bebé ______ ahora.",
+     "hint": "dormir (él, estar + gerundio)",
+     "a": "está durmiendo",
+     "full": "El bebé está durmiendo ahora."
+    },
+    {
+     "q": "Yo ______ llegar a casa.",
+     "hint": "acabar de (yo)",
+     "a": "acabo de",
+     "full": "Yo acabo de llegar a casa."
+    },
+    {
+     "q": "Ella ______ llamar a su madre.",
+     "hint": "volver a (ella)",
+     "a": "vuelve a",
+     "full": "Ella vuelve a llamar a su madre."
+    },
+    {
+     "q": "______ dos años estudiando español.",
+     "hint": "llevar (yo)",
+     "a": "Llevo",
+     "full": "Llevo dos años estudiando español."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik ga volgende zomer reizen.",
+     "a": "Voy a viajar el próximo verano."
+    },
+    {
+     "q": "Zij is een boek aan het lezen.",
+     "a": "Está leyendo un libro."
+    },
+    {
+     "q": "We zijn net aangekomen.",
+     "a": "Acabamos de llegar."
+    },
+    {
+     "q": "Ze zijn weer aan het werk.",
+     "a": "Vuelven a trabajar."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
