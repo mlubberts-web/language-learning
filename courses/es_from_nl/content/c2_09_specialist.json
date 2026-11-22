@@ -1,0 +1,627 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Woordenschat",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Vakwoordenschat",
+  "subtitle": "termen uit recht, geneeskunde, technologie, economie en techniek voor professioneel Spaans",
+  "footer": "Language Learning · C2 · Woordenschat · Vaktermen",
+  "next": "Volgende: C2 · pdf 10 — Uitdrukkingen voor meesterschap"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "in het Spaans praten over recht, gezondheid, technologie en economie",
+    "vakteksten lezen met minder hulp van een woordenboek",
+    "praten over techniek en logistiek",
+    "de typische valse vrienden in vaktaal vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Recht en justitie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Recht",
+   "items": [
+    [
+     "la demanda",
+     "rechtszaak, aanklacht"
+    ],
+    [
+     "el juicio",
+     "proces"
+    ],
+    [
+     "el tribunal",
+     "rechtbank"
+    ],
+    [
+     "la sentencia",
+     "uitspraak"
+    ],
+    [
+     "el juez / la jueza",
+     "rechter"
+    ],
+    [
+     "el abogado",
+     "advocaat"
+    ],
+    [
+     "el testigo",
+     "getuige"
+    ],
+    [
+     "la prueba",
+     "bewijs"
+    ],
+    [
+     "el delito",
+     "misdrijf"
+    ],
+    [
+     "la multa",
+     "boete"
+    ],
+    [
+     "la condena",
+     "vonnis, straf"
+    ],
+    [
+     "el recurso",
+     "hoger beroep"
+    ],
+    [
+     "el acusado",
+     "verdachte"
+    ],
+    [
+     "la fianza",
+     "borgtocht"
+    ],
+    [
+     "el contrato",
+     "contract"
+    ],
+    [
+     "la cláusula",
+     "clausule"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Geneeskunde en gezondheid"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Geneeskunde",
+   "items": [
+    [
+     "la dolencia",
+     "kwaal"
+    ],
+    [
+     "el diagnóstico",
+     "diagnose"
+    ],
+    [
+     "el tratamiento",
+     "behandeling"
+    ],
+    [
+     "la receta",
+     "recept"
+    ],
+    [
+     "el síntoma",
+     "symptoom"
+    ],
+    [
+     "la consulta",
+     "afspraak, spreekuur"
+    ],
+    [
+     "las urgencias",
+     "spoedeisende hulp"
+    ],
+    [
+     "el ingreso",
+     "opname"
+    ],
+    [
+     "la cirugía",
+     "operatie"
+    ],
+    [
+     "el analgésico",
+     "pijnstiller"
+    ],
+    [
+     "la tensión",
+     "bloeddruk"
+    ],
+    [
+     "la fiebre",
+     "koorts"
+    ],
+    [
+     "la herida",
+     "wond"
+    ],
+    [
+     "la vacuna",
+     "vaccin"
+    ],
+    [
+     "el seguro",
+     "verzekering"
+    ],
+    [
+     "la baja médica",
+     "ziekteverlof"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Technologie"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Technologie",
+   "items": [
+    [
+     "el algoritmo",
+     "algoritme"
+    ],
+    [
+     "la nube",
+     "de cloud"
+    ],
+    [
+     "la red",
+     "netwerk"
+    ],
+    [
+     "el dato",
+     "gegeven"
+    ],
+    [
+     "el cortafuegos",
+     "firewall"
+    ],
+    [
+     "la contraseña",
+     "wachtwoord"
+    ],
+    [
+     "el servidor",
+     "server"
+    ],
+    [
+     "la copia de seguridad",
+     "back-up"
+    ],
+    [
+     "el código abierto",
+     "open source"
+    ],
+    [
+     "la aplicación",
+     "app"
+    ],
+    [
+     "el archivo",
+     "bestand"
+    ],
+    [
+     "descargar",
+     "downloaden"
+    ],
+    [
+     "la inteligencia artificial",
+     "kunstmatige intelligentie"
+    ],
+    [
+     "el aprendizaje automático",
+     "machinaal leren"
+    ],
+    [
+     "la ciberseguridad",
+     "cyberbeveiliging"
+    ],
+    [
+     "la pantalla",
+     "scherm"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Economie en financiën"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Economie",
+   "items": [
+    [
+     "el PIB",
+     "bbp"
+    ],
+    [
+     "la inflación",
+     "inflatie"
+    ],
+    [
+     "los tipos de interés",
+     "rentetarieven"
+    ],
+    [
+     "la bolsa",
+     "beurs"
+    ],
+    [
+     "la acción",
+     "aandeel"
+    ],
+    [
+     "el bono",
+     "obligatie"
+    ],
+    [
+     "el déficit",
+     "tekort"
+    ],
+    [
+     "la recesión",
+     "recessie"
+    ],
+    [
+     "la hipoteca",
+     "hypotheek"
+    ],
+    [
+     "el alquiler",
+     "huur"
+    ],
+    [
+     "la nómina",
+     "loonstrook"
+    ],
+    [
+     "el autónomo",
+     "zzp'er"
+    ],
+    [
+     "la cotización",
+     "premie, bijdrage"
+    ],
+    [
+     "el IVA",
+     "btw"
+    ],
+    [
+     "la declaración de la renta",
+     "belastingaangifte"
+    ],
+    [
+     "el convenio",
+     "cao"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "5. Techniek en logistiek"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Techniek",
+   "items": [
+    [
+     "la cadena de suministro",
+     "toeleveringsketen"
+    ],
+    [
+     "el almacén",
+     "magazijn"
+    ],
+    [
+     "la pieza",
+     "onderdeel"
+    ],
+    [
+     "el plano",
+     "tekening"
+    ],
+    [
+     "el rodamiento",
+     "lager"
+    ],
+    [
+     "el engranaje",
+     "tandwiel"
+    ],
+    [
+     "la soldadura",
+     "las"
+    ],
+    [
+     "la aleación",
+     "legering"
+    ],
+    [
+     "el esfuerzo",
+     "spanning (mechanisch)"
+    ],
+    [
+     "la tolerancia",
+     "tolerantie"
+    ],
+    [
+     "el mantenimiento",
+     "onderhoud"
+    ],
+    [
+     "la fiabilidad",
+     "betrouwbaarheid"
+    ],
+    [
+     "el rendimiento",
+     "rendement"
+    ],
+    [
+     "el par",
+     "koppel"
+    ],
+    [
+     "la fresadora",
+     "freesmachine"
+    ],
+    [
+     "el torno",
+     "draaibank"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Verwarrende paren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.6,
+    4.4,
+    3.8
+   ],
+   "head": [
+    "Woord",
+    "Betekenis",
+    "Niet verwarren met",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "la sentencia",
+     "vonnis, uitspraak",
+     "la frase (zin)",
+     "El juez dictó sentencia."
+    ],
+    [
+     "la demanda",
+     "aanklacht, vraag (economie)",
+     "la petición",
+     "Presentó una demanda."
+    ],
+    [
+     "la tensión",
+     "bloeddruk, elektrische spanning",
+     "el esfuerzo (mechanische spanning)",
+     "Tengo la tensión alta."
+    ],
+    [
+     "el rendimiento",
+     "prestatie, rendement",
+     "la eficacia",
+     "El rendimiento del motor."
+    ],
+    [
+     "la carrera",
+     "studie, loopbaan, wedstrijd",
+     "la profesión",
+     "Estudio una carrera."
+    ],
+    [
+     "el impuesto",
+     "belasting",
+     "la tasa (heffing, tarief)",
+     "Pago impuestos."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Pagué las taxes.",
+     "Pagué los impuestos.",
+     "taxes is Engels."
+    ],
+    [
+     "El juez dio una frase de cinco años.",
+     "El juez dictó una sentencia de cinco años.",
+     "sentencia = vonnis."
+    ],
+    [
+     "Voy a hacer una fiebre.",
+     "Tengo fiebre.",
+     "tener fiebre."
+    ],
+    [
+     "La stress del material es alta.",
+     "El esfuerzo del material es alto.",
+     "esfuerzo = mechanische spanning."
+    ],
+    [
+     "Tengo una constipación.",
+     "Estoy constipado. / Tengo un resfriado.",
+     "constipado = verkouden."
+    ],
+    [
+     "Soy autónomo y tengo un jefe fijo.",
+     "Soy autónomo y trabajo por cuenta propia.",
+     "autónomo = zzp'er."
+    ],
+    [
+     "Hay que hacer el backup.",
+     "Hay que hacer la copia de seguridad.",
+     "Spaanse tegenhanger."
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "8. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El juez dictó ______.",
+     "hint": "vonnis",
+     "a": "sentencia",
+     "full": "El juez dictó sentencia."
+    },
+    {
+     "q": "Necesito una ______ para este medicamento.",
+     "hint": "recept",
+     "a": "receta",
+     "full": "Necesito una receta para este medicamento."
+    },
+    {
+     "q": "Pago el ______ del veintiuno por ciento en las facturas.",
+     "hint": "btw",
+     "a": "IVA",
+     "full": "Pago el IVA del veintiuno por ciento en las facturas."
+    },
+    {
+     "q": "Mi ______ llega a final de mes.",
+     "hint": "loonstrook",
+     "a": "nómina",
+     "full": "Mi nómina llega a final de mes."
+    },
+    {
+     "q": "Hay que hacer una copia de ______.",
+     "hint": "beveiliging",
+     "a": "seguridad",
+     "full": "Hay que hacer una copia de seguridad."
+    },
+    {
+     "q": "La ______ une las dos piezas.",
+     "hint": "las",
+     "a": "soldadura",
+     "full": "La soldadura une las dos piezas."
+    },
+    {
+     "q": "El ______ transmite el movimiento entre dos ejes.",
+     "hint": "tandwiel",
+     "a": "engranaje",
+     "full": "El engranaje transmite el movimiento entre dos ejes."
+    },
+    {
+     "q": "Mi hermano es ______ y no tiene jefe.",
+     "hint": "zzp'er",
+     "a": "autónomo",
+     "full": "Mi hermano es autónomo y no tiene jefe."
+    },
+    {
+     "q": "El abogado presentó un ______.",
+     "hint": "hoger beroep",
+     "a": "recurso",
+     "full": "El abogado presentó un recurso."
+    },
+    {
+     "q": "Los ______ de interés subieron.",
+     "hint": "tarieven",
+     "a": "tipos",
+     "full": "Los tipos de interés subieron."
+    },
+    {
+     "q": "El ______ ha bajado un tres por ciento.",
+     "hint": "bbp",
+     "a": "PIB",
+     "full": "El PIB ha bajado un tres por ciento."
+    },
+    {
+     "q": "La ______ de suministro tuvo retrasos.",
+     "hint": "keten",
+     "a": "cadena",
+     "full": "La cadena de suministro tuvo retrasos."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "De rechter deed uitspraak.",
+     "a": "El juez dictó sentencia."
+    },
+    {
+     "q": "Ik heb een recept nodig.",
+     "a": "Necesito una receta."
+    },
+    {
+     "q": "De toeleveringsketen had vertraging.",
+     "a": "La cadena de suministro tuvo retrasos."
+    },
+    {
+     "q": "Ik betaal elk jaar mijn belastingen.",
+     "a": "Pago mis impuestos cada año."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

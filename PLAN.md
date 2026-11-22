@@ -94,7 +94,7 @@ Choices made (Menno can overrule any of them):
 - [x] 2.3 B1
 - [x] 2.4 B2
 - [x] 2.5 C1
-- [ ] 2.6 C2
+- [x] 2.6 C2
 - [ ] 2.7 Themed lists in Dutch (32 files).
 - [ ] 2.8 Dutch-specific notes: false friends and typical mistakes of Dutch speakers.
 - [ ] 2.9 🙋 Menno spot-checks a few units.

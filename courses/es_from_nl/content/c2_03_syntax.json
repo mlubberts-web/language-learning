@@ -1,0 +1,475 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Grammatica",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Gevorderde zinsbouw en woordvolgorde",
+  "subtitle": "gemarkeerde woordvolgorde, plaats van het bijvoeglijk naamwoord, gespleten zinnen, losse constructies, uitroepen en weglatingen",
+  "footer": "Language Learning · C2 · Grammatica · Gevorderde zinsbouw",
+  "next": "Volgende: C2 · pdf 4 — Dequeísmo, queísmo en vaste voorzetsels bij werkwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "woorden verplaatsen voor nadruk zonder de grammatica te breken",
+    "de juiste plaats van het bijvoeglijk naamwoord kiezen als die de betekenis verandert",
+    "gespleten zinnen en losse deelwoordconstructies maken",
+    "uitroepen en weglatingen gebruiken zoals een moedertaalschrijver"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Gemarkeerde woordvolgorde"
+  },
+  {
+   "type": "p",
+   "text": "De Spaanse woordvolgorde is flexibel. De neutrale volgorde is onderwerp-werkwoord-voorwerp, maar als je een woord naar voren of naar achteren verplaatst, krijgt het <b>nadruk</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.4,
+    6.2
+   ],
+   "head": [
+    "Effect",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "onderwerp na het werkwoord (nieuwe informatie)",
+     "Llegó Juan.",
+     "Juan is aangekomen. (nieuws)"
+    ],
+    [
+     "onderwerp na het werkwoord (vraag)",
+     "¿Qué dijo el director?",
+     "Wat zei de directeur?"
+    ],
+    [
+     "lijdend voorwerp vooraan + voornaamwoord",
+     "El libro lo compré ayer.",
+     "Het boek heb ik gisteren gekocht."
+    ],
+    [
+     "lijdend voorwerp vooraan voor contrast",
+     "Eso no lo sé.",
+     "Dat weet ik niet."
+    ],
+    [
+     "focus zonder voornaamwoord",
+     "DINERO necesito, no consejos.",
+     "GELD heb ik nodig, geen adviezen."
+    ],
+    [
+     "werkwoord eerst (verhalend)",
+     "Era una noche oscura y fría.",
+     "Het was een donkere, koude nacht."
+    ],
+    [
+     "bijwoord vooraan",
+     "Ayer por la noche vimos una película.",
+     "Gisteravond hebben we een film gekeken."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Nederlandstalige leerders",
+   "text": "Het Nederlands zet na een bijwoord het werkwoord op de tweede plaats (<i>Gisteren zag ik hem</i>). Het Spaans keert de volgorde niet om: <i>Ayer lo vi</i>, niet *Ayer vi yo lo."
+  },
+  {
+   "type": "h1",
+   "text": "2. Bijvoeglijke naamwoorden die met hun plaats van betekenis veranderen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    5.6,
+    5.6,
+    2.4
+   ],
+   "head": [
+    "Bijv. nw.",
+    "Vóór het zelfst. nw.",
+    "Na het zelfst. nw.",
+    ""
+   ],
+   "rows": [
+    [
+     "grande",
+     "un gran hombre (groot, belangrijk)",
+     "un hombre grande (groot van stuk)",
+     ""
+    ],
+    [
+     "pobre",
+     "un pobre hombre (zielig)",
+     "un hombre pobre (zonder geld)",
+     ""
+    ],
+    [
+     "nuevo",
+     "un nuevo coche (een andere auto)",
+     "un coche nuevo (gloednieuw)",
+     ""
+    ],
+    [
+     "antiguo",
+     "mi antiguo jefe (voormalig)",
+     "un edificio antiguo (oud)",
+     ""
+    ],
+    [
+     "cierto",
+     "cierto problema (een zeker)",
+     "un dato cierto (waar)",
+     ""
+    ],
+    [
+     "simple",
+     "un simple error (gewoon, slechts)",
+     "un hombre simple (eenvoudig van geest)",
+     ""
+    ],
+    [
+     "único",
+     "mi único hijo (enig)",
+     "una obra única (uniek)",
+     ""
+    ],
+    [
+     "viejo",
+     "un viejo amigo (al lang)",
+     "un amigo viejo (op leeftijd)",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Gespleten zinnen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "ser + onderwerp + quien",
+     "Fue Juan quien lo hizo.",
+     "Het was Juan die het deed."
+    ],
+    [
+     "ser + plaats + donde",
+     "Es en Madrid donde vivo.",
+     "Het is in Madrid dat ik woon."
+    ],
+    [
+     "ser + tijd + cuando",
+     "Fue ayer cuando lo supe.",
+     "Het was gisteren dat ik het hoorde."
+    ],
+    [
+     "lo que + werkwoord + es",
+     "Lo que necesito es descanso.",
+     "Wat ik nodig heb, is rust."
+    ],
+    [
+     "lo que pasa es que",
+     "Lo que pasa es que no tengo tiempo.",
+     "Het punt is dat ik geen tijd heb."
+    ],
+    [
+     "por eso... es que",
+     "Por eso es que no vino.",
+     "Daarom is hij niet gekomen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Losse constructies"
+  },
+  {
+   "type": "p",
+   "text": "Deelwoord + zelfstandig naamwoord, waarbij het deelwoord zich aanpast in geslacht en getal. Ze vervangen een bijzin (tijd, oorzaak, voorwaarde) en geven een compacte schrijfstijl."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.2,
+    5.6
+   ],
+   "head": [
+    "Structuur",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "deelwoord + zelfst. nw.",
+     "Hechas las compras, volvimos a casa.",
+     "Toen de boodschappen gedaan waren, gingen we naar huis."
+    ],
+    [
+     "una vez + deelwoord",
+     "Una vez terminada la clase, salimos.",
+     "Zodra de les afgelopen was, gingen we weg."
+    ],
+    [
+     "dicho esto",
+     "Dicho esto, terminamos la reunión.",
+     "Dat gezegd hebbende, sloten we de vergadering af."
+    ],
+    [
+     "llegado el momento",
+     "Llegado el momento, actuaremos.",
+     "Als het zover is, komen we in actie."
+    ],
+    [
+     "dadas las circunstancias",
+     "Dadas las circunstancias, no podemos.",
+     "Gezien de omstandigheden kunnen we het niet."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Uitroepen en weglatingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "qué + bijv. nw.",
+     "¡Qué bonito es!",
+     "Wat is het mooi!"
+    ],
+    [
+     "qué + zelfst. nw. + más/tan",
+     "¡Qué día más largo!",
+     "Wat een lange dag!"
+    ],
+    [
+     "cuánto + werkwoord",
+     "¡Cuánto has crecido!",
+     "Wat ben je gegroeid!"
+    ],
+    [
+     "vaya + zelfst. nw.",
+     "¡Vaya sorpresa!",
+     "Wat een verrassing!"
+    ],
+    [
+     "weglating: gedeeld werkwoord",
+     "Yo como carne y ella, pescado.",
+     "Ik eet vlees en zij vis."
+    ],
+    [
+     "weglating: antwoord",
+     "¿Café? Sí, con leche.",
+     "Koffie? Ja, met melk."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ayer vi yo la película.",
+     "Ayer vi la película.",
+     "geen omkering zoals in het Nederlands."
+    ],
+    [
+     "Era un hombre grande, todos lo admiraban. (great)",
+     "Era un gran hombre, todos lo admiraban.",
+     "gran vóór het zelfst. nw. = groot, belangrijk."
+    ],
+    [
+     "Es un pobre hombre, no tiene dinero. (poor)",
+     "Es un hombre pobre, no tiene dinero.",
+     "pobre erachter = zonder geld."
+    ],
+    [
+     "Hecho las compras, volvimos.",
+     "Hechas las compras, volvimos.",
+     "het deelwoord past bij het zelfst. nw."
+    ],
+    [
+     "Fue Juan que lo hizo.",
+     "Fue Juan quien lo hizo.",
+     "personen: quien."
+    ],
+    [
+     "Qué bonito que es!",
+     "¡Qué bonito es!",
+     "geen que na het bijv. nw.; zet ¡ aan het begin."
+    ],
+    [
+     "Lo libro compré ayer.",
+     "El libro lo compré ayer.",
+     "lo is hier het voornaamwoord, niet het lidwoord."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ las compras, volvimos a casa.",
+     "hint": "hacer: deelwoord, vrouwelijk meervoud, hoofdletter",
+     "a": "Hechas",
+     "full": "Hechas las compras, volvimos a casa."
+    },
+    {
+     "q": "Es en Madrid ______ vivo.",
+     "hint": "betrekkelijk voornaamwoord",
+     "a": "donde",
+     "full": "Es en Madrid donde vivo."
+    },
+    {
+     "q": "Fue Juan ______ lo hizo.",
+     "hint": "betrekkelijk voornaamwoord voor personen",
+     "a": "quien",
+     "full": "Fue Juan quien lo hizo."
+    },
+    {
+     "q": "¡______ bonito es!",
+     "hint": "uitroep",
+     "a": "Qué",
+     "full": "¡Qué bonito es!"
+    },
+    {
+     "q": "¡______ has crecido!",
+     "hint": "hoeveel",
+     "a": "Cuánto",
+     "full": "¡Cuánto has crecido!"
+    },
+    {
+     "q": "Era un ______ hombre, admirado por todos.",
+     "hint": "grande: groot, belangrijk, vóór het zelfst. nw.",
+     "a": "gran",
+     "full": "Era un gran hombre, admirado por todos."
+    },
+    {
+     "q": "Es un hombre ______, no tiene dinero.",
+     "hint": "pobre: zonder geld",
+     "a": "pobre",
+     "full": "Es un hombre pobre, no tiene dinero."
+    },
+    {
+     "q": "Mi ______ jefe se jubiló.",
+     "hint": "antiguo: voormalig",
+     "a": "antiguo",
+     "full": "Mi antiguo jefe se jubiló."
+    },
+    {
+     "q": "Eso no ______ sé.",
+     "hint": "voornaamwoord als lijdend voorwerp",
+     "a": "lo",
+     "full": "Eso no lo sé."
+    },
+    {
+     "q": "Llegado ______ momento, actuaremos.",
+     "hint": "lidwoord",
+     "a": "el",
+     "full": "Llegado el momento, actuaremos."
+    },
+    {
+     "q": "Lo ______ pasa es que no tengo tiempo.",
+     "hint": "dat",
+     "a": "que",
+     "full": "Lo que pasa es que no tengo tiempo."
+    },
+    {
+     "q": "Dicho ______, terminamos la reunión.",
+     "hint": "dit",
+     "a": "esto",
+     "full": "Dicho esto, terminamos la reunión."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Het was Ana die het me vertelde.",
+     "a": "Fue Ana quien me lo dijo."
+    },
+    {
+     "q": "Zodra het werk af was, gingen we weg.",
+     "a": "Una vez terminado el trabajo, nos fuimos."
+    },
+    {
+     "q": "Hij was een groot man.",
+     "a": "Era un gran hombre."
+    },
+    {
+     "q": "Wat een lange dag!",
+     "a": "¡Qué día más largo!"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

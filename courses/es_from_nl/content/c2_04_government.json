@@ -1,0 +1,499 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Grammatica",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Dequeísmo, queísmo en vaste voorzetsels bij werkwoorden",
+  "subtitle": "welke werkwoorden de, en, a of con nodig hebben voor que, voegwoorden met de, en de persoonlijke a",
+  "footer": "Language Learning · C2 · Grammatica · Vaste voorzetsels",
+  "next": "Volgende: C2 · pdf 5 — Retoriek en stijlfiguren"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "meteen zien of een werkwoord de, en, a of con nodig heeft voor que",
+    "dequeísmo (een overbodige de) en queísmo (een ontbrekende de) vermijden",
+    "de persoonlijke a goed gebruiken, ook in grensgevallen",
+    "de vraagtest gebruiken om elke twijfelachtige zin te controleren"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Het probleem"
+  },
+  {
+   "type": "p",
+   "text": "<b>Dequeísmo</b> = <i>de</i> toevoegen waar het niet mag (*Pienso de que...). <b>Queísmo</b> = <i>de</i> weglaten waar het verplicht is (*Me alegro que...). Beide komen veel voor in spreektaal; op C2-niveau moet je ze goed doen."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "De vraagtest",
+   "bullets": [
+    "Maak van de zin een vraag over de bijzin.",
+    "Heeft de vraag het voorzetsel nodig (<i>¿De qué te das cuenta?</i>), houd dan de: <i>Me doy cuenta de que...</i>",
+    "Werkt de vraag zonder (<i>¿Qué piensas?</i>), laat de dan weg: <i>Pienso que...</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Werkwoorden die een voorzetsel nodig hebben voor que"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    3.2,
+    5.6,
+    4.2
+   ],
+   "head": [
+    "Werkwoord",
+    "Voorzetsel",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "darse cuenta",
+     "de",
+     "Me di cuenta de que mentía.",
+     "Ik besefte dat hij loog."
+    ],
+    [
+     "acordarse",
+     "de",
+     "Me acuerdo de que llamó.",
+     "Ik herinner me dat hij belde."
+    ],
+    [
+     "alegrarse",
+     "de",
+     "Me alegro de que vengas.",
+     "Ik ben blij dat je komt."
+    ],
+    [
+     "estar seguro",
+     "de",
+     "Estoy seguro de que ganará.",
+     "Ik weet zeker dat hij wint."
+    ],
+    [
+     "quejarse",
+     "de",
+     "Se queja de que hay ruido.",
+     "Hij klaagt dat er lawaai is."
+    ],
+    [
+     "enterarse",
+     "de",
+     "Me enteré de que se casa.",
+     "Ik hoorde dat hij gaat trouwen."
+    ],
+    [
+     "insistir",
+     "en",
+     "Insisto en que vengas.",
+     "Ik sta erop dat je komt."
+    ],
+    [
+     "confiar",
+     "en",
+     "Confío en que apruebes.",
+     "Ik vertrouw erop dat je slaagt."
+    ],
+    [
+     "consistir",
+     "en",
+     "Consiste en que todos ganan.",
+     "Het komt erop neer dat iedereen wint."
+    ],
+    [
+     "fijarse",
+     "en",
+     "Fíjate en que no hay luz.",
+     "Let op: er is geen licht."
+    ],
+    [
+     "contar",
+     "con",
+     "Cuento con que me ayudes.",
+     "Ik reken erop dat je me helpt."
+    ],
+    [
+     "convencer",
+     "de",
+     "Lo convencí de que viniera.",
+     "Ik heb hem overgehaald te komen."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Werkwoorden die direct que krijgen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.8,
+    3.6,
+    4.0
+   ],
+   "head": [
+    "Werkwoord",
+    "Voorbeeld",
+    "Wijs",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "decir",
+     "Dice que vendrá tarde.",
+     "indicativo",
+     "Hij zegt dat hij laat komt."
+    ],
+    [
+     "pensar / creer",
+     "Creo que tienes razón.",
+     "indicativo",
+     "Ik denk dat je gelijk hebt."
+    ],
+    [
+     "opinar",
+     "Opino que es un error.",
+     "indicativo",
+     "Ik vind dat het een vergissing is."
+    ],
+    [
+     "parecer",
+     "Parece que va a llover.",
+     "indicativo",
+     "Het lijkt erop dat het gaat regenen."
+    ],
+    [
+     "temer",
+     "Temo que sea tarde.",
+     "subjuntivo",
+     "Ik vrees dat het te laat is."
+    ],
+    [
+     "esperar",
+     "Espero que vengas.",
+     "subjuntivo",
+     "Ik hoop dat je komt."
+    ],
+    [
+     "suponer",
+     "Supongo que sí.",
+     "indicativo",
+     "Ik denk het wel."
+    ],
+    [
+     "afirmar",
+     "Afirma que lo vio.",
+     "indicativo",
+     "Hij beweert dat hij het zag."
+    ],
+    [
+     "querer",
+     "Quiero que me ayudes.",
+     "subjuntivo",
+     "Ik wil dat je me helpt."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Voegwoorden met en zonder de"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.4,
+    5.6
+   ],
+   "head": [
+    "Voegwoord",
+    "Voorbeeld",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "antes de que",
+     "Llámame antes de que salgas.",
+     "de verplicht"
+    ],
+    [
+     "después de que",
+     "Hablamos después de que cenes.",
+     "de verplicht"
+    ],
+    [
+     "a pesar de que",
+     "A pesar de que llovía, salimos.",
+     "de verplicht"
+    ],
+    [
+     "en caso de que",
+     "En caso de que llueva, no salimos.",
+     "de verplicht"
+    ],
+    [
+     "con tal de que",
+     "Voy con tal de que vengas.",
+     "de verplicht"
+    ],
+    [
+     "ya que / puesto que",
+     "Ya que estás aquí, ayuda.",
+     "zonder de"
+    ],
+    [
+     "es posible que",
+     "Es posible que llegue tarde.",
+     "zonder de"
+    ],
+    [
+     "es hora de que",
+     "Es hora de que te vayas.",
+     "de verplicht"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De persoonlijke a"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Regel",
+    "Voorbeeld",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "bekende, bepaalde persoon",
+     "Vi a mi hermano.",
+     "a verplicht"
+    ],
+    [
+     "ding",
+     "Vi el coche.",
+     "zonder a"
+    ],
+    [
+     "onbekende persoon (wie dan ook)",
+     "Busco un médico que hable inglés.",
+     "zonder a; subjuntivo"
+    ],
+    [
+     "bekende persoon",
+     "Busco a un médico que conozco.",
+     "a; indicativo"
+    ],
+    [
+     "huisdier / geliefd dier",
+     "Quiero mucho a mi perro.",
+     "a bij geliefde dieren"
+    ],
+    [
+     "hoeveelheidswoorden",
+     "No vi a nadie. / Conozco a muchos.",
+     "a bij nadie, alguien, muchos"
+    ],
+    [
+     "tener",
+     "Tengo dos hermanos.",
+     "geen a na tener"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Pienso de que tienes razón.",
+     "Pienso que tienes razón.",
+     "dequeísmo: pensar krijgt que."
+    ],
+    [
+     "Creo de que vendrá.",
+     "Creo que vendrá.",
+     "dequeísmo."
+    ],
+    [
+     "Me di cuenta que mentía.",
+     "Me di cuenta de que mentía.",
+     "queísmo: darse cuenta de que."
+    ],
+    [
+     "Me alegro que estés aquí.",
+     "Me alegro de que estés aquí.",
+     "queísmo."
+    ],
+    [
+     "Insisto que vengas.",
+     "Insisto en que vengas.",
+     "insistir en que."
+    ],
+    [
+     "Antes que llegues, limpio.",
+     "Antes de que llegues, limpio.",
+     "antes de que."
+    ],
+    [
+     "Vi mi hermano.",
+     "Vi a mi hermano.",
+     "persoonlijke a."
+    ],
+    [
+     "Dijo de que vendría.",
+     "Dijo que vendría.",
+     "decir: zonder de."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Me di cuenta ______ que estaba equivocado.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Me di cuenta de que estaba equivocado."
+    },
+    {
+     "q": "Pienso ______ tienes razón.",
+     "hint": "voegwoord",
+     "a": "que",
+     "full": "Pienso que tienes razón."
+    },
+    {
+     "q": "Insisto ______ que vengas.",
+     "hint": "voorzetsel",
+     "a": "en",
+     "full": "Insisto en que vengas."
+    },
+    {
+     "q": "Confío ______ que apruebes.",
+     "hint": "voorzetsel",
+     "a": "en",
+     "full": "Confío en que apruebes."
+    },
+    {
+     "q": "Me alegro ______ que estés aquí.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Me alegro de que estés aquí."
+    },
+    {
+     "q": "Creo ______ vendrá mañana.",
+     "hint": "voegwoord",
+     "a": "que",
+     "full": "Creo que vendrá mañana."
+    },
+    {
+     "q": "Estoy seguro ______ que ganará.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Estoy seguro de que ganará."
+    },
+    {
+     "q": "Antes ______ que llegues, limpio.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Antes de que llegues, limpio."
+    },
+    {
+     "q": "Busco ______ mi hermano.",
+     "hint": "persoonlijke a",
+     "a": "a",
+     "full": "Busco a mi hermano."
+    },
+    {
+     "q": "Cuento ______ que me ayudes.",
+     "hint": "voorzetsel",
+     "a": "con",
+     "full": "Cuento con que me ayudes."
+    },
+    {
+     "q": "Me quejo ______ que no hay luz.",
+     "hint": "voorzetsel",
+     "a": "de",
+     "full": "Me quejo de que no hay luz."
+    },
+    {
+     "q": "Dice ______ vendrá tarde.",
+     "hint": "voegwoord",
+     "a": "que",
+     "full": "Dice que vendrá tarde."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik besefte dat ik me vergist had.",
+     "a": "Me di cuenta de que estaba equivocado."
+    },
+    {
+     "q": "Ik denk dat je gelijk hebt.",
+     "a": "Creo que tienes razón."
+    },
+    {
+     "q": "Ik sta erop dat je komt.",
+     "a": "Insisto en que vengas."
+    },
+    {
+     "q": "Ik zoek mijn broer.",
+     "a": "Busco a mi hermano."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

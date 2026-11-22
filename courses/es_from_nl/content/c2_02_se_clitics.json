@@ -1,0 +1,468 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Grammatica",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "De vele functies van se en de onbeklemtoonde voornaamwoorden",
+  "subtitle": "se bij ongelukjes, de ethische datief, verdubbeling en plaats van voornaamwoorden, het onzijdige lo, leísmo en laísmo",
+  "footer": "Language Learning · C2 · Grammatica · Se en voornaamwoorden",
+  "next": "Volgende: C2 · pdf 3 — Gevorderde zinsbouw en woordvolgorde"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "alle gangbare functies van se herkennen en gebruiken",
+    "se bij ongelukjes (se me cayó) en de ethische datief goed gebruiken",
+    "onbeklemtoonde voornaamwoorden zonder aarzelen plaatsen en verdubbelen",
+    "het onzijdige lo in al zijn constructies gebruiken en de feiten over leísmo kennen"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. De functies van se"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.4,
+    6.4
+   ],
+   "head": [
+    "Functie",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "wederkerend",
+     "Se lava las manos.",
+     "Hij wast zijn handen."
+    ],
+    [
+     "wederkerig",
+     "Se quieren mucho.",
+     "Ze houden veel van elkaar."
+    ],
+    [
+     "werkwoord met vast se",
+     "Se arrepiente de todo.",
+     "Hij heeft overal spijt van."
+    ],
+    [
+     "lijdende vorm met se",
+     "Se venden pisos en este barrio.",
+     "In deze wijk worden appartementen verkocht."
+    ],
+    [
+     "onpersoonlijk se",
+     "Aquí se vive muy bien.",
+     "Hier leeft men heel goed."
+    ],
+    [
+     "vervangt le voor lo",
+     "Se lo di a Ana ayer.",
+     "Ik heb het gisteren aan Ana gegeven."
+    ],
+    [
+     "per ongeluk (het overkwam me)",
+     "Se me cayó el vaso.",
+     "Het glas viel uit mijn handen."
+    ],
+    [
+     "aspectueel, nadrukkelijk",
+     "Juan se comió toda la tarta.",
+     "Juan heeft de hele taart opgegeten."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Se bij ongelukjes",
+   "text": "Patroon: <b>se + me/te/le... + werkwoord + onderwerp</b>. Het werkwoord past bij het ding, niet bij de persoon: <i>Se me olvidaron las llaves.</i> De constructie vermijdt dat de persoon de schuld krijgt."
+  },
+  {
+   "type": "h1",
+   "text": "2. Ethische datief en datief van belang"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.4,
+    5.4
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "me / te (de getroffen persoon)",
+     "No me llores más, hombre.",
+     "laat zien dat de spreker erdoor geraakt wordt"
+    ],
+    [
+     "se me + werkwoord",
+     "Se me ha puesto enfermo el niño.",
+     "mijn kind is ziek geworden, en dat raakt mij"
+    ],
+    [
+     "datief van bezit",
+     "Le lavé la cara al niño.",
+     "lichaamsdeel, bezittelijk voornaamwoord niet nodig"
+    ],
+    [
+     "belang",
+     "Me he leído el libro entero.",
+     "benadrukt dat het af is en dat je erbij betrokken bent"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Verdubbeling en plaats van voornaamwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.4,
+    5.6
+   ],
+   "head": [
+    "Regel",
+    "Voorbeeld",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "meewerkend voorwerp verdubbeld",
+     "Le di el libro a Ana.",
+     "le is vrijwel verplicht"
+    ],
+    [
+     "a mí / a ti: nadruk",
+     "A mí me gusta el cine.",
+     "gewoon bij werkwoorden zoals gustar"
+    ],
+    [
+     "lijdend voorwerp, met nadruk",
+     "La vi a ella, no a él.",
+     "verdubbeling voor contrast"
+    ],
+    [
+     "vóór een vervoegd werkwoord",
+     "Te lo explico mañana.",
+     "volgorde: se, te/me/nos/os, lo"
+    ],
+    [
+     "vast aan de infinitief",
+     "Quiero explicártelo.",
+     "of Te lo quiero explicar"
+    ],
+    [
+     "vast aan het gerundio",
+     "Estoy preparándolo.",
+     "of Lo estoy preparando"
+    ],
+    [
+     "vast aan de gebiedende wijs",
+     "Dámelo ahora mismo.",
+     "er komt een accent bij"
+    ],
+    [
+     "ontkennende gebiedende wijs",
+     "No me lo des.",
+     "voornaamwoorden staan vóór het werkwoord"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Volgorde van de voornaamwoorden",
+   "text": "Vaste volgorde: <b>se</b> + <b>2e persoon</b> (te, os) + <b>1e persoon</b> (me, nos) + <b>3e persoon</b> (lo, la, le). Dus <i>Se te ha caído</i>, maar nooit *te se ha caído."
+  },
+  {
+   "type": "h1",
+   "text": "4. Het onzijdige lo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Patroon",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "lo + bijv. nw.",
+     "Lo importante es participar.",
+     "Het belangrijkste is meedoen."
+    ],
+    [
+     "lo + bijv. nw. + que",
+     "No sabes lo difícil que es.",
+     "Je weet niet hoe moeilijk het is."
+    ],
+    [
+     "lo de + zelfst. nw.",
+     "Lo de ayer fue un error.",
+     "Dat van gisteren was een vergissing."
+    ],
+    [
+     "lo que",
+     "Hizo lo que quiso.",
+     "Hij deed wat hij wilde."
+    ],
+    [
+     "lo mío / lo tuyo",
+     "Lo mío es el deporte.",
+     "Sport is echt mijn ding."
+    ],
+    [
+     "a lo mejor",
+     "A lo mejor llego tarde.",
+     "Misschien kom ik te laat."
+    ],
+    [
+     "por lo tanto",
+     "Por lo tanto, no iremos.",
+     "Daarom gaan we niet."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Leísmo, laísmo, loísmo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    6.4,
+    6.8
+   ],
+   "head": [
+    "Term",
+    "Voorbeeld",
+    "Status"
+   ],
+   "rows": [
+    [
+     "leísmo (personen, mannelijk)",
+     "A Juan le vi ayer.",
+     "door de RAE geaccepteerd in Spanje"
+    ],
+    [
+     "leísmo (dingen)",
+     "El libro le leí.",
+     "niet geaccepteerd"
+    ],
+    [
+     "laísmo",
+     "A María la dije la verdad.",
+     "geen standaard, vermijden"
+    ],
+    [
+     "loísmo",
+     "A Pedro lo di un libro.",
+     "geen standaard, vermijden"
+    ],
+    [
+     "standaard",
+     "A María le dije la verdad.",
+     "het meewerkend voorwerp is altijd le"
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Se me cayó los vasos.",
+     "Se me cayeron los vasos.",
+     "het werkwoord past bij het ding."
+    ],
+    [
+     "Le lo di.",
+     "Se lo di.",
+     "le + lo wordt se lo."
+    ],
+    [
+     "Te se ha caído.",
+     "Se te ha caído.",
+     "se komt eerst."
+    ],
+    [
+     "A María la dije la verdad.",
+     "A María le dije la verdad.",
+     "geen laísmo."
+    ],
+    [
+     "Dame lo.",
+     "Dámelo.",
+     "voornaamwoorden vast aan de gebiedende wijs; voeg het accent toe."
+    ],
+    [
+     "No lo digas me.",
+     "No me lo digas.",
+     "ontkennende gebiedende wijs: voornaamwoorden ervoor."
+    ],
+    [
+     "Sabes qué difícil es esto.",
+     "Sabes lo difícil que es esto.",
+     "na saber: lo + bijv. nw. + que."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "______ me cayó el vaso.",
+     "hint": "per ongeluk",
+     "a": "Se",
+     "full": "Se me cayó el vaso."
+    },
+    {
+     "q": "Ayer ______ lo di a Ana.",
+     "hint": "le + lo",
+     "a": "se",
+     "full": "Ayer se lo di a Ana."
+    },
+    {
+     "q": "¿Quieres el coche? Te ______ presto.",
+     "hint": "voornaamwoord voor el coche",
+     "a": "lo",
+     "full": "¿Quieres el coche? Te lo presto."
+    },
+    {
+     "q": "______ venden pisos en este barrio.",
+     "hint": "lijdende vorm",
+     "a": "Se",
+     "full": "Se venden pisos en este barrio."
+    },
+    {
+     "q": "No sabes ______ difícil que es.",
+     "hint": "onzijdig lidwoord",
+     "a": "lo",
+     "full": "No sabes lo difícil que es."
+    },
+    {
+     "q": "Juan ______ comió toda la tarta.",
+     "hint": "aspectueel",
+     "a": "se",
+     "full": "Juan se comió toda la tarta."
+    },
+    {
+     "q": "A Ana ______ di el libro.",
+     "hint": "meewerkend voorwerp",
+     "a": "le",
+     "full": "A Ana le di el libro."
+    },
+    {
+     "q": "A mí ______ gustan los coches.",
+     "hint": "voornaamwoord",
+     "a": "me",
+     "full": "A mí me gustan los coches."
+    },
+    {
+     "q": "Chicos, ¡______!",
+     "hint": "sentarse: gebiedende wijs van vosotros",
+     "a": "sentaos",
+     "full": "Chicos, ¡sentaos!"
+    },
+    {
+     "q": "No ______ lo digas a nadie.",
+     "hint": "le + lo",
+     "a": "se",
+     "full": "No se lo digas a nadie."
+    },
+    {
+     "q": "Vimos a María y ______ saludamos.",
+     "hint": "lijdend voorwerp, zij",
+     "a": "la",
+     "full": "Vimos a María y la saludamos."
+    },
+    {
+     "q": "Se me ______ las llaves.",
+     "hint": "olvidar: indefinido, meervoud",
+     "a": "olvidaron",
+     "full": "Se me olvidaron las llaves."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Het glas viel uit mijn handen.",
+     "a": "Se me cayó el vaso."
+    },
+    {
+     "q": "Ik heb het hem gisteren gegeven.",
+     "a": "Se lo di ayer."
+    },
+    {
+     "q": "Je weet niet hoe moeilijk het is.",
+     "a": "No sabes lo difícil que es."
+    },
+    {
+     "q": "Hier worden appartementen verkocht.",
+     "a": "Aquí se venden pisos."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Stijl",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Retoriek en stijlfiguren",
+  "subtitle": "metafoor en vergelijking, ironie, eufemisme, retorische middelen en beeldende uitdrukkingen",
+  "footer": "Language Learning · C2 · Stijl · Retoriek",
+  "next": "Volgende: C2 · pdf 6 — Formeel en ambtelijk schrijven"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "de belangrijkste stijlfiguren benoemen en gebruiken",
+    "ironie, eufemisme en understatement herkennen",
+    "retorische middelen gebruiken in betogen en toespraken",
+    "veelgebruikte beeldende uitdrukkingen goed gebruiken"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Stijlfiguren"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.2,
+    3.6,
+    3.6
+   ],
+   "head": [
+    "Stijlfiguur",
+    "Voorbeeld",
+    "Nederlands",
+    "Soort"
+   ],
+   "rows": [
+    [
+     "metáfora",
+     "Sus ojos son dos luceros.",
+     "Zijn ogen zijn twee stralende sterren.",
+     "beeld"
+    ],
+    [
+     "símil",
+     "Es fuerte como un toro.",
+     "Hij is sterk als een stier.",
+     "vergelijking"
+    ],
+    [
+     "metonimia",
+     "Me gusta leer a Cervantes.",
+     "Ik lees graag Cervantes.",
+     "naam voor het werk"
+    ],
+    [
+     "sinécdoque",
+     "Cien cabezas de ganado.",
+     "Honderd stuks vee.",
+     "deel voor het geheel"
+    ],
+    [
+     "hipérbole",
+     "Te lo he dicho mil veces.",
+     "Ik heb het je al duizend keer gezegd.",
+     "overdrijving"
+    ],
+    [
+     "ironía",
+     "¡Qué buen tiempo!, dijo bajo la lluvia.",
+     "Wat een heerlijk weer!, zei hij in de regen.",
+     "het tegenovergestelde bedoelen"
+    ],
+    [
+     "personificación",
+     "La luna sonreía sobre el mar.",
+     "De maan glimlachte boven de zee.",
+     "menselijke eigenschappen"
+    ],
+    [
+     "oxímoron",
+     "Un silencio ensordecedor.",
+     "Een oorverdovende stilte.",
+     "tegenspraak"
+    ],
+    [
+     "paradoja",
+     "Solo sé que no sé nada.",
+     "Ik weet alleen dat ik niets weet.",
+     "schijnbare tegenspraak"
+    ],
+    [
+     "anáfora",
+     "Quiero paz, quiero pan, quiero libertad.",
+     "Ik wil vrede, ik wil brood, ik wil vrijheid.",
+     "herhaling aan het begin"
+    ],
+    [
+     "aliteración",
+     "Tres tristes tigres tragaban trigo.",
+     "Drie droevige tijgers slikten tarwe.",
+     "herhaalde klanken"
+    ],
+    [
+     "pregunta retórica",
+     "¿Quién no ha soñado con ello?",
+     "Wie heeft daar nooit van gedroomd?",
+     "geen antwoord nodig"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Zie het verschil",
+   "text": "Een <b>metáfora</b> zegt dat het ene het andere <i>is</i>. Een <b>símil</b> gebruikt <i>como</i> of <i>parecer</i>: <i>Es como un toro</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Eufemisme en understatement"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Direct",
+    "Eufemisme",
+    "Context"
+   ],
+   "rows": [
+    [
+     "morir",
+     "pasar a mejor vida",
+     "begrafenissen, beleefde taal"
+    ],
+    [
+     "despedir",
+     "prescindir de sus servicios",
+     "bedrijfsleven"
+    ],
+    [
+     "viejo",
+     "persona mayor / de edad avanzada",
+     "zorg, media"
+    ],
+    [
+     "gordo",
+     "de constitución fuerte",
+     "beleefde beschrijving"
+    ],
+    [
+     "mentir",
+     "faltar a la verdad",
+     "politiek, pers"
+    ],
+    [
+     "subir los precios",
+     "ajustar las tarifas",
+     "bedrijven"
+    ],
+    [
+     "pobre",
+     "de recursos limitados",
+     "ambtelijke taal"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Retoriek in een betoog"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.0,
+    5.6
+   ],
+   "head": [
+    "Middel",
+    "Voorbeeld",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "eerst toegeven, dan weerleggen",
+     "Es cierto que cuesta, pero merece la pena.",
+     "eerlijk, geloofwaardig"
+    ],
+    [
+     "retorische vraag",
+     "¿Acaso no tenemos derecho a saberlo?",
+     "betrekt de lezer erbij"
+    ],
+    [
+     "drieslag",
+     "Es rápido, barato y fiable.",
+     "ritme, makkelijk te onthouden"
+    ],
+    [
+     "contrast",
+     "No es cuestión de dinero, sino de principios.",
+     "maakt het punt scherper"
+    ],
+    [
+     "opbouw",
+     "Primero se queja, luego protesta, al final grita.",
+     "bouwt spanning op"
+    ],
+    [
+     "understatement",
+     "No está mal. (heel goed)",
+     "ironie, bescheidenheid"
+    ],
+    [
+     "het publiek direct aanspreken",
+     "Piénsalo un momento: ¿qué harías tú?",
+     "trekt het publiek erbij"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Beeldende uitdrukkingen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Uitdrukking",
+    "Letterlijk beeld",
+    "Betekenis"
+   ],
+   "rows": [
+    [
+     "estar en las nubes",
+     "in de wolken zijn",
+     "dagdromen"
+    ],
+    [
+     "llover a cántaros",
+     "kruiken regenen",
+     "pijpenstelen regenen"
+    ],
+    [
+     "más claro que el agua",
+     "helderder dan water",
+     "zo klaar als een klontje"
+    ],
+    [
+     "costar un ojo de la cara",
+     "een oog kosten",
+     "een fortuin kosten"
+    ],
+    [
+     "hacérsele a uno la boca agua",
+     "de mond wordt water",
+     "het water loopt je in de mond"
+    ],
+    [
+     "ser pan comido",
+     "opgegeten brood zijn",
+     "een eitje zijn"
+    ],
+    [
+     "dormir como un lirón",
+     "slapen als een relmuis",
+     "slapen als een roos"
+    ],
+    [
+     "ponerse como un tomate",
+     "worden als een tomaat",
+     "zo rood worden als een tomaat"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Es tan fuerte que un toro.",
+     "Es tan fuerte como un toro.",
+     "tan + como voor een vergelijking."
+    ],
+    [
+     "Lo vi con mis ojos propios.",
+     "Lo vi con mis propios ojos.",
+     "propio staat vóór het zelfst. nw."
+    ],
+    [
+     "Es muy único.",
+     "Es único.",
+     "único krijgt in verzorgde stijl geen muy."
+    ],
+    [
+     "Subir arriba.",
+     "Subir.",
+     "vermijd het overbodige arriba."
+    ],
+    [
+     "Salir afuera.",
+     "Salir.",
+     "overbodig."
+    ],
+    [
+     "Cuesta un ojo de cara.",
+     "Cuesta un ojo de la cara.",
+     "de vaste vorm heeft la."
+    ],
+    [
+     "Llueve a cantaros.",
+     "Llueve a cántaros.",
+     "accent op cántaros."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Es fuerte ______ un toro.",
+     "hint": "vergelijking",
+     "a": "como",
+     "full": "Es fuerte como un toro."
+    },
+    {
+     "q": "Te lo he dicho ______ veces.",
+     "hint": "overdrijving, 1000",
+     "a": "mil",
+     "full": "Te lo he dicho mil veces."
+    },
+    {
+     "q": "Ha pasado a mejor ______.",
+     "hint": "eufemisme voor de dood",
+     "a": "vida",
+     "full": "Ha pasado a mejor vida."
+    },
+    {
+     "q": "Lo vi con mis ______ ojos.",
+     "hint": "eigen",
+     "a": "propios",
+     "full": "Lo vi con mis propios ojos."
+    },
+    {
+     "q": "Llueve a ______.",
+     "hint": "kruiken",
+     "a": "cántaros",
+     "full": "Llueve a cántaros."
+    },
+    {
+     "q": "Siempre está en las ______.",
+     "hint": "dagdromen",
+     "a": "nubes",
+     "full": "Siempre está en las nubes."
+    },
+    {
+     "q": "Se me hace la ______ agua.",
+     "hint": "mond",
+     "a": "boca",
+     "full": "Se me hace la boca agua."
+    },
+    {
+     "q": "Cien ______ de ganado.",
+     "hint": "stuks (mv.)",
+     "a": "cabezas",
+     "full": "Cien cabezas de ganado."
+    },
+    {
+     "q": "Un silencio ______.",
+     "hint": "oorverdovend",
+     "a": "ensordecedor",
+     "full": "Un silencio ensordecedor."
+    },
+    {
+     "q": "Quiero paz, ______ pan, quiero libertad.",
+     "hint": "anafoor",
+     "a": "quiero",
+     "full": "Quiero paz, quiero pan, quiero libertad."
+    },
+    {
+     "q": "Está más claro que el ______.",
+     "hint": "water",
+     "a": "agua",
+     "full": "Está más claro que el agua."
+    },
+    {
+     "q": "Me costó un ojo de la ______.",
+     "hint": "gezicht",
+     "a": "cara",
+     "full": "Me costó un ojo de la cara."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hij is zo sterk als een stier.",
+     "a": "Es fuerte como un toro."
+    },
+    {
+     "q": "Ik heb het met mijn eigen ogen gezien.",
+     "a": "Lo vi con mis propios ojos."
+    },
+    {
+     "q": "Het is zo klaar als een klontje.",
+     "a": "Está más claro que el agua."
+    },
+    {
+     "q": "Ze zit altijd te dagdromen.",
+     "a": "Siempre está en las nubes."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

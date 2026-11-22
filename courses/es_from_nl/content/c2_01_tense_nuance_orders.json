@@ -1,0 +1,412 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Grammatica",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Nuances van de tijden en manieren om iets op te dragen",
+  "subtitle": "bijzonder gebruik van de presente, imperfecto, futuro en condicional, plus alle manieren om een opdracht te geven",
+  "footer": "Language Learning · C2 · Grammatica · Nuances van de tijden",
+  "next": "Volgende: C2 · pdf 2 — De vele functies van se en de voornaamwoorden"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "het bijzondere gebruik van de presente, imperfecto, futuro en condicional herkennen en toepassen",
+    "op veel manieren een opdracht geven, naast de gewone gebiedende wijs",
+    "verhalend Spaans lezen en schrijven met een bewuste keuze van de tijd",
+    "de typische fouten van leerders met de gebiedende wijs van vosotros vermijden"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Bijzonder gebruik van de presente"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.6,
+    6.2
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "historische presente",
+     "En 1492 Colón llega a América.",
+     "In 1492 bereikt Columbus Amerika."
+    ],
+    [
+     "nabije toekomst",
+     "Mañana tenemos reunión a las nueve.",
+     "Morgen hebben we om negen uur een vergadering."
+    ],
+    [
+     "opdracht (informeel)",
+     "Tú te callas y me escuchas.",
+     "Jij houdt je mond en luistert naar mij."
+    ],
+    [
+     "algemene waarheid",
+     "El agua hierve a cien grados.",
+     "Water kookt bij honderd graden."
+    ],
+    [
+     "levendig vertellen",
+     "Entro en el bar y veo a mi ex.",
+     "Ik loop de bar binnen en zie mijn ex."
+    ],
+    [
+     "voorwaarden (si)",
+     "Si llueve, nos quedamos en casa.",
+     "Als het regent, blijven we thuis."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Waarom het ertoe doet",
+   "text": "De <b>historische presente</b> is typisch voor journalistiek, biografieën en verhalen. In een essay over geschiedenis klinkt het op C2-niveau natuurlijk en zelfverzekerd."
+  },
+  {
+   "type": "h1",
+   "text": "2. Bijzonder gebruik van de imperfecto"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "poging, op het punt van (conato)",
+     "Ya salía cuando sonó el teléfono.",
+     "Ik wilde net weggaan toen de telefoon ging."
+    ],
+    [
+     "spel, doen alsof (lúdico)",
+     "Yo era el policía y tú el ladrón.",
+     "Ik was de politieagent en jij de dief."
+    ],
+    [
+     "droom (onírico)",
+     "Soñé que volaba y todos me aplaudían.",
+     "Ik droomde dat ik vloog en dat iedereen voor me klapte."
+    ],
+    [
+     "verhalend (journalistiek)",
+     "Dos días después, el presidente dimitía.",
+     "Twee dagen later trad de president af."
+    ],
+    [
+     "geplande toekomst in het verleden",
+     "Me dijo que al día siguiente salía.",
+     "Hij zei dat hij de volgende dag zou vertrekken."
+    ],
+    [
+     "beleefdheid",
+     "Quería pedirle un favor.",
+     "Ik wilde u om een gunst vragen."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Bijzonder gebruik van de futuro en de condicional"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Gebruik",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "opdracht (futuro de mandato)",
+     "Te quedarás aquí hasta que vuelva.",
+     "Jij blijft hier tot ik terug ben."
+    ],
+    [
+     "verbazing, verontwaardiging",
+     "¡Tendrá cara!",
+     "Wat een lef heeft die!"
+    ],
+    [
+     "toegeving",
+     "Serán ricos, pero no son felices.",
+     "Ze mogen dan rijk zijn, gelukkig zijn ze niet."
+    ],
+    [
+     "beleefd verzoek (condicional)",
+     "¿Podría ayudarme, por favor?",
+     "Zou u me kunnen helpen, alstublieft?"
+    ],
+    [
+     "toegeving in het verleden",
+     "Sería rico, pero era muy tacaño.",
+     "Hij mocht dan rijk zijn, hij was erg gierig."
+    ],
+    [
+     "toekomst in het verleden",
+     "Dijo que llegaría tarde.",
+     "Hij zei dat hij laat zou komen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Manieren om een opdracht te geven"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    5.6,
+    7.0
+   ],
+   "head": [
+    "Vorm",
+    "Voorbeeld",
+    "Waar je het tegenkomt"
+   ],
+   "rows": [
+    [
+     "gebiedende wijs",
+     "Cierra la puerta.",
+     "dagelijkse spreektaal"
+    ],
+    [
+     "infinitief (regels, borden)",
+     "No fumar en la sala.",
+     "borden, instructies, recepten"
+    ],
+    [
+     "a + infinitief",
+     "¡A callar!",
+     "krachtige, korte opdracht aan een groep"
+    ],
+    [
+     "que + subjuntivo",
+     "¡Que te vaya bien!",
+     "wensen en indirecte opdrachten"
+    ],
+    [
+     "deelwoord",
+     "¡Callados!",
+     "leger, leraren, korte bevelen"
+    ],
+    [
+     "gerundio (zeldzaam)",
+     "¡Andando!",
+     "vooruit, schiet op"
+    ],
+    [
+     "presente de indicativo",
+     "Tú te sientas ahí.",
+     "stellig maar informeel"
+    ],
+    [
+     "futuro",
+     "Harás lo que te digo.",
+     "gezaghebbend, formeel"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Gebiedende wijs van vosotros",
+   "text": "Standaard: <b>sentaos</b>, <b>callaos</b> (de -d valt weg voor os). Heel gewoon in Spanje, maar geen standaardtaal: <b>sentaros</b>, <b>callaros</b>. Gebruik in geschreven taal de standaardvorm."
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Mañana vamos a tener reunión a las nueve en punto.",
+     "Mañana tenemos reunión a las nueve.",
+     "vaste plannen: de gewone presente is natuurlijker."
+    ],
+    [
+     "Ya salí cuando sonó el teléfono.",
+     "Ya salía cuando sonó el teléfono.",
+     "een handeling die niet afgemaakt werd, vraagt om de imperfecto."
+    ],
+    [
+     "Serían ricos, pero no son felices.",
+     "Serán ricos, pero no son felices.",
+     "toegeving in het heden vraagt om de futuro."
+    ],
+    [
+     "¡Sentaros!",
+     "¡Sentaos!",
+     "de standaard gebiedende wijs laat de -d vallen."
+    ],
+    [
+     "Sentaros, niños.",
+     "Sentaos, niños.",
+     "de standaardvorm laat de -d vallen voor os."
+    ],
+    [
+     "Dijo que llegará tarde.",
+     "Dijo que llegaría tarde.",
+     "toekomst in het verleden is de condicional."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "En 1492 Colón ______ a América.",
+     "hint": "llegar: historische presente",
+     "a": "llega",
+     "full": "En 1492 Colón llega a América."
+    },
+    {
+     "q": "Ya ______ cuando sonó el teléfono.",
+     "hint": "salir: imperfecto, yo",
+     "a": "salía",
+     "full": "Ya salía cuando sonó el teléfono."
+    },
+    {
+     "q": "Yo ______ el policía y tú el ladrón.",
+     "hint": "ser: imperfecto",
+     "a": "era",
+     "full": "Yo era el policía y tú el ladrón."
+    },
+    {
+     "q": "Te ______ aquí hasta que yo vuelva.",
+     "hint": "quedar: futuro, opdracht",
+     "a": "quedarás",
+     "full": "Te quedarás aquí hasta que yo vuelva."
+    },
+    {
+     "q": "¡______ cara!",
+     "hint": "tener: futuro, verontwaardiging",
+     "a": "Tendrá",
+     "full": "¡Tendrá cara!"
+    },
+    {
+     "q": "Serán ricos, pero no ______ felices.",
+     "hint": "ser: presente",
+     "a": "son",
+     "full": "Serán ricos, pero no son felices."
+    },
+    {
+     "q": "¡A ______!",
+     "hint": "callar: opdracht met infinitief",
+     "a": "callar",
+     "full": "¡A callar!"
+    },
+    {
+     "q": "No ______ en la sala.",
+     "hint": "fumar: infinitief op een bord",
+     "a": "fumar",
+     "full": "No fumar en la sala."
+    },
+    {
+     "q": "¡______ te vaya bien!",
+     "hint": "wens",
+     "a": "Que",
+     "full": "¡Que te vaya bien!"
+    },
+    {
+     "q": "El agua ______ a cien grados.",
+     "hint": "hervir: presente, algemene waarheid",
+     "a": "hierve",
+     "full": "El agua hierve a cien grados."
+    },
+    {
+     "q": "Mañana ______ reunión a las nueve.",
+     "hint": "tener: nosotros, presente",
+     "a": "tenemos",
+     "full": "Mañana tenemos reunión a las nueve."
+    },
+    {
+     "q": "¡______!",
+     "hint": "callado: opdracht met deelwoord",
+     "a": "Callados",
+     "full": "¡Callados!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "In 1936 begint de oorlog.",
+     "a": "En 1936 empieza la guerra."
+    },
+    {
+     "q": "Hij wilde net weggaan toen je belde.",
+     "a": "Salía justo cuando llamaste."
+    },
+    {
+     "q": "Ze mogen dan rijk zijn, gelukkig zijn ze niet.",
+     "a": "Serán ricos, pero no son felices."
+    },
+    {
+     "q": "Ga zitten, jongens!",
+     "a": "¡Sentaos, niños!"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

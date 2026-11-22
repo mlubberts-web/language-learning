@@ -1,0 +1,506 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Schrijven",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Formeel en ambtelijk schrijven",
+  "subtitle": "brieven en e-mails, verzoeken en klachten, juridische en officiële formules, rapporttaal en de Spaanse bureaucratie",
+  "footer": "Language Learning · C2 · Schrijven · Formeel schrijven",
+  "next": "Volgende: C2 · pdf 7 — Uitdrukkingen, straattaal en spreektaal in Spanje"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "formele brieven en e-mails schrijven in het juiste register",
+    "beleefde verzoeken doen en klachten indienen",
+    "juridische en ambtelijke formules herkennen",
+    "je weg vinden in de Spaanse papierwinkel"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Formele brieven en e-mails"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.4,
+    5.6
+   ],
+   "head": [
+    "Onderdeel",
+    "Formule",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "aanhef (bekende persoon)",
+     "Estimado señor López:",
+     "Geachte heer López,"
+    ],
+    [
+     "aanhef (onbekend)",
+     "Muy señor mío: / A quien corresponda:",
+     "Geachte heer / mevrouw / Aan wie het aangaat"
+    ],
+    [
+     "opening",
+     "Me dirijo a usted para solicitar información.",
+     "Ik schrijf u om informatie te vragen."
+    ],
+    [
+     "verwijzing",
+     "En respuesta a su carta del 3 de mayo...",
+     "In antwoord op uw brief van 3 mei..."
+    ],
+    [
+     "bijlage",
+     "Adjunto le envío mi currículum.",
+     "Bijgaand stuur ik u mijn cv."
+    ],
+    [
+     "verzoek",
+     "Le agradecería que me enviara el documento.",
+     "Ik zou het op prijs stellen als u mij het document zou sturen."
+    ],
+    [
+     "afsluiting",
+     "Quedo a su disposición para cualquier consulta.",
+     "Voor vragen blijf ik graag tot uw beschikking."
+    ],
+    [
+     "groet",
+     "Atentamente, / Un cordial saludo,",
+     "Met vriendelijke groet,"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "spain",
+   "title": "Gewoonten in Spanje",
+   "text": "In formeel Spaans is <b>usted</b> de norm en staat de datum bovenaan. E-mails aan bedrijven eindigen vaak met <i>Un cordial saludo</i>; brieven aan instanties met <i>Le saluda atentamente</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Verzoeken, klachten, antwoorden"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "Functie",
+    "Formule",
+    "Register"
+   ],
+   "rows": [
+    [
+     "verzoek",
+     "Le ruego que me confirme la recepción.",
+     "zeer formeel"
+    ],
+    [
+     "verzoek",
+     "Quisiera solicitar una cita.",
+     "formeel"
+    ],
+    [
+     "klacht",
+     "Lamento comunicarle mi disconformidad con...",
+     "formeel"
+    ],
+    [
+     "klacht",
+     "Presento una reclamación por el retraso.",
+     "officieel"
+    ],
+    [
+     "dank",
+     "Le agradezco de antemano su atención.",
+     "formeel"
+    ],
+    [
+     "excuses",
+     "Le pedimos disculpas por las molestias.",
+     "formeel"
+    ],
+    [
+     "antwoord",
+     "Le informamos de que su solicitud ha sido aprobada.",
+     "officieel"
+    ],
+    [
+     "slot",
+     "Sin otro particular, le saluda atentamente.",
+     "traditionele afsluiting"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Ambtelijke en juridische formules"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.0,
+    5.8
+   ],
+   "head": [
+    "Formule",
+    "Betekenis",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "por la presente",
+     "hierbij",
+     "Por la presente solicito una copia."
+    ],
+    [
+     "el abajo firmante",
+     "ondergetekende",
+     "El abajo firmante declara..."
+    ],
+    [
+     "hacer constar",
+     "officieel vastleggen",
+     "Se hace constar que..."
+    ],
+    [
+     "a efectos de",
+     "ten behoeve van, voor",
+     "A efectos de este informe, el plazo es de un mes."
+    ],
+    [
+     "de conformidad con",
+     "in overeenstemming met",
+     "De conformidad con la ley, el contrato es válido."
+    ],
+    [
+     "en virtud de",
+     "krachtens",
+     "En virtud del artículo 5, se concede."
+    ],
+    [
+     "en el plazo de",
+     "binnen een termijn van",
+     "En el plazo de diez días."
+    ],
+    [
+     "se estipula que",
+     "er wordt bepaald dat",
+     "Se estipula que el pago será mensual."
+    ],
+    [
+     "quedar sin efecto",
+     "vervallen, ongeldig worden",
+     "El contrato quedará sin efecto."
+    ],
+    [
+     "a tenor de",
+     "overeenkomstig",
+     "A tenor de lo dispuesto..."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Taal voor rapporten en essays"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.2,
+    5.6
+   ],
+   "head": [
+    "Formule",
+    "Gebruik",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "cabe señalar que",
+     "een punt toevoegen",
+     "Cabe señalar que los datos son provisionales."
+    ],
+    [
+     "todo parece indicar que",
+     "voorzichtig formuleren",
+     "Todo parece indicar que subirán los precios."
+    ],
+    [
+     "a la luz de",
+     "in het licht van",
+     "A la luz de estos datos, se recomienda esperar."
+    ],
+    [
+     "se desprende que",
+     "daaruit volgt dat",
+     "De ello se desprende que hay un error."
+    ],
+    [
+     "en suma / en conclusión",
+     "samenvatten",
+     "En suma, el proyecto es viable."
+    ],
+    [
+     "no obstante",
+     "echter",
+     "No obstante, hay riesgos."
+    ],
+    [
+     "cabe esperar que",
+     "verwachten",
+     "Cabe esperar que mejore la situación."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. De Spaanse overheid"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Term",
+    "Betekenis",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "el padrón / empadronamiento",
+     "inschrijving bij de gemeente",
+     "nodig voor de meeste procedures"
+    ],
+    [
+     "el NIE",
+     "identificatienummer voor buitenlanders",
+     "voor inwoners zonder Spaanse nationaliteit"
+    ],
+    [
+     "el DNI",
+     "nationale identiteitskaart",
+     "voor Spaanse burgers"
+    ],
+    [
+     "la Seguridad Social",
+     "sociale zekerheid",
+     "gezondheidszorg, pensioenen"
+    ],
+    [
+     "Hacienda",
+     "de belastingdienst",
+     "declaración de la renta (aangifte inkomstenbelasting)"
+    ],
+    [
+     "la gestoría",
+     "administratiekantoor",
+     "regelt het papierwerk"
+    ],
+    [
+     "la instancia",
+     "officieel aanvraagformulier",
+     "'presentar una instancia' (een aanvraag indienen)"
+    ],
+    [
+     "la cita previa",
+     "afspraak",
+     "verplicht bij de meeste loketten"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Querido señor López:",
+     "Estimado señor López:",
+     "querido is te persoonlijk."
+    ],
+    [
+     "Te escribo para solicitar información.",
+     "Me dirijo a usted para solicitar información.",
+     "formeel register: usted."
+    ],
+    [
+     "Quiero que me envíes el documento.",
+     "Le agradecería que me enviara el documento.",
+     "beleefde subjuntivo."
+    ],
+    [
+     "Hasta luego, Pedro.",
+     "Atentamente, Pedro López.",
+     "formele groet."
+    ],
+    [
+     "Le agradezco que me envía el documento.",
+     "Le agradezco que me envíe el documento.",
+     "agradecer que + subjuntivo."
+    ],
+    [
+     "Adjunto os envío el informe.",
+     "Adjunto le envío el informe.",
+     "usted in formele brieven."
+    ],
+    [
+     "En el abajo firmante...",
+     "El abajo firmante...",
+     "vaste uitdrukking met el."
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "7. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "Me ______ a usted para solicitar información.",
+     "hint": "dirigir: presente, yo",
+     "a": "dirijo",
+     "full": "Me dirijo a usted para solicitar información."
+    },
+    {
+     "q": "Le ______ que me enviara el documento.",
+     "hint": "agradecer: condicional",
+     "a": "agradecería",
+     "full": "Le agradecería que me enviara el documento."
+    },
+    {
+     "q": "Adjunto le ______ mi currículum.",
+     "hint": "enviar: presente, yo",
+     "a": "envío",
+     "full": "Adjunto le envío mi currículum."
+    },
+    {
+     "q": "Quedo a su ______.",
+     "hint": "tot uw dienst",
+     "a": "disposición",
+     "full": "Quedo a su disposición."
+    },
+    {
+     "q": "______ otro particular, le saluda atentamente.",
+     "hint": "zonder",
+     "a": "Sin",
+     "full": "Sin otro particular, le saluda atentamente."
+    },
+    {
+     "q": "En ______ a su carta, le informo de lo siguiente.",
+     "hint": "antwoord",
+     "a": "respuesta",
+     "full": "En respuesta a su carta, le informo de lo siguiente."
+    },
+    {
+     "q": "El abajo ______ declara que los datos son ciertos.",
+     "hint": "ondertekenaar",
+     "a": "firmante",
+     "full": "El abajo firmante declara que los datos son ciertos."
+    },
+    {
+     "q": "______ la presente, solicito una copia.",
+     "hint": "door, bij",
+     "a": "Por",
+     "full": "Por la presente, solicito una copia."
+    },
+    {
+     "q": "De ______ con la ley, el contrato es válido.",
+     "hint": "overeenstemming",
+     "a": "conformidad",
+     "full": "De conformidad con la ley, el contrato es válido."
+    },
+    {
+     "q": "______ señalar que los datos son provisionales.",
+     "hint": "het past, het is gepast",
+     "a": "Cabe",
+     "full": "Cabe señalar que los datos son provisionales."
+    },
+    {
+     "q": "A los ______ de este informe, el plazo es de un mes.",
+     "hint": "doeleinden",
+     "a": "efectos",
+     "full": "A los efectos de este informe, el plazo es de un mes."
+    },
+    {
+     "q": "Le ______ atentamente.",
+     "hint": "saludar: presente, él/ella",
+     "a": "saluda",
+     "full": "Le saluda atentamente."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ik schrijf u om informatie te vragen.",
+     "a": "Me dirijo a usted para solicitar información."
+    },
+    {
+     "q": "Ik zou het op prijs stellen als u de ontvangst zou kunnen bevestigen.",
+     "a": "Le agradecería que me confirmara la recepción."
+    },
+    {
+     "q": "Bijgaand stuur ik u mijn cv.",
+     "a": "Adjunto le envío mi currículum."
+    },
+    {
+     "q": "Alles wijst erop dat de prijzen zullen stijgen.",
+     "a": "Todo parece indicar que subirán los precios."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

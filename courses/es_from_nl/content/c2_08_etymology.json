@@ -1,0 +1,500 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Woordenschat",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Etymologie en de herkomst van woorden",
+  "subtitle": "Latijnse, Arabische, inheemse en andere bronnen, geleerde dubbelvormen, anglicismen en productieve stammen",
+  "footer": "Language Learning · C2 · Woordenschat · Herkomst van woorden",
+  "next": "Volgende: C2 · pdf 9 — Vakwoordenschat"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Na deze pdf kun je",
+   "bullets": [
+    "Spaanse woorden herleiden tot hun bron",
+    "geleerde dubbelvormen herkennen in academische teksten",
+    "anglicismen vermijden en Spaanse alternatieven gebruiken",
+    "onbekende woorden ontcijferen aan de hand van voorvoegsels en stammen"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Waar Spaanse woorden vandaan komen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    6.6,
+    6.6
+   ],
+   "head": [
+    "Bron",
+    "Voorbeelden",
+    "Opmerking"
+   ],
+   "rows": [
+    [
+     "Latijn (ongeveer 70 %)",
+     "agua, padre, noche, mano, ojo",
+     "de basis van de taal"
+    ],
+    [
+     "Grieks",
+     "teléfono, filosofía, historia, democracia",
+     "wetenschap en cultuur"
+    ],
+    [
+     "Arabisch (ongeveer 4000 woorden)",
+     "aceite, azúcar, almohada, ojalá, alcalde, algodón, arroz",
+     "woorden die beginnen met al- en az-"
+    ],
+    [
+     "Germaans",
+     "guerra, espía, ropa, jabón",
+     "van de Visigoten"
+    ],
+    [
+     "Baskisch",
+     "izquierda, pizarra, chaparro",
+     "buurtaal van vóór de Romeinen"
+    ],
+    [
+     "Inheems Amerika",
+     "chocolate, tomate, maíz, canoa, huracán",
+     "Nahuatl, Taíno, Quechua"
+    ],
+    [
+     "Frans / Italiaans",
+     "jardín, hotel, soneto, novela",
+     "vanaf de 17e eeuw"
+    ],
+    [
+     "Engels",
+     "fútbol, estrés, líder, clic, wifi",
+     "vanaf de 20e eeuw"
+    ],
+    [
+     "Nederlands",
+     "yate, dique",
+     "scheepvaarttermen (jacht, dijk)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Waarom het helpt",
+   "text": "Arabische leenwoorden beginnen vaak met <b>al-</b> (almohada, alcalde, algodón) of <b>az-</b> (azúcar, azul, azotea). Als je het patroon herkent, kun je betekenis en spelling beter raden."
+  },
+  {
+   "type": "h1",
+   "text": "2. Volkse en geleerde dubbelvormen"
+  },
+  {
+   "type": "p",
+   "text": "Veel woorden bestaan twee keer: een <b>volkse</b> vorm die zich vanzelf ontwikkelde en een <b>geleerde</b> vorm (cultismo) die direct uit het Latijn is overgenomen. Geleerde vormen kom je tegen in academische en wetenschappelijke taal."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.8,
+    3.4,
+    6.4
+   ],
+   "head": [
+    "Volks",
+    "Geleerd bijv. nw.",
+    "Latijn",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "ojo",
+     "ocular",
+     "oculus",
+     "un examen ocular"
+    ],
+    [
+     "leche",
+     "lácteo",
+     "lac",
+     "productos lácteos"
+    ],
+    [
+     "noche",
+     "nocturno",
+     "nox",
+     "vida nocturna"
+    ],
+    [
+     "mano",
+     "manual",
+     "manus",
+     "trabajo manual"
+    ],
+    [
+     "agua",
+     "acuático",
+     "aqua",
+     "deportes acuáticos"
+    ],
+    [
+     "padre",
+     "paterno",
+     "pater",
+     "amor paterno"
+    ],
+    [
+     "hierro",
+     "férreo",
+     "ferrum",
+     "una disciplina férrea"
+    ],
+    [
+     "boca",
+     "oral",
+     "os, oris",
+     "un examen oral"
+    ],
+    [
+     "hijo",
+     "filial",
+     "filius",
+     "amor filial"
+    ],
+    [
+     "lleno",
+     "pleno",
+     "plenus",
+     "en pleno día"
+    ]
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "3. Anglicismen en Spaanse alternatieven"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    5.0,
+    3.6,
+    4.2
+   ],
+   "head": [
+    "Anglicisme",
+    "Spaans alternatief",
+    "Geaccepteerd?",
+    "Voorbeeld"
+   ],
+   "rows": [
+    [
+     "email",
+     "el correo electrónico",
+     "email wordt geaccepteerd",
+     "Envíame un correo."
+    ],
+    [
+     "parking",
+     "el aparcamiento",
+     "ja, informeel",
+     "Busco aparcamiento."
+    ],
+    [
+     "chequear",
+     "revisar, comprobar",
+     "nee, vermijden",
+     "Voy a revisar el correo."
+    ],
+    [
+     "aplicar a un puesto",
+     "solicitar un puesto",
+     "nee, vermijden",
+     "Solicité el puesto."
+    ],
+    [
+     "link",
+     "el enlace",
+     "enlace heeft de voorkeur",
+     "Haz clic en el enlace."
+    ],
+    [
+     "feedback",
+     "la opinión, la valoración",
+     "feedback wordt geaccepteerd",
+     "Gracias por tu valoración."
+    ],
+    [
+     "meeting",
+     "la reunión",
+     "reunión heeft de voorkeur",
+     "Tengo una reunión."
+    ],
+    [
+     "issue",
+     "el tema, el problema",
+     "nee, vermijden",
+     "Es un tema importante."
+    ],
+    [
+     "hacer sentido",
+     "tener sentido",
+     "nee, vermijden",
+     "Eso tiene sentido."
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "h1",
+   "text": "4. Productieve voorvoegsels en stammen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    4.4,
+    4.4,
+    4.6
+   ],
+   "head": [
+    "Voorvoegsel / stam",
+    "Betekenis",
+    "Voorbeeld",
+    "Nederlands"
+   ],
+   "rows": [
+    [
+     "anti-",
+     "tegen",
+     "antibiótico",
+     "antibioticum"
+    ],
+    [
+     "bio-",
+     "leven",
+     "biología",
+     "biologie"
+    ],
+    [
+     "geo-",
+     "aarde",
+     "geografía",
+     "geografie, aardrijkskunde"
+    ],
+    [
+     "micro- / macro-",
+     "klein / groot",
+     "microscopio, macroeconomía",
+     "microscoop, macro-economie"
+    ],
+    [
+     "poli-",
+     "veel",
+     "políglota",
+     "polyglot"
+    ],
+    [
+     "neo-",
+     "nieuw",
+     "neoclásico",
+     "neoklassiek"
+    ],
+    [
+     "-logía",
+     "leer van",
+     "psicología",
+     "psychologie"
+    ],
+    [
+     "-fobia",
+     "angst voor",
+     "claustrofobia",
+     "claustrofobie"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Veelgemaakte fouten"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Voy a chequear el email.",
+     "Voy a revisar el correo.",
+     "chequear is een anglicisme."
+    ],
+    [
+     "Apliqué para el puesto.",
+     "Solicité el puesto.",
+     "aplicar = een regel toepassen."
+    ],
+    [
+     "Eso hace sentido.",
+     "Eso tiene sentido.",
+     "tener sentido."
+    ],
+    [
+     "Es un issue importante.",
+     "Es un tema importante.",
+     "issue is geen Spaans."
+    ],
+    [
+     "Tengo que hacer un parking.",
+     "Tengo que aparcar.",
+     "de auto aparcar (parkeren)."
+    ],
+    [
+     "Llámame para atrás.",
+     "Devuélveme la llamada.",
+     "een letterlijke vertaling van het Engelse 'call back'."
+    ],
+    [
+     "Un examen de ojo.",
+     "Un examen ocular.",
+     "vaktermen gebruiken het geleerde bijv. nw."
+    ]
+   ],
+   "latam_ok": true
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "h1",
+   "text": "6. Zelftoets"
+  },
+  {
+   "type": "p",
+   "text": "Vul het gat in. De antwoorden staan op de laatste pagina."
+  },
+  {
+   "type": "exercises",
+   "titles": [
+    "Zin",
+    "Hint"
+   ],
+   "items": [
+    {
+     "q": "El adjetivo culto de «ojo» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "ocular",
+     "full": "El adjetivo culto de «ojo» es ocular."
+    },
+    {
+     "q": "El adjetivo culto de «leche» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "lácteo",
+     "full": "El adjetivo culto de «leche» es lácteo."
+    },
+    {
+     "q": "El adjetivo culto de «noche» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "nocturno",
+     "full": "El adjetivo culto de «noche» es nocturno."
+    },
+    {
+     "q": "El adjetivo culto de «mano» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "manual",
+     "full": "El adjetivo culto de «mano» es manual."
+    },
+    {
+     "q": "El adjetivo culto de «agua» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "acuático",
+     "full": "El adjetivo culto de «agua» es acuático."
+    },
+    {
+     "q": "El adjetivo culto de «padre» es ______.",
+     "hint": "geleerd bijv. nw.",
+     "a": "paterno",
+     "full": "El adjetivo culto de «padre» es paterno."
+    },
+    {
+     "q": "«Aceite» viene del ______.",
+     "hint": "taal",
+     "a": "árabe",
+     "full": "«Aceite» viene del árabe."
+    },
+    {
+     "q": "«Chocolate» viene del ______.",
+     "hint": "Mexicaanse taal",
+     "a": "náhuatl",
+     "full": "«Chocolate» viene del náhuatl."
+    },
+    {
+     "q": "En España se dice «correo ______» y no «email».",
+     "hint": "bijv. nw.",
+     "a": "electrónico",
+     "full": "En España se dice «correo electrónico» y no «email»."
+    },
+    {
+     "q": "En España se dice «______» en vez de «parking».",
+     "hint": "Spaans zelfst. nw.",
+     "a": "aparcamiento",
+     "full": "En España se dice «aparcamiento» en vez de «parking»."
+    },
+    {
+     "q": "«Izquierda» viene del ______.",
+     "hint": "taal",
+     "a": "euskera",
+     "full": "«Izquierda» viene del euskera."
+    },
+    {
+     "q": "«Hijo» viene del latín «______».",
+     "hint": "Latijns woord",
+     "a": "filius",
+     "full": "«Hijo» viene del latín «filius»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Vertaal in het Spaans (Spanje):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Zuivelproducten.",
+     "a": "Productos lácteos."
+    },
+    {
+     "q": "Ik ga mijn e-mail nakijken.",
+     "a": "Voy a revisar el correo electrónico."
+    },
+    {
+     "q": "Dat is logisch.",
+     "a": "Eso tiene sentido."
+    },
+    {
+     "q": "Ik heb op de baan gesolliciteerd.",
+     "a": "Solicité el puesto."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

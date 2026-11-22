@@ -537,5 +537,115 @@
   "subtitle": "abstracte zelfstandige naamwoorden, academische werkwoorden, vaste combinaties, uitdrukkingen voor discussies en valse vrienden",
   "content": "c1_10_vocabulary.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_01_Nuances_van_de_tijden_en_manieren_om_iets_op_te_dragen",
+  "file": "C2_01_Nuances_van_de_tijden_en_manieren_om_iets_op_te_dragen.pdf",
+  "level": "C2",
+  "number": 1,
+  "section": "Grammatica",
+  "title": "Nuances van de tijden en manieren om iets op te dragen",
+  "subtitle": "bijzonder gebruik van de presente, imperfecto, futuro en condicional, plus alle manieren om een opdracht te geven",
+  "content": "c2_01_tense_nuance_orders.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_02_De_vele_functies_van_se_en_de_onbeklemtoonde_voornaamwoorden",
+  "file": "C2_02_De_vele_functies_van_se_en_de_onbeklemtoonde_voornaamwoorden.pdf",
+  "level": "C2",
+  "number": 2,
+  "section": "Grammatica",
+  "title": "De vele functies van se en de onbeklemtoonde voornaamwoorden",
+  "subtitle": "se bij ongelukjes, de ethische datief, verdubbeling en plaats van voornaamwoorden, het onzijdige lo, leísmo en laísmo",
+  "content": "c2_02_se_clitics.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_03_Gevorderde_zinsbouw_en_woordvolgorde",
+  "file": "C2_03_Gevorderde_zinsbouw_en_woordvolgorde.pdf",
+  "level": "C2",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Gevorderde zinsbouw en woordvolgorde",
+  "subtitle": "gemarkeerde woordvolgorde, plaats van het bijvoeglijk naamwoord, gespleten zinnen, losse constructies, uitroepen en weglatingen",
+  "content": "c2_03_syntax.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_04_Dequeísmo_queísmo_en_vaste_voorzetsels_bij_werkwoorden",
+  "file": "C2_04_Dequeísmo_queísmo_en_vaste_voorzetsels_bij_werkwoorden.pdf",
+  "level": "C2",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "Dequeísmo, queísmo en vaste voorzetsels bij werkwoorden",
+  "subtitle": "welke werkwoorden de, en, a of con nodig hebben voor que, voegwoorden met de, en de persoonlijke a",
+  "content": "c2_04_government.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_05_Retoriek_en_stijlfiguren",
+  "file": "C2_05_Retoriek_en_stijlfiguren.pdf",
+  "level": "C2",
+  "number": 5,
+  "section": "Stijl",
+  "title": "Retoriek en stijlfiguren",
+  "subtitle": "metafoor en vergelijking, ironie, eufemisme, retorische middelen en beeldende uitdrukkingen",
+  "content": "c2_05_rhetoric.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_06_Formeel_en_ambtelijk_schrijven",
+  "file": "C2_06_Formeel_en_ambtelijk_schrijven.pdf",
+  "level": "C2",
+  "number": 6,
+  "section": "Schrijven",
+  "title": "Formeel en ambtelijk schrijven",
+  "subtitle": "brieven en e-mails, verzoeken en klachten, juridische en officiële formules, rapporttaal en de Spaanse bureaucratie",
+  "content": "c2_06_formal_writing.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_07_Uitdrukkingen_straattaal_en_spreektaal_in_Spanje",
+  "file": "C2_07_Uitdrukkingen_straattaal_en_spreektaal_in_Spanje.pdf",
+  "level": "C2",
+  "number": 7,
+  "section": "Woordenschat",
+  "title": "Uitdrukkingen, straattaal en spreektaal in Spanje",
+  "subtitle": "alledaagse woorden uit de spreektaal, uitdrukkingen, stopwoorden, grove woorden om te herkennen en register",
+  "content": "c2_07_idioms_slang.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_08_Etymologie_en_de_herkomst_van_woorden",
+  "file": "C2_08_Etymologie_en_de_herkomst_van_woorden.pdf",
+  "level": "C2",
+  "number": 8,
+  "section": "Woordenschat",
+  "title": "Etymologie en de herkomst van woorden",
+  "subtitle": "Latijnse, Arabische, inheemse en andere bronnen, geleerde dubbelvormen, anglicismen en productieve stammen",
+  "content": "c2_08_etymology.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_09_Vakwoordenschat",
+  "file": "C2_09_Vakwoordenschat.pdf",
+  "level": "C2",
+  "number": 9,
+  "section": "Woordenschat",
+  "title": "Vakwoordenschat",
+  "subtitle": "termen uit recht, geneeskunde, technologie, economie en techniek voor professioneel Spaans",
+  "content": "c2_09_specialist.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C2_10_Uitdrukkingen_voor_meesterschap_en_literaire_woordenschat",
+  "file": "C2_10_Uitdrukkingen_voor_meesterschap_en_literaire_woordenschat.pdf",
+  "level": "C2",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Uitdrukkingen voor meesterschap en literaire woordenschat",
+  "subtitle": "gevorderde vaste uitdrukkingen, werkwoordelijke uitdrukkingen, literaire zelfstandige en bijvoeglijke naamwoorden, en de C2-checklist",
+  "content": "c2_10_mastery.json",
+  "exercise_count": 12
  }
 ]
