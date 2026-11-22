@@ -103,6 +103,7 @@ def save(path, data):
     database = _database()
     if database is None:
         # Write to a temporary file first, so a crash can never leave half a file.
+        path.parent.mkdir(parents=True, exist_ok=True)  # the results folder, the first time
         tmp = path.with_suffix(".tmp")
         tmp.write_text(text, encoding="utf-8")
         os.replace(tmp, path)

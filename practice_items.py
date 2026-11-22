@@ -21,6 +21,8 @@ item.prompt. A list is like a cell array, and its first element is number 0, not
 import json, re, unicodedata
 from pathlib import Path
 
+import course
+
 # The exercise types: (mode, title, description). This is also the order you practise them in:
 # first recognising words, then producing them, then from controlled exercises to free ones.
 # After a session, the app continues with the next type in this list.
@@ -262,8 +264,8 @@ def add_tiles(items, pdf_id, prompt, spanish):
     add_listening(items, pdf_id, spanish)
 
 
-def build_items(pdf_id, document):
-    """Returns the list of all practice questions of one PDF."""
+def build_items(pdf_id, document, course_id=None):
+    """Returns the list of all practice questions of one PDF of a course (None: the open course)."""
     items = {}
     accent_pdf = pdf_id.startswith(ACCENT_PDFS)
     for block in document["blocks"]:
@@ -313,21 +315,20 @@ def build_items(pdf_id, document):
                 add_verb_forms(items, pdf_id, verb["inf"], verb.get("meaning", ""),
                                block.get("tense", "present"), verb["forms"],
                                block.get("persons", PERSONS))
-    add_verbs_in_context(items, pdf_id)
+    add_verbs_in_context(items, pdf_id, course_id)
     return list(items.values())
 
 
 # ---------- verbs in context ----------
-# A file in data/verbs_in_context, named after the PDF (A2_01.json), holds sentences in which the
+# A file in courses/<course>/verbs_in_context, named after the PDF (A2_01.json), holds sentences in which the
 # context tells you the form of the verb; the only hint is the infinitive:
 #   {"pdf": "A2_01", "items": [["Ayer yo [hablé] con mi jefe.", "hablar", "optional note"], ...]}
 # Several correct forms go inside the brackets with ' / ' between them: [tuviera / tuviese].
-CONTEXT_FOLDER = Path(__file__).parent / "data" / "verbs_in_context"
 CONTEXT_GROUP = "Verbs in context"
 
 
-def add_verbs_in_context(items, pdf_id):
-    path = CONTEXT_FOLDER / f"{pdf_id[:5]}.json"  # [:5] is the start of the id: A2_01
+def add_verbs_in_context(items, pdf_id, course_id=None):
+    path = course.folder(course_id) / "verbs_in_context" / f"{pdf_id[:5]}.json"  # [:5] is the start of the id: A2_01
     if not path.exists():
         return
     for entry in json.loads(path.read_text(encoding="utf-8"))["items"]:

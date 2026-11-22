@@ -7,12 +7,15 @@ from pathlib import Path
 
 import pymupdf
 
+import course
 import practice_store as store
 import study_log
 import study_plan as plans
 from practice_items import build_items, build_theme_items
 
 HERE = Path(__file__).parent
+COURSE_ID = "es_from_en"  # the course whose content is checked
+COURSE = course.folder(COURSE_ID)
 problems = []
 
 
@@ -22,16 +25,16 @@ def expect(condition, message):
 
 
 # ---------- the real PDFs and themes, as the Schedule screen gets them ----------
-catalog = json.loads((HERE / "data" / "catalog.json").read_text(encoding="utf-8"))
+catalog = json.loads((COURSE / "catalog.json").read_text(encoding="utf-8"))
 pdfs = []
 for pdf in catalog:
-    with pymupdf.open(HERE / "static" / "pdfs" / pdf["file"]) as doc:
+    with pymupdf.open(course.pdf_folder(COURSE_ID) / pdf["file"]) as doc:
         pages = doc.page_count
-    document = json.loads((HERE / "data" / "content" / pdf["content"]).read_text(encoding="utf-8"))
+    document = json.loads((COURSE / "content" / pdf["content"]).read_text(encoding="utf-8"))
     pdfs.append({"id": pdf["id"], "level": pdf["level"], "number": pdf["number"], "title": pdf["title"],
                  "pages": pages, "items": build_items(pdf["id"], document)})
 themes = []
-for path in sorted((HERE / "data" / "themes").glob("*.json")):
+for path in sorted((COURSE / "themes").glob("*.json")):
     theme = json.loads(path.read_text(encoding="utf-8"))
     themes.append({"name": path.stem, "title": theme["title"],
                    "lists": [{"name": part["name"], "level": part["level"]} for part in theme["lists"]],

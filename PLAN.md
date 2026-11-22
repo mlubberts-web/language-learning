@@ -56,7 +56,7 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 1: the engine (any language pair)
 
-- [ ] 1.1 Course folders: move the Spanish data to `courses/es_from_en/` (content, themes,
+- [x] 1.1 Course folders: move the Spanish data to `courses/es_from_en/` (content, themes,
       verbs_in_context, pdfs, catalog, mock exams) with a `course.json` describing the course
       (languages, level names, PDF list). All code reads paths through one `course.py`.
 - [ ] 1.2 Language profiles `languages/es.py`, `en.py`, `nl.py`: what counts as a small

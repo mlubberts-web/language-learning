@@ -108,7 +108,7 @@ def finish_mock():
         mock["saved"] = True
         data = practice.practice_data()
         store.save_mock(data, mock_result(mock))
-        store.save(practice.PRACTICE_FILE, data)
+        store.save(practice.practice_file(), data)
     st.session_state.view = "mock_result"
 
 
@@ -125,7 +125,7 @@ def submit_mock(key):
     typed = st.session_state.get(key, "")
     result, _ = logic.check_answer(item, typed, practice.accepted_for(item))
     store.record(practice.practice_data(), item["id"], result != "wrong")
-    store.save(practice.PRACTICE_FILE, practice.practice_data())
+    store.save(practice.practice_file(), practice.practice_data())
     log_activity("answer", result != "wrong")  # each mock question is a first try
     mock["answers"].append({"item": item, "typed": typed, "result": result})
     mock["position"] += 1
@@ -173,7 +173,7 @@ def overrule_mock(index):
     store.accept(data, logic.answer_key(answer["item"]), answer["typed"])  # right from now on
     log_overrule()
     data["mocks"][-1] = mock_result(mock)  # the mock just finished is the last in the list
-    store.save(practice.PRACTICE_FILE, data)
+    store.save(practice.practice_file(), data)
 
 
 def mock_result_screen():

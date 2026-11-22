@@ -10,13 +10,13 @@ from pathlib import Path
 
 import streamlit as st
 
+import course
 import practice_logic as logic
 import practice_store as store
 from practice_items import MODES, build_items, build_theme_items
 from ui import go_home, go_level, go_view, hero, log_activity, log_overrule
 
 HERE = Path(__file__).parent
-PRACTICE_FILE = HERE / "practice.json"
 SIZES = {"10": 10, "20": 20, "All": None}
 DEFAULT_SIZE = "All"
 EXTRA_TITLES = {"test": "🎯 Mixed test", "weak": "💪 Weak questions"}
@@ -48,7 +48,7 @@ def skip_known():
 
 def save_skip(widget_key):
     practice_data().setdefault("settings", {})["skip_known"] = st.session_state[widget_key]
-    store.save(PRACTICE_FILE, practice_data())
+    store.save(practice_file(), practice_data())
 
 
 def skip_switch(widget_key):
@@ -160,28 +160,46 @@ VOICE_HELP = ("No Spanish (Spain) voice was found, so you may hear nothing or a 
 
 
 # ---------- data ----------
-@st.cache_data(show_spinner=False)
+# Each loader has a cached part that takes the course id, so every course is stored separately,
+# and a short function without it for the open course.
+def practice_file():
+    """Your practice results for the open course."""
+    return course.results_file("practice")
+
+
 def load_all_items():
-    """Returns a dict: for each PDF id, the list of its questions. Stored after the first time."""
-    catalog = json.loads((HERE / "data" / "catalog.json").read_text(encoding="utf-8"))
+    """Returns a dict: for each PDF id, the list of its questions."""
+    return _load_all_items(course.current())
+
+
+@st.cache_data(show_spinner=False)
+def _load_all_items(course_id):
     result = {}
-    for pdf in catalog:
-        path = HERE / "data" / "content" / pdf["content"]
-        result[pdf["id"]] = build_items(pdf["id"], json.loads(path.read_text(encoding="utf-8")))
+    for pdf in _load_catalog(course_id):
+        path = course.folder(course_id) / "content" / pdf["content"]
+        result[pdf["id"]] = build_items(pdf["id"], json.loads(path.read_text(encoding="utf-8")), course_id)
     return result
 
 
-@st.cache_data(show_spinner=False)
 def load_catalog():
-    return json.loads((HERE / "data" / "catalog.json").read_text(encoding="utf-8"))
+    return _load_catalog(course.current())
 
 
 @st.cache_data(show_spinner=False)
+def _load_catalog(course_id):
+    return json.loads((course.folder(course_id) / "catalog.json").read_text(encoding="utf-8"))
+
+
 def load_themes():
+    return _load_themes(course.current())
+
+
+@st.cache_data(show_spinner=False)
+def _load_themes(course_id):
     """Returns the themed word lists: for each theme file its title, kind, lists and questions.
     path.stem is the file name without .json, for example 'food'."""
     themes = {}
-    for path in sorted((HERE / "data" / "themes").glob("*.json")):
+    for path in sorted((course.folder(course_id) / "themes").glob("*.json")):
         theme = json.loads(path.read_text(encoding="utf-8"))
         lists = [{"name": part["name"], "level": part["level"]} for part in theme["lists"]]
         themes[path.stem] = {"title": theme["title"], "kind": theme.get("kind", "topic"), "lists": lists,
@@ -191,7 +209,7 @@ def load_themes():
 
 def practice_data():
     if "practice" not in st.session_state:
-        st.session_state.practice = store.load(PRACTICE_FILE)
+        st.session_state.practice = store.load(practice_file())
     return st.session_state.practice
 
 
@@ -225,7 +243,7 @@ def set_done(keys, widget_key):
     """For the 'Mark as done' checkboxes. The checkbox's new value is in session_state[widget_key]."""
     for key in keys:
         store.mark_done(practice_data(), key, st.session_state[widget_key])
-    store.save(PRACTICE_FILE, practice_data())
+    store.save(practice_file(), practice_data())
 
 
 def done_checkbox(items, label, widget_key):
@@ -375,7 +393,7 @@ def grade(typed):
     first = logic.is_first_attempt(drill)
     if first:
         store.record(practice_data(), item["id"], correct)
-        store.save(PRACTICE_FILE, practice_data())
+        store.save(practice_file(), practice_data())
     # Every answer counts towards today's study time, also in later rounds; only first tries
     # count towards your accuracy on the Progress tab.
     log_activity("answer", correct if first else None)
@@ -395,7 +413,7 @@ def i_was_right():
         log_overrule()
     # Remember the answer, also in later rounds, so it counts as correct from now on.
     store.accept(practice_data(), logic.answer_key(item), drill["feedback"]["typed"])
-    store.save(PRACTICE_FILE, practice_data())
+    store.save(practice_file(), practice_data())
     logic.change_to_correct(drill, item["id"])
     drill["feedback"]["result"] = "overruled"
 
@@ -405,7 +423,7 @@ def next_question():
     logic.go_to_next(drill)
     if drill["finished"] and drill["pdf_id"]:  # a PDF score is only saved for a finished session
         store.save_score(practice_data(), drill["pdf_id"], drill["mode"], logic.score_percent(drill))
-        store.save(PRACTICE_FILE, practice_data())
+        store.save(practice_file(), practice_data())
 
 
 def click_tile(index):
@@ -499,7 +517,7 @@ def practice_screen():
 
 def remove_accepted(key, typed):
     store.unaccept(practice_data(), key, typed)
-    store.save(PRACTICE_FILE, practice_data())
+    store.save(practice_file(), practice_data())
 
 
 def accepted_section(items, key):

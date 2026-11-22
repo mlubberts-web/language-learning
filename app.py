@@ -11,6 +11,7 @@ import pymupdf
 import streamlit as st
 
 import clock
+import course
 import extra_screens as extra
 import login
 import practice_screen as practice
@@ -21,9 +22,6 @@ import storage
 from ui import go_home, go_level, go_view, hero, log_activity, log_data, save_log
 
 HERE = Path(__file__).parent
-PDF_DIR = HERE / "static" / "pdfs"
-CATALOG = HERE / "data" / "catalog.json"
-PROGRESS = HERE / "progress.json"
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 LEVEL_NAMES = {"A1": "Beginner", "A2": "Elementary", "B1": "Intermediate",
                "B2": "Upper intermediate", "C1": "Advanced", "C2": "Mastery"}
@@ -54,38 +52,41 @@ USER = login.start()
 
 
 # ---------- data ----------
-@st.cache_data
-def load_catalog():
-    with open(CATALOG, encoding="utf-8") as fh:
-        return json.load(fh)
+def pdf_path(file):
+    return course.pdf_folder() / file
 
 
-@st.cache_data
 def page_count(file):
-    with pymupdf.open(PDF_DIR / file) as doc:
+    return _page_count(file, course.current())
+
+
+@st.cache_data
+def _page_count(file, course_id):
+    # course_id makes each course's PDFs cached separately (the same file name can be in two courses)
+    with pymupdf.open(course.pdf_folder(course_id) / file) as doc:
         return doc.page_count
 
 
 @st.cache_data(show_spinner=False)
-def render_page(file, index):
+def render_page(file, index, course_id):
     """Return a page as a vector SVG data URI, so it stays sharp at any size or browser zoom."""
-    with pymupdf.open(PDF_DIR / file) as doc:
+    with pymupdf.open(course.pdf_folder(course_id) / file) as doc:
         svg = doc[index].get_svg_image(text_as_path=True)
     return "data:image/svg+xml;base64," + base64.b64encode(svg.encode("utf-8")).decode("ascii")
 
 
-catalog = load_catalog()
+catalog = practice.load_catalog()  # the PDFs of the open course
 by_id = {i["id"]: i for i in catalog}
 
 
 # ---------- progress ----------
 def load_progress():
     # storage.py reads the file, or the online database when the app runs on the internet.
-    return storage.load(PROGRESS, {})
+    return storage.load(course.results_file("progress"), {})
 
 
 def save_progress():
-    storage.save(PROGRESS, st.session_state.progress)
+    storage.save(course.results_file("progress"), st.session_state.progress)
 
 
 def entry(pid):
@@ -130,11 +131,11 @@ def level_items(level):
 
 
 def browser_url(item, page_index=0):
-    return f"/app/static/pdfs/{item['file']}#page={page_index + 1}"
+    return f"{course.pdf_url(item['file'])}#page={page_index + 1}"
 
 
 def open_in_pdf_app(item):
-    path = str(PDF_DIR / item["file"])
+    path = str(pdf_path(item["file"]))
     if hasattr(os, "startfile"):
         os.startfile(path)  # Windows only
         st.toast("Opened in your default PDF app.")
@@ -244,13 +245,14 @@ def sidebar():
         if USER:
             login.sidebar_part(USER)
         else:
-            st.caption("Progress is saved in progress.json, practice.json and study_log.json next to app.py.")
+            st.caption("Progress is saved in the results folder next to app.py.")
         your_data()
         login.admin_part()  # only for admins: the accounts people made
 
 
 # ---------- your data: a backup to download, and putting one back ----------
-PARTS = {"progress": PROGRESS.name, "practice": practice.PRACTICE_FILE.name, "study_log": "study_log.json"}
+# The names of the three files in a backup (the same names as in the original Spanish app)
+PARTS = {"progress": "progress.json", "practice": "practice.json", "study_log": "study_log.json"}
 
 
 def backup_text():
@@ -284,7 +286,7 @@ def put_back(found):
         save_progress()
     if "practice" in found:
         st.session_state.practice = found["practice"]
-        store.save(practice.PRACTICE_FILE, found["practice"])
+        store.save(practice.practice_file(), found["practice"])
     if "study_log" in found:
         st.session_state.study_log = found["study_log"]
         save_log()
@@ -458,7 +460,7 @@ def reader():
         open_in_pdf_app(item)
     size = bar[6].selectbox("Size", list(PAGE_WIDTHS), index=1, label_visibility="collapsed")
 
-    st.html(f'<div style="text-align:center"><img class="pdf-page" src="{render_page(item["file"], page)}" '
+    st.html(f'<div style="text-align:center"><img class="pdf-page" src="{render_page(item["file"], page, course.current())}" '
             f'alt="Page {page + 1} of {total}" style="max-width:{PAGE_WIDTHS[size]}px"></div>')
 
     foot = st.columns([1, 1, 2, 2, 2])

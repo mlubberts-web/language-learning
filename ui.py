@@ -3,9 +3,13 @@ from pathlib import Path
 
 import streamlit as st
 
+import course
 import study_log
 
-LOG_FILE = Path(__file__).parent / "study_log.json"
+
+def log_file():
+    """The study log of the open course."""
+    return course.results_file("study_log")
 
 
 def go_home():
@@ -32,14 +36,14 @@ def hero(eyebrow, title, text, share):
 
 # ---------- study log: the time you study each day ----------
 def log_data():
-    """The study log, read from study_log.json once and then kept in the session."""
+    """The study log, read once and then kept in the session."""
     if "study_log" not in st.session_state:
-        st.session_state.study_log = study_log.load(LOG_FILE)
+        st.session_state.study_log = study_log.load(log_file())
     return st.session_state.study_log
 
 
 def save_log():
-    study_log.save(LOG_FILE, log_data())
+    study_log.save(log_file(), log_data())
 
 
 def log_activity(kind, first_try=None):

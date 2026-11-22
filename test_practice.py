@@ -5,10 +5,13 @@ import collections, json, tempfile
 from pathlib import Path
 
 import practice_logic as logic
+import course
 import practice_store as store
 from practice_items import MODES, build_items, build_theme_items, clean_text, without_accents
 
 HERE = Path(__file__).parent
+COURSE_ID = "es_from_en"  # the course whose content is checked
+COURSE = course.folder(COURSE_ID)
 problems = []
 
 
@@ -18,11 +21,11 @@ def expect(condition, message):
 
 
 # ---------- every question of every PDF ----------
-catalog = json.loads((HERE / "data" / "catalog.json").read_text(encoding="utf-8"))
+catalog = json.loads((COURSE / "catalog.json").read_text(encoding="utf-8"))
 totals = collections.Counter()
 all_items = []
 for pdf in catalog:
-    document = json.loads((HERE / "data" / "content" / pdf["content"]).read_text(encoding="utf-8"))
+    document = json.loads((COURSE / "content" / pdf["content"]).read_text(encoding="utf-8"))
     items = build_items(pdf["id"], document)
     all_items += items
     ids = [i["id"] for i in items]
@@ -66,7 +69,7 @@ LATIN_AMERICAN = {"carro", "computadora", "celular", "jugo", "manejar", "boleto"
                   "durazno", "chamaco", "ómnibus", "tiquete", "refrigeradora", "mesero", "mesera",
                   "elote", "ejote", "chícharo", "betabel"}
 theme_words = 0
-for path in sorted((HERE / "data" / "themes").glob("*.json")):
+for path in sorted((COURSE / "themes").glob("*.json")):
     theme = json.loads(path.read_text(encoding="utf-8"))
     expect(theme.get("kind") in ("topic", "language"), f"{path.stem}: kind must be topic or language")
     entries = [entry for part in theme["lists"] for entry in part["items"]]
@@ -332,7 +335,7 @@ expect(verb["id"].endswith("|verbs|hablar · preterite · él / ella / usted|to 
        f"the id must stay as before, so your results stay: {verb['id']}")
 
 # ---------- verbs in context ----------
-context_files = sorted((HERE / "data" / "verbs_in_context").glob("*.json"))
+context_files = sorted((COURSE / "verbs_in_context").glob("*.json"))
 prefixes = {pdf["id"][:5] for pdf in catalog}
 expect(len(context_files) >= 20, f"only {len(context_files)} files with verbs in context")
 context_items = [i for i in all_items if i["group"] == "Verbs in context"]

@@ -4,6 +4,7 @@ dates you finished things are kept in study_log.py."""
 import html
 from datetime import date, timedelta
 import clock
+import course
 from pathlib import Path
 
 import pymupdf
@@ -60,23 +61,32 @@ def plural(count, word):
 
 
 # ---------- the units of the plan and how far you are ----------
-@st.cache_resource(show_spinner=False)
+# As in practice_screen.py: the cached parts take the course id, so each course is kept apart.
 def pdf_info():
-    """cache_resource keeps one copy for the whole session; these lists are only read, never changed."""
-    all_items = practice.load_all_items()
+    return _pdf_info(course.current())
+
+
+@st.cache_resource(show_spinner=False)
+def _pdf_info(course_id):
+    """cache_resource keeps one copy for everyone; these lists are only read, never changed."""
+    all_items = practice._load_all_items(course_id)
     result = []
-    for pdf in practice.load_catalog():
-        with pymupdf.open(HERE / "static" / "pdfs" / pdf["file"]) as doc:
+    for pdf in practice._load_catalog(course_id):
+        with pymupdf.open(course.pdf_folder(course_id) / pdf["file"]) as doc:
             pages = doc.page_count
         result.append({"id": pdf["id"], "level": pdf["level"], "number": pdf["number"],
                        "title": pdf["title"], "pages": pages, "items": all_items[pdf["id"]]})
     return result
 
 
-@st.cache_resource(show_spinner=False)
 def theme_info():
+    return _theme_info(course.current())
+
+
+@st.cache_resource(show_spinner=False)
+def _theme_info(course_id):
     return [{"name": name, "title": theme["title"], "lists": theme["lists"], "items": theme["items"]}
-            for name, theme in practice.load_themes().items()]
+            for name, theme in practice._load_themes(course_id).items()]
 
 
 def goals():
@@ -91,27 +101,32 @@ def phases():
 
 
 @st.cache_resource(show_spinner=False)
-def units_for(phase_list):
-    """The units for these phases. cache_resource keeps one list for each set of deadlines, shared
-    by everyone with the same deadlines; the lists are only read, never changed."""
-    return plans.all_units(pdf_info(), theme_info(), phase_list)
+def units_for(course_id, phase_list):
+    """The units for these phases. cache_resource keeps one list for each course and set of
+    deadlines, shared by everyone with the same ones; the lists are only read, never changed."""
+    return plans.all_units(_pdf_info(course_id), _theme_info(course_id), phase_list)
 
 
 def plan_units():
     # The units only depend on the levels of each phase, not on the dates, so the dates are left out:
     # then moving a deadline doesn't make a new list.
-    return units_for([{key: value for key, value in phase.items() if key not in ("start", "end", "goal")}
+    return units_for(course.current(),
+                     [{key: value for key, value in phase.items() if key not in ("start", "end", "goal")}
                       for phase in phases()])
 
 
-@st.cache_resource(show_spinner=False)
 def unit_items():
+    return _unit_items(course.current())
+
+
+@st.cache_resource(show_spinner=False)
+def _unit_items(course_id):
     """For each exercise unit: its questions. The unit id is 'exercise:' + source + '|' + type."""
     groups = {}
-    for pdf in pdf_info():
+    for pdf in _pdf_info(course_id):
         for item in pdf["items"]:
             groups.setdefault(f"exercise:{pdf['id']}|{item['mode']}", []).append(item)
-    for theme in theme_info():
+    for theme in _theme_info(course_id):
         for item in theme["items"]:
             groups.setdefault(f"exercise:THEME_{theme['name']}|list:{item['group']}|{item['mode']}", []).append(item)
     return groups
