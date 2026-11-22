@@ -80,7 +80,7 @@ Choices made (Menno can overrule any of them):
       Spanish PDFs (PyMuPDF). Check it on a few Spanish units side by side with the originals.
 - [x] 1.7 Tests run for every course (`run_tests.py` runs all of them); a course with only some units is allowed (the plan and
       progress only count what exists).
-- [ ] 1.8 Landing page for visitors who are not logged in: what the site is, the six courses,
+- [x] 1.8 Landing page for visitors who are not logged in: what the site is, the six courses,
       log in / create an account. Works on a phone.
 - [ ] 1.9 🙋 New Supabase project + SQL, new Streamlit app with secrets. Deploy and test online.
 

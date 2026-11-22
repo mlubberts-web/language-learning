@@ -27,11 +27,13 @@ def go_view(view):
     st.session_state.level = None
 
 
-def hero(eyebrow, title, text, share):
-    """The dark banner at the top of a screen. 'share' is the filled part of the bar, 0 to 1."""
+def hero(eyebrow, title, text, share=None):
+    """The dark banner at the top of a screen. 'share' is the filled part of the bar, 0 to 1;
+    without it there is no bar (the landing page)."""
+    bar = (f'<div class="hero-track"><div class="hero-fill" style="width:{share:.1%}"></div></div>'
+           if share is not None else "")
     st.html(f'<div class="hero"><div class="hero-eyebrow">{eyebrow}</div>'
-            f'<div class="hero-title">{title}</div><div class="hero-text">{text}</div>'
-            f'<div class="hero-track"><div class="hero-fill" style="width:{share:.1%}"></div></div></div>')
+            f'<div class="hero-title">{title}</div><div class="hero-text">{text}</div>{bar}</div>')
 
 
 # ---------- study log: the time you study each day ----------

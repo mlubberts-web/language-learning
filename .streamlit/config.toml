@@ -7,6 +7,10 @@ headless = true
 [browser]
 gatherUsageStats = false
 
+[client]
+# "minimal": visitors don't see the developer buttons (like Deploy) at the top right
+toolbarMode = "minimal"
+
 [theme]
 base = "light"
 primaryColor = "#c0392b"

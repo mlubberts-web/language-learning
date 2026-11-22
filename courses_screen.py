@@ -46,6 +46,7 @@ def open_course(course_id):
     if course_id not in data["courses"]:
         data["courses"].append(course_id)
     data["last"] = course_id
+    data["ui_lang"] = st.session_state.get("ui_lang", data.get("ui_lang", "en"))
     save_profile()
     for key in [k for k in st.session_state if k not in KEEP]:  # list() first: the loop deletes
         del st.session_state[key]
@@ -94,8 +95,11 @@ def has_old_results():
         return False
 
 
-def language_choice():
-    st.segmented_control("🌐", list(LANGUAGE_NAMES), key="ui_lang", required=True, on_change=set_ui_lang,
+def language_choice(save=True):
+    """English / Nederlands / Español for the screens before a course is open. save=False on the
+    landing page: nobody is logged in yet, so there is no profile to keep it in."""
+    st.segmented_control("🌐", list(LANGUAGE_NAMES), key="ui_lang", required=True,
+                         on_change=set_ui_lang if save else None,
                          format_func=LANGUAGE_NAMES.get, label_visibility="collapsed")
 
 
@@ -106,14 +110,22 @@ def choice_screen(adding=False):
     st.title(t("Add a course") if adding else t("Choose a course"))
     st.caption(t("Each course takes you from A1 to C2 with reading material, exercises, a study plan "
                  "and mock exams. You can follow more than one course; your results stay apart."))
-    following = profile()["courses"]
+    course_cards(buttons=True)
+
+
+def course_cards(buttons):
+    """A card per course. With buttons to open or start a course; without (the landing page) a
+    card only says whether the course is there yet."""
+    following = profile()["courses"] if buttons else []
     columns = st.columns(3)
     for n, (course_id, learn, base) in enumerate(course.PLANNED):
         title, subtitle = course_name(course_id)
         with columns[n % 3].container(border=True, key=f"course_{course_id}"):
             st.markdown(f"### {title}")
             st.caption(subtitle)
-            if not course.is_available(course_id):
+            if not buttons:
+                st.markdown(t("✅ Available") if course.is_available(course_id) else t("🕓 Coming soon"))
+            elif not course.is_available(course_id):
                 st.button(t("Coming soon"), key=f"open_course_{course_id}", disabled=True, width="stretch")
             elif course_id in following:
                 st.button(t("Open"), key=f"open_course_{course_id}", on_click=open_course, args=(course_id,),

@@ -28,6 +28,9 @@ import streamlit as st
 import accounts
 import storage
 from storage import StorageError
+import courses_screen
+import ui_text
+from ui import hero
 from ui_text import mark, t
 
 DEFAULT_TIME_ZONE = "Europe/Amsterdam"
@@ -119,8 +122,32 @@ def from_bookmark(database):
     return None
 
 
+def guess_language():
+    """The visitor's language from their browser ('nl-NL' -> 'nl'), if the site has it; else English."""
+    try:
+        code = (st.context.locale or "en")[:2].lower()
+    except Exception:
+        code = "en"
+    return code if code in ui_text.LANGUAGES else "en"
+
+
 def login_screen(database):
-    st.title("📘 Language Learning")
+    """The landing page for visitors who are not logged in: what the site is, its courses, and
+    logging in or making an account."""
+    st.session_state.setdefault("ui_lang", guess_language())
+    courses_screen.language_choice(save=False)  # nobody is logged in yet, so nothing to save it in
+    hero("📘 Language Learning", t("Learn a language properly, from A1 to C2"),
+         t("Spanish, English and Dutch, explained in your own language. Read, practise, follow a study "
+           "plan to your own deadlines and train for the official exams."))
+    st.write("")
+    columns = st.columns(3)
+    for column, (title, text) in zip(columns, FEATURES):
+        with column.container(border=True):
+            st.markdown(f"#### {t(title)}")
+            st.caption(t(text))
+    st.subheader(t("The courses"))
+    courses_screen.course_cards(buttons=False)
+    st.subheader(t("Log in or make an account"))
     if secrets_part("signup") is None:
         login_form(database)
         return
@@ -129,6 +156,14 @@ def login_screen(database):
         login_form(database)
     with new_tab:
         signup_form(database)
+
+
+# The three cards on the landing page: (title, text), translated where they are shown.
+FEATURES = [(mark("📖 Read"), mark("Clear lessons for every level, with tables, examples and the mistakes to avoid.")),
+            (mark("✍️ Practise"), mark("Thousands of questions in nine exercise types, from single words to whole "
+                                       "sentences, with listening and a daily review.")),
+            (mark("🗓️ Plan"), mark("Set your deadlines and get a list for every day. The plan adapts to how fast "
+                                  "you go."))]
 
 
 def login_form(database):
