@@ -1,0 +1,288 @@
+{
+ "title": "🔬 Wetenschap",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Onderzoek",
+   "level": "B2",
+   "items": [
+    [
+     "la ciencia",
+     "wetenschap"
+    ],
+    [
+     "el científico / la científica",
+     "wetenschapper"
+    ],
+    [
+     "el investigador / la investigadora",
+     "onderzoeker"
+    ],
+    [
+     "el estudio",
+     "onderzoek, studie"
+    ],
+    [
+     "el experimento",
+     "experiment"
+    ],
+    [
+     "la hipótesis",
+     "hypothese"
+    ],
+    [
+     "la teoría",
+     "theorie"
+    ],
+    [
+     "el resultado",
+     "resultaat"
+    ],
+    [
+     "el hallazgo",
+     "vondst, ontdekking"
+    ],
+    [
+     "el avance",
+     "doorbraak, vooruitgang"
+    ],
+    [
+     "el descubrimiento",
+     "ontdekking"
+    ],
+    [
+     "la muestra",
+     "steekproef, monster"
+    ],
+    [
+     "los datos",
+     "gegevens"
+    ],
+    [
+     "la encuesta",
+     "enquête"
+    ],
+    [
+     "el porcentaje",
+     "percentage"
+    ],
+    [
+     "la media",
+     "gemiddelde"
+    ],
+    [
+     "la revista científica",
+     "wetenschappelijk tijdschrift"
+    ],
+    [
+     "el laboratorio",
+     "laboratorium"
+    ],
+    [
+     "demostrar",
+     "bewijzen, aantonen"
+    ],
+    [
+     "comprobar",
+     "controleren, nagaan"
+    ],
+    [
+     "analizar",
+     "analyseren"
+    ],
+    [
+     "descubrir",
+     "ontdekken"
+    ],
+    [
+     "fiable",
+     "betrouwbaar"
+    ]
+   ]
+  },
+  {
+   "name": "Geneeskunde en het lichaam",
+   "level": "C1",
+   "items": [
+    [
+     "el gen",
+     "gen"
+    ],
+    [
+     "el ADN",
+     "DNA"
+    ],
+    [
+     "la célula",
+     "cel"
+    ],
+    [
+     "la bacteria",
+     "bacterie"
+    ],
+    [
+     "el virus",
+     "virus"
+    ],
+    [
+     "la vacunación",
+     "vaccinatie"
+    ],
+    [
+     "el ensayo clínico",
+     "klinische proef"
+    ],
+    [
+     "el efecto secundario",
+     "bijwerking"
+    ],
+    [
+     "la esperanza de vida",
+     "levensverwachting"
+    ],
+    [
+     "la enfermedad infecciosa",
+     "infectieziekte"
+    ],
+    [
+     "la pandemia",
+     "pandemie"
+    ],
+    [
+     "el contagio",
+     "besmetting"
+    ],
+    [
+     "el trasplante",
+     "transplantatie"
+    ],
+    [
+     "el donante / la donante",
+     "donor"
+    ],
+    [
+     "el cerebro",
+     "hersenen"
+    ],
+    [
+     "el sistema inmunitario",
+     "immuunsysteem"
+    ],
+    [
+     "la salud mental",
+     "geestelijke gezondheid"
+    ],
+    [
+     "la investigación médica",
+     "medisch onderzoek"
+    ],
+    [
+     "contagiar",
+     "besmetten"
+    ],
+    [
+     "prevenir",
+     "voorkomen"
+    ],
+    [
+     "curar",
+     "genezen"
+    ]
+   ]
+  },
+  {
+   "name": "De ruimte en de aarde",
+   "level": "B2",
+   "items": [
+    [
+     "el universo",
+     "heelal"
+    ],
+    [
+     "el planeta",
+     "planeet"
+    ],
+    [
+     "la estrella",
+     "ster"
+    ],
+    [
+     "la galaxia",
+     "sterrenstelsel"
+    ],
+    [
+     "el sistema solar",
+     "zonnestelsel"
+    ],
+    [
+     "la luna",
+     "maan"
+    ],
+    [
+     "el satélite",
+     "satelliet"
+    ],
+    [
+     "la nave espacial",
+     "ruimteschip"
+    ],
+    [
+     "el astronauta / la astronauta",
+     "astronaut"
+    ],
+    [
+     "la órbita",
+     "baan (om een planeet)"
+    ],
+    [
+     "el telescopio",
+     "telescoop"
+    ],
+    [
+     "la gravedad",
+     "zwaartekracht"
+    ],
+    [
+     "el terremoto",
+     "aardbeving"
+    ],
+    [
+     "el volcán",
+     "vulkaan"
+    ],
+    [
+     "la erupción",
+     "uitbarsting"
+    ],
+    [
+     "el maremoto",
+     "tsunami"
+    ],
+    [
+     "la atmósfera",
+     "atmosfeer"
+    ],
+    [
+     "la capa de ozono",
+     "ozonlaag"
+    ],
+    [
+     "el clima",
+     "klimaat"
+    ],
+    [
+     "el glaciar",
+     "gletsjer"
+    ],
+    [
+     "el eclipse",
+     "eclips, verduistering"
+    ],
+    [
+     "el meteorito",
+     "meteoriet"
+    ]
+   ]
+  }
+ ]
+}

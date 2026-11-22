@@ -1,0 +1,340 @@
+{
+ "title": "✍️ Schrijven: brieven en essays",
+ "kind": "language",
+ "lists": [
+  {
+   "name": "Formele brieven en e-mails",
+   "level": "B2",
+   "items": [
+    [
+     "Estimado señor",
+     "Geachte heer",
+     "[Estimado señor]: Le escribo en relación con su anuncio.",
+     "In het Spaans gevolgd door een dubbele punt, niet door een komma."
+    ],
+    [
+     "Estimada señora",
+     "Geachte mevrouw",
+     "[Estimada señora]: Me pongo en contacto con usted para…"
+    ],
+    [
+     "Muy señores míos",
+     "Geachte heren",
+     "[Muy señores míos]: Les escribo para presentar una queja.",
+     "Zeer formeel, aan een bedrijf."
+    ],
+    [
+     "A quien corresponda",
+     "Aan wie het aangaat",
+     "[A quien corresponda]: Por la presente certifico que…"
+    ],
+    [
+     "le escribo para",
+     "ik schrijf u om",
+     "[Le escribo para] solicitar información sobre el curso."
+    ],
+    [
+     "le escribo con motivo de",
+     "ik schrijf u naar aanleiding van",
+     "[Le escribo con motivo de] la reunión del pasado martes."
+    ],
+    [
+     "me pongo en contacto con usted",
+     "ik neem contact met u op",
+     "[Me pongo en contacto con usted] para presentar mi candidatura."
+    ],
+    [
+     "en relación con",
+     "met betrekking tot",
+     "Le escribo [en relación con] su oferta de empleo."
+    ],
+    [
+     "por la presente",
+     "hierbij",
+     "[Por la presente] le comunico mi decisión de dejar el puesto.",
+     "Zeer formeel."
+    ],
+    [
+     "me complace",
+     "het doet me genoegen",
+     "[Me complace] informarle de que ha sido seleccionado."
+    ],
+    [
+     "lamento comunicarle que",
+     "tot mijn spijt moet ik u meedelen dat",
+     "[Lamento comunicarle que] el producto está agotado."
+    ],
+    [
+     "le agradecería que",
+     "ik zou het op prijs stellen als",
+     "[Le agradecería que] me enviara el presupuesto.",
+     "Gevolgd door de imperfecto de subjuntivo."
+    ],
+    [
+     "adjunto le envío",
+     "bijgaand stuur ik u",
+     "[Adjunto le envío] mi currículum."
+    ],
+    [
+     "quedo a la espera de",
+     "in afwachting van",
+     "[Quedo a la espera de] su respuesta."
+    ],
+    [
+     "sin otro particular",
+     "zonder verder nog iets toe te voegen",
+     "[Sin otro particular], le saluda atentamente.",
+     "Een vaste formule vlak voor de afsluiting."
+    ],
+    [
+     "no dude en",
+     "aarzel niet om",
+     "[No dude en] ponerse en contacto conmigo si necesita algo más."
+    ],
+    [
+     "atentamente",
+     "met vriendelijke groet, hoogachtend",
+     "Reciba un cordial saludo. [Atentamente], Marta López."
+    ],
+    [
+     "un cordial saludo",
+     "met vriendelijke groet",
+     "Muchas gracias de antemano. [Un cordial saludo]."
+    ],
+    [
+     "de antemano",
+     "bij voorbaat",
+     "Le doy las gracias [de antemano] por su ayuda."
+    ],
+    [
+     "a la mayor brevedad posible",
+     "zo spoedig mogelijk",
+     "Le ruego que me responda [a la mayor brevedad posible]."
+    ],
+    [
+     "la reclamación",
+     "klacht",
+     "Quiero presentar una [reclamación] por el retraso."
+    ],
+    [
+     "la solicitud",
+     "aanvraag, verzoek",
+     "Le adjunto la [solicitud] firmada."
+    ]
+   ]
+  },
+  {
+   "name": "Informele berichten",
+   "level": "B1",
+   "items": [
+    [
+     "querido",
+     "beste, lieve (aan een man)",
+     "[Querido] Pablo: ¿Qué tal estás?"
+    ],
+    [
+     "querida",
+     "beste, lieve (aan een vrouw)",
+     "[Querida] Ana: Te escribo desde Granada."
+    ],
+    [
+     "¿qué tal?",
+     "hoe is het",
+     "Hola, Marta, [¿qué tal?] ¿Cómo va todo por ahí?"
+    ],
+    [
+     "¿cómo va todo?",
+     "hoe gaat alles",
+     "Hola, Luis, [¿cómo va todo?] Por aquí, muy bien."
+    ],
+    [
+     "perdona por no escribirte antes",
+     "sorry dat ik je niet eerder schreef",
+     "[Perdona por no escribirte antes], he estado muy liado."
+    ],
+    [
+     "te escribo para contarte",
+     "ik schrijf je om je te vertellen",
+     "[Te escribo para contarte] que me he mudado."
+    ],
+    [
+     "¿te acuerdas de",
+     "weet je nog",
+     "[¿Te acuerdas de] aquel verano en Cádiz?"
+    ],
+    [
+     "me encantaría",
+     "ik zou het geweldig vinden om",
+     "[Me encantaría] verte pronto."
+    ],
+    [
+     "¿qué te parece si",
+     "wat vind je ervan als",
+     "[¿Qué te parece si] quedamos el sábado?"
+    ],
+    [
+     "dale recuerdos a",
+     "doe de groeten aan",
+     "[Dale recuerdos a] tu familia de mi parte."
+    ],
+    [
+     "escríbeme pronto",
+     "schrijf me snel terug",
+     "Bueno, te dejo. [Escríbeme pronto]."
+    ],
+    [
+     "un abrazo",
+     "een knuffel, hartelijke groet",
+     "[Un abrazo] muy fuerte, Carmen."
+    ],
+    [
+     "un beso",
+     "liefs, een kus",
+     "Te echo de menos. [Un beso], Laura."
+    ],
+    [
+     "besos",
+     "liefs, kusjes",
+     "Hablamos pronto. [Besos]."
+    ],
+    [
+     "nos vemos",
+     "tot ziens",
+     "[Nos vemos] el viernes en la estación."
+    ],
+    [
+     "hasta pronto",
+     "tot snel",
+     "Gracias por todo y [hasta pronto]."
+    ],
+    [
+     "por cierto",
+     "trouwens",
+     "[Por cierto], ¿qué tal te fue la entrevista?"
+    ],
+    [
+     "te dejo",
+     "ik laat het hierbij",
+     "Bueno, [te dejo], que tengo que trabajar."
+    ]
+   ]
+  },
+  {
+   "name": "Argumenteren in een essay",
+   "level": "C1",
+   "items": [
+    [
+     "hoy en día",
+     "tegenwoordig",
+     "[Hoy en día], casi todo el mundo tiene un móvil."
+    ],
+    [
+     "en la actualidad",
+     "op dit moment",
+     "[En la actualidad], el teletrabajo está muy extendido."
+    ],
+    [
+     "cabe destacar que",
+     "het is de moeite waard te benadrukken dat",
+     "[Cabe destacar que] el consumo ha bajado un diez por ciento."
+    ],
+    [
+     "cabe señalar que",
+     "er moet worden opgemerkt dat",
+     "[Cabe señalar que] los datos son provisionales."
+    ],
+    [
+     "es evidente que",
+     "het is duidelijk dat",
+     "[Es evidente que] el clima está cambiando."
+    ],
+    [
+     "no cabe duda de que",
+     "er is geen twijfel dat",
+     "[No cabe duda de que] la educación es fundamental."
+    ],
+    [
+     "es innegable que",
+     "het valt niet te ontkennen dat",
+     "[Es innegable que] internet ha cambiado nuestra vida."
+    ],
+    [
+     "es cierto que",
+     "het is waar dat",
+     "[Es cierto que] hay ventajas, pero también riesgos."
+    ],
+    [
+     "hay que tener en cuenta que",
+     "men moet er rekening mee houden dat",
+     "[Hay que tener en cuenta que] no todos tienen acceso."
+    ],
+    [
+     "conviene recordar que",
+     "het is goed eraan te herinneren dat",
+     "[Conviene recordar que] la ley cambió en 2020."
+    ],
+    [
+     "según los expertos",
+     "volgens deskundigen",
+     "[Según los expertos], la población seguirá envejeciendo."
+    ],
+    [
+     "los defensores de",
+     "voorstanders van",
+     "[Los defensores de] esta medida hablan de ahorro."
+    ],
+    [
+     "los detractores",
+     "critici, tegenstanders",
+     "[Los detractores] de la ley la consideran injusta."
+    ],
+    [
+     "por un lado",
+     "enerzijds",
+     "[Por un lado], la ciudad ofrece más oportunidades."
+    ],
+    [
+     "por otro lado",
+     "anderzijds",
+     "[Por otro lado], la vida allí es más cara."
+    ],
+    [
+     "en lo que respecta a",
+     "wat betreft",
+     "[En lo que respecta a] la vivienda, los precios no paran de subir."
+    ],
+    [
+     "sería conveniente",
+     "het zou raadzaam zijn",
+     "[Sería conveniente] invertir más en transporte público."
+    ],
+    [
+     "es fundamental que",
+     "het is van wezenlijk belang dat",
+     "[Es fundamental que] los jóvenes lean más.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "habría que",
+     "men zou moeten",
+     "[Habría que] buscar otras soluciones."
+    ],
+    [
+     "a modo de conclusión",
+     "tot besluit",
+     "[A modo de conclusión], podemos afirmar que la medida ha funcionado."
+    ],
+    [
+     "todo ello",
+     "dit alles",
+     "[Todo ello] demuestra que el sistema necesita una reforma."
+    ],
+    [
+     "las ventajas y los inconvenientes",
+     "de voor- en nadelen",
+     "Analizaremos [las ventajas y los inconvenientes] del teletrabajo."
+    ]
+   ]
+  }
+ ]
+}

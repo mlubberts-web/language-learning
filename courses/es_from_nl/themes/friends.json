@@ -1,0 +1,430 @@
+{
+ "title": "🤝 Vrienden en uitgaan",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Vrienden en mensen",
+   "level": "B1",
+   "items": [
+    [
+     "el colega / la colega",
+     "maat"
+    ],
+    [
+     "la pandilla",
+     "vriendengroep"
+    ],
+    [
+     "el amigo de toda la vida / la amiga de toda la vida",
+     "vriend voor het leven"
+    ],
+    [
+     "el conocido / la conocida",
+     "kennis"
+    ],
+    [
+     "el compañero de piso / la compañera de piso",
+     "huisgenoot"
+    ],
+    [
+     "la amistad",
+     "vriendschap"
+    ],
+    [
+     "la confianza",
+     "vertrouwen"
+    ],
+    [
+     "la complicidad",
+     "hechte band"
+    ],
+    [
+     "la lealtad",
+     "trouw"
+    ],
+    [
+     "la gente",
+     "mensen"
+    ],
+    [
+     "el apodo",
+     "bijnaam"
+    ],
+    [
+     "el pesado / la pesada",
+     "zeur, lastpost"
+    ],
+    [
+     "el aguafiestas / la aguafiestas",
+     "spelbreker"
+    ],
+    [
+     "el caradura / la caradura",
+     "brutaaltje"
+    ],
+    [
+     "el cotilla / la cotilla",
+     "roddelaar"
+    ],
+    [
+     "el pelota / la pelota",
+     "slijmerd"
+    ],
+    [
+     "el tacaño / la tacaña",
+     "vrek"
+    ],
+    [
+     "el rollo",
+     "iets saais"
+    ],
+    [
+     "majo / maja",
+     "aardig"
+    ],
+    [
+     "pesado / pesada",
+     "vervelend"
+    ],
+    [
+     "gracioso / graciosa",
+     "grappig"
+    ],
+    [
+     "cotilla",
+     "nieuwsgierig"
+    ],
+    [
+     "leal",
+     "trouw"
+    ],
+    [
+     "cercano / cercana",
+     "dichtbij, hecht"
+    ],
+    [
+     "sociable",
+     "extravert, open"
+    ]
+   ]
+  },
+  {
+   "name": "Uitgaan",
+   "level": "B1",
+   "items": [
+    [
+     "la despedida de soltero",
+     "vrijgezellenfeest (mannen)"
+    ],
+    [
+     "la despedida de soltera",
+     "vrijgezellenfeest (vrouwen)"
+    ],
+    [
+     "la quedada",
+     "samenkomst"
+    ],
+    [
+     "el botellón",
+     "drinkgelag op straat"
+    ],
+    [
+     "la caña",
+     "klein biertje"
+    ],
+    [
+     "la ronda",
+     "rondje"
+    ],
+    [
+     "la tapa",
+     "tapa"
+    ],
+    [
+     "el tardeo",
+     "middagborrel"
+    ],
+    [
+     "la marcha",
+     "uitgaansleven"
+    ],
+    [
+     "la discoteca",
+     "nachtclub"
+    ],
+    [
+     "el garito",
+     "kroeg, tent"
+    ],
+    [
+     "la terraza",
+     "terras"
+    ],
+    [
+     "la resaca",
+     "kater"
+    ],
+    [
+     "la sobremesa",
+     "natafelen"
+    ],
+    [
+     "la invitación",
+     "uitnodiging"
+    ],
+    [
+     "el plan",
+     "plan"
+    ],
+    [
+     "quedar con alguien",
+     "met iemand afspreken"
+    ],
+    [
+     "ir de copas",
+     "iets gaan drinken"
+    ],
+    [
+     "ir de tapas",
+     "tapas gaan eten"
+    ],
+    [
+     "salir de marcha",
+     "gaan stappen"
+    ],
+    [
+     "invitar a una ronda",
+     "een rondje geven"
+    ],
+    [
+     "pagar a escote",
+     "de rekening delen"
+    ],
+    [
+     "pasarlo bomba",
+     "het geweldig naar je zin hebben"
+    ]
+   ]
+  },
+  {
+   "name": "Ups en downs",
+   "level": "B2",
+   "items": [
+    [
+     "la traición",
+     "verraad"
+    ],
+    [
+     "el cotilleo",
+     "roddel"
+    ],
+    [
+     "el malentendido",
+     "misverstand"
+    ],
+    [
+     "la bronca",
+     "ruzie"
+    ],
+    [
+     "la reconciliación",
+     "verzoening"
+    ],
+    [
+     "el favor",
+     "gunst"
+    ],
+    [
+     "el consejo",
+     "advies, raad"
+    ],
+    [
+     "el apoyo",
+     "steun"
+    ],
+    [
+     "el plantón",
+     "iemand laten zitten"
+    ],
+    [
+     "la excusa",
+     "excuus"
+    ],
+    [
+     "el secreto",
+     "geheim"
+    ],
+    [
+     "la envidia",
+     "afgunst"
+    ],
+    [
+     "los celos",
+     "jaloezie"
+    ],
+    [
+     "el rencor",
+     "wrok"
+    ],
+    [
+     "la vergüenza ajena",
+     "plaatsvervangende schaamte"
+    ],
+    [
+     "hacer las paces",
+     "het weer goedmaken"
+    ],
+    [
+     "pelearse",
+     "ruzie krijgen"
+    ],
+    [
+     "discutir",
+     "ruziemaken, discussiëren"
+    ],
+    [
+     "cotillear",
+     "roddelen"
+    ],
+    [
+     "confiar en alguien",
+     "iemand vertrouwen"
+    ],
+    [
+     "defraudar",
+     "teleurstellen"
+    ],
+    [
+     "apoyar",
+     "steunen"
+    ],
+    [
+     "dar plantón",
+     "iemand laten zitten"
+    ],
+    [
+     "guardar un secreto",
+     "een geheim bewaren"
+    ]
+   ]
+  },
+  {
+   "name": "Omgaan met mensen",
+   "level": "B2",
+   "items": [
+    [
+     "la broma",
+     "grap, poets"
+    ],
+    [
+     "la tomadura de pelo",
+     "plagerij"
+    ],
+    [
+     "el chiste",
+     "grap"
+    ],
+    [
+     "la anécdota",
+     "anekdote"
+    ],
+    [
+     "el grupo de WhatsApp",
+     "WhatsAppgroep"
+    ],
+    [
+     "el ligue",
+     "vrijblijvende date"
+    ],
+    [
+     "la cita a ciegas",
+     "blind date"
+    ],
+    [
+     "caer bien",
+     "iemand aardig vinden"
+    ],
+    [
+     "caer mal",
+     "iemand niet mogen"
+    ],
+    [
+     "llevarse bien",
+     "goed met elkaar overweg kunnen"
+    ],
+    [
+     "llevarse mal",
+     "slecht met elkaar overweg kunnen"
+    ],
+    [
+     "echar de menos",
+     "missen"
+    ],
+    [
+     "hacerse amigo de",
+     "vrienden worden met"
+    ],
+    [
+     "perder el contacto",
+     "elkaar uit het oog verliezen"
+    ],
+    [
+     "ponerse en contacto",
+     "contact opnemen"
+    ],
+    [
+     "dar la lata",
+     "lastigvallen"
+    ],
+    [
+     "tomar el pelo",
+     "iemand in de maling nemen"
+    ],
+    [
+     "meter la pata",
+     "een flater slaan"
+    ],
+    [
+     "ligar",
+     "iemand versieren"
+    ],
+    [
+     "tirar los tejos",
+     "flirten"
+    ],
+    [
+     "estar de buen rollo",
+     "goedgehumeurd zijn"
+    ],
+    [
+     "partirse de risa",
+     "in een deuk liggen"
+    ],
+    [
+     "contar con alguien",
+     "op iemand rekenen"
+    ],
+    [
+     "sacar de quicio",
+     "iemand gek maken"
+    ],
+    [
+     "ser uña y carne",
+     "onafscheidelijk zijn"
+    ],
+    [
+     "ser un cielo",
+     "een schat zijn"
+    ],
+    [
+     "tener mucha cara",
+     "een grote brutaliteit hebben"
+    ],
+    [
+     "hacer buenas migas",
+     "meteen klikken"
+    ]
+   ]
+  }
+ ]
+}

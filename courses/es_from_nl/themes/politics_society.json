@@ -1,0 +1,300 @@
+{
+ "title": "🏛️ Politiek en samenleving",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Regering en verkiezingen",
+   "level": "B2",
+   "items": [
+    [
+     "el gobierno",
+     "regering"
+    ],
+    [
+     "el presidente del Gobierno / la presidenta del Gobierno",
+     "premier (van Spanje)"
+    ],
+    [
+     "el ministro / la ministra",
+     "minister"
+    ],
+    [
+     "el Congreso de los Diputados",
+     "het Spaanse Congres (Tweede Kamer)"
+    ],
+    [
+     "el diputado / la diputada",
+     "parlementslid, Kamerlid"
+    ],
+    [
+     "el senado",
+     "senaat"
+    ],
+    [
+     "el partido político",
+     "politieke partij"
+    ],
+    [
+     "la oposición",
+     "de oppositie"
+    ],
+    [
+     "las elecciones generales",
+     "landelijke verkiezingen"
+    ],
+    [
+     "la campaña electoral",
+     "verkiezingscampagne"
+    ],
+    [
+     "el candidato / la candidata",
+     "kandidaat"
+    ],
+    [
+     "el voto",
+     "stem"
+    ],
+    [
+     "la urna",
+     "stembus"
+    ],
+    [
+     "el escaño",
+     "zetel"
+    ],
+    [
+     "la mayoría absoluta",
+     "absolute meerderheid"
+    ],
+    [
+     "la coalición",
+     "coalitie"
+    ],
+    [
+     "el alcalde / la alcaldesa",
+     "burgemeester"
+    ],
+    [
+     "la comunidad autónoma",
+     "autonome regio"
+    ],
+    [
+     "la ley",
+     "wet"
+    ],
+    [
+     "el referéndum",
+     "referendum"
+    ],
+    [
+     "votar",
+     "stemmen"
+    ],
+    [
+     "gobernar",
+     "regeren"
+    ],
+    [
+     "dimitir",
+     "aftreden"
+    ],
+    [
+     "aprobar una ley",
+     "een wet aannemen"
+    ]
+   ]
+  },
+  {
+   "name": "Maatschappelijke kwesties",
+   "level": "B2",
+   "items": [
+    [
+     "la desigualdad",
+     "ongelijkheid"
+    ],
+    [
+     "la pobreza",
+     "armoede"
+    ],
+    [
+     "el desempleo",
+     "werkloosheid"
+    ],
+    [
+     "la inmigración",
+     "immigratie"
+    ],
+    [
+     "el inmigrante / la inmigrante",
+     "immigrant"
+    ],
+    [
+     "el refugiado / la refugiada",
+     "vluchteling"
+    ],
+    [
+     "la integración",
+     "integratie"
+    ],
+    [
+     "el racismo",
+     "racisme"
+    ],
+    [
+     "la discriminación",
+     "discriminatie"
+    ],
+    [
+     "la igualdad de género",
+     "gendergelijkheid"
+    ],
+    [
+     "la violencia de género",
+     "gendergerelateerd geweld"
+    ],
+    [
+     "el envejecimiento de la población",
+     "vergrijzing"
+    ],
+    [
+     "la natalidad",
+     "geboortecijfer"
+    ],
+    [
+     "la despoblación",
+     "ontvolking"
+    ],
+    [
+     "la España vaciada",
+     "het leeggelopen platteland van Spanje"
+    ],
+    [
+     "el acceso a la vivienda",
+     "toegang tot woningen"
+    ],
+    [
+     "la exclusión social",
+     "sociale uitsluiting"
+    ],
+    [
+     "la solidaridad",
+     "solidariteit"
+    ],
+    [
+     "la ONG",
+     "ngo"
+    ],
+    [
+     "el voluntariado",
+     "vrijwilligerswerk"
+    ],
+    [
+     "la manifestación",
+     "demonstratie"
+    ],
+    [
+     "manifestarse",
+     "demonstreren"
+    ],
+    [
+     "reivindicar",
+     "opeisen, actievoeren voor"
+    ]
+   ]
+  },
+  {
+   "name": "Debatteren over politiek",
+   "level": "C1",
+   "items": [
+    [
+     "la medida",
+     "maatregel"
+    ],
+    [
+     "la reforma",
+     "hervorming"
+    ],
+    [
+     "el recorte",
+     "bezuiniging"
+    ],
+    [
+     "la subvención",
+     "subsidie"
+    ],
+    [
+     "los impuestos",
+     "belastingen"
+    ],
+    [
+     "el gasto público",
+     "overheidsuitgaven"
+    ],
+    [
+     "el estado del bienestar",
+     "verzorgingsstaat"
+    ],
+    [
+     "la corrupción",
+     "corruptie"
+    ],
+    [
+     "el escándalo político",
+     "politiek schandaal"
+    ],
+    [
+     "la transparencia",
+     "transparantie"
+    ],
+    [
+     "la libertad de expresión",
+     "vrijheid van meningsuiting"
+    ],
+    [
+     "los derechos humanos",
+     "mensenrechten"
+    ],
+    [
+     "la polarización",
+     "polarisatie"
+    ],
+    [
+     "el populismo",
+     "populisme"
+    ],
+    [
+     "la izquierda",
+     "links"
+    ],
+    [
+     "la derecha",
+     "rechts"
+    ],
+    [
+     "el pacto",
+     "akkoord, pact"
+    ],
+    [
+     "la moción de censura",
+     "motie van wantrouwen"
+    ],
+    [
+     "promulgar",
+     "uitvaardigen"
+    ],
+    [
+     "derogar",
+     "intrekken (een wet)"
+    ],
+    [
+     "comprometerse a",
+     "zich verplichten tot"
+    ],
+    [
+     "llegar a un acuerdo",
+     "een akkoord bereiken"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "title": "🩺 Gezondheid en het lichaam",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Het lichaam",
+   "level": "B1",
+   "items": [
+    [
+     "la cabeza",
+     "hoofd"
+    ],
+    [
+     "el cuello",
+     "nek"
+    ],
+    [
+     "el hombro",
+     "schouder"
+    ],
+    [
+     "el codo",
+     "elleboog"
+    ],
+    [
+     "la muñeca",
+     "pols"
+    ],
+    [
+     "el dedo",
+     "vinger"
+    ],
+    [
+     "la uña",
+     "nagel"
+    ],
+    [
+     "el pecho",
+     "borst"
+    ],
+    [
+     "la espalda",
+     "rug"
+    ],
+    [
+     "la cintura",
+     "middel, taille"
+    ],
+    [
+     "la cadera",
+     "heup"
+    ],
+    [
+     "la rodilla",
+     "knie"
+    ],
+    [
+     "el tobillo",
+     "enkel"
+    ],
+    [
+     "el talón",
+     "hiel"
+    ],
+    [
+     "la garganta",
+     "keel"
+    ],
+    [
+     "el estómago",
+     "maag"
+    ],
+    [
+     "el pulmón",
+     "long"
+    ],
+    [
+     "el corazón",
+     "hart"
+    ],
+    [
+     "el hígado",
+     "lever"
+    ],
+    [
+     "el riñón",
+     "nier"
+    ],
+    [
+     "el hueso",
+     "bot"
+    ],
+    [
+     "el músculo",
+     "spier"
+    ],
+    [
+     "la piel",
+     "huid"
+    ],
+    [
+     "la sangre",
+     "bloed"
+    ]
+   ]
+  },
+  {
+   "name": "Symptomen en ziekte",
+   "level": "B1",
+   "items": [
+    [
+     "el resfriado",
+     "verkoudheid"
+    ],
+    [
+     "la gripe",
+     "griep"
+    ],
+    [
+     "la fiebre",
+     "koorts, verhoging"
+    ],
+    [
+     "la tos",
+     "hoest"
+    ],
+    [
+     "el dolor de cabeza",
+     "hoofdpijn"
+    ],
+    [
+     "el dolor de muelas",
+     "kiespijn"
+    ],
+    [
+     "el mareo",
+     "duizeligheid"
+    ],
+    [
+     "las náuseas",
+     "misselijkheid"
+    ],
+    [
+     "la alergia",
+     "allergie"
+    ],
+    [
+     "la diarrea",
+     "diarree"
+    ],
+    [
+     "la herida",
+     "wond"
+    ],
+    [
+     "la quemadura",
+     "brandwond"
+    ],
+    [
+     "la picadura",
+     "insectenbeet, steek"
+    ],
+    [
+     "el moratón",
+     "blauwe plek"
+    ],
+    [
+     "la fractura",
+     "botbreuk"
+    ],
+    [
+     "la enfermedad crónica",
+     "chronische ziekte"
+    ],
+    [
+     "tener fiebre",
+     "koorts hebben"
+    ],
+    [
+     "toser",
+     "hoesten"
+    ],
+    [
+     "estornudar",
+     "niezen"
+    ],
+    [
+     "marearse",
+     "duizelig worden"
+    ],
+    [
+     "vomitar",
+     "overgeven"
+    ],
+    [
+     "romperse una pierna",
+     "je been breken"
+    ],
+    [
+     "torcerse el tobillo",
+     "je enkel verzwikken"
+    ],
+    [
+     "doler",
+     "pijn doen"
+    ]
+   ]
+  },
+  {
+   "name": "Bij de dokter",
+   "level": "B2",
+   "items": [
+    [
+     "el centro de salud",
+     "gezondheidscentrum"
+    ],
+    [
+     "el médico de cabecera / la médica de cabecera",
+     "huisarts"
+    ],
+    [
+     "la consulta",
+     "spreekkamer, consult"
+    ],
+    [
+     "la cita previa",
+     "afspraak"
+    ],
+    [
+     "urgencias",
+     "spoedeisende hulp"
+    ],
+    [
+     "la receta",
+     "recept"
+    ],
+    [
+     "la farmacia de guardia",
+     "dienstdoende apotheek"
+    ],
+    [
+     "el análisis de sangre",
+     "bloedonderzoek"
+    ],
+    [
+     "la radiografía",
+     "röntgenfoto"
+    ],
+    [
+     "la vacuna",
+     "vaccin"
+    ],
+    [
+     "la tarjeta sanitaria",
+     "zorgpas"
+    ],
+    [
+     "el especialista / la especialista",
+     "specialist"
+    ],
+    [
+     "la baja médica",
+     "ziekmelding (van de dokter)"
+    ],
+    [
+     "el tratamiento",
+     "behandeling"
+    ],
+    [
+     "la pastilla",
+     "pil, tablet"
+    ],
+    [
+     "el jarabe",
+     "siroop"
+    ],
+    [
+     "la pomada",
+     "zalf"
+    ],
+    [
+     "la tirita",
+     "pleister"
+    ],
+    [
+     "la venda",
+     "verband"
+    ],
+    [
+     "recetar",
+     "voorschrijven"
+    ],
+    [
+     "operar",
+     "opereren"
+    ],
+    [
+     "ingresar en el hospital",
+     "in het ziekenhuis opgenomen worden"
+    ],
+    [
+     "recuperarse",
+     "herstellen"
+    ],
+    [
+     "la sanidad pública",
+     "openbare gezondheidszorg"
+    ]
+   ]
+  }
+ ]
+}

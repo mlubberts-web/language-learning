@@ -1,0 +1,436 @@
+{
+ "title": "✈️ Reizen",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Vliegen",
+   "level": "B1",
+   "items": [
+    [
+     "la tarjeta de embarque",
+     "instapkaart"
+    ],
+    [
+     "la puerta de embarque",
+     "gate"
+    ],
+    [
+     "el vuelo de conexión",
+     "aansluitende vlucht"
+    ],
+    [
+     "el vuelo directo",
+     "rechtstreekse vlucht"
+    ],
+    [
+     "la escala",
+     "tussenstop"
+    ],
+    [
+     "el retraso",
+     "vertraging"
+    ],
+    [
+     "la cancelación",
+     "annulering"
+    ],
+    [
+     "la facturación",
+     "inchecken"
+    ],
+    [
+     "el equipaje de mano",
+     "handbagage"
+    ],
+    [
+     "el exceso de equipaje",
+     "overbagage"
+    ],
+    [
+     "la cinta de equipajes",
+     "bagageband"
+    ],
+    [
+     "la aduana",
+     "douane"
+    ],
+    [
+     "el control de seguridad",
+     "veiligheidscontrole"
+    ],
+    [
+     "el control de pasaportes",
+     "paspoortcontrole"
+    ],
+    [
+     "la azafata",
+     "stewardess"
+    ],
+    [
+     "el piloto / la piloto",
+     "piloot"
+    ],
+    [
+     "el pasillo",
+     "gangpad"
+    ],
+    [
+     "la ventanilla",
+     "stoel bij het raam"
+    ],
+    [
+     "el cinturón de seguridad",
+     "veiligheidsgordel"
+    ],
+    [
+     "las turbulencias",
+     "turbulentie"
+    ],
+    [
+     "el aterrizaje",
+     "landing"
+    ],
+    [
+     "el despegue",
+     "opstijgen"
+    ],
+    [
+     "el desfase horario",
+     "jetlag"
+    ]
+   ]
+  },
+  {
+   "name": "Treinen, wegen en boten",
+   "level": "B1",
+   "items": [
+    [
+     "el trasbordo",
+     "overstap"
+    ],
+    [
+     "el andén",
+     "perron"
+    ],
+    [
+     "el billete de ida y vuelta",
+     "retourtje"
+    ],
+    [
+     "el billete sencillo",
+     "enkele reis"
+    ],
+    [
+     "el coche cama",
+     "slaaprijtuig"
+    ],
+    [
+     "el peaje",
+     "tol"
+    ],
+    [
+     "la autopista",
+     "snelweg"
+    ],
+    [
+     "la gasolinera",
+     "tankstation"
+    ],
+    [
+     "el coche de alquiler",
+     "huurauto"
+    ],
+    [
+     "el permiso de conducir",
+     "rijbewijs"
+    ],
+    [
+     "el atasco",
+     "file"
+    ],
+    [
+     "el ferri",
+     "veerboot"
+    ],
+    [
+     "el crucero",
+     "cruise"
+    ],
+    [
+     "el puerto",
+     "haven"
+    ]
+   ]
+  },
+  {
+   "name": "Overnachten",
+   "level": "B1",
+   "items": [
+    [
+     "el alojamiento",
+     "accommodatie, onderdak"
+    ],
+    [
+     "el albergue",
+     "hostel, jeugdherberg"
+    ],
+    [
+     "el parador",
+     "historisch staatshotel"
+    ],
+    [
+     "la casa rural",
+     "vakantiehuis op het platteland"
+    ],
+    [
+     "la pensión completa",
+     "volpension"
+    ],
+    [
+     "la media pensión",
+     "halfpension"
+    ],
+    [
+     "la temporada alta",
+     "hoogseizoen"
+    ],
+    [
+     "la temporada baja",
+     "laagseizoen"
+    ],
+    [
+     "la fianza",
+     "borg"
+    ],
+    [
+     "la reclamación",
+     "klacht"
+    ],
+    [
+     "el reembolso",
+     "terugbetaling"
+    ],
+    [
+     "el seguro de viaje",
+     "reisverzekering"
+    ],
+    [
+     "el visado",
+     "visum"
+    ],
+    [
+     "alojarse",
+     "logeren, verblijven"
+    ],
+    [
+     "reservar",
+     "reserveren, boeken"
+    ],
+    [
+     "anular una reserva",
+     "een reservering annuleren"
+    ]
+   ]
+  },
+  {
+   "name": "Bezienswaardigheden",
+   "level": "B1",
+   "items": [
+    [
+     "el mochilero / la mochilera",
+     "rugzaktoerist"
+    ],
+    [
+     "la mochila",
+     "rugzak"
+    ],
+    [
+     "el guía turístico / la guía turística",
+     "reisleider, gids"
+    ],
+    [
+     "la guía de viaje",
+     "reisgids (boek)"
+    ],
+    [
+     "el folleto",
+     "folder"
+    ],
+    [
+     "el itinerario",
+     "reisschema"
+    ],
+    [
+     "la ruta",
+     "route"
+    ],
+    [
+     "el destino",
+     "bestemming"
+    ],
+    [
+     "la excursión",
+     "uitstapje"
+    ],
+    [
+     "la visita guiada",
+     "rondleiding"
+    ],
+    [
+     "el casco antiguo",
+     "oude binnenstad"
+    ],
+    [
+     "el mirador",
+     "uitkijkpunt"
+    ],
+    [
+     "el recuerdo",
+     "souvenir"
+    ],
+    [
+     "el cambio de divisas",
+     "geldwissel"
+    ],
+    [
+     "el cajero automático",
+     "geldautomaat, pinautomaat"
+    ],
+    [
+     "el turismo de masas",
+     "massatoerisme"
+    ],
+    [
+     "el turismo rural",
+     "plattelandstoerisme"
+    ],
+    [
+     "el destino exótico",
+     "exotische bestemming"
+    ],
+    [
+     "la playa virgen",
+     "ongerept strand"
+    ],
+    [
+     "la insolación",
+     "zonnesteek"
+    ],
+    [
+     "la crema solar",
+     "zonnebrandcrème"
+    ],
+    [
+     "la oficina de objetos perdidos",
+     "bureau voor gevonden voorwerpen"
+    ],
+    [
+     "masificado / masificada",
+     "overvol"
+    ],
+    [
+     "pintoresco / pintoresca",
+     "schilderachtig"
+    ],
+    [
+     "accesible",
+     "toegankelijk"
+    ],
+    [
+     "inolvidable",
+     "onvergetelijk"
+    ]
+   ]
+  },
+  {
+   "name": "Werkwoorden voor reizen",
+   "level": "B2",
+   "items": [
+    [
+     "embarcar",
+     "instappen"
+    ],
+    [
+     "desembarcar",
+     "van boord gaan"
+    ],
+    [
+     "despegar",
+     "opstijgen"
+    ],
+    [
+     "aterrizar",
+     "landen"
+    ],
+    [
+     "facturar el equipaje",
+     "je bagage inchecken"
+    ],
+    [
+     "perder el vuelo",
+     "je vlucht missen"
+    ],
+    [
+     "hacer escala",
+     "een tussenstop maken"
+    ],
+    [
+     "hacer trasbordo",
+     "overstappen"
+    ],
+    [
+     "hacer la maleta",
+     "je koffer pakken"
+    ],
+    [
+     "deshacer la maleta",
+     "je koffer uitpakken"
+    ],
+    [
+     "hacer turismo",
+     "bezienswaardigheden bekijken"
+    ],
+    [
+     "hacer autostop",
+     "liften"
+    ],
+    [
+     "hacer una ruta",
+     "een route afleggen"
+    ],
+    [
+     "recorrer",
+     "rondreizen door"
+    ],
+    [
+     "alquilar",
+     "huren"
+    ],
+    [
+     "repostar",
+     "tanken"
+    ],
+    [
+     "perderse",
+     "verdwalen"
+    ],
+    [
+     "desviarse",
+     "een omweg maken"
+    ],
+    [
+     "coger un tren",
+     "een trein nemen"
+    ],
+    [
+     "viajar de mochilero",
+     "met de rugzak reizen"
+    ],
+    [
+     "ponerse en camino",
+     "op weg gaan"
+    ]
+   ]
+  }
+ ]
+}

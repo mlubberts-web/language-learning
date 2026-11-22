@@ -1,0 +1,430 @@
+{
+ "title": "👨‍👩‍👧 Familie",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Familieleden",
+   "level": "B1",
+   "items": [
+    [
+     "el suegro / la suegra",
+     "schoonvader, schoonmoeder"
+    ],
+    [
+     "el yerno",
+     "schoonzoon"
+    ],
+    [
+     "la nuera",
+     "schoondochter"
+    ],
+    [
+     "el cuñado / la cuñada",
+     "zwager, schoonzus"
+    ],
+    [
+     "el sobrino / la sobrina",
+     "neef, nicht (kind van broer of zus)"
+    ],
+    [
+     "el primo segundo / la prima segunda",
+     "achterneef, achternicht"
+    ],
+    [
+     "el bisabuelo / la bisabuela",
+     "overgrootvader, overgrootmoeder"
+    ],
+    [
+     "el nieto / la nieta",
+     "kleinkind"
+    ],
+    [
+     "el padrastro",
+     "stiefvader"
+    ],
+    [
+     "la madrastra",
+     "stiefmoeder"
+    ],
+    [
+     "el hijastro / la hijastra",
+     "stiefkind"
+    ],
+    [
+     "el hermanastro / la hermanastra",
+     "stiefbroer, stiefzus"
+    ],
+    [
+     "el medio hermano / la media hermana",
+     "halfbroer, halfzus"
+    ],
+    [
+     "el gemelo / la gemela",
+     "eeneiige tweeling"
+    ],
+    [
+     "el mellizo / la melliza",
+     "twee-eiige tweeling"
+    ],
+    [
+     "el hijo único / la hija única",
+     "enig kind"
+    ],
+    [
+     "el padrino",
+     "peetvader"
+    ],
+    [
+     "la madrina",
+     "peetmoeder"
+    ],
+    [
+     "el ahijado / la ahijada",
+     "petekind"
+    ],
+    [
+     "el pariente / la pariente",
+     "familielid"
+    ],
+    [
+     "el antepasado / la antepasada",
+     "voorouder"
+    ],
+    [
+     "el descendiente / la descendiente",
+     "nakomeling"
+    ],
+    [
+     "el familiar / la familiar",
+     "familielid"
+    ],
+    [
+     "la familia política",
+     "schoonfamilie"
+    ]
+   ]
+  },
+  {
+   "name": "Stellen en levensgebeurtenissen",
+   "level": "B2",
+   "items": [
+    [
+     "la familia numerosa",
+     "groot gezin"
+    ],
+    [
+     "la familia monoparental",
+     "eenoudergezin"
+    ],
+    [
+     "la pareja de hecho",
+     "geregistreerd partnerschap"
+    ],
+    [
+     "el matrimonio",
+     "huwelijk"
+    ],
+    [
+     "el noviazgo",
+     "verlovingstijd"
+    ],
+    [
+     "el compromiso",
+     "verloving"
+    ],
+    [
+     "la boda",
+     "bruiloft"
+    ],
+    [
+     "el banquete",
+     "bruiloftsfeest"
+    ],
+    [
+     "la luna de miel",
+     "huwelijksreis"
+    ],
+    [
+     "el aniversario",
+     "jubileum, trouwdag"
+    ],
+    [
+     "la separación",
+     "scheiding (uit elkaar gaan)"
+    ],
+    [
+     "el divorcio",
+     "echtscheiding"
+    ],
+    [
+     "la custodia",
+     "voogdij"
+    ],
+    [
+     "la pensión alimenticia",
+     "kinderalimentatie"
+    ],
+    [
+     "casarse",
+     "trouwen"
+    ],
+    [
+     "separarse",
+     "uit elkaar gaan"
+    ],
+    [
+     "divorciarse",
+     "scheiden"
+    ],
+    [
+     "prometerse",
+     "zich verloven"
+    ],
+    [
+     "soltero / soltera",
+     "vrijgezel"
+    ],
+    [
+     "casado / casada",
+     "getrouwd"
+    ],
+    [
+     "divorciado / divorciada",
+     "gescheiden"
+    ],
+    [
+     "viudo / viuda",
+     "weduwe, weduwnaar (bijv. nw.)"
+    ],
+    [
+     "el viudo / la viuda",
+     "weduwnaar, weduwe"
+    ]
+   ]
+  },
+  {
+   "name": "Kinderen en opgroeien",
+   "level": "B2",
+   "items": [
+    [
+     "el embarazo",
+     "zwangerschap"
+    ],
+    [
+     "el parto",
+     "bevalling"
+    ],
+    [
+     "el recién nacido / la recién nacida",
+     "pasgeborene"
+    ],
+    [
+     "el bautizo",
+     "doop"
+    ],
+    [
+     "la crianza",
+     "opvoeding"
+    ],
+    [
+     "la educación",
+     "manieren"
+    ],
+    [
+     "el canguro / la canguro",
+     "oppas"
+    ],
+    [
+     "el chupete",
+     "speen"
+    ],
+    [
+     "el pañal",
+     "luier"
+    ],
+    [
+     "el cochecito",
+     "kinderwagen"
+    ],
+    [
+     "la cuna",
+     "wieg, ledikantje"
+    ],
+    [
+     "la adolescencia",
+     "puberteit"
+    ],
+    [
+     "la infancia",
+     "jeugd, kindertijd"
+    ],
+    [
+     "la vejez",
+     "ouderdom"
+    ],
+    [
+     "quedarse embarazada",
+     "zwanger worden"
+    ],
+    [
+     "dar a luz",
+     "bevallen"
+    ],
+    [
+     "criar",
+     "opvoeden"
+    ],
+    [
+     "educar",
+     "opvoeden, onderwijzen"
+    ],
+    [
+     "mimar",
+     "verwennen"
+    ],
+    [
+     "regañar",
+     "berispen, een standje geven"
+    ],
+    [
+     "castigar",
+     "straffen"
+    ],
+    [
+     "independizarse",
+     "op jezelf gaan wonen"
+    ],
+    [
+     "hacer de canguro",
+     "oppassen"
+    ],
+    [
+     "sacar adelante a los hijos",
+     "je kinderen groot krijgen"
+    ],
+    [
+     "mimado / mimada",
+     "verwend"
+    ]
+   ]
+  },
+  {
+   "name": "Familiebanden",
+   "level": "B2",
+   "items": [
+    [
+     "la residencia de ancianos",
+     "bejaardentehuis"
+    ],
+    [
+     "la herencia",
+     "erfenis"
+    ],
+    [
+     "el testamento",
+     "testament"
+    ],
+    [
+     "el heredero / la heredera",
+     "erfgenaam"
+    ],
+    [
+     "el árbol genealógico",
+     "stamboom"
+    ],
+    [
+     "el apellido",
+     "achternaam"
+    ],
+    [
+     "el parentesco",
+     "familierelatie"
+    ],
+    [
+     "el lazo familiar",
+     "familieband"
+    ],
+    [
+     "el hogar",
+     "thuis"
+    ],
+    [
+     "el vínculo",
+     "band"
+    ],
+    [
+     "la adopción",
+     "adoptie"
+    ],
+    [
+     "el huérfano / la huérfana",
+     "wees"
+    ],
+    [
+     "la nochebuena",
+     "kerstavond"
+    ],
+    [
+     "la reunión familiar",
+     "familiebijeenkomst"
+    ],
+    [
+     "la oveja negra",
+     "zwart schaap"
+    ],
+    [
+     "cuidar de",
+     "zorgen voor"
+    ],
+    [
+     "adoptar",
+     "adopteren"
+    ],
+    [
+     "heredar",
+     "erven"
+    ],
+    [
+     "parecerse a",
+     "lijken op"
+    ],
+    [
+     "llevarse bien con",
+     "goed overweg kunnen met"
+    ],
+    [
+     "salir a su madre",
+     "op je moeder lijken"
+    ],
+    [
+     "reunir a la familia",
+     "de familie bij elkaar brengen"
+    ],
+    [
+     "mudarse",
+     "verhuizen"
+    ],
+    [
+     "fallecer",
+     "overlijden"
+    ],
+    [
+     "envejecer",
+     "oud worden"
+    ],
+    [
+     "cariñoso / cariñosa",
+     "aanhankelijk, lief"
+    ],
+    [
+     "protector / protectora",
+     "beschermend"
+    ],
+    [
+     "unido / unida",
+     "hecht"
+    ]
+   ]
+  }
+ ]
+}

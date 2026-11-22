@@ -1,0 +1,300 @@
+{
+ "title": "🚔 Recht en misdaad",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Misdaad",
+   "level": "B2",
+   "items": [
+    [
+     "el delito",
+     "misdrijf, delict"
+    ],
+    [
+     "el delincuente / la delincuente",
+     "crimineel"
+    ],
+    [
+     "el robo",
+     "diefstal, beroving"
+    ],
+    [
+     "el ladrón / la ladrona",
+     "dief"
+    ],
+    [
+     "el carterista / la carterista",
+     "zakkenroller"
+    ],
+    [
+     "el atraco",
+     "overval, beroving"
+    ],
+    [
+     "la estafa",
+     "oplichting"
+    ],
+    [
+     "el asesinato",
+     "moord"
+    ],
+    [
+     "el secuestro",
+     "ontvoering"
+    ],
+    [
+     "el narcotráfico",
+     "drugshandel"
+    ],
+    [
+     "el vandalismo",
+     "vandalisme"
+    ],
+    [
+     "la agresión",
+     "mishandeling"
+    ],
+    [
+     "la víctima",
+     "slachtoffer"
+    ],
+    [
+     "el testigo / la testigo",
+     "getuige"
+    ],
+    [
+     "la pista",
+     "aanwijzing"
+    ],
+    [
+     "la huella dactilar",
+     "vingerafdruk"
+    ],
+    [
+     "robar",
+     "stelen, beroven"
+    ],
+    [
+     "atracar",
+     "overvallen"
+    ],
+    [
+     "estafar",
+     "oplichten"
+    ],
+    [
+     "denunciar",
+     "aangifte doen"
+    ],
+    [
+     "detener",
+     "arresteren"
+    ],
+    [
+     "investigar un caso",
+     "een zaak onderzoeken"
+    ]
+   ]
+  },
+  {
+   "name": "Politie en rechtbanken",
+   "level": "B2",
+   "items": [
+    [
+     "la comisaría",
+     "politiebureau"
+    ],
+    [
+     "la Guardia Civil",
+     "de Guardia Civil (Spaanse marechaussee)"
+    ],
+    [
+     "la policía local",
+     "gemeentepolitie"
+    ],
+    [
+     "la denuncia",
+     "aangifte"
+    ],
+    [
+     "el juicio",
+     "proces, rechtszaak"
+    ],
+    [
+     "el juzgado",
+     "rechtbank"
+    ],
+    [
+     "el tribunal",
+     "rechtbank, tribunaal"
+    ],
+    [
+     "el juez / la jueza",
+     "rechter"
+    ],
+    [
+     "el abogado / la abogada",
+     "advocaat"
+    ],
+    [
+     "el fiscal / la fiscal",
+     "officier van justitie"
+    ],
+    [
+     "el acusado / la acusada",
+     "verdachte, beklaagde"
+    ],
+    [
+     "el jurado",
+     "jury"
+    ],
+    [
+     "la sentencia",
+     "vonnis, uitspraak"
+    ],
+    [
+     "la condena",
+     "veroordeling, straf"
+    ],
+    [
+     "la cárcel",
+     "gevangenis"
+    ],
+    [
+     "la libertad condicional",
+     "voorwaardelijke vrijlating"
+    ],
+    [
+     "la prueba",
+     "bewijs"
+    ],
+    [
+     "la fianza",
+     "borgtocht"
+    ],
+    [
+     "declarar",
+     "getuigen, een verklaring afleggen"
+    ],
+    [
+     "juzgar",
+     "berechten, oordelen"
+    ],
+    [
+     "condenar",
+     "veroordelen"
+    ],
+    [
+     "absolver",
+     "vrijspreken"
+    ],
+    [
+     "recurrir",
+     "in beroep gaan"
+    ],
+    [
+     "culpable",
+     "schuldig"
+    ],
+    [
+     "inocente",
+     "onschuldig"
+    ]
+   ]
+  },
+  {
+   "name": "Rechten en regels",
+   "level": "C1",
+   "items": [
+    [
+     "el derecho",
+     "recht, rechten (vak)"
+    ],
+    [
+     "el deber",
+     "plicht"
+    ],
+    [
+     "la Constitución",
+     "de grondwet"
+    ],
+    [
+     "el reglamento",
+     "reglement"
+    ],
+    [
+     "la normativa",
+     "regelgeving"
+    ],
+    [
+     "la sanción",
+     "sanctie, straf"
+    ],
+    [
+     "la infracción",
+     "overtreding"
+    ],
+    [
+     "el incumplimiento",
+     "niet-nakoming"
+    ],
+    [
+     "el contrato",
+     "contract"
+    ],
+    [
+     "la demanda",
+     "rechtszaak, eis"
+    ],
+    [
+     "el demandante / la demandante",
+     "eiser"
+    ],
+    [
+     "la indemnización",
+     "schadevergoeding"
+    ],
+    [
+     "la propiedad intelectual",
+     "intellectueel eigendom"
+    ],
+    [
+     "la protección de datos",
+     "gegevensbescherming"
+    ],
+    [
+     "la legalidad",
+     "wettigheid"
+    ],
+    [
+     "la presunción de inocencia",
+     "vermoeden van onschuld"
+    ],
+    [
+     "demandar",
+     "een rechtszaak aanspannen tegen"
+    ],
+    [
+     "cumplir la ley",
+     "de wet naleven"
+    ],
+    [
+     "infringir",
+     "overtreden"
+    ],
+    [
+     "prohibir",
+     "verbieden"
+    ],
+    [
+     "legal",
+     "legaal"
+    ],
+    [
+     "ilegal",
+     "illegaal"
+    ]
+   ]
+  }
+ ]
+}

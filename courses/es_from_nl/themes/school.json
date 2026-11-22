@@ -1,0 +1,430 @@
+{
+ "title": "🎓 School en universiteit",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "School",
+   "level": "B1",
+   "items": [
+    [
+     "el instituto",
+     "middelbare school"
+    ],
+    [
+     "el colegio concertado",
+     "gesubsidieerde particuliere school"
+    ],
+    [
+     "la guardería",
+     "kinderdagverblijf"
+    ],
+    [
+     "la pizarra",
+     "schoolbord"
+    ],
+    [
+     "el aula",
+     "klaslokaal"
+    ],
+    [
+     "el salón de actos",
+     "aula"
+    ],
+    [
+     "el recreo",
+     "pauze"
+    ],
+    [
+     "la excursión",
+     "schoolreisje"
+    ],
+    [
+     "el comedor escolar",
+     "schoolkantine"
+    ],
+    [
+     "el claustro",
+     "lerarenkorps"
+    ],
+    [
+     "el jefe de estudios / la jefa de estudios",
+     "onderwijscoördinator"
+    ],
+    [
+     "el director / la directora",
+     "directeur, rector"
+    ],
+    [
+     "el alumnado",
+     "leerlingen"
+    ],
+    [
+     "el profesorado",
+     "docenten"
+    ],
+    [
+     "el compañero de clase / la compañera de clase",
+     "klasgenoot"
+    ],
+    [
+     "la educación infantil",
+     "kleuteronderwijs"
+    ],
+    [
+     "la educación primaria",
+     "basisonderwijs"
+    ],
+    [
+     "la educación secundaria",
+     "voortgezet onderwijs"
+    ],
+    [
+     "el bachillerato",
+     "bovenbouw (vwo, havo)"
+    ],
+    [
+     "la formación profesional",
+     "beroepsonderwijs"
+    ],
+    [
+     "la tarea",
+     "huiswerk"
+    ],
+    [
+     "la redacción",
+     "opstel"
+    ],
+    [
+     "pasar lista",
+     "de presentie opnemen"
+    ],
+    [
+     "hacer novillos",
+     "spijbelen"
+    ],
+    [
+     "repetir curso",
+     "blijven zitten"
+    ]
+   ]
+  },
+  {
+   "name": "Universiteit",
+   "level": "B2",
+   "items": [
+    [
+     "la selectividad",
+     "toelatingsexamen voor de universiteit"
+    ],
+    [
+     "la carrera",
+     "studie, opleiding"
+    ],
+    [
+     "el grado",
+     "bachelor"
+    ],
+    [
+     "el máster",
+     "master"
+    ],
+    [
+     "el doctorado",
+     "promotie, doctoraat"
+    ],
+    [
+     "la tesis doctoral",
+     "proefschrift"
+    ],
+    [
+     "el trabajo de fin de máster",
+     "masterscriptie"
+    ],
+    [
+     "el tutor / la tutora",
+     "mentor, begeleider"
+    ],
+    [
+     "el catedrático / la catedrática",
+     "hoogleraar"
+    ],
+    [
+     "el rector / la rectora",
+     "rector magnificus"
+    ],
+    [
+     "la facultad",
+     "faculteit"
+    ],
+    [
+     "el campus",
+     "campus"
+    ],
+    [
+     "el colegio mayor",
+     "studentenhuis"
+    ],
+    [
+     "la beca",
+     "beurs"
+    ],
+    [
+     "la matrícula",
+     "inschrijving"
+    ],
+    [
+     "el crédito",
+     "studiepunt"
+    ],
+    [
+     "el intercambio",
+     "uitwisseling"
+    ],
+    [
+     "la investigación",
+     "onderzoek"
+    ],
+    [
+     "el laboratorio",
+     "laboratorium"
+    ],
+    [
+     "la clase magistral",
+     "hoorcollege"
+    ],
+    [
+     "el seminario",
+     "werkcollege"
+    ],
+    [
+     "la tutoría",
+     "spreekuur"
+    ],
+    [
+     "licenciarse",
+     "afstuderen"
+    ],
+    [
+     "doctorarse",
+     "promoveren"
+    ],
+    [
+     "investigar",
+     "onderzoek doen"
+    ],
+    [
+     "convalidar",
+     "een diploma laten erkennen"
+    ],
+    [
+     "cursar",
+     "een vak volgen"
+    ],
+    [
+     "becado / becada",
+     "met een beurs"
+    ],
+    [
+     "matricularse",
+     "zich inschrijven"
+    ]
+   ]
+  },
+  {
+   "name": "Examens en cijfers",
+   "level": "B2",
+   "items": [
+    [
+     "la matrícula de honor",
+     "cum laude"
+    ],
+    [
+     "el expediente académico",
+     "cijferlijst"
+    ],
+    [
+     "la nota media",
+     "gemiddeld cijfer"
+    ],
+    [
+     "el sobresaliente",
+     "uitstekend cijfer"
+    ],
+    [
+     "el notable",
+     "zeer goed cijfer"
+    ],
+    [
+     "el aprobado",
+     "voldoende"
+    ],
+    [
+     "el suspenso",
+     "onvoldoende"
+    ],
+    [
+     "la convocatoria",
+     "examenperiode"
+    ],
+    [
+     "la recuperación",
+     "herkansing"
+    ],
+    [
+     "la asignatura pendiente",
+     "vak dat je nog moet halen"
+    ],
+    [
+     "la chuleta",
+     "spiekbriefje"
+    ],
+    [
+     "aprobar",
+     "slagen, halen"
+    ],
+    [
+     "suspender",
+     "zakken"
+    ],
+    [
+     "sacar buena nota",
+     "een goed cijfer halen"
+    ],
+    [
+     "sacar un sobresaliente",
+     "een uitstekend cijfer halen"
+    ],
+    [
+     "copiar en un examen",
+     "spieken bij een examen"
+    ],
+    [
+     "presentarse a un examen",
+     "een examen doen"
+    ],
+    [
+     "superar un examen",
+     "voor een examen slagen"
+    ],
+    [
+     "quedarse en blanco",
+     "blokkeren, niets meer weten"
+    ],
+    [
+     "sobresaliente",
+     "uitstekend"
+    ],
+    [
+     "corregir",
+     "nakijken"
+    ],
+    [
+     "evaluar",
+     "beoordelen"
+    ]
+   ]
+  },
+  {
+   "name": "Studeren",
+   "level": "B2",
+   "items": [
+    [
+     "la asignatura",
+     "vak"
+    ],
+    [
+     "la asignatura optativa",
+     "keuzevak"
+    ],
+    [
+     "la asignatura obligatoria",
+     "verplicht vak"
+    ],
+    [
+     "el temario",
+     "leerstof"
+    ],
+    [
+     "el apunte",
+     "aantekening"
+    ],
+    [
+     "el ensayo",
+     "essay"
+    ],
+    [
+     "el resumen",
+     "samenvatting"
+    ],
+    [
+     "el esquema",
+     "schema"
+    ],
+    [
+     "la bibliografía",
+     "literatuurlijst"
+    ],
+    [
+     "la cita",
+     "citaat"
+    ],
+    [
+     "el plagio",
+     "plagiaat"
+    ],
+    [
+     "la asistencia",
+     "aanwezigheid"
+    ],
+    [
+     "la falta de asistencia",
+     "afwezigheid"
+    ],
+    [
+     "el absentismo",
+     "schoolverzuim"
+    ],
+    [
+     "el acoso escolar",
+     "pesten op school"
+    ],
+    [
+     "el fracaso escolar",
+     "schooluitval"
+    ],
+    [
+     "el rendimiento escolar",
+     "schoolprestaties"
+    ],
+    [
+     "hincar los codos",
+     "hard studeren"
+    ],
+    [
+     "empollar",
+     "blokken"
+    ],
+    [
+     "memorizar",
+     "uit het hoofd leren"
+    ],
+    [
+     "repasar",
+     "herhalen, leren voor een toets"
+    ],
+    [
+     "entregar un trabajo",
+     "een opdracht inleveren"
+    ],
+    [
+     "tomar apuntes",
+     "aantekeningen maken"
+    ],
+    [
+     "autodidacta",
+     "autodidact"
+    ]
+   ]
+  }
+ ]
+}

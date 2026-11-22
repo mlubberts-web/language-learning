@@ -1,0 +1,300 @@
+{
+ "title": "🏠 Huis en wonen",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Kamers en meubels",
+   "level": "B1",
+   "items": [
+    [
+     "el salón",
+     "woonkamer"
+    ],
+    [
+     "el dormitorio",
+     "slaapkamer"
+    ],
+    [
+     "el cuarto de baño",
+     "badkamer"
+    ],
+    [
+     "el aseo",
+     "wc, kleine badkamer"
+    ],
+    [
+     "el pasillo",
+     "gang"
+    ],
+    [
+     "el trastero",
+     "berging"
+    ],
+    [
+     "la terraza",
+     "terras"
+    ],
+    [
+     "el balcón",
+     "balkon"
+    ],
+    [
+     "el ático",
+     "penthouse, bovenste verdieping"
+    ],
+    [
+     "el sótano",
+     "kelder"
+    ],
+    [
+     "el armario empotrado",
+     "inbouwkast"
+    ],
+    [
+     "la estantería",
+     "boekenkast, planken"
+    ],
+    [
+     "la cómoda",
+     "ladekast"
+    ],
+    [
+     "la mesilla de noche",
+     "nachtkastje"
+    ],
+    [
+     "el sofá cama",
+     "slaapbank"
+    ],
+    [
+     "la lámpara",
+     "lamp"
+    ],
+    [
+     "la persiana",
+     "rolluik"
+    ],
+    [
+     "la cortina",
+     "gordijn"
+    ],
+    [
+     "la alfombra",
+     "vloerkleed"
+    ],
+    [
+     "el radiador",
+     "radiator"
+    ],
+    [
+     "el enchufe",
+     "stopcontact, stekker"
+    ],
+    [
+     "el grifo",
+     "kraan"
+    ]
+   ]
+  },
+  {
+   "name": "Huren en kopen",
+   "level": "B2",
+   "items": [
+    [
+     "el alquiler",
+     "huur"
+    ],
+    [
+     "el inquilino / la inquilina",
+     "huurder"
+    ],
+    [
+     "el casero / la casera",
+     "huisbaas, verhuurder"
+    ],
+    [
+     "la fianza",
+     "borg"
+    ],
+    [
+     "el contrato de alquiler",
+     "huurcontract"
+    ],
+    [
+     "la hipoteca",
+     "hypotheek"
+    ],
+    [
+     "la inmobiliaria",
+     "makelaardij"
+    ],
+    [
+     "la comunidad de vecinos",
+     "vereniging van eigenaren"
+    ],
+    [
+     "los gastos de comunidad",
+     "servicekosten"
+    ],
+    [
+     "el piso compartido",
+     "gedeeld appartement"
+    ],
+    [
+     "el piso amueblado",
+     "gemeubileerd appartement"
+    ],
+    [
+     "la vivienda de protección oficial",
+     "sociale huurwoning"
+    ],
+    [
+     "el portero automático",
+     "intercom"
+    ],
+    [
+     "el ascensor",
+     "lift"
+    ],
+    [
+     "la escritura",
+     "eigendomsakte"
+    ],
+    [
+     "el recibo de la luz",
+     "elektriciteitsrekening"
+    ],
+    [
+     "el desahucio",
+     "huisuitzetting"
+    ],
+    [
+     "alquilar",
+     "huren"
+    ],
+    [
+     "mudarse de casa",
+     "verhuizen"
+    ],
+    [
+     "pagar a plazos",
+     "in termijnen betalen"
+    ],
+    [
+     "compartir piso",
+     "een appartement delen"
+    ],
+    [
+     "luminoso / luminosa",
+     "licht, met veel licht"
+    ],
+    [
+     "exterior",
+     "aan de straatkant"
+    ],
+    [
+     "interior",
+     "aan de binnenplaats"
+    ]
+   ]
+  },
+  {
+   "name": "Huishouden en reparaties",
+   "level": "B2",
+   "items": [
+    [
+     "las tareas domésticas",
+     "huishoudelijk werk"
+    ],
+    [
+     "fregar los platos",
+     "afwassen"
+    ],
+    [
+     "el lavavajillas",
+     "vaatwasser"
+    ],
+    [
+     "la lavadora",
+     "wasmachine"
+    ],
+    [
+     "tender la ropa",
+     "de was ophangen"
+    ],
+    [
+     "planchar",
+     "strijken"
+    ],
+    [
+     "barrer",
+     "vegen"
+    ],
+    [
+     "pasar la aspiradora",
+     "stofzuigen"
+    ],
+    [
+     "fregar el suelo",
+     "dweilen"
+    ],
+    [
+     "quitar el polvo",
+     "afstoffen"
+    ],
+    [
+     "hacer la cama",
+     "het bed opmaken"
+    ],
+    [
+     "sacar la basura",
+     "het vuilnis buitenzetten"
+    ],
+    [
+     "la fregona",
+     "dweil"
+    ],
+    [
+     "la escoba",
+     "bezem"
+    ],
+    [
+     "el fontanero / la fontanera",
+     "loodgieter"
+    ],
+    [
+     "el electricista / la electricista",
+     "elektricien"
+    ],
+    [
+     "la gotera",
+     "lekkage (van het plafond)"
+    ],
+    [
+     "la humedad",
+     "vocht"
+    ],
+    [
+     "el atasco en el desagüe",
+     "verstopte afvoer"
+    ],
+    [
+     "la avería",
+     "storing, defect"
+    ],
+    [
+     "arreglar",
+     "repareren"
+    ],
+    [
+     "pintar las paredes",
+     "de muren schilderen"
+    ],
+    [
+     "la reforma",
+     "verbouwing"
+    ]
+   ]
+  }
+ ]
+}

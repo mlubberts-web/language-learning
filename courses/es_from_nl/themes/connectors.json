@@ -1,0 +1,502 @@
+{
+ "title": "🔗 Verbindingswoorden",
+ "kind": "language",
+ "lists": [
+  {
+   "name": "Toevoegen en ordenen",
+   "level": "B1",
+   "items": [
+    [
+     "además",
+     "bovendien, daarnaast",
+     "El piso es muy luminoso y, [además], está cerca del metro."
+    ],
+    [
+     "también",
+     "ook",
+     "Mi hermana habla inglés y [también] alemán."
+    ],
+    [
+     "tampoco",
+     "ook niet",
+     "No me gusta el café y [tampoco] el té."
+    ],
+    [
+     "incluso",
+     "zelfs",
+     "Trabaja todos los días, [incluso] los domingos."
+    ],
+    [
+     "asimismo",
+     "eveneens, ook",
+     "El ayuntamiento renovará el parque. [Asimismo], abrirá una nueva biblioteca.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "por otra parte",
+     "anderzijds, verder",
+     "El sueldo es bajo. [Por otra parte], el horario es muy flexible."
+    ],
+    [
+     "encima",
+     "bovendien, daar komt nog bij",
+     "Llegó tarde y, [encima], se olvidó las entradas.",
+     "Spreektaal, vaak met een klagende ondertoon."
+    ],
+    [
+     "en primer lugar",
+     "ten eerste, in de eerste plaats",
+     "[En primer lugar], quiero agradecer su presencia a todos."
+    ],
+    [
+     "en segundo lugar",
+     "ten tweede",
+     "[En segundo lugar], hablaremos del presupuesto."
+    ],
+    [
+     "por último",
+     "ten slotte, tot slot",
+     "[Por último], me gustaría resumir las ideas principales."
+    ],
+    [
+     "para empezar",
+     "om te beginnen",
+     "[Para empezar], conviene definir el problema."
+    ],
+    [
+     "a continuación",
+     "vervolgens, hieronder",
+     "[A continuación], explicaré las ventajas de esta propuesta."
+    ],
+    [
+     "no solo… sino también",
+     "niet alleen… maar ook",
+     "No solo es barato, [sino también] muy práctico."
+    ],
+    [
+     "ni siquiera",
+     "niet eens",
+     "Estaba tan cansado que [ni siquiera] cenó."
+    ],
+    [
+     "aparte de",
+     "afgezien van, behalve",
+     "[Aparte de] la lluvia, el viaje fue estupendo."
+    ],
+    [
+     "es más",
+     "sterker nog",
+     "No me molesta ayudarte. [Es más], me apetece."
+    ],
+    [
+     "de igual modo",
+     "op dezelfde manier, evenzo",
+     "Los padres deben dar ejemplo; [de igual modo], los profesores."
+    ]
+   ]
+  },
+  {
+   "name": "Tegenstelling",
+   "level": "B2",
+   "items": [
+    [
+     "pero",
+     "maar",
+     "Es caro, [pero] merece la pena."
+    ],
+    [
+     "sin embargo",
+     "echter, toch",
+     "Llovía mucho; [sin embargo], salimos a correr."
+    ],
+    [
+     "no obstante",
+     "desondanks, niettemin",
+     "El proyecto es interesante. [No obstante], hay que revisar los costes.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "aunque",
+     "hoewel, zelfs als",
+     "[Aunque] estaba cansada, fue a la fiesta.",
+     "Met de subjuntivo betekent het 'zelfs als': aunque llueva, iré."
+    ],
+    [
+     "a pesar de",
+     "ondanks",
+     "[A pesar de] la crisis, la empresa ha crecido.",
+     "Gevolgd door een zelfstandig naamwoord of een infinitief."
+    ],
+    [
+     "a pesar de que",
+     "hoewel, ook al",
+     "[A pesar de que] estudió mucho, suspendió el examen."
+    ],
+    [
+     "en cambio",
+     "daarentegen, terwijl",
+     "Mi hermano es muy tímido; yo, [en cambio], hablo con todo el mundo."
+    ],
+    [
+     "por el contrario",
+     "integendeel",
+     "No fue un fracaso; [por el contrario], fue un éxito total."
+    ],
+    [
+     "mientras que",
+     "terwijl",
+     "En el norte llueve mucho, [mientras que] en el sur apenas llueve."
+    ],
+    [
+     "sino",
+     "maar wel, maar juist",
+     "No vive en Madrid, [sino] en Toledo.",
+     "Na een ontkenning: no A sino B."
+    ],
+    [
+     "si bien",
+     "hoewel, weliswaar",
+     "[Si bien] es cierto que hay problemas, la situación ha mejorado.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "aun así",
+     "toch, zelfs dan",
+     "Le explicaron los riesgos y, [aun así], decidió seguir."
+    ],
+    [
+     "con todo",
+     "toch, desondanks",
+     "El examen fue difícil. [Con todo], creo que he aprobado."
+    ],
+    [
+     "de todos modos",
+     "hoe dan ook, in elk geval",
+     "No sé si podré ir; [de todos modos], te llamo mañana."
+    ],
+    [
+     "pese a",
+     "ondanks",
+     "[Pese a] las críticas, el alcalde mantuvo su decisión.",
+     "Formeel, zoals a pesar de."
+    ],
+    [
+     "por mucho que",
+     "hoeveel ook",
+     "[Por mucho que] insistas, no voy a cambiar de opinión.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "aun cuando",
+     "zelfs als, ook wanneer",
+     "Siempre sale a pasear, [aun cuando] hace frío."
+    ],
+    [
+     "ahora bien",
+     "dat gezegd hebbende, echter",
+     "Puedes usar mi coche. [Ahora bien], tienes que llenar el depósito."
+    ]
+   ]
+  },
+  {
+   "name": "Oorzaak en gevolg",
+   "level": "B2",
+   "items": [
+    [
+     "porque",
+     "omdat",
+     "No fui a clase [porque] estaba enfermo."
+    ],
+    [
+     "como",
+     "omdat, aangezien",
+     "[Como] no tenía dinero, se quedó en casa.",
+     "Met deze betekenis staat het aan het begin van de zin."
+    ],
+    [
+     "ya que",
+     "aangezien, omdat",
+     "Os lo cuento ahora, [ya que] estáis todos aquí."
+    ],
+    [
+     "puesto que",
+     "aangezien, gezien het feit dat",
+     "[Puesto que] nadie se opone, aprobamos la propuesta."
+    ],
+    [
+     "dado que",
+     "gezien het feit dat",
+     "[Dado que] el tren llega tarde, cogeremos un taxi."
+    ],
+    [
+     "debido a",
+     "door, vanwege",
+     "El vuelo se canceló [debido a] la niebla.",
+     "Gevolgd door een zelfstandig naamwoord."
+    ],
+    [
+     "a causa de",
+     "vanwege",
+     "Cerraron la carretera [a causa de] la nieve."
+    ],
+    [
+     "gracias a",
+     "dankzij",
+     "[Gracias a] tu ayuda, terminé a tiempo."
+    ],
+    [
+     "por culpa de",
+     "door (iets slechts), vanwege",
+     "Perdimos el tren [por culpa de] un atasco."
+    ],
+    [
+     "por eso",
+     "daarom",
+     "Mañana madrugo; [por eso] me acuesto pronto."
+    ],
+    [
+     "por lo tanto",
+     "dus, daarom",
+     "No hay quórum; [por lo tanto], se aplaza la votación."
+    ],
+    [
+     "así que",
+     "dus",
+     "Hacía buen tiempo, [así que] fuimos a la playa."
+    ],
+    [
+     "de modo que",
+     "zodat, dus",
+     "Ya es tarde, [de modo que] lo dejamos para mañana."
+    ],
+    [
+     "en consecuencia",
+     "bijgevolg",
+     "Las ventas han caído. [En consecuencia], habrá recortes.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "por consiguiente",
+     "bijgevolg, dus",
+     "Los datos no son fiables y, [por consiguiente], no los usaremos.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "así pues",
+     "dus, aldus",
+     "[Así pues], la conclusión es clara."
+    ],
+    [
+     "de ahí que",
+     "vandaar dat",
+     "Ha llovido muy poco; [de ahí que] haya restricciones de agua.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "con lo cual",
+     "waardoor, wat betekent dat",
+     "Se me olvidó la llave, [con lo cual] tuve que esperar fuera."
+    ]
+   ]
+  },
+  {
+   "name": "Voorwaarde, doel en tijd",
+   "level": "B2",
+   "items": [
+    [
+     "si",
+     "als",
+     "[Si] tienes tiempo, llámame."
+    ],
+    [
+     "siempre que",
+     "zolang, telkens als",
+     "Te lo dejo, [siempre que] me lo devuelvas mañana.",
+     "Met de subjuntivo betekent het 'zolang'."
+    ],
+    [
+     "siempre y cuando",
+     "op voorwaarde dat",
+     "Podéis salir, [siempre y cuando] volváis antes de las doce.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "con tal de que",
+     "op voorwaarde dat",
+     "Te ayudo, [con tal de que] me invites a un café.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "a menos que",
+     "tenzij",
+     "Iremos andando, [a menos que] llueva.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "en caso de que",
+     "voor het geval dat, als",
+     "[En caso de que] haya algún problema, avísame.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "para que",
+     "zodat",
+     "Te lo explico otra vez [para que] lo entiendas.",
+     "Gevolgd door de subjuntivo."
+    ],
+    [
+     "a fin de que",
+     "opdat",
+     "Se ha ampliado el plazo [a fin de que] todos puedan participar.",
+     "Formeel; gevolgd door de subjuntivo."
+    ],
+    [
+     "con el fin de",
+     "met het doel om",
+     "Se reunieron [con el fin de] buscar una solución."
+    ],
+    [
+     "cuando",
+     "wanneer, als",
+     "[Cuando] llegues a casa, mándame un mensaje.",
+     "Over de toekomst krijgt het de subjuntivo."
+    ],
+    [
+     "en cuanto",
+     "zodra",
+     "[En cuanto] termine, te llamo."
+    ],
+    [
+     "mientras",
+     "terwijl",
+     "Yo cocino [mientras] tú pones la mesa."
+    ],
+    [
+     "antes de que",
+     "voordat",
+     "Recoge la ropa [antes de que] empiece a llover.",
+     "Altijd gevolgd door de subjuntivo."
+    ],
+    [
+     "después de que",
+     "nadat",
+     "[Después de que] se fueron los invitados, fregamos los platos."
+    ],
+    [
+     "hasta que",
+     "totdat",
+     "No me voy [hasta que] me lo digas."
+    ],
+    [
+     "desde que",
+     "sinds",
+     "[Desde que] vive en Sevilla, está mucho más contento."
+    ],
+    [
+     "nada más",
+     "zodra, meteen na",
+     "[Nada más] llegar, se puso a trabajar.",
+     "Gevolgd door de infinitief."
+    ]
+   ]
+  },
+  {
+   "name": "Uitleggen en afronden",
+   "level": "C1",
+   "items": [
+    [
+     "es decir",
+     "dat wil zeggen",
+     "Llega pasado mañana, [es decir], el jueves."
+    ],
+    [
+     "o sea",
+     "ik bedoel, met andere woorden",
+     "Es vegano, [o sea], no come nada de origen animal.",
+     "Meer spreektaal dan es decir."
+    ],
+    [
+     "por ejemplo",
+     "bijvoorbeeld",
+     "Hay muchas opciones; [por ejemplo], el tren nocturno."
+    ],
+    [
+     "en concreto",
+     "concreet, in het bijzonder",
+     "Quiero hablar de un tema [en concreto]: la vivienda."
+    ],
+    [
+     "en otras palabras",
+     "met andere woorden",
+     "[En otras palabras], tenemos que empezar de cero."
+    ],
+    [
+     "mejor dicho",
+     "beter gezegd",
+     "Viene el lunes, [mejor dicho], el martes."
+    ],
+    [
+     "en cuanto a",
+     "wat betreft",
+     "[En cuanto a] tu pregunta, te contesto mañana."
+    ],
+    [
+     "respecto a",
+     "met betrekking tot",
+     "[Respecto a] la reunión, se ha cambiado la fecha."
+    ],
+    [
+     "en resumen",
+     "kortom, samengevat",
+     "[En resumen], la propuesta tiene más ventajas que inconvenientes."
+    ],
+    [
+     "en conclusión",
+     "tot slot, concluderend",
+     "[En conclusión], es necesario invertir más en educación."
+    ],
+    [
+     "en definitiva",
+     "al met al, uiteindelijk",
+     "[En definitiva], fue una experiencia muy positiva."
+    ],
+    [
+     "en fin",
+     "enfin, nou ja",
+     "[En fin], ya veremos qué pasa."
+    ],
+    [
+     "al fin y al cabo",
+     "per slot van rekening",
+     "No te enfades con él; [al fin y al cabo], es tu hermano."
+    ],
+    [
+     "de hecho",
+     "sterker nog, eigenlijk",
+     "No es tan difícil; [de hecho], yo lo aprendí en una semana."
+    ],
+    [
+     "en realidad",
+     "eigenlijk, in werkelijkheid",
+     "Parece serio, pero [en realidad] es muy divertido."
+    ],
+    [
+     "dicho de otro modo",
+     "anders gezegd",
+     "[Dicho de otro modo], el plan no es viable."
+    ],
+    [
+     "cabe añadir que",
+     "daarbij moet worden opgemerkt dat",
+     "[Cabe añadir que] la entrada es gratuita.",
+     "Formeel, voor geschreven taal."
+    ],
+    [
+     "por lo general",
+     "over het algemeen, in de regel",
+     "[Por lo general], los comercios cierran a las nueve."
+    ]
+   ]
+  }
+ ]
+}

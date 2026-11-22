@@ -1,0 +1,296 @@
+{
+ "title": "🚇 Stad en vervoer",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In de stad",
+   "level": "B1",
+   "items": [
+    [
+     "el barrio",
+     "wijk, buurt"
+    ],
+    [
+     "las afueras",
+     "buitenwijken"
+    ],
+    [
+     "el centro histórico",
+     "historisch centrum"
+    ],
+    [
+     "la plaza mayor",
+     "centrale plein"
+    ],
+    [
+     "la acera",
+     "stoep"
+    ],
+    [
+     "el paso de peatones",
+     "zebrapad"
+    ],
+    [
+     "el semáforo",
+     "verkeerslicht"
+    ],
+    [
+     "la esquina",
+     "hoek"
+    ],
+    [
+     "la manzana",
+     "huizenblok"
+    ],
+    [
+     "la rotonda",
+     "rotonde"
+    ],
+    [
+     "el cruce",
+     "kruispunt"
+    ],
+    [
+     "el ayuntamiento",
+     "gemeentehuis"
+    ],
+    [
+     "el polígono industrial",
+     "industrieterrein"
+    ],
+    [
+     "la zona peatonal",
+     "voetgangersgebied"
+    ],
+    [
+     "el carril bici",
+     "fietspad"
+    ],
+    [
+     "el parque infantil",
+     "speeltuin"
+    ],
+    [
+     "el vecino / la vecina",
+     "buurman, buurvrouw"
+    ],
+    [
+     "el peatón / la peatona",
+     "voetganger"
+    ],
+    [
+     "el ruido",
+     "lawaai"
+    ],
+    [
+     "la contaminación",
+     "vervuiling"
+    ],
+    [
+     "el tráfico",
+     "verkeer"
+    ],
+    [
+     "el aparcamiento",
+     "parkeerplaats, parkeergarage"
+    ]
+   ]
+  },
+  {
+   "name": "Openbaar vervoer",
+   "level": "B1",
+   "items": [
+    [
+     "el autobús urbano",
+     "stadsbus"
+    ],
+    [
+     "la parada",
+     "halte"
+    ],
+    [
+     "la línea",
+     "lijn"
+    ],
+    [
+     "el metro",
+     "metro"
+    ],
+    [
+     "la estación de cercanías",
+     "station voor de stoptrein"
+    ],
+    [
+     "el tranvía",
+     "tram"
+    ],
+    [
+     "el abono transporte",
+     "abonnement voor het openbaar vervoer"
+    ],
+    [
+     "el bonobús",
+     "strippenkaart voor de bus"
+    ],
+    [
+     "la tarjeta de transporte",
+     "ov-kaart"
+    ],
+    [
+     "el revisor / la revisora",
+     "conducteur, controleur"
+    ],
+    [
+     "el conductor / la conductora",
+     "chauffeur, bestuurder"
+    ],
+    [
+     "la hora punta",
+     "spitsuur"
+    ],
+    [
+     "el horario",
+     "dienstregeling"
+    ],
+    [
+     "la frecuencia",
+     "frequentie"
+    ],
+    [
+     "el transbordo",
+     "overstap"
+    ],
+    [
+     "el taxi",
+     "taxi"
+    ],
+    [
+     "coger el autobús",
+     "de bus nemen"
+    ],
+    [
+     "bajarse",
+     "uitstappen"
+    ],
+    [
+     "subirse",
+     "instappen"
+    ],
+    [
+     "validar el billete",
+     "je kaartje afstempelen"
+    ],
+    [
+     "ir lleno / ir llena",
+     "vol zitten"
+    ],
+    [
+     "perder el autobús",
+     "de bus missen"
+    ]
+   ]
+  },
+  {
+   "name": "Autorijden",
+   "level": "B2",
+   "items": [
+    [
+     "el carné de conducir",
+     "rijbewijs"
+    ],
+    [
+     "la autoescuela",
+     "rijschool"
+    ],
+    [
+     "el volante",
+     "stuur"
+    ],
+    [
+     "el freno",
+     "rem"
+    ],
+    [
+     "el maletero",
+     "kofferbak"
+    ],
+    [
+     "el capó",
+     "motorkap"
+    ],
+    [
+     "el neumático",
+     "band"
+    ],
+    [
+     "el pinchazo",
+     "lekke band"
+    ],
+    [
+     "el intermitente",
+     "richtingaanwijzer"
+    ],
+    [
+     "el cinturón",
+     "veiligheidsgordel"
+    ],
+    [
+     "la multa",
+     "boete"
+    ],
+    [
+     "el radar",
+     "flitspaal"
+    ],
+    [
+     "el límite de velocidad",
+     "maximumsnelheid"
+    ],
+    [
+     "la grúa",
+     "takelwagen"
+    ],
+    [
+     "la ITV",
+     "APK"
+    ],
+    [
+     "el seguro del coche",
+     "autoverzekering"
+    ],
+    [
+     "aparcar",
+     "parkeren"
+    ],
+    [
+     "adelantar",
+     "inhalen"
+    ],
+    [
+     "frenar",
+     "remmen"
+    ],
+    [
+     "arrancar",
+     "starten (de motor)"
+    ],
+    [
+     "saltarse un semáforo",
+     "door rood rijden"
+    ],
+    [
+     "dar marcha atrás",
+     "achteruitrijden"
+    ],
+    [
+     "chocar",
+     "botsen"
+    ],
+    [
+     "el atropello",
+     "aanrijding (van een voetganger)"
+    ]
+   ]
+  }
+ ]
+}

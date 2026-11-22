@@ -1,0 +1,436 @@
+{
+ "title": "⚽ Sport",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Mensen en teams",
+   "level": "B1",
+   "items": [
+    [
+     "el entrenador / la entrenadora",
+     "trainer, coach"
+    ],
+    [
+     "el árbitro / la árbitra",
+     "scheidsrechter"
+    ],
+    [
+     "el aficionado / la aficionada",
+     "supporter, fan"
+    ],
+    [
+     "la afición",
+     "supporters, aanhang"
+    ],
+    [
+     "la plantilla",
+     "selectie"
+    ],
+    [
+     "el fichaje",
+     "aankoop (speler)"
+    ],
+    [
+     "el portero / la portera",
+     "keeper"
+    ],
+    [
+     "el defensa / la defensa",
+     "verdediger"
+    ],
+    [
+     "el delantero / la delantera",
+     "spits"
+    ],
+    [
+     "el centrocampista / la centrocampista",
+     "middenvelder"
+    ],
+    [
+     "el capitán / la capitana",
+     "aanvoerder"
+    ],
+    [
+     "el suplente / la suplente",
+     "invaller"
+    ],
+    [
+     "el rival / la rival",
+     "tegenstander"
+    ],
+    [
+     "el banquillo",
+     "reservebank"
+    ],
+    [
+     "fichar por un equipo",
+     "tekenen bij een club"
+    ],
+    [
+     "el juego limpio",
+     "fair play"
+    ],
+    [
+     "la liga",
+     "competitie"
+    ],
+    [
+     "el campeonato",
+     "kampioenschap"
+    ],
+    [
+     "la clasificación",
+     "stand, ranglijst"
+    ],
+    [
+     "clasificarse",
+     "zich plaatsen"
+    ],
+    [
+     "ascender de categoría",
+     "promoveren"
+    ],
+    [
+     "descender de categoría",
+     "degraderen"
+    ]
+   ]
+  },
+  {
+   "name": "De wedstrijd",
+   "level": "B2",
+   "items": [
+    [
+     "la eliminatoria",
+     "knock-outronde"
+    ],
+    [
+     "la semifinal",
+     "halve finale"
+    ],
+    [
+     "la prórroga",
+     "verlenging"
+    ],
+    [
+     "el descanso",
+     "rust"
+    ],
+    [
+     "el empate",
+     "gelijkspel"
+    ],
+    [
+     "la derrota",
+     "nederlaag"
+    ],
+    [
+     "la victoria",
+     "overwinning"
+    ],
+    [
+     "el marcador",
+     "scorebord"
+    ],
+    [
+     "el gol en propia puerta",
+     "eigen doelpunt"
+    ],
+    [
+     "el penalti",
+     "strafschop, penalty"
+    ],
+    [
+     "la tanda de penaltis",
+     "strafschoppenserie"
+    ],
+    [
+     "el fuera de juego",
+     "buitenspel"
+    ],
+    [
+     "la falta",
+     "overtreding"
+    ],
+    [
+     "el saque de esquina",
+     "hoekschop, corner"
+    ],
+    [
+     "el saque de banda",
+     "inworp"
+    ],
+    [
+     "la tarjeta roja",
+     "rode kaart"
+    ],
+    [
+     "la expulsión",
+     "uitsluiting"
+    ],
+    [
+     "el larguero",
+     "lat"
+    ],
+    [
+     "el poste",
+     "paal"
+    ],
+    [
+     "la portería",
+     "doel"
+    ],
+    [
+     "la goleada",
+     "ruime overwinning, afstraffing"
+    ],
+    [
+     "empatar",
+     "gelijkspelen"
+    ],
+    [
+     "marcar un gol",
+     "een doelpunt maken"
+    ],
+    [
+     "remontar",
+     "een achterstand inhalen"
+    ],
+    [
+     "golear",
+     "inmaken"
+    ],
+    [
+     "pitar",
+     "fluiten"
+    ],
+    [
+     "regatear",
+     "dribbelen"
+    ],
+    [
+     "rematar",
+     "op doel schieten"
+    ]
+   ]
+  },
+  {
+   "name": "Plaatsen en uitrusting",
+   "level": "B1",
+   "items": [
+    [
+     "el estadio",
+     "stadion"
+    ],
+    [
+     "el polideportivo",
+     "sportcentrum"
+    ],
+    [
+     "la cancha",
+     "veld, baan"
+    ],
+    [
+     "la pista de atletismo",
+     "atletiekbaan"
+    ],
+    [
+     "la grada",
+     "tribune"
+    ],
+    [
+     "el vestuario",
+     "kleedkamer"
+    ],
+    [
+     "el gimnasio",
+     "sportschool"
+    ],
+    [
+     "la equipación",
+     "tenue"
+    ],
+    [
+     "las zapatillas de deporte",
+     "sportschoenen"
+    ],
+    [
+     "las espinilleras",
+     "scheenbeschermers"
+    ],
+    [
+     "la raqueta",
+     "racket"
+    ],
+    [
+     "la red",
+     "net"
+    ]
+   ]
+  },
+  {
+   "name": "Sporten en wedstrijden",
+   "level": "B1",
+   "items": [
+    [
+     "el senderismo",
+     "wandelen, hiken"
+    ],
+    [
+     "el ciclismo",
+     "wielrennen"
+    ],
+    [
+     "la natación",
+     "zwemmen"
+    ],
+    [
+     "el esquí",
+     "skiën"
+    ],
+    [
+     "la escalada",
+     "klimmen"
+    ],
+    [
+     "la vela",
+     "zeilen"
+    ],
+    [
+     "el remo",
+     "roeien"
+    ],
+    [
+     "la esgrima",
+     "schermen"
+    ],
+    [
+     "la equitación",
+     "paardrijden"
+    ],
+    [
+     "el piragüismo",
+     "kanoën"
+    ],
+    [
+     "el buceo",
+     "duiken"
+    ],
+    [
+     "el baloncesto",
+     "basketbal"
+    ],
+    [
+     "el balonmano",
+     "handbal"
+    ],
+    [
+     "el maratón / la maratón",
+     "marathon"
+    ],
+    [
+     "la media maratón / el medio maratón",
+     "halve marathon"
+    ],
+    [
+     "la carrera de relevos",
+     "estafette"
+    ],
+    [
+     "la meta",
+     "finish"
+    ],
+    [
+     "la salida",
+     "start"
+    ],
+    [
+     "el récord",
+     "record"
+    ],
+    [
+     "la marca personal",
+     "persoonlijk record"
+    ],
+    [
+     "la medalla de plata",
+     "zilveren medaille"
+    ],
+    [
+     "el podio",
+     "podium"
+    ],
+    [
+     "el dopaje",
+     "doping"
+    ],
+    [
+     "batir un récord",
+     "een record breken"
+    ],
+    [
+     "competir",
+     "wedijveren, meedoen"
+    ]
+   ]
+  },
+  {
+   "name": "Training en blessures",
+   "level": "B2",
+   "items": [
+    [
+     "la lesión",
+     "blessure"
+    ],
+    [
+     "el esguince",
+     "verstuiking"
+    ],
+    [
+     "el calentamiento",
+     "warming-up"
+    ],
+    [
+     "los estiramientos",
+     "rekoefeningen"
+    ],
+    [
+     "la resistencia",
+     "uithoudingsvermogen"
+    ],
+    [
+     "la flexibilidad",
+     "lenigheid"
+    ],
+    [
+     "calentar",
+     "opwarmen"
+    ],
+    [
+     "estirar",
+     "rekken"
+    ],
+    [
+     "lesionarse",
+     "geblesseerd raken"
+    ],
+    [
+     "ponerse en forma",
+     "in vorm komen"
+    ],
+    [
+     "tirar la toalla",
+     "de handdoek in de ring gooien"
+    ],
+    [
+     "entrenar",
+     "trainen"
+    ],
+    [
+     "agotado / agotada",
+     "uitgeput"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "title": "📰 Media en nieuws",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Kranten en tv",
+   "level": "B1",
+   "items": [
+    [
+     "el periódico",
+     "krant"
+    ],
+    [
+     "la prensa",
+     "de pers"
+    ],
+    [
+     "la revista",
+     "tijdschrift"
+    ],
+    [
+     "el titular",
+     "kop"
+    ],
+    [
+     "la portada",
+     "voorpagina"
+    ],
+    [
+     "el artículo",
+     "artikel"
+    ],
+    [
+     "la noticia",
+     "nieuwsbericht"
+    ],
+    [
+     "el telediario",
+     "journaal"
+    ],
+    [
+     "la cadena",
+     "zender"
+    ],
+    [
+     "el programa",
+     "programma"
+    ],
+    [
+     "la serie",
+     "serie"
+    ],
+    [
+     "el anuncio",
+     "reclame, advertentie"
+    ],
+    [
+     "la emisora",
+     "radiozender"
+    ],
+    [
+     "el oyente / la oyente",
+     "luisteraar"
+    ],
+    [
+     "el espectador / la espectadora",
+     "kijker"
+    ],
+    [
+     "el presentador / la presentadora",
+     "presentator"
+    ],
+    [
+     "el periodista / la periodista",
+     "journalist"
+    ],
+    [
+     "el reportaje",
+     "reportage"
+    ],
+    [
+     "la entrevista",
+     "interview"
+    ],
+    [
+     "la audiencia",
+     "publiek, kijkcijfers"
+    ],
+    [
+     "en directo",
+     "live"
+    ],
+    [
+     "la sección de deportes",
+     "sportpagina"
+    ]
+   ]
+  },
+  {
+   "name": "Verslag doen",
+   "level": "B2",
+   "items": [
+    [
+     "el corresponsal / la corresponsal",
+     "correspondent"
+    ],
+    [
+     "el enviado especial / la enviada especial",
+     "speciale verslaggever"
+    ],
+    [
+     "la rueda de prensa",
+     "persconferentie"
+    ],
+    [
+     "el comunicado",
+     "verklaring"
+    ],
+    [
+     "la fuente",
+     "bron"
+    ],
+    [
+     "la exclusiva",
+     "exclusief verhaal"
+    ],
+    [
+     "la primicia",
+     "primeur"
+    ],
+    [
+     "la crónica",
+     "verslag, kroniek"
+    ],
+    [
+     "el editorial",
+     "redactioneel commentaar"
+    ],
+    [
+     "la columna de opinión",
+     "opiniecolumn"
+    ],
+    [
+     "el suceso",
+     "voorval (misdaadnieuws)"
+    ],
+    [
+     "la última hora",
+     "laatste nieuws"
+    ],
+    [
+     "la censura",
+     "censuur"
+    ],
+    [
+     "la libertad de prensa",
+     "persvrijheid"
+    ],
+    [
+     "el bulo",
+     "nepbericht"
+    ],
+    [
+     "la prensa del corazón",
+     "roddelpers"
+    ],
+    [
+     "informar",
+     "berichten, informeren"
+    ],
+    [
+     "emitir",
+     "uitzenden"
+    ],
+    [
+     "publicar",
+     "publiceren"
+    ],
+    [
+     "desmentir",
+     "ontkennen"
+    ],
+    [
+     "filtrar",
+     "lekken"
+    ],
+    [
+     "según fuentes oficiales",
+     "volgens officiële bronnen"
+    ],
+    [
+     "imparcial",
+     "onpartijdig"
+    ],
+    [
+     "sensacionalista",
+     "sensationeel"
+    ]
+   ]
+  },
+  {
+   "name": "Reclame en invloed",
+   "level": "C1",
+   "items": [
+    [
+     "la publicidad",
+     "reclame"
+    ],
+    [
+     "la campaña publicitaria",
+     "reclamecampagne"
+    ],
+    [
+     "el eslogan",
+     "slogan"
+    ],
+    [
+     "la marca",
+     "merk"
+    ],
+    [
+     "el patrocinador / la patrocinadora",
+     "sponsor"
+    ],
+    [
+     "el consumidor / la consumidora",
+     "consument"
+    ],
+    [
+     "el público objetivo",
+     "doelgroep"
+    ],
+    [
+     "la opinión pública",
+     "publieke opinie"
+    ],
+    [
+     "el creador de contenido / la creadora de contenido",
+     "contentmaker"
+    ],
+    [
+     "el influencer / la influencer",
+     "influencer"
+    ],
+    [
+     "la manipulación",
+     "manipulatie"
+    ],
+    [
+     "el sesgo",
+     "vooringenomenheid"
+    ],
+    [
+     "la desinformación",
+     "desinformatie"
+    ],
+    [
+     "el amarillismo",
+     "sensatiejournalistiek"
+    ],
+    [
+     "la polémica",
+     "controverse"
+    ],
+    [
+     "el escándalo",
+     "schandaal"
+    ],
+    [
+     "patrocinar",
+     "sponsoren"
+    ],
+    [
+     "influir",
+     "beïnvloeden"
+    ],
+    [
+     "manipular",
+     "manipuleren"
+    ],
+    [
+     "persuadir",
+     "overtuigen"
+    ],
+    [
+     "contrastar la información",
+     "de feiten controleren"
+    ],
+    [
+     "engañoso / engañosa",
+     "misleidend"
+    ]
+   ]
+  }
+ ]
+}

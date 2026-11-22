@@ -1,0 +1,292 @@
+{
+ "title": "💻 Technologie en internet",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Apparaten",
+   "level": "B1",
+   "items": [
+    [
+     "el ordenador portátil",
+     "laptop"
+    ],
+    [
+     "el ordenador de sobremesa",
+     "desktopcomputer"
+    ],
+    [
+     "la tableta",
+     "tablet"
+    ],
+    [
+     "el teclado",
+     "toetsenbord"
+    ],
+    [
+     "el ratón",
+     "muis"
+    ],
+    [
+     "la pantalla",
+     "scherm"
+    ],
+    [
+     "el cargador",
+     "oplader"
+    ],
+    [
+     "la batería",
+     "batterij, accu"
+    ],
+    [
+     "los auriculares",
+     "koptelefoon, oortjes"
+    ],
+    [
+     "el altavoz",
+     "luidspreker"
+    ],
+    [
+     "la impresora",
+     "printer"
+    ],
+    [
+     "el disco duro",
+     "harde schijf"
+    ],
+    [
+     "el pendrive",
+     "usb-stick"
+    ],
+    [
+     "el mando a distancia",
+     "afstandsbediening"
+    ],
+    [
+     "el router",
+     "router"
+    ],
+    [
+     "el cable",
+     "kabel"
+    ],
+    [
+     "encender",
+     "aanzetten"
+    ],
+    [
+     "apagar",
+     "uitzetten"
+    ],
+    [
+     "cargar el móvil",
+     "je telefoon opladen"
+    ],
+    [
+     "reiniciar",
+     "opnieuw opstarten"
+    ],
+    [
+     "quedarse sin batería",
+     "een lege batterij krijgen"
+    ],
+    [
+     "la aplicación",
+     "app"
+    ]
+   ]
+  },
+  {
+   "name": "Online",
+   "level": "B1",
+   "items": [
+    [
+     "la red social",
+     "sociaal netwerk"
+    ],
+    [
+     "la contraseña",
+     "wachtwoord"
+    ],
+    [
+     "el nombre de usuario",
+     "gebruikersnaam"
+    ],
+    [
+     "la cuenta",
+     "account"
+    ],
+    [
+     "el correo electrónico",
+     "e-mail"
+    ],
+    [
+     "el archivo adjunto",
+     "bijlage"
+    ],
+    [
+     "la página web",
+     "website"
+    ],
+    [
+     "el enlace",
+     "link"
+    ],
+    [
+     "el buscador",
+     "zoekmachine"
+    ],
+    [
+     "la descarga",
+     "download"
+    ],
+    [
+     "la nube",
+     "de cloud"
+    ],
+    [
+     "la conexión",
+     "verbinding"
+    ],
+    [
+     "la red wifi",
+     "wifinetwerk"
+    ],
+    [
+     "el seguidor / la seguidora",
+     "volger"
+    ],
+    [
+     "la publicación",
+     "bericht, post"
+    ],
+    [
+     "el comentario",
+     "reactie"
+    ],
+    [
+     "descargar",
+     "downloaden"
+    ],
+    [
+     "subir una foto",
+     "een foto uploaden"
+    ],
+    [
+     "compartir",
+     "delen"
+    ],
+    [
+     "navegar por internet",
+     "surfen op internet"
+    ],
+    [
+     "iniciar sesión",
+     "inloggen"
+    ],
+    [
+     "cerrar sesión",
+     "uitloggen"
+    ],
+    [
+     "darse de alta",
+     "zich aanmelden"
+    ]
+   ]
+  },
+  {
+   "name": "Technologie en samenleving",
+   "level": "C1",
+   "items": [
+    [
+     "la inteligencia artificial",
+     "kunstmatige intelligentie"
+    ],
+    [
+     "la brecha digital",
+     "digitale kloof"
+    ],
+    [
+     "la ciberseguridad",
+     "cyberbeveiliging"
+    ],
+    [
+     "el pirata informático",
+     "hacker"
+    ],
+    [
+     "el virus",
+     "virus"
+    ],
+    [
+     "la privacidad",
+     "privacy"
+    ],
+    [
+     "los datos personales",
+     "persoonsgegevens"
+    ],
+    [
+     "las noticias falsas",
+     "nepnieuws"
+    ],
+    [
+     "el algoritmo",
+     "algoritme"
+    ],
+    [
+     "la adicción a las pantallas",
+     "schermverslaving"
+    ],
+    [
+     "el comercio electrónico",
+     "e-commerce"
+    ],
+    [
+     "la realidad virtual",
+     "virtual reality"
+    ],
+    [
+     "la copia de seguridad",
+     "back-up"
+    ],
+    [
+     "el ciberacoso",
+     "cyberpesten"
+    ],
+    [
+     "la desconexión digital",
+     "digitale detox"
+    ],
+    [
+     "el teletrabajo",
+     "thuiswerken"
+    ],
+    [
+     "la actualización",
+     "update"
+    ],
+    [
+     "el software",
+     "software"
+    ],
+    [
+     "hackear",
+     "hacken"
+    ],
+    [
+     "actualizar",
+     "bijwerken, updaten"
+    ],
+    [
+     "estar enganchado al móvil",
+     "verslaafd zijn aan je telefoon"
+    ],
+    [
+     "hacerse viral",
+     "viraal gaan"
+    ]
+   ]
+  }
+ ]
+}

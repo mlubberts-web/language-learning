@@ -1,0 +1,288 @@
+{
+ "title": "🎨 Cultuur en kunst",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Film, theater en muziek",
+   "level": "B1",
+   "items": [
+    [
+     "la película",
+     "film"
+    ],
+    [
+     "el estreno",
+     "première, uitbrengen"
+    ],
+    [
+     "la taquilla",
+     "kassa"
+    ],
+    [
+     "la butaca",
+     "stoel (in een theater)"
+    ],
+    [
+     "el escenario",
+     "podium, toneel"
+    ],
+    [
+     "la obra de teatro",
+     "toneelstuk"
+    ],
+    [
+     "el actor / la actriz",
+     "acteur, actrice"
+    ],
+    [
+     "el director de cine / la directora de cine",
+     "filmregisseur"
+    ],
+    [
+     "el guion",
+     "script, draaiboek"
+    ],
+    [
+     "los subtítulos",
+     "ondertiteling"
+    ],
+    [
+     "la versión original",
+     "originele versie"
+    ],
+    [
+     "la banda sonora",
+     "soundtrack"
+    ],
+    [
+     "el concierto",
+     "concert"
+    ],
+    [
+     "la gira",
+     "tournee"
+    ],
+    [
+     "el cantante / la cantante",
+     "zanger, zangeres"
+    ],
+    [
+     "la canción",
+     "liedje"
+    ],
+    [
+     "el grupo de música",
+     "band"
+    ],
+    [
+     "el público",
+     "publiek"
+    ],
+    [
+     "el aplauso",
+     "applaus"
+    ],
+    [
+     "la entrada",
+     "kaartje"
+    ],
+    [
+     "agotar las entradas",
+     "uitverkocht raken"
+    ],
+    [
+     "rodar una película",
+     "een film opnemen"
+    ]
+   ]
+  },
+  {
+   "name": "Kunst en literatuur",
+   "level": "B2",
+   "items": [
+    [
+     "el cuadro",
+     "schilderij"
+    ],
+    [
+     "el pintor / la pintora",
+     "schilder"
+    ],
+    [
+     "la escultura",
+     "beeldhouwwerk"
+    ],
+    [
+     "el museo",
+     "museum"
+    ],
+    [
+     "la exposición",
+     "tentoonstelling"
+    ],
+    [
+     "la galería de arte",
+     "kunstgalerie"
+    ],
+    [
+     "la obra maestra",
+     "meesterwerk"
+    ],
+    [
+     "el retrato",
+     "portret"
+    ],
+    [
+     "el paisaje",
+     "landschap (schilderij)"
+    ],
+    [
+     "el autorretrato",
+     "zelfportret"
+    ],
+    [
+     "la novela",
+     "roman"
+    ],
+    [
+     "la poesía",
+     "poëzie"
+    ],
+    [
+     "el poema",
+     "gedicht"
+    ],
+    [
+     "el ensayo",
+     "essay"
+    ],
+    [
+     "el escritor / la escritora",
+     "schrijver, schrijfster"
+    ],
+    [
+     "la editorial",
+     "uitgeverij"
+    ],
+    [
+     "el capítulo",
+     "hoofdstuk"
+    ],
+    [
+     "la obra",
+     "werk (kunstwerk)"
+    ],
+    [
+     "la crítica",
+     "recensie, kritiek"
+    ],
+    [
+     "el premio literario",
+     "literaire prijs"
+    ],
+    [
+     "exponer",
+     "tentoonstellen"
+    ],
+    [
+     "inspirarse en",
+     "zich laten inspireren door"
+    ]
+   ]
+  },
+  {
+   "name": "Tradities in Spanje",
+   "level": "B2",
+   "items": [
+    [
+     "la fiesta mayor",
+     "het grote dorpsfeest"
+    ],
+    [
+     "la romería",
+     "bedevaartsfeest"
+    ],
+    [
+     "la procesión",
+     "processie"
+    ],
+    [
+     "la Semana Santa",
+     "Goede Week"
+    ],
+    [
+     "las Fallas",
+     "het lentefeest van Valencia"
+    ],
+    [
+     "los Sanfermines",
+     "het stierenrennen in Pamplona"
+    ],
+    [
+     "la verbena",
+     "dansfeest in de open lucht"
+    ],
+    [
+     "los fuegos artificiales",
+     "vuurwerk"
+    ],
+    [
+     "el flamenco",
+     "flamenco"
+    ],
+    [
+     "el tablao",
+     "flamencotent"
+    ],
+    [
+     "la feria",
+     "kermis, jaarmarkt"
+    ],
+    [
+     "el patrimonio cultural",
+     "cultureel erfgoed"
+    ],
+    [
+     "las uvas de la suerte",
+     "de twaalf geluksdruiven"
+    ],
+    [
+     "los Reyes Magos",
+     "de Drie Koningen"
+    ],
+    [
+     "la cabalgata",
+     "optocht"
+    ],
+    [
+     "el roscón de Reyes",
+     "driekoningentaart"
+    ],
+    [
+     "el día del santo",
+     "naamdag"
+    ],
+    [
+     "el puente",
+     "lang weekend"
+    ],
+    [
+     "la siesta",
+     "middagdutje"
+    ],
+    [
+     "el tapeo",
+     "tapas gaan eten"
+    ],
+    [
+     "celebrar",
+     "vieren"
+    ],
+    [
+     "disfrazarse",
+     "zich verkleden"
+    ]
+   ]
+  }
+ ]
+}

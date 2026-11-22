@@ -1,0 +1,436 @@
+{
+ "title": "📖 Vertellen",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Verhalen en personages",
+   "level": "B1",
+   "items": [
+    [
+     "el relato",
+     "verhaal"
+    ],
+    [
+     "el cuento",
+     "sprookje, kort verhaal"
+    ],
+    [
+     "la leyenda",
+     "legende"
+    ],
+    [
+     "el narrador / la narradora",
+     "verteller"
+    ],
+    [
+     "el protagonista / la protagonista",
+     "hoofdpersoon"
+    ],
+    [
+     "el personaje",
+     "personage"
+    ],
+    [
+     "la trama",
+     "plot, verhaallijn"
+    ],
+    [
+     "el argumento",
+     "verhaallijn, inhoud"
+    ],
+    [
+     "el desenlace",
+     "afloop, ontknoping"
+    ],
+    [
+     "el giro inesperado",
+     "onverwachte wending"
+    ],
+    [
+     "el suspense",
+     "spanning"
+    ],
+    [
+     "el escenario",
+     "decor, plaats van handeling"
+    ],
+    [
+     "el clímax",
+     "climax, hoogtepunt"
+    ],
+    [
+     "el testigo / la testigo",
+     "getuige"
+    ],
+    [
+     "el desconocido / la desconocida",
+     "onbekende, vreemde"
+    ],
+    [
+     "el villano / la villana",
+     "schurk"
+    ],
+    [
+     "el héroe / la heroína",
+     "held, heldin"
+    ],
+    [
+     "el malvado / la malvada",
+     "boosdoener"
+    ],
+    [
+     "érase una vez",
+     "er was eens"
+    ],
+    [
+     "colorín colorado",
+     "en ze leefden nog lang en gelukkig, einde verhaal"
+    ],
+    [
+     "vivieron felices",
+     "ze leefden gelukkig"
+    ]
+   ]
+  },
+  {
+   "name": "Gebeurtenissen en sfeer",
+   "level": "B2",
+   "items": [
+    [
+     "el recuerdo",
+     "herinnering"
+    ],
+    [
+     "la anécdota",
+     "anekdote"
+    ],
+    [
+     "el suceso",
+     "voorval"
+    ],
+    [
+     "el acontecimiento",
+     "grote gebeurtenis"
+    ],
+    [
+     "la casualidad",
+     "toeval"
+    ],
+    [
+     "el destino",
+     "lot"
+    ],
+    [
+     "el susto",
+     "schrik"
+    ],
+    [
+     "el sobresalto",
+     "plotselinge schok"
+    ],
+    [
+     "el presentimiento",
+     "voorgevoel"
+    ],
+    [
+     "el silencio sepulcral",
+     "doodse stilte"
+    ],
+    [
+     "la oscuridad",
+     "duisternis"
+    ],
+    [
+     "la sombra",
+     "schaduw"
+    ],
+    [
+     "inquietante",
+     "verontrustend"
+    ],
+    [
+     "inesperado / inesperada",
+     "onverwacht"
+    ],
+    [
+     "increíble",
+     "ongelooflijk"
+    ],
+    [
+     "misterioso / misteriosa",
+     "mysterieus"
+    ],
+    [
+     "sobrecogedor / sobrecogedora",
+     "huiveringwekkend"
+    ],
+    [
+     "desconcertado / desconcertada",
+     "verbijsterd"
+    ]
+   ]
+  },
+  {
+   "name": "Tijd en verbindingswoorden",
+   "level": "B2",
+   "items": [
+    [
+     "hace mucho tiempo",
+     "lang geleden"
+    ],
+    [
+     "al principio",
+     "eerst, in het begin"
+    ],
+    [
+     "al cabo de un rato",
+     "na een tijdje"
+    ],
+    [
+     "de repente",
+     "plotseling"
+    ],
+    [
+     "de pronto",
+     "ineens"
+    ],
+    [
+     "en aquel momento",
+     "op dat moment"
+    ],
+    [
+     "en ese instante",
+     "op dat ogenblik"
+    ],
+    [
+     "a continuación",
+     "daarna, vervolgens"
+    ],
+    [
+     "acto seguido",
+     "direct daarna"
+    ],
+    [
+     "poco después",
+     "kort daarna"
+    ],
+    [
+     "mientras tanto",
+     "ondertussen"
+    ],
+    [
+     "entretanto",
+     "intussen"
+    ],
+    [
+     "al día siguiente",
+     "de volgende dag"
+    ],
+    [
+     "la noche anterior",
+     "de avond ervoor"
+    ],
+    [
+     "por aquel entonces",
+     "destijds"
+    ],
+    [
+     "en aquella época",
+     "in die tijd"
+    ],
+    [
+     "de golpe",
+     "in één keer"
+    ],
+    [
+     "sin previo aviso",
+     "zonder waarschuwing"
+    ],
+    [
+     "por fin",
+     "eindelijk"
+    ],
+    [
+     "finalmente",
+     "ten slotte, uiteindelijk"
+    ],
+    [
+     "por casualidad",
+     "toevallig"
+    ],
+    [
+     "por suerte",
+     "gelukkig"
+    ],
+    [
+     "por desgracia",
+     "helaas"
+    ],
+    [
+     "para colmo",
+     "tot overmaat van ramp"
+    ],
+    [
+     "total que",
+     "kortom, enfin"
+    ],
+    [
+     "resulta que",
+     "het blijkt dat"
+    ],
+    [
+     "el caso es que",
+     "het punt is dat"
+    ],
+    [
+     "a fin de cuentas",
+     "alles bij elkaar genomen"
+    ],
+    [
+     "al fin y al cabo",
+     "per slot van rekening"
+    ]
+   ]
+  },
+  {
+   "name": "Werkwoorden om te vertellen",
+   "level": "B1",
+   "items": [
+    [
+     "contar",
+     "vertellen"
+    ],
+    [
+     "narrar",
+     "verhalen"
+    ],
+    [
+     "relatar",
+     "navertellen"
+    ],
+    [
+     "ocurrir",
+     "voorvallen"
+    ],
+    [
+     "suceder",
+     "gebeuren"
+    ],
+    [
+     "acontecer",
+     "plaatsvinden"
+    ],
+    [
+     "recordar",
+     "zich herinneren"
+    ],
+    [
+     "acordarse de",
+     "terugdenken aan"
+    ],
+    [
+     "darse cuenta de",
+     "beseffen"
+    ],
+    [
+     "enterarse de",
+     "te weten komen"
+    ],
+    [
+     "descubrir",
+     "ontdekken"
+    ],
+    [
+     "sospechar",
+     "vermoeden"
+    ],
+    [
+     "desaparecer",
+     "verdwijnen"
+    ],
+    [
+     "aparecer",
+     "verschijnen"
+    ],
+    [
+     "huir",
+     "vluchten"
+    ],
+    [
+     "esconderse",
+     "zich verstoppen"
+    ],
+    [
+     "perseguir",
+     "achtervolgen"
+    ],
+    [
+     "gritar",
+     "schreeuwen"
+    ],
+    [
+     "susurrar",
+     "fluisteren"
+    ],
+    [
+     "temblar",
+     "trillen"
+    ]
+   ]
+  },
+  {
+   "name": "Reacties",
+   "level": "B2",
+   "items": [
+    [
+     "asustarse",
+     "schrikken"
+    ],
+    [
+     "sobresaltarse",
+     "opschrikken"
+    ],
+    [
+     "quedarse de piedra",
+     "als versteend staan"
+    ],
+    [
+     "quedarse boquiabierto",
+     "met open mond staan"
+    ],
+    [
+     "echarse a llorar",
+     "in tranen uitbarsten"
+    ],
+    [
+     "echarse a reír",
+     "in lachen uitbarsten"
+    ],
+    [
+     "ponerse a correr",
+     "het op een lopen zetten"
+    ],
+    [
+     "volver a casa",
+     "naar huis teruggaan"
+    ],
+    [
+     "dejar de hablar",
+     "ophouden met praten"
+    ],
+    [
+     "llevarse una sorpresa",
+     "verrast worden"
+    ],
+    [
+     "llevarse un susto",
+     "schrikken"
+    ],
+    [
+     "no dar crédito",
+     "het niet kunnen geloven"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,498 @@
+{
+ "title": "🍽️ Eten en koken",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In het restaurant",
+   "level": "B1",
+   "items": [
+    [
+     "el aperitivo",
+     "borrelhapje"
+    ],
+    [
+     "el entrante",
+     "voorgerecht"
+    ],
+    [
+     "el primer plato",
+     "eerste gang"
+    ],
+    [
+     "el segundo plato",
+     "hoofdgerecht"
+    ],
+    [
+     "la sobremesa",
+     "natafelen"
+    ],
+    [
+     "el menú del día",
+     "dagmenu"
+    ],
+    [
+     "la ración",
+     "portie"
+    ],
+    [
+     "la media ración",
+     "halve portie"
+    ],
+    [
+     "la cuenta",
+     "rekening"
+    ],
+    [
+     "la propina",
+     "fooi"
+    ],
+    [
+     "poner la mesa",
+     "de tafel dekken"
+    ],
+    [
+     "recoger la mesa",
+     "de tafel afruimen"
+    ],
+    [
+     "picar algo",
+     "iets kleins eten"
+    ],
+    [
+     "tener buen saque",
+     "een flinke eter zijn"
+    ],
+    [
+     "la intolerancia a la lactosa",
+     "lactose-intolerantie"
+    ],
+    [
+     "la alergia al marisco",
+     "schaaldierallergie"
+    ],
+    [
+     "la tortilla de patatas",
+     "Spaanse omelet"
+    ],
+    [
+     "las croquetas",
+     "kroketten"
+    ],
+    [
+     "el gazpacho",
+     "koude tomatensoep"
+    ],
+    [
+     "el cocido",
+     "kikkererwtenstoofpot"
+    ],
+    [
+     "soso / sosa",
+     "flauw, smakeloos"
+    ],
+    [
+     "salado / salada",
+     "zout"
+    ],
+    [
+     "picante",
+     "pittig"
+    ],
+    [
+     "crujiente",
+     "krokant"
+    ],
+    [
+     "casero / casera",
+     "zelfgemaakt"
+    ],
+    [
+     "poco hecho / poco hecha",
+     "rood, niet doorbakken"
+    ]
+   ]
+  },
+  {
+   "name": "In de keuken",
+   "level": "B2",
+   "items": [
+    [
+     "la vajilla",
+     "servies"
+    ],
+    [
+     "la cubertería",
+     "bestek"
+    ],
+    [
+     "el mantel",
+     "tafelkleed"
+    ],
+    [
+     "la servilleta",
+     "servet"
+    ],
+    [
+     "la sartén",
+     "koekenpan"
+    ],
+    [
+     "la olla",
+     "pan, kookpan"
+    ],
+    [
+     "la olla a presión",
+     "snelkookpan"
+    ],
+    [
+     "el cazo",
+     "steelpan"
+    ],
+    [
+     "la cazuela",
+     "braadpan"
+    ],
+    [
+     "la bandeja de horno",
+     "bakplaat"
+    ],
+    [
+     "el horno",
+     "oven"
+    ],
+    [
+     "la vitrocerámica",
+     "keramische kookplaat"
+    ],
+    [
+     "la batidora",
+     "staafmixer"
+    ],
+    [
+     "el rallador",
+     "rasp"
+    ],
+    [
+     "el colador",
+     "vergiet"
+    ],
+    [
+     "el cucharón",
+     "opscheplepel"
+    ],
+    [
+     "la tabla de cortar",
+     "snijplank"
+    ],
+    [
+     "el sacacorchos",
+     "kurkentrekker"
+    ],
+    [
+     "el abrelatas",
+     "blikopener"
+    ]
+   ]
+  },
+  {
+   "name": "Koken",
+   "level": "B2",
+   "items": [
+    [
+     "la receta",
+     "recept"
+    ],
+    [
+     "el ingrediente",
+     "ingrediënt"
+    ],
+    [
+     "la pizca",
+     "snufje"
+    ],
+    [
+     "el chorro",
+     "scheutje"
+    ],
+    [
+     "la cucharada",
+     "eetlepel"
+    ],
+    [
+     "la cucharadita",
+     "theelepel"
+    ],
+    [
+     "pelar",
+     "schillen"
+    ],
+    [
+     "picar",
+     "fijnhakken"
+    ],
+    [
+     "rallar",
+     "raspen"
+    ],
+    [
+     "freír",
+     "bakken (in olie), frituren"
+    ],
+    [
+     "sofreír",
+     "fruiten, aanbakken"
+    ],
+    [
+     "hervir",
+     "koken (water)"
+    ],
+    [
+     "cocer",
+     "koken (in water)"
+    ],
+    [
+     "cocinar al vapor",
+     "stomen"
+    ],
+    [
+     "asar",
+     "braden, roosteren"
+    ],
+    [
+     "hornear",
+     "bakken (in de oven)"
+    ],
+    [
+     "rebozar",
+     "paneren"
+    ],
+    [
+     "aliñar",
+     "aanmaken (salade)"
+    ],
+    [
+     "remover",
+     "roeren"
+    ],
+    [
+     "escurrir",
+     "laten uitlekken"
+    ],
+    [
+     "sazonar",
+     "op smaak brengen"
+    ],
+    [
+     "descongelar",
+     "ontdooien"
+    ],
+    [
+     "untar",
+     "smeren"
+    ],
+    [
+     "batir",
+     "kloppen"
+    ]
+   ]
+  },
+  {
+   "name": "Kruiden, specerijen en de voorraadkast",
+   "level": "B2",
+   "items": [
+    [
+     "el diente de ajo",
+     "teentje knoflook"
+    ],
+    [
+     "el pimentón",
+     "paprikapoeder"
+    ],
+    [
+     "el azafrán",
+     "saffraan"
+    ],
+    [
+     "el perejil",
+     "peterselie"
+    ],
+    [
+     "el laurel",
+     "laurierblad"
+    ],
+    [
+     "la canela",
+     "kaneel"
+    ],
+    [
+     "el comino",
+     "komijn"
+    ],
+    [
+     "la harina",
+     "bloem"
+    ],
+    [
+     "la levadura",
+     "gist"
+    ],
+    [
+     "la nata",
+     "room"
+    ],
+    [
+     "la mantequilla",
+     "boter"
+    ],
+    [
+     "el aceite de oliva virgen extra",
+     "extra vierge olijfolie"
+    ],
+    [
+     "el vinagre de Jerez",
+     "sherryazijn"
+    ]
+   ]
+  },
+  {
+   "name": "Fruit, groente en peulvruchten",
+   "level": "B1",
+   "items": [
+    [
+     "el melocotón",
+     "perzik"
+    ],
+    [
+     "el albaricoque",
+     "abrikoos"
+    ],
+    [
+     "la frambuesa",
+     "framboos"
+    ],
+    [
+     "la ciruela",
+     "pruim"
+    ],
+    [
+     "la granada",
+     "granaatappel"
+    ],
+    [
+     "el aguacate",
+     "avocado"
+    ],
+    [
+     "las judías verdes",
+     "sperziebonen"
+    ],
+    [
+     "los guisantes",
+     "doperwten"
+    ],
+    [
+     "las lentejas",
+     "linzen"
+    ],
+    [
+     "los garbanzos",
+     "kikkererwten"
+    ],
+    [
+     "la berenjena",
+     "aubergine"
+    ],
+    [
+     "el calabacín",
+     "courgette"
+    ],
+    [
+     "la alcachofa",
+     "artisjok"
+    ],
+    [
+     "el puerro",
+     "prei"
+    ],
+    [
+     "las espinacas",
+     "spinazie"
+    ],
+    [
+     "la remolacha",
+     "rode biet"
+    ]
+   ]
+  },
+  {
+   "name": "Vlees en vis",
+   "level": "B1",
+   "items": [
+    [
+     "el jamón ibérico",
+     "Iberische ham"
+    ],
+    [
+     "el chorizo",
+     "chorizo"
+    ],
+    [
+     "el lomo",
+     "varkenshaas, varkenslende"
+    ],
+    [
+     "el solomillo",
+     "ossenhaas"
+    ],
+    [
+     "la chuleta",
+     "kotelet"
+    ],
+    [
+     "el cordero",
+     "lamsvlees"
+    ],
+    [
+     "el conejo",
+     "konijn"
+    ],
+    [
+     "el marisco",
+     "zeevruchten"
+    ],
+    [
+     "las gambas",
+     "garnalen"
+    ],
+    [
+     "los mejillones",
+     "mosselen"
+    ],
+    [
+     "las almejas",
+     "venusschelpen"
+    ],
+    [
+     "el pulpo",
+     "inktvis, octopus"
+    ],
+    [
+     "los calamares",
+     "pijlinktvis"
+    ],
+    [
+     "el bacalao",
+     "kabeljauw"
+    ],
+    [
+     "la merluza",
+     "heek"
+    ],
+    [
+     "el atún",
+     "tonijn"
+    ]
+   ]
+  }
+ ]
+}

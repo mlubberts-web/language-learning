@@ -1,0 +1,300 @@
+{
+ "title": "🛍️ Winkelen en geld",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In de winkel",
+   "level": "B1",
+   "items": [
+    [
+     "el probador",
+     "paskamer"
+    ],
+    [
+     "la talla",
+     "maat (kleding)"
+    ],
+    [
+     "el número",
+     "maat (schoenen)"
+    ],
+    [
+     "el escaparate",
+     "etalage"
+    ],
+    [
+     "el dependiente / la dependienta",
+     "verkoper, verkoopster"
+    ],
+    [
+     "la caja",
+     "kassa"
+    ],
+    [
+     "el ticket",
+     "bonnetje"
+    ],
+    [
+     "las rebajas",
+     "de uitverkoop"
+    ],
+    [
+     "la oferta",
+     "aanbieding"
+    ],
+    [
+     "el descuento",
+     "korting"
+    ],
+    [
+     "el carrito",
+     "winkelwagen"
+    ],
+    [
+     "la cesta",
+     "mandje"
+    ],
+    [
+     "la bolsa",
+     "tas, zak"
+    ],
+    [
+     "el centro comercial",
+     "winkelcentrum"
+    ],
+    [
+     "el mercadillo",
+     "straatmarkt"
+    ],
+    [
+     "la tienda de comestibles",
+     "kruidenier"
+    ],
+    [
+     "probarse",
+     "passen"
+    ],
+    [
+     "quedar bien",
+     "goed staan, goed passen"
+    ],
+    [
+     "devolver",
+     "terugbrengen (een artikel)"
+    ],
+    [
+     "cambiar",
+     "ruilen"
+    ],
+    [
+     "ir de compras",
+     "gaan winkelen"
+    ],
+    [
+     "estar agotado / estar agotada",
+     "uitverkocht zijn"
+    ],
+    [
+     "hacer cola",
+     "in de rij staan"
+    ]
+   ]
+  },
+  {
+   "name": "Betalen",
+   "level": "B1",
+   "items": [
+    [
+     "el dinero en efectivo",
+     "contant geld"
+    ],
+    [
+     "la tarjeta de crédito",
+     "creditcard"
+    ],
+    [
+     "la tarjeta de débito",
+     "pinpas"
+    ],
+    [
+     "el cambio",
+     "wisselgeld"
+    ],
+    [
+     "la vuelta",
+     "wisselgeld (teruggegeven)"
+    ],
+    [
+     "el monedero",
+     "portemonnee"
+    ],
+    [
+     "la cartera",
+     "portefeuille"
+    ],
+    [
+     "el billete de veinte",
+     "briefje van twintig"
+    ],
+    [
+     "la moneda",
+     "munt"
+    ],
+    [
+     "el precio",
+     "prijs"
+    ],
+    [
+     "el IVA",
+     "btw"
+    ],
+    [
+     "la factura",
+     "factuur"
+    ],
+    [
+     "pagar en efectivo",
+     "contant betalen"
+    ],
+    [
+     "pagar con tarjeta",
+     "met de kaart betalen, pinnen"
+    ],
+    [
+     "pagar a medias",
+     "de kosten delen"
+    ],
+    [
+     "costar",
+     "kosten"
+    ],
+    [
+     "valer",
+     "waard zijn, kosten"
+    ],
+    [
+     "ahorrar",
+     "sparen"
+    ],
+    [
+     "gastar",
+     "uitgeven"
+    ],
+    [
+     "caro / cara",
+     "duur"
+    ],
+    [
+     "barato / barata",
+     "goedkoop"
+    ],
+    [
+     "gratis",
+     "gratis"
+    ],
+    [
+     "el bizum",
+     "mobiel betalen (Spanje), tikkie"
+    ]
+   ]
+  },
+  {
+   "name": "Banken en persoonlijke financiën",
+   "level": "B2",
+   "items": [
+    [
+     "la cuenta corriente",
+     "betaalrekening"
+    ],
+    [
+     "la cuenta de ahorro",
+     "spaarrekening"
+    ],
+    [
+     "el cajero automático",
+     "geldautomaat, pinautomaat"
+    ],
+    [
+     "la transferencia",
+     "overboeking"
+    ],
+    [
+     "la domiciliación",
+     "automatische incasso"
+    ],
+    [
+     "el préstamo",
+     "lening"
+    ],
+    [
+     "el interés",
+     "rente"
+    ],
+    [
+     "la deuda",
+     "schuld"
+    ],
+    [
+     "el saldo",
+     "saldo"
+    ],
+    [
+     "el extracto",
+     "bankafschrift"
+    ],
+    [
+     "la comisión",
+     "kosten, provisie"
+    ],
+    [
+     "el número de cuenta",
+     "rekeningnummer"
+    ],
+    [
+     "el sueldo",
+     "salaris"
+    ],
+    [
+     "los ahorros",
+     "spaargeld"
+    ],
+    [
+     "el presupuesto familiar",
+     "huishoudbudget"
+    ],
+    [
+     "sacar dinero",
+     "geld opnemen"
+    ],
+    [
+     "ingresar dinero",
+     "geld storten"
+    ],
+    [
+     "pedir un préstamo",
+     "een lening afsluiten"
+    ],
+    [
+     "endeudarse",
+     "schulden maken"
+    ],
+    [
+     "llegar a fin de mes",
+     "rondkomen"
+    ],
+    [
+     "estar sin blanca",
+     "blut zijn"
+    ],
+    [
+     "derrochar",
+     "verkwisten"
+    ],
+    [
+     "la estafa",
+     "oplichting"
+    ]
+   ]
+  }
+ ]
+}

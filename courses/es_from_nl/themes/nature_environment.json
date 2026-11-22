@@ -1,0 +1,296 @@
+{
+ "title": "🌍 Natuur, weer en milieu",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Weer",
+   "level": "B1",
+   "items": [
+    [
+     "el tiempo",
+     "weer"
+    ],
+    [
+     "el pronóstico",
+     "weersverwachting"
+    ],
+    [
+     "la lluvia",
+     "regen"
+    ],
+    [
+     "la llovizna",
+     "motregen"
+    ],
+    [
+     "el chaparrón",
+     "stortbui"
+    ],
+    [
+     "la tormenta",
+     "onweer, storm"
+    ],
+    [
+     "el trueno",
+     "donder"
+    ],
+    [
+     "el relámpago",
+     "bliksem"
+    ],
+    [
+     "la niebla",
+     "mist"
+    ],
+    [
+     "la nieve",
+     "sneeuw"
+    ],
+    [
+     "el granizo",
+     "hagel"
+    ],
+    [
+     "la helada",
+     "vorst"
+    ],
+    [
+     "la ola de calor",
+     "hittegolf"
+    ],
+    [
+     "la humedad",
+     "luchtvochtigheid"
+    ],
+    [
+     "el viento",
+     "wind"
+    ],
+    [
+     "nublado / nublada",
+     "bewolkt"
+    ],
+    [
+     "despejado / despejada",
+     "helder, onbewolkt"
+    ],
+    [
+     "soleado / soleada",
+     "zonnig"
+    ],
+    [
+     "llover a cántaros",
+     "pijpenstelen regenen"
+    ],
+    [
+     "hace un frío que pela",
+     "het is ijskoud"
+    ],
+    [
+     "hace bochorno",
+     "het is benauwd"
+    ],
+    [
+     "la temperatura",
+     "temperatuur"
+    ]
+   ]
+  },
+  {
+   "name": "Landschap",
+   "level": "B1",
+   "items": [
+    [
+     "la montaña",
+     "berg"
+    ],
+    [
+     "la sierra",
+     "bergketen"
+    ],
+    [
+     "el valle",
+     "dal"
+    ],
+    [
+     "la colina",
+     "heuvel"
+    ],
+    [
+     "el río",
+     "rivier"
+    ],
+    [
+     "el lago",
+     "meer"
+    ],
+    [
+     "el embalse",
+     "stuwmeer"
+    ],
+    [
+     "la costa",
+     "kust"
+    ],
+    [
+     "el acantilado",
+     "klif"
+    ],
+    [
+     "la cueva",
+     "grot"
+    ],
+    [
+     "el bosque",
+     "bos"
+    ],
+    [
+     "la selva",
+     "jungle, oerwoud"
+    ],
+    [
+     "el desierto",
+     "woestijn"
+    ],
+    [
+     "la isla",
+     "eiland"
+    ],
+    [
+     "la península",
+     "schiereiland"
+    ],
+    [
+     "la llanura",
+     "vlakte"
+    ],
+    [
+     "la meseta",
+     "hoogvlakte"
+    ],
+    [
+     "la orilla",
+     "oever"
+    ],
+    [
+     "la ola",
+     "golf"
+    ],
+    [
+     "la cumbre",
+     "top"
+    ],
+    [
+     "el paisaje",
+     "landschap"
+    ],
+    [
+     "el parque natural",
+     "natuurpark"
+    ]
+   ]
+  },
+  {
+   "name": "Het milieu",
+   "level": "B2",
+   "items": [
+    [
+     "el medio ambiente",
+     "milieu"
+    ],
+    [
+     "el cambio climático",
+     "klimaatverandering"
+    ],
+    [
+     "el calentamiento global",
+     "opwarming van de aarde"
+    ],
+    [
+     "la sequía",
+     "droogte"
+    ],
+    [
+     "la inundación",
+     "overstroming"
+    ],
+    [
+     "el incendio forestal",
+     "bosbrand"
+    ],
+    [
+     "la deforestación",
+     "ontbossing"
+    ],
+    [
+     "la especie en peligro de extinción",
+     "bedreigde diersoort"
+    ],
+    [
+     "los residuos",
+     "afval"
+    ],
+    [
+     "el reciclaje",
+     "recycling"
+    ],
+    [
+     "el contenedor",
+     "container, afvalbak"
+    ],
+    [
+     "la energía renovable",
+     "duurzame energie"
+    ],
+    [
+     "la energía solar",
+     "zonne-energie"
+    ],
+    [
+     "el parque eólico",
+     "windpark"
+    ],
+    [
+     "la huella de carbono",
+     "ecologische voetafdruk"
+    ],
+    [
+     "las emisiones",
+     "uitstoot"
+    ],
+    [
+     "los combustibles fósiles",
+     "fossiele brandstoffen"
+    ],
+    [
+     "la biodiversidad",
+     "biodiversiteit"
+    ],
+    [
+     "reciclar",
+     "recyclen"
+    ],
+    [
+     "contaminar",
+     "vervuilen"
+    ],
+    [
+     "ahorrar energía",
+     "energie besparen"
+    ],
+    [
+     "sostenible",
+     "duurzaam"
+    ],
+    [
+     "desechable",
+     "wegwerp-"
+    ],
+    [
+     "el plástico de un solo uso",
+     "wegwerpplastic"
+    ]
+   ]
+  }
+ ]
+}

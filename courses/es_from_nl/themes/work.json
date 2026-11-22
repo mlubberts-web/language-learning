@@ -1,0 +1,440 @@
+{
+ "title": "💼 Werk",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Contracten en salaris",
+   "level": "B2",
+   "items": [
+    [
+     "la nómina",
+     "loonstrook"
+    ],
+    [
+     "el sueldo bruto",
+     "brutosalaris"
+    ],
+    [
+     "el sueldo neto",
+     "nettosalaris"
+    ],
+    [
+     "la paga extra",
+     "extra maandsalaris"
+    ],
+    [
+     "las horas extras",
+     "overuren"
+    ],
+    [
+     "el finiquito",
+     "eindafrekening"
+    ],
+    [
+     "el contrato indefinido",
+     "vast contract"
+    ],
+    [
+     "el contrato temporal",
+     "tijdelijk contract"
+    ],
+    [
+     "las prácticas",
+     "stage"
+    ],
+    [
+     "el becario / la becaria",
+     "stagiair"
+    ],
+    [
+     "el periodo de prueba",
+     "proeftijd"
+    ],
+    [
+     "el preaviso",
+     "opzegtermijn"
+    ],
+    [
+     "la indemnización",
+     "schadevergoeding"
+    ],
+    [
+     "el aumento de sueldo",
+     "loonsverhoging"
+    ],
+    [
+     "las dietas",
+     "onkostenvergoeding"
+    ],
+    [
+     "firmar un contrato",
+     "een contract tekenen"
+    ],
+    [
+     "renovar un contrato",
+     "een contract verlengen"
+    ],
+    [
+     "hacer horas extras",
+     "overwerken"
+    ],
+    [
+     "cobrar",
+     "betaald krijgen"
+    ],
+    [
+     "remunerado / remunerada",
+     "betaald"
+    ]
+   ]
+  },
+  {
+   "name": "Banen en loopbaan",
+   "level": "B1",
+   "items": [
+    [
+     "la oferta de empleo",
+     "vacature, baanaanbod"
+    ],
+    [
+     "la carta de presentación",
+     "sollicitatiebrief"
+    ],
+    [
+     "el puesto",
+     "functie"
+    ],
+    [
+     "la vacante",
+     "vacature"
+    ],
+    [
+     "el cargo",
+     "functie, post"
+    ],
+    [
+     "la tarea",
+     "taak"
+    ],
+    [
+     "la trayectoria profesional",
+     "loopbaan"
+    ],
+    [
+     "la formación",
+     "opleiding"
+    ],
+    [
+     "el ascenso",
+     "promotie"
+    ],
+    [
+     "solicitar un puesto",
+     "solliciteren naar een baan"
+    ],
+    [
+     "contratar",
+     "aannemen"
+    ],
+    [
+     "despedir",
+     "ontslaan"
+    ],
+    [
+     "dimitir",
+     "ontslag nemen"
+    ],
+    [
+     "jubilarse",
+     "met pensioen gaan"
+    ],
+    [
+     "presentar la dimisión",
+     "je ontslag indienen"
+    ],
+    [
+     "la jubilación",
+     "pensioen"
+    ],
+    [
+     "cualificado / cualificada",
+     "gekwalificeerd"
+    ],
+    [
+     "polivalente",
+     "veelzijdig"
+    ],
+    [
+     "exigente",
+     "veeleisend"
+    ],
+    [
+     "el autónomo / la autónoma",
+     "zzp'er, zelfstandige"
+    ],
+    [
+     "trabajar por cuenta propia",
+     "zelfstandig werken"
+    ],
+    [
+     "trabajar a media jornada",
+     "parttime werken"
+    ],
+    [
+     "trabajar a jornada completa",
+     "fulltime werken"
+    ]
+   ]
+  },
+  {
+   "name": "Rechten en verlof",
+   "level": "B2",
+   "items": [
+    [
+     "el despido",
+     "ontslag"
+    ],
+    [
+     "el despido improcedente",
+     "onterecht ontslag"
+    ],
+    [
+     "la baja por enfermedad",
+     "ziekteverlof"
+    ],
+    [
+     "la baja por maternidad",
+     "zwangerschapsverlof"
+    ],
+    [
+     "el sindicato",
+     "vakbond"
+    ],
+    [
+     "la huelga",
+     "staking"
+    ],
+    [
+     "el convenio colectivo",
+     "cao"
+    ],
+    [
+     "el comité de empresa",
+     "ondernemingsraad"
+    ],
+    [
+     "el paro",
+     "werkloosheid"
+    ],
+    [
+     "la prestación por desempleo",
+     "werkloosheidsuitkering"
+    ],
+    [
+     "la seguridad social",
+     "sociale zekerheid"
+    ],
+    [
+     "estar de baja",
+     "ziek thuis zijn"
+    ],
+    [
+     "estar en paro",
+     "werkloos zijn"
+    ],
+    [
+     "el acoso laboral",
+     "pesten op het werk"
+    ],
+    [
+     "la conciliación laboral",
+     "balans tussen werk en privé"
+    ],
+    [
+     "la jornada partida",
+     "werkdag met lange middagpauze"
+    ],
+    [
+     "el turno de noche",
+     "nachtdienst"
+    ],
+    [
+     "el teletrabajo",
+     "thuiswerken"
+    ],
+    [
+     "fichar",
+     "inklokken"
+    ]
+   ]
+  },
+  {
+   "name": "Het bedrijf",
+   "level": "B2",
+   "items": [
+    [
+     "la plantilla",
+     "personeel"
+    ],
+    [
+     "el encargado / la encargada",
+     "leidinggevende"
+    ],
+    [
+     "el consejo de administración",
+     "raad van bestuur"
+    ],
+    [
+     "el director general / la directora general",
+     "algemeen directeur"
+    ],
+    [
+     "los recursos humanos",
+     "personeelszaken, hr"
+    ],
+    [
+     "el departamento de ventas",
+     "verkoopafdeling"
+    ],
+    [
+     "la sede",
+     "hoofdkantoor"
+    ],
+    [
+     "la sucursal",
+     "filiaal"
+    ],
+    [
+     "la multinacional",
+     "multinational"
+    ],
+    [
+     "la pyme",
+     "mkb-bedrijf"
+    ],
+    [
+     "el socio / la socia",
+     "zakenpartner"
+    ],
+    [
+     "el proveedor",
+     "leverancier"
+    ],
+    [
+     "la cartera de clientes",
+     "klantenbestand"
+    ],
+    [
+     "la competencia",
+     "concurrentie"
+    ],
+    [
+     "el presupuesto",
+     "begroting"
+    ],
+    [
+     "la facturación",
+     "omzet"
+    ],
+    [
+     "la factura",
+     "factuur"
+    ],
+    [
+     "el beneficio",
+     "winst"
+    ],
+    [
+     "las pérdidas",
+     "verlies"
+    ],
+    [
+     "montar un negocio",
+     "een bedrijf opzetten"
+    ],
+    [
+     "llevar las cuentas",
+     "de boekhouding doen"
+    ],
+    [
+     "reducir la plantilla",
+     "inkrimpen, banen schrappen"
+    ]
+   ]
+  },
+  {
+   "name": "Op kantoor",
+   "level": "B2",
+   "items": [
+    [
+     "el orden del día",
+     "agenda"
+    ],
+    [
+     "el acta",
+     "notulen"
+    ],
+    [
+     "el plazo",
+     "deadline, termijn"
+    ],
+    [
+     "el rendimiento",
+     "prestatie"
+    ],
+    [
+     "la productividad",
+     "productiviteit"
+    ],
+    [
+     "la carga de trabajo",
+     "werkdruk"
+    ],
+    [
+     "el ambiente laboral",
+     "werksfeer"
+    ],
+    [
+     "negociar",
+     "onderhandelen"
+    ],
+    [
+     "delegar",
+     "delegeren"
+    ],
+    [
+     "gestionar",
+     "beheren"
+    ],
+    [
+     "liderar",
+     "leiden"
+    ],
+    [
+     "supervisar",
+     "toezicht houden"
+    ],
+    [
+     "cumplir un plazo",
+     "een deadline halen"
+    ],
+    [
+     "ponerse al día",
+     "bijwerken, bijblijven"
+    ],
+    [
+     "sacar adelante un proyecto",
+     "een project erdoor krijgen"
+    ],
+    [
+     "asumir responsabilidades",
+     "verantwoordelijkheid nemen"
+    ],
+    [
+     "estar hasta arriba de trabajo",
+     "tot over je oren in het werk zitten"
+    ]
+   ]
+  }
+ ]
+}
