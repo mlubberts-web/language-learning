@@ -12,6 +12,7 @@ import streamlit as st
 
 import clock
 import course
+import courses_screen as courses
 import extra_screens as extra
 import login
 import practice_screen as practice
@@ -53,6 +54,13 @@ st.set_page_config(page_title=SITE_NAME, page_icon="📘", layout="wide")
 st.html(STYLE)
 # Online, this asks who you are first; on your own computer it does nothing and USER is None.
 USER = login.start()
+# Then which course: your last one, or the course choice (which stops the page there).
+try:
+    courses.start()
+except storage.StorageError as problem:
+    st.error(t("The online database can't be reached right now, so your results can't be loaded. "
+               "Reload the page in a minute.\n\nWhat the database said: {problem}", problem=problem))
+    st.stop()
 
 
 # ---------- data ----------
@@ -239,6 +247,7 @@ def language_name():
 def sidebar():
     with st.sidebar:
         st.title(f"📘 {language_name()}")
+        courses.sidebar_part()
         st.button(t("🏠 Home"), key="nav_home", on_click=go_home, width="stretch",
                   type="primary" if st.session_state.view == "home" else "secondary")
         st.button(t("🗓️ Schedule"), key="nav_schedule", on_click=go_view, args=("schedule",), width="stretch",
@@ -510,7 +519,8 @@ SCREENS = {"home": home, "level": level_screen, "reader": reader,
            "practice": practice.practice_screen, "drill": practice.drill_screen,
            "themes": extra.themes_screen, "mock": extra.mock_screen,
            "mock_run": extra.mock_run_screen, "mock_result": extra.mock_result_screen,
-           "schedule": schedule.schedule_screen, "progress": progress.progress_screen}
+           "schedule": schedule.schedule_screen, "progress": progress.progress_screen,
+           "courses": lambda: courses.choice_screen(adding=True)}
 # The Schedule screen needs to open the reader and know how much of a PDF you read; both live in this file.
 schedule.connect(open_reader, lambda pid: fraction(by_id[pid]),
                  lambda pid: st.session_state.progress.get(pid, {}).get("updated"))

@@ -17,13 +17,17 @@ from functools import lru_cache
 from pathlib import Path
 
 import course
+from clock import session_value
 
 FOLDER = Path(__file__).parent / "ui_text"
 LANGUAGES = ("en", "nl", "es")
 
 
 def interface(course_id=None):
-    """The interface language of a course, for example 'nl'."""
+    """The interface language: of the given course, or of the open course. Before a course is open
+    (the login and the course choice) it is the language chosen on those screens, or English."""
+    if course_id is None and not course.is_chosen():
+        return session_value("ui_lang") or "en"
     return course.info(course_id)["explained_in"]
 
 

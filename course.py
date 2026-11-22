@@ -34,6 +34,13 @@ def current():
     return session_value("course") or os.environ.get("COURSE") or DEFAULT
 
 
+def is_chosen():
+    """True when a course is open: chosen in this session, or set with COURSE. Outside a running
+    page (the tests) the default course counts as open."""
+    from clock import running  # here, so this file still loads without Streamlit
+    return bool(session_value("course") or os.environ.get("COURSE") or not running())
+
+
 def folder(course_id=None):
     return COURSES / (course_id or current())
 
@@ -66,3 +73,14 @@ def _read_info(course_id):
 def all_ids():
     """Every course that has a course.json, in alphabetical order."""
     return sorted(path.parent.name for path in COURSES.glob("*/course.json"))
+
+
+# The six courses of the site, in the order they are shown: (id, language you learn, explained in).
+PLANNED = [("es_from_en", "es", "en"), ("es_from_nl", "es", "nl"), ("en_from_nl", "en", "nl"),
+           ("en_from_es", "en", "es"), ("nl_from_en", "nl", "en"), ("nl_from_es", "nl", "es")]
+
+
+def is_available(course_id):
+    """True when the course exists and has at least one PDF; the others are 'coming soon'."""
+    path = COURSES / course_id / "catalog.json"
+    return path.exists() and bool(json.loads(path.read_text(encoding="utf-8")))

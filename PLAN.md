@@ -73,7 +73,7 @@ Choices made (Menno can overrule any of them):
   - [x] 1.4d schedule_screen.py, study_plan.py
   - [x] 1.4e progress_screen.py
   - [x] 1.4f Check every screen in Dutch and Spanish in the browser (with a test course)
-- [ ] 1.5 Choosing a course: on your own computer a course picker; online the course is chosen
+- [x] 1.5 Choosing a course: on your own computer a course picker; online the course is chosen
       when making an account, and the sidebar can switch or add courses. Saved rows are named
       per course, so results never mix.
 - [ ] 1.6 PDF generator: `make_pdfs.py` turns a content file into a PDF in the same style as the

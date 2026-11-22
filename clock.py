@@ -8,16 +8,21 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 
+def running():
+    """True inside a running page of the app; False in the tests and other scripts."""
+    try:
+        from streamlit.runtime.scriptrunner import get_script_run_ctx
+    except ImportError:
+        return False
+    return get_script_run_ctx(suppress_warning=True) is not None
+
+
 def session_value(key):
     """A value from the current visitor's session, or None outside the app (as in the tests).
     Read on every call, because Streamlit runs button actions before the page itself."""
-    try:
-        import streamlit as st
-        from streamlit.runtime.scriptrunner import get_script_run_ctx
-    except ImportError:
+    if not running():
         return None
-    if get_script_run_ctx(suppress_warning=True) is None:  # not inside a running page
-        return None
+    import streamlit as st
     return st.session_state.get(key)
 
 
