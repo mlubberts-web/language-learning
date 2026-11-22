@@ -1,0 +1,92 @@
+{"meta": {"level": "A1", "section": "Werkwoorden", "number": 4, "total_in_level": 9,
+ "title": "have got, there is en can",
+ "subtitle": "Bezit, beschrijven wat er is, en zeggen wat je kunt of mag",
+ "footer": "Language Learning · A1 · Werkwoorden · have got, there is, can",
+ "next": "Volgende: A1 · pdf 5 — Zelfstandige naamwoorden, lidwoorden en bijvoeglijke naamwoorden"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "zeggen wat je hebt met <b>have</b> en <b>have got</b>",
+  "beschrijven wat er ergens is met <b>there is</b> en <b>there are</b>",
+  "vertellen wat je kunt en vragen wat mag met <b>can</b>"]},
+
+ {"type": "h1", "text": "1. have en have got"},
+ {"type": "p", "text": "Voor bezit, familie en kenmerken heeft het Engels twee vormen die hetzelfde betekenen. <b>have got</b> is typisch Brits en heel gewoon in spreektaal; <b>have</b> gebruik je overal, en in de verleden tijd heb je alleen <i>had</i>."},
+ {"type": "conj", "verb": "to have", "meaning": "hebben", "label": "onregelmatig werkwoord", "tense": "present simple",
+  "forms": ["have", "have", "ha*s*", "have", "have", "have"],
+  "examples": [["I have two brothers.", "Ik heb twee broers."], ["You have a nice flat.", "Jij hebt een mooi appartement."], ["She has blue eyes.", "Zij heeft blauwe ogen."], ["We have a dog.", "We hebben een hond."], ["You have a lot of books.", "Jullie hebben veel boeken."], ["They have three children.", "Zij hebben drie kinderen."]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["have got", "Ontkenning", "Vraag"], "rows": [
+  ["I've got a car.", "I haven't got a car.", "Have you got a car?"],
+  ["She's got a cold.", "She hasn't got a cold.", "Has she got a cold?"],
+  ["They've got time.", "They haven't got time.", "Have they got time?"]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["have (met do)", "Ontkenning", "Vraag"], "rows": [
+  ["I have a car.", "I don't have a car.", "Do you have a car?"],
+  ["She has a cold.", "She doesn't have a cold.", "Does she have a cold?"],
+  ["They have time.", "They don't have time.", "Do they have time?"]]},
+ {"type": "callout", "kind": "warn", "title": "Niet mengen", "text": "Kies één vorm per zin: <b>Have you got ...?</b> of <b>Do you have ...?</b> Nooit <i>Do you have got</i> en ook niet <i>I don't have got</i>."},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands 'hebben', Engels niet altijd have", "bullets": [
+  "<i>Ik heb honger / dorst / het koud</i> = <b>I'm hungry / thirsty / cold</b> (to be, pdf 2).",
+  "<i>Ik ben 20 jaar</i> = <b>I'm 20</b>, niet <i>I have 20 years</i>.",
+  "Voor eten en activiteiten gebruik je have zonder got: <b>have breakfast</b>, <b>have a shower</b>, <b>have a good time</b>."]},
+
+ {"type": "h1", "text": "2. there is en there are"},
+ {"type": "p", "text": "Met <b>there is</b> (enkelvoud) en <b>there are</b> (meervoud) zeg je dat iets ergens is. Het Nederlands zegt hier <i>er is</i>, <i>er zijn</i> of <i>er staat / ligt / zit</i>."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["There's a bank near here.", "There isn't a bank near here.", "Is there a bank near here?"],
+  ["There are two bedrooms.", "There aren't any bedrooms upstairs.", "Are there any shops?"],
+  ["There's some milk in the fridge.", "There isn't any milk.", "Is there any milk?"]]},
+ {"type": "callout", "kind": "dutch", "title": "er staat, er ligt, er zit = there is", "text": "Het Nederlands gebruikt vaak staan, liggen of zitten: <i>Er ligt een boek op tafel</i>, <i>Er staat een fiets voor de deur</i>. Het Engels zegt gewoon <b>There's a book on the table</b> en <b>There's a bike in front of the door</b>."},
+ {"type": "callout", "kind": "tip", "title": "some en any", "text": "In bevestigende zinnen gebruik je <b>some</b> (wat, een paar), in ontkenningen en vragen <b>any</b>: <i>There are some apples.</i> — <i>There aren't any apples.</i> — <i>Are there any apples?</i> Meer in A2 · pdf 8."},
+ {"type": "verbpairs", "title": "In huis en in de stad", "items": [
+  ["kitchen", "keuken"], ["bathroom", "badkamer"], ["bedroom", "slaapkamer"], ["living room", "woonkamer"],
+  ["garden", "tuin"], ["supermarket", "supermarkt"], ["chemist's", "apotheek, drogist"],
+  ["post office", "postkantoor"], ["bus stop", "bushalte"], ["car park", "parkeerplaats"]]},
+
+ {"type": "h1", "text": "3. can en can't"},
+ {"type": "p", "text": "<b>can</b> (kunnen, mogen) is een hulpwerkwoord. Het heeft voor alle personen dezelfde vorm, dus geen -s bij he, she en it, en er komt een kaal werkwoord achter zonder <i>to</i>. Vragen en ontkenningen maak je zonder do."},
+ {"type": "table", "style": "plain", "widths": [4.2, 6.0, 6.8], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Kunnen (vaardigheid)", "She can swim. I can't drive.", "Zij kan zwemmen. Ik kan niet autorijden."],
+  ["Mogen (toestemming)", "Can I open the window?", "Mag ik het raam opendoen?"],
+  ["Verzoek", "Can you help me, please?", "Kun je me helpen, alsjeblieft?"],
+  ["Mogelijkheid", "You can take the bus.", "Je kunt de bus nemen."],
+  ["Kort antwoord", "Can you cook? Yes, I can. / No, I can't.", "Kun jij koken? Ja. / Nee."]]},
+ {"type": "callout", "kind": "warn", "title": "cannot in één woord", "text": "De lange ontkenning is <b>cannot</b>, aan elkaar geschreven. De korte vorm is <b>can't</b>. In Brits Engels klinkt can't als <i>kaant</i> met een lange aa, en can als <i>ken</i>."},
+ {"type": "verbpairs", "title": "Dingen die je kunt", "items": [
+  ["to swim", "zwemmen"], ["to drive", "autorijden"], ["to cook", "koken"], ["to sing", "zingen"],
+  ["to dance", "dansen"], ["to ride a bike", "fietsen"], ["to play the guitar", "gitaar spelen"],
+  ["to speak English", "Engels spreken"]]},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["She have a sister.", "She has a sister.", "Bij he, she en it is het has."],
+  ["Do you have got a pen?", "Have you got a pen?", "Kies have got of do you have, niet allebei."],
+  ["It is a bank near here.", "There is a bank near here.", "Iets dat ergens is: there is."],
+  ["There is two cats.", "There are two cats.", "Meervoud: there are."],
+  ["He cans swim.", "He can swim.", "can krijgt nooit een -s."],
+  ["I can to drive.", "I can drive.", "Na can komt geen to."],
+  ["Do you can help me?", "Can you help me?", "can maakt zelf de vraag, zonder do."],
+  ["I have hunger.", "I'm hungry.", "Honger hebben is be hungry."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "My brother ______ two children.", "hint": "have", "a": "has", "full": "My brother has two children."},
+  {"q": "______ you got a car?", "hint": "have got", "a": "Have", "full": "Have you got a car?"},
+  {"q": "She ______ got a cold.", "hint": "have got, ontkenning", "a": "hasn't", "full": "She hasn't got a cold."},
+  {"q": "______ a supermarket near here?", "hint": "is there of are there", "a": "Is there", "full": "Is there a supermarket near here?"},
+  {"q": "There ______ three bedrooms.", "hint": "is of are", "a": "are", "full": "There are three bedrooms."},
+  {"q": "There isn't ______ milk.", "hint": "some of any", "a": "any", "full": "There isn't any milk."},
+  {"q": "He ______ swim very well.", "hint": "kunnen", "a": "can", "full": "He can swim very well."},
+  {"q": "I ______ drive. I haven't got a licence.", "hint": "niet kunnen", "a": "can't", "full": "I can't drive. I haven't got a licence."},
+  {"q": "______ I open the window?", "hint": "mogen", "a": "Can", "full": "Can I open the window?"},
+  {"q": "We ______ breakfast at eight.", "hint": "have", "a": "have", "full": "We have breakfast at eight."},
+  {"q": "Can you cook? No, I ______.", "hint": "kort antwoord", "a": "can't", "full": "Can you cook? No, I can't."},
+  {"q": "______ she have a job?", "hint": "do of does", "a": "Does", "full": "Does she have a job?"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Er ligt een boek op tafel.", "a": "There is a book on the table."},
+  {"q": "Heb je een pen?", "a": "Have you got a pen?"},
+  {"q": "Mijn zus kan heel goed zingen.", "a": "My sister can sing very well."},
+  {"q": "Zijn er winkels in de buurt?", "a": "Are there any shops near here?"}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

@@ -359,6 +359,12 @@ expect(result == "near" and "British" in note, f"en: American spelling is a warn
 expect(logic.check_answer(made_up("words", ["I won't go"], "en"), "I will not go")[0] == "right", "en: won't")
 expect(logic.check_answer(made_up("words", ["I can't swim"], "en"), "I cannot swim")[0] == "right", "en: can't")
 expect(languages.expand("Want it?", "en") == "Want it?", "en: 'want' is not a contraction")
+there = made_up("translate", ["There is a book on the table."], "en")
+expect(logic.check_answer(there, "There's a book on the table.")[0] == "right", "en: there's = there is")
+expect(logic.check_answer(made_up("translate", ["She's a teacher."], "en"), "She is a teacher")[0] == "right",
+       "en: she's = she is")
+expect(logic.check_answer(made_up("words", ["Anna's book"], "en"), "Anna is book")[0] == "wrong",
+       "en: Anna's is a possessive, not Anna is")
 een = made_up("fill", ["één"], "nl")
 result, note = logic.check_answer(een, "een")
 expect(result == "near" and "accent" in note, f"nl: een for één is a warning, was {result}")

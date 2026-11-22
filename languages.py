@@ -71,6 +71,11 @@ PROFILES = {
             "won't": "will not", "can't": "cannot", "shan't": "shall not", "ain't": "is not",
             "n't": " not", "'m": " am", "'re": " are", "'ve": " have", "'ll": " will",
             "can not": "cannot",
+            # 's as 'is' after these words only; 's can also be 'has' (he's got) or a
+            # possessive (Anna's), so answers in the content write 'has got' in full.
+            "it's": "it is", "there's": "there is", "that's": "that is", "what's": "what is",
+            "where's": "where is", "who's": "who is", "here's": "here is",
+            "he's": "he is", "she's": "she is",
         },
         # The course teaches British English; the American spelling counts, with a warning.
         # More pairs are added with the English content (phase 3).

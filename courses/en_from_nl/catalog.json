@@ -31,5 +31,16 @@
   "subtitle": "Gewoontes en feiten: de -s bij he, she en it, en do en does in vragen en ontkenningen",
   "content": "a1_03_present_simple.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_04_have_got_there_is_en_can",
+  "file": "A1_04_have_got_there_is_en_can.pdf",
+  "level": "A1",
+  "number": 4,
+  "section": "Werkwoorden",
+  "title": "have got, there is en can",
+  "subtitle": "Bezit, beschrijven wat er is, en zeggen wat je kunt of mag",
+  "content": "a1_04_have_got_there_is_can.json",
+  "exercise_count": 12
  }
 ]
