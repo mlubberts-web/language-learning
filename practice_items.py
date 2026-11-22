@@ -25,6 +25,7 @@ import threading
 
 import course
 import languages
+from ui_text import mark, t
 
 # The exercise types: (mode, title, description). This is also the order you practise them in:
 # first recognising words, then producing them, then from controlled exercises to free ones.
@@ -33,15 +34,15 @@ import languages
 # language of the explanations, {first} and {second} the two articles of the article exercise.
 # modes() fills them in for a course.
 MODE_TEXTS = [
-    ("reverse", "🔄 Words, {learn} to {base}", "See the {learn}, type the {base}."),
-    ("gender", "⚖️ {first} or {second}?", "See a noun, choose its article."),
-    ("words", "🔤 Words, {base} to {learn}", "See the {base}, type the {learn}."),
-    ("verbs", "🔁 Verb forms", "Type the right form for the person and tense."),
-    ("fill", "📝 Grammar exercises", "The exercises from the PDF, plus verbs in context. Type the missing part."),
-    ("build", "🧩 Build the sentence", "Click the words in the right order."),
-    ("listen", "🎧 Listening", "Hear a sentence, type what you hear."),
-    ("fix", "🔍 Fix the mistake", "Type the sentence the way it should be."),
-    ("translate", "💬 Translate sentences", "Type the whole sentence in {learn}."),
+    ("reverse", mark("🔄 Words, {learn} to {base}"), mark("See the {learn}, type the {base}.")),
+    ("gender", mark("⚖️ {first} or {second}?"), mark("See a noun, choose its article.")),
+    ("words", mark("🔤 Words, {base} to {learn}"), mark("See the {base}, type the {learn}.")),
+    ("verbs", mark("🔁 Verb forms"), mark("Type the right form for the person and tense.")),
+    ("fill", mark("📝 Grammar exercises"), mark("The exercises from the PDF, plus verbs in context. Type the missing part.")),
+    ("build", mark("🧩 Build the sentence"), mark("Click the words in the right order.")),
+    ("listen", mark("🎧 Listening"), mark("Hear a sentence, type what you hear.")),
+    ("fix", mark("🔍 Fix the mistake"), mark("Type the sentence the way it should be.")),
+    ("translate", mark("💬 Translate sentences"), mark("Type the whole sentence in {learn}.")),
 ]
 MODE_IDS = [mode for mode, _, _ in MODE_TEXTS]  # every exercise type, in the order above
 
@@ -54,7 +55,8 @@ def modes(course_id=None):
     gender = languages.profile(learn)["gender"]
     names = {"learn": languages.name(learn, base), "base": languages.name(base, base),
              "first": gender[0] if gender else "", "second": gender[1] if gender else ""}
-    return [(mode, title.format(**names), text.format(**names))  # ** passes the dict as name=value
+    # t() translates into the interface language of the course; ** passes the dict as name=value
+    return [(mode, t(title, base).format(**names), t(text, base).format(**names))
             for mode, title, text in MODE_TEXTS if mode != "gender" or gender]
 
 # ---------- which language a text is in ----------
@@ -81,6 +83,11 @@ def _code(lang=None):
 
 def _profile(lang=None):
     return languages.profile(_code(lang))
+
+
+def _base():
+    """The language of the explanations of the course being built or open: the interface language."""
+    return (getattr(_building, "langs", None) or course_languages())[1]
 
 
 ALL_MARKS = "¿?¡!"   # question and exclamation marks of every language: never part of a word
@@ -222,7 +229,7 @@ def add_item(items, pdf_id, mode, prompt, answers, hint="", show=None, why="", g
         new_answers = [a for a in answers if a not in old["answers"]]
         if new_answers:
             old["answers"] += new_answers
-            old["show"] += f"  or  {show or answers[0]}"
+            old["show"] += "  " + t("or", _base()) + f"  {show or answers[0]}"
         return
     # 'lang' is the language you type the answer in: the explanation language when you
     # translate into it ('reverse'), and otherwise the language you learn.
@@ -279,7 +286,7 @@ def add_listening(items, pdf_id, sentence):
     """One dictation question, if the sentence has at least three words."""
     text = sentence_answers(sentence)[0]
     if len(clean_text(text).split()) >= 3:
-        add_item(items, pdf_id, "listen", "Listen and type what you hear.", [text],
+        add_item(items, pdf_id, "listen", t("Listen and type what you hear.", _base()), [text],
                  unique=text, speak=text)
 
 
@@ -289,7 +296,7 @@ def add_word_pairs(items, pdf_id, block):
         return
     for left, right in block["items"]:
         if block.get("check"):  # lists like: hacer -> hecho (done, made)
-            kind = {"participle": "past participle", "gerund": "gerund"}[block["check"]]
+            kind = {"participle": t("past participle", _base()), "gerund": t("gerund", _base())}[block["check"]]
             form = re.sub(r"\s*\(.*\)", "", right)
             add_item(items, pdf_id, "verbs", f"{left} · {kind}", [form], must_match=["accent"])
         elif title == "Numbers":
@@ -366,12 +373,12 @@ def _build_items(pdf_id, document, course_id):
                     else:
                         add_word(items, pdf_id, e["q"], e["a"], "")
                 else:
-                    add_tiles(items, pdf_id, "Put the words in the right order.", e["full"])
+                    add_tiles(items, pdf_id, t("Put the words in the right order.", _base()), e["full"])
 
         elif kind == "translations":
-            for t in block["items"]:
-                add_sentence(items, pdf_id, t["q"], t["a"])
-                add_tiles(items, pdf_id, t["q"], t["a"])
+            for pair in block["items"]:  # not 't': that name is the translate function
+                add_sentence(items, pdf_id, pair["q"], pair["a"])
+                add_tiles(items, pdf_id, pair["q"], pair["a"])
 
         elif kind == "mistakes":
             for wrong, right, why in block["rows"]:
@@ -403,7 +410,7 @@ def _build_items(pdf_id, document, course_id):
 # context tells you the form of the verb; the only hint is the infinitive:
 #   {"pdf": "A2_01", "items": [["Ayer yo [hablé] con mi jefe.", "hablar", "optional note"], ...]}
 # Several correct forms go inside the brackets with ' / ' between them: [tuviera / tuviese].
-CONTEXT_GROUP = "Verbs in context"
+CONTEXT_GROUP = mark("Verbs in context")  # translated when the questions are made
 
 
 def add_verbs_in_context(items, pdf_id, course_id=None):
@@ -416,9 +423,10 @@ def add_verbs_in_context(items, pdf_id, course_id=None):
         prompt, answer, _ = gap_sentence(sentence)
         forms = answer.split(" / ")
         sentences = [prompt.replace(GAP, form) for form in forms]  # the whole sentence counts too
-        show = sentences[0] + (f"  (also: {', '.join(forms[1:])})" if len(forms) > 1 else "")
+        also = "  " + t("(also: {forms})", _base(), forms=", ".join(forms[1:])) if len(forms) > 1 else ""
+        show = sentences[0] + also
         add_item(items, pdf_id, "fill", prompt, forms + sentences, hint=verb, show=show, why=why,
-                 group=CONTEXT_GROUP, must_match=["accent"])
+                 group=t(CONTEXT_GROUP, _base()), must_match=["accent"])
 
 
 # ---------- the themed word lists ----------

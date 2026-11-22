@@ -16,28 +16,29 @@ import practice_logic as logic
 import practice_store as store
 from practice_items import build_items, build_theme_items, modes
 from ui import go_home, go_level, go_view, hero, log_activity, log_overrule
+from ui_text import mark, t
 
 HERE = Path(__file__).parent
-SIZES = {"10": 10, "20": 20, "All": None}
+SIZES = {"10": 10, "20": 20, mark("All"): None}
 DEFAULT_SIZE = "All"
-EXTRA_TITLES = {"test": "🎯 Mixed test", "weak": "💪 Weak questions"}
+EXTRA_TITLES = {"test": mark("🎯 Mixed test"), "weak": mark("💪 Weak questions")}
 # app.py puts its function for opening the reader in here, for the "Next PDF" button.
 ACTIONS = {}
 
 
 def mode_title(mode):
     """'words' gives '🔤 Words, English to Spanish'."""
-    return next((title for m, title, _ in modes() if m == mode), EXTRA_TITLES.get(mode, mode))
+    return next((title for m, title, _ in modes() if m == mode), t(EXTRA_TITLES.get(mode, mode)))
 
 
 def size_buttons(key):
     """The row of buttons for the number of questions. Returns 10, 20 or None for all of them.
     required=True means one button is always chosen: clicking the chosen one does nothing."""
-    choice = st.segmented_control("Questions per session", list(SIZES), default=DEFAULT_SIZE,
-                                  required=True, key=key)
+    choice = st.segmented_control(t("Questions per session"), list(SIZES), default=DEFAULT_SIZE,
+                                  required=True, key=key, format_func=t)  # format_func: shown translated
     if choice != DEFAULT_SIZE:
-        st.caption("The questions you often get wrong are chosen more often, and the ones you got "
-                   "right on the first try last time 10 times less often.")
+        st.caption(t("The questions you often get wrong are chosen more often, and the ones you got "
+                     "right on the first try last time 10 times less often."))
     return SIZES[choice]
 
 
@@ -54,9 +55,9 @@ def save_skip(widget_key):
 
 def skip_switch(widget_key):
     st.session_state[widget_key] = skip_known()  # the same switch on every screen
-    st.toggle("Skip what I know", key=widget_key, on_change=save_skip, args=(widget_key,),
-              help="Leaves out the questions you got right on the first try last time, and exercises "
-                   "you marked as done. The daily review still brings them back after 1, 3, 7 and 30 days.")
+    st.toggle(t("Skip what I know"), key=widget_key, on_change=save_skip, args=(widget_key,),
+              help=t("Leaves out the questions you got right on the first try last time, and exercises "
+                     "you marked as done. The daily review still brings them back after 1, 3, 7 and 30 days."))
 
 
 def is_known(item):
@@ -159,9 +160,9 @@ if (!window.speechReady) {
 
 def voice_help(name):
     """The message when the browser has no voice for the language, such as 'Spanish (Spain)'."""
-    return (f"No {name} voice was found, so you may hear nothing or a different accent. "
-            "Use Microsoft Edge or Chrome, or add one in Windows: Settings, Time &amp; language, "
-            f"Speech, Manage voices, Add voices, {name}. Then restart your browser.")
+    return t("No {name} voice was found, so you may hear nothing or a different accent. "
+             "Use Microsoft Edge or Chrome, or add one in Windows: Settings, Time &amp; language, "
+             "Speech, Manage voices, Add voices, {name}. Then restart your browser.", name=t(name))
 
 
 # ---------- data ----------
@@ -305,8 +306,9 @@ def start_known_check(items, title, back, pdf_id, mode, size, pool=None, source=
     is left, it stays on this screen with a message instead."""
     items, left_out = leave_out_known(items)
     if not items:
-        st.session_state.notice = (f"You already know all {left_out} questions of {title}. "
-                                   "Switch off 'Skip what I know' to practise them anyway.")
+        st.session_state.notice = t("You already know all {count} questions of {title}. "
+                                    "Switch off 'Skip what I know' to practise them anyway.",
+                                    count=left_out, title=title)
         return
     start_drill(items, title, back, pdf_id, mode, size, pool, source, left_out)
 
@@ -457,28 +459,35 @@ def practice_screen():
 
     # A row of buttons, each as wide as its text; it wraps to a second line on a narrow screen.
     with st.container(horizontal=True):
-        st.button("🏠 Home", key="practice_home", on_click=go_home)
-        st.button(f"← {pdf['level']} overview", key="practice_level", on_click=go_level, args=(pdf["level"],))
+        st.button(t("🏠 Home"), key="practice_home", on_click=go_home)
+        st.button(t("← {level} overview", level=pdf["level"]), key="practice_level", on_click=go_level,
+                  args=(pdf["level"],))
         before, after = previous_pdf(pdf["id"]), next_pdf(pdf["id"])  # also across levels
         if before:
-            st.button(f"◀ Practise {short_label(before)}", key="practice_prev_pdf", on_click=go_practice,
-                      args=(before,), help=f"Practise the previous PDF: {pdf_title(before)}")
+            st.button(t("◀ Practise {pdf}", pdf=short_label(before)), key="practice_prev_pdf",
+                      on_click=go_practice, args=(before,),
+                      help=t("Practise the previous PDF: {title}", title=pdf_title(before)))
         if after:
-            st.button(f"Practise {short_label(after)} ▶", key="practice_next_pdf", on_click=go_practice,
-                      args=(after,), help=f"Practise the next PDF: {pdf_title(after)}")
+            st.button(t("Practise {pdf} ▶", pdf=short_label(after)), key="practice_next_pdf",
+                      on_click=go_practice, args=(after,),
+                      help=t("Practise the next PDF: {title}", title=pdf_title(after)))
         if before:
-            st.button(f"📖 Read {short_label(before)}", key="practice_read_prev", on_click=open_next_pdf,
-                      args=(before,), help=f"Read the previous PDF: {pdf_title(before)}")
+            st.button(t("📖 Read {pdf}", pdf=short_label(before)), key="practice_read_prev",
+                      on_click=open_next_pdf, args=(before,),
+                      help=t("Read the previous PDF: {title}", title=pdf_title(before)))
         if after:
-            st.button(f"📖 Read {short_label(after)}", key="practice_read_next", on_click=open_next_pdf,
-                      args=(after,), help=f"Read the next PDF: {pdf_title(after)}")
-    hero(f"Practise · {pdf['level']} · PDF {pdf['number']}", html.escape(pdf["title"]),
-         f"{done} of {total} questions mastered", done / total)
+            st.button(t("📖 Read {pdf}", pdf=short_label(after)), key="practice_read_next",
+                      on_click=open_next_pdf, args=(after,),
+                      help=t("Read the next PDF: {title}", title=pdf_title(after)))
+    hero(t("Practise · {level} · PDF {number}", level=pdf["level"], number=pdf["number"]),
+         html.escape(pdf["title"]),
+         t("{mastered} of {questions} questions mastered", mastered=done, questions=total),
+         done / total if total else 0)
     st.write("")
 
     size = size_buttons("practice_size")
     skip_switch("practice_skip")
-    st.caption("After each session the next exercise type follows, in the order of the cards below.")
+    st.caption(t("After each session the next exercise type follows, in the order of the cards below."))
     show_notice()
     scores = practice_data()["scores"].get(pdf["id"], {})
     back = ("pdf", pdf["id"])
@@ -487,10 +496,10 @@ def practice_screen():
     # One card per exercise type, with only the types that exist for this PDF.
     cards = [(mode, title, text, [i for i in items if i["mode"] == mode]) for mode, title, text in modes()]
     cards = [card for card in cards if card[3]]
-    cards.append(("test", "🎯 Mixed test", "All exercise types mixed together.", items))
+    cards.append(("test", t("🎯 Mixed test"), t("All exercise types mixed together."), items))
     weak = weak_items(items)
     if weak:
-        cards.append(("weak", "💪 Weak questions", "What you got wrong recently.", weak))
+        cards.append(("weak", t("💪 Weak questions"), t("What you got wrong recently."), weak))
 
     columns = st.columns(3)
     for n, (mode, title, text, mode_items) in enumerate(cards):
@@ -498,24 +507,26 @@ def practice_screen():
             st.markdown(f"#### {title}")
             st.caption(text)
             mode_done, mode_total = mastery(mode_items)
-            line = f"{mode_done} of {mode_total} mastered"
+            line = t("{mastered} of {questions} mastered", mastered=mode_done, questions=mode_total)
             if mode in scores:
-                line += f" · last {scores[mode]['last']}% · best {scores[mode]['best']}%"
+                line += " · " + t("last {last}% · best {best}%", last=scores[mode]["last"],
+                                  best=scores[mode]["best"])
             st.markdown(line)
             if mode not in ("test", "weak"):  # these two mix the other types, so they have no mark
-                done_checkbox(mode_items, "Mark as done", f"done_{pdf['id']}_{mode}")
+                done_checkbox(mode_items, t("Mark as done"), f"done_{pdf['id']}_{mode}")
             chosen = mode_items
             groups = sorted({i["group"] for i in mode_items if i["group"]})
             # A list of topics, the {set} removes duplicates.
             if mode in ("words", "reverse", "gender") and len(groups) > 1:
-                topic = st.selectbox("Topic", ["All topics"] + groups, key=f"topic_{pdf['id']}_{mode}")
+                topic = st.selectbox(t("Topic"), [mark("All topics")] + groups, key=f"topic_{pdf['id']}_{mode}",
+                                     format_func=lambda name: t(name) if name == "All topics" else name)
                 if topic != "All topics":
                     chosen = [i for i in mode_items if i["group"] == topic]
             if chosen is mode_items:  # 'is' means: the very same list, so no topic was chosen
-                st.button("Start", key=f"start_{mode}", type="primary", width="stretch", on_click=start_mode,
+                st.button(t("Start"), key=f"start_{mode}", type="primary", width="stretch", on_click=start_mode,
                           args=(items, source, back, pdf["id"], mode, size))
             else:  # one topic only: then nothing follows, because the next type has no topics
-                st.button("Start", key=f"start_{mode}", type="primary", width="stretch", on_click=start_known_check,
+                st.button(t("Start"), key=f"start_{mode}", type="primary", width="stretch", on_click=start_known_check,
                           args=(chosen, f"{source} · {title} · {topic}", back, pdf["id"], mode, size))
     accepted_section(items, f"accepted_{pdf['id']}")
 
@@ -533,14 +544,14 @@ def accepted_section(items, key):
     found = [(k, item, typed) for k, item in keys.items() for typed in store.accepted_answers(practice_data(), k)]
     if not found:
         return
-    with st.expander(f"✅ Answers you accepted ({len(found)})"):
-        st.caption("These count as correct everywhere in the app. Remove one if you clicked by mistake.")
+    with st.expander(t("✅ Answers you accepted ({count})", count=len(found))):
+        st.caption(t("These count as correct everywhere in the app. Remove one if you clicked by mistake."))
         for n, (k, item, typed) in enumerate(found):
             c = st.columns([5, 1], vertical_alignment="center")
             question = item["speak"] or item["prompt"]
             c[0].markdown(f"{mode_title(item['mode'])} · {plain_markdown(question)}  →  **{plain_markdown(typed)}**  \n"
-                          f"Model answer: {plain_markdown(item['show'])}")
-            c[1].button("Remove", key=f"{key}_{n}", on_click=remove_accepted, args=(k, typed), width="stretch")
+                          + t("Model answer: {answer}", answer=plain_markdown(item["show"])))
+            c[1].button(t("Remove"), key=f"{key}_{n}", on_click=remove_accepted, args=(k, typed), width="stretch")
 
 
 # ---------- weak subjects ----------
@@ -560,7 +571,7 @@ def subjects(level=None):
 def start_weak_subject(name, items, back):
     source = items[0]["id"].split("|")[0]  # the PDF id, or THEME_name for a themed list
     pdf_id = None if source.startswith("THEME_") else source
-    start_drill(weak_items(items), f"{name} · Weak questions", back, pdf_id, "weak")
+    start_drill(weak_items(items), t("{name} · Weak questions", name=name), back, pdf_id, "weak")
 
 
 def weak_subjects_section(level, back, key):
@@ -577,20 +588,23 @@ def weak_subjects_section(level, back, key):
             per_type.append((score, title))
     if not weak and not per_type:
         return  # too little practised to say anything yet
-    st.subheader("Weak subjects")
+    st.subheader(t("Weak subjects"))
     if per_type:
-        st.caption("Right on the first try, per exercise type: " +
-                   " · ".join(f"{title} {score:.0%}" for score, title in sorted(per_type)))
+        st.caption(t("Right on the first try, per exercise type: {scores}",
+                     scores=" · ".join(f"{title} {score:.0%}" for score, title in sorted(per_type))))
     if not weak:
-        st.caption(f"No weak subjects: everywhere you practised at least {logic.MIN_PRACTISED} "
-                   f"questions, {logic.WEAK_BELOW:.0%} or more was right on the first try.")
+        st.caption(t("No weak subjects: everywhere you practised at least {count} questions, "
+                     "{percent} or more was right on the first try.",
+                     count=logic.MIN_PRACTISED, percent=f"{logic.WEAK_BELOW:.0%}"))
         return
-    st.caption(f"PDFs and themed lists where less than {logic.WEAK_BELOW:.0%} of the questions you "
-               f"practised was right on the first try last time (from {logic.MIN_PRACTISED} questions practised).")
+    st.caption(t("PDFs and themed lists where less than {percent} of the questions you practised was "
+                 "right on the first try last time (from {count} questions practised).",
+                 percent=f"{logic.WEAK_BELOW:.0%}", count=logic.MIN_PRACTISED))
     for n, (score, practised, name, items) in enumerate(weak[:5]):  # the five weakest
         c = st.columns([4, 1.5], vertical_alignment="center")
-        c[0].markdown(f"**{html.escape(name)}** · {score:.0%} right on the first try ({practised} practised)")
-        c[1].button("💪 Practise", key=f"{key}_{n}", width="stretch", on_click=start_weak_subject,
+        c[0].markdown(f"**{html.escape(name)}** · " + t("{percent} right on the first try ({count} practised)",
+                                                         percent=f"{score:.0%}", count=practised))
+        c[1].button(t("💪 Practise"), key=f"{key}_{n}", width="stretch", on_click=start_weak_subject,
                     args=(name, items, back))
 
 
@@ -606,8 +620,8 @@ def listening_controls(number, text, lang):
     """The play buttons. The sentence plays once by itself; 'number' makes each script new, so
     it plays again for each new question, but not when the screen is only redrawn."""
     profile = languages.profile(lang)
-    st.html('<button type="button" class="speak-button" data-rate="1">🔊 Play again (Ctrl+Space)</button>'
-            '<button type="button" class="speak-button" data-rate="0.65">🐢 Slowly</button>'
+    st.html(f'<button type="button" class="speak-button" data-rate="1">{t("🔊 Play again (Ctrl+Space)")}</button>'
+            f'<button type="button" class="speak-button" data-rate="0.65">{t("🐢 Slowly")}</button>'
             f'<div class="voice-warning">{voice_help(profile["voice_name"])}</div>{SPEECH_SCRIPT}'
             f"<script>/* {number} */ window.speakText({json.dumps(text)}, 1, "
             f"{json.dumps(profile['voice'])});</script>",
@@ -620,8 +634,8 @@ def answer_box(number, on_submit, letter_keys=()):
     typed text is stored."""
     key = f"answer_{number}"  # a new name for each question, so the box starts empty
     with st.form(f"form_{number}", border=False):
-        st.text_input("Your answer", key=key, autocomplete="off")
-        st.form_submit_button("Check (Enter)", type="primary", on_click=on_submit, args=(key,))
+        st.text_input(t("Your answer"), key=key, autocomplete="off")
+        st.form_submit_button(t("Check (Enter)"), type="primary", on_click=on_submit, args=(key,))
     keys = "".join(f'<button type="button" class="accent-key" data-letter="{k}">{k}</button>'
                    for k in letter_keys)
     st.html(f"<div>{keys}</div>{ACCENT_SCRIPT}", unsafe_allow_javascript=True)
@@ -656,7 +670,7 @@ def tile_question(drill, item):
         drill.update(tiles_for=drill["asked"], order=order, picked=[])
 
     built = " ".join(drill["order"][i] for i in drill["picked"])
-    st.markdown(f"#### {built}" if built else "*Click the words in the right order.*")
+    st.markdown(f"#### {built}" if built else "*" + t("Click the words in the right order.") + "*")
     with st.container(horizontal=True):
         for i, word in enumerate(drill["order"]):  # enumerate gives the number and the element
             st.button(word, key=f"tile_{drill['asked']}_{i}", on_click=click_tile, args=(i,),
@@ -664,10 +678,10 @@ def tile_question(drill, item):
     st.write("")
     with st.container(horizontal=True):
         everything_used = len(drill["picked"]) == len(drill["order"])
-        st.button("Check", key="tiles_check", type="primary", shortcut="Enter", on_click=submit_tiles,
+        st.button(t("Check"), key="tiles_check", type="primary", shortcut="Enter", on_click=submit_tiles,
                   disabled=not everything_used)
-        st.button("Undo", key="tiles_undo", on_click=undo_tile, disabled=not drill["picked"])
-        st.button("Clear", key="tiles_clear", on_click=clear_tiles, disabled=not drill["picked"])
+        st.button(t("Undo"), key="tiles_undo", on_click=undo_tile, disabled=not drill["picked"])
+        st.button(t("Clear"), key="tiles_clear", on_click=clear_tiles, disabled=not drill["picked"])
 
 
 def plain_markdown(text):
@@ -679,21 +693,22 @@ def plain_markdown(text):
 
 def show_feedback(item, feedback):
     correct = plain_markdown(item["show"])
-    mine = plain_markdown(feedback["typed"]) or "(no answer)"
+    mine = plain_markdown(feedback["typed"]) or t("(no answer)")
     if feedback["result"] == "right":
-        st.success(f"**Correct!**  {correct}")
+        st.success("**" + t("Correct!") + f"**  {correct}")
     elif feedback["result"] == "near":
         st.warning(f"**{feedback['note']}**  {correct}")
     elif feedback["result"] == "overruled":
-        st.success(f"**Counted as correct.**  Your answer: {mine}  ·  Model answer: {correct}")
+        st.success(t("**Counted as correct.**  Your answer: {mine}  ·  Model answer: {correct}",
+                     mine=mine, correct=correct))
     else:
-        st.error(f"**Your answer:** {mine}  \n**Correct:** {correct}")
+        st.error(t("**Your answer:** {mine}  \n**Correct:** {correct}", mine=mine, correct=correct))
     if item["why"]:
         st.info(item["why"])
     with st.container(horizontal=True):
-        st.button("Next", key="next_question", type="primary", shortcut="Enter", on_click=next_question)
+        st.button(t("Next"), key="next_question", type="primary", shortcut="Enter", on_click=next_question)
         if feedback["result"] == "wrong":
-            st.button("I was actually right", key="overrule", on_click=i_was_right)
+            st.button(t("I was actually right"), key="overrule", on_click=i_was_right)
 
 
 def drill_screen():
@@ -704,14 +719,16 @@ def drill_screen():
 
     item = logic.current_item(drill)
     top = st.columns([1.2, 6], vertical_alignment="center")
-    top[0].button("✕ Stop session", key="drill_stop", on_click=leave_drill, width="stretch")
+    top[0].button(t("✕ Stop session"), key="drill_stop", on_click=leave_drill, width="stretch")
     top[1].markdown(f"**{html.escape(drill['title'])}**")
     if drill.get("left_out"):  # .get: a session started before this existed has no 'left_out'
-        st.caption(f"{drill['left_out']} questions you already know are left out ('Skip what I know').")
-    stage = "Round" if drill["stage"] == 1 else "Repeat of what you missed, round"
+        st.caption(t("{count} questions you already know are left out ('Skip what I know').",
+                     count=drill["left_out"]))
+    stage = t("Round {round}") if drill["stage"] == 1 else t("Repeat of what you missed, round {round}")
     total = len(drill["queue"])
     st.progress(drill["position"] / total,
-                text=f"{stage} {drill['round']}  ·  question {drill['position'] + 1} of {total}")
+                text=stage.format(round=drill["round"]) + "  ·  "
+                + t("question {number} of {total}", number=drill["position"] + 1, total=total))
 
     show_prompt(drill, item)
     st.write("")
@@ -729,7 +746,8 @@ def results_screen(drill):
     percent = logic.score_percent(drill)
     total = len(drill["items"])
     right = total - len(drill["first_wrong"])
-    hero("Session complete", f"{percent}%", f"{right} of {total} correct the first time",  percent / 100)
+    hero(t("Session complete"), f"{percent}%",
+         t("{right} of {total} correct the first time", right=right, total=total), percent / 100)
     st.write("")
     show_notice()
     step = following_step(drill)
@@ -737,18 +755,19 @@ def results_screen(drill):
     after = next_pdf(drill["pdf_id"]) if drill["pool"] and drill["back"][0] == "pdf" else None
     with st.container(horizontal=True):
         if step:
-            st.button(f"Next: {mode_title(step)}", key="drill_next", type="primary", shortcut="Enter",
+            st.button(t("Next: {type}", type=mode_title(step)), key="drill_next", type="primary", shortcut="Enter",
                       on_click=continue_drill, args=(step,))
         elif after and "open_reader" in ACTIONS:
             title = next(p for p in load_catalog() if p["id"] == after)
-            st.button(f"Next PDF: {title['level']} · {title['title']}", key="drill_next_pdf",
+            st.button(t("Next PDF: {level} · {title}", level=title["level"], title=title["title"]),
+                      key="drill_next_pdf",
                       type="primary", shortcut="Enter", on_click=open_next_pdf, args=(after,))
-        st.button("↻ Run again", key="drill_again", on_click=repeat_drill)
-        st.button("Back", key="drill_back", on_click=leave_drill)
+        st.button(t("↻ Run again"), key="drill_again", on_click=repeat_drill)
+        st.button(t("Back"), key="drill_back", on_click=leave_drill)
     if drill["pool"] and not step and not after:
-        st.success("That was the last exercise type. 🎉")
+        st.success(t("That was the last exercise type. 🎉"))
     if drill["first_wrong"]:
-        st.subheader("Wrong the first time")
+        st.subheader(t("Wrong the first time"))
         for item_id in drill["first_wrong"]:
             item = drill["items"][item_id]
             st.markdown(f"- {plain_markdown(item['prompt'])}  →  **{plain_markdown(item['show'])}**")

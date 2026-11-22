@@ -4,6 +4,7 @@ import random, re
 
 import languages
 from practice_items import MODE_IDS, clean_text, course_languages, differences
+from ui_text import t
 
 # Spanish usually leaves out the subject pronoun (hablo instead of yo hablo). Adding it or leaving
 # it out never counts as a mistake in these exercise types. Not in listening, where you type what
@@ -27,8 +28,8 @@ def item_language(item):
 def warning_name(kind, lang):
     """How a warning names the small difference, for example 'the ñ'."""
     profile = languages.profile(lang)
-    return {"accent": "the accent", "special": profile["special_name"],
-            "question mark": profile["marks_name"], "spelling": profile["spelling_name"]}[kind]
+    return {"accent": t("the accent"), "special": t(profile["special_name"]),
+            "question mark": t(profile["marks_name"]), "spelling": t(profile["spelling_name"])}[kind]
 
 
 # ---------- checking one answer ----------
@@ -42,7 +43,8 @@ def compare(item, typed, answer):
 
 
 def warning_text(warnings, lang):
-    return "Correct, but mind " + " and ".join(warning_name(kind, lang) for kind in warnings) + "."
+    names = " " + t("and") + " "  # 'the accent and the ñ'
+    return t("Correct, but mind {things}.", things=names.join(warning_name(kind, lang) for kind in warnings))
 
 
 def answer_key(item):
@@ -106,7 +108,8 @@ def check_answer(item, typed, accepted=()):
                 article, word = answer.split(" ", 1)
                 warnings = compare(item, typed, word)
                 if warnings is not None:
-                    note = f"Correct, but learn the word with its article: {article.lower()} {word}."
+                    note = t("Correct, but learn the word with its article: {word}.",
+                             word=f"{article.lower()} {word}")
                     return "near", note
 
     if item["mode"] in PRONOUN_MODES:  # yo, tú, ella ... added or left out

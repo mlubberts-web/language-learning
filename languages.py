@@ -27,13 +27,15 @@ Each profile has:
 """
 import re
 
+from ui_text import mark
+
 PROFILES = {
     "es": {
         "accents": ("áéíóúü", "aeiouu"),
         "special": {"ñ": "n"},
-        "special_name": "the ñ",
+        "special_name": mark("the ñ"),
         "marks": "¿?¡!",
-        "marks_name": "the ¿ ? ¡ !",
+        "marks_name": mark("the ¿ ? ¡ !"),
         "articles": ("el ", "la ", "los ", "las ", "un ", "una "),
         "gender": ["el", "la"],
         "pronouns": {"yo", "tú", "él", "ella", "usted", "nosotros", "nosotras", "vosotros",
@@ -46,7 +48,7 @@ PROFILES = {
         "spelling": {},
         "spelling_name": "",
         "voice": "es-ES",
-        "voice_name": "Spanish (Spain)",
+        "voice_name": mark("Spanish (Spain)"),
         "keys": ["á", "é", "í", "ó", "ú", "ü", "ñ", "¿", "¡"],
     },
     "en": {
@@ -54,7 +56,7 @@ PROFILES = {
         "special": {},
         "special_name": "",
         "marks": "?!",
-        "marks_name": "the ? or !",
+        "marks_name": mark("the ? or !"),
         "articles": ("the ", "a ", "an "),
         "gender": None,
         "pronouns": set(),  # English always needs the subject: 'I speak', never just 'speak'
@@ -83,9 +85,9 @@ PROFILES = {
                      "organized": "organised", "recognize": "recognise", "apologize": "apologise",
                      "analyze": "analyse", "aluminum": "aluminium",
                      "mom": "mum", "pajamas": "pyjamas", "jewelry": "jewellery"},
-        "spelling_name": "the British spelling",
+        "spelling_name": mark("the British spelling"),
         "voice": "en-GB",
-        "voice_name": "English (United Kingdom)",
+        "voice_name": mark("English (United Kingdom)"),
         "keys": [],
     },
     "nl": {
@@ -93,7 +95,7 @@ PROFILES = {
         "special": {},
         "special_name": "",
         "marks": "?!",
-        "marks_name": "the ? or !",
+        "marks_name": mark("the ? or !"),
         "articles": ("de ", "het ", "een "),
         "gender": ["de", "het"],
         "pronouns": set(),  # Dutch always needs the subject, like English
@@ -105,7 +107,7 @@ PROFILES = {
         "spelling": {},
         "spelling_name": "",
         "voice": "nl-NL",
-        "voice_name": "Dutch (Netherlands)",
+        "voice_name": mark("Dutch (Netherlands)"),
         "keys": ["é", "ë", "ï", "ö", "è"],
     },
 }
