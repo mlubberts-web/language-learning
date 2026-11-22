@@ -28,9 +28,10 @@ import streamlit as st
 import accounts
 import storage
 from storage import StorageError
+from ui_text import mark, t
 
 DEFAULT_TIME_ZONE = "Europe/Amsterdam"
-DATABASE_DOWN = "The online database can't be reached right now. Try again in a minute."
+DATABASE_DOWN = mark("The online database can't be reached right now. Try again in a minute.")
 
 
 def secrets_part(name):
@@ -97,7 +98,7 @@ def start():
         try:
             account = from_bookmark(database)
         except StorageError:
-            st.error(DATABASE_DOWN)
+            st.error(t(DATABASE_DOWN))
         if account is None:
             login_screen(database)
             st.stop()  # nothing else of the page is shown until you log in
@@ -119,11 +120,11 @@ def from_bookmark(database):
 
 
 def login_screen(database):
-    st.title("📘 Spanish Learning Program")
+    st.title("📘 Language Learning")
     if secrets_part("signup") is None:
         login_form(database)
         return
-    log_in_tab, new_tab = st.tabs(["Log in", "Create an account"])
+    log_in_tab, new_tab = st.tabs([t("Log in"), t("Create an account")])
     with log_in_tab:
         login_form(database)
     with new_tab:
@@ -132,19 +133,19 @@ def login_screen(database):
 
 def login_form(database):
     with st.form("login"):
-        name = st.text_input("Name").strip().lower()
-        password = st.text_input("Password", type="password")
-        sent = st.form_submit_button("Log in", type="primary")
+        name = st.text_input(t("Name")).strip().lower()
+        password = st.text_input(t("Password"), type="password")
+        sent = st.form_submit_button(t("Log in"), type="primary")
     if sent:
         try:
             account = find(name, database)
         except StorageError:
-            st.error(DATABASE_DOWN)
+            st.error(t(DATABASE_DOWN))
             return
         if account and password_right(account, password):
             log_in(account, database["key"])
         time.sleep(1)  # makes guessing passwords slow
-        st.error("That name and password don't match.")
+        st.error(t("That name and password don't match."))
 
 
 def time_zones():
@@ -160,36 +161,36 @@ def time_zones():
 def signup_form(database):
     zones, guess = time_zones()
     with st.form("signup"):
-        code = st.text_input("Invite code", type="password",
-                             help="You get this from the person who sent you the link.")
-        name = st.text_input("Name", help="You log in with it. Small letters and digits, 2 to 20.")
-        password = st.text_input("Password", type="password",
-                                 help=f"At least {accounts.MIN_PASSWORD} characters.")
-        again = st.text_input("Password again", type="password")
-        zone = st.selectbox("Your time zone", zones, index=zones.index(guess),
-                            help="Decides when a new day starts in your study plan.")
-        sent = st.form_submit_button("Create my account", type="primary")
+        code = st.text_input(t("Invite code"), type="password",
+                             help=t("You get this from the person who sent you the link."))
+        name = st.text_input(t("Name"), help=t("You log in with it. Small letters and digits, 2 to 20."))
+        password = st.text_input(t("Password"), type="password",
+                                 help=t("At least {count} characters.", count=accounts.MIN_PASSWORD))
+        again = st.text_input(t("Password again"), type="password")
+        zone = st.selectbox(t("Your time zone"), zones, index=zones.index(guess),
+                            help=t("Decides when a new day starts in your study plan."))
+        sent = st.form_submit_button(t("Create my account"), type="primary")
     if not sent:
         return
     name = name.strip().lower()
     if not hmac.compare_digest(code.strip(), str(secrets_part("signup")["code"])):
         time.sleep(1)  # makes guessing the code slow
-        st.error("That invite code isn't right.")
+        st.error(t("That invite code isn't right."))
     elif not accounts.valid_name(name):
-        st.error("Choose a name of 2 to 20 small letters or digits (- and _ are allowed too), without spaces.")
+        st.error(t("Choose a name of 2 to 20 small letters or digits (- and _ are allowed too), without spaces."))
     elif len(password) < accounts.MIN_PASSWORD:
-        st.error(f"Choose a password of at least {accounts.MIN_PASSWORD} characters.")
+        st.error(t("Choose a password of at least {count} characters.", count=accounts.MIN_PASSWORD))
     elif password != again:
-        st.error("The two passwords are not the same.")
+        st.error(t("The two passwords are not the same."))
     else:
         try:
             made = name not in (secrets_part("users") or {}) and accounts.create(database, name, password, zone)
             account = find(name, database) if made else None
         except StorageError:
-            st.error(DATABASE_DOWN)
+            st.error(t(DATABASE_DOWN))
             return
         if not made:
-            st.error("That name is already taken. Choose another one.")
+            st.error(t("That name is already taken. Choose another one."))
             return
         log_in(account, database["key"])
 
@@ -202,8 +203,9 @@ def log_out():
 
 def sidebar_part(name):
     """Who is logged in, with a button to log out. Only online."""
-    st.caption(f"Logged in as **{name.capitalize()}**. Bookmark this page to log in by itself next time.")
-    st.button("Log out", key="log_out", on_click=log_out, width="stretch")
+    st.caption(t("Logged in as **{name}**. Bookmark this page to log in by itself next time.",
+                 name=name.capitalize()))
+    st.button(t("Log out"), key="log_out", on_click=log_out, width="stretch")
 
 
 # ---------- for admins: the accounts people made ----------
@@ -218,23 +220,23 @@ def admin_did(problem=None, done=None):
 def admin_set_password(database):
     who, new = st.session_state.admin_password_who, st.session_state.admin_new_password
     if len(new) < accounts.MIN_PASSWORD:
-        return admin_did(f"Choose a password of at least {accounts.MIN_PASSWORD} characters.")
+        return admin_did(t("Choose a password of at least {count} characters.", count=accounts.MIN_PASSWORD))
     try:
         accounts.set_password(database, who, new)
     except StorageError:
-        return admin_did(DATABASE_DOWN)
-    admin_did(done=f"{who} has a new password. Their old bookmark stops working.")
+        return admin_did(t(DATABASE_DOWN))
+    admin_did(done=t("{name} has a new password. Their old bookmark stops working.", name=who))
 
 
 def admin_remove(database):
     who = st.session_state.admin_remove_who
     if not st.session_state.admin_remove_sure:
-        return admin_did("Tick the box first.")
+        return admin_did(t("Tick the box first."))
     try:
         accounts.remove(database, who)
     except StorageError:
-        return admin_did(DATABASE_DOWN)
-    admin_did(done=f"{who} and all their results were removed.")
+        return admin_did(t(DATABASE_DOWN))
+    admin_did(done=t("{name} and all their results were removed.", name=who))
 
 
 def admin_part():
@@ -243,35 +245,36 @@ def admin_part():
         return
     database = st.session_state.database
     message = st.session_state.pop("admin_message", None)  # (kind, text) of the last click
-    with st.expander("👥 Accounts", expanded=message is not None):  # open to show the message
+    with st.expander(t("👥 Accounts"), expanded=message is not None):  # open to show the message
         if message:
             kind, text = message
             (st.error if kind == "error" else st.success)(text)
         if secrets_part("signup") is None:
-            st.caption("Making accounts is switched off. Add a [signup] part with a code to the "
-                       "secrets to switch it on (see DEPLOY.md).")
+            st.caption(t("Making accounts is switched off. Add a [signup] part with a code to the "
+                         "secrets to switch it on (see DEPLOY.md)."))
         else:
-            st.caption("New people make their own account with the app's address and the invite "
-                       "code from the secrets. Accounts written in the secrets are changed there.")
+            st.caption(t("New people make their own account with the app's address and the invite "
+                         "code from the secrets. Accounts written in the secrets are changed there."))
         try:
             people = accounts.every(database)
         except StorageError:
-            st.error(DATABASE_DOWN)
+            st.error(t(DATABASE_DOWN))
             return
         if not people:
-            st.caption("Nobody has made an account yet.")
+            st.caption(t("Nobody has made an account yet."))
             return
         for person in people:
-            st.markdown(f"**{person['name']}** · {person['timezone']} · since {person['created']}")
+            st.markdown(f"**{person['name']}** · {person['timezone']} · "
+                        + t("since {day}", day=person["created"]))
         names = [person["name"] for person in people]
         with st.form("admin_password", clear_on_submit=True):
-            st.selectbox("Account", names, key="admin_password_who")
-            st.text_input("New password", type="password", key="admin_new_password")
-            st.form_submit_button("Set new password", width="stretch",
+            st.selectbox(t("Account"), names, key="admin_password_who")
+            st.text_input(t("New password"), type="password", key="admin_new_password")
+            st.form_submit_button(t("Set new password"), width="stretch",
                                   on_click=admin_set_password, args=(database,))
         with st.form("admin_remove", clear_on_submit=True):
-            st.selectbox("Account", names, key="admin_remove_who")
-            st.checkbox("Yes, remove this account and all its results", key="admin_remove_sure")
-            st.form_submit_button("Remove account", width="stretch",
+            st.selectbox(t("Account"), names, key="admin_remove_who")
+            st.checkbox(t("Yes, remove this account and all its results"), key="admin_remove_sure")
+            st.form_submit_button(t("Remove account"), width="stretch",
                                   on_click=admin_remove, args=(database,))
 

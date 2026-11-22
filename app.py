@@ -1,4 +1,4 @@
-"""Spanish Learning Program - reader and progress tracker.
+"""Language Learning - reader and progress tracker, for every course.
 Run with:  streamlit run app.py   (or double-click start.bat on Windows).
 
 Screens: home (all levels) -> level (the PDFs in one level) -> reader (one PDF).
@@ -19,14 +19,18 @@ import practice_store as store
 import progress_screen as progress
 import schedule_screen as schedule
 import storage
+import languages
 from ui import go_home, go_level, go_view, hero, log_activity, log_data, save_log
+from ui_text import mark, t
 
 HERE = Path(__file__).parent
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
-LEVEL_NAMES = {"A1": "Beginner", "A2": "Elementary", "B1": "Intermediate",
-               "B2": "Upper intermediate", "C1": "Advanced", "C2": "Mastery"}
-PAGE_WIDTHS = {"Small": 760, "Medium": 1000, "Large": 1300}  # maximum width on screen, in pixels
-STATUS_LABEL = {"done": "✅ Done", "reading": "📖 In progress", "new": "○ Not started"}
+# mark() only marks a text for translation; t() translates it where it is shown.
+LEVEL_NAMES = {"A1": mark("Beginner"), "A2": mark("Elementary"), "B1": mark("Intermediate"),
+               "B2": mark("Upper intermediate"), "C1": mark("Advanced"), "C2": mark("Mastery")}
+PAGE_WIDTHS = {mark("Small"): 760, mark("Medium"): 1000, mark("Large"): 1300}  # maximum width, in pixels
+STATUS_LABEL = {"done": mark("✅ Done"), "reading": mark("📖 In progress"), "new": mark("○ Not started")}
+SITE_NAME = "Language Learning"  # the working name of the site
 
 STYLE = """
 <style>
@@ -45,7 +49,7 @@ STYLE = """
 </style>
 """
 
-st.set_page_config(page_title="Spanish Learning Program", page_icon="📘", layout="wide")
+st.set_page_config(page_title=SITE_NAME, page_icon="📘", layout="wide")
 st.html(STYLE)
 # Online, this asks who you are first; on your own computer it does nothing and USER is None.
 USER = login.start()
@@ -138,9 +142,9 @@ def open_in_pdf_app(item):
     path = str(pdf_path(item["file"]))
     if hasattr(os, "startfile"):
         os.startfile(path)  # Windows only
-        st.toast("Opened in your default PDF app.")
+        st.toast(t("Opened in your default PDF app."))
     else:
-        st.toast("This button only works when the app runs on Windows.")
+        st.toast(t("This button only works when the app runs on Windows."))
 
 
 # ---------- state ----------
@@ -153,8 +157,8 @@ try:
     practice.practice_data()
     log_data()
 except storage.StorageError as problem:
-    st.error("The online database can't be reached right now, so your results can't be loaded. "
-             f"Reload the page in a minute.\n\nWhat the database said: {problem}")
+    st.error(t("The online database can't be reached right now, so your results can't be loaded. "
+               "Reload the page in a minute.\n\nWhat the database said: {problem}", problem=problem))
     st.stop()
 st.session_state.setdefault("view", "home")
 st.session_state.setdefault("level", None)
@@ -220,32 +224,38 @@ def scroll_to_top_after_moving():
 
 
 # ---------- shared pieces ----------
+def language_name():
+    """The language of the open course, in the interface language: 'Spanish', 'Engels' ..."""
+    info = course.info()
+    return languages.name(info["learn"], info["explained_in"])
+
+
 def sidebar():
     with st.sidebar:
-        st.title("📘 Spanish")
-        st.button("🏠 Home", key="nav_home", on_click=go_home, width="stretch",
+        st.title(f"📘 {language_name()}")
+        st.button(t("🏠 Home"), key="nav_home", on_click=go_home, width="stretch",
                   type="primary" if st.session_state.view == "home" else "secondary")
-        st.button("🗓️ Schedule", key="nav_schedule", on_click=go_view, args=("schedule",), width="stretch",
+        st.button(t("🗓️ Schedule"), key="nav_schedule", on_click=go_view, args=("schedule",), width="stretch",
                   type="primary" if st.session_state.view == "schedule" else "secondary")
-        st.button("📊 Progress", key="nav_progress", on_click=go_view, args=("progress",), width="stretch",
+        st.button(t("📊 Progress"), key="nav_progress", on_click=go_view, args=("progress",), width="stretch",
                   type="primary" if st.session_state.view == "progress" else "secondary")
-        st.button("📚 Themed words", key="nav_themes", on_click=go_view, args=("themes",), width="stretch",
+        st.button(t("📚 Themed words"), key="nav_themes", on_click=go_view, args=("themes",), width="stretch",
                   type="primary" if st.session_state.view == "themes" else "secondary")
-        st.button("⏱️ Mock exam", key="nav_mock", on_click=go_view, args=("mock",), width="stretch",
+        st.button(t("⏱️ Mock exam"), key="nav_mock", on_click=go_view, args=("mock",), width="stretch",
                   type="primary" if st.session_state.view == "mock" else "secondary")
         st.divider()
-        st.caption("LEVELS")
+        st.caption(t("LEVELS"))
         for level in LEVELS:
             items = level_items(level)
             done = sum(status(i) == "done" for i in items)
-            st.button(f"{level} · {LEVEL_NAMES[level]}  ({done}/{len(items)})", key=f"nav_{level}",
+            st.button(f"{level} · {t(LEVEL_NAMES[level])}  ({done}/{len(items)})", key=f"nav_{level}",
                       on_click=go_level, args=(level,), width="stretch",
                       type="primary" if st.session_state.level == level else "secondary")
         st.divider()
         if USER:
             login.sidebar_part(USER)
         else:
-            st.caption("Progress is saved in the results folder next to app.py.")
+            st.caption(t("Progress is saved in the results folder next to app.py."))
         your_data()
         login.admin_part()  # only for admins: the accounts people made
 
@@ -294,23 +304,23 @@ def put_back(found):
 
 
 def your_data():
-    with st.expander("💾 Your data"):
-        st.download_button("Download a backup", backup_text(), width="stretch",
-                           file_name=f"spanish-backup-{clock.today().isoformat()}.json",
+    with st.expander(t("💾 Your data")):
+        st.download_button(t("Download a backup"), backup_text(), width="stretch",
+                           file_name=f"{course.current()}-backup-{clock.today().isoformat()}.json",
                            mime="application/json", key="backup_download")
         if st.session_state.get("restored"):
-            st.success(f"Put back: {st.session_state.pop('restored')}.")
-        files = st.file_uploader("Put back a backup", type="json", accept_multiple_files=True,
+            st.success(t("Put back: {files}.", files=st.session_state.pop("restored")))
+        files = st.file_uploader(t("Put back a backup"), type="json", accept_multiple_files=True,
                                  key="backup_upload",
-                                 help="A backup from the button above, or progress.json, practice.json "
-                                      "and study_log.json from the app on your own computer.")
+                                 help=t("A backup from the button above, or progress.json, practice.json "
+                                        "and study_log.json from the app on your own computer."))
         found = read_uploads(files or [])
         if files and not found:
-            st.warning("These files don't hold any results.")
+            st.warning(t("These files don't hold any results."))
         if found:
-            st.caption("This replaces your current results with the ones in: "
-                       + ", ".join(PARTS[p] for p in found) + ".")
-            st.button("Replace my results", key="backup_put_back", type="primary", width="stretch",
+            st.caption(t("This replaces your current results with the ones in: {files}.",
+                         files=", ".join(PARTS[p] for p in found)))
+            st.button(t("Replace my results"), key="backup_put_back", type="primary", width="stretch",
                       on_click=put_back, args=(found,))
 
 
@@ -319,9 +329,10 @@ def home():
     done, read, total = stats(catalog)
     all_questions = practice.every_item()
     mastered, questions = practice.mastery(all_questions)
-    hero("Spanish Learning Program", "Your progress",
-         f"{done} of {len(catalog)} PDFs done · {read} of {total} pages read · "
-         f"{mastered} of {questions} practice questions mastered",
+    hero(language_name(), t("Your progress"),
+         t("{done} of {pdfs} PDFs done · {read} of {pages} pages read · "
+           "{mastered} of {questions} practice questions mastered",
+           done=done, pdfs=len(catalog), read=read, pages=total, mastered=mastered, questions=questions),
          done / len(catalog))
     st.write("")
     schedule.home_row()  # today's plan, with a button to the Schedule screen
@@ -329,14 +340,14 @@ def home():
     due = practice.due_items()
     c = st.columns([4, 1.5], vertical_alignment="center")
     if due:
-        c[0].markdown(f"**📅 Daily review:** {len(due)} questions are due today")
+        c[0].markdown(t("**📅 Daily review:** {count} questions are due today", count=len(due)))
         # The list is sorted with the longest overdue first, [:30] takes the first thirty.
-        c[1].button("Review 30" if len(due) > 30 else f"Review {len(due)}", key="home_review", type="primary",
+        c[1].button(t("Review {count}", count=min(30, len(due))), key="home_review", type="primary",
                     width="stretch", on_click=practice.start_drill,
-                    args=(due[:30], "📅 Daily review", ("home",)))
+                    args=(due[:30], t("📅 Daily review"), ("home",)))
     else:
-        c[0].markdown("**📅 Daily review:** nothing is due today. Questions you practise come back "
-                      "after 1, 3, 7 and 30 days.")
+        c[0].markdown(t("**📅 Daily review:** nothing is due today. Questions you practise come back "
+                        "after 1, 3, 7 and 30 days."))
 
     recent = [(e["updated"], pid) for pid, e in st.session_state.progress.items()
               if e.get("updated") and pid in by_id]
@@ -344,31 +355,34 @@ def home():
         _, pid = max(recent)
         item = by_id[pid]
         c = st.columns([4, 1.5], vertical_alignment="center")
-        c[0].markdown(f"**Continue where you left off:** {item['level']} · {item['title']} "
-                      f"(page {entry(pid)['last_page'] + 1} of {page_count(item['file'])})")
-        c[1].button("Continue ▶", on_click=open_reader, args=(pid,), type="primary", width="stretch")
+        c[0].markdown(t("**Continue where you left off:** {level} · {title} (page {page} of {pages})",
+                        level=item["level"], title=item["title"], page=entry(pid)["last_page"] + 1,
+                        pages=page_count(item["file"])))
+        c[1].button(t("Continue ▶"), on_click=open_reader, args=(pid,), type="primary", width="stretch")
 
     weak = practice.weak_items(all_questions)
     if weak:
         c = st.columns([4, 1.5], vertical_alignment="center")
-        c[0].markdown(f"**Weak questions:** {len(weak)} across all levels")
-        c[1].button("💪 Practise 20", key="home_weak", on_click=practice.start_drill, width="stretch",
-                    args=(weak, "All levels · Weak questions", ("home",), None, None, 20))
+        c[0].markdown(t("**Weak questions:** {count} across all levels", count=len(weak)))
+        c[1].button(t("💪 Practise 20"), key="home_weak", on_click=practice.start_drill, width="stretch",
+                    args=(weak, t("All levels · Weak questions"), ("home",), None, None, 20))
 
     practice.weak_subjects_section(None, ("home",), "home_subject")
 
-    st.subheader("Levels")
+    st.subheader(t("Levels"))
     cols = st.columns(3)
     for n, level in enumerate(LEVELS):
         items = level_items(level)
         level_done, level_read, level_total = stats(items)
         with cols[n % 3].container(border=True, key=f"card_{level}"):
-            st.markdown(f"#### {level} · {LEVEL_NAMES[level]}")
-            st.progress(level_done / len(items), text=f"{level_done} of {len(items)} PDFs done")
+            st.markdown(f"#### {level} · {t(LEVEL_NAMES[level])}")
+            st.progress(level_done / len(items) if items else 0,
+                        text=t("{done} of {total} PDFs done", done=level_done, total=len(items)))
             level_mastered, level_questions = practice.mastery(practice.items_of_level(level))
-            st.caption(f"{level_read} of {level_total} pages read  \n"
-                       f"{level_mastered} of {level_questions} practice questions mastered")
-            st.button(f"Open {level}", key=f"open_{level}", on_click=go_level, args=(level,),
+            st.caption(t("{read} of {pages} pages read", read=level_read, pages=level_total) + "  \n"
+                       + t("{mastered} of {questions} practice questions mastered",
+                           mastered=level_mastered, questions=level_questions))
+            st.button(t("Open {level}", level=level), key=f"open_{level}", on_click=go_level, args=(level,),
                       width="stretch")
 
 
@@ -377,22 +391,26 @@ def level_screen():
     level = st.session_state.level
     items = level_items(level)
     done, read, total = stats(items)
-    st.button("🏠 Home", key="level_home", on_click=go_home)
+    st.button(t("🏠 Home"), key="level_home", on_click=go_home)
     level_questions = practice.items_of_level(level)
     mastered, questions = practice.mastery(level_questions)
-    hero(f"Level {level}", LEVEL_NAMES[level],
-         f"{done} of {len(items)} PDFs done · {read} of {total} pages read · "
-         f"{mastered} of {questions} practice questions mastered", done / len(items))
+    hero(t("Level {level}", level=level), t(LEVEL_NAMES[level]),
+         t("{done} of {pdfs} PDFs done · {read} of {pages} pages read · "
+           "{mastered} of {questions} practice questions mastered",
+           done=done, pdfs=len(items), read=read, pages=total, mastered=mastered, questions=questions),
+         done / len(items) if items else 0)
     st.write("")
 
     # Practising across all the PDFs of this level at once.
     weak = practice.weak_items(level_questions)
     with st.container(horizontal=True):
-        st.button(f"🎯 Test all of {level} (30 questions)", key="level_test", on_click=practice.start_drill,
-                  args=(level_questions, f"{level} · Mixed test", ("level", level), None, None, 30))
+        st.button(t("🎯 Test all of {level} (30 questions)", level=level), key="level_test",
+                  on_click=practice.start_drill,
+                  args=(level_questions, t("{level} · Mixed test", level=level), ("level", level), None, None, 30))
         if weak:
-            st.button(f"💪 Weak questions ({len(weak)})", key="level_weak", on_click=practice.start_drill,
-                      args=(weak, f"{level} · Weak questions", ("level", level), None, None, 20))
+            st.button(t("💪 Weak questions ({count})", count=len(weak)), key="level_weak",
+                      on_click=practice.start_drill,
+                      args=(weak, t("{level} · Weak questions", level=level), ("level", level), None, None, 20))
     practice.weak_subjects_section(level, ("level", level), f"level_subject_{level}")
 
     next_up = next((i["id"] for i in items if status(i) != "done"), None)
@@ -402,24 +420,26 @@ def level_screen():
         with st.container(border=True, key=f"row_{item['id']}"):
             c = st.columns([0.45, 3.5, 1.6, 1.2, 1.2, 1.2], vertical_alignment="center")
             c[0].markdown(f"### {item['number']}")
-            c[1].markdown(f"**{item['title']}**" + ("  ·  :red[Next up]" if is_next else ""))
-            c[1].caption(f"{item['section']} · {page_count(item['file'])} pages · {item['subtitle']}")
-            c[2].progress(fraction(item), text=STATUS_LABEL[stt])
+            c[1].markdown(f"**{item['title']}**" + ("  ·  :red[" + t("Next up") + "]" if is_next else ""))
+            c[1].caption(f"{item['section']} · " + t("{pages} pages", pages=page_count(item["file"]))
+                         + f" · {item['subtitle']}")
+            c[2].progress(fraction(item), text=t(STATUS_LABEL[stt]))
             pdf_mastered, pdf_questions = practice.mastery(practice.load_all_items()[item["id"]])
-            c[2].caption(f"{pdf_mastered} of {pdf_questions} questions mastered")
-            label = {"done": "Read again", "reading": "Continue", "new": "Read"}[stt]
+            c[2].caption(t("{mastered} of {questions} questions mastered",
+                           mastered=pdf_mastered, questions=pdf_questions))
+            label = {"done": t("Read again"), "reading": t("Continue"), "new": t("Read")}[stt]
             c[3].button(label, key=f"read_{item['id']}", on_click=open_reader,
                         args=(item["id"], 0 if stt == "done" else None),
                         type="primary" if is_next else "secondary", width="stretch")
-            c[4].button("Practise", key=f"practise_{item['id']}", on_click=practice.go_practice,
+            c[4].button(t("Practise"), key=f"practise_{item['id']}", on_click=practice.go_practice,
                         args=(item["id"],), width="stretch")
-            with c[5].popover("More", width="stretch"):
+            with c[5].popover(t("More"), width="stretch"):
                 last_page = entry(item["id"])["last_page"] if stt == "reading" else 0
-                st.link_button("Open in browser tab", browser_url(item, last_page), width="stretch")
+                st.link_button(t("Open in browser tab"), browser_url(item, last_page), width="stretch")
                 # Online the PDF app would open on the server, not on your computer, so it's left out.
-                if not USER and st.button("Open in PDF app", key=f"app_{item['id']}", width="stretch"):
+                if not USER and st.button(t("Open in PDF app"), key=f"app_{item['id']}", width="stretch"):
                     open_in_pdf_app(item)
-                st.button("Mark as not done" if stt == "done" else "Mark as done",
+                st.button(t("Mark as not done") if stt == "done" else t("Mark as done"),
                           key=f"done_{item['id']}", on_click=toggle_done, args=(item["id"],),
                           width="stretch")
 
@@ -441,39 +461,41 @@ def reader():
         log_activity("page")
 
     top = st.columns([1, 1.7, 5, 2.2], vertical_alignment="center")
-    top[0].button("🏠 Home", key="reader_home", on_click=go_home, width="stretch")
-    top[1].button(f"← {item['level']} · {LEVEL_NAMES[item['level']]}", key="reader_level",
+    top[0].button(t("🏠 Home"), key="reader_home", on_click=go_home, width="stretch")
+    top[1].button(f"← {item['level']} · {t(LEVEL_NAMES[item['level']])}", key="reader_level",
                   on_click=go_level, args=(item["level"],), width="stretch")
     top[2].markdown(f"#### {item['level']} · PDF {item['number']} — {item['title']}")
-    top[3].progress(fraction(item), text=STATUS_LABEL[status(item)])
+    top[3].progress(fraction(item), text=t(STATUS_LABEL[status(item)]))
 
     bar = st.columns([1, 1, 1.3, 1.6, 2, 2, 1.8], vertical_alignment="center")
-    bar[0].button("◀ Prev", on_click=turn_page, args=(-1,), disabled=page == 0,
+    bar[0].button(t("◀ Prev"), on_click=turn_page, args=(-1,), disabled=page == 0,
                   shortcut="Left", width="stretch")
-    bar[1].button("Next ▶", on_click=turn_page, args=(1,), disabled=page >= total - 1,
+    bar[1].button(t("Next ▶"), on_click=turn_page, args=(1,), disabled=page >= total - 1,
                   shortcut="Right", width="stretch")
-    bar[2].number_input("Page", 1, total, key="page_jump", on_change=jump_changed,
+    bar[2].number_input(t("Page"), 1, total, key="page_jump", on_change=jump_changed,
                         label_visibility="collapsed")
-    bar[3].markdown(f"**of {total}**  ·  read {len(e['seen'])}/{total}")
-    bar[4].link_button("Open in browser tab", browser_url(item, page), width="stretch")
-    if not USER and bar[5].button("Open in PDF app", width="stretch"):
+    bar[3].markdown(t("**of {total}**  ·  read {read}/{total}", total=total, read=len(e["seen"])))
+    bar[4].link_button(t("Open in browser tab"), browser_url(item, page), width="stretch")
+    if not USER and bar[5].button(t("Open in PDF app"), width="stretch"):
         open_in_pdf_app(item)
-    size = bar[6].selectbox("Size", list(PAGE_WIDTHS), index=1, label_visibility="collapsed")
+    # format_func shows each choice translated; the choice itself stays the English name
+    size = bar[6].selectbox(t("Size"), list(PAGE_WIDTHS), index=1, label_visibility="collapsed",
+                            format_func=t)
 
     st.html(f'<div style="text-align:center"><img class="pdf-page" src="{render_page(item["file"], page, course.current())}" '
-            f'alt="Page {page + 1} of {total}" style="max-width:{PAGE_WIDTHS[size]}px"></div>')
+            f'alt="{t("Page {page} of {total}", page=page + 1, total=total)}" style="max-width:{PAGE_WIDTHS[size]}px"></div>')
 
     foot = st.columns([1, 1, 2, 2, 2])
-    foot[0].button("◀ Prev ", on_click=turn_page, args=(-1,), disabled=page == 0,
+    foot[0].button(t("◀ Prev") + " ", on_click=turn_page, args=(-1,), disabled=page == 0,
                    key="prev2", width="stretch")
-    foot[1].button("Next ▶ ", on_click=turn_page, args=(1,), disabled=page >= total - 1,
+    foot[1].button(t("Next ▶") + " ", on_click=turn_page, args=(1,), disabled=page >= total - 1,
                    key="next2", width="stretch")
-    label = "Mark as not done" if status(item) == "done" else "Mark as done"
+    label = t("Mark as not done") if status(item) == "done" else t("Mark as done")
     foot[2].button(label, on_click=toggle_done, args=(item["id"],), width="stretch",
                    type="primary" if page == total - 1 and status(item) != "done" else "secondary")
-    foot[3].button("Reset progress for this PDF", on_click=reset_pdf, args=(item["id"],),
+    foot[3].button(t("Reset progress for this PDF"), on_click=reset_pdf, args=(item["id"],),
                    width="stretch")
-    foot[4].button("Practise this PDF", key="reader_practise", on_click=practice.go_practice,
+    foot[4].button(t("Practise this PDF"), key="reader_practise", on_click=practice.go_practice,
                    args=(item["id"],), width="stretch")
 
 
