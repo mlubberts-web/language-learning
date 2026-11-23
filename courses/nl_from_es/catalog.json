@@ -1,0 +1,13 @@
+[
+ {
+  "id": "A1_01_Pronunciacion_y_ortografia",
+  "file": "A1_01_Pronunciacion_y_ortografia.pdf",
+  "level": "A1",
+  "number": 1,
+  "section": "Pronunciación",
+  "title": "Pronunciación y ortografía",
+  "subtitle": "El alfabeto, las vocales cortas y largas, los sonidos que el español no tiene y los números hasta 100",
+  "content": "a1_01_pronunciation_spelling.json",
+  "exercise_count": 10
+ }
+]

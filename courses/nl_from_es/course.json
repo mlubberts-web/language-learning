@@ -1,0 +1,36 @@
+{
+  "id": "nl_from_es",
+  "learn": "nl",
+  "explained_in": "es",
+  "title": "Dutch",
+  "subtitle": "Neerlandés de los Países Bajos, explicado en español",
+  "exam": "Staatsexamen NT2",
+  "accent_pdfs": [],
+  "exam_site": "https://www.staatsexamensnt2.nl/",
+  "exam_levels": {
+    "A1": {
+      "name": "Inburgeringsexamen A2",
+      "site": "https://www.inburgeren.nl/examen-doen/oefenen.jsp"
+    },
+    "A2": {
+      "name": "Inburgeringsexamen A2",
+      "site": "https://www.inburgeren.nl/examen-doen/oefenen.jsp"
+    },
+    "B1": {
+      "name": "Staatsexamen NT2 I",
+      "site": "https://www.staatsexamensnt2.nl/voorbereiden/examens-oefenen"
+    },
+    "B2": {
+      "name": "Staatsexamen NT2 II",
+      "site": "https://www.staatsexamensnt2.nl/voorbereiden/examens-oefenen"
+    },
+    "C1": {
+      "name": "CNaVT C1",
+      "site": "https://cnavt.org/voorbereiding/voorbeeldexamens"
+    },
+    "C2": {
+      "name": "CNaVT C1",
+      "site": "https://cnavt.org/voorbereiding/voorbeeldexamens"
+    }
+  }
+}

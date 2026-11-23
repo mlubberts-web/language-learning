@@ -1,0 +1,560 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Pronunciación",
+  "number": 1,
+  "total_in_level": 9,
+  "title": "Pronunciación y ortografía",
+  "subtitle": "El alfabeto, las vocales cortas y largas, los sonidos que el español no tiene y los números hasta 100",
+  "footer": "Language Learning · A1 · Pronunciación · Pronunciación y ortografía",
+  "next": "Siguiente: A1 · pdf 2 — zijn y hebben"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decir el alfabeto neerlandés y deletrear tu nombre",
+    "oír y hacer la diferencia entre vocales cortas y largas (<i>man</i> y <i>maan</i>)",
+    "pronunciar los sonidos que el español no tiene: ui, eu, uu y la diferencia entre v, f, z y s",
+    "contar y escribir hasta cien"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El alfabeto"
+  },
+  {
+   "type": "p",
+   "text": "Las letras neerlandesas tienen sus propios nombres. Las necesitas cada día para deletrear tu nombre, tu dirección o un correo: <i>Hoe schrijf je dat?</i> (¿Cómo se escribe?). Casi todos los nombres son el sonido de la letra con una vocal."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    6.0,
+    8.0
+   ],
+   "head": [
+    "Letras",
+    "Suena más o menos como",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "A H K",
+     "aa, ja, ka (a larga)",
+     "La A es <b>aa</b>, una a larga"
+    ],
+    [
+     "B C D E P T W",
+     "bei, sei, dei, ei, pei, tei, wei",
+     "La E suena <b>ei</b>, como en 'rey'"
+    ],
+    [
+     "F L M N R S",
+     "ef, el, em, en, er, es",
+     "La R puede vibrar como la española o salir de la garganta"
+    ],
+    [
+     "G",
+     "jei, con una j española suave",
+     "como la <i>j</i> de <i>jamón</i>, pero más suave"
+    ],
+    [
+     "I J",
+     "i, yei",
+     "La I es <b>i</b>, la J es <b>yei</b>"
+    ],
+    [
+     "O Q U",
+     "o, ku, u (u francesa)",
+     "La U no existe en español: di 'i' con los labios redondos, como la u francesa"
+    ],
+    [
+     "V X Y Z",
+     "vei, iks, ei, zet",
+     "La Z se llama <b>zet</b>"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Deletrear tu nombre",
+   "text": "<i>Hoe heet je? — Emma. Hoe schrijf je dat? — E, M, M, A.</i> En un correo: @ = <b>apenstaartje</b> (colita de mono), . = <b>punt</b>, - = <b>streepje</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Vocales cortas y largas"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés tiene vocales cortas y largas, y la diferencia cambia el significado: <b>man</b> (hombre) y <b>maan</b> (luna). En español todas las vocales tienen la misma duración, así que esto es nuevo para ti. Una vocal larga se escribe con dos letras en una sílaba cerrada (<i>maan</i>), pero con una letra al final de una sílaba (<i>ma-nen</i>, las lunas)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    5.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "Vocal",
+    "Corta",
+    "Larga",
+    "Larga, una letra"
+   ],
+   "rows": [
+    [
+     "a / aa",
+     "man (hombre)",
+     "maan (luna)",
+     "ma-nen (lunas)"
+    ],
+    [
+     "e / ee",
+     "bed (cama)",
+     "been (pierna)",
+     "be-nen (piernas)"
+    ],
+    [
+     "o / oo",
+     "pot (tarro)",
+     "boom (árbol)",
+     "bo-men (árboles)"
+    ],
+    [
+     "u / uu",
+     "bus (autobús)",
+     "muur (muro)",
+     "mu-ren (muros)"
+    ],
+    [
+     "i / ie",
+     "pit (pepita)",
+     "piet (Pedro)",
+     "siempre ie"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "La regla: ¿una letra o dos?",
+   "text": "Cuando una sílaba termina en vocal (sílaba <b>abierta</b>), basta una letra para una vocal larga: <i>maan → ma-nen</i>, <i>boom → bo-men</i>. Una vocal corta necesita una sílaba cerrada, así que la consonante se dobla: <i>man → man-nen</i>, <i>bus → bus-sen</i>. Esta regla explica casi toda la ortografía neerlandesa."
+  },
+  {
+   "type": "h1",
+   "text": "3. Sonidos que el español no tiene (y alguno que sí)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    4.4,
+    10.0
+   ],
+   "head": [
+    "Sonido",
+    "Ejemplos",
+    "Cómo se hace"
+   ],
+   "rows": [
+    [
+     "g / ch",
+     "goed, acht, lachen",
+     "como la <i>j</i> de <i>jamón</i>: ¡tienes ventaja! g y ch suenan igual"
+    ],
+    [
+     "ui",
+     "huis, uit, fruit",
+     "no existe en español: empieza con una 'a' abierta y redondea los labios hacia una u francesa"
+    ],
+    [
+     "eu",
+     "neus, leuk",
+     "como la <i>eu</i> francesa: di 'e' con los labios redondos"
+    ],
+    [
+     "ij / ei",
+     "mijn, klein",
+     "como 'ei' en <i>rey</i>, pero más abierto; ij y ei suenan exactamente igual"
+    ],
+    [
+     "oe",
+     "boek, goed",
+     "como la <i>u</i> española"
+    ],
+    [
+     "ou / au",
+     "oud, blauw",
+     "como 'au' en <i>causa</i>"
+    ],
+    [
+     "sch",
+     "school, schrijven",
+     "s + jota: s-j-ool, no 'escool'"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "v y f, z y s, w",
+   "text": "En neerlandés <b>v</b> y <b>f</b> son sonidos distintos, y la v se parece a una f suave: <i>vader</i> (padre). La <b>z</b> es una s sonora, como una abeja: <i>zon</i> (sol); nunca la z de 'zapato'. La <b>w</b> se hace con el labio de abajo contra los dientes de arriba: <i>water</i>. Y al final de una palabra la d suena t: <i>hond</i> suena 'hont'."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras para practicar los sonidos",
+   "items": [
+    [
+     "goed",
+     "bueno, bien"
+    ],
+    [
+     "acht",
+     "ocho"
+    ],
+    [
+     "het huis",
+     "casa"
+    ],
+    [
+     "de neus",
+     "nariz"
+    ],
+    [
+     "mijn",
+     "mi"
+    ],
+    [
+     "klein",
+     "pequeño"
+    ],
+    [
+     "oud",
+     "viejo"
+    ],
+    [
+     "het boek",
+     "libro"
+    ],
+    [
+     "de man",
+     "hombre"
+    ],
+    [
+     "de maan",
+     "luna"
+    ],
+    [
+     "de school",
+     "colegio, escuela"
+    ],
+    [
+     "de fiets",
+     "bicicleta, bici"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Los números hasta 100"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Del 0 al 20",
+   "items": [
+    [
+     "nul",
+     "cero"
+    ],
+    [
+     "één",
+     "uno"
+    ],
+    [
+     "twee",
+     "dos"
+    ],
+    [
+     "drie",
+     "tres"
+    ],
+    [
+     "vier",
+     "cuatro"
+    ],
+    [
+     "vijf",
+     "cinco"
+    ],
+    [
+     "zes",
+     "seis"
+    ],
+    [
+     "zeven",
+     "siete"
+    ],
+    [
+     "acht",
+     "ocho"
+    ],
+    [
+     "negen",
+     "nueve"
+    ],
+    [
+     "tien",
+     "diez"
+    ],
+    [
+     "elf",
+     "once"
+    ],
+    [
+     "twaalf",
+     "doce"
+    ],
+    [
+     "dertien",
+     "trece"
+    ],
+    [
+     "veertien",
+     "catorce"
+    ],
+    [
+     "vijftien",
+     "quince"
+    ],
+    [
+     "zestien",
+     "dieciséis"
+    ],
+    [
+     "zeventien",
+     "diecisiete"
+    ],
+    [
+     "achttien",
+     "dieciocho"
+    ],
+    [
+     "negentien",
+     "diecinueve"
+    ],
+    [
+     "twintig",
+     "veinte"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Las decenas",
+   "items": [
+    [
+     "dertig",
+     "treinta"
+    ],
+    [
+     "veertig",
+     "cuarenta"
+    ],
+    [
+     "vijftig",
+     "cincuenta"
+    ],
+    [
+     "zestig",
+     "sesenta"
+    ],
+    [
+     "zeventig",
+     "setenta"
+    ],
+    [
+     "tachtig",
+     "ochenta"
+    ],
+    [
+     "negentig",
+     "noventa"
+    ],
+    [
+     "honderd",
+     "cien"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Primero la unidad, luego la decena, en una sola palabra",
+   "text": "Al revés que en español: el neerlandés dice primero la unidad: <b>eenentwintig</b> (21 = uno-y-veinte), <b>vijfendertig</b> (35 = cinco-y-treinta), <b>negenennegentig</b> (99). Se escribe en una sola palabra, con <b>en</b> (y) en medio. Cuando chocan dos vocales, la diéresis marca la nueva sílaba: <b>tweeëntwintig</b>, <b>drieëntwintig</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "veertig y tachtig",
+   "text": "Dos decenas se escriben distinto de su unidad: <b>vier → veertig</b> (40) y <b>acht → tachtig</b> (80). Y <b>dertien, dertig</b> vienen de <i>drie</i>, pero se escriben con <i>der</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "viertig",
+     "veertig",
+     "Cuarenta es veertig, con ee."
+    ],
+    [
+     "achttig",
+     "tachtig",
+     "Ochenta empieza con t: tachtig."
+    ],
+    [
+     "drietien",
+     "dertien",
+     "Trece es dertien."
+    ],
+    [
+     "twintig een",
+     "eenentwintig",
+     "Primero la unidad, luego en, luego la decena, en una palabra."
+    ],
+    [
+     "de maanen",
+     "de manen",
+     "Sílaba abierta: basta una a."
+    ],
+    [
+     "de busen",
+     "de bussen",
+     "Vocal corta: la s se dobla."
+    ],
+    [
+     "tweeentwintig",
+     "tweeëntwintig",
+     "La diéresis marca dónde empieza la nueva sílaba.",
+     "advice"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Escribe el número en letras o completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "14 = ______",
+     "hint": "en letras",
+     "a": "veertien",
+     "full": "14 = veertien"
+    },
+    {
+     "q": "40 = ______",
+     "hint": "en letras",
+     "a": "veertig",
+     "full": "40 = veertig"
+    },
+    {
+     "q": "80 = ______",
+     "hint": "en letras",
+     "a": "tachtig",
+     "full": "80 = tachtig"
+    },
+    {
+     "q": "12 = ______",
+     "hint": "en letras",
+     "a": "twaalf",
+     "full": "12 = twaalf"
+    },
+    {
+     "q": "21 = ______",
+     "hint": "en letras, una palabra",
+     "a": "eenentwintig",
+     "full": "21 = eenentwintig"
+    },
+    {
+     "q": "55 = ______",
+     "hint": "en letras, una palabra",
+     "a": "vijfenvijftig",
+     "full": "55 = vijfenvijftig"
+    },
+    {
+     "q": "Hoe ______ je dat?",
+     "hint": "escribir (schrijven)",
+     "a": "schrijf",
+     "full": "Hoe schrijf je dat?"
+    },
+    {
+     "q": "Twee bomen en twee ______.",
+     "hint": "plural de de man",
+     "a": "mannen",
+     "full": "Twee bomen en twee mannen."
+    },
+    {
+     "q": "Ik heb een ______ en een auto.",
+     "hint": "bicicleta",
+     "a": "fiets",
+     "full": "Ik heb een fiets en een auto."
+    },
+    {
+     "q": "Dank je ______.",
+     "hint": "muchas gracias",
+     "a": "wel",
+     "full": "Dank je wel."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Cómo se escribe eso?",
+     "a": "Hoe schrijf je dat?"
+    },
+    {
+     "q": "¿Puede repetirlo, por favor?",
+     "a": "Kunt u dat herhalen, alstublieft?"
+    },
+    {
+     "q": "Muchas gracias.",
+     "a": "Dank je wel."
+    },
+    {
+     "q": "Veintitrés.",
+     "a": "Drieëntwintig."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
