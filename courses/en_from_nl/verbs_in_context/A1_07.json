@@ -1,0 +1,69 @@
+{
+ "pdf": "A1_07",
+ "items": [
+  [
+   "Shh! Grandad [is sleeping] on the sofa.",
+   "sleep"
+  ],
+  [
+   "Look outside! It [is raining] again.",
+   "rain"
+  ],
+  [
+   "I [am reading] a good book at the moment.",
+   "read"
+  ],
+  [
+   "They [are swimming] in the sea right now.",
+   "swim",
+   "Dubbele m."
+  ],
+  [
+   "She [is writing] an email at the moment.",
+   "write",
+   "De e valt weg."
+  ],
+  [
+   "We're not watching TV now; we [are talking].",
+   "talk"
+  ],
+  [
+   "Why are you [laughing]?",
+   "laugh"
+  ],
+  [
+   "He [is sitting] in the garden now.",
+   "sit",
+   "Dubbele t."
+  ],
+  [
+   "My parents [are staying] with us this week.",
+   "stay"
+  ],
+  [
+   "Listen! Someone [is playing] the piano.",
+   "play"
+  ],
+  [
+   "The children [are running] in the park.",
+   "run",
+   "Dubbele n."
+  ],
+  [
+   "I [am making] dinner right now.",
+   "make"
+  ],
+  [
+   "Hurry up! The bus [is coming].",
+   "come"
+  ],
+  [
+   "She [is wearing] a red dress today.",
+   "wear"
+  ],
+  [
+   "What are you [doing] at the moment?",
+   "do"
+  ]
+ ]
+}
