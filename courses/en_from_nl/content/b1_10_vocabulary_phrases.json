@@ -1,0 +1,79 @@
+{"meta": {"level": "B1", "section": "Woordenschat", "number": 10, "total_in_level": 10,
+ "title": "Woordenschat en vaste uitdrukkingen",
+ "subtitle": "Basis-phrasal verbs, make of do, de vele betekenissen van get, onderwijs, media en milieu",
+ "footer": "Language Learning · B1 · Woordenschat en vaste uitdrukkingen",
+ "next": "Volgende: B2 · pdf 1"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Zo gebruik je deze lijsten", "bullets": [
+  "Leer phrasal verbs altijd in een zin, niet los.",
+  "Dek één kolom af en overhoor jezelf in beide richtingen.",
+  "Deze woorden komen veel voor in het examen B1 Preliminary van Cambridge."]},
+
+ {"type": "h1", "text": "1. Basis-phrasal verbs"},
+ {"type": "p", "text": "Een <b>phrasal verb</b> is een werkwoord met een voorzetsel of bijwoord, met een eigen betekenis: <i>give up</i> (opgeven), <i>look after</i> (zorgen voor). Het Nederlands heeft iets vergelijkbaars met scheidbare werkwoorden: <i>opgeven, uitzoeken</i>."},
+ {"type": "verbpairs", "title": "Veelgebruikte phrasal verbs", "items": [
+  ["get up", "opstaan"], ["wake up", "wakker worden"], ["look for", "zoeken"], ["look after", "zorgen voor"],
+  ["find out", "erachter komen"], ["give up", "opgeven, stoppen met"], ["turn on", "aanzetten"], ["turn off", "uitzetten"],
+  ["put on", "aantrekken"], ["take off", "uittrekken, opstijgen"], ["pick up", "oppakken, ophalen"], ["fill in", "invullen"],
+  ["go out", "uitgaan"], ["come back", "terugkomen"], ["break down", "kapotgaan (machine)"], ["run out of", "zonder komen te zitten"]]},
+ {"type": "callout", "kind": "tip", "title": "Waar staat het voorwerp?", "text": "Bij veel phrasal verbs mag het voorwerp in het midden of achteraan: <i>Turn off the light / Turn the light off.</i> Is het voorwerp een voornaamwoord (it, them), dan moet het in het midden: <b>Turn it off</b>, nooit <i>Turn off it</i>."},
+
+ {"type": "h1", "text": "2. make of do?"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["make (maken, iets nieuws)", "do (doen, activiteiten en werk)"], "rows": [
+  ["make a cake, make dinner", "do the shopping, do the washing-up"],
+  ["make a mistake", "do your homework"],
+  ["make a decision", "do a course, do an exam"],
+  ["make money", "do business"],
+  ["make a phone call", "do someone a favour"],
+  ["make friends, make a noise", "do your best, do sport"]]},
+ {"type": "callout", "kind": "dutch", "title": "Een fout maken = make a mistake", "text": "Het Nederlands zegt <i>een besluit nemen</i> en <i>een fout maken</i>. Het Engels zegt <b>make a decision</b> en <b>make a mistake</b>. En <i>een examen doen</i> is <b>do / take an exam</b>; <i>slagen</i> is <b>pass</b>."},
+
+ {"type": "h1", "text": "3. get"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Betekenis", "Voorbeeld", "Nederlands"], "rows": [
+  ["krijgen", "I got a letter.", "Ik kreeg een brief."],
+  ["halen, kopen", "Can you get some bread?", "Kun je wat brood halen?"],
+  ["worden", "It's getting dark.", "Het wordt donker."],
+  ["aankomen", "We got home at ten.", "We kwamen om tien uur thuis."],
+  ["begrijpen", "I don't get it.", "Ik snap het niet."],
+  ["nemen (vervoer)", "Let's get a taxi.", "Laten we een taxi nemen."]]},
+
+ {"type": "h1", "text": "4. Onderwijs, media en milieu"},
+ {"type": "verbpairs", "title": "Onderwijs", "items": [
+  ["subject", "vak"], ["degree", "diploma, graad"], ["course", "cursus, opleiding"], ["lecture", "college, lezing"],
+  ["to revise", "leren voor een toets"], ["to pass an exam", "slagen voor een examen"], ["to fail an exam", "zakken voor een examen"], ["mark", "cijfer"]]},
+ {"type": "verbpairs", "title": "Media", "items": [
+  ["the news", "het nieuws"], ["newspaper", "krant"], ["headline", "kop"], ["article", "artikel"],
+  ["advert", "reclame, advertentie"], ["social media", "sociale media"], ["to post", "plaatsen, posten"], ["to share", "delen"]]},
+ {"type": "verbpairs", "title": "Milieu", "items": [
+  ["environment", "milieu"], ["pollution", "vervuiling"], ["climate change", "klimaatverandering"], ["rubbish", "afval"],
+  ["to recycle", "recyclen"], ["renewable energy", "duurzame energie"], ["to waste", "verspillen"], ["to protect", "beschermen"]]},
+ {"type": "callout", "kind": "dutch", "title": "Valse vrienden", "bullets": [
+  "<b>eventually</b> = uiteindelijk, niet <i>eventueel</i> (dat is <b>possibly</b>).",
+  "<b>actually</b> = eigenlijk, niet <i>actueel</i> (dat is <b>current</b>).",
+  "<b>become</b> = worden, niet <i>bekomen</i>.",
+  "<b>brave</b> = dapper, niet <i>braaf</i> (dat is <b>good, well-behaved</b>)."]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Can you look ______ my cat while I'm away?", "hint": "zorgen voor", "a": "after", "full": "Can you look after my cat while I'm away?"},
+  {"q": "I'm looking ______ my glasses. Have you seen them?", "hint": "zoeken", "a": "for", "full": "I'm looking for my glasses. Have you seen them?"},
+  {"q": "It's cold. Put ______ your coat.", "hint": "aantrekken", "a": "on", "full": "It's cold. Put on your coat."},
+  {"q": "The light is on. Can you turn it ______?", "hint": "uitzetten", "a": "off", "full": "The light is on. Can you turn it off?"},
+  {"q": "We've run out ______ milk.", "hint": "voorzetsel", "a": "of", "full": "We've run out of milk."},
+  {"q": "Everybody ______ mistakes.", "hint": "make of do", "a": "makes", "full": "Everybody makes mistakes."},
+  {"q": "I have to ______ my homework tonight.", "hint": "make of do", "a": "do", "full": "I have to do my homework tonight."},
+  {"q": "We need to ______ a decision today.", "hint": "make of do", "a": "make", "full": "We need to make a decision today."},
+  {"q": "It's ______ cold. Let's go inside.", "hint": "get, wordt", "a": "getting", "full": "It's getting cold. Let's go inside."},
+  {"q": "She passed all her ______ at school.", "hint": "examens", "a": "exams", "full": "She passed all her exams at school."},
+  {"q": "We should ______ plastic bottles.", "hint": "recyclen", "a": "recycle", "full": "We should recycle plastic bottles."},
+  {"q": "After three hours we ______ found the hotel.", "hint": "uiteindelijk", "a": "eventually", "full": "After three hours we eventually found the hotel."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik ben gestopt met roken.", "a": "I gave up smoking."},
+  {"q": "Iedereen maakt fouten.", "a": "Everybody makes mistakes."},
+  {"q": "Het wordt donker.", "a": "It's getting dark."},
+  {"q": "Ik snap het niet.", "a": "I don't get it."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

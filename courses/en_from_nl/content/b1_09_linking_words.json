@@ -1,0 +1,79 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 9, "total_in_level": 10,
+ "title": "Verbindingswoorden",
+ "subtitle": "although, however, because of, so that, in order to, while en meer: zinnen en ideeën verbinden",
+ "footer": "Language Learning · B1 · Grammatica · Verbindingswoorden",
+ "next": "Volgende: B1 · pdf 10 — Woordenschat en vaste uitdrukkingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "tegenstellingen uitdrukken met <b>but, although, however, despite</b>",
+  "oorzaak en gevolg uitdrukken met <b>because, because of, so, that's why</b>",
+  "een doel uitdrukken met <b>to, in order to, so that</b>",
+  "een tekst ordenen met <b>firstly, then, finally</b>"]},
+
+ {"type": "h1", "text": "1. Tegenstelling"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Woord", "Voorbeeld", "Plek en vorm"], "rows": [
+  ["but", "It was cold, but we went out.", "tussen twee zinnen"],
+  ["although / even though", "Although it was cold, we went out.", "+ zin (onderwerp + werkwoord)"],
+  ["however", "It was cold. However, we went out.", "begin van een nieuwe zin, met komma"],
+  ["despite / in spite of", "Despite the cold, we went out.", "+ zelfstandig naamwoord of -ing"],
+  ["while / whereas", "I like tea, while my wife prefers coffee.", "contrast tussen twee dingen"]]},
+ {"type": "callout", "kind": "warn", "title": "despite + naamwoord, although + zin", "text": "<i>Despite <b>the rain</b></i> of <i>Despite <b>being tired</b></i>, maar <i>Although <b>it was raining</b></i>. Nooit <i>despite it was raining</i> en nooit <i>despite of</i>."},
+
+ {"type": "h1", "text": "2. Oorzaak en gevolg"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Woord", "Voorbeeld", "Plek en vorm"], "rows": [
+  ["because", "I stayed at home because I was ill.", "+ zin"],
+  ["because of", "I stayed at home because of the rain.", "+ zelfstandig naamwoord"],
+  ["as / since", "As it was late, we took a taxi.", "+ zin, vaak vooraan"],
+  ["so", "It was late, so we took a taxi.", "gevolg, met komma ervoor"],
+  ["that's why", "I was ill. That's why I didn't come.", "begin van een nieuwe zin"],
+  ["therefore", "Prices rose. Therefore, sales fell.", "formeel, nieuwe zin"]]},
+ {"type": "callout", "kind": "dutch", "title": "omdat ... ben = because I am", "text": "Na <i>omdat</i> zet het Nederlands het werkwoord achteraan: <i>omdat ik ziek <b>was</b></i>. Het Engels houdt de gewone volgorde: <b>because I was ill</b>. Dat geldt na alle verbindingswoorden."},
+
+ {"type": "h1", "text": "3. Doel"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["to", "I went to the shop to buy milk.", "Ik ging naar de winkel om melk te kopen."],
+  ["in order to", "We left early in order to avoid the traffic.", "We vertrokken vroeg om de files te vermijden."],
+  ["so that", "I'll write it down so that I don't forget.", "Ik schrijf het op zodat ik het niet vergeet."],
+  ["for + naamwoord", "We went out for a walk.", "We gingen een wandeling maken."]]},
+ {"type": "callout", "kind": "warn", "title": "om te = to, niet for to", "text": "<i>om melk te kopen</i> = <b>to buy milk</b>. Nooit <i>for to buy</i> of <i>for buying</i> als je een doel bedoelt."},
+
+ {"type": "h1", "text": "4. Toevoegen en ordenen"},
+ {"type": "verbpairs", "title": "Woorden om een tekst te ordenen", "items": [
+  ["firstly", "ten eerste"], ["secondly", "ten tweede"], ["then", "dan, daarna"], ["after that", "daarna"],
+  ["finally", "ten slotte"], ["also", "ook"], ["in addition", "bovendien"], ["moreover", "bovendien (formeel)"],
+  ["for example", "bijvoorbeeld"], ["such as", "zoals"], ["in conclusion", "tot slot"], ["on the other hand", "aan de andere kant"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Despite it was raining, we played.", "Although it was raining, we played.", "Met een zin: although."],
+  ["Despite of the rain, we played.", "Despite the rain, we played.", "despite zonder of."],
+  ["I didn't go because the rain.", "I didn't go because of the rain.", "Met een naamwoord: because of."],
+  ["I went there for to see her.", "I went there to see her.", "Doel: to."],
+  ["It was late, however we stayed.", "It was late. However, we stayed.", "however begint een nieuwe zin."],
+  ["Although it was cold, but we swam.", "Although it was cold, we swam.", "although en but niet samen."],
+  ["Because I was ill I not came.", "Because I was ill, I didn't come.", "Gewone volgorde, met didn't."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste verbindingswoord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "______ it was raining, we went for a walk.", "hint": "hoewel", "a": "Although", "full": "Although it was raining, we went for a walk."},
+  {"q": "______ the rain, we went for a walk.", "hint": "ondanks", "a": "Despite", "full": "Despite the rain, we went for a walk."},
+  {"q": "The flight was cancelled ______ the storm.", "hint": "vanwege", "a": "because of", "full": "The flight was cancelled because of the storm."},
+  {"q": "I was hungry, ______ I made a sandwich.", "hint": "dus", "a": "so", "full": "I was hungry, so I made a sandwich."},
+  {"q": "She saved money ______ buy a car.", "hint": "om te", "a": "to", "full": "She saved money to buy a car."},
+  {"q": "Speak slowly ______ everybody can understand.", "hint": "zodat", "a": "so that", "full": "Speak slowly so that everybody can understand."},
+  {"q": "The hotel was nice. ______, the food was terrible.", "hint": "echter", "a": "However", "full": "The hotel was nice. However, the food was terrible."},
+  {"q": "I like summer, ______ my sister prefers winter.", "hint": "terwijl (contrast)", "a": "while", "full": "I like summer, while my sister prefers winter."},
+  {"q": "We visited many cities, ______ Rome and Florence.", "hint": "zoals", "a": "such as", "full": "We visited many cities, such as Rome and Florence."},
+  {"q": "______ it was late, we took a taxi.", "hint": "omdat (vooraan)", "a": "As", "full": "As it was late, we took a taxi."},
+  {"q": "I missed the bus. ______ why I was late.", "hint": "daarom", "a": "That's", "full": "I missed the bus. That's why I was late."},
+  {"q": "In ______, I think it was a good decision.", "hint": "tot slot", "a": "conclusion", "full": "In conclusion, I think it was a good decision."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hoewel het koud was, gingen we zwemmen.", "a": "Although it was cold, we went swimming."},
+  {"q": "Ik bleef thuis omdat ik ziek was.", "a": "I stayed at home because I was ill."},
+  {"q": "Ik ging naar de winkel om brood te kopen.", "a": "I went to the shop to buy bread."},
+  {"q": "Ondanks de regen speelden we buiten.", "a": "Despite the rain, we played outside."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

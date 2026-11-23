@@ -295,5 +295,27 @@
   "subtitle": "must, might, could en can't voor nu en voor het verleden, en should have",
   "content": "b1_08_modals_deduction.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B1_09_Verbindingswoorden",
+  "file": "B1_09_Verbindingswoorden.pdf",
+  "level": "B1",
+  "number": 9,
+  "section": "Grammatica",
+  "title": "Verbindingswoorden",
+  "subtitle": "although, however, because of, so that, in order to, while en meer: zinnen en ideeën verbinden",
+  "content": "b1_09_linking_words.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "B1_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "B1",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Basis-phrasal verbs, make of do, de vele betekenissen van get, onderwijs, media en milieu",
+  "content": "b1_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
