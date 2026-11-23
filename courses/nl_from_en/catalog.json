@@ -20,5 +20,16 @@
   "subtitle": "to be and to have: introducing yourself, age, origin and job, questions and negatives",
   "content": "a1_02_zijn_hebben.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_03_The_present_tense",
+  "file": "A1_03_The_present_tense.pdf",
+  "level": "A1",
+  "number": 3,
+  "section": "Verbs",
+  "title": "The present tense",
+  "subtitle": "Stem + t, the spelling changes, jij after the verb, and one tense for 'I work' and 'I'm working'",
+  "content": "a1_03_present_tense.json",
+  "exercise_count": 12
  }
 ]
