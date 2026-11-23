@@ -1,0 +1,337 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "er (2)",
+  "subtitle": "Los usos de er juntos, er en las preguntas, er con la pasiva y el lugar de er en una frase larga",
+  "footer": "Language Learning · B2 · Gramática · er (2)",
+  "next": "Siguiente: B2 · pdf 3 — Las partículas modales"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "combinar dos usos de er en una frase (<i>Er liggen er drie</i>)",
+    "usar er en las preguntas: <i>Wat is er? Wie is er?</i>",
+    "usar er con la pasiva y con sujetos indeterminados",
+    "poner er en su sitio en las frases largas"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Un repaso rápido"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.8,
+    5.6
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "1. hay / sujeto nuevo",
+     "Er staat een man voor de deur.",
+     "Hay un hombre en la puerta."
+    ],
+    [
+     "2. lugar (allí)",
+     "Ik ben er nooit geweest.",
+     "Nunca he estado allí."
+    ],
+    [
+     "3. con un número",
+     "Ik heb er drie.",
+     "Tengo tres."
+    ],
+    [
+     "4. + preposición",
+     "Ik denk er niet aan.",
+     "No pienso en ello."
+    ],
+    [
+     "5. pasiva",
+     "Er wordt gedanst.",
+     "Se baila. Hay gente bailando."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Dos usos a la vez"
+  },
+  {
+   "type": "p",
+   "text": "A veces una frase necesita er dos veces. Aparecen dos er cuando el primero es el de <i>hay</i> y el segundo va con un número: <i><b>Er</b> liggen <b>er</b> drie op tafel</i> (hay tres en la mesa). En casi todas las demás combinaciones, <b>un solo er hace dos trabajos</b>: <i>Ik heb er drie van gekocht</i> (he comprado tres; er = con un número + con van). El español dice simplemente <i>tres</i>, sin nada: por eso a los hispanohablantes se les olvida este er."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.0,
+    5.6,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Usos"
+   ],
+   "rows": [
+    [
+     "Hoeveel boeken liggen er? Er liggen er drie.",
+     "Hay tres.",
+     "1 + 3"
+    ],
+    [
+     "Ik heb er twee van.",
+     "Tengo dos.",
+     "3 + 4"
+    ],
+    [
+     "Woon je in Leiden? Ja, ik woon er al jaren.",
+     "Vivo allí desde hace años.",
+     "2"
+    ],
+    [
+     "In Leiden wordt er veel gefietst.",
+     "En Leiden se va mucho en bici.",
+     "5"
+    ],
+    [
+     "Ik ben er gisteren mee begonnen.",
+     "Empecé con ello ayer.",
+     "4"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. er en las preguntas y con sujetos indeterminados"
+  },
+  {
+   "type": "p",
+   "text": "Cuando el sujeto es <b>wat</b>, <b>wie</b> o un sustantivo indeterminado (<i>een man, iemand, niemand, veel mensen</i>), el neerlandés suele añadir er: <i>Wat is <b>er</b>? Wie is <b>er</b> geweest? Is <b>er</b> iemand thuis? Er komen veel mensen.</i> Con un sujeto determinado no hay er: <i>De man staat voor de deur.</i> Es la misma diferencia que en español entre <i>hay un hombre</i> y <i>el hombre está</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Wat is er? = ¿Qué pasa?",
+   "text": "<b>Wat is er?</b> significa <i>¿Qué pasa? ¿Qué te pasa?</i> <b>Wat is er gebeurd?</b> = ¿Qué ha pasado? <b>Is er iets?</b> = ¿Pasa algo? Estas preguntas cortas son muy frecuentes, y el español no tiene nada parecido a su er."
+  },
+  {
+   "type": "h1",
+   "text": "4. ¿Dónde va er?"
+  },
+  {
+   "type": "p",
+   "text": "En medio de la frase, er va <b>pronto</b>: después del verbo conjugado y del sujeto, y después de los pronombres cortos, pero antes de las expresiones de tiempo, de niet y de casi todo lo demás. La preposición de una forma con er va lo más atrás posible, justo antes de los verbos del final."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.6,
+    9.4
+   ],
+   "head": [
+    "Posición",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "tras verbo + sujeto",
+     "Gisteren heb ik er niet aan gedacht."
+    ],
+    [
+     "tras los pronombres cortos",
+     "Ik heb het er met hem over gehad."
+    ],
+    [
+     "subordinada",
+     "... omdat ik er niet aan gedacht had."
+    ],
+    [
+     "la preposición al final, antes de los verbos",
+     "Ik ben er al een week mee bezig."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Sin er para las personas",
+   "text": "Como en B1 · pdf 2: er + preposición es solo para cosas e ideas. Para personas: <i>Ik denk vaak aan <b>haar</b></i> (pienso a menudo en ella), <i>Ik heb met <b>hem</b> gesproken</i> (he hablado con él). Y sin er para un lugar concreto que se acentúa: <i><b>Daar</b> woon ik</i> (allí vivo yo)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Er liggen drie.",
+     "Er liggen er drie.",
+     "Un número sin sustantivo necesita su propio er."
+    ],
+    [
+     "Wat is gebeurd?",
+     "Wat is er gebeurd?",
+     "Sujeto wat: añade er."
+    ],
+    [
+     "Is iemand thuis?",
+     "Is er iemand thuis?",
+     "Sujeto indeterminado: añade er."
+    ],
+    [
+     "Ik heb niet er aan gedacht.",
+     "Ik heb er niet aan gedacht.",
+     "er va antes de niet."
+    ],
+    [
+     "Ik ben bezig er al een week mee.",
+     "Ik ben er al een week mee bezig.",
+     "er pronto, la preposición tarde."
+    ],
+    [
+     "Ik heb met het gewerkt.",
+     "Ik heb ermee gewerkt.",
+     "«ello» tras met: ermee."
+    ],
+    [
+     "Ik heb er vaak met haar over gepraat met.",
+     "Ik heb er vaak met haar over gepraat.",
+     "Basta con una preposición."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con er o con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Hoeveel stoelen staan er? Er staan ______ vier.",
+     "hint": "con un número",
+     "a": "er",
+     "full": "Hoeveel stoelen staan er? Er staan er vier."
+    },
+    {
+     "q": "Wat is ______ gebeurd?",
+     "hint": "sujeto wat",
+     "a": "er",
+     "full": "Wat is er gebeurd?"
+    },
+    {
+     "q": "Is ______ iemand thuis?",
+     "hint": "sujeto indeterminado",
+     "a": "er",
+     "full": "Is er iemand thuis?"
+    },
+    {
+     "q": "Ik heb ______ niet aan gedacht.",
+     "hint": "er + aan",
+     "a": "er",
+     "full": "Ik heb er niet aan gedacht."
+    },
+    {
+     "q": "Ik ben er al een week ______ bezig.",
+     "hint": "con ello",
+     "a": "mee",
+     "full": "Ik ben er al een week mee bezig."
+    },
+    {
+     "q": "Ik heb er twee ______ gekocht.",
+     "hint": "de ellos",
+     "a": "van",
+     "full": "Ik heb er twee van gekocht."
+    },
+    {
+     "q": "In Nederland wordt ______ veel gefietst.",
+     "hint": "pasiva",
+     "a": "er",
+     "full": "In Nederland wordt er veel gefietst."
+    },
+    {
+     "q": "Ken je Gent? Ik ben ______ vorig jaar geweest.",
+     "hint": "lugar",
+     "a": "er",
+     "full": "Ken je Gent? Ik ben er vorig jaar geweest."
+    },
+    {
+     "q": "Wie is ______ geweest? De postbode.",
+     "hint": "sujeto wie",
+     "a": "er",
+     "full": "Wie is er geweest? De postbode."
+    },
+    {
+     "q": "omdat ik er nog nooit ______ gehoord had",
+     "hint": "de ello",
+     "a": "van",
+     "full": "omdat ik er nog nooit van gehoord had"
+    },
+    {
+     "q": "Ik heb het ______ met mijn baas over gehad.",
+     "hint": "er",
+     "a": "er",
+     "full": "Ik heb het er met mijn baas over gehad."
+    },
+    {
+     "q": "Wat ______ er? Je kijkt zo boos.",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Wat is er? Je kijkt zo boos."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Qué ha pasado?",
+     "a": "Wat is er gebeurd?"
+    },
+    {
+     "q": "¿Hay alguien en casa?",
+     "a": "Is er iemand thuis?"
+    },
+    {
+     "q": "Hay tres en la mesa.",
+     "a": "Er liggen er drie op tafel."
+    },
+    {
+     "q": "No pensé en ello.",
+     "a": "Ik heb er niet aan gedacht."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -328,5 +328,16 @@
   "subtitle": "El pluscuamperfecto (had gedaan, was gegaan) y todos los tiempos del pasado juntos en una historia",
   "content": "b2_01_tenses_story.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_02_er_2",
+  "file": "B2_02_er_2.pdf",
+  "level": "B2",
+  "number": 2,
+  "section": "Gramática",
+  "title": "er (2)",
+  "subtitle": "Los usos de er juntos, er en las preguntas, er con la pasiva y el lugar de er en una frase larga",
+  "content": "b2_02_er_2.json",
+  "exercise_count": 12
  }
 ]
