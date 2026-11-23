@@ -1,0 +1,357 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Formas formales fijas",
+  "subtitle": "El subjuntivo (Leve de koning, Het zij zo), los antiguos casos (ten slotte, ter plaatse) y wiens, wier, diens",
+  "footer": "Language Learning · C1 · Gramática · Formas formales fijas",
+  "next": "Siguiente: C1 · pdf 7 — Colocaciones y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar el antiguo subjuntivo en expresiones fijas (<i>Leve de koning!</i>)",
+    "usar los antiguos casos en <b>ten, ter</b> y <b>des</b>",
+    "usar <b>wiens, wier</b> y <b>diens</b> en la escritura formal",
+    "entender estas formas en textos oficiales y en literatura"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El subjuntivo"
+  },
+  {
+   "type": "p",
+   "text": "Al contrario que el español, el neerlandés moderno ya no tiene un subjuntivo vivo: donde tú usarías subjuntivo (<i>quiero que vengas, cuando llegues</i>), el neerlandés usa el indicativo normal. Solo sobrevive en expresiones fijas, deseos e instrucciones. La forma es la raíz + <b>-e</b>: <i>leve, zij, moge, kome, neme</i>. Son las mismas expresiones que en español: <i>¡Viva el rey!, Así sea, Dios le bendiga</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    5.8,
+    5.0
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Uso"
+   ],
+   "rows": [
+    [
+     "Leve de koning!",
+     "¡Viva el rey!",
+     "celebración"
+    ],
+    [
+     "Lang leve de liefde!",
+     "¡Viva el amor!",
+     "celebración"
+    ],
+    [
+     "Het zij zo.",
+     "Así sea.",
+     "aceptación"
+    ],
+    [
+     "God zegene u.",
+     "Dios le bendiga.",
+     "religioso"
+    ],
+    [
+     "Moge het je goed gaan.",
+     "Que te vaya bien.",
+     "deseo, muy formal"
+    ],
+    [
+     "Men neme 200 gram bloem.",
+     "Tómense 200 gramos de harina.",
+     "recetas antiguas"
+    ],
+    [
+     "Zij het ...",
+     "si bien ..., aunque ...",
+     "concesión: Hij won, zij het nipt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "zij het = si bien",
+   "text": "<b>zij het</b> es la más útil de estas formas en la escritura moderna: <i>De resultaten zijn positief, <b>zij het</b> minder goed dan verwacht.</i> (Los resultados son positivos, si bien peores de lo esperado.)"
+  },
+  {
+   "type": "h1",
+   "text": "2. Los antiguos casos"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés antiguo tenía casos, como el alemán (y como el latín, del que viene el español). Siguen vivos en expresiones fijas con <b>ten</b> (= te + den), <b>ter</b> (= te + der) y <b>des</b>. Úsalas como expresiones enteras; no inventes otras nuevas."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones fijas con casos antiguos",
+   "items": [
+    [
+     "ten slotte",
+     "por último, finalmente"
+    ],
+    [
+     "ten eerste",
+     "en primer lugar"
+    ],
+    [
+     "ten minste",
+     "por lo menos"
+    ],
+    [
+     "ten behoeve van",
+     "en beneficio de"
+    ],
+    [
+     "ter plaatse",
+     "in situ, en el lugar"
+    ],
+    [
+     "ter wille van",
+     "por el bien de"
+    ],
+    [
+     "ter informatie",
+     "para su información"
+    ],
+    [
+     "ter gelegenheid van",
+     "con motivo de"
+    ],
+    [
+     "des te beter",
+     "tanto mejor"
+    ],
+    [
+     "'s morgens",
+     "por la mañana"
+    ],
+    [
+     "te allen tijde",
+     "en todo momento"
+    ],
+    [
+     "ten tijde van",
+     "en el momento de"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "¿ten slotte o tenslotte?",
+   "text": "<b>ten slotte</b> (dos palabras) significa <i>por último, finalmente</i>: <i>Ten slotte wil ik iedereen bedanken.</i> <b>tenslotte</b> (una palabra) significa <i>al fin y al cabo</i>: <i>Hij is tenslotte mijn broer.</i> La misma pareja: <b>ten minste</b> (por lo menos, con un número) y <b>tenminste</b> (al menos, como corrección)."
+  },
+  {
+   "type": "h1",
+   "text": "3. wiens, wier, diens"
+  },
+  {
+   "type": "p",
+   "text": "En la escritura formal, <b>wiens</b> (cuyo, de un hombre) y <b>wier</b> (cuyo, de una mujer o de varios) sustituyen a <i>van wie</i> en las oraciones de relativo: <i>de man <b>wiens</b> auto gestolen is</i> (el hombre cuyo coche ha sido robado), <i>de vrouw <b>wier</b> zoon arts is</i> (la mujer cuyo hijo es médico). ¡Cuidado! El español <i>cuyo/cuya</i> concuerda con la cosa poseída; <b>wiens/wier</b> concuerda con el <b>poseedor</b>. <b>diens</b> significa <i>su</i> referido al último hombre mencionado, para evitar confusiones: <i>Jan sprak met Piet en <b>diens</b> vrouw</i> (la mujer de Piet, no la de Jan)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.0,
+    4.6
+   ],
+   "head": [
+    "Formal",
+    "Cotidiano",
+    "Español"
+   ],
+   "rows": [
+    [
+     "de man wiens auto gestolen is",
+     "de man van wie de auto gestolen is",
+     "el hombre cuyo coche"
+    ],
+    [
+     "de vrouw wier zoon arts is",
+     "de vrouw van wie de zoon arts is",
+     "la mujer cuyo hijo"
+    ],
+    [
+     "de buren wier hond blaft",
+     "de buren van wie de hond blaft",
+     "los vecinos cuyo perro"
+    ],
+    [
+     "Jan en diens vrouw",
+     "Jan en zijn vrouw",
+     "Jan y su mujer"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Lang leeft de koning!",
+     "Lang leve de koning!",
+     "Subjuntivo fijo: leve."
+    ],
+    [
+     "Het is zo zijn.",
+     "Het zij zo.",
+     "Expresión fija: het zij zo."
+    ],
+    [
+     "Tenslotte wil ik iedereen bedanken.",
+     "Ten slotte wil ik iedereen bedanken.",
+     "Por último: ten slotte, dos palabras."
+    ],
+    [
+     "de vrouw wiens zoon arts is",
+     "de vrouw wier zoon arts is",
+     "Poseedora femenina: wier (aunque zoon sea masculino)."
+    ],
+    [
+     "de man die zijn auto gestolen is",
+     "de man wiens auto gestolen is",
+     "Cuyo: wiens o van wie, no «que su»."
+    ],
+    [
+     "ter plaats",
+     "ter plaatse",
+     "Fija: ter plaatse."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Lang ______ de koningin!",
+     "hint": "viva",
+     "a": "leve",
+     "full": "Lang leve de koningin!"
+    },
+    {
+     "q": "Het ______ zo. We kunnen er niets aan doen.",
+     "hint": "así sea",
+     "a": "zij",
+     "full": "Het zij zo. We kunnen er niets aan doen."
+    },
+    {
+     "q": "Het project was een succes, ______ het met enige vertraging.",
+     "hint": "si bien",
+     "a": "zij",
+     "full": "Het project was een succes, zij het met enige vertraging."
+    },
+    {
+     "q": "Ten ______ wil ik iedereen bedanken.",
+     "hint": "por último",
+     "a": "slotte",
+     "full": "Ten slotte wil ik iedereen bedanken."
+    },
+    {
+     "q": "Hij is ______ mijn broer, dus ik help hem.",
+     "hint": "al fin y al cabo",
+     "a": "tenslotte",
+     "full": "Hij is tenslotte mijn broer, dus ik help hem."
+    },
+    {
+     "q": "De politie was snel ter ______.",
+     "hint": "in situ",
+     "a": "plaatse",
+     "full": "De politie was snel ter plaatse."
+    },
+    {
+     "q": "Kom je ook? Des te ______!",
+     "hint": "tanto mejor",
+     "a": "beter",
+     "full": "Kom je ook? Des te beter!"
+    },
+    {
+     "q": "Dat is de man ______ hond altijd blaft.",
+     "hint": "cuyo, de un hombre",
+     "a": "wiens",
+     "full": "Dat is de man wiens hond altijd blaft."
+    },
+    {
+     "q": "De schrijfster, ______ boek een prijs won, gaf een lezing.",
+     "hint": "cuyo, de una mujer",
+     "a": "wier",
+     "full": "De schrijfster, wier boek een prijs won, gaf een lezing."
+    },
+    {
+     "q": "U moet uw paspoort te allen ______ bij u hebben.",
+     "hint": "en todo momento",
+     "a": "tijde",
+     "full": "U moet uw paspoort te allen tijde bij u hebben."
+    },
+    {
+     "q": "Ter ______ stuur ik u het verslag.",
+     "hint": "para su información",
+     "a": "informatie",
+     "full": "Ter informatie stuur ik u het verslag."
+    },
+    {
+     "q": "Ze deed het ter ______ van haar kinderen.",
+     "hint": "por el bien de",
+     "a": "wille",
+     "full": "Ze deed het ter wille van haar kinderen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¡Viva el rey!",
+     "a": "Leve de koning!"
+    },
+    {
+     "q": "Así sea.",
+     "a": "Het zij zo."
+    },
+    {
+     "q": "Por último, quiero dar las gracias a todos.",
+     "a": "Ten slotte wil ik iedereen bedanken."
+    },
+    {
+     "q": "Al fin y al cabo, es mi hermano.",
+     "a": "Hij is tenslotte mijn broer."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
