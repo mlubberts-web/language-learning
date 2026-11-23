@@ -31,5 +31,16 @@
   "subtitle": "Raíz + t, los cambios de ortografía, jij detrás del verbo, y un solo tiempo para 'trabajo' y 'estoy trabajando'",
   "content": "a1_03_present_tense.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_04_de_y_het",
+  "file": "A1_04_de_y_het.pdf",
+  "level": "A1",
+  "number": 4,
+  "section": "Gramática",
+  "title": "de y het",
+  "subtitle": "Los dos artículos, el plural en -en y -s, y los diminutivos en -je",
+  "content": "a1_04_de_het.json",
+  "exercise_count": 12
  }
 ]

@@ -1,0 +1,460 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 9,
+  "title": "de y het",
+  "subtitle": "Los dos artículos, el plural en -en y -s, y los diminutivos en -je",
+  "footer": "Language Learning · A1 · Gramática · de y het",
+  "next": "Siguiente: A1 · pdf 5 — El orden de las palabras y las preguntas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre <b>de</b> y <b>het</b>, y usar <b>een</b>",
+    "reconocer los grupos de sustantivos que llevan het",
+    "formar el plural con <b>-en</b> o <b>-s</b>, con la ortografía correcta",
+    "formar y usar diminutivos en <b>-je</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. de, het y een"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés tiene dos artículos determinados: <b>de</b> y <b>het</b>. Unas dos terceras partes de los sustantivos llevan <b>de</b>. No hay una regla fiable para el resto, así que aprende cada sustantivo con su artículo: no <i>huis</i>, sino <b>het huis</b>. El artículo indeterminado es siempre <b>een</b> (un, una), y todos los plurales llevan <b>de</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.4,
+    4.4,
+    4.2
+   ],
+   "head": [
+    "",
+    "palabra de",
+    "palabra het",
+    "Plural"
+   ],
+   "rows": [
+    [
+     "el, la",
+     "de man",
+     "het huis",
+     "de mannen, de huizen"
+    ],
+    [
+     "un, una",
+     "een man",
+     "een huis",
+     "mannen, huizen (sin artículo)"
+    ],
+    [
+     "este, esta",
+     "deze man",
+     "dit huis",
+     "deze mannen"
+    ],
+    [
+     "ese, esa, aquel",
+     "die man",
+     "dat huis",
+     "die huizen"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Aprende siempre el artículo",
+   "text": "Apunta cada sustantivo nuevo con de o het: <b>de tafel, het boek, de stoel, het raam</b>. Y no te fíes del género español: <i>la casa</i> es <b>het huis</b>, <i>el libro</i> es <b>het boek</b>, <i>la mesa</i> es <b>de tafel</b>. El masculino y el femenino del neerlandés antiguo se han unido en <b>de</b>; <b>het</b> es el antiguo neutro, que el español no tiene. Necesitarás el artículo para los adjetivos (<i>het grote huis</i>, pdf 8) y para <i>deze / dit</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Qué sustantivos llevan het?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    10.6
+   ],
+   "head": [
+    "Grupo",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "diminutivos (-je)",
+     "het huisje, het meisje, het kopje"
+    ],
+    [
+     "verbos usados como sustantivos",
+     "het eten, het leven, het lezen"
+    ],
+    [
+     "idiomas",
+     "het Nederlands, het Engels"
+    ],
+    [
+     "casi todas las palabras con ge-, be-, ver-, ont- (átonas)",
+     "het gesprek, het begin, het verhaal, het ontbijt"
+    ],
+    [
+     "casi todas las palabras en -ment, -um, -isme",
+     "het moment, het museum, het toerisme"
+    ],
+    [
+     "metales y materiales",
+     "het goud, het hout, het papier"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿Y de?",
+   "text": "Las personas y los animales con sexo llevan <b>de</b> (<i>de man, de vrouw, de leraar</i>), y también las palabras en <b>-heid, -ing, -tie, -teit</b> (<i>de vrijheid, de vergadering, de informatie, de universiteit</i>). En caso de duda, di de: acertarás dos de cada tres veces."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Sustantivos de la casa y la ciudad",
+   "items": [
+    [
+     "het huis",
+     "casa"
+    ],
+    [
+     "de kamer",
+     "habitación"
+    ],
+    [
+     "de tafel",
+     "mesa"
+    ],
+    [
+     "de stoel",
+     "silla"
+    ],
+    [
+     "het raam",
+     "ventana"
+    ],
+    [
+     "de deur",
+     "puerta"
+    ],
+    [
+     "het bed",
+     "cama"
+    ],
+    [
+     "de keuken",
+     "cocina"
+    ],
+    [
+     "de straat",
+     "calle"
+    ],
+    [
+     "het station",
+     "estación"
+    ],
+    [
+     "de winkel",
+     "tienda"
+    ],
+    [
+     "het museum",
+     "museo"
+    ],
+    [
+     "de auto",
+     "coche"
+    ],
+    [
+     "het boek",
+     "libro"
+    ],
+    [
+     "de telefoon",
+     "teléfono"
+    ],
+    [
+     "het meisje",
+     "chica, niña"
+    ],
+    [
+     "de jongen",
+     "chico, niño"
+    ],
+    [
+     "het kind",
+     "niño, hijo"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El plural"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.4,
+    5.6
+   ],
+   "head": [
+    "Regla",
+    "Ejemplos",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "casi todos: + en",
+     "boek → boeken, deur → deuren",
+     "la regla de ortografía del pdf 1"
+    ],
+    [
+     "vocal larga: una letra",
+     "boom → bomen, straat → straten",
+     "sílaba abierta"
+    ],
+    [
+     "vocal corta: consonante doble",
+     "bus → bussen, bed → bedden",
+     "sílaba cerrada"
+    ],
+    [
+     "f → v, s → z",
+     "brief → brieven, huis → huizen",
+     "pero: fiets → fietsen"
+    ],
+    [
+     "-el, -em, -en, -er, -je: + s",
+     "tafel → tafels, jongen → jongens",
+     "kamer → kamers"
+    ],
+    [
+     "a, i, o, u, y al final: + 's",
+     "auto → auto's, foto → foto's",
+     "el apóstrofo mantiene larga la vocal"
+    ],
+    [
+     "irregular",
+     "kind → kinderen, ei → eieren",
+     "stad → steden, schip → schepen"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Los diminutivos"
+  },
+  {
+   "type": "p",
+   "text": "Como el español con <i>-ito</i> (<i>un cafecito</i>), el neerlandés usa diminutivos todo el tiempo, no solo para cosas pequeñas sino también para sonar amable: <i>een kopje koffie, een biertje, even een momentje</i>. Un diminutivo lleva siempre <b>het</b>, y su plural termina en <b>-s</b>: <i>het huisje, de huisjes</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    10.6
+   ],
+   "head": [
+    "Terminación",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "casi todos: -je",
+     "het huis → het huisje, het boek → het boekje"
+    ],
+    [
+     "tras vocal larga, l, n, r, w: -tje",
+     "de stoel → het stoeltje, de auto → het autootje"
+    ],
+    [
+     "tras m: -pje",
+     "de boom → het boompje, de film → het filmpje"
+    ],
+    [
+     "vocal corta + l, m, n, ng, r: -etje",
+     "de bal → het balletje, de ring → het ringetje"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "de huis",
+     "het huis",
+     "huis es una palabra het."
+    ],
+    [
+     "het huizen",
+     "de huizen",
+     "Todos los plurales llevan de."
+    ],
+    [
+     "de meisje",
+     "het meisje",
+     "Los diminutivos siempre llevan het."
+    ],
+    [
+     "de boomen",
+     "de bomen",
+     "Sílaba abierta: una o."
+    ],
+    [
+     "de beden",
+     "de bedden",
+     "Vocal corta: consonante doble."
+    ],
+    [
+     "de autos",
+     "de auto's",
+     "Tras vocal: apóstrofo y s."
+    ],
+    [
+     "de kinds",
+     "de kinderen",
+     "kind tiene un plural irregular."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con de o het, o con el plural. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ huis is groot.",
+     "hint": "de o het",
+     "a": "het",
+     "full": "Het huis is groot."
+    },
+    {
+     "q": "______ tafel is van hout.",
+     "hint": "de o het",
+     "a": "de",
+     "full": "De tafel is van hout."
+    },
+    {
+     "q": "______ meisje heet Anna.",
+     "hint": "de o het",
+     "a": "het",
+     "full": "Het meisje heet Anna."
+    },
+    {
+     "q": "______ boeken liggen op tafel.",
+     "hint": "de o het",
+     "a": "de",
+     "full": "De boeken liggen op tafel."
+    },
+    {
+     "q": "Ik heb twee ______.",
+     "hint": "plural de het kind",
+     "a": "kinderen",
+     "full": "Ik heb twee kinderen."
+    },
+    {
+     "q": "In de straat staan veel ______.",
+     "hint": "plural de de boom",
+     "a": "bomen",
+     "full": "In de straat staan veel bomen."
+    },
+    {
+     "q": "Er rijden drie ______.",
+     "hint": "plural de de bus",
+     "a": "bussen",
+     "full": "Er rijden drie bussen."
+    },
+    {
+     "q": "Ik maak veel ______.",
+     "hint": "plural de de foto",
+     "a": "foto's",
+     "full": "Ik maak veel foto's."
+    },
+    {
+     "q": "Wil je een ______ koffie?",
+     "hint": "diminutivo de de kop",
+     "a": "kopje",
+     "full": "Wil je een kopje koffie?"
+    },
+    {
+     "q": "Ik lees ______ boek.",
+     "hint": "este, palabra het",
+     "a": "dit",
+     "full": "Ik lees dit boek."
+    },
+    {
+     "q": "Wie is ______ man?",
+     "hint": "ese, palabra de",
+     "a": "die",
+     "full": "Wie is die man?"
+    },
+    {
+     "q": "We hebben drie ______.",
+     "hint": "plural de de tafel",
+     "a": "tafels",
+     "full": "We hebben drie tafels."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "La casa es grande.",
+     "a": "Het huis is groot."
+    },
+    {
+     "q": "Tengo dos hijos.",
+     "a": "Ik heb twee kinderen."
+    },
+    {
+     "q": "Este libro es nuevo.",
+     "a": "Dit boek is nieuw."
+    },
+    {
+     "q": "¿Quieres un cafecito?",
+     "a": "Wil je een kopje koffie?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
