@@ -1,0 +1,142 @@
+{
+ "title": "👨‍👩‍👧 Family",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Family members",
+   "level": "A2",
+   "items": [
+    [
+     "de grootouders",
+     "grandparents"
+    ],
+    [
+     "de kleinzoon",
+     "grandson"
+    ],
+    [
+     "de kleindochter",
+     "granddaughter"
+    ],
+    [
+     "de oom",
+     "uncle"
+    ],
+    [
+     "de tante",
+     "aunt"
+    ],
+    [
+     "de neef",
+     "cousin (male), nephew"
+    ],
+    [
+     "de nicht",
+     "cousin (female), niece"
+    ],
+    [
+     "de tweeling",
+     "twins"
+    ],
+    [
+     "het enig kind",
+     "only child"
+    ],
+    [
+     "de schoonouders",
+     "parents-in-law"
+    ],
+    [
+     "de zwager",
+     "brother-in-law"
+    ],
+    [
+     "de schoonzus",
+     "sister-in-law"
+    ],
+    [
+     "de stiefvader",
+     "stepfather"
+    ],
+    [
+     "de stiefmoeder",
+     "stepmother"
+    ],
+    [
+     "het familielid",
+     "relative"
+    ]
+   ]
+  },
+  {
+   "name": "Relationships and life events",
+   "level": "B1",
+   "items": [
+    [
+     "de bruiloft",
+     "wedding"
+    ],
+    [
+     "de verloving",
+     "engagement"
+    ],
+    [
+     "de huwelijksreis",
+     "honeymoon"
+    ],
+    [
+     "de scheiding",
+     "divorce"
+    ],
+    [
+     "trouwen",
+     "to get married"
+    ],
+    [
+     "scheiden",
+     "to get divorced"
+    ],
+    [
+     "zich verloven",
+     "to get engaged"
+    ],
+    [
+     "de vrijgezel",
+     "single person"
+    ],
+    [
+     "de weduwe",
+     "widow"
+    ],
+    [
+     "de weduwnaar",
+     "widower"
+    ],
+    [
+     "de zwangerschap",
+     "pregnancy"
+    ],
+    [
+     "bevallen",
+     "to give birth"
+    ],
+    [
+     "opvoeden",
+     "to bring up"
+    ],
+    [
+     "de jeugd",
+     "childhood, youth"
+    ],
+    [
+     "opgroeien",
+     "to grow up"
+    ],
+    [
+     "zorgen voor",
+     "to look after"
+    ]
+   ]
+  }
+ ]
+}

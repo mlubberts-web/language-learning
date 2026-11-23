@@ -1,0 +1,146 @@
+{
+ "title": "⚽ Sport",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Sport and matches",
+   "level": "A2",
+   "items": [
+    [
+     "de wedstrijd",
+     "match"
+    ],
+    [
+     "het team",
+     "team"
+    ],
+    [
+     "de speler",
+     "player"
+    ],
+    [
+     "de trainer",
+     "coach"
+    ],
+    [
+     "de scheidsrechter",
+     "referee"
+    ],
+    [
+     "het doelpunt",
+     "goal"
+    ],
+    [
+     "scoren",
+     "to score"
+    ],
+    [
+     "winnen",
+     "to win"
+    ],
+    [
+     "verliezen",
+     "to lose"
+    ],
+    [
+     "het gelijkspel",
+     "draw"
+    ],
+    [
+     "de supporter",
+     "fan"
+    ],
+    [
+     "het stadion",
+     "stadium"
+    ],
+    [
+     "het veld",
+     "pitch"
+    ],
+    [
+     "de baan",
+     "court, track"
+    ],
+    [
+     "het kampioenschap",
+     "championship"
+    ],
+    [
+     "de competitie",
+     "league"
+    ]
+   ]
+  },
+  {
+   "name": "Keeping fit",
+   "level": "B1",
+   "items": [
+    [
+     "de sportschool",
+     "gym"
+    ],
+    [
+     "sporten",
+     "to work out, to do sport"
+    ],
+    [
+     "opwarmen",
+     "to warm up"
+    ],
+    [
+     "rekken",
+     "to stretch"
+    ],
+    [
+     "hardlopen",
+     "running"
+    ],
+    [
+     "wielrennen",
+     "cycling (sport)"
+    ],
+    [
+     "zwemmen",
+     "swimming"
+    ],
+    [
+     "wandelen",
+     "walking, hiking"
+    ],
+    [
+     "fit worden",
+     "to get fit"
+    ],
+    [
+     "het uithoudingsvermogen",
+     "stamina"
+    ],
+    [
+     "de blessure",
+     "injury"
+    ],
+    [
+     "trainen",
+     "to train"
+    ],
+    [
+     "de race",
+     "race"
+    ],
+    [
+     "de marathon",
+     "marathon"
+    ],
+    [
+     "het record",
+     "record"
+    ],
+    [
+     "de medaille",
+     "medal"
+    ]
+   ]
+  }
+ ]
+}

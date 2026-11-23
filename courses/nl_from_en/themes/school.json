@@ -1,0 +1,146 @@
+{
+ "title": "🎓 School and studying",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "School and university",
+   "level": "B1",
+   "items": [
+    [
+     "de basisschool",
+     "primary school"
+    ],
+    [
+     "de middelbare school",
+     "secondary school"
+    ],
+    [
+     "de universiteit",
+     "university"
+    ],
+    [
+     "het vak",
+     "subject"
+    ],
+    [
+     "het rooster",
+     "timetable"
+    ],
+    [
+     "het huiswerk",
+     "homework"
+    ],
+    [
+     "het examen",
+     "exam"
+    ],
+    [
+     "het cijfer",
+     "mark, grade"
+    ],
+    [
+     "het diploma",
+     "degree, diploma"
+    ],
+    [
+     "het hoorcollege",
+     "lecture"
+    ],
+    [
+     "de begeleider",
+     "tutor"
+    ],
+    [
+     "de beurs",
+     "grant, scholarship"
+    ],
+    [
+     "het collegegeld",
+     "tuition fees"
+    ],
+    [
+     "de periode",
+     "term"
+    ],
+    [
+     "afstuderen",
+     "to graduate"
+    ],
+    [
+     "de studielening",
+     "student loan"
+    ]
+   ]
+  },
+  {
+   "name": "Studying",
+   "level": "B1",
+   "items": [
+    [
+     "leren voor een toets",
+     "to revise"
+    ],
+    [
+     "slagen",
+     "to pass"
+    ],
+    [
+     "zakken",
+     "to fail"
+    ],
+    [
+     "spieken",
+     "to cheat"
+    ],
+    [
+     "aantekeningen maken",
+     "to take notes"
+    ],
+    [
+     "het opstel",
+     "essay"
+    ],
+    [
+     "de opdracht",
+     "assignment"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "zich inschrijven",
+     "to enrol"
+    ],
+    [
+     "blokken",
+     "to cram"
+    ],
+    [
+     "het onderzoek",
+     "research"
+    ],
+    [
+     "de bibliotheek",
+     "library"
+    ],
+    [
+     "de boekhandel",
+     "bookshop"
+    ],
+    [
+     "bijwonen",
+     "to attend"
+    ],
+    [
+     "afwezig",
+     "absent"
+    ],
+    [
+     "uit het hoofd leren",
+     "to learn by heart"
+    ]
+   ]
+  }
+ ]
+}

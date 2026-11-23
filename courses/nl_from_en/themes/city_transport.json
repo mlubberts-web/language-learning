@@ -1,0 +1,146 @@
+{
+ "title": "🚇 Town and transport",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In town",
+   "level": "A2",
+   "items": [
+    [
+     "het gemeentehuis",
+     "town hall"
+    ],
+    [
+     "het plein",
+     "square"
+    ],
+    [
+     "de stoep",
+     "pavement"
+    ],
+    [
+     "het zebrapad",
+     "pedestrian crossing"
+    ],
+    [
+     "het verkeerslicht",
+     "traffic light"
+    ],
+    [
+     "de rotonde",
+     "roundabout"
+    ],
+    [
+     "het kruispunt",
+     "crossroads"
+    ],
+    [
+     "de hoek",
+     "corner"
+    ],
+    [
+     "de buurt",
+     "neighbourhood"
+    ],
+    [
+     "de buitenwijk",
+     "suburb"
+    ],
+    [
+     "het centrum",
+     "city centre"
+    ],
+    [
+     "de parkeerplaats",
+     "car park"
+    ],
+    [
+     "de bushalte",
+     "bus stop"
+    ],
+    [
+     "de metro",
+     "underground"
+    ],
+    [
+     "de tram",
+     "tram"
+    ],
+    [
+     "het fietspad",
+     "cycle lane"
+    ]
+   ]
+  },
+  {
+   "name": "Driving",
+   "level": "B1",
+   "items": [
+    [
+     "het rijbewijs",
+     "driving licence"
+    ],
+    [
+     "de snelweg",
+     "motorway"
+    ],
+    [
+     "de file",
+     "traffic jam"
+    ],
+    [
+     "de benzine",
+     "petrol"
+    ],
+    [
+     "het tankstation",
+     "petrol station"
+    ],
+    [
+     "de maximumsnelheid",
+     "speed limit"
+    ],
+    [
+     "de boete",
+     "fine"
+    ],
+    [
+     "inhalen",
+     "to overtake"
+    ],
+    [
+     "parkeren",
+     "to park"
+    ],
+    [
+     "remmen",
+     "to brake"
+    ],
+    [
+     "de kofferbak",
+     "boot"
+    ],
+    [
+     "de motorkap",
+     "bonnet"
+    ],
+    [
+     "de band",
+     "tyre"
+    ],
+    [
+     "de lekke band",
+     "flat tyre"
+    ],
+    [
+     "het stuur",
+     "steering wheel"
+    ],
+    [
+     "de veiligheidsgordel",
+     "seat belt"
+    ]
+   ]
+  }
+ ]
+}

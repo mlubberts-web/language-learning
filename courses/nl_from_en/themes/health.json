@@ -1,0 +1,146 @@
+{
+ "title": "🩺 Health",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "The body",
+   "level": "A2",
+   "items": [
+    [
+     "het hoofd",
+     "head"
+    ],
+    [
+     "de nek",
+     "neck"
+    ],
+    [
+     "de schouder",
+     "shoulder"
+    ],
+    [
+     "de arm",
+     "arm"
+    ],
+    [
+     "de elleboog",
+     "elbow"
+    ],
+    [
+     "de pols",
+     "wrist"
+    ],
+    [
+     "de hand",
+     "hand"
+    ],
+    [
+     "de vinger",
+     "finger"
+    ],
+    [
+     "de rug",
+     "back"
+    ],
+    [
+     "de buik",
+     "stomach, belly"
+    ],
+    [
+     "de knie",
+     "knee"
+    ],
+    [
+     "de enkel",
+     "ankle"
+    ],
+    [
+     "de voet",
+     "foot"
+    ],
+    [
+     "de keel",
+     "throat"
+    ],
+    [
+     "de borst",
+     "chest"
+    ],
+    [
+     "de huid",
+     "skin"
+    ]
+   ]
+  },
+  {
+   "name": "At the doctor's",
+   "level": "B1",
+   "items": [
+    [
+     "de huisarts",
+     "GP"
+    ],
+    [
+     "de afspraak",
+     "appointment"
+    ],
+    [
+     "het recept",
+     "prescription"
+    ],
+    [
+     "de apotheek",
+     "pharmacy"
+    ],
+    [
+     "de hoofdpijn",
+     "headache"
+    ],
+    [
+     "de keelpijn",
+     "sore throat"
+    ],
+    [
+     "de verkoudheid",
+     "cold"
+    ],
+    [
+     "de griep",
+     "flu"
+    ],
+    [
+     "de koorts",
+     "fever, temperature"
+    ],
+    [
+     "de hoest",
+     "cough"
+    ],
+    [
+     "de blessure",
+     "injury"
+    ],
+    [
+     "verstuiken",
+     "to sprain"
+    ],
+    [
+     "de pijnstiller",
+     "painkiller"
+    ],
+    [
+     "herstellen",
+     "to recover"
+    ],
+    [
+     "de spoedeisende hulp",
+     "A&E"
+    ],
+    [
+     "de allergie",
+     "allergy"
+    ]
+   ]
+  }
+ ]
+}

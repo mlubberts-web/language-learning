@@ -1,0 +1,150 @@
+{
+ "title": "🍽️ Food and cooking",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In the kitchen",
+   "level": "A2",
+   "items": [
+    [
+     "de koekenpan",
+     "frying pan"
+    ],
+    [
+     "de steelpan",
+     "saucepan"
+    ],
+    [
+     "de oven",
+     "oven"
+    ],
+    [
+     "het fornuis",
+     "cooker"
+    ],
+    [
+     "de koelkast",
+     "fridge"
+    ],
+    [
+     "de vriezer",
+     "freezer"
+    ],
+    [
+     "de snijplank",
+     "chopping board"
+    ],
+    [
+     "het mes",
+     "knife"
+    ],
+    [
+     "de vork",
+     "fork"
+    ],
+    [
+     "de lepel",
+     "spoon"
+    ],
+    [
+     "het recept",
+     "recipe"
+    ],
+    [
+     "het ingrediënt",
+     "ingredient"
+    ],
+    [
+     "koken",
+     "to boil, to cook"
+    ],
+    [
+     "bakken",
+     "to fry, to bake"
+    ],
+    [
+     "fijnhakken",
+     "to chop"
+    ],
+    [
+     "schillen",
+     "to peel"
+    ],
+    [
+     "roeren",
+     "to stir"
+    ]
+   ]
+  },
+  {
+   "name": "Eating and eating out",
+   "level": "A2",
+   "items": [
+    [
+     "het voorgerecht",
+     "starter"
+    ],
+    [
+     "het hoofdgerecht",
+     "main course"
+    ],
+    [
+     "het toetje",
+     "dessert"
+    ],
+    [
+     "de rekening",
+     "bill"
+    ],
+    [
+     "de fooi",
+     "tip"
+    ],
+    [
+     "de menukaart",
+     "menu"
+    ],
+    [
+     "vegetarisch",
+     "vegetarian"
+    ],
+    [
+     "pittig",
+     "spicy"
+    ],
+    [
+     "lekker",
+     "tasty"
+    ],
+    [
+     "flauw",
+     "bland"
+    ],
+    [
+     "vers",
+     "fresh"
+    ],
+    [
+     "zelfgemaakt",
+     "homemade"
+    ],
+    [
+     "bestellen",
+     "to order"
+    ],
+    [
+     "een tafel reserveren",
+     "to book a table"
+    ],
+    [
+     "de afhaalmaaltijd",
+     "takeaway"
+    ],
+    [
+     "het tussendoortje",
+     "snack"
+    ]
+   ]
+  }
+ ]
+}

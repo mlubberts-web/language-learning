@@ -1,0 +1,210 @@
+{
+ "title": "🇬🇧 Traps for English speakers",
+ "kind": "language",
+ "lists": [
+  {
+   "name": "False friends",
+   "level": "B1",
+   "items": [
+    [
+     "eventueel",
+     "possibly, if necessary",
+     "Ik kan je [eventueel] morgen helpen.",
+     "Eventually = uiteindelijk."
+    ],
+    [
+     "actueel",
+     "current, topical",
+     "Dat is een heel [actueel] onderwerp.",
+     "Actual = werkelijk."
+    ],
+    [
+     "brutaal",
+     "cheeky",
+     "Wat een [brutaal] kind!",
+     "Brutal = wreed."
+    ],
+    [
+     "slim",
+     "clever",
+     "Ze is erg [slim]: ze heeft altijd goede cijfers.",
+     "Slim = slank."
+    ],
+    [
+     "raar",
+     "strange, weird",
+     "Wat een [raar] verhaal.",
+     "Rare = zeldzaam."
+    ],
+    [
+     "bellen",
+     "to call, to phone",
+     "Ik zal je morgen [bellen].",
+     "The bell = de bel."
+    ],
+    [
+     "ordinair",
+     "vulgar, common",
+     "Die opmerking was echt [ordinair].",
+     "Ordinary = gewoon."
+    ],
+    [
+     "sympathiek",
+     "likeable",
+     "Hij is een [sympathieke] man.",
+     "Sympathetic = meelevend."
+    ],
+    [
+     "genant",
+     "embarrassing",
+     "Het was heel [genant] voor iedereen.",
+     "A gent = een heer."
+    ],
+    [
+     "controleren",
+     "to check",
+     "Kun je de deur even [controleren]?",
+     "To control = beheersen."
+    ],
+    [
+     "solliciteren",
+     "to apply for a job",
+     "Ik ga [solliciteren] bij een bank.",
+     "Solicitor = advocaat."
+    ],
+    [
+     "consequent",
+     "consistent",
+     "Je moet [consequent] zijn met kinderen.",
+     "Consequent = daaruit volgend."
+    ],
+    [
+     "durven",
+     "to dare",
+     "Ik [durf] niet te springen.",
+     "Not: to last (duren)."
+    ],
+    [
+     "hard",
+     "loud, fast",
+     "Praat niet zo [hard], de baby slaapt.",
+     "Hard also means hard."
+    ],
+    [
+     "kind",
+     "child",
+     "Ze hebben één [kind].",
+     "Kind (nice) = aardig."
+    ],
+    [
+     "arm",
+     "poor",
+     "Ze waren vroeger erg [arm].",
+     "Also the body part."
+    ]
+   ]
+  },
+  {
+   "name": "Typical mistakes of English speakers",
+   "level": "B1",
+   "items": [
+    [
+     "Morgen ga ik",
+     "Tomorrow I'm going",
+     "[Morgen ga ik] naar Londen.",
+     "Verb in second place: not Morgen ik ga."
+    ],
+    [
+     "Ik heb honger",
+     "I'm hungry",
+     "Is er nog brood? [Ik heb honger].",
+     "Not Ik ben honger."
+    ],
+    [
+     "Ik ben twintig",
+     "I'm twenty",
+     "Volgende week [ben ik twintig].",
+     "Age with zijn."
+    ],
+    [
+     "Ik ben leraar",
+     "I'm a teacher",
+     "[Ik ben leraar] op een basisschool.",
+     "No article with a job."
+    ],
+    [
+     "Hij ligt op tafel",
+     "It's on the table (de sleutel)",
+     "Waar is de sleutel? [Hij ligt op tafel].",
+     "A de-word thing is hij."
+    ],
+    [
+     "omdat ik moe ben",
+     "because I'm tired",
+     "Ik blijf thuis [omdat ik moe ben].",
+     "After omdat: verb at the end."
+    ],
+    [
+     "Ik woon hier al",
+     "I've lived here for",
+     "[Ik woon hier al] vijf jaar.",
+     "Still true: present + al."
+    ],
+    [
+     "half acht",
+     "half past seven",
+     "De film begint om [half acht].",
+     "7:30, not 8:30."
+    ],
+    [
+     "Ik verveel me",
+     "I'm bored",
+     "Er is niets te doen. [Ik verveel me].",
+     "Not Ik ben verveeld."
+    ],
+    [
+     "Ik denk eraan",
+     "I'm thinking about it",
+     "Je verjaardag? [Ik denk eraan].",
+     "it after a preposition: er + preposition."
+    ],
+    [
+     "Er is een probleem",
+     "There's a problem",
+     "[Er is een probleem] met de computer.",
+     "There is: er is."
+    ],
+    [
+     "een groot huis",
+     "a big house",
+     "Ze wonen in [een groot huis].",
+     "een + het-word: no -e."
+    ],
+    [
+     "Ik bel je op",
+     "I'll call you",
+     "[Ik bel je op] als ik er ben.",
+     "Separable: op at the end."
+    ],
+    [
+     "Ik ben naar huis gegaan",
+     "I went home",
+     "Gisteren [ben ik naar huis gegaan].",
+     "Movement to a place: zijn."
+    ],
+    [
+     "Ik zwem graag",
+     "I like swimming",
+     "In de zomer [zwem ik graag] in zee.",
+     "Verb + graag."
+    ],
+    [
+     "Dit zijn mijn kinderen",
+     "These are my children",
+     "[Dit zijn mijn kinderen]: Tom en Sara.",
+     "Not Deze zijn."
+    ]
+   ]
+  }
+ ]
+}

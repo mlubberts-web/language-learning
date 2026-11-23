@@ -1,0 +1,146 @@
+{
+ "title": "💭 Feelings and personality",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Feelings",
+   "level": "B1",
+   "items": [
+    [
+     "blij",
+     "happy"
+    ],
+    [
+     "verdrietig",
+     "sad"
+    ],
+    [
+     "boos",
+     "angry"
+    ],
+    [
+     "bang",
+     "scared, afraid"
+    ],
+    [
+     "zenuwachtig",
+     "nervous"
+    ],
+    [
+     "bezorgd",
+     "worried"
+    ],
+    [
+     "beschaamd",
+     "embarrassed, ashamed"
+    ],
+    [
+     "trots",
+     "proud"
+    ],
+    [
+     "jaloers",
+     "jealous"
+    ],
+    [
+     "eenzaam",
+     "lonely"
+    ],
+    [
+     "opgelucht",
+     "relieved"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "enthousiast",
+     "excited, enthusiastic"
+    ],
+    [
+     "zich vervelen",
+     "to be bored"
+    ],
+    [
+     "in de war",
+     "confused"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ]
+   ]
+  },
+  {
+   "name": "Personality",
+   "level": "B1",
+   "items": [
+    [
+     "vriendelijk",
+     "friendly"
+    ],
+    [
+     "aardig",
+     "kind, nice"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "extravert",
+     "outgoing"
+    ],
+    [
+     "hardwerkend",
+     "hard-working"
+    ],
+    [
+     "lui",
+     "lazy"
+    ],
+    [
+     "vrijgevig",
+     "generous"
+    ],
+    [
+     "gierig",
+     "mean, stingy"
+    ],
+    [
+     "eerlijk",
+     "honest"
+    ],
+    [
+     "betrouwbaar",
+     "reliable"
+    ],
+    [
+     "koppig",
+     "stubborn"
+    ],
+    [
+     "geduldig",
+     "patient"
+    ],
+    [
+     "egoïstisch",
+     "selfish"
+    ],
+    [
+     "verstandig",
+     "sensible"
+    ],
+    [
+     "gevoelig",
+     "sensitive"
+    ],
+    [
+     "beleefd",
+     "polite"
+    ]
+   ]
+  }
+ ]
+}
