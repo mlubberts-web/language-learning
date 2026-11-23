@@ -1,0 +1,326 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "La inversión y el énfasis",
+  "subtitle": "Never have I, not only ... but also, las oraciones escindidas y do para dar énfasis",
+  "footer": "Language Learning · C1 · Gramática · Inversión y énfasis",
+  "next": "Siguiente: C1 · pdf 3 — Conectores avanzados y estructura del texto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar la inversión después de palabras negativas o restrictivas (<i>Never have I seen ...</i>)",
+    "hacer condicionales sin if (<i>Had I known ...</i>)",
+    "dar énfasis con oraciones escindidas (<i>What I need is ...</i>)",
+    "usar <b>do / does / did</b> para dar énfasis"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La inversión después de palabras negativas"
+  },
+  {
+   "type": "p",
+   "text": "En inglés formal y literario se puede empezar una frase con una palabra negativa o restrictiva. Entonces va el <b>orden de pregunta</b>: el verbo auxiliar delante del sujeto."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Inicio",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Never",
+     "Never have I seen such a mess.",
+     "Nunca había visto semejante desorden."
+    ],
+    [
+     "Rarely / Seldom",
+     "Rarely do we get such good weather.",
+     "Pocas veces tenemos tan buen tiempo."
+    ],
+    [
+     "Not only ... but also",
+     "Not only is it cheap, but it's also fast.",
+     "No solo es barato, sino que además es rápido."
+    ],
+    [
+     "Hardly ... when",
+     "Hardly had I arrived when it started to rain.",
+     "Apenas había llegado cuando empezó a llover."
+    ],
+    [
+     "No sooner ... than",
+     "No sooner had we left than the phone rang.",
+     "Nada más salir nosotros, sonó el teléfono."
+    ],
+    [
+     "Under no circumstances",
+     "Under no circumstances should you open this door.",
+     "Bajo ningún concepto debes abrir esta puerta."
+    ],
+    [
+     "Only then / Only when",
+     "Only then did I understand.",
+     "Solo entonces lo entendí."
+    ],
+    [
+     "Little",
+     "Little did she know what was coming.",
+     "Poco se imaginaba lo que se le venía encima."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un orden que el español no tiene",
+   "text": "En español basta con poner la palabra delante: <i>Nunca he visto ...</i>, <i>Pocas veces tenemos ...</i>. En inglés, después de estas palabras negativas hay que invertir y usar un verbo auxiliar: <b>Never have I seen</b>, <b>Rarely do we get</b>, nunca <i>Never I have seen</i>. Después de palabras normales como yesterday el orden sigue siendo el normal (ver A1 · pdf 8)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Condicionales sin if"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Con inversión (formal)",
+    "Normal"
+   ],
+   "rows": [
+    [
+     "Had I known, I would have come.",
+     "If I had known, I would have come."
+    ],
+    [
+     "Were I in your position, I would resign.",
+     "If I were in your position, I would resign."
+    ],
+    [
+     "Should you need help, call this number.",
+     "If you need help, call this number."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Las oraciones escindidas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Patrón",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "It is / was ... that / who",
+     "It was Tom who broke the window.",
+     "Fue Tom quien rompió la ventana."
+    ],
+    [
+     "What ... is / was",
+     "What I need is a holiday.",
+     "Lo que necesito son unas vacaciones."
+    ],
+    [
+     "All ... is / was",
+     "All I want is some peace.",
+     "Lo único que quiero es un poco de paz."
+    ],
+    [
+     "The thing / reason ... is",
+     "The reason I'm late is that I missed the bus.",
+     "La razón por la que llego tarde es que perdí el autobús."
+    ],
+    [
+     "What happened was",
+     "What happened was that the car broke down.",
+     "Lo que pasó fue que se averió el coche."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. do para dar énfasis"
+  },
+  {
+   "type": "p",
+   "text": "En una frase afirmativa puedes añadir <b>do, does</b> o <b>did</b> para dar énfasis o para llevar la contraria, como el <i>sí que</i> del español: <i>I <b>do</b> like your dress!</i> (¡Sí que me gusta tu vestido!) <i>She <b>did</b> call you; you just didn't hear it.</i> (Sí que te llamó.) <b>Do</b> sit down. (Siéntese, por favor.)"
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Never I have seen this.",
+     "Never have I seen this.",
+     "Con never delante: inversión."
+    ],
+    [
+     "Rarely we go out.",
+     "Rarely do we go out.",
+     "Inversión con do."
+    ],
+    [
+     "Not only it is cheap, but also fast.",
+     "Not only is it cheap, but it is also fast.",
+     "Después de not only: inversión."
+    ],
+    [
+     "No sooner we had left when it rained.",
+     "No sooner had we left than it rained.",
+     "No sooner had ... than."
+    ],
+    [
+     "What I need it is a rest.",
+     "What I need is a rest.",
+     "Sin it de más."
+    ],
+    [
+     "If I would have known, I would have come.",
+     "Had I known, I would have come.",
+     "Formal, sin if: Had I known."
+    ],
+    [
+     "I do liked it.",
+     "I did like it.",
+     "Después de did: el verbo sin nada."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Never ______ I heard such nonsense.",
+     "hint": "have",
+     "a": "have",
+     "full": "Never have I heard such nonsense."
+    },
+    {
+     "q": "Rarely ______ we see snow in this area.",
+     "hint": "verbo auxiliar",
+     "a": "do",
+     "full": "Rarely do we see snow in this area."
+    },
+    {
+     "q": "Not only ______ she clever, but she is also kind.",
+     "hint": "be",
+     "a": "is",
+     "full": "Not only is she clever, but she is also kind."
+    },
+    {
+     "q": "No sooner had I sat down ______ the phone rang.",
+     "hint": "conjunción",
+     "a": "than",
+     "full": "No sooner had I sat down than the phone rang."
+    },
+    {
+     "q": "______ I known, I would have helped.",
+     "hint": "sin if",
+     "a": "Had",
+     "full": "Had I known, I would have helped."
+    },
+    {
+     "q": "______ you have any questions, please contact us.",
+     "hint": "sin if, formal",
+     "a": "Should",
+     "full": "Should you have any questions, please contact us."
+    },
+    {
+     "q": "______ I need is a long holiday.",
+     "hint": "lo que",
+     "a": "What",
+     "full": "What I need is a long holiday."
+    },
+    {
+     "q": "It was my sister ______ told me the news.",
+     "hint": "persona",
+     "a": "who",
+     "full": "It was my sister who told me the news."
+    },
+    {
+     "q": "Only then ______ I realise my mistake.",
+     "hint": "verbo auxiliar, past",
+     "a": "did",
+     "full": "Only then did I realise my mistake."
+    },
+    {
+     "q": "I ______ remember locking the door!",
+     "hint": "énfasis",
+     "a": "do",
+     "full": "I do remember locking the door!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Nunca he visto nada parecido.",
+     "a": "Never have I seen anything like it."
+    },
+    {
+     "q": "Lo que necesito es tranquilidad.",
+     "a": "What I need is rest."
+    },
+    {
+     "q": "Fue Tom quien rompió la ventana.",
+     "a": "It was Tom who broke the window."
+    },
+    {
+     "q": "De haberlo sabido, habría venido. (formal, sin if)",
+     "a": "Had I known, I would have come."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

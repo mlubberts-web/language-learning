@@ -427,5 +427,27 @@
   "subtitle": "Colocaciones, expresiones, el trabajo y el dinero, y falsos amigos para hispanohablantes",
   "content": "b2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_01_Matices_de_tiempo_y_aspecto",
+  "file": "C1_01_Matices_de_tiempo_y_aspecto.pdf",
+  "level": "C1",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Matices de tiempo y aspecto",
+  "subtitle": "Verbos de estado con dos significados, el continuous para la irritación, y el pasado para la distancia y la cortesía",
+  "content": "c1_01_tense_aspect.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_02_La_inversion_y_el_enfasis",
+  "file": "C1_02_La_inversion_y_el_enfasis.pdf",
+  "level": "C1",
+  "number": 2,
+  "section": "Gramática",
+  "title": "La inversión y el énfasis",
+  "subtitle": "Never have I, not only ... but also, las oraciones escindidas y do para dar énfasis",
+  "content": "c1_02_inversion_emphasis.json",
+  "exercise_count": 10
  }
 ]

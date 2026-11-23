@@ -1,0 +1,316 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Matices de tiempo y aspecto",
+  "subtitle": "Verbos de estado con dos significados, el continuous para la irritación, y el pasado para la distancia y la cortesía",
+  "footer": "Language Learning · C1 · Verbos · Tiempo y aspecto",
+  "next": "Siguiente: C1 · pdf 2 — La inversión y el énfasis"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer los verbos de estado que con otro significado sí llevan -ing",
+    "expresar irritación con <b>always + continuous</b>",
+    "formular con cortesía y prudencia usando el pasado (<i>I was wondering</i>)",
+    "usar las diferencias sutiles entre simple y continuous"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos de estado con dos significados"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "Verbo",
+    "Estado (simple)",
+    "Acción (continuous)"
+   ],
+   "rows": [
+    [
+     "think",
+     "I think he's right. (opinión)",
+     "I'm thinking about moving. (plantearse)"
+    ],
+    [
+     "have",
+     "She has two cars. (posesión)",
+     "She's having a shower / lunch. (actividad)"
+    ],
+    [
+     "see",
+     "I see what you mean. (entender)",
+     "I'm seeing the doctor at four. (cita)"
+    ],
+    [
+     "taste",
+     "This soup tastes salty. (sabor)",
+     "He's tasting the soup. (probar)"
+    ],
+    [
+     "be",
+     "He is rude. (carácter)",
+     "He's being rude. (comportamiento ahora)"
+    ],
+    [
+     "weigh",
+     "The bag weighs ten kilos.",
+     "She's weighing the flour."
+    ],
+    [
+     "appear",
+     "It appears to be broken. (parecer)",
+     "She's appearing in a new film. (actuar)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "He's being silly = está haciendo el tonto",
+   "text": "<b>be</b> en continuous describe un comportamiento temporal, no el carácter, algo parecido a <i>ser</i> frente a <i>estar</i>: <i>He is rude</i> = es maleducado; <i>He's being rude</i> = se está portando de forma maleducada. <i>You're being very quiet today</i> = hoy estás muy callado (no es lo normal)."
+  },
+  {
+   "type": "h1",
+   "text": "2. always + continuous: la irritación"
+  },
+  {
+   "type": "p",
+   "text": "Con <b>always, constantly, forever</b> + continuous te quejas de algo que pasa a menudo, igual que <i>siempre está ...</i> en español: <i>He's <b>always leaving</b> his socks on the floor!</i> (¡Siempre está dejando los calcetines en el suelo!) <i>You're <b>constantly interrupting</b> me.</i> La misma frase en simple es neutra: <i>He always leaves at eight.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. El pasado para la distancia y la cortesía"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "I was wondering if you could help me.",
+     "petición muy educada (en realidad, ahora)"
+    ],
+    [
+     "I wanted to ask you something.",
+     "más suave que I want to ask"
+    ],
+    [
+     "Did you want a drink?",
+     "ofrecimiento educado en una tienda o un bar"
+    ],
+    [
+     "I was hoping we could talk.",
+     "propuesta prudente"
+    ],
+    [
+     "I'd hoped to finish today.",
+     "una esperanza que no se cumplió"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Quería preguntarte ... = I wanted to ask you ...",
+   "text": "El español también suaviza con el pasado: <i>Quería preguntarte si ...</i>, <i>Me preguntaba si ...</i> El inglés va aún más lejos con el continuous: <b>I was just wondering whether ...</b> es la forma más educada de pedir algo."
+  },
+  {
+   "type": "h1",
+   "text": "4. Simple o continuous: el matiz"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Simple",
+    "Continuous"
+   ],
+   "rows": [
+    [
+     "I live in Bristol. (fijo)",
+     "I'm living in Bristol for now. (temporal)"
+    ],
+    [
+     "I've read your report. (terminado)",
+     "I've been reading your report. (en curso, quizá sin terminar)"
+    ],
+    [
+     "What did you do last night? (la acción)",
+     "What were you doing at nine? (en curso en un momento)"
+    ],
+    [
+     "I hope you will come.",
+     "We'll be seeing you soon. (natural, informal)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I'm thinking that he's right.",
+     "I think that he's right.",
+     "Una opinión: simple."
+    ],
+    [
+     "She is having a lot of money.",
+     "She has a lot of money.",
+     "Posesión: simple."
+    ],
+    [
+     "This cake is tasting wonderful.",
+     "This cake tastes wonderful.",
+     "Sabor: simple."
+    ],
+    [
+     "He always is complaining.",
+     "He is always complaining.",
+     "always entre be y -ing."
+    ],
+    [
+     "I wonder if you can help me.",
+     "I was wondering if you could help me.",
+     "Lo más educado, con el pasado.",
+     "advice"
+    ],
+    [
+     "I'm knowing him for years.",
+     "I've known him for years.",
+     "know no va en continuous."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el simple o el continuous. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ about changing my job.",
+     "hint": "think, plantearse",
+     "a": "am thinking",
+     "full": "I am thinking about changing my job."
+    },
+    {
+     "q": "I ______ you're making a mistake.",
+     "hint": "think, opinión",
+     "a": "think",
+     "full": "I think you're making a mistake."
+    },
+    {
+     "q": "We ______ dinner when you called.",
+     "hint": "have, actividad",
+     "a": "were having",
+     "full": "We were having dinner when you called."
+    },
+    {
+     "q": "You ______ very quiet today. Is anything wrong?",
+     "hint": "be, comportamiento ahora",
+     "a": "are being",
+     "full": "You are being very quiet today. Is anything wrong?"
+    },
+    {
+     "q": "This milk ______ sour.",
+     "hint": "taste",
+     "a": "tastes",
+     "full": "This milk tastes sour."
+    },
+    {
+     "q": "He's always ______ his keys!",
+     "hint": "lose, irritación",
+     "a": "losing",
+     "full": "He's always losing his keys!"
+    },
+    {
+     "q": "I was ______ if you could give me some advice.",
+     "hint": "wonder",
+     "a": "wondering",
+     "full": "I was wondering if you could give me some advice."
+    },
+    {
+     "q": "I ______ the dentist tomorrow at ten.",
+     "hint": "see, cita",
+     "a": "am seeing",
+     "full": "I am seeing the dentist tomorrow at ten."
+    },
+    {
+     "q": "I ______ what you mean.",
+     "hint": "see, entender",
+     "a": "see",
+     "full": "I see what you mean."
+    },
+    {
+     "q": "She ______ in a flat until her house is ready.",
+     "hint": "live, temporal",
+     "a": "is living",
+     "full": "She is living in a flat until her house is ready."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy pensando en mudarme.",
+     "a": "I'm thinking about moving."
+    },
+    {
+     "q": "¡Siempre está dejando los calcetines en el suelo!",
+     "a": "He's always leaving his socks on the floor!"
+    },
+    {
+     "q": "Me preguntaba si me podría ayudar.",
+     "a": "I was wondering if you could help me."
+    },
+    {
+     "q": "Hoy estás siendo muy pesado.",
+     "a": "You're being very annoying today."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
