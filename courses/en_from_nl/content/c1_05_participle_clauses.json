@@ -1,0 +1,77 @@
+{"meta": {"level": "C1", "section": "Grammatica", "number": 5, "total_in_level": 10,
+ "title": "Deelwoordzinnen en verkorte bijzinnen",
+ "subtitle": "having finished, given that, the man sitting there, en het hangende deelwoord",
+ "footer": "Language Learning · C1 · Grammatica · Deelwoordzinnen",
+ "next": "Volgende: C1 · pdf 6 — Modale werkwoorden in de diepte"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "bijzinnen verkorten met een <b>-ing</b>- of <b>-ed</b>-vorm",
+  "volgorde aangeven met <b>having + deelwoord</b>",
+  "betrekkelijke bijzinnen verkorten (<i>the woman sitting next to me</i>)",
+  "het 'hangende deelwoord' vermijden"]},
+
+ {"type": "h1", "text": "1. Bijzinnen verkorten"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Volledige zin", "Verkort"], "rows": [
+  ["Because she felt tired, she went to bed.", "Feeling tired, she went to bed."],
+  ["After he had finished his work, he went home.", "Having finished his work, he went home."],
+  ["When it is seen from above, the city looks small.", "Seen from above, the city looks small."],
+  ["As I didn't know what to do, I called my mum.", "Not knowing what to do, I called my mum."],
+  ["While I was walking home, I met Tom.", "Walking home, I met Tom."]]},
+ {"type": "callout", "kind": "tip", "title": "Welke vorm?", "bullets": [
+  "<b>-ing</b>: het onderwerp doet het zelf, tegelijk of als reden (<i>Feeling tired, ...</i>)",
+  "<b>having + deelwoord</b>: het gebeurde eerst (<i>Having eaten, we left.</i>)",
+  "<b>deelwoord (-ed)</b>: lijdende betekenis (<i>Built in 1900, the house ...</i>)",
+  "<b>not</b> staat vooraan: <i>Not having a car, I walk everywhere.</i>"]},
+
+ {"type": "h1", "text": "2. Het hangende deelwoord"},
+ {"type": "p", "text": "Het verkorte deel hoort bij het <b>onderwerp</b> van de hoofdzin. Is dat niet zo, dan krijg je een rare of grappige zin."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Fout", "Goed"], "rows": [
+  ["Walking down the street, a car hit me. (de auto liep?)", "Walking down the street, I was hit by a car."],
+  ["Having finished dinner, the dishes were washed.", "Having finished dinner, we washed the dishes."]]},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlands kent dit ook", "text": "<i>Thuisgekomen, ging ik meteen slapen</i> of <i>Lopend door het park, zag ik ...</i> bestaat ook in het Nederlands, maar is vrij formeel. In geschreven Engels zijn deze constructies veel gewoner, vooral in verhalen, nieuws en essays."},
+
+ {"type": "h1", "text": "3. Betrekkelijke bijzinnen verkorten"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Volledig", "Verkort"], "rows": [
+  ["The woman who is sitting next to me is a doctor.", "The woman sitting next to me is a doctor."],
+  ["The goods which were ordered last week have arrived.", "The goods ordered last week have arrived."],
+  ["Anyone who wants to join should register.", "Anyone wanting to join should register."],
+  ["He was the first person who arrived.", "He was the first person to arrive."]]},
+
+ {"type": "h1", "text": "4. Vaste uitdrukkingen"},
+ {"type": "verbpairs", "title": "Vaste deelwoordconstructies", "items": [
+  ["given that", "gezien het feit dat"], ["considering", "gezien, rekening houdend met"], ["generally speaking", "over het algemeen"],
+  ["judging by", "afgaande op"], ["assuming that", "ervan uitgaande dat"], ["provided that", "op voorwaarde dat"],
+  ["compared with", "vergeleken met"], ["based on", "gebaseerd op"], ["taking everything into account", "alles in aanmerking genomen"],
+  ["strictly speaking", "strikt genomen"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Walking down the street, a car hit me.", "Walking down the street, I was hit by a car.", "Het deelwoord hoort bij het onderwerp."],
+  ["Having finish the work, I left.", "Having finished the work, I left.", "having + voltooid deelwoord."],
+  ["Knowing not the answer, she stayed silent.", "Not knowing the answer, she stayed silent.", "not vooraan."],
+  ["The man sat next to me was rude.", "The man sitting next to me was rude.", "Actief en tegelijk: -ing."],
+  ["Building in 1900, the house is very old.", "Built in 1900, the house is very old.", "Lijdend: voltooid deelwoord."],
+  ["He was the first that arrived.", "He was the first to arrive.", "Na the first: to + werkwoord."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "______ tired, I went to bed early.", "hint": "feel", "a": "Feeling", "full": "Feeling tired, I went to bed early."},
+  {"q": "______ finished the report, she sent it to her boss.", "hint": "have", "a": "Having", "full": "Having finished the report, she sent it to her boss."},
+  {"q": "______ in 1890, the bridge is still in use.", "hint": "build", "a": "Built", "full": "Built in 1890, the bridge is still in use."},
+  {"q": "______ knowing the way, we asked for directions.", "hint": "ontkenning", "a": "Not", "full": "Not knowing the way, we asked for directions."},
+  {"q": "The girl ______ by the window is my sister.", "hint": "stand", "a": "standing", "full": "The girl standing by the window is my sister."},
+  {"q": "The books ______ last week have arrived.", "hint": "order", "a": "ordered", "full": "The books ordered last week have arrived."},
+  {"q": "She was the first woman ______ the prize.", "hint": "win", "a": "to win", "full": "She was the first woman to win the prize."},
+  {"q": "______ that it's raining, let's stay in.", "hint": "gezien het feit dat", "a": "Given", "full": "Given that it's raining, let's stay in."},
+  {"q": "______ by his accent, he's from Scotland.", "hint": "afgaande op", "a": "Judging", "full": "Judging by his accent, he's from Scotland."},
+  {"q": "Generally ______, the weather here is mild.", "hint": "over het algemeen", "a": "speaking", "full": "Generally speaking, the weather here is mild."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Omdat ik moe was, ging ik vroeg naar bed. (verkort)", "a": "Feeling tired, I went to bed early."},
+  {"q": "De vrouw die naast me zit, is arts. (verkort)", "a": "The woman sitting next to me is a doctor."},
+  {"q": "Nadat we hadden gegeten, vertrokken we. (verkort)", "a": "Having eaten, we left."},
+  {"q": "Over het algemeen is het hier rustig.", "a": "Generally speaking, it is quiet here."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

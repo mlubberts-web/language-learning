@@ -471,5 +471,16 @@
   "subtitle": "Zelfstandige naamwoorden in plaats van werkwoorden, onpersoonlijke stijl en de lijdende vorm voor afstand",
   "content": "c1_04_nominalisation_academic.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_05_Deelwoordzinnen_en_verkorte_bijzinnen",
+  "file": "C1_05_Deelwoordzinnen_en_verkorte_bijzinnen.pdf",
+  "level": "C1",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Deelwoordzinnen en verkorte bijzinnen",
+  "subtitle": "having finished, given that, the man sitting there, en het hangende deelwoord",
+  "content": "c1_05_participle_clauses.json",
+  "exercise_count": 10
  }
 ]
