@@ -196,5 +196,16 @@
   "subtitle": "-er en more, the -est en the most, as ... as, en voorzetsels van beweging",
   "content": "a2_09_comparatives_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "A2_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "A2",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Reizen, gezondheid, het weer, werk, vrije tijd, en zinnen voor de telefoon en e-mail",
+  "content": "a2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

@@ -1,0 +1,88 @@
+{"meta": {"level": "A2", "section": "Woordenschat", "number": 10, "total_in_level": 10,
+ "title": "Woordenschat en vaste uitdrukkingen",
+ "subtitle": "Reizen, gezondheid, het weer, werk, vrije tijd, en zinnen voor de telefoon en e-mail",
+ "footer": "Language Learning · A2 · Woordenschat en vaste uitdrukkingen",
+ "next": "Volgende: B1 · pdf 1"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Zo gebruik je deze lijsten", "bullets": [
+  "Dek één kolom af en overhoor jezelf in beide richtingen.",
+  "Maak bij elk blok zinnen in de past simple en de present perfect (pdf 1 tot 5).",
+  "Deze woorden komen veel voor in het examen A2 Key van Cambridge."]},
+
+ {"type": "h1", "text": "1. Reizen"},
+ {"type": "verbpairs", "title": "Op reis", "items": [
+  ["return ticket", "retourtje"], ["single ticket", "enkele reis"], ["platform", "perron"], ["departure", "vertrek"],
+  ["arrival", "aankomst"], ["delay", "vertraging"], ["luggage", "bagage"], ["suitcase", "koffer"],
+  ["passport", "paspoort"], ["boarding pass", "instapkaart"], ["to book", "boeken, reserveren"], ["to check in", "inchecken"],
+  ["to miss the train", "de trein missen"], ["to get on", "instappen"], ["to get off", "uitstappen"], ["holiday", "vakantie"]]},
+ {"type": "verbpairs", "title": "In het hotel", "items": [
+  ["I've got a reservation.", "Ik heb een reservering."], ["a single room", "een eenpersoonskamer"],
+  ["a double room", "een tweepersoonskamer"], ["Is breakfast included?", "Is het ontbijt inbegrepen?"],
+  ["What time is check-out?", "Hoe laat moet ik uitchecken?"], ["The shower doesn't work.", "De douche doet het niet."]]},
+ {"type": "callout", "kind": "dutch", "title": "holiday of vacation?", "text": "In Brits Engels is vakantie <b>holiday</b>: <i>We're on holiday. Where did you go on holiday?</i> <b>vacation</b> is Amerikaans. Een feestdag is ook <b>a holiday</b> (<i>a bank holiday</i>)."},
+
+ {"type": "h1", "text": "2. Gezondheid"},
+ {"type": "verbpairs", "title": "Bij de dokter", "items": [
+  ["headache", "hoofdpijn"], ["stomach ache", "buikpijn"], ["sore throat", "keelpijn"], ["cold", "verkoudheid"],
+  ["flu", "griep"], ["temperature", "koorts, temperatuur"], ["cough", "hoest"], ["medicine", "medicijn"],
+  ["chemist's", "apotheek, drogist"], ["appointment", "afspraak"], ["to feel ill", "zich ziek voelen"], ["to hurt", "pijn doen"]]},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["I've got a headache.", "Ik heb hoofdpijn."],
+  ["My back hurts.", "Mijn rug doet pijn."],
+  ["I don't feel well.", "Ik voel me niet goed."],
+  ["I'd like to make an appointment.", "Ik wil graag een afspraak maken."]]},
+ {"type": "callout", "kind": "warn", "title": "a cold is niet 'koud'", "text": "<b>I've got a cold</b> = ik ben verkouden. <b>I'm cold</b> = ik heb het koud. En <i>ik ben ziek</i> is <b>I'm ill</b> (Brits) of <b>I'm sick</b>; <i>I feel sick</i> betekent vaak dat je misselijk bent."},
+
+ {"type": "h1", "text": "3. Het weer"},
+ {"type": "verbpairs", "title": "Het weer", "items": [
+  ["sunny", "zonnig"], ["cloudy", "bewolkt"], ["rainy", "regenachtig"], ["windy", "winderig"],
+  ["foggy", "mistig"], ["storm", "storm, onweer"], ["thunder", "donder"], ["lightning", "bliksem"],
+  ["shower", "bui"], ["degrees", "graden"], ["weather forecast", "weerbericht"], ["It's freezing.", "Het vriest. Het is ijskoud."]]},
+ {"type": "callout", "kind": "tip", "title": "What's the weather like?", "text": "Zo vraag je naar het weer: <b>What's the weather like?</b> — <i>It's sunny and warm.</i> Let op: het Engels zegt <i>It's raining</i> (nu) en <i>It rains a lot in Wales</i> (algemeen)."},
+
+ {"type": "h1", "text": "4. Werk en vrije tijd"},
+ {"type": "verbpairs", "title": "Werk", "items": [
+  ["job", "baan"], ["colleague", "collega"], ["boss", "baas"], ["salary", "salaris"],
+  ["meeting", "vergadering"], ["office", "kantoor"], ["full-time", "voltijd"], ["part-time", "deeltijd"],
+  ["to apply for a job", "solliciteren naar een baan"], ["to earn", "verdienen"]]},
+ {"type": "verbpairs", "title": "Vrije tijd", "items": [
+  ["hobby", "hobby"], ["to go shopping", "gaan winkelen"], ["to go swimming", "gaan zwemmen"], ["to go for a walk", "gaan wandelen"],
+  ["to play football", "voetballen"], ["to do yoga", "yoga doen"], ["to watch a film", "een film kijken"], ["to listen to music", "naar muziek luisteren"],
+  ["to meet friends", "met vrienden afspreken"], ["to stay in", "thuisblijven"]]},
+ {"type": "callout", "kind": "dutch", "title": "play, go of do?", "text": "Balsporten met <b>play</b>: <i>play tennis</i>. Activiteiten op -ing met <b>go</b>: <i>go cycling, go skiing</i>. Andere activiteiten met <b>do</b>: <i>do yoga, do karate</i>. En <i>ik ga een film kijken</i> = <b>I'm going to watch a film</b>."},
+
+ {"type": "h1", "text": "5. Telefoon en e-mail"},
+ {"type": "verbpairs", "title": "Aan de telefoon", "items": [
+  ["Hello, this is Anna.", "Hallo, met Anna."], ["Can I speak to Tom, please?", "Mag ik Tom even spreken?"],
+  ["Hold on, please.", "Een momentje, alstublieft."], ["Can I take a message?", "Kan ik een boodschap aannemen?"],
+  ["I'll call you back.", "Ik bel je terug."], ["Sorry, wrong number.", "Sorry, verkeerd verbonden."]]},
+ {"type": "verbpairs", "title": "In een e-mail", "items": [
+  ["Dear Mr Smith,", "Geachte heer Smith,"], ["Hi Sam,", "Hoi Sam,"], ["Thanks for your email.", "Bedankt voor je e-mail."],
+  ["I'm writing to ask about ...", "Ik schrijf je om te vragen naar ..."], ["Best wishes,", "Groetjes, met vriendelijke groet,"],
+  ["Kind regards,", "Met vriendelijke groet,"]]},
+ {"type": "callout", "kind": "dutch", "title": "Met Anna = This is Anna", "text": "Aan de telefoon zeg je niet <i>I am Anna</i> of <i>With Anna</i>, maar <b>Hello, this is Anna</b> of <b>Anna speaking</b>."},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "A ______ ticket to Oxford, please.", "hint": "retourtje", "a": "return", "full": "A return ticket to Oxford, please."},
+  {"q": "The train has a twenty-minute ______.", "hint": "vertraging", "a": "delay", "full": "The train has a twenty-minute delay."},
+  {"q": "We're going on ______ to Spain.", "hint": "vakantie, Brits", "a": "holiday", "full": "We're going on holiday to Spain."},
+  {"q": "I've got a sore ______.", "hint": "keel", "a": "throat", "full": "I've got a sore throat."},
+  {"q": "I've got a ______. I'm sneezing all the time.", "hint": "verkoudheid", "a": "cold", "full": "I've got a cold. I'm sneezing all the time."},
+  {"q": "What's the weather ______ today?", "hint": "vraag naar het weer", "a": "like", "full": "What's the weather like today?"},
+  {"q": "Let's go ______ this weekend.", "hint": "fietsen, -ing", "a": "cycling", "full": "Let's go cycling this weekend."},
+  {"q": "She ______ yoga every morning.", "hint": "play, go of do", "a": "does", "full": "She does yoga every morning."},
+  {"q": "Hello, ______ is Peter. Can I speak to Mary?", "hint": "met Peter", "a": "this", "full": "Hello, this is Peter. Can I speak to Mary?"},
+  {"q": "She isn't here. Can I take a ______?", "hint": "boodschap", "a": "message", "full": "She isn't here. Can I take a message?"},
+  {"q": "I'm busy now. I'll call you ______.", "hint": "terugbellen", "a": "back", "full": "I'm busy now. I'll call you back."},
+  {"q": "I'd like to make an ______ with the doctor.", "hint": "afspraak", "a": "appointment", "full": "I'd like to make an appointment with the doctor."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik ben verkouden.", "a": "I've got a cold."},
+  {"q": "Hallo, met Anna.", "a": "Hello, this is Anna."},
+  {"q": "Is het ontbijt inbegrepen?", "a": "Is breakfast included?"},
+  {"q": "Mijn rug doet pijn.", "a": "My back hurts."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
