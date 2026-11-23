@@ -1,0 +1,580 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, y frases para el teléfono y el correo electrónico",
+  "footer": "Language Learning · A2 · Vocabulario y expresiones fijas",
+  "next": "Siguiente: B1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Escribe frases con cada bloque en past simple y en present perfect (pdf 1 a 5).",
+    "Estas palabras aparecen mucho en el examen A2 Key de Cambridge."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los viajes"
+  },
+  {
+   "type": "verbpairs",
+   "title": "De viaje",
+   "items": [
+    [
+     "return ticket",
+     "billete de ida y vuelta"
+    ],
+    [
+     "single ticket",
+     "billete de ida"
+    ],
+    [
+     "platform",
+     "andén"
+    ],
+    [
+     "departure",
+     "salida"
+    ],
+    [
+     "arrival",
+     "llegada"
+    ],
+    [
+     "delay",
+     "retraso"
+    ],
+    [
+     "luggage",
+     "equipaje"
+    ],
+    [
+     "suitcase",
+     "maleta"
+    ],
+    [
+     "passport",
+     "pasaporte"
+    ],
+    [
+     "boarding pass",
+     "tarjeta de embarque"
+    ],
+    [
+     "to book",
+     "reservar"
+    ],
+    [
+     "to check in",
+     "facturar, registrarse"
+    ],
+    [
+     "to miss the train",
+     "perder el tren"
+    ],
+    [
+     "to get on",
+     "subir, subirse"
+    ],
+    [
+     "to get off",
+     "bajar, bajarse"
+    ],
+    [
+     "holiday",
+     "vacaciones"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "En el hotel",
+   "items": [
+    [
+     "I've got a reservation.",
+     "Tengo una reserva."
+    ],
+    [
+     "a single room",
+     "una habitación individual"
+    ],
+    [
+     "a double room",
+     "una habitación doble"
+    ],
+    [
+     "Is breakfast included?",
+     "¿Está incluido el desayuno?"
+    ],
+    [
+     "What time is check-out?",
+     "¿A qué hora tengo que dejar la habitación?"
+    ],
+    [
+     "The shower doesn't work.",
+     "La ducha no funciona."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "¿holiday o vacation?",
+   "text": "En inglés británico las vacaciones son <b>holiday</b>, en singular: <i>We're on holiday. Where did you go on holiday?</i> <b>vacation</b> es americano. Un día festivo también es <b>a holiday</b> (<i>a bank holiday</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "2. La salud"
+  },
+  {
+   "type": "verbpairs",
+   "title": "En el médico",
+   "items": [
+    [
+     "headache",
+     "dolor de cabeza"
+    ],
+    [
+     "stomach ache",
+     "dolor de barriga, dolor de estómago"
+    ],
+    [
+     "sore throat",
+     "dolor de garganta"
+    ],
+    [
+     "cold",
+     "resfriado, catarro, constipado"
+    ],
+    [
+     "flu",
+     "gripe"
+    ],
+    [
+     "temperature",
+     "fiebre"
+    ],
+    [
+     "cough",
+     "tos"
+    ],
+    [
+     "medicine",
+     "medicamento, medicina"
+    ],
+    [
+     "chemist's",
+     "farmacia"
+    ],
+    [
+     "appointment",
+     "cita"
+    ],
+    [
+     "to feel ill",
+     "encontrarse mal"
+    ],
+    [
+     "to hurt",
+     "doler"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I've got a headache.",
+     "Me duele la cabeza."
+    ],
+    [
+     "My back hurts.",
+     "Me duele la espalda."
+    ],
+    [
+     "I don't feel well.",
+     "No me encuentro bien."
+    ],
+    [
+     "I'd like to make an appointment.",
+     "Quisiera pedir cita."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "constipado no es constipated",
+   "text": "<i>Estoy constipado</i> = <b>I've got a cold</b>. <b>constipated</b> significa estreñido: ¡cuidado en la farmacia! Y <b>I'm cold</b> = tengo frío. <i>Estoy enfermo</i> es <b>I'm ill</b> (británico) o <b>I'm sick</b>; <i>I feel sick</i> suele significar que tienes ganas de vomitar."
+  },
+  {
+   "type": "h1",
+   "text": "3. El tiempo"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El tiempo",
+   "items": [
+    [
+     "sunny",
+     "soleado"
+    ],
+    [
+     "cloudy",
+     "nublado"
+    ],
+    [
+     "rainy",
+     "lluvioso"
+    ],
+    [
+     "windy",
+     "con viento"
+    ],
+    [
+     "foggy",
+     "con niebla"
+    ],
+    [
+     "storm",
+     "tormenta"
+    ],
+    [
+     "thunder",
+     "trueno"
+    ],
+    [
+     "lightning",
+     "relámpago, rayo"
+    ],
+    [
+     "shower",
+     "chaparrón"
+    ],
+    [
+     "degrees",
+     "grados"
+    ],
+    [
+     "weather forecast",
+     "el pronóstico del tiempo"
+    ],
+    [
+     "It's freezing.",
+     "Hiela. / Hace un frío que pela."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "What's the weather like?",
+   "text": "Así se pregunta por el tiempo: <b>What's the weather like?</b> (¿Qué tiempo hace?) — <i>It's sunny and warm.</i> Ojo: <i>hace calor</i> no es <i>it makes hot</i>, sino <b>it's hot</b>. Y el inglés dice <i>It's raining</i> (ahora) e <i>It rains a lot in Wales</i> (en general)."
+  },
+  {
+   "type": "h1",
+   "text": "4. El trabajo y el tiempo libre"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El trabajo",
+   "items": [
+    [
+     "job",
+     "trabajo, empleo, puesto"
+    ],
+    [
+     "colleague",
+     "compañero de trabajo"
+    ],
+    [
+     "boss",
+     "jefe"
+    ],
+    [
+     "salary",
+     "sueldo, salario"
+    ],
+    [
+     "meeting",
+     "reunión"
+    ],
+    [
+     "office",
+     "oficina"
+    ],
+    [
+     "full-time",
+     "a jornada completa"
+    ],
+    [
+     "part-time",
+     "a media jornada"
+    ],
+    [
+     "to apply for a job",
+     "solicitar un trabajo"
+    ],
+    [
+     "to earn",
+     "ganar (dinero)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Tiempo libre",
+   "items": [
+    [
+     "hobby",
+     "afición, hobby"
+    ],
+    [
+     "to go shopping",
+     "ir de compras"
+    ],
+    [
+     "to go swimming",
+     "ir a nadar"
+    ],
+    [
+     "to go for a walk",
+     "ir de excursión, hacer senderismo"
+    ],
+    [
+     "to play football",
+     "jugar al fútbol"
+    ],
+    [
+     "to do yoga",
+     "hacer yoga"
+    ],
+    [
+     "to watch a film",
+     "ver una película"
+    ],
+    [
+     "to listen to music",
+     "escuchar música"
+    ],
+    [
+     "to meet friends",
+     "quedar con amigos"
+    ],
+    [
+     "to stay in",
+     "quedarse en casa"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "¿play, go o do?",
+   "text": "Los deportes de pelota van con <b>play</b>: <i>play tennis</i>, sin artículo (no <i>play the tennis</i>). Las actividades en -ing con <b>go</b>: <i>go cycling, go skiing</i>. Las demás actividades con <b>do</b>: <i>do yoga, do karate</i>. Y <i>hacer deporte</i> = <b>do sport</b>, no <i>make sport</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. El teléfono y el correo electrónico"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Al teléfono",
+   "items": [
+    [
+     "Hello, this is Anna.",
+     "Hola, soy Anna."
+    ],
+    [
+     "Can I speak to Tom, please?",
+     "¿Puedo hablar con Tom?"
+    ],
+    [
+     "Hold on, please.",
+     "Un momento, por favor."
+    ],
+    [
+     "Can I take a message?",
+     "¿Quiere dejar un recado?"
+    ],
+    [
+     "I'll call you back.",
+     "Te devuelvo la llamada."
+    ],
+    [
+     "Sorry, wrong number.",
+     "Perdone, se ha equivocado de número."
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "En un correo electrónico",
+   "items": [
+    [
+     "Dear Mr Smith,",
+     "Estimado Sr. Smith:"
+    ],
+    [
+     "Hi Sam,",
+     "Hola, Sam:"
+    ],
+    [
+     "Thanks for your email.",
+     "Gracias por tu correo."
+    ],
+    [
+     "I'm writing to ask about ...",
+     "Te escribo para preguntar por ..."
+    ],
+    [
+     "Best wishes,",
+     "Un abrazo, saludos"
+    ],
+    [
+     "Kind regards,",
+     "Atentamente,"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Soy Anna = This is Anna",
+   "text": "Al teléfono no se dice <i>I am Anna</i>, sino <b>Hello, this is Anna</b> o <b>Anna speaking</b>. Y para contestar, <i>¿Diga?</i> o <i>¿Sí?</i> es simplemente <b>Hello?</b>"
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "A ______ ticket to Oxford, please.",
+     "hint": "ida y vuelta",
+     "a": "return",
+     "full": "A return ticket to Oxford, please."
+    },
+    {
+     "q": "The train has a twenty-minute ______.",
+     "hint": "retraso",
+     "a": "delay",
+     "full": "The train has a twenty-minute delay."
+    },
+    {
+     "q": "We're going on ______ to Spain.",
+     "hint": "vacaciones, británico",
+     "a": "holiday",
+     "full": "We're going on holiday to Spain."
+    },
+    {
+     "q": "I've got a sore ______.",
+     "hint": "garganta",
+     "a": "throat",
+     "full": "I've got a sore throat."
+    },
+    {
+     "q": "I've got a ______. I'm sneezing all the time.",
+     "hint": "resfriado",
+     "a": "cold",
+     "full": "I've got a cold. I'm sneezing all the time."
+    },
+    {
+     "q": "What's the weather ______ today?",
+     "hint": "pregunta por el tiempo",
+     "a": "like",
+     "full": "What's the weather like today?"
+    },
+    {
+     "q": "Let's go ______ this weekend.",
+     "hint": "montar en bici, -ing",
+     "a": "cycling",
+     "full": "Let's go cycling this weekend."
+    },
+    {
+     "q": "She ______ yoga every morning.",
+     "hint": "play, go o do",
+     "a": "does",
+     "full": "She does yoga every morning."
+    },
+    {
+     "q": "Hello, ______ is Peter. Can I speak to Mary?",
+     "hint": "soy Peter",
+     "a": "this",
+     "full": "Hello, this is Peter. Can I speak to Mary?"
+    },
+    {
+     "q": "She isn't here. Can I take a ______?",
+     "hint": "recado",
+     "a": "message",
+     "full": "She isn't here. Can I take a message?"
+    },
+    {
+     "q": "I'm busy now. I'll call you ______.",
+     "hint": "devolver la llamada",
+     "a": "back",
+     "full": "I'm busy now. I'll call you back."
+    },
+    {
+     "q": "I'd like to make an ______ with the doctor.",
+     "hint": "cita",
+     "a": "appointment",
+     "full": "I'd like to make an appointment with the doctor."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy resfriado.",
+     "a": "I've got a cold."
+    },
+    {
+     "q": "Hola, soy Anna.",
+     "a": "Hello, this is Anna."
+    },
+    {
+     "q": "¿Está incluido el desayuno?",
+     "a": "Is breakfast included?"
+    },
+    {
+     "q": "Me duele la espalda.",
+     "a": "My back hurts."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

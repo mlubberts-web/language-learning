@@ -196,5 +196,16 @@
   "subtitle": "-er y more, the -est y the most, as ... as, y las preposiciones de movimiento",
   "content": "a2_09_comparatives_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_10_Vocabulario_y_expresiones_fijas",
+  "file": "A2_10_Vocabulario_y_expresiones_fijas.pdf",
+  "level": "A2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, y frases para el teléfono y el correo electrónico",
+  "content": "a2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
