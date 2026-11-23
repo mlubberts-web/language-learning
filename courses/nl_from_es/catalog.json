@@ -174,5 +174,16 @@
   "subtitle": "in, op, aan, bij y naar; preposiciones de tiempo y lugar; thuis y naar huis",
   "content": "a2_07_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_08_Comparar_y_los_numeros",
+  "file": "A2_08_Comparar_y_los_numeros.pdf",
+  "level": "A2",
+  "number": 8,
+  "section": "Gramática",
+  "title": "Comparar y los números",
+  "subtitle": "net zo ... als, -er dan, steeds; los ordinales, las fechas, los años y los precios",
+  "content": "a2_08_comparing_numbers.json",
+  "exercise_count": 12
  }
 ]
