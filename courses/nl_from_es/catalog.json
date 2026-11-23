@@ -108,5 +108,16 @@
   "subtitle": "hebben + ge-...-t o -d, 't kofschip, y el participio al final",
   "content": "a2_01_perfect_weak.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_02_El_perfecto_verbos_fuertes",
+  "file": "A2_02_El_perfecto_verbos_fuertes.pdf",
+  "level": "A2",
+  "number": 2,
+  "section": "Verbos",
+  "title": "El perfecto: verbos fuertes",
+  "subtitle": "Los verbos fuertes más frecuentes, y cuándo se usa zijn en lugar de hebben",
+  "content": "a2_02_perfect_strong.json",
+  "exercise_count": 12
  }
 ]

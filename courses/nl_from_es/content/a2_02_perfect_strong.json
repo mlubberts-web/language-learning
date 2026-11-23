@@ -1,0 +1,410 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "El perfecto: verbos fuertes",
+  "subtitle": "Los verbos fuertes más frecuentes, y cuándo se usa zijn en lugar de hebben",
+  "footer": "Language Learning · A2 · Verbos · El perfecto: verbos fuertes",
+  "next": "Siguiente: A2 · pdf 3 — El pasado simple"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar los participios de los cuarenta <b>verbos fuertes</b> más frecuentes",
+    "reconocer los patrones de vocales (<i>schrijven – geschreven, drinken – gedronken</i>)",
+    "elegir entre <b>hebben</b> y <b>zijn</b>",
+    "contar una pequeña historia sobre tu fin de semana"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los verbos fuertes"
+  },
+  {
+   "type": "p",
+   "text": "Unos 200 verbos neerlandeses son <b>fuertes</b> (irregulares): cambia la vocal y el participio termina en <b>-en</b>: <i>schrijven → geschreven</i>. Son pocos, pero son los verbos más usados, así que apréndelos de memoria, como los participios irregulares del español (<i>escrito, visto, hecho</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Patrón",
+    "Infinitivo → participio",
+    "Más ejemplos"
+   ],
+   "rows": [
+    [
+     "ij → e",
+     "schrijven → geschreven",
+     "blijven → gebleven, kijken → gekeken, rijden → gereden"
+    ],
+    [
+     "ie / ui → o",
+     "kiezen → gekozen",
+     "vliegen → gevlogen, sluiten → gesloten"
+    ],
+    [
+     "i → o",
+     "drinken → gedronken",
+     "beginnen → begonnen, vinden → gevonden, zingen → gezongen"
+    ],
+    [
+     "e → e",
+     "eten → gegeten",
+     "geven → gegeven, lezen → gelezen, zien → gezien"
+    ],
+    [
+     "e → o",
+     "spreken → gesproken",
+     "nemen → genomen, helpen → geholpen"
+    ],
+    [
+     "misma vocal",
+     "lopen → gelopen",
+     "slapen → geslapen, komen → gekomen, laten → gelaten"
+    ],
+    [
+     "-cht",
+     "kopen → gekocht",
+     "denken → gedacht, brengen → gebracht, zoeken → gezocht"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    8.2
+   ],
+   "head": [
+    "Infinitivo",
+    "Participio",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "zijn",
+     "geweest",
+     "Ik ben in Londen geweest."
+    ],
+    [
+     "hebben",
+     "gehad",
+     "We hebben een leuke tijd gehad."
+    ],
+    [
+     "gaan",
+     "gegaan",
+     "Ze is naar huis gegaan."
+    ],
+    [
+     "doen",
+     "gedaan",
+     "Wat heb je gedaan?"
+    ],
+    [
+     "weten",
+     "geweten",
+     "Ik heb het nooit geweten."
+    ],
+    [
+     "worden",
+     "geworden",
+     "Hij is arts geworden."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿hebben o zijn?"
+  },
+  {
+   "type": "p",
+   "text": "Casi todos los verbos usan <b>hebben</b>. Un pequeño grupo usa <b>zijn</b>: los verbos de <b>movimiento hacia un lugar</b> y los de <b>cambio</b>, además de zijn y blijven. En español siempre se usa <i>haber</i>, así que esto es nuevo: <i>he ido</i> = <b>ik ben gegaan</b> (literalmente 'soy ido')."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    10.8
+   ],
+   "head": [
+    "zijn con",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "movimiento hacia un lugar",
+     "Ik ben naar huis gegaan. Ze is gisteren gekomen. De trein is vertrokken."
+    ],
+    [
+     "cambio de estado",
+     "Hij is arts geworden. Het is koud geworden. Mijn opa is gestorven."
+    ],
+    [
+     "zijn y blijven",
+     "Ik ben in Spanje geweest. We zijn thuis gebleven."
+    ],
+    [
+     "empezar, ocurrir",
+     "De film is begonnen. Wat is er gebeurd?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Ik heb gelopen o Ik ben naar huis gelopen",
+   "text": "Verbos como <b>lopen, fietsen, rijden, zwemmen, vliegen</b> llevan <b>hebben</b> cuando solo hablas de la actividad: <i>Ik heb vandaag tien kilometer gelopen.</i> Llevan <b>zijn</b> cuando hay un destino o una dirección: <i>Ik <b>ben</b> naar huis gelopen. We <b>zijn</b> naar Spanje gevlogen.</i>"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos fuertes con su participio",
+   "items": [
+    [
+     "eten – gegeten",
+     "comer"
+    ],
+    [
+     "drinken – gedronken",
+     "beber"
+    ],
+    [
+     "zien – gezien",
+     "ver"
+    ],
+    [
+     "lezen – gelezen",
+     "leer"
+    ],
+    [
+     "schrijven – geschreven",
+     "escribir"
+    ],
+    [
+     "spreken – gesproken",
+     "hablar"
+    ],
+    [
+     "nemen – genomen",
+     "coger, tomar"
+    ],
+    [
+     "geven – gegeven",
+     "dar"
+    ],
+    [
+     "vinden – gevonden",
+     "encontrar, opinar"
+    ],
+    [
+     "kopen – gekocht",
+     "comprar"
+    ],
+    [
+     "denken – gedacht",
+     "pensar"
+    ],
+    [
+     "slapen – geslapen",
+     "dormir"
+    ],
+    [
+     "komen – gekomen",
+     "venir"
+    ],
+    [
+     "blijven – gebleven",
+     "quedarse"
+    ],
+    [
+     "beginnen – begonnen",
+     "empezar"
+    ],
+    [
+     "vergeten – vergeten",
+     "olvidar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "vergeten y otros verbos con ver-",
+   "text": "Como con los verbos débiles, un prefijo átono significa que no hay ge- de más: <b>vergeten → vergeten</b>, <b>begrijpen → begrepen</b>, <b>vertrekken → vertrokken</b>, <b>ontvangen → ontvangen</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik heb naar huis gegaan.",
+     "Ik ben naar huis gegaan.",
+     "Movimiento hacia un lugar: zijn."
+    ],
+    [
+     "Ik heb in Spanje geweest.",
+     "Ik ben in Spanje geweest.",
+     "zijn va con zijn."
+    ],
+    [
+     "Ik heb het boek geleest.",
+     "Ik heb het boek gelezen.",
+     "lezen es fuerte: gelezen."
+    ],
+    [
+     "Wij hebben gedrinkt.",
+     "Wij hebben gedronken.",
+     "drinken es fuerte: gedronken."
+    ],
+    [
+     "Ik heb gekoopt een fiets.",
+     "Ik heb een fiets gekocht.",
+     "kopen → gekocht, al final."
+    ],
+    [
+     "Ik heb mijn sleutels gevergeten.",
+     "Ik heb mijn sleutels vergeten.",
+     "Los verbos con ver- no llevan ge- de más."
+    ],
+    [
+     "Wat heeft gebeurd?",
+     "Wat is er gebeurd?",
+     "gebeuren va con zijn, y con er."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con hebben o zijn, o con el participio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ gisteren naar Amsterdam gegaan.",
+     "hint": "hebben o zijn",
+     "a": "ben",
+     "full": "Ik ben gisteren naar Amsterdam gegaan."
+    },
+    {
+     "q": "We ______ veel gegeten.",
+     "hint": "hebben o zijn",
+     "a": "hebben",
+     "full": "We hebben veel gegeten."
+    },
+    {
+     "q": "Heb je die film al ______?",
+     "hint": "zien",
+     "a": "gezien",
+     "full": "Heb je die film al gezien?"
+    },
+    {
+     "q": "Zij heeft een brief ______.",
+     "hint": "schrijven",
+     "a": "geschreven",
+     "full": "Zij heeft een brief geschreven."
+    },
+    {
+     "q": "Hij is arts ______.",
+     "hint": "worden",
+     "a": "geworden",
+     "full": "Hij is arts geworden."
+    },
+    {
+     "q": "Ik heb een nieuwe telefoon ______.",
+     "hint": "kopen",
+     "a": "gekocht",
+     "full": "Ik heb een nieuwe telefoon gekocht."
+    },
+    {
+     "q": "______ je ooit in Londen geweest?",
+     "hint": "hebben o zijn, pregunta",
+     "a": "ben",
+     "full": "Ben je ooit in Londen geweest?"
+    },
+    {
+     "q": "We zijn de hele dag thuis ______.",
+     "hint": "blijven",
+     "a": "gebleven",
+     "full": "We zijn de hele dag thuis gebleven."
+    },
+    {
+     "q": "Wat heb je in het weekend ______?",
+     "hint": "doen",
+     "a": "gedaan",
+     "full": "Wat heb je in het weekend gedaan?"
+    },
+    {
+     "q": "De les is om negen uur ______.",
+     "hint": "beginnen",
+     "a": "begonnen",
+     "full": "De les is om negen uur begonnen."
+    },
+    {
+     "q": "Ik heb mijn sleutels ______.",
+     "hint": "vergeten",
+     "a": "vergeten",
+     "full": "Ik heb mijn sleutels vergeten."
+    },
+    {
+     "q": "Ik heb vandaag tien kilometer ______.",
+     "hint": "lopen",
+     "a": "gelopen",
+     "full": "Ik heb vandaag tien kilometer gelopen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me he ido a casa.",
+     "a": "Ik ben naar huis gegaan."
+    },
+    {
+     "q": "¿Has visto la película?",
+     "a": "Heb je de film gezien?"
+    },
+    {
+     "q": "¿Qué ha pasado?",
+     "a": "Wat is er gebeurd?"
+    },
+    {
+     "q": "Nos hemos quedado en casa.",
+     "a": "We zijn thuis gebleven."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
