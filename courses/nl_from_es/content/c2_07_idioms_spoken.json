@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Modismos, argot y neerlandés hablado",
+  "subtitle": "Palabras del habla como joh y zeg, lenguaje informal y juvenil, modismos y refranes",
+  "footer": "Language Learning · C2 · Vocabulario · Neerlandés hablado",
+  "next": "Siguiente: C2 · pdf 8 — El origen de las palabras"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "entender las palabritas del neerlandés hablado: <b>joh, zeg, hè, nou</b>",
+    "reconocer el lenguaje informal y juvenil",
+    "usar modismos frecuentes en la situación adecuada",
+    "entender refranes neerlandeses conocidos"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Nota:</b> sobre todo tienes que <b>reconocer</b> las palabras de las secciones 1 y 2. Úsalas solo con gente de confianza; no son para un examen ni para un texto formal."
+  },
+  {
+   "type": "h1",
+   "text": "1. Las palabritas del habla"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.4,
+    8.0
+   ],
+   "head": [
+    "Palabra",
+    "Función",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "joh",
+     "apelación amistosa o sorprendida (como «tío», «hombre»)",
+     "Joh, wat leuk je te zien! Ach joh, het geeft niet."
+    ],
+    [
+     "zeg",
+     "atención, sorpresa o irritación (como «oye», «vaya»)",
+     "Zeg, heb jij mijn pen? Nou zeg!"
+    ],
+    [
+     "hè",
+     "coletilla (¿eh?, ¿verdad?) o un suspiro",
+     "Mooi weer, hè? Hè, eindelijk weekend."
+    ],
+    [
+     "nou",
+     "pues, bueno; impaciencia",
+     "Nou, wat vind je ervan? Kom nou!"
+    ],
+    [
+     "toch",
+     "¿no?, ¿verdad?",
+     "Je komt toch?"
+    ],
+    [
+     "effe",
+     "even hablado (un momento)",
+     "Wacht effe."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Lenguaje informal y juvenil"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras informales",
+   "items": [
+    [
+     "tof",
+     "genial, guay"
+    ],
+    [
+     "vet",
+     "guay, chulo"
+    ],
+    [
+     "chill",
+     "tranqui, agradable"
+    ],
+    [
+     "Boeien!",
+     "¡Me da igual! ¡Qué más da!"
+    ],
+    [
+     "Echt wel.",
+     "Claro que sí. Seguro."
+    ],
+    [
+     "Mwah.",
+     "Psé, regular."
+    ],
+    [
+     "Dikke doei!",
+     "¡Chao! (muy informal)"
+    ],
+    [
+     "Lekker bezig!",
+     "¡Bien hecho! (también irónico)"
+    ],
+    [
+     "sowieso",
+     "de todas formas, seguro"
+    ],
+    [
+     "Hoezo?",
+     "¿Por qué? ¿Cómo que ...?"
+    ],
+    [
+     "balen",
+     "estar harto, fastidiarse"
+    ],
+    [
+     "gezeur",
+     "quejarse, dar la lata"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "balen y baal je ervan?",
+   "text": "<b>balen</b> (<i>Ik baal ervan</i> = estoy harto, qué rabia) es uno de los verbos informales más útiles. <b>Hoezo?</b> pide una razón, a menudo con sorpresa: <i>Je moet morgen werken. — Hoezo?</i> (¿Cómo que tengo que trabajar?) Y <b>sowieso</b> significa <i>de todas formas</i> o <i>seguro</i>: <i>Ik kom sowieso</i> (voy seguro)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Modismos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Modismos de nivel C2",
+   "items": [
+    [
+     "de kat de bel aanbinden",
+     "poner el cascabel al gato"
+    ],
+    [
+     "voor spek en bonen meedoen",
+     "estar de relleno, participar sin contar"
+    ],
+    [
+     "de boot afhouden",
+     "dar largas a algo"
+    ],
+    [
+     "iemand voor het blok zetten",
+     "poner a alguien entre la espada y la pared"
+    ],
+    [
+     "een appeltje met iemand te schillen hebben",
+     "tener una cuenta pendiente con alguien"
+    ],
+    [
+     "met de handen in het haar zitten",
+     "no saber qué hacer, estar desesperado"
+    ],
+    [
+     "op je tenen lopen",
+     "dejarse la piel, darlo todo"
+    ],
+    [
+     "de puntjes op de i zetten",
+     "poner los puntos sobre las íes"
+    ],
+    [
+     "een oogje dichtknijpen",
+     "hacer la vista gorda"
+    ],
+    [
+     "boter op je hoofd hebben",
+     "dijo la sartén al cazo, ser culpable de lo mismo"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Refranes"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Refranes conocidos",
+   "items": [
+    [
+     "Wie niet waagt, die niet wint.",
+     "Quien no arriesga, no gana."
+    ],
+    [
+     "Oost west, thuis best.",
+     "Como en casa, en ningún sitio."
+    ],
+    [
+     "Beter laat dan nooit.",
+     "Más vale tarde que nunca."
+    ],
+    [
+     "Haastige spoed is zelden goed.",
+     "Vísteme despacio, que tengo prisa."
+    ],
+    [
+     "Wie A zegt, moet ook B zeggen.",
+     "De perdidos, al río."
+    ],
+    [
+     "Zo vader, zo zoon.",
+     "De tal palo, tal astilla."
+    ],
+    [
+     "Geen gezeur, gewoon doen.",
+     "Sin rodeos, hazlo y ya."
+    ],
+    [
+     "Doe maar gewoon, dan doe je al gek genoeg.",
+     "Compórtate con normalidad, que eso ya es bastante raro."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______, wat leuk je te zien!",
+     "hint": "apelación amistosa",
+     "a": "joh",
+     "full": "Joh, wat leuk je te zien!"
+    },
+    {
+     "q": "Mooi weer vandaag, ______?",
+     "hint": "¿verdad?",
+     "a": "hè",
+     "full": "Mooi weer vandaag, hè?"
+    },
+    {
+     "q": "Ik ______ ervan dat ik niet mee kan.",
+     "hint": "harto",
+     "a": "baal",
+     "full": "Ik baal ervan dat ik niet mee kan."
+    },
+    {
+     "q": "Je moet morgen werken. — ______? Het is toch zondag?",
+     "hint": "¿cómo que ...?",
+     "a": "hoezo",
+     "full": "Je moet morgen werken. — Hoezo? Het is toch zondag?"
+    },
+    {
+     "q": "Wie durft de kat de ______ aan te binden?",
+     "hint": "cascabel, campana",
+     "a": "bel",
+     "full": "Wie durft de kat de bel aan te binden?"
+    },
+    {
+     "q": "Ik heb nog een appeltje met je te ______.",
+     "hint": "pelar",
+     "a": "schillen",
+     "full": "Ik heb nog een appeltje met je te schillen."
+    },
+    {
+     "q": "Hij zit met de handen in het ______.",
+     "hint": "pelo",
+     "a": "haar",
+     "full": "Hij zit met de handen in het haar."
+    },
+    {
+     "q": "We moeten nog even de puntjes op de ______ zetten.",
+     "hint": "letra (i)",
+     "a": "i",
+     "full": "We moeten nog even de puntjes op de i zetten."
+    },
+    {
+     "q": "Wie niet ______, die niet wint.",
+     "hint": "se atreve",
+     "a": "waagt",
+     "full": "Wie niet waagt, die niet wint."
+    },
+    {
+     "q": "Oost west, thuis ______.",
+     "hint": "mejor",
+     "a": "best",
+     "full": "Oost west, thuis best."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Más vale tarde que nunca.",
+     "a": "Beter laat dan nooit."
+    },
+    {
+     "q": "De tal palo, tal astilla.",
+     "a": "Zo vader, zo zoon."
+    },
+    {
+     "q": "Estoy harto de esto.",
+     "a": "Ik baal ervan."
+    },
+    {
+     "q": "Como en casa, en ningún sitio.",
+     "a": "Oost west, thuis best."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

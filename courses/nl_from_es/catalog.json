@@ -603,5 +603,16 @@
   "subtitle": "Informes y propuestas, fórmulas comerciales, mocht u ..., el neerlandés oficial y jurídico, y el lenguaje claro",
   "content": "c2_06_formal_business_writing.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_07_Modismos_argot_y_neerlandes_hablado",
+  "file": "C2_07_Modismos_argot_y_neerlandes_hablado.pdf",
+  "level": "C2",
+  "number": 7,
+  "section": "Vocabulario",
+  "title": "Modismos, argot y neerlandés hablado",
+  "subtitle": "Palabras del habla como joh y zeg, lenguaje informal y juvenil, modismos y refranes",
+  "content": "c2_07_idioms_spoken.json",
+  "exercise_count": 10
  }
 ]
