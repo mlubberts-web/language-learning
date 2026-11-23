@@ -394,5 +394,16 @@
   "subtitle": "het, dit and dat as subjects, die and dat standing alone, elkaar, zichzelf, and men, je and ze",
   "content": "b2_07_pronouns_depth.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_08_Register_and_writing",
+  "file": "B2_08_Register_and_writing.pdf",
+  "level": "B2",
+  "number": 8,
+  "section": "Writing",
+  "title": "Register and writing",
+  "subtitle": "u and jij, formal and informal e-mails, fixed phrases, and the Staatsexamen writing tasks",
+  "content": "b2_08_register_writing.json",
+  "exercise_count": 12
  }
 ]
