@@ -152,5 +152,16 @@
   "subtitle": "dat, omdat, als, toen y of: el verbo va al final",
   "content": "a2_05_subordinate_clauses.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_06_Los_verbos_reflexivos",
+  "file": "A2_06_Los_verbos_reflexivos.pdf",
+  "level": "A2",
+  "number": 6,
+  "section": "Verbos",
+  "title": "Los verbos reflexivos",
+  "subtitle": "zich, me y je: zich vervelen, zich herinneren, zich haasten y más",
+  "content": "a2_06_reflexive_verbs.json",
+  "exercise_count": 12
  }
 ]

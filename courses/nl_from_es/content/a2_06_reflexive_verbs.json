@@ -1,0 +1,385 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Los verbos reflexivos",
+  "subtitle": "zich, me y je: zich vervelen, zich herinneren, zich haasten y más",
+  "footer": "Language Learning · A2 · Verbos · Los verbos reflexivos",
+  "next": "Siguiente: A2 · pdf 7 — Las preposiciones"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "conjugar los verbos reflexivos con <b>me, je, zich, ons</b>",
+    "usar los verbos reflexivos más frecuentes",
+    "poner el pronombre reflexivo en su sitio",
+    "usarlos en el perfecto: <i>Ik heb me verslapen</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Las formas"
+  },
+  {
+   "type": "p",
+   "text": "Un verbo reflexivo tiene un pronombre que se refiere al sujeto, como en español: <i>Ik was <b>me</b></i> (me lavo). Aquí el español te ayuda mucho: <i>aburrirse, acordarse, darse prisa</i> también son reflexivos en neerlandés. La diferencia es el orden: el pronombre va <b>detrás</b> del verbo, no delante."
+  },
+  {
+   "type": "conj",
+   "verb": "zich vervelen",
+   "meaning": "aburrirse",
+   "label": "verbo reflexivo",
+   "tense": "presente",
+   "forms": [
+    "verveel *me*",
+    "verveelt *je*",
+    "verveelt *zich*",
+    "vervelen *ons*",
+    "vervelen *je*",
+    "vervelen *zich*"
+   ],
+   "examples": [
+    [
+     "Ik verveel me.",
+     "Me aburro."
+    ],
+    [
+     "Verveel je je?",
+     "¿Te aburres?"
+    ],
+    [
+     "Hij verveelt zich op school.",
+     "Se aburre en el colegio."
+    ],
+    [
+     "We vervelen ons nooit.",
+     "Nunca nos aburrimos."
+    ],
+    [
+     "Vervelen jullie je?",
+     "¿Os aburrís?"
+    ],
+    [
+     "De kinderen vervelen zich.",
+     "Los niños se aburren."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "u: zich o u",
+   "text": "Con <b>u</b> se puede decir <b>zich</b> o <b>u</b>: <i>Herinnert u zich dat? / Herinnert u u dat?</i> (¿Se acuerda usted de eso?). La primera es más frecuente. Y en una pregunta con jij aparece <b>je je</b>: <i>Verveel <b>je je</b>?</i> Parece raro, pero es correcto."
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbos reflexivos frecuentes"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos reflexivos",
+   "items": [
+    [
+     "zich vervelen",
+     "aburrirse"
+    ],
+    [
+     "zich herinneren",
+     "acordarse, recordar"
+    ],
+    [
+     "zich haasten",
+     "darse prisa"
+    ],
+    [
+     "zich voelen",
+     "sentirse"
+    ],
+    [
+     "zich vergissen",
+     "equivocarse"
+    ],
+    [
+     "zich verslapen",
+     "quedarse dormido"
+    ],
+    [
+     "zich afvragen",
+     "preguntarse"
+    ],
+    [
+     "zich zorgen maken",
+     "preocuparse"
+    ],
+    [
+     "zich schamen",
+     "avergonzarse"
+    ],
+    [
+     "zich voorstellen",
+     "presentarse, imaginarse"
+    ],
+    [
+     "zich aankleden",
+     "vestirse"
+    ],
+    [
+     "zich wassen",
+     "lavarse"
+    ],
+    [
+     "zich concentreren",
+     "concentrarse"
+    ],
+    [
+     "zich interesseren voor",
+     "interesarse por"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Parecidos, pero no siempre",
+   "bullets": [
+    "<b>Ik verveel me</b> = me aburro, <b>Ik voel me goed</b> = me siento bien, <b>Ik vergis me</b> = me equivoco: igual que en español.",
+    "Pero algunos reflexivos españoles no lo son en neerlandés: <i>levantarse</i> = <b>opstaan</b>, <i>irse</i> = <b>weggaan</b>, <i>ducharse</i> = <b>douchen</b>, <i>casarse</i> = <b>trouwen</b>.",
+    "<b>Ik herinner me</b> = me acuerdo. <b>Ik maak me zorgen</b> = me preocupo.",
+    "<b>Ik heb me verslapen</b> = me he quedado dormido (con hebben, nunca con zijn)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿Dónde va el pronombre?"
+  },
+  {
+   "type": "p",
+   "text": "El pronombre reflexivo va justo detrás del verbo conjugado, o detrás del sujeto si el sujeto va después del verbo. En una subordinada va justo detrás del sujeto. Un prefijo separable sigue yendo al final."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.4,
+    5.0
+   ],
+   "head": [
+    "Situación",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "oración principal",
+     "Ik haast me.",
+     "Me doy prisa."
+    ],
+    [
+     "inversión",
+     "Morgen haast ik me niet.",
+     "Mañana no me doy prisa."
+    ],
+    [
+     "pregunta",
+     "Herinner je je die dag?",
+     "¿Te acuerdas de aquel día?"
+    ],
+    [
+     "subordinada",
+     "omdat hij zich verveelt",
+     "porque se aburre"
+    ],
+    [
+     "verbo separable",
+     "Ik kleed me aan.",
+     "Me visto."
+    ],
+    [
+     "con un verbo modal",
+     "Je moet je haasten.",
+     "Tienes que darte prisa."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. En el perfecto: hebben"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos reflexivos siempre llevan <b>hebben</b> en el perfecto: <i>Ik <b>heb</b> me verslapen. Ze <b>heeft</b> zich vergist. We <b>hebben</b> ons goed vermaakt</i> (lo pasamos muy bien)."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿zich o zichzelf?",
+   "text": "<b>zichzelf</b> (sí mismo) da énfasis o contraste: <i>Hij praat tegen <b>zichzelf</b></i> (habla solo, consigo mismo). Con los verbos reflexivos fijos de arriba se usa la forma corta: <i>Hij verveelt <b>zich</b></i>, no <i>zichzelf</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ben verveeld.",
+     "Ik verveel me.",
+     "Aburrirse: zich vervelen."
+    ],
+    [
+     "Ik herinner dat niet.",
+     "Ik herinner me dat niet.",
+     "zich herinneren necesita el pronombre."
+    ],
+    [
+     "Hij verveelt hem.",
+     "Hij verveelt zich.",
+     "hij, zij, het: zich."
+    ],
+    [
+     "Ik ben me verslapen.",
+     "Ik heb me verslapen.",
+     "Los reflexivos van con hebben."
+    ],
+    [
+     "We vervelen zich.",
+     "We vervelen ons.",
+     "we: ons."
+    ],
+    [
+     "Ik voel goed.",
+     "Ik voel me goed.",
+     "zich voelen."
+    ],
+    [
+     "omdat hij verveelt zich",
+     "omdat hij zich verveelt",
+     "Subordinada: el verbo al final."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el pronombre reflexivo o con el verbo. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik verveel ______.",
+     "hint": "pronombre reflexivo",
+     "a": "me",
+     "full": "Ik verveel me."
+    },
+    {
+     "q": "Herinner je ______ mijn naam?",
+     "hint": "pronombre reflexivo",
+     "a": "je",
+     "full": "Herinner je je mijn naam?"
+    },
+    {
+     "q": "Hij voelt ______ niet goed.",
+     "hint": "pronombre reflexivo",
+     "a": "zich",
+     "full": "Hij voelt zich niet goed."
+    },
+    {
+     "q": "We moeten ______ haasten.",
+     "hint": "pronombre reflexivo",
+     "a": "ons",
+     "full": "We moeten ons haasten."
+    },
+    {
+     "q": "Ik heb ______ verslapen.",
+     "hint": "pronombre reflexivo",
+     "a": "me",
+     "full": "Ik heb me verslapen."
+    },
+    {
+     "q": "Ze maakt zich ______ over haar zoon.",
+     "hint": "se preocupa",
+     "a": "zorgen",
+     "full": "Ze maakt zich zorgen over haar zoon."
+    },
+    {
+     "q": "Sorry, ik ______ me. Het is dinsdag.",
+     "hint": "zich vergissen",
+     "a": "vergis",
+     "full": "Sorry, ik vergis me. Het is dinsdag."
+    },
+    {
+     "q": "Mag ik me even ______? Ik ben Tom.",
+     "hint": "presentarse",
+     "a": "voorstellen",
+     "full": "Mag ik me even voorstellen? Ik ben Tom."
+    },
+    {
+     "q": "De kinderen ______ zich in de auto.",
+     "hint": "zich vervelen",
+     "a": "vervelen",
+     "full": "De kinderen vervelen zich in de auto."
+    },
+    {
+     "q": "Ik vraag ______ af of hij komt.",
+     "hint": "pronombre reflexivo",
+     "a": "me",
+     "full": "Ik vraag me af of hij komt."
+    },
+    {
+     "q": "Hij kleedt zich ______.",
+     "hint": "zich aankleden",
+     "a": "aan",
+     "full": "Hij kleedt zich aan."
+    },
+    {
+     "q": "Interesseer je je ______ kunst?",
+     "hint": "preposición",
+     "a": "voor",
+     "full": "Interesseer je je voor kunst?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me aburro.",
+     "a": "Ik verveel me."
+    },
+    {
+     "q": "¿Te acuerdas de mí?",
+     "a": "Herinner je je mij?"
+    },
+    {
+     "q": "Me he quedado dormido.",
+     "a": "Ik heb me verslapen."
+    },
+    {
+     "q": "No te preocupes.",
+     "a": "Maak je geen zorgen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
