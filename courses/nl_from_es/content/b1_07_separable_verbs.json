@@ -1,0 +1,407 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Verbos",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Los verbos separables a fondo",
+  "subtitle": "En todas las posiciones, con te y en el perfecto; los prefijos inseparables be-, ver-, her-, ont-; y el acento",
+  "footer": "Language Learning · B1 · Verbos · Verbos separables a fondo",
+  "next": "Siguiente: B1 · pdf 8 — El estilo indirecto y las preguntas indirectas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar los verbos separables en oraciones principales, subordinadas, con te y en el perfecto",
+    "reconocer los prefijos <b>inseparables</b> <b>be-, ge-, her-, er-, ont-, ver-</b>",
+    "distinguirlos por el acento (<i>VOORkomen</i> y <i>voorKOMEN</i>)",
+    "usar con seguridad los verbos separables más frecuentes"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los verbos separables en todas las posiciones"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    7.0,
+    5.0
+   ],
+   "head": [
+    "Posición",
+    "Ejemplo (opbellen)",
+    "Regla"
+   ],
+   "rows": [
+    [
+     "oración principal",
+     "Ik bel je morgen op.",
+     "el prefijo va al final"
+    ],
+    [
+     "con un verbo modal",
+     "Ik wil je morgen opbellen.",
+     "una palabra al final"
+    ],
+    [
+     "subordinada",
+     "... omdat ik je morgen opbel.",
+     "una palabra al final"
+    ],
+    [
+     "con te",
+     "Ik probeer je op te bellen.",
+     "te en medio"
+    ],
+    [
+     "perfecto",
+     "Ik heb je opgebeld.",
+     "ge en medio"
+    ],
+    [
+     "imperativo",
+     "Bel me morgen op.",
+     "el prefijo va al final"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Lee hasta el final de la frase",
+   "text": "En <i>Ik bel mijn moeder elke zondagavond om acht uur <b>op</b></i>, el significado del verbo (llamar por teléfono, no tocar el timbre) solo se aclara con la última palabra. Al escuchar es fácil perderse el prefijo: espera siempre al final de la frase."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los prefijos inseparables"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos con los prefijos átonos <b>be-, ge-, her-, er-, ont-, ver-</b> nunca se separan y no llevan ge- de más en el participio: <i>Ik <b>begrijp</b> het. Ik heb het <b>begrepen</b>. Ik probeer het te <b>begrijpen</b>.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.6,
+    8.4
+   ],
+   "head": [
+    "Prefijo",
+    "Verbo",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "be-",
+     "betalen",
+     "Ik heb de rekening betaald."
+    ],
+    [
+     "ge-",
+     "gebruiken",
+     "Ik gebruik deze app vaak."
+    ],
+    [
+     "her-",
+     "herhalen",
+     "Kunt u dat herhalen?"
+    ],
+    [
+     "er-",
+     "erkennen",
+     "Hij erkent zijn fout."
+    ],
+    [
+     "ont-",
+     "ontmoeten",
+     "Ik heb haar in Parijs ontmoet."
+    ],
+    [
+     "ver-",
+     "verkopen",
+     "We hebben ons huis verkocht."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El acento lo decide"
+  },
+  {
+   "type": "p",
+   "text": "Algunos prefijos (<b>door, over, onder, om, voor, achter</b>) pueden ser separables o inseparables. El <b>acento</b> lo decide: en el prefijo = separable; en el verbo = inseparable. A menudo el significado cambia."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.8,
+    6.0
+   ],
+   "head": [
+    "Verbo",
+    "Separable (acento en el prefijo)",
+    "Inseparable (acento en el verbo)"
+   ],
+   "rows": [
+    [
+     "voorkomen",
+     "VOORkomen: Dat komt vaak voor. (ocurrir)",
+     "voorKOMEN: We willen ongelukken voorkomen. (prevenir)"
+    ],
+    [
+     "overkomen",
+     "OVERkomen: Mijn zus komt over uit Canada. (venir de visita)",
+     "overKOMEN: Dat is mij nooit overkomen. (pasarle a uno)"
+    ],
+    [
+     "ondergaan",
+     "ONDERgaan: De zon gaat onder. (ponerse el sol)",
+     "onderGAAN: Hij heeft een operatie ondergaan. (someterse a)"
+    ],
+    [
+     "doorlopen",
+     "DOORlopen: Loop maar door. (seguir andando)",
+     "doorLOPEN: Hij heeft de school doorlopen. (terminar, cursar)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos separables frecuentes",
+   "items": [
+    [
+     "aankomen",
+     "llegar"
+    ],
+    [
+     "afspreken",
+     "quedar, acordar"
+    ],
+    [
+     "meenemen",
+     "llevarse"
+    ],
+    [
+     "uitnodigen",
+     "invitar"
+    ],
+    [
+     "opruimen",
+     "ordenar, recoger"
+    ],
+    [
+     "schoonmaken",
+     "limpiar"
+    ],
+    [
+     "terugkomen",
+     "volver"
+    ],
+    [
+     "voorstellen",
+     "presentar, proponer"
+    ],
+    [
+     "aanbieden",
+     "ofrecer"
+    ],
+    [
+     "uitleggen",
+     "explicar"
+    ],
+    [
+     "ophalen",
+     "recoger, ir a buscar"
+    ],
+    [
+     "doorgaan",
+     "seguir, celebrarse"
+    ],
+    [
+     "meedoen",
+     "participar"
+    ],
+    [
+     "toegeven",
+     "admitir, reconocer"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "doorgaan: ¿se celebra o no?",
+   "text": "<b>doorgaan</b> tiene dos significados importantes: <i>seguir</i> (<i>Ga door!</i>, ¡sigue!) y <i>celebrarse, tener lugar</i> (<i>Het concert gaat niet door</i> = se suspende el concierto). El segundo se oye constantemente."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik opruim mijn kamer.",
+     "Ik ruim mijn kamer op.",
+     "Oración principal: el prefijo va al final."
+    ],
+    [
+     "omdat ik ruim mijn kamer op",
+     "omdat ik mijn kamer opruim",
+     "Subordinada: una palabra al final."
+    ],
+    [
+     "Ik probeer te opruimen.",
+     "Ik probeer op te ruimen.",
+     "te en medio."
+    ],
+    [
+     "Ik heb geopgeruimd.",
+     "Ik heb opgeruimd.",
+     "ge en medio."
+    ],
+    [
+     "Ik heb het gebegrepen.",
+     "Ik heb het begrepen.",
+     "be-: sin ge- de más."
+    ],
+    [
+     "Ik stand op om zeven uur.",
+     "Ik sta om zeven uur op.",
+     "Raíz + prefijo al final."
+    ],
+    [
+     "Ik heb haar in Parijs geontmoet.",
+     "Ik heb haar in Parijs ontmoet.",
+     "ont-: sin ge- de más."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ je morgen op.",
+     "hint": "opbellen",
+     "a": "bel",
+     "full": "Ik bel je morgen op."
+    },
+    {
+     "q": "Hij zegt dat hij morgen ______.",
+     "hint": "terugkomen, subordinada",
+     "a": "terugkomt",
+     "full": "Hij zegt dat hij morgen terugkomt."
+    },
+    {
+     "q": "Ik heb mijn vrienden ______.",
+     "hint": "uitnodigen, participio",
+     "a": "uitgenodigd",
+     "full": "Ik heb mijn vrienden uitgenodigd."
+    },
+    {
+     "q": "Vergeet niet je paspoort mee te ______.",
+     "hint": "meenemen",
+     "a": "nemen",
+     "full": "Vergeet niet je paspoort mee te nemen."
+    },
+    {
+     "q": "Ik heb de rekening al ______.",
+     "hint": "betalen, participio",
+     "a": "betaald",
+     "full": "Ik heb de rekening al betaald."
+    },
+    {
+     "q": "Kunt u dat nog eens ______?",
+     "hint": "herhalen",
+     "a": "herhalen",
+     "full": "Kunt u dat nog eens herhalen?"
+    },
+    {
+     "q": "Het concert gaat niet ______. De zanger is ziek.",
+     "hint": "doorgaan",
+     "a": "door",
+     "full": "Het concert gaat niet door. De zanger is ziek."
+    },
+    {
+     "q": "Wil je dat even ______? Ik begrijp het niet.",
+     "hint": "explicar",
+     "a": "uitleggen",
+     "full": "Wil je dat even uitleggen? Ik begrijp het niet."
+    },
+    {
+     "q": "Ik haal je om acht uur ______.",
+     "hint": "ophalen",
+     "a": "op",
+     "full": "Ik haal je om acht uur op."
+    },
+    {
+     "q": "We hebben ons oude huis ______.",
+     "hint": "verkopen, participio",
+     "a": "verkocht",
+     "full": "We hebben ons oude huis verkocht."
+    },
+    {
+     "q": "Mag ik me even ______?",
+     "hint": "presentarse",
+     "a": "voorstellen",
+     "full": "Mag ik me even voorstellen?"
+    },
+    {
+     "q": "Zo'n fout komt vaak ______.",
+     "hint": "voorkomen, ocurrir",
+     "a": "voor",
+     "full": "Zo'n fout komt vaak voor."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Te recojo a las ocho.",
+     "a": "Ik haal je om acht uur op."
+    },
+    {
+     "q": "He invitado a mis amigos.",
+     "a": "Ik heb mijn vrienden uitgenodigd."
+    },
+    {
+     "q": "Se ha suspendido el concierto.",
+     "a": "Het concert gaat niet door."
+    },
+    {
+     "q": "No lo he entendido.",
+     "a": "Ik heb het niet begrepen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
