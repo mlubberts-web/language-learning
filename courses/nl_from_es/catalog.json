@@ -130,5 +130,16 @@
   "subtitle": "-te y -de, las formas fuertes del pasado, y cuándo elegir el pasado simple o el perfecto",
   "content": "a2_03_simple_past.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_04_El_futuro_y_gaan",
+  "file": "A2_04_El_futuro_y_gaan.pdf",
+  "level": "A2",
+  "number": 4,
+  "section": "Verbos",
+  "title": "El futuro y gaan",
+  "subtitle": "El presente para el futuro, gaan + infinitivo, y zullen para promesas y ofrecimientos",
+  "content": "a2_04_future_gaan.json",
+  "exercise_count": 12
  }
 ]

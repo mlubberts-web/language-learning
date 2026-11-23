@@ -1,0 +1,385 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "El futuro y gaan",
+  "subtitle": "El presente para el futuro, gaan + infinitivo, y zullen para promesas y ofrecimientos",
+  "footer": "Language Learning · A2 · Verbos · El futuro y gaan",
+  "next": "Siguiente: A2 · pdf 5 — Las oraciones subordinadas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hablar del futuro con el <b>presente</b> y una palabra de tiempo",
+    "hacer planes y predicciones con <b>gaan + infinitivo</b>",
+    "prometer y ofrecer con <b>zullen</b>: <i>Zal ik je helpen?</i>",
+    "usar palabras de tiempo como <b>straks, volgende week, over twee weken</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El presente para el futuro"
+  },
+  {
+   "type": "p",
+   "text": "La forma más normal de hablar del futuro en neerlandés es el <b>presente</b> con una palabra de tiempo, igual que en español: <i>Morgen <b>werk</b> ik thuis</i> (mañana trabajo en casa). <i>Volgende week <b>ga</b> ik naar Londen.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.4,
+    4.2
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "Morgen werk ik thuis.",
+     "Mañana trabajo en casa.",
+     "un plan"
+    ],
+    [
+     "Ik bel je vanavond.",
+     "Te llamo esta noche.",
+     "una promesa"
+    ],
+    [
+     "De trein vertrekt om acht uur.",
+     "El tren sale a las ocho.",
+     "un horario"
+    ],
+    [
+     "Ik help je wel.",
+     "Ya te ayudo yo.",
+     "una decisión del momento"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. gaan + infinitivo"
+  },
+  {
+   "type": "p",
+   "text": "<b>gaan</b> + infinitivo al final es el <i>ir a</i> del español: para planes y predicciones. <i>Ik <b>ga</b> volgend jaar Spaans <b>leren</b>. Kijk die wolken, het <b>gaat regenen</b>.</i> Fíjate en el orden: el infinitivo va al final, no justo detrás de gaan."
+  },
+  {
+   "type": "conj",
+   "verb": "gaan",
+   "meaning": "ir a",
+   "label": "verbo irregular",
+   "tense": "futuro con gaan",
+   "forms": [
+    "ga ... *doen*",
+    "gaat ... *doen*",
+    "gaat ... *doen*",
+    "gaan ... *doen*",
+    "gaan ... *doen*",
+    "gaan ... *doen*"
+   ],
+   "examples": [
+    [
+     "Ik ga vanavond koken.",
+     "Esta noche voy a cocinar."
+    ],
+    [
+     "Ga je verhuizen?",
+     "¿Te vas a mudar?"
+    ],
+    [
+     "Het gaat regenen.",
+     "Va a llover."
+    ],
+    [
+     "We gaan een huis kopen.",
+     "Vamos a comprar una casa."
+    ],
+    [
+     "Gaan jullie trouwen?",
+     "¿Os vais a casar?"
+    ],
+    [
+     "Ze gaan op vakantie.",
+     "Se van de vacaciones."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. zullen"
+  },
+  {
+   "type": "p",
+   "text": "<b>zullen</b> + infinitivo es el futuro 'oficial'. Al hablar se usa sobre todo para <b>promesas</b>, <b>ofrecimientos</b> y <b>propuestas</b>, y en textos formales."
+  },
+  {
+   "type": "conj",
+   "verb": "zullen",
+   "meaning": "futuro, ir a (promesa, ofrecimiento)",
+   "label": "verbo modal",
+   "tense": "presente",
+   "forms": [
+    "zal",
+    "zult / zal",
+    "zal",
+    "zullen",
+    "zullen",
+    "zullen"
+   ],
+   "examples": [
+    [
+     "Ik zal je helpen.",
+     "Te ayudaré (te lo prometo)."
+    ],
+    [
+     "Zal ik het raam opendoen?",
+     "¿Abro la ventana?"
+    ],
+    [
+     "Het zal wel goed komen.",
+     "Todo saldrá bien."
+    ],
+    [
+     "Zullen we gaan wandelen?",
+     "¿Damos un paseo?"
+    ],
+    [
+     "Jullie zullen het zien.",
+     "Ya lo veréis."
+    ],
+    [
+     "Ze zullen morgen beslissen.",
+     "Mañana decidirán."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "¿Abro la ventana? = Zal ik het raam opendoen?",
+   "text": "Para ofrecer algo, el español usa el presente (<i>¿Abro la ventana?</i>) o <i>¿quieres que ...?</i>. El neerlandés usa <b>Zal ik ...?</b>: <b>Zal ik het raam opendoen?</b> Para proponer algo al grupo, <b>Zullen we ...?</b> (¿Vamos ...?). Y no confundas <b>ik wil</b> (quiero) con un futuro: <i>Ik wil naar huis</i> = quiero irme a casa."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras de tiempo para el futuro",
+   "items": [
+    [
+     "morgen",
+     "mañana"
+    ],
+    [
+     "overmorgen",
+     "pasado mañana"
+    ],
+    [
+     "volgende week",
+     "la semana que viene"
+    ],
+    [
+     "volgend jaar",
+     "el año que viene"
+    ],
+    [
+     "over twee weken",
+     "dentro de dos semanas"
+    ],
+    [
+     "straks",
+     "luego, dentro de un rato"
+    ],
+    [
+     "binnenkort",
+     "pronto"
+    ],
+    [
+     "vanavond",
+     "esta noche"
+    ],
+    [
+     "ooit",
+     "algún día, alguna vez"
+    ],
+    [
+     "in de toekomst",
+     "en el futuro"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "over twee weken = dentro de dos semanas",
+   "text": "Para un momento del futuro, el neerlandés usa <b>over</b>: <i>Ik zie je <b>over</b> een uur</i> (dentro de una hora). <i>In een uur</i> significa <i>en una hora</i> (lo que tarda). Y <b>volgend jaar</b> no lleva -e (het jaar), <b>volgende week</b> sí (de week)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik wil je helpen, dat beloof ik.",
+     "Ik zal je helpen, dat beloof ik.",
+     "Una promesa: zullen, no willen."
+    ],
+    [
+     "Ik ga koken vanavond.",
+     "Ik ga vanavond koken.",
+     "El infinitivo va al final."
+    ],
+    [
+     "Ik zie je in een week.",
+     "Ik zie je over een week.",
+     "Momento futuro: over."
+    ],
+    [
+     "Zal we gaan?",
+     "Zullen we gaan?",
+     "we: zullen."
+    ],
+    [
+     "Hij zult komen.",
+     "Hij zal komen.",
+     "hij: zal."
+    ],
+    [
+     "volgende jaar",
+     "volgend jaar",
+     "het jaar: sin -e tras volgend."
+    ],
+    [
+     "Ik ga gaan naar Londen.",
+     "Ik ga naar Londen.",
+     "Sin gaan doble: basta el presente."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Kijk die wolken! Het ______ regenen.",
+     "hint": "gaan",
+     "a": "gaat",
+     "full": "Kijk die wolken! Het gaat regenen."
+    },
+    {
+     "q": "Ik ga volgend jaar Spaans ______.",
+     "hint": "leren",
+     "a": "leren",
+     "full": "Ik ga volgend jaar Spaans leren."
+    },
+    {
+     "q": "______ ik je helpen met je tassen?",
+     "hint": "ofrecer, ¿quieres que ...?",
+     "a": "zal",
+     "full": "Zal ik je helpen met je tassen?"
+    },
+    {
+     "q": "______ we naar de film gaan?",
+     "hint": "propuesta, ¿vamos ...?",
+     "a": "zullen",
+     "full": "Zullen we naar de film gaan?"
+    },
+    {
+     "q": "Ik zie je ______ twee weken.",
+     "hint": "dentro de dos semanas",
+     "a": "over",
+     "full": "Ik zie je over twee weken."
+    },
+    {
+     "q": "______ werk ik thuis.",
+     "hint": "mañana",
+     "a": "morgen",
+     "full": "Morgen werk ik thuis."
+    },
+    {
+     "q": "Ik bel je ______. Nu heb ik geen tijd.",
+     "hint": "luego",
+     "a": "straks",
+     "full": "Ik bel je straks. Nu heb ik geen tijd."
+    },
+    {
+     "q": "We ______ een nieuw huis kopen.",
+     "hint": "gaan, nosotros",
+     "a": "gaan",
+     "full": "We gaan een nieuw huis kopen."
+    },
+    {
+     "q": "Ik ______ het aan niemand vertellen. Beloofd.",
+     "hint": "zullen, promesa",
+     "a": "zal",
+     "full": "Ik zal het aan niemand vertellen. Beloofd."
+    },
+    {
+     "q": "De trein ______ om tien uur.",
+     "hint": "vertrekken, horario",
+     "a": "vertrekt",
+     "full": "De trein vertrekt om tien uur."
+    },
+    {
+     "q": "______ week ga ik naar Parijs.",
+     "hint": "que viene",
+     "a": "volgende",
+     "full": "Volgende week ga ik naar Parijs."
+    },
+    {
+     "q": "Het zal wel goed ______.",
+     "hint": "saldrá bien",
+     "a": "komen",
+     "full": "Het zal wel goed komen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Te llamo esta noche.",
+     "a": "Ik bel je vanavond."
+    },
+    {
+     "q": "¿Damos un paseo?",
+     "a": "Zullen we gaan wandelen?"
+    },
+    {
+     "q": "El año que viene vamos a comprar una casa.",
+     "a": "We gaan volgend jaar een huis kopen."
+    },
+    {
+     "q": "Hasta dentro de una semana.",
+     "a": "Tot over een week."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
