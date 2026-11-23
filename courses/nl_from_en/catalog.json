@@ -130,5 +130,16 @@
   "subtitle": "-te and -de, the strong past forms, and when to choose the simple past or the perfect",
   "content": "a2_03_simple_past.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_04_The_future_and_gaan",
+  "file": "A2_04_The_future_and_gaan.pdf",
+  "level": "A2",
+  "number": 4,
+  "section": "Verbs",
+  "title": "The future and gaan",
+  "subtitle": "The present tense for the future, gaan + infinitive, zullen for promises and offers",
+  "content": "a2_04_future_gaan.json",
+  "exercise_count": 12
  }
 ]
