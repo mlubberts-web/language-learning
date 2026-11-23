@@ -471,5 +471,16 @@
   "subtitle": "La nominalización, las locuciones preposicionales formales, er is sprake van, el vocabulario formal y las tareas del CNaVT PAT",
   "content": "c1_04_nominal_academic.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_05_Participios_y_oraciones_abreviadas",
+  "file": "C1_05_Participios_y_oraciones_abreviadas.pdf",
+  "level": "C1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "Participios y oraciones abreviadas",
+  "subtitle": "lopend y de huilende baby, al lachend, de gestolen fiets, y cuándo usar una oración en lugar del gerundio",
+  "content": "c1_05_participles.json",
+  "exercise_count": 12
  }
 ]

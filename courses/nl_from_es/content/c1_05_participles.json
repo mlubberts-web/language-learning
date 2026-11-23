@@ -1,0 +1,371 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Participios y oraciones abreviadas",
+  "subtitle": "lopend y de huilende baby, al lachend, de gestolen fiets, y cuándo usar una oración en lugar del gerundio",
+  "footer": "Language Learning · C1 · Gramática · Participios y oraciones abreviadas",
+  "next": "Siguiente: C1 · pdf 6 — Formas formales fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el participio de presente (<b>lopend, huilend</b>) y usarlo delante de un sustantivo",
+    "usar el participio pasado como adjetivo (<i>de gestolen fiets</i>)",
+    "describir cómo ocurre algo: <i>Hij kwam lachend binnen</i>",
+    "traducir el gerundio español con una subordinada neerlandesa"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El participio de presente"
+  },
+  {
+   "type": "p",
+   "text": "El participio de presente es el infinitivo + <b>d</b>: <i>lopen → lopend, huilen → huilend, slapen → slapend</i> (gaan → gaand, zien → ziend). Equivale a menudo al gerundio español o a un adjetivo en <i>-nte</i>. Delante de un sustantivo sigue la regla de la -e: <i>de huil<b>ende</b> baby, een slap<b>end</b> kind, het lop<b>ende</b> water</i> (el agua corriente)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.0,
+    5.4
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "delante de un sustantivo",
+     "de huilende baby",
+     "el bebé que llora"
+    ],
+    [
+     "delante de un sustantivo (palabra het, een)",
+     "een spannend boek",
+     "un libro emocionante"
+    ],
+    [
+     "cómo ocurre algo",
+     "Hij kwam lachend binnen.",
+     "Entró riendo."
+    ],
+    [
+     "al + participio: mientras",
+     "Al lopend dacht ik na.",
+     "Mientras caminaba, pensaba."
+    ],
+    [
+     "adjetivos fijos",
+     "dringend, opvallend, overtuigend",
+     "urgente, llamativo, convincente"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "No para «estoy andando»",
+   "text": "El participio de presente <b>no</b> sirve para la forma continua. <i>Estoy andando</i> es <b>Ik loop</b> o <b>Ik ben aan het lopen</b>, nunca <i>Ik ben lopend</i>. El neerlandés usa el participio mucho menos que el español el gerundio."
+  },
+  {
+   "type": "h1",
+   "text": "2. El participio pasado como adjetivo"
+  },
+  {
+   "type": "p",
+   "text": "Un participio pasado puede ir delante de un sustantivo como cualquier adjetivo, con la regla de la -e: <i>de <b>gestolen</b> fiets</i> (los participios fuertes en -en no llevan -e de más), <i>het <b>gekookte</b> ei</i>, <i>een <b>gebroken</b> hart</i>, <i>de <b>verwachte</b> resultaten</i>. Recuerda: delante del sustantivo, no detrás como en español (<i>la bici robada</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.2,
+    5.4
+   ],
+   "head": [
+    "Participio",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "gestolen (fuerte, -en)",
+     "de gestolen fiets",
+     "la bici robada"
+    ],
+    [
+     "gekookt (débil)",
+     "het gekookte ei",
+     "el huevo cocido"
+    ],
+    [
+     "verwacht",
+     "de verwachte uitslag",
+     "el resultado esperado"
+    ],
+    [
+     "gesloten",
+     "een gesloten deur",
+     "una puerta cerrada"
+    ],
+    [
+     "gemaakt",
+     "een zelfgemaakte taart",
+     "una tarta casera"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Oraciones abreviadas: solo en estilo formal"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés escrito formal usa a veces construcciones de participio: <i><b>Thuisgekomen</b>, ging ik meteen slapen</i> (llegado a casa, me fui a dormir). <i><b>Gezien</b> de omstandigheden ...</i> (dadas las circunstancias). En el neerlandés normal es mucho más frecuente una subordinada completa. Las frases con gerundio español se traducen casi siempre con una."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    6.6,
+    4.8
+   ],
+   "head": [
+    "Español",
+    "Neerlandés natural",
+    "Neerlandés formal"
+   ],
+   "rows": [
+    [
+     "Volviendo a casa, me encontré con Tom.",
+     "Toen ik naar huis liep, kwam ik Tom tegen.",
+     "—"
+    ],
+    [
+     "Una vez terminado, se fue.",
+     "Nadat hij klaar was, vertrok hij.",
+     "Klaar zijnde, vertrok hij. (muy formal)"
+    ],
+    [
+     "Como estaba cansada, se fue a la cama.",
+     "Omdat ze moe was, ging ze naar bed.",
+     "—"
+    ],
+    [
+     "Dada la situación, ...",
+     "Omdat de situatie zo is, ...",
+     "Gezien de situatie ..."
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones fijas con participio",
+   "items": [
+    [
+     "gezien",
+     "dado, en vista de"
+    ],
+    [
+     "gelet op",
+     "considerando"
+    ],
+    [
+     "uitgaande van",
+     "suponiendo"
+    ],
+    [
+     "afgezien van",
+     "aparte de"
+    ],
+    [
+     "vergeleken met",
+     "comparado con"
+    ],
+    [
+     "gebaseerd op",
+     "basado en"
+    ],
+    [
+     "alles bij elkaar genomen",
+     "bien mirado, a fin de cuentas"
+    ],
+    [
+     "strikt genomen",
+     "estrictamente hablando"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ben lopend naar huis.",
+     "Ik loop naar huis.",
+     "Sin forma continua con el participio."
+    ],
+    [
+     "de huilend baby",
+     "de huilende baby",
+     "Tras de: -e."
+    ],
+    [
+     "de gestolene fiets",
+     "de gestolen fiets",
+     "Participios en -en: sin -e."
+    ],
+    [
+     "Lopend naar huis, ik zag Tom.",
+     "Toen ik naar huis liep, zag ik Tom.",
+     "Usa una subordinada."
+    ],
+    [
+     "Hij kwam binnen lachen.",
+     "Hij kwam lachend binnen.",
+     "Cómo: participio de presente."
+    ],
+    [
+     "een spannende boek",
+     "een spannend boek",
+     "een + palabra het: sin -e."
+    ],
+    [
+     "Gezien van de situatie ...",
+     "Gezien de situatie ...",
+     "gezien sin van."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De ______ baby werd wakker.",
+     "hint": "huilen, participio de presente",
+     "a": "huilende",
+     "full": "De huilende baby werd wakker."
+    },
+    {
+     "q": "Het was een ______ film.",
+     "hint": "spannen, participio de presente",
+     "a": "spannende",
+     "full": "Het was een spannende film."
+    },
+    {
+     "q": "Hij kwam ______ binnen.",
+     "hint": "lachen, participio de presente",
+     "a": "lachend",
+     "full": "Hij kwam lachend binnen."
+    },
+    {
+     "q": "De politie vond de ______ fiets terug.",
+     "hint": "stelen, participio pasado",
+     "a": "gestolen",
+     "full": "De politie vond de gestolen fiets terug."
+    },
+    {
+     "q": "Ik eet graag een ______ ei.",
+     "hint": "koken, participio pasado",
+     "a": "gekookt",
+     "full": "Ik eet graag een gekookt ei."
+    },
+    {
+     "q": "Al ______ bedacht ik een plan.",
+     "hint": "fietsen, mientras",
+     "a": "fietsend",
+     "full": "Al fietsend bedacht ik een plan."
+    },
+    {
+     "q": "______ de omstandigheden stoppen we.",
+     "hint": "dado",
+     "a": "gezien",
+     "full": "Gezien de omstandigheden stoppen we."
+    },
+    {
+     "q": "______ op de feiten is dit de beste keuze.",
+     "hint": "basado en",
+     "a": "gebaseerd",
+     "full": "Gebaseerd op de feiten is dit de beste keuze."
+    },
+    {
+     "q": "______ ik naar huis liep, zag ik een vos.",
+     "hint": "cuando, pasado",
+     "a": "toen",
+     "full": "Toen ik naar huis liep, zag ik een vos."
+    },
+    {
+     "q": "Strikt ______ heb je gelijk.",
+     "hint": "estrictamente hablando",
+     "a": "genomen",
+     "full": "Strikt genomen heb je gelijk."
+    },
+    {
+     "q": "Dit is een ______ probleem.",
+     "hint": "dringen, urgente",
+     "a": "dringend",
+     "full": "Dit is een dringend probleem."
+    },
+    {
+     "q": "______ van het weer was het een mooie dag.",
+     "hint": "aparte de",
+     "a": "afgezien",
+     "full": "Afgezien van het weer was het een mooie dag."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "el bebé que llora",
+     "a": "de huilende baby"
+    },
+    {
+     "q": "Entró riendo.",
+     "a": "Hij kwam lachend binnen."
+    },
+    {
+     "q": "Volviendo a casa, me encontré con Tom.",
+     "a": "Toen ik naar huis liep, kwam ik Tom tegen."
+    },
+    {
+     "q": "la bici robada",
+     "a": "de gestolen fiets"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
