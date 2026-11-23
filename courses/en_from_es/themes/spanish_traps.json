@@ -1,0 +1,210 @@
+{
+ "title": "🇪🇸 Trampas para hispanohablantes",
+ "kind": "language",
+ "lists": [
+  {
+   "name": "Falsos amigos",
+   "level": "B1",
+   "items": [
+    [
+     "eventually",
+     "al final, finalmente",
+     "After hours of searching, we [eventually] found the hotel.",
+     "Eventualmente = possibly."
+    ],
+    [
+     "actually",
+     "en realidad",
+     "I thought it was easy, but it's [actually] quite hard.",
+     "Actualmente = currently, nowadays."
+    ],
+    [
+     "sensible",
+     "sensato",
+     "That's a very [sensible] decision.",
+     "Sensible = sensitive."
+    ],
+    [
+     "embarrassed",
+     "avergonzado",
+     "I was so [embarrassed] when I fell over.",
+     "Embarazada = pregnant."
+    ],
+    [
+     "constipated",
+     "estreñido",
+     "Eat more fruit if you feel [constipated].",
+     "Constipado = to have a cold."
+    ],
+    [
+     "library",
+     "biblioteca",
+     "I borrowed this book from the [library].",
+     "Librería = bookshop."
+    ],
+    [
+     "carpet",
+     "moqueta, alfombra",
+     "There's a red [carpet] in the living room.",
+     "Carpeta = folder."
+    ],
+    [
+     "to attend",
+     "asistir a",
+     "Over two hundred people [attended] the conference.",
+     "Atender = to serve, to deal with."
+    ],
+    [
+     "to assist",
+     "ayudar",
+     "The nurse will [assist] the doctor.",
+     "Asistir a = to attend."
+    ],
+    [
+     "to realise",
+     "darse cuenta de",
+     "I didn't [realise] it was so late.",
+     "Realizar = to carry out."
+    ],
+    [
+     "exit",
+     "salida",
+     "Please leave by the nearest [exit].",
+     "Éxito = success."
+    ],
+    [
+     "career",
+     "carrera profesional",
+     "She had a long [career] in banking.",
+     "Carrera (universitaria) = degree."
+    ],
+    [
+     "sympathetic",
+     "comprensivo",
+     "My boss was very [sympathetic] when I was ill.",
+     "Simpático = nice, friendly."
+    ],
+    [
+     "lecture",
+     "clase, conferencia",
+     "The [lecture] starts at nine.",
+     "Lectura = reading."
+    ],
+    [
+     "to support",
+     "apoyar",
+     "My parents always [support] me.",
+     "Soportar = to put up with."
+    ],
+    [
+     "fabric",
+     "tela, tejido",
+     "This shirt is made of a soft [fabric].",
+     "Fábrica = factory."
+    ]
+   ]
+  },
+  {
+   "name": "Errores típicos de los hispanohablantes",
+   "level": "B1",
+   "items": [
+    [
+     "I'm hungry",
+     "tengo hambre",
+     "Let's eat. [I'm hungry].",
+     "No I have hunger."
+    ],
+    [
+     "I'm twenty",
+     "tengo veinte años",
+     "Next week [I'm twenty].",
+     "No I have twenty years."
+    ],
+    [
+     "I've been waiting for an hour",
+     "llevo una hora esperando",
+     "[I've been waiting for an hour]. Where are you?",
+     "No I'm waiting since one hour."
+    ],
+    [
+     "It depends on",
+     "depende de",
+     "[It depends on] the weather.",
+     "No depend of."
+    ],
+    [
+     "to marry someone",
+     "casarse con alguien",
+     "She wants [to marry someone] kind.",
+     "Sin with: marry someone, o get married to."
+    ],
+    [
+     "to take a photo",
+     "hacer una foto",
+     "Can you [take a photo] of us?",
+     "No make a photo."
+    ],
+    [
+     "to make a decision",
+     "tomar una decisión",
+     "We need [to make a decision] today.",
+     "No take a decision."
+    ],
+    [
+     "I think so",
+     "creo que sí",
+     "Is it open? — [I think so].",
+     "No I think yes."
+    ],
+    [
+     "to buy bread",
+     "para comprar pan",
+     "I went to the shop [to buy bread].",
+     "No for to buy, for buy."
+    ],
+    [
+     "There are",
+     "hay (plural)",
+     "[There are] two cafés in the square.",
+     "No There is two cafés."
+    ],
+    [
+     "I agree",
+     "estoy de acuerdo",
+     "You're right. [I agree].",
+     "No I'm agree."
+    ],
+    [
+     "people are",
+     "la gente es, la gente está",
+     "The [people are] very friendly here.",
+     "People es plural."
+    ],
+    [
+     "Life is",
+     "la vida es",
+     "[Life is] short.",
+     "Sin the en general: no The life."
+    ],
+    [
+     "to explain to me",
+     "explicarme",
+     "Can you [explain to me] how it works?",
+     "No explain me."
+    ],
+    [
+     "It's raining",
+     "llueve, está lloviendo",
+     "Take an umbrella. [It's raining].",
+     "El sujeto es obligatorio: no Is raining."
+    ],
+    [
+     "to lend",
+     "prestar, dejar",
+     "Can you [lend] me your pen?",
+     "Pedir prestado = borrow."
+    ]
+   ]
+  }
+ ]
+}

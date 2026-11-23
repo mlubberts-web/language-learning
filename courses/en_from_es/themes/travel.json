@@ -1,0 +1,146 @@
+{
+ "title": "✈️ Viajes",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En avión y en tren",
+   "level": "A2",
+   "items": [
+    [
+     "boarding pass",
+     "tarjeta de embarque"
+    ],
+    [
+     "gate",
+     "puerta de embarque"
+    ],
+    [
+     "delay",
+     "retraso"
+    ],
+    [
+     "departure",
+     "salida"
+    ],
+    [
+     "arrival",
+     "llegada"
+    ],
+    [
+     "luggage",
+     "equipaje"
+    ],
+    [
+     "hand luggage",
+     "equipaje de mano"
+    ],
+    [
+     "check-in desk",
+     "mostrador de facturación"
+    ],
+    [
+     "customs",
+     "aduana"
+    ],
+    [
+     "return ticket",
+     "billete de ida y vuelta"
+    ],
+    [
+     "single ticket",
+     "billete de ida"
+    ],
+    [
+     "platform",
+     "andén"
+    ],
+    [
+     "timetable",
+     "horario"
+    ],
+    [
+     "to change trains",
+     "hacer transbordo"
+    ],
+    [
+     "to miss",
+     "perder (un tren, un vuelo)"
+    ],
+    [
+     "journey",
+     "viaje"
+    ]
+   ]
+  },
+  {
+   "name": "Alojamiento y turismo",
+   "level": "B1",
+   "items": [
+    [
+     "accommodation",
+     "alojamiento"
+    ],
+    [
+     "hostel",
+     "albergue"
+    ],
+    [
+     "bed and breakfast",
+     "pensión, casa de huéspedes"
+    ],
+    [
+     "booking",
+     "reserva"
+    ],
+    [
+     "to check out",
+     "dejar la habitación"
+    ],
+    [
+     "single room",
+     "habitación individual"
+    ],
+    [
+     "double room",
+     "habitación doble"
+    ],
+    [
+     "sightseeing",
+     "hacer turismo"
+    ],
+    [
+     "guided tour",
+     "visita guiada"
+    ],
+    [
+     "souvenir",
+     "recuerdo"
+    ],
+    [
+     "brochure",
+     "folleto"
+    ],
+    [
+     "backpack",
+     "mochila"
+    ],
+    [
+     "abroad",
+     "en el extranjero"
+    ],
+    [
+     "jet lag",
+     "desfase horario, jet lag"
+    ],
+    [
+     "holiday",
+     "vacaciones"
+    ],
+    [
+     "travel insurance",
+     "seguro de viaje"
+    ]
+   ]
+  }
+ ]
+}

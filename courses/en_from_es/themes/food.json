@@ -1,0 +1,154 @@
+{
+ "title": "🍽️ Comida y cocina",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En la cocina",
+   "level": "A2",
+   "items": [
+    [
+     "frying pan",
+     "sartén"
+    ],
+    [
+     "saucepan",
+     "cazo, cacerola"
+    ],
+    [
+     "oven",
+     "horno"
+    ],
+    [
+     "cooker",
+     "cocina, fogón"
+    ],
+    [
+     "fridge",
+     "nevera, frigorífico"
+    ],
+    [
+     "freezer",
+     "congelador"
+    ],
+    [
+     "chopping board",
+     "tabla de cortar"
+    ],
+    [
+     "knife",
+     "cuchillo"
+    ],
+    [
+     "fork",
+     "tenedor"
+    ],
+    [
+     "spoon",
+     "cuchara"
+    ],
+    [
+     "recipe",
+     "receta"
+    ],
+    [
+     "ingredient",
+     "ingrediente"
+    ],
+    [
+     "to boil",
+     "hervir, cocer"
+    ],
+    [
+     "to fry",
+     "freír"
+    ],
+    [
+     "to bake",
+     "hornear, asar"
+    ],
+    [
+     "to chop",
+     "picar"
+    ],
+    [
+     "to peel",
+     "pelar"
+    ],
+    [
+     "to stir",
+     "remover"
+    ]
+   ]
+  },
+  {
+   "name": "Comer y salir a comer",
+   "level": "A2",
+   "items": [
+    [
+     "starter",
+     "entrante, primer plato"
+    ],
+    [
+     "main course",
+     "plato principal"
+    ],
+    [
+     "dessert",
+     "postre"
+    ],
+    [
+     "bill",
+     "cuenta"
+    ],
+    [
+     "tip",
+     "propina"
+    ],
+    [
+     "menu",
+     "carta, menú"
+    ],
+    [
+     "vegetarian",
+     "vegetariano"
+    ],
+    [
+     "spicy",
+     "picante"
+    ],
+    [
+     "tasty",
+     "rico, delicioso"
+    ],
+    [
+     "bland",
+     "soso"
+    ],
+    [
+     "fresh",
+     "fresco"
+    ],
+    [
+     "homemade",
+     "casero"
+    ],
+    [
+     "to order",
+     "pedir (en un restaurante)"
+    ],
+    [
+     "to book a table",
+     "reservar una mesa"
+    ],
+    [
+     "takeaway",
+     "comida para llevar"
+    ],
+    [
+     "snack",
+     "tentempié, picoteo"
+    ]
+   ]
+  }
+ ]
+}

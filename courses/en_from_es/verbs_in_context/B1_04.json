@@ -1,0 +1,65 @@
+{
+ "pdf": "B1_04",
+ "items": [
+  [
+   "These cars [are made] in Germany.",
+   "make"
+  ],
+  [
+   "The bridge [was built] in 1890.",
+   "build"
+  ],
+  [
+   "My wallet [has been stolen].",
+   "steal"
+  ],
+  [
+   "The kitchen [is being painted] at the moment.",
+   "paint"
+  ],
+  [
+   "The results [will be published] tomorrow.",
+   "publish"
+  ],
+  [
+   "The form must [be signed] today.",
+   "sign"
+  ],
+  [
+   "Two people [were injured] in the accident.",
+   "injure"
+  ],
+  [
+   "English [is spoken] here.",
+   "speak"
+  ],
+  [
+   "The letters [were sent] yesterday.",
+   "send"
+  ],
+  [
+   "Hamlet [was written] by Shakespeare.",
+   "write"
+  ],
+  [
+   "The rooms [are cleaned] every day.",
+   "clean"
+  ],
+  [
+   "The new library [will be opened] in May.",
+   "open"
+  ],
+  [
+   "The thief [was arrested] last night.",
+   "arrest"
+  ],
+  [
+   "Our house [has been sold].",
+   "sell"
+  ],
+  [
+   "The meeting [was cancelled] because of the snow.",
+   "cancel"
+  ]
+ ]
+}

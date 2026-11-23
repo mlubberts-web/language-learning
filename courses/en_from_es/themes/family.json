@@ -1,0 +1,146 @@
+{
+ "title": "👨‍👩‍👧 Familia",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Miembros de la familia",
+   "level": "A2",
+   "items": [
+    [
+     "grandparents",
+     "abuelos"
+    ],
+    [
+     "grandson",
+     "nieto"
+    ],
+    [
+     "granddaughter",
+     "nieta"
+    ],
+    [
+     "uncle",
+     "tío"
+    ],
+    [
+     "aunt",
+     "tía"
+    ],
+    [
+     "cousin",
+     "primo, prima"
+    ],
+    [
+     "nephew",
+     "sobrino"
+    ],
+    [
+     "niece",
+     "sobrina"
+    ],
+    [
+     "twin",
+     "gemelo, mellizo"
+    ],
+    [
+     "only child",
+     "hijo único"
+    ],
+    [
+     "parents-in-law",
+     "suegros"
+    ],
+    [
+     "brother-in-law",
+     "cuñado"
+    ],
+    [
+     "sister-in-law",
+     "cuñada"
+    ],
+    [
+     "stepfather",
+     "padrastro"
+    ],
+    [
+     "stepmother",
+     "madrastra"
+    ],
+    [
+     "relative",
+     "pariente, familiar"
+    ]
+   ]
+  },
+  {
+   "name": "Relaciones y acontecimientos de la vida",
+   "level": "B1",
+   "items": [
+    [
+     "wedding",
+     "boda"
+    ],
+    [
+     "engagement",
+     "compromiso, pedida de mano"
+    ],
+    [
+     "honeymoon",
+     "luna de miel"
+    ],
+    [
+     "divorce",
+     "divorcio"
+    ],
+    [
+     "to get married",
+     "casarse"
+    ],
+    [
+     "to get divorced",
+     "divorciarse"
+    ],
+    [
+     "to get engaged",
+     "prometerse"
+    ],
+    [
+     "single",
+     "soltero"
+    ],
+    [
+     "widow",
+     "viuda"
+    ],
+    [
+     "widower",
+     "viudo"
+    ],
+    [
+     "pregnancy",
+     "embarazo"
+    ],
+    [
+     "to give birth",
+     "dar a luz"
+    ],
+    [
+     "to bring up",
+     "criar, educar"
+    ],
+    [
+     "childhood",
+     "infancia, niñez"
+    ],
+    [
+     "to grow up",
+     "crecer, criarse"
+    ],
+    [
+     "to look after",
+     "cuidar (de)"
+    ]
+   ]
+  }
+ ]
+}

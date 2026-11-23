@@ -1,0 +1,146 @@
+{
+ "title": "🎓 Colegio y estudios",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Colegio y universidad",
+   "level": "B1",
+   "items": [
+    [
+     "primary school",
+     "colegio de primaria"
+    ],
+    [
+     "secondary school",
+     "instituto, colegio de secundaria"
+    ],
+    [
+     "university",
+     "universidad"
+    ],
+    [
+     "subject",
+     "asignatura"
+    ],
+    [
+     "timetable",
+     "horario"
+    ],
+    [
+     "homework",
+     "deberes"
+    ],
+    [
+     "exam",
+     "examen"
+    ],
+    [
+     "mark",
+     "nota"
+    ],
+    [
+     "degree",
+     "título"
+    ],
+    [
+     "lecture",
+     "clase magistral"
+    ],
+    [
+     "tutor",
+     "tutor"
+    ],
+    [
+     "scholarship",
+     "beca"
+    ],
+    [
+     "tuition fees",
+     "matrícula, tasas universitarias"
+    ],
+    [
+     "term",
+     "trimestre"
+    ],
+    [
+     "to graduate",
+     "graduarse, licenciarse"
+    ],
+    [
+     "student loan",
+     "préstamo de estudios"
+    ]
+   ]
+  },
+  {
+   "name": "Estudiar",
+   "level": "B1",
+   "items": [
+    [
+     "to revise",
+     "estudiar para un examen"
+    ],
+    [
+     "to pass",
+     "aprobar"
+    ],
+    [
+     "to fail",
+     "suspender"
+    ],
+    [
+     "to cheat",
+     "copiar (en un examen)"
+    ],
+    [
+     "to take notes",
+     "tomar apuntes"
+    ],
+    [
+     "essay",
+     "redacción, ensayo"
+    ],
+    [
+     "assignment",
+     "trabajo, tarea"
+    ],
+    [
+     "to hand in",
+     "entregar"
+    ],
+    [
+     "to enrol",
+     "matricularse"
+    ],
+    [
+     "to cram",
+     "empollar"
+    ],
+    [
+     "research",
+     "investigación"
+    ],
+    [
+     "library",
+     "biblioteca"
+    ],
+    [
+     "bookshop",
+     "librería"
+    ],
+    [
+     "to attend",
+     "asistir a"
+    ],
+    [
+     "absent",
+     "ausente"
+    ],
+    [
+     "to learn by heart",
+     "aprender de memoria"
+    ]
+   ]
+  }
+ ]
+}

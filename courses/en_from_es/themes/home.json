@@ -1,0 +1,146 @@
+{
+ "title": "🏠 La casa y la vivienda",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Habitaciones y muebles",
+   "level": "A2",
+   "items": [
+    [
+     "living room",
+     "salón"
+    ],
+    [
+     "bedroom",
+     "dormitorio"
+    ],
+    [
+     "bathroom",
+     "cuarto de baño"
+    ],
+    [
+     "kitchen",
+     "cocina"
+    ],
+    [
+     "hall",
+     "pasillo"
+    ],
+    [
+     "stairs",
+     "escalera"
+    ],
+    [
+     "upstairs",
+     "arriba"
+    ],
+    [
+     "downstairs",
+     "abajo"
+    ],
+    [
+     "cupboard",
+     "armario"
+    ],
+    [
+     "wardrobe",
+     "armario ropero"
+    ],
+    [
+     "shelf",
+     "estante, balda"
+    ],
+    [
+     "sofa",
+     "sofá"
+    ],
+    [
+     "armchair",
+     "sillón"
+    ],
+    [
+     "curtains",
+     "cortinas"
+    ],
+    [
+     "carpet",
+     "moqueta"
+    ],
+    [
+     "tap",
+     "grifo"
+    ]
+   ]
+  },
+  {
+   "name": "Alquilar y las tareas de la casa",
+   "level": "B1",
+   "items": [
+    [
+     "rent",
+     "alquiler"
+    ],
+    [
+     "landlord",
+     "casero, propietario"
+    ],
+    [
+     "tenant",
+     "inquilino"
+    ],
+    [
+     "deposit",
+     "fianza"
+    ],
+    [
+     "flat",
+     "piso, apartamento"
+    ],
+    [
+     "semi-detached house",
+     "casa pareada"
+    ],
+    [
+     "terraced house",
+     "casa adosada"
+    ],
+    [
+     "to move house",
+     "mudarse"
+    ],
+    [
+     "housework",
+     "tareas domésticas"
+    ],
+    [
+     "to do the washing-up",
+     "fregar los platos"
+    ],
+    [
+     "to do the laundry",
+     "poner la lavadora"
+    ],
+    [
+     "to hoover",
+     "pasar la aspiradora"
+    ],
+    [
+     "to tidy up",
+     "ordenar, recoger"
+    ],
+    [
+     "to iron",
+     "planchar"
+    ],
+    [
+     "leak",
+     "gotera, fuga"
+    ],
+    [
+     "to repair",
+     "arreglar, reparar"
+    ]
+   ]
+  }
+ ]
+}

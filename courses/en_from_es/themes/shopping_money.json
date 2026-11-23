@@ -1,0 +1,146 @@
+{
+ "title": "🛍️ Compras y dinero",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "De compras",
+   "level": "A2",
+   "items": [
+    [
+     "shop assistant",
+     "dependiente"
+    ],
+    [
+     "till",
+     "caja"
+    ],
+    [
+     "receipt",
+     "tique, recibo"
+    ],
+    [
+     "changing room",
+     "probador"
+    ],
+    [
+     "size",
+     "talla"
+    ],
+    [
+     "sale",
+     "rebajas"
+    ],
+    [
+     "discount",
+     "descuento"
+    ],
+    [
+     "bargain",
+     "ganga, chollo"
+    ],
+    [
+     "to try on",
+     "probarse"
+    ],
+    [
+     "to suit",
+     "sentar bien, favorecer"
+    ],
+    [
+     "to fit",
+     "quedar bien (de talla)"
+    ],
+    [
+     "to return",
+     "devolver"
+    ],
+    [
+     "refund",
+     "reembolso, devolución"
+    ],
+    [
+     "shopping centre",
+     "centro comercial"
+    ],
+    [
+     "trolley",
+     "carro de la compra"
+    ],
+    [
+     "basket",
+     "cesta"
+    ]
+   ]
+  },
+  {
+   "name": "El dinero y el banco",
+   "level": "B1",
+   "items": [
+    [
+     "cash",
+     "dinero en efectivo"
+    ],
+    [
+     "change",
+     "cambio, vuelta"
+    ],
+    [
+     "coin",
+     "moneda"
+    ],
+    [
+     "note",
+     "billete"
+    ],
+    [
+     "current account",
+     "cuenta corriente"
+    ],
+    [
+     "savings account",
+     "cuenta de ahorro"
+    ],
+    [
+     "cash machine",
+     "cajero automático"
+    ],
+    [
+     "to withdraw",
+     "sacar (dinero)"
+    ],
+    [
+     "to transfer",
+     "hacer una transferencia"
+    ],
+    [
+     "loan",
+     "préstamo"
+    ],
+    [
+     "mortgage",
+     "hipoteca"
+    ],
+    [
+     "debt",
+     "deuda"
+    ],
+    [
+     "interest",
+     "interés, intereses"
+    ],
+    [
+     "to borrow",
+     "pedir prestado"
+    ],
+    [
+     "to lend",
+     "prestar"
+    ],
+    [
+     "to afford",
+     "poder permitirse"
+    ]
+   ]
+  }
+ ]
+}

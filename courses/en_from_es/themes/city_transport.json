@@ -1,0 +1,146 @@
+{
+ "title": "🚇 Ciudad y transporte",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En la ciudad",
+   "level": "A2",
+   "items": [
+    [
+     "town hall",
+     "ayuntamiento"
+    ],
+    [
+     "square",
+     "plaza"
+    ],
+    [
+     "pavement",
+     "acera"
+    ],
+    [
+     "pedestrian crossing",
+     "paso de peatones"
+    ],
+    [
+     "traffic lights",
+     "semáforo"
+    ],
+    [
+     "roundabout",
+     "rotonda"
+    ],
+    [
+     "crossroads",
+     "cruce"
+    ],
+    [
+     "corner",
+     "esquina"
+    ],
+    [
+     "neighbourhood",
+     "barrio"
+    ],
+    [
+     "suburbs",
+     "afueras"
+    ],
+    [
+     "city centre",
+     "centro"
+    ],
+    [
+     "car park",
+     "aparcamiento"
+    ],
+    [
+     "bus stop",
+     "parada de autobús"
+    ],
+    [
+     "underground",
+     "metro"
+    ],
+    [
+     "tram",
+     "tranvía"
+    ],
+    [
+     "cycle lane",
+     "carril bici"
+    ]
+   ]
+  },
+  {
+   "name": "Conducir",
+   "level": "B1",
+   "items": [
+    [
+     "driving licence",
+     "carné de conducir"
+    ],
+    [
+     "motorway",
+     "autopista"
+    ],
+    [
+     "traffic jam",
+     "atasco"
+    ],
+    [
+     "petrol",
+     "gasolina"
+    ],
+    [
+     "petrol station",
+     "gasolinera"
+    ],
+    [
+     "speed limit",
+     "límite de velocidad"
+    ],
+    [
+     "fine",
+     "multa"
+    ],
+    [
+     "to overtake",
+     "adelantar"
+    ],
+    [
+     "to park",
+     "aparcar"
+    ],
+    [
+     "to brake",
+     "frenar"
+    ],
+    [
+     "boot",
+     "maletero"
+    ],
+    [
+     "bonnet",
+     "capó"
+    ],
+    [
+     "tyre",
+     "neumático"
+    ],
+    [
+     "flat tyre",
+     "pinchazo"
+    ],
+    [
+     "steering wheel",
+     "volante"
+    ],
+    [
+     "seat belt",
+     "cinturón de seguridad"
+    ]
+   ]
+  }
+ ]
+}

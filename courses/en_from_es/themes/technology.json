@@ -1,0 +1,146 @@
+{
+ "title": "💻 Tecnología",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Aparatos e internet",
+   "level": "A2",
+   "items": [
+    [
+     "laptop",
+     "portátil"
+    ],
+    [
+     "screen",
+     "pantalla"
+    ],
+    [
+     "keyboard",
+     "teclado"
+    ],
+    [
+     "mouse",
+     "ratón"
+    ],
+    [
+     "charger",
+     "cargador"
+    ],
+    [
+     "battery",
+     "batería"
+    ],
+    [
+     "headphones",
+     "auriculares"
+    ],
+    [
+     "printer",
+     "impresora"
+    ],
+    [
+     "password",
+     "contraseña"
+    ],
+    [
+     "username",
+     "nombre de usuario"
+    ],
+    [
+     "website",
+     "página web"
+    ],
+    [
+     "link",
+     "enlace"
+    ],
+    [
+     "email",
+     "correo electrónico"
+    ],
+    [
+     "attachment",
+     "archivo adjunto"
+    ],
+    [
+     "app",
+     "aplicación"
+    ],
+    [
+     "Wi-Fi",
+     "wifi"
+    ]
+   ]
+  },
+  {
+   "name": "En internet",
+   "level": "B1",
+   "items": [
+    [
+     "to download",
+     "descargar"
+    ],
+    [
+     "to upload",
+     "subir, cargar"
+    ],
+    [
+     "to log in",
+     "iniciar sesión"
+    ],
+    [
+     "to log out",
+     "cerrar sesión"
+    ],
+    [
+     "to sign up",
+     "registrarse, darse de alta"
+    ],
+    [
+     "to share",
+     "compartir"
+    ],
+    [
+     "to post",
+     "publicar, colgar"
+    ],
+    [
+     "follower",
+     "seguidor"
+    ],
+    [
+     "social media",
+     "redes sociales"
+    ],
+    [
+     "search engine",
+     "buscador"
+    ],
+    [
+     "to update",
+     "actualizar"
+    ],
+    [
+     "to delete",
+     "borrar, eliminar"
+    ],
+    [
+     "to save",
+     "guardar"
+    ],
+    [
+     "backup",
+     "copia de seguridad"
+    ],
+    [
+     "privacy",
+     "privacidad"
+    ],
+    [
+     "fake news",
+     "noticias falsas, bulos"
+    ]
+   ]
+  }
+ ]
+}

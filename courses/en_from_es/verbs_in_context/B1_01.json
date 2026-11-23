@@ -1,0 +1,68 @@
+{
+ "pdf": "B1_01",
+ "items": [
+  [
+   "I [have been waiting] for twenty minutes.",
+   "wait"
+  ],
+  [
+   "She [has been working] all morning.",
+   "work"
+  ],
+  [
+   "It [has been raining] since this morning.",
+   "rain"
+  ],
+  [
+   "How long have you [been learning] English?",
+   "learn"
+  ],
+  [
+   "They [have been living] in Leeds for six months.",
+   "live"
+  ],
+  [
+   "I [have known] her for ten years.",
+   "know",
+   "know no va en continuous."
+  ],
+  [
+   "I [have made] five phone calls this morning.",
+   "make",
+   "Una cantidad: simple."
+  ],
+  [
+   "Your eyes are red. Have you [been crying]?",
+   "cry"
+  ],
+  [
+   "He [has been playing] the guitar for years.",
+   "play"
+  ],
+  [
+   "We [have been driving] for hours.",
+   "drive"
+  ],
+  [
+   "She looks tired; she [has been studying] all night.",
+   "study"
+  ],
+  [
+   "I [have been trying] to call you all day.",
+   "try"
+  ],
+  [
+   "They [have been married] since 2010.",
+   "be"
+  ],
+  [
+   "You look hot. Have you [been running]?",
+   "run"
+  ],
+  [
+   "I [have read] three books this month.",
+   "read",
+   "Una cantidad: simple."
+  ]
+ ]
+}

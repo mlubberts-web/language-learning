@@ -1,0 +1,146 @@
+{
+ "title": "📰 Medios y noticias",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Los medios",
+   "level": "B1",
+   "items": [
+    [
+     "newspaper",
+     "periódico"
+    ],
+    [
+     "magazine",
+     "revista"
+    ],
+    [
+     "headline",
+     "titular"
+    ],
+    [
+     "article",
+     "artículo"
+    ],
+    [
+     "journalist",
+     "periodista"
+    ],
+    [
+     "the news",
+     "las noticias"
+    ],
+    [
+     "channel",
+     "canal, cadena"
+    ],
+    [
+     "programme",
+     "programa"
+    ],
+    [
+     "series",
+     "serie"
+    ],
+    [
+     "advert",
+     "anuncio, publicidad"
+    ],
+    [
+     "presenter",
+     "presentador"
+    ],
+    [
+     "interview",
+     "entrevista"
+    ],
+    [
+     "audience",
+     "público, audiencia"
+    ],
+    [
+     "podcast",
+     "pódcast"
+    ],
+    [
+     "review",
+     "crítica, reseña"
+    ],
+    [
+     "live",
+     "en directo"
+    ]
+   ]
+  },
+  {
+   "name": "Noticias e influencia",
+   "level": "B2",
+   "items": [
+    [
+     "to report",
+     "informar, cubrir (una noticia)"
+    ],
+    [
+     "source",
+     "fuente"
+    ],
+    [
+     "breaking news",
+     "noticia de última hora"
+    ],
+    [
+     "press conference",
+     "rueda de prensa"
+    ],
+    [
+     "editor",
+     "redactor, editor"
+    ],
+    [
+     "bias",
+     "parcialidad, sesgo"
+    ],
+    [
+     "censorship",
+     "censura"
+    ],
+    [
+     "freedom of the press",
+     "libertad de prensa"
+    ],
+    [
+     "to broadcast",
+     "emitir, retransmitir"
+    ],
+    [
+     "to publish",
+     "publicar"
+    ],
+    [
+     "tabloid",
+     "prensa sensacionalista"
+    ],
+    [
+     "scandal",
+     "escándalo"
+    ],
+    [
+     "controversy",
+     "polémica"
+    ],
+    [
+     "misleading",
+     "engañoso"
+    ],
+    [
+     "to fact-check",
+     "verificar los hechos"
+    ],
+    [
+     "public opinion",
+     "opinión pública"
+    ]
+   ]
+  }
+ ]
+}

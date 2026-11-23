@@ -1,0 +1,146 @@
+{
+ "title": "⚽ Deporte",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Deportes y competiciones",
+   "level": "A2",
+   "items": [
+    [
+     "match",
+     "partido"
+    ],
+    [
+     "team",
+     "equipo"
+    ],
+    [
+     "player",
+     "jugador"
+    ],
+    [
+     "coach",
+     "entrenador"
+    ],
+    [
+     "referee",
+     "árbitro"
+    ],
+    [
+     "goal",
+     "gol, portería"
+    ],
+    [
+     "to score",
+     "marcar"
+    ],
+    [
+     "to win",
+     "ganar"
+    ],
+    [
+     "to lose",
+     "perder"
+    ],
+    [
+     "draw",
+     "empate"
+    ],
+    [
+     "fan",
+     "aficionado, hincha"
+    ],
+    [
+     "stadium",
+     "estadio"
+    ],
+    [
+     "pitch",
+     "campo"
+    ],
+    [
+     "court",
+     "pista (de tenis, de baloncesto)"
+    ],
+    [
+     "championship",
+     "campeonato"
+    ],
+    [
+     "league",
+     "liga, competición"
+    ]
+   ]
+  },
+  {
+   "name": "Mantenerse en forma",
+   "level": "B1",
+   "items": [
+    [
+     "gym",
+     "gimnasio"
+    ],
+    [
+     "to work out",
+     "hacer ejercicio"
+    ],
+    [
+     "to warm up",
+     "calentar"
+    ],
+    [
+     "to stretch",
+     "estirar"
+    ],
+    [
+     "running",
+     "correr, hacer footing"
+    ],
+    [
+     "cycling",
+     "ciclismo, montar en bici"
+    ],
+    [
+     "swimming",
+     "natación"
+    ],
+    [
+     "hiking",
+     "senderismo, caminar"
+    ],
+    [
+     "to get fit",
+     "ponerse en forma"
+    ],
+    [
+     "stamina",
+     "resistencia"
+    ],
+    [
+     "injury",
+     "lesión"
+    ],
+    [
+     "to train",
+     "entrenar"
+    ],
+    [
+     "race",
+     "carrera"
+    ],
+    [
+     "marathon",
+     "maratón"
+    ],
+    [
+     "record",
+     "récord"
+    ],
+    [
+     "medal",
+     "medalla"
+    ]
+   ]
+  }
+ ]
+}

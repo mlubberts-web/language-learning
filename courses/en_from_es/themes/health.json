@@ -1,0 +1,146 @@
+{
+ "title": "🩺 Salud",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "El cuerpo",
+   "level": "A2",
+   "items": [
+    [
+     "head",
+     "cabeza"
+    ],
+    [
+     "neck",
+     "cuello"
+    ],
+    [
+     "shoulder",
+     "hombro"
+    ],
+    [
+     "arm",
+     "brazo"
+    ],
+    [
+     "elbow",
+     "codo"
+    ],
+    [
+     "wrist",
+     "muñeca"
+    ],
+    [
+     "hand",
+     "mano"
+    ],
+    [
+     "finger",
+     "dedo"
+    ],
+    [
+     "back",
+     "espalda"
+    ],
+    [
+     "stomach",
+     "estómago, barriga"
+    ],
+    [
+     "knee",
+     "rodilla"
+    ],
+    [
+     "ankle",
+     "tobillo"
+    ],
+    [
+     "foot",
+     "pie"
+    ],
+    [
+     "throat",
+     "garganta"
+    ],
+    [
+     "chest",
+     "pecho"
+    ],
+    [
+     "skin",
+     "piel"
+    ]
+   ]
+  },
+  {
+   "name": "En el médico",
+   "level": "B1",
+   "items": [
+    [
+     "GP",
+     "médico de cabecera"
+    ],
+    [
+     "appointment",
+     "cita"
+    ],
+    [
+     "prescription",
+     "receta (médica)"
+    ],
+    [
+     "chemist's",
+     "farmacia"
+    ],
+    [
+     "headache",
+     "dolor de cabeza"
+    ],
+    [
+     "sore throat",
+     "dolor de garganta"
+    ],
+    [
+     "cold",
+     "resfriado, catarro"
+    ],
+    [
+     "flu",
+     "gripe"
+    ],
+    [
+     "temperature",
+     "fiebre"
+    ],
+    [
+     "cough",
+     "tos"
+    ],
+    [
+     "injury",
+     "lesión, herida"
+    ],
+    [
+     "to sprain",
+     "torcerse"
+    ],
+    [
+     "painkiller",
+     "analgésico"
+    ],
+    [
+     "to recover",
+     "recuperarse"
+    ],
+    [
+     "A&E",
+     "urgencias"
+    ],
+    [
+     "allergy",
+     "alergia"
+    ]
+   ]
+  }
+ ]
+}

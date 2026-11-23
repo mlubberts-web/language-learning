@@ -1,0 +1,146 @@
+{
+ "title": "💭 Sentimientos y carácter",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Sentimientos",
+   "level": "B1",
+   "items": [
+    [
+     "happy",
+     "contento, feliz"
+    ],
+    [
+     "sad",
+     "triste"
+    ],
+    [
+     "angry",
+     "enfadado"
+    ],
+    [
+     "scared",
+     "asustado, con miedo"
+    ],
+    [
+     "nervous",
+     "nervioso"
+    ],
+    [
+     "worried",
+     "preocupado"
+    ],
+    [
+     "embarrassed",
+     "avergonzado"
+    ],
+    [
+     "proud",
+     "orgulloso"
+    ],
+    [
+     "jealous",
+     "celoso, envidioso"
+    ],
+    [
+     "lonely",
+     "solo"
+    ],
+    [
+     "relieved",
+     "aliviado"
+    ],
+    [
+     "disappointed",
+     "decepcionado"
+    ],
+    [
+     "excited",
+     "emocionado, ilusionado"
+    ],
+    [
+     "bored",
+     "aburrido"
+    ],
+    [
+     "confused",
+     "confundido"
+    ],
+    [
+     "grateful",
+     "agradecido"
+    ]
+   ]
+  },
+  {
+   "name": "El carácter",
+   "level": "B1",
+   "items": [
+    [
+     "friendly",
+     "simpático, amable"
+    ],
+    [
+     "kind",
+     "majo, agradable"
+    ],
+    [
+     "shy",
+     "tímido"
+    ],
+    [
+     "outgoing",
+     "extrovertido"
+    ],
+    [
+     "hard-working",
+     "trabajador"
+    ],
+    [
+     "lazy",
+     "vago"
+    ],
+    [
+     "generous",
+     "generoso"
+    ],
+    [
+     "mean",
+     "tacaño"
+    ],
+    [
+     "honest",
+     "sincero, honrado"
+    ],
+    [
+     "reliable",
+     "fiable, de confianza"
+    ],
+    [
+     "stubborn",
+     "testarudo, cabezota"
+    ],
+    [
+     "patient",
+     "paciente"
+    ],
+    [
+     "selfish",
+     "egoísta"
+    ],
+    [
+     "sensible",
+     "sensato"
+    ],
+    [
+     "sensitive",
+     "sensible"
+    ],
+    [
+     "polite",
+     "educado"
+    ]
+   ]
+  }
+ ]
+}

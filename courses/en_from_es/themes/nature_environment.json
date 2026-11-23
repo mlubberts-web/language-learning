@@ -1,0 +1,146 @@
+{
+ "title": "🌍 Naturaleza, tiempo y medio ambiente",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "El tiempo",
+   "level": "A2",
+   "items": [
+    [
+     "sunny",
+     "soleado"
+    ],
+    [
+     "cloudy",
+     "nublado"
+    ],
+    [
+     "windy",
+     "con viento, ventoso"
+    ],
+    [
+     "foggy",
+     "con niebla"
+    ],
+    [
+     "rainy",
+     "lluvioso"
+    ],
+    [
+     "shower",
+     "chaparrón"
+    ],
+    [
+     "storm",
+     "tormenta"
+    ],
+    [
+     "thunder",
+     "trueno"
+    ],
+    [
+     "lightning",
+     "relámpago, rayo"
+    ],
+    [
+     "snow",
+     "nieve"
+    ],
+    [
+     "ice",
+     "hielo"
+    ],
+    [
+     "frost",
+     "helada"
+    ],
+    [
+     "heatwave",
+     "ola de calor"
+    ],
+    [
+     "weather forecast",
+     "pronóstico del tiempo"
+    ],
+    [
+     "temperature",
+     "temperatura"
+    ],
+    [
+     "degree",
+     "grado"
+    ]
+   ]
+  },
+  {
+   "name": "El medio ambiente",
+   "level": "B2",
+   "items": [
+    [
+     "environment",
+     "medio ambiente"
+    ],
+    [
+     "climate change",
+     "cambio climático"
+    ],
+    [
+     "global warming",
+     "calentamiento global"
+    ],
+    [
+     "pollution",
+     "contaminación"
+    ],
+    [
+     "renewable energy",
+     "energía renovable"
+    ],
+    [
+     "solar panel",
+     "placa solar"
+    ],
+    [
+     "wind turbine",
+     "aerogenerador"
+    ],
+    [
+     "waste",
+     "residuos, basura"
+    ],
+    [
+     "recycling",
+     "reciclaje"
+    ],
+    [
+     "drought",
+     "sequía"
+    ],
+    [
+     "flood",
+     "inundación"
+    ],
+    [
+     "carbon footprint",
+     "huella ecológica"
+    ],
+    [
+     "endangered species",
+     "especie en peligro de extinción"
+    ],
+    [
+     "deforestation",
+     "deforestación"
+    ],
+    [
+     "sustainable",
+     "sostenible"
+    ],
+    [
+     "to reduce",
+     "reducir"
+    ]
+   ]
+  }
+ ]
+}

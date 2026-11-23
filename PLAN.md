@@ -124,7 +124,9 @@ Choices made (Menno can overrule any of them):
 - [x] 4.1 Translate the explanations of all English units into Spanish (Spain), A1–C2.
       (59 units and PDFs, 5,062 questions; Dutch-specific notes and mistakes rewritten for Spanish
       speakers: ser/estar, "hay", "depend of", false friends such as constipado and embarazada.)
-- [ ] 4.2 Themed lists and notes for Spanish speakers (false friends, pronunciation traps).
+- [x] 4.2 Themed lists and notes for Spanish speakers (false friends, pronunciation traps).
+      (15 lists translated plus a new "Trampas para hispanohablantes" with 32 entries; 13 verbs-in-context
+      files. Pronunciation traps for Spanish speakers are in A1 · pdf 1.)
 
 ## Phase 5: Dutch for English speakers (`nl_from_en`)
 
