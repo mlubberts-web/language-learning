@@ -405,5 +405,27 @@
   "subtitle": "Voorvoegsels en achtervoegsels, woordfamilies van werkwoord, zelfstandig en bijvoeglijk naamwoord",
   "content": "b2_08_word_formation.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_09_Register_en_schrijven",
+  "file": "B2_09_Register_en_schrijven.pdf",
+  "level": "B2",
+  "number": 9,
+  "section": "Schrijven",
+  "title": "Register en schrijven",
+  "subtitle": "Formeel en informeel Engels, e-mails, essays, recensies en verslagen voor B2 First",
+  "content": "b2_09_register_writing.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_10_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "B2_10_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "B2",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Collocaties, uitdrukkingen, werk en geld, en valse vrienden voor Nederlanders",
+  "content": "b2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

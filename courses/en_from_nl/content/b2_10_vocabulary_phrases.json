@@ -1,0 +1,77 @@
+{"meta": {"level": "B2", "section": "Woordenschat", "number": 10, "total_in_level": 10,
+ "title": "Woordenschat en vaste uitdrukkingen",
+ "subtitle": "Collocaties, uitdrukkingen, werk en geld, en valse vrienden voor Nederlanders",
+ "footer": "Language Learning · B2 · Woordenschat en vaste uitdrukkingen",
+ "next": "Volgende: C1 · pdf 1"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Zo gebruik je deze lijsten", "bullets": [
+  "Leer woorden in combinaties: niet <i>decision</i>, maar <i>make a decision</i>.",
+  "Dek één kolom af en overhoor jezelf in beide richtingen.",
+  "Deze woorden komen veel voor in het examen B2 First van Cambridge."]},
+
+ {"type": "h1", "text": "1. Collocaties"},
+ {"type": "verbpairs", "title": "Werkwoord + zelfstandig naamwoord", "items": [
+  ["take a photo", "een foto maken"], ["take a decision", "een besluit nemen (ook make)"], ["pay attention", "opletten"],
+  ["make progress", "vooruitgang boeken"], ["do research", "onderzoek doen"], ["keep a promise", "een belofte nakomen"],
+  ["break a promise", "een belofte breken"], ["save time", "tijd besparen"], ["waste time", "tijd verspillen"],
+  ["meet a deadline", "een deadline halen"], ["raise a question", "een vraag opwerpen"], ["reach an agreement", "een akkoord bereiken"]]},
+ {"type": "verbpairs", "title": "Bijvoeglijk naamwoord + zelfstandig naamwoord", "items": [
+  ["heavy rain", "zware regen"], ["strong coffee", "sterke koffie"], ["high temperature", "hoge temperatuur"],
+  ["a big mistake", "een grote fout"], ["a close friend", "een goede vriend"], ["a heavy smoker", "een zware roker"],
+  ["bitterly cold", "ijskoud"], ["highly recommended", "sterk aanbevolen"]]},
+ {"type": "callout", "kind": "dutch", "title": "Een foto maken = take a photo", "text": "Veel Nederlandse combinaties gaan in het Engels met een ander werkwoord: <i>een foto maken</i> = <b>take a photo</b>, <i>een besluit nemen</i> = <b>make / take a decision</b>, <i>een examen afleggen</i> = <b>take / sit an exam</b>, <i>aandacht schenken</i> = <b>pay attention</b>."},
+
+ {"type": "h1", "text": "2. Uitdrukkingen"},
+ {"type": "verbpairs", "title": "Veelgebruikte uitdrukkingen", "items": [
+  ["a piece of cake", "een eitje"], ["break the ice", "het ijs breken"], ["under the weather", "niet lekker, grieperig"],
+  ["once in a blue moon", "heel af en toe"], ["hit the nail on the head", "de spijker op de kop slaan"], ["cost an arm and a leg", "een fortuin kosten"],
+  ["on the same page", "op één lijn"], ["get the hang of it", "de slag te pakken krijgen"], ["let the cat out of the bag", "je mond voorbijpraten"],
+  ["the last straw", "de druppel die de emmer doet overlopen"], ["over the moon", "dolgelukkig"], ["in hot water", "in de problemen"]]},
+
+ {"type": "h1", "text": "3. Werk en geld"},
+ {"type": "verbpairs", "title": "Werk", "items": [
+  ["employer", "werkgever"], ["employee", "werknemer"], ["career", "loopbaan"], ["promotion", "promotie"],
+  ["to be fired / sacked", "ontslagen worden"], ["to resign", "ontslag nemen"], ["to retire", "met pensioen gaan"], ["workload", "werkdruk"]]},
+ {"type": "verbpairs", "title": "Geld", "items": [
+  ["income", "inkomen"], ["salary", "salaris"], ["tax", "belasting"], ["loan", "lening"],
+  ["mortgage", "hypotheek"], ["debt", "schuld"], ["to borrow", "lenen (van)"], ["to lend", "lenen (aan), uitlenen"],
+  ["to afford", "zich kunnen veroorloven"], ["to save up", "sparen"], ["bargain", "koopje"], ["refund", "terugbetaling"]]},
+ {"type": "callout", "kind": "warn", "title": "borrow of lend?", "text": "Het Nederlandse <i>lenen</i> heeft twee richtingen. <b>borrow</b> = lenen <i>van</i> iemand: <i>Can I borrow your pen?</i> <b>lend</b> = lenen <i>aan</i> iemand: <i>Can you lend me your pen?</i>"},
+
+ {"type": "h1", "text": "4. Valse vrienden"},
+ {"type": "table", "style": "plain", "widths": [3.6, 5.4, 8.0], "head": ["Engels", "Betekent", "Niet verwarren met"], "rows": [
+  ["actual", "werkelijk, echt", "actueel = current, topical"],
+  ["eventually", "uiteindelijk", "eventueel = possibly"],
+  ["sensible", "verstandig", "sensibel = sensitive"],
+  ["brave", "dapper", "braaf = good, well-behaved"],
+  ["become", "worden", "bekomen = get, receive"],
+  ["chef", "kok", "chef = boss"],
+  ["undertaker", "begrafenisondernemer", "ondernemer = entrepreneur"],
+  ["file", "dossier, bestand", "file (verkeer) = traffic jam"],
+  ["slim", "slank", "slim = clever"],
+  ["handy", "handig (nuttig)", "handig (vaardig) = skilful"]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Can I ______ a photo of you?", "hint": "maken", "a": "take", "full": "Can I take a photo of you?"},
+  {"q": "Please pay ______ to the instructions.", "hint": "aandacht", "a": "attention", "full": "Please pay attention to the instructions."},
+  {"q": "We worked all night to ______ the deadline.", "hint": "halen", "a": "meet", "full": "We worked all night to meet the deadline."},
+  {"q": "Can you ______ me some money?", "hint": "uitlenen", "a": "lend", "full": "Can you lend me some money?"},
+  {"q": "Can I ______ your umbrella?", "hint": "lenen van", "a": "borrow", "full": "Can I borrow your umbrella?"},
+  {"q": "I can't ______ a new car this year.", "hint": "zich veroorloven", "a": "afford", "full": "I can't afford a new car this year."},
+  {"q": "The exam was a piece of ______.", "hint": "een eitje", "a": "cake", "full": "The exam was a piece of cake."},
+  {"q": "She was over the ______ when she got the job.", "hint": "dolgelukkig", "a": "moon", "full": "She was over the moon when she got the job."},
+  {"q": "It was a long journey, but we ______ arrived.", "hint": "uiteindelijk", "a": "eventually", "full": "It was a long journey, but we eventually arrived."},
+  {"q": "That's a very ______ idea. Let's do it.", "hint": "verstandig", "a": "sensible", "full": "That's a very sensible idea. Let's do it."},
+  {"q": "We were stuck in a traffic ______ for an hour.", "hint": "file", "a": "jam", "full": "We were stuck in a traffic jam for an hour."},
+  {"q": "He was ______ after twenty years at the company.", "hint": "fire, ontslagen", "a": "fired", "full": "He was fired after twenty years at the company."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Mag ik je pen lenen?", "a": "Can I borrow your pen?"},
+  {"q": "We stonden een uur in de file.", "a": "We were in a traffic jam for an hour."},
+  {"q": "Uiteindelijk vonden we het hotel.", "a": "Eventually we found the hotel."},
+  {"q": "Kun je een foto van ons maken?", "a": "Can you take a photo of us?"}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

@@ -1,0 +1,76 @@
+{"meta": {"level": "B2", "section": "Schrijven", "number": 9, "total_in_level": 10,
+ "title": "Register en schrijven",
+ "subtitle": "Formeel en informeel Engels, e-mails, essays, recensies en verslagen voor B2 First",
+ "footer": "Language Learning · B2 · Schrijven · Register en schrijven",
+ "next": "Volgende: B2 · pdf 10 — Woordenschat en vaste uitdrukkingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het verschil tussen formeel en informeel Engels herkennen en gebruiken",
+  "een formele en een informele e-mail schrijven",
+  "een essay opbouwen met een duidelijke mening",
+  "een recensie en een verslag schrijven zoals in het examen B2 First"]},
+
+ {"type": "h1", "text": "1. Formeel en informeel"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Informeel", "Formeel", "Nederlands"], "rows": [
+  ["Thanks for your email.", "Thank you for your email.", "Bedankt voor je e-mail."],
+  ["I want to ask about ...", "I would like to enquire about ...", "Ik wil graag informatie over ..."],
+  ["Can you send me ...?", "I would be grateful if you could send me ...", "Kunt u mij ... sturen?"],
+  ["get", "receive / obtain", "krijgen, ontvangen"],
+  ["need", "require", "nodig hebben"],
+  ["sorry", "I apologise for", "excuses voor"],
+  ["Write soon!", "I look forward to hearing from you.", "Ik hoor graag van u."]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands is directer", "text": "Nederlanders vallen in het Engels soms bot uit: <i>Send me the information.</i> In het Engels, zeker in formele teksten, verpak je een verzoek beleefd: <b>Could you possibly ...?</b>, <b>I would be grateful if ...</b>, <b>I was wondering if ...</b>. Gebruik in formele teksten ook geen korte vormen (I'm, don't)."},
+
+ {"type": "h1", "text": "2. E-mails en brieven"},
+ {"type": "table", "style": "plain", "widths": [3.8, 6.4, 6.8], "head": ["Onderdeel", "Formeel", "Informeel"], "rows": [
+  ["Aanhef", "Dear Mr Jones, / Dear Sir or Madam,", "Hi Tom, / Dear Anna,"],
+  ["Opening", "I am writing to complain about ...", "It was great to hear from you!"],
+  ["Verzoek", "I would be grateful if you could ...", "Could you ...?"],
+  ["Afsluiting", "I look forward to hearing from you.", "Write soon! / See you soon!"],
+  ["Groet", "Yours sincerely, (naam bekend) / Yours faithfully, (Dear Sir or Madam)", "Best wishes, / Love, / Cheers,"]]},
+ {"type": "callout", "kind": "warn", "title": "Yours sincerely of Yours faithfully?", "text": "In Brits Engels: begin je met de naam (<i>Dear Mr Jones</i>), eindig dan met <b>Yours sincerely</b>. Begin je met <i>Dear Sir or Madam</i>, eindig dan met <b>Yours faithfully</b>. <b>Kind regards</b> past bij allebei en is in e-mails gewoon."},
+
+ {"type": "h1", "text": "3. Een essay"},
+ {"type": "table", "style": "plain", "widths": [3.6, 13.4], "head": ["Deel", "Inhoud en zinnen"], "rows": [
+  ["Inleiding", "Het onderwerp en je standpunt. <i>Nowadays, more and more people ... In this essay I will argue that ...</i>"],
+  ["Argument 1", "<i>Firstly, ... For example, ... This means that ...</i>"],
+  ["Argument 2", "<i>Secondly, ... In addition, ... Furthermore, ...</i>"],
+  ["Tegenargument", "<i>On the other hand, some people believe that ... However, ...</i>"],
+  ["Conclusie", "<i>In conclusion, ... Overall, I believe that ...</i>"]]},
+
+ {"type": "h1", "text": "4. Recensie en verslag"},
+ {"type": "table", "style": "plain", "widths": [3.6, 13.4], "head": ["Soort", "Handige zinnen"], "rows": [
+  ["Recensie (review)", "<i>The film is set in ... The plot centres on ... What I liked most was ... The only drawback is ... I would highly recommend it to ...</i>"],
+  ["Verslag (report)", "<i>The aim of this report is to ... Most students said that ... It was found that ... I would recommend that ...</i> Gebruik kopjes en een formele toon."]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Dear Sir or Madam, ... Yours sincerely,", "Dear Sir or Madam, ... Yours faithfully,", "Bij Dear Sir or Madam: Yours faithfully."],
+  ["I want that you send me the form.", "I would be grateful if you could send me the form.", "Formeel verzoek, zonder want that."],
+  ["I look forward to hear from you.", "I look forward to hearing from you.", "look forward to + -ing."],
+  ["Hello Mr Jones,", "Dear Mr Jones,", "Formele aanhef: Dear."],
+  ["In my opinion I think that it is good.", "In my opinion, it is good.", "In my opinion en I think zeggen hetzelfde."],
+  ["Firstly ... Secondly ... Thirdly ... Lastly in conclusion ...", "Firstly ... Secondly ... Finally ... In conclusion ...", "Kies één afsluitend woord.", "advice"]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I am writing to ______ about the delay of my order.", "hint": "klagen", "a": "complain", "full": "I am writing to complain about the delay of my order."},
+  {"q": "I would be ______ if you could send me a brochure.", "hint": "dankbaar", "a": "grateful", "full": "I would be grateful if you could send me a brochure."},
+  {"q": "I look forward to ______ from you.", "hint": "hear", "a": "hearing", "full": "I look forward to hearing from you."},
+  {"q": "Dear Sir or Madam, ... Yours ______,", "hint": "groet", "a": "faithfully", "full": "Dear Sir or Madam, ... Yours faithfully,"},
+  {"q": "Dear Ms Brown, ... Yours ______,", "hint": "groet", "a": "sincerely", "full": "Dear Ms Brown, ... Yours sincerely,"},
+  {"q": "I would like to ______ about your summer courses.", "hint": "informeren (formeel)", "a": "enquire", "full": "I would like to enquire about your summer courses."},
+  {"q": "On the other ______, some people disagree.", "hint": "aan de andere kant", "a": "hand", "full": "On the other hand, some people disagree."},
+  {"q": "In ______, I believe the benefits are greater.", "hint": "tot slot", "a": "conclusion", "full": "In conclusion, I believe the benefits are greater."},
+  {"q": "The ______ of this report is to suggest improvements.", "hint": "doel", "a": "aim", "full": "The aim of this report is to suggest improvements."},
+  {"q": "I would highly ______ this book to teenagers.", "hint": "aanraden", "a": "recommend", "full": "I would highly recommend this book to teenagers."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (formeel):</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik schrijf u om te klagen over de vertraging.", "a": "I am writing to complain about the delay."},
+  {"q": "Ik zou het op prijs stellen als u mij een brochure zou kunnen sturen.", "a": "I would be grateful if you could send me a brochure."},
+  {"q": "Ik hoor graag van u.", "a": "I look forward to hearing from you."},
+  {"q": "Het doel van dit verslag is verbeteringen voor te stellen.", "a": "The aim of this report is to suggest improvements."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

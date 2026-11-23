@@ -108,7 +108,7 @@ Choices made (Menno can overrule any of them):
 - [x] 3.2 A1 units
 - [x] 3.3 A2 units
 - [x] 3.4 B1 units
-- [ ] 3.5 B2 units
+- [x] 3.5 B2 units
 - [ ] 3.6 C1 units
 - [ ] 3.7 C2 units
 - [ ] 3.8 Verbs in context (irregular verbs, tenses) and themed lists.
