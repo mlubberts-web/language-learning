@@ -229,5 +229,16 @@
   "subtitle": "er is, er as a place, er with numbers, and er + preposition (erop, ermee, erover)",
   "content": "b1_02_er.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_03_Relative_clauses",
+  "file": "B1_03_Relative_clauses.pdf",
+  "level": "B1",
+  "number": 3,
+  "section": "Grammar",
+  "title": "Relative clauses",
+  "subtitle": "die and dat, wat after alles and iets, met wie, and waar + preposition (waarover, waarmee)",
+  "content": "b1_03_relative_clauses.json",
+  "exercise_count": 12
  }
 ]
