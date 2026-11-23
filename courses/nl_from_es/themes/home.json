@@ -1,0 +1,146 @@
+{
+ "title": "🏠 La casa",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Habitaciones y muebles",
+   "level": "A2",
+   "items": [
+    [
+     "de woonkamer",
+     "salón"
+    ],
+    [
+     "de slaapkamer",
+     "dormitorio"
+    ],
+    [
+     "de badkamer",
+     "cuarto de baño"
+    ],
+    [
+     "de keuken",
+     "cocina"
+    ],
+    [
+     "de gang",
+     "pasillo, recibidor"
+    ],
+    [
+     "de trap",
+     "escalera"
+    ],
+    [
+     "boven",
+     "arriba"
+    ],
+    [
+     "beneden",
+     "abajo"
+    ],
+    [
+     "de kast",
+     "armario"
+    ],
+    [
+     "de kledingkast",
+     "armario ropero"
+    ],
+    [
+     "de plank",
+     "estante, balda"
+    ],
+    [
+     "de bank",
+     "sofá"
+    ],
+    [
+     "de fauteuil",
+     "sillón"
+    ],
+    [
+     "de gordijnen",
+     "cortinas"
+    ],
+    [
+     "de vloerbedekking",
+     "moqueta"
+    ],
+    [
+     "de kraan",
+     "grifo"
+    ]
+   ]
+  },
+  {
+   "name": "Alquilar y las tareas de casa",
+   "level": "B1",
+   "items": [
+    [
+     "de huur",
+     "alquiler"
+    ],
+    [
+     "de huisbaas",
+     "casero"
+    ],
+    [
+     "de huurder",
+     "inquilino"
+    ],
+    [
+     "de borg",
+     "fianza"
+    ],
+    [
+     "het appartement",
+     "piso"
+    ],
+    [
+     "de twee-onder-een-kapwoning",
+     "casa pareada"
+    ],
+    [
+     "het rijtjeshuis",
+     "casa adosada"
+    ],
+    [
+     "verhuizen",
+     "mudarse"
+    ],
+    [
+     "het huishouden",
+     "tareas domésticas"
+    ],
+    [
+     "afwassen",
+     "fregar los platos"
+    ],
+    [
+     "de was doen",
+     "poner la lavadora"
+    ],
+    [
+     "stofzuigen",
+     "pasar la aspiradora"
+    ],
+    [
+     "opruimen",
+     "ordenar, recoger"
+    ],
+    [
+     "strijken",
+     "planchar"
+    ],
+    [
+     "de lekkage",
+     "gotera, fuga"
+    ],
+    [
+     "repareren",
+     "arreglar"
+    ]
+   ]
+  }
+ ]
+}

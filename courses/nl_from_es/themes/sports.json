@@ -1,0 +1,146 @@
+{
+ "title": "⚽ Deporte",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Deporte y partidos",
+   "level": "A2",
+   "items": [
+    [
+     "de wedstrijd",
+     "partido"
+    ],
+    [
+     "het team",
+     "equipo"
+    ],
+    [
+     "de speler",
+     "jugador"
+    ],
+    [
+     "de trainer",
+     "entrenador"
+    ],
+    [
+     "de scheidsrechter",
+     "árbitro"
+    ],
+    [
+     "het doelpunt",
+     "gol, portería"
+    ],
+    [
+     "scoren",
+     "marcar"
+    ],
+    [
+     "winnen",
+     "ganar"
+    ],
+    [
+     "verliezen",
+     "perder"
+    ],
+    [
+     "het gelijkspel",
+     "empate"
+    ],
+    [
+     "de supporter",
+     "aficionado"
+    ],
+    [
+     "het stadion",
+     "estadio"
+    ],
+    [
+     "het veld",
+     "campo"
+    ],
+    [
+     "de baan",
+     "pista"
+    ],
+    [
+     "het kampioenschap",
+     "campeonato"
+    ],
+    [
+     "de competitie",
+     "liga"
+    ]
+   ]
+  },
+  {
+   "name": "Mantenerse en forma",
+   "level": "B1",
+   "items": [
+    [
+     "de sportschool",
+     "gimnasio"
+    ],
+    [
+     "sporten",
+     "entrenar, hacer deporte"
+    ],
+    [
+     "opwarmen",
+     "calentar"
+    ],
+    [
+     "rekken",
+     "estirar"
+    ],
+    [
+     "hardlopen",
+     "correr, running"
+    ],
+    [
+     "wielrennen",
+     "ciclismo"
+    ],
+    [
+     "zwemmen",
+     "natación"
+    ],
+    [
+     "wandelen",
+     "caminar, senderismo"
+    ],
+    [
+     "fit worden",
+     "ponerse en forma"
+    ],
+    [
+     "het uithoudingsvermogen",
+     "resistencia"
+    ],
+    [
+     "de blessure",
+     "lesión"
+    ],
+    [
+     "trainen",
+     "entrenar"
+    ],
+    [
+     "de race",
+     "carrera"
+    ],
+    [
+     "de marathon",
+     "maratón"
+    ],
+    [
+     "het record",
+     "récord"
+    ],
+    [
+     "de medaille",
+     "medalla"
+    ]
+   ]
+  }
+ ]
+}

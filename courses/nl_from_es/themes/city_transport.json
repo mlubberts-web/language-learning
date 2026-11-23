@@ -1,0 +1,146 @@
+{
+ "title": "🚇 Ciudad y transporte",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En la ciudad",
+   "level": "A2",
+   "items": [
+    [
+     "het gemeentehuis",
+     "ayuntamiento"
+    ],
+    [
+     "het plein",
+     "plaza"
+    ],
+    [
+     "de stoep",
+     "acera"
+    ],
+    [
+     "het zebrapad",
+     "paso de cebra"
+    ],
+    [
+     "het verkeerslicht",
+     "semáforo"
+    ],
+    [
+     "de rotonde",
+     "rotonda"
+    ],
+    [
+     "het kruispunt",
+     "cruce"
+    ],
+    [
+     "de hoek",
+     "esquina"
+    ],
+    [
+     "de buurt",
+     "barrio"
+    ],
+    [
+     "de buitenwijk",
+     "afueras, extrarradio"
+    ],
+    [
+     "het centrum",
+     "centro de la ciudad"
+    ],
+    [
+     "de parkeerplaats",
+     "aparcamiento"
+    ],
+    [
+     "de bushalte",
+     "parada de autobús"
+    ],
+    [
+     "de metro",
+     "metro"
+    ],
+    [
+     "de tram",
+     "tranvía"
+    ],
+    [
+     "het fietspad",
+     "carril bici"
+    ]
+   ]
+  },
+  {
+   "name": "Conducir",
+   "level": "B1",
+   "items": [
+    [
+     "het rijbewijs",
+     "carné de conducir"
+    ],
+    [
+     "de snelweg",
+     "autopista"
+    ],
+    [
+     "de file",
+     "atasco"
+    ],
+    [
+     "de benzine",
+     "gasolina"
+    ],
+    [
+     "het tankstation",
+     "gasolinera"
+    ],
+    [
+     "de maximumsnelheid",
+     "límite de velocidad"
+    ],
+    [
+     "de boete",
+     "multa"
+    ],
+    [
+     "inhalen",
+     "adelantar"
+    ],
+    [
+     "parkeren",
+     "aparcar"
+    ],
+    [
+     "remmen",
+     "frenar"
+    ],
+    [
+     "de kofferbak",
+     "maletero"
+    ],
+    [
+     "de motorkap",
+     "capó"
+    ],
+    [
+     "de band",
+     "neumático"
+    ],
+    [
+     "de lekke band",
+     "pinchazo, rueda pinchada"
+    ],
+    [
+     "het stuur",
+     "volante"
+    ],
+    [
+     "de veiligheidsgordel",
+     "cinturón de seguridad"
+    ]
+   ]
+  }
+ ]
+}

@@ -149,8 +149,8 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 6: Dutch for Spanish speakers (`nl_from_es`)
 
-- [ ] 6.1 Translate the explanations of all Dutch units into Spanish (Spain).
-- [ ] 6.2 Themed lists and notes for Spanish speakers.
+- [x] 6.1 Translate the explanations of all Dutch units into Spanish (Spain).
+- [x] 6.2 Themed lists and notes for Spanish speakers.
 
 ## Phase 7: finishing the website
 

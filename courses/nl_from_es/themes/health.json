@@ -1,0 +1,146 @@
+{
+ "title": "🩺 Salud",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "El cuerpo",
+   "level": "A2",
+   "items": [
+    [
+     "het hoofd",
+     "cabeza"
+    ],
+    [
+     "de nek",
+     "cuello, nuca"
+    ],
+    [
+     "de schouder",
+     "hombro"
+    ],
+    [
+     "de arm",
+     "brazo"
+    ],
+    [
+     "de elleboog",
+     "codo"
+    ],
+    [
+     "de pols",
+     "muñeca"
+    ],
+    [
+     "de hand",
+     "mano"
+    ],
+    [
+     "de vinger",
+     "dedo"
+    ],
+    [
+     "de rug",
+     "espalda"
+    ],
+    [
+     "de buik",
+     "estómago, barriga"
+    ],
+    [
+     "de knie",
+     "rodilla"
+    ],
+    [
+     "de enkel",
+     "tobillo"
+    ],
+    [
+     "de voet",
+     "pie"
+    ],
+    [
+     "de keel",
+     "garganta"
+    ],
+    [
+     "de borst",
+     "pecho"
+    ],
+    [
+     "de huid",
+     "piel"
+    ]
+   ]
+  },
+  {
+   "name": "En el médico",
+   "level": "B1",
+   "items": [
+    [
+     "de huisarts",
+     "médico de cabecera"
+    ],
+    [
+     "de afspraak",
+     "cita"
+    ],
+    [
+     "het recept",
+     "receta"
+    ],
+    [
+     "de apotheek",
+     "farmacia"
+    ],
+    [
+     "de hoofdpijn",
+     "dolor de cabeza"
+    ],
+    [
+     "de keelpijn",
+     "dolor de garganta"
+    ],
+    [
+     "de verkoudheid",
+     "resfriado"
+    ],
+    [
+     "de griep",
+     "gripe"
+    ],
+    [
+     "de koorts",
+     "fiebre, temperatura"
+    ],
+    [
+     "de hoest",
+     "tos"
+    ],
+    [
+     "de blessure",
+     "lesión"
+    ],
+    [
+     "verstuiken",
+     "torcerse"
+    ],
+    [
+     "de pijnstiller",
+     "analgésico"
+    ],
+    [
+     "herstellen",
+     "recuperarse"
+    ],
+    [
+     "de spoedeisende hulp",
+     "urgencias"
+    ],
+    [
+     "de allergie",
+     "alergia"
+    ]
+   ]
+  }
+ ]
+}

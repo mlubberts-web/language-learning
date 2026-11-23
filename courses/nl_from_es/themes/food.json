@@ -1,0 +1,150 @@
+{
+ "title": "🍽️ Comida y cocina",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En la cocina",
+   "level": "A2",
+   "items": [
+    [
+     "de koekenpan",
+     "sartén"
+    ],
+    [
+     "de steelpan",
+     "cazo"
+    ],
+    [
+     "de oven",
+     "horno"
+    ],
+    [
+     "het fornuis",
+     "cocina (fogones)"
+    ],
+    [
+     "de koelkast",
+     "nevera, frigorífico"
+    ],
+    [
+     "de vriezer",
+     "congelador"
+    ],
+    [
+     "de snijplank",
+     "tabla de cortar"
+    ],
+    [
+     "het mes",
+     "cuchillo"
+    ],
+    [
+     "de vork",
+     "tenedor"
+    ],
+    [
+     "de lepel",
+     "cuchara"
+    ],
+    [
+     "het recept",
+     "receta"
+    ],
+    [
+     "het ingrediënt",
+     "ingrediente"
+    ],
+    [
+     "koken",
+     "hervir, cocinar"
+    ],
+    [
+     "bakken",
+     "freír, hornear"
+    ],
+    [
+     "fijnhakken",
+     "picar"
+    ],
+    [
+     "schillen",
+     "pelar"
+    ],
+    [
+     "roeren",
+     "remover"
+    ]
+   ]
+  },
+  {
+   "name": "Comer y comer fuera",
+   "level": "A2",
+   "items": [
+    [
+     "het voorgerecht",
+     "entrante"
+    ],
+    [
+     "het hoofdgerecht",
+     "plato principal"
+    ],
+    [
+     "het toetje",
+     "postre"
+    ],
+    [
+     "de rekening",
+     "cuenta"
+    ],
+    [
+     "de fooi",
+     "propina"
+    ],
+    [
+     "de menukaart",
+     "carta, menú"
+    ],
+    [
+     "vegetarisch",
+     "vegetariano"
+    ],
+    [
+     "pittig",
+     "picante"
+    ],
+    [
+     "lekker",
+     "rico, sabroso"
+    ],
+    [
+     "flauw",
+     "soso"
+    ],
+    [
+     "vers",
+     "fresco"
+    ],
+    [
+     "zelfgemaakt",
+     "casero"
+    ],
+    [
+     "bestellen",
+     "pedir"
+    ],
+    [
+     "een tafel reserveren",
+     "reservar mesa"
+    ],
+    [
+     "de afhaalmaaltijd",
+     "comida para llevar"
+    ],
+    [
+     "het tussendoortje",
+     "tentempié, picoteo"
+    ]
+   ]
+  }
+ ]
+}

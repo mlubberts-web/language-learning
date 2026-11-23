@@ -1,0 +1,146 @@
+{
+ "title": "💭 Sentimientos y carácter",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Sentimientos",
+   "level": "B1",
+   "items": [
+    [
+     "blij",
+     "contento, feliz"
+    ],
+    [
+     "verdrietig",
+     "triste"
+    ],
+    [
+     "boos",
+     "enfadado"
+    ],
+    [
+     "bang",
+     "asustado, con miedo"
+    ],
+    [
+     "zenuwachtig",
+     "nervioso"
+    ],
+    [
+     "bezorgd",
+     "preocupado"
+    ],
+    [
+     "beschaamd",
+     "avergonzado"
+    ],
+    [
+     "trots",
+     "orgulloso"
+    ],
+    [
+     "jaloers",
+     "celoso"
+    ],
+    [
+     "eenzaam",
+     "solo (que se siente solo)"
+    ],
+    [
+     "opgelucht",
+     "aliviado"
+    ],
+    [
+     "teleurgesteld",
+     "decepcionado"
+    ],
+    [
+     "enthousiast",
+     "entusiasmado, ilusionado"
+    ],
+    [
+     "zich vervelen",
+     "aburrirse"
+    ],
+    [
+     "in de war",
+     "confundido"
+    ],
+    [
+     "dankbaar",
+     "agradecido"
+    ]
+   ]
+  },
+  {
+   "name": "Carácter",
+   "level": "B1",
+   "items": [
+    [
+     "vriendelijk",
+     "simpático, amable"
+    ],
+    [
+     "aardig",
+     "majo, bueno"
+    ],
+    [
+     "verlegen",
+     "tímido"
+    ],
+    [
+     "extravert",
+     "extrovertido"
+    ],
+    [
+     "hardwerkend",
+     "trabajador"
+    ],
+    [
+     "lui",
+     "vago"
+    ],
+    [
+     "vrijgevig",
+     "generoso"
+    ],
+    [
+     "gierig",
+     "tacaño, mezquino"
+    ],
+    [
+     "eerlijk",
+     "honrado, sincero"
+    ],
+    [
+     "betrouwbaar",
+     "fiable"
+    ],
+    [
+     "koppig",
+     "terco, cabezota"
+    ],
+    [
+     "geduldig",
+     "paciente"
+    ],
+    [
+     "egoïstisch",
+     "egoísta"
+    ],
+    [
+     "verstandig",
+     "sensato"
+    ],
+    [
+     "gevoelig",
+     "sensible"
+    ],
+    [
+     "beleefd",
+     "educado"
+    ]
+   ]
+  }
+ ]
+}

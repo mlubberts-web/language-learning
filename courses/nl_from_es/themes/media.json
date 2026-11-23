@@ -1,0 +1,146 @@
+{
+ "title": "📰 Medios y noticias",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Los medios",
+   "level": "B1",
+   "items": [
+    [
+     "de krant",
+     "periódico"
+    ],
+    [
+     "het tijdschrift",
+     "revista"
+    ],
+    [
+     "de kop",
+     "titular"
+    ],
+    [
+     "het artikel",
+     "artículo"
+    ],
+    [
+     "de journalist",
+     "periodista"
+    ],
+    [
+     "het nieuws",
+     "las noticias, el telediario"
+    ],
+    [
+     "de zender",
+     "canal, cadena"
+    ],
+    [
+     "het programma",
+     "programa"
+    ],
+    [
+     "de serie",
+     "serie"
+    ],
+    [
+     "de reclame",
+     "anuncio"
+    ],
+    [
+     "de presentator",
+     "presentador"
+    ],
+    [
+     "het interview",
+     "entrevista"
+    ],
+    [
+     "het publiek",
+     "público, audiencia"
+    ],
+    [
+     "de podcast",
+     "pódcast"
+    ],
+    [
+     "de recensie",
+     "reseña, crítica"
+    ],
+    [
+     "live",
+     "en directo"
+    ]
+   ]
+  },
+  {
+   "name": "Noticias e influencia",
+   "level": "B2",
+   "items": [
+    [
+     "verslag doen",
+     "informar"
+    ],
+    [
+     "de bron",
+     "fuente"
+    ],
+    [
+     "het laatste nieuws",
+     "última hora"
+    ],
+    [
+     "de persconferentie",
+     "rueda de prensa"
+    ],
+    [
+     "de redacteur",
+     "redactor"
+    ],
+    [
+     "de vooringenomenheid",
+     "sesgo, parcialidad"
+    ],
+    [
+     "de censuur",
+     "censura"
+    ],
+    [
+     "de persvrijheid",
+     "libertad de prensa"
+    ],
+    [
+     "uitzenden",
+     "emitir"
+    ],
+    [
+     "publiceren",
+     "publicar"
+    ],
+    [
+     "het roddelblad",
+     "prensa sensacionalista"
+    ],
+    [
+     "het schandaal",
+     "escándalo"
+    ],
+    [
+     "de controverse",
+     "polémica"
+    ],
+    [
+     "misleidend",
+     "engañoso"
+    ],
+    [
+     "de feiten controleren",
+     "verificar los hechos"
+    ],
+    [
+     "de publieke opinie",
+     "opinión pública"
+    ]
+   ]
+  }
+ ]
+}

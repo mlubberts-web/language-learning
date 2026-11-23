@@ -1,0 +1,146 @@
+{
+ "title": "🌍 Naturaleza, tiempo y medio ambiente",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "El tiempo",
+   "level": "A2",
+   "items": [
+    [
+     "zonnig",
+     "soleado"
+    ],
+    [
+     "bewolkt",
+     "nublado"
+    ],
+    [
+     "winderig",
+     "ventoso, hace viento"
+    ],
+    [
+     "mistig",
+     "con niebla"
+    ],
+    [
+     "regenachtig",
+     "lluvioso"
+    ],
+    [
+     "de bui",
+     "chubasco"
+    ],
+    [
+     "het onweer",
+     "tormenta"
+    ],
+    [
+     "de donder",
+     "trueno"
+    ],
+    [
+     "de bliksem",
+     "relámpago, rayo"
+    ],
+    [
+     "de sneeuw",
+     "nieve"
+    ],
+    [
+     "het ijs",
+     "hielo"
+    ],
+    [
+     "de vorst",
+     "helada"
+    ],
+    [
+     "de hittegolf",
+     "ola de calor"
+    ],
+    [
+     "het weerbericht",
+     "previsión del tiempo"
+    ],
+    [
+     "de temperatuur",
+     "temperatura"
+    ],
+    [
+     "de graad",
+     "grado"
+    ]
+   ]
+  },
+  {
+   "name": "El medio ambiente",
+   "level": "B2",
+   "items": [
+    [
+     "het milieu",
+     "medio ambiente"
+    ],
+    [
+     "de klimaatverandering",
+     "cambio climático"
+    ],
+    [
+     "de opwarming van de aarde",
+     "calentamiento global"
+    ],
+    [
+     "de vervuiling",
+     "contaminación"
+    ],
+    [
+     "de duurzame energie",
+     "energías renovables"
+    ],
+    [
+     "het zonnepaneel",
+     "placa solar"
+    ],
+    [
+     "de windmolen",
+     "aerogenerador"
+    ],
+    [
+     "het afval",
+     "residuos, basura"
+    ],
+    [
+     "de recycling",
+     "reciclaje"
+    ],
+    [
+     "de droogte",
+     "sequía"
+    ],
+    [
+     "de overstroming",
+     "inundación"
+    ],
+    [
+     "de ecologische voetafdruk",
+     "huella de carbono"
+    ],
+    [
+     "de bedreigde diersoort",
+     "especie amenazada"
+    ],
+    [
+     "de ontbossing",
+     "deforestación"
+    ],
+    [
+     "duurzaam",
+     "sostenible"
+    ],
+    [
+     "verminderen",
+     "reducir"
+    ]
+   ]
+  }
+ ]
+}

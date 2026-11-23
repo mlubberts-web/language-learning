@@ -1,0 +1,146 @@
+{
+ "title": "🎓 Colegio y estudios",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Colegio y universidad",
+   "level": "B1",
+   "items": [
+    [
+     "de basisschool",
+     "colegio, primaria"
+    ],
+    [
+     "de middelbare school",
+     "instituto, secundaria"
+    ],
+    [
+     "de universiteit",
+     "universidad"
+    ],
+    [
+     "het vak",
+     "asignatura"
+    ],
+    [
+     "het rooster",
+     "horario"
+    ],
+    [
+     "het huiswerk",
+     "deberes"
+    ],
+    [
+     "het examen",
+     "examen"
+    ],
+    [
+     "het cijfer",
+     "nota"
+    ],
+    [
+     "het diploma",
+     "título, licenciatura"
+    ],
+    [
+     "het hoorcollege",
+     "clase magistral"
+    ],
+    [
+     "de begeleider",
+     "tutor"
+    ],
+    [
+     "de beurs",
+     "beca"
+    ],
+    [
+     "het collegegeld",
+     "matrícula, tasas"
+    ],
+    [
+     "de periode",
+     "trimestre"
+    ],
+    [
+     "afstuderen",
+     "licenciarse, graduarse"
+    ],
+    [
+     "de studielening",
+     "préstamo de estudios"
+    ]
+   ]
+  },
+  {
+   "name": "Estudiar",
+   "level": "B1",
+   "items": [
+    [
+     "leren voor een toets",
+     "repasar"
+    ],
+    [
+     "slagen",
+     "aprobar"
+    ],
+    [
+     "zakken",
+     "suspender"
+    ],
+    [
+     "spieken",
+     "copiar (en un examen)"
+    ],
+    [
+     "aantekeningen maken",
+     "tomar apuntes"
+    ],
+    [
+     "het opstel",
+     "redacción, ensayo"
+    ],
+    [
+     "de opdracht",
+     "trabajo, tarea"
+    ],
+    [
+     "inleveren",
+     "entregar"
+    ],
+    [
+     "zich inschrijven",
+     "matricularse"
+    ],
+    [
+     "blokken",
+     "empollar"
+    ],
+    [
+     "het onderzoek",
+     "investigación"
+    ],
+    [
+     "de bibliotheek",
+     "biblioteca"
+    ],
+    [
+     "de boekhandel",
+     "librería"
+    ],
+    [
+     "bijwonen",
+     "asistir a"
+    ],
+    [
+     "afwezig",
+     "ausente"
+    ],
+    [
+     "uit het hoofd leren",
+     "aprender de memoria"
+    ]
+   ]
+  }
+ ]
+}

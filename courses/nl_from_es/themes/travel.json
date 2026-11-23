@@ -1,0 +1,146 @@
+{
+ "title": "✈️ Viajes",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "En avión y en tren",
+   "level": "A2",
+   "items": [
+    [
+     "de instapkaart",
+     "tarjeta de embarque"
+    ],
+    [
+     "de gate",
+     "puerta de embarque"
+    ],
+    [
+     "de vertraging",
+     "retraso"
+    ],
+    [
+     "het vertrek",
+     "salida"
+    ],
+    [
+     "de aankomst",
+     "llegada"
+    ],
+    [
+     "de bagage",
+     "equipaje"
+    ],
+    [
+     "de handbagage",
+     "equipaje de mano"
+    ],
+    [
+     "de incheckbalie",
+     "mostrador de facturación"
+    ],
+    [
+     "de douane",
+     "aduana"
+    ],
+    [
+     "het retourtje",
+     "billete de ida y vuelta"
+    ],
+    [
+     "de enkele reis",
+     "billete de ida"
+    ],
+    [
+     "het perron",
+     "andén"
+    ],
+    [
+     "de dienstregeling",
+     "horario"
+    ],
+    [
+     "overstappen",
+     "hacer transbordo"
+    ],
+    [
+     "missen",
+     "perder (el tren)"
+    ],
+    [
+     "de reis",
+     "viaje, trayecto"
+    ]
+   ]
+  },
+  {
+   "name": "Alojamiento y turismo",
+   "level": "B1",
+   "items": [
+    [
+     "het onderdak",
+     "alojamiento"
+    ],
+    [
+     "het hostel",
+     "albergue"
+    ],
+    [
+     "het pension",
+     "pensión, casa de huéspedes"
+    ],
+    [
+     "de reservering",
+     "reserva"
+    ],
+    [
+     "uitchecken",
+     "dejar el hotel"
+    ],
+    [
+     "de eenpersoonskamer",
+     "habitación individual"
+    ],
+    [
+     "de tweepersoonskamer",
+     "habitación doble"
+    ],
+    [
+     "de bezienswaardigheden",
+     "lugares de interés"
+    ],
+    [
+     "de rondleiding",
+     "visita guiada"
+    ],
+    [
+     "het souvenir",
+     "recuerdo"
+    ],
+    [
+     "de folder",
+     "folleto"
+    ],
+    [
+     "de rugzak",
+     "mochila"
+    ],
+    [
+     "in het buitenland",
+     "en el extranjero"
+    ],
+    [
+     "de jetlag",
+     "desfase horario"
+    ],
+    [
+     "de vakantie",
+     "vacaciones"
+    ],
+    [
+     "de reisverzekering",
+     "seguro de viaje"
+    ]
+   ]
+  }
+ ]
+}

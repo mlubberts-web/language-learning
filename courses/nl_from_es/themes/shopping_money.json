@@ -1,0 +1,146 @@
+{
+ "title": "🛍️ Compras y dinero",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "De compras",
+   "level": "A2",
+   "items": [
+    [
+     "de verkoper",
+     "dependiente"
+    ],
+    [
+     "de kassa",
+     "caja"
+    ],
+    [
+     "het bonnetje",
+     "tique, recibo"
+    ],
+    [
+     "de paskamer",
+     "probador"
+    ],
+    [
+     "de maat",
+     "talla"
+    ],
+    [
+     "de uitverkoop",
+     "rebajas"
+    ],
+    [
+     "de korting",
+     "descuento"
+    ],
+    [
+     "het koopje",
+     "ganga, chollo"
+    ],
+    [
+     "passen",
+     "probarse, quedar bien de talla"
+    ],
+    [
+     "goed staan",
+     "sentar bien"
+    ],
+    [
+     "terugbrengen",
+     "devolver"
+    ],
+    [
+     "de terugbetaling",
+     "reembolso"
+    ],
+    [
+     "het winkelcentrum",
+     "centro comercial"
+    ],
+    [
+     "het winkelwagentje",
+     "carro"
+    ],
+    [
+     "het mandje",
+     "cesta"
+    ],
+    [
+     "pinnen",
+     "pagar con tarjeta"
+    ]
+   ]
+  },
+  {
+   "name": "El dinero y el banco",
+   "level": "B1",
+   "items": [
+    [
+     "het contante geld",
+     "dinero en efectivo"
+    ],
+    [
+     "het wisselgeld",
+     "cambio, vuelta"
+    ],
+    [
+     "de munt",
+     "moneda"
+    ],
+    [
+     "het bankbiljet",
+     "billete"
+    ],
+    [
+     "de betaalrekening",
+     "cuenta corriente"
+    ],
+    [
+     "de spaarrekening",
+     "cuenta de ahorro"
+    ],
+    [
+     "de geldautomaat",
+     "cajero automático"
+    ],
+    [
+     "opnemen",
+     "sacar dinero"
+    ],
+    [
+     "overmaken",
+     "hacer una transferencia"
+    ],
+    [
+     "de lening",
+     "préstamo"
+    ],
+    [
+     "de hypotheek",
+     "hipoteca"
+    ],
+    [
+     "de schuld",
+     "deuda"
+    ],
+    [
+     "de rente",
+     "interés"
+    ],
+    [
+     "lenen",
+     "pedir prestado, prestar"
+    ],
+    [
+     "uitlenen",
+     "prestar"
+    ],
+    [
+     "zich kunnen veroorloven",
+     "poder permitirse"
+    ]
+   ]
+  }
+ ]
+}

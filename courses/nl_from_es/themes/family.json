@@ -1,0 +1,142 @@
+{
+ "title": "👨‍👩‍👧 Familia",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Miembros de la familia",
+   "level": "A2",
+   "items": [
+    [
+     "de grootouders",
+     "abuelos"
+    ],
+    [
+     "de kleinzoon",
+     "nieto"
+    ],
+    [
+     "de kleindochter",
+     "nieta"
+    ],
+    [
+     "de oom",
+     "tío"
+    ],
+    [
+     "de tante",
+     "tía"
+    ],
+    [
+     "de neef",
+     "primo, sobrino"
+    ],
+    [
+     "de nicht",
+     "prima, sobrina"
+    ],
+    [
+     "de tweeling",
+     "gemelos, mellizos"
+    ],
+    [
+     "het enig kind",
+     "hijo único"
+    ],
+    [
+     "de schoonouders",
+     "suegros"
+    ],
+    [
+     "de zwager",
+     "cuñado"
+    ],
+    [
+     "de schoonzus",
+     "cuñada"
+    ],
+    [
+     "de stiefvader",
+     "padrastro"
+    ],
+    [
+     "de stiefmoeder",
+     "madrastra"
+    ],
+    [
+     "het familielid",
+     "pariente, familiar"
+    ]
+   ]
+  },
+  {
+   "name": "Relaciones y acontecimientos",
+   "level": "B1",
+   "items": [
+    [
+     "de bruiloft",
+     "boda"
+    ],
+    [
+     "de verloving",
+     "compromiso"
+    ],
+    [
+     "de huwelijksreis",
+     "luna de miel"
+    ],
+    [
+     "de scheiding",
+     "divorcio"
+    ],
+    [
+     "trouwen",
+     "casarse"
+    ],
+    [
+     "scheiden",
+     "divorciarse"
+    ],
+    [
+     "zich verloven",
+     "prometerse"
+    ],
+    [
+     "de vrijgezel",
+     "soltero"
+    ],
+    [
+     "de weduwe",
+     "viuda"
+    ],
+    [
+     "de weduwnaar",
+     "viudo"
+    ],
+    [
+     "de zwangerschap",
+     "embarazo"
+    ],
+    [
+     "bevallen",
+     "dar a luz"
+    ],
+    [
+     "opvoeden",
+     "criar, educar"
+    ],
+    [
+     "de jeugd",
+     "infancia, juventud"
+    ],
+    [
+     "opgroeien",
+     "crecer"
+    ],
+    [
+     "zorgen voor",
+     "cuidar de"
+    ]
+   ]
+  }
+ ]
+}

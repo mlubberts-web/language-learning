@@ -1,0 +1,146 @@
+{
+ "title": "💻 Tecnología",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Aparatos e internet",
+   "level": "A2",
+   "items": [
+    [
+     "de laptop",
+     "portátil"
+    ],
+    [
+     "het scherm",
+     "pantalla"
+    ],
+    [
+     "het toetsenbord",
+     "teclado"
+    ],
+    [
+     "de muis",
+     "ratón"
+    ],
+    [
+     "de oplader",
+     "cargador"
+    ],
+    [
+     "de batterij",
+     "batería, pila"
+    ],
+    [
+     "de koptelefoon",
+     "auriculares"
+    ],
+    [
+     "de printer",
+     "impresora"
+    ],
+    [
+     "het wachtwoord",
+     "contraseña"
+    ],
+    [
+     "de gebruikersnaam",
+     "nombre de usuario"
+    ],
+    [
+     "de website",
+     "página web"
+    ],
+    [
+     "de link",
+     "enlace"
+    ],
+    [
+     "de e-mail",
+     "correo electrónico"
+    ],
+    [
+     "de bijlage",
+     "archivo adjunto"
+    ],
+    [
+     "de app",
+     "aplicación"
+    ],
+    [
+     "de wifi",
+     "wifi"
+    ]
+   ]
+  },
+  {
+   "name": "En línea",
+   "level": "B1",
+   "items": [
+    [
+     "downloaden",
+     "descargar"
+    ],
+    [
+     "uploaden",
+     "subir"
+    ],
+    [
+     "inloggen",
+     "iniciar sesión"
+    ],
+    [
+     "uitloggen",
+     "cerrar sesión"
+    ],
+    [
+     "zich aanmelden",
+     "registrarse"
+    ],
+    [
+     "delen",
+     "compartir"
+    ],
+    [
+     "plaatsen",
+     "publicar"
+    ],
+    [
+     "de volger",
+     "seguidor"
+    ],
+    [
+     "de sociale media",
+     "redes sociales"
+    ],
+    [
+     "de zoekmachine",
+     "buscador"
+    ],
+    [
+     "bijwerken",
+     "actualizar"
+    ],
+    [
+     "verwijderen",
+     "borrar"
+    ],
+    [
+     "opslaan",
+     "guardar"
+    ],
+    [
+     "de back-up",
+     "copia de seguridad"
+    ],
+    [
+     "de privacy",
+     "privacidad"
+    ],
+    [
+     "het nepnieuws",
+     "noticias falsas, bulos"
+    ]
+   ]
+  }
+ ]
+}

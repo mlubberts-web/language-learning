@@ -1,0 +1,210 @@
+{
+ "title": "🇪🇸 Trampas para hispanohablantes",
+ "kind": "language",
+ "lists": [
+  {
+   "name": "Falsos amigos",
+   "level": "B1",
+   "items": [
+    [
+     "genant",
+     "embarazoso, que da vergüenza",
+     "Dat was een heel [genant] moment.",
+     "Embarazada = zwanger."
+    ],
+    [
+     "de constipatie",
+     "el estreñimiento",
+     "Van dit medicijn kun je [constipatie] krijgen.",
+     "Constipado = verkouden."
+    ],
+    [
+     "solliciteren",
+     "presentarse a un empleo",
+     "Ik wil [solliciteren] bij die bank.",
+     "Solicitar un permiso o una beca = aanvragen."
+    ],
+    [
+     "brutaal",
+     "descarado",
+     "Wat een [brutaal] kind.",
+     "Brutal = wreed."
+    ],
+    [
+     "raar",
+     "raro, extraño",
+     "Dat is een [raar] verhaal.",
+     "Raro (poco frecuente) = zeldzaam."
+    ],
+    [
+     "durven",
+     "atreverse",
+     "Ik [durf] het haar niet te vertellen.",
+     "Durar = duren."
+    ],
+    [
+     "het mes",
+     "el cuchillo",
+     "Snijd het brood met [het mes].",
+     "El mes = de maand."
+    ],
+    [
+     "de pan",
+     "la sartén, la olla",
+     "Bak de eieren in [de pan].",
+     "El pan = het brood."
+    ],
+    [
+     "de boot",
+     "el barco",
+     "We gaan met [de boot] naar Texel.",
+     "La bota = de laars."
+    ],
+    [
+     "de rok",
+     "la falda",
+     "Ze draagt een lange [rok].",
+     "La roca = de rots."
+    ],
+    [
+     "de rente",
+     "el interés (del banco)",
+     "De bank heeft [de rente] verhoogd.",
+     "La renta = het inkomen."
+    ],
+    [
+     "het station",
+     "la estación de tren",
+     "De trein vertrekt van [het station].",
+     "La estación del año = het seizoen."
+    ],
+    [
+     "ordinair",
+     "vulgar, ordinario",
+     "Dat vind ik een beetje [ordinair].",
+     "Normal, corriente = gewoon."
+    ],
+    [
+     "de bril",
+     "las gafas",
+     "Ik kan niet lezen zonder [bril].",
+     "El brillo = de glans."
+    ],
+    [
+     "de tas",
+     "el bolso, la bolsa",
+     "Mijn portemonnee zit in [mijn tas].",
+     "La taza = het kopje."
+    ],
+    [
+     "de dame",
+     "la señora",
+     "Die [dame] vroeg naar de weg.",
+     "Dame (dar) = geef me."
+    ]
+   ]
+  },
+  {
+   "name": "Errores típicos de los hispanohablantes",
+   "level": "B1",
+   "items": [
+    [
+     "Ik ben twintig",
+     "tengo veinte años",
+     "Mijn broer [is twintig].",
+     "La edad va con zijn, no con hebben."
+    ],
+    [
+     "Ik heb het koud",
+     "tengo frío",
+     "Doe de deur dicht, [ik heb het koud].",
+     "No: Ik heb koud."
+    ],
+    [
+     "Morgen ga ik",
+     "mañana voy",
+     "[Morgen ga ik] naar Madrid.",
+     "Verbo en segunda posición: no Morgen ik ga."
+    ],
+    [
+     "Het regent",
+     "llueve",
+     "Neem een paraplu mee, [het regent].",
+     "El neerlandés necesita sujeto: no Regent."
+    ],
+    [
+     "Ik denk aan jou",
+     "pienso en ti",
+     "Ik denk vaak [aan jou].",
+     "Pensar en = denken aan."
+    ],
+    [
+     "Ik wacht op de bus",
+     "espero el autobús",
+     "Ik sta al tien minuten [op de bus] te wachten.",
+     "Esperar algo = wachten op."
+    ],
+    [
+     "Hij lijkt op zijn vader",
+     "se parece a su padre",
+     "Hij [lijkt op] zijn vader.",
+     "Parecerse a = lijken op."
+    ],
+    [
+     "Ze kennen elkaar",
+     "se conocen",
+     "Ze [kennen elkaar] al jaren.",
+     "Recíproco: elkaar, no zich."
+    ],
+    [
+     "Ik woon hier al tien jaar",
+     "vivo aquí desde hace diez años",
+     "Ik [woon hier al] tien jaar.",
+     "Desde hace = al, no sinds."
+    ],
+    [
+     "Ik heb het hem gegeven",
+     "se lo di",
+     "Ik heb [het hem] gegeven.",
+     "Primero het, luego la persona: al revés que se lo."
+    ],
+    [
+     "omdat ik moe ben",
+     "porque estoy cansado",
+     "Ik blijf thuis, [omdat ik moe ben].",
+     "Tras omdat, el verbo va al final."
+    ],
+    [
+     "Ik zwem graag",
+     "me gusta nadar",
+     "[Ik zwem graag] in de zee.",
+     "Me gusta + infinitivo = verbo + graag."
+    ],
+    [
+     "als ik tijd heb",
+     "cuando tenga tiempo",
+     "Ik bel je [als ik tijd heb].",
+     "Sin subjuntivo: el presente normal."
+    ],
+    [
+     "Ik spreek Spaans",
+     "hablo español",
+     "Ik spreek [Spaans] en Nederlands.",
+     "Los idiomas llevan mayúscula."
+    ],
+    [
+     "Ik heb mijn haar laten knippen",
+     "me he cortado el pelo (en la peluquería)",
+     "Ik heb mijn haar [laten knippen].",
+     "Si lo hace otro: laten."
+    ],
+    [
+     "Ik zie hem niet",
+     "no lo veo",
+     "Ik [zie hem niet].",
+     "niet va detrás: no Ik niet zie hem."
+    ]
+   ]
+  }
+ ]
+}
