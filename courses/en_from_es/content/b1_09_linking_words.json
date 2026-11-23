@@ -1,0 +1,396 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Los conectores",
+  "subtitle": "although, however, because of, so that, in order to, while y más: unir frases e ideas",
+  "footer": "Language Learning · B1 · Gramática · Conectores",
+  "next": "Siguiente: B1 · pdf 10 — Vocabulario y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "expresar contraste con <b>but, although, however, despite</b>",
+    "expresar causa y consecuencia con <b>because, because of, so, that's why</b>",
+    "expresar finalidad con <b>to, in order to, so that</b>",
+    "ordenar un texto con <b>firstly, then, finally</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Contraste"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Posición y forma"
+   ],
+   "rows": [
+    [
+     "but",
+     "It was cold, but we went out.",
+     "entre dos frases"
+    ],
+    [
+     "although / even though",
+     "Although it was cold, we went out.",
+     "+ frase (sujeto + verbo)"
+    ],
+    [
+     "however",
+     "It was cold. However, we went out.",
+     "al principio de una frase nueva, con coma"
+    ],
+    [
+     "despite / in spite of",
+     "Despite the cold, we went out.",
+     "+ sustantivo o -ing"
+    ],
+    [
+     "while / whereas",
+     "I like tea, while my wife prefers coffee.",
+     "contraste entre dos cosas"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "despite + sustantivo, although + frase",
+   "text": "<i>Despite <b>the rain</b></i> o <i>Despite <b>being tired</b></i>, pero <i>Although <b>it was raining</b></i>. <i>A pesar de que llovía</i> no es <i>despite it was raining</i>, sino <b>although it was raining</b>. Y nunca <i>despite of</i>, aunque en español digas <i>a pesar de</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Causa y consecuencia"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Posición y forma"
+   ],
+   "rows": [
+    [
+     "because",
+     "I stayed at home because I was ill.",
+     "+ frase"
+    ],
+    [
+     "because of",
+     "I stayed at home because of the rain.",
+     "+ sustantivo"
+    ],
+    [
+     "as / since",
+     "As it was late, we took a taxi.",
+     "+ frase, a menudo al principio"
+    ],
+    [
+     "so",
+     "It was late, so we took a taxi.",
+     "consecuencia, con coma delante"
+    ],
+    [
+     "that's why",
+     "I was ill. That's why I didn't come.",
+     "al principio de una frase nueva"
+    ],
+    [
+     "therefore",
+     "Prices rose. Therefore, sales fell.",
+     "formal, frase nueva"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "porque = because, por = because of",
+   "text": "<i>porque estaba enfermo</i> = <b>because I was ill</b> (con una frase). Pero <i>por la lluvia</i> o <i>a causa de la lluvia</i> = <b>because of the rain</b> (con un sustantivo), nunca <i>because the rain</i>. Y <i>así que</i> o <i>por eso</i> = <b>so</b> o <b>that's why</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Finalidad"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "to",
+     "I went to the shop to buy milk.",
+     "Fui a la tienda a comprar leche."
+    ],
+    [
+     "in order to",
+     "We left early in order to avoid the traffic.",
+     "Salimos temprano para evitar los atascos."
+    ],
+    [
+     "so that",
+     "I'll write it down so that I don't forget.",
+     "Lo apunto para que no se me olvide."
+    ],
+    [
+     "for + naamwoord",
+     "We went out for a walk.",
+     "Salimos a dar un paseo."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "para comprar = to buy, nunca for to buy",
+   "text": "<i>para comprar leche</i> = <b>to buy milk</b>. Nunca <i>for to buy</i>, <i>for buy</i> ni <i>for buying</i> cuando hablas de una finalidad. Es uno de los errores más típicos de los hispanohablantes. <b>for</b> solo va con un sustantivo: <i>for a walk</i>, <i>for dinner</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Añadir y ordenar"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras para ordenar un texto",
+   "items": [
+    [
+     "firstly",
+     "en primer lugar"
+    ],
+    [
+     "secondly",
+     "en segundo lugar"
+    ],
+    [
+     "then",
+     "luego, después"
+    ],
+    [
+     "after that",
+     "después, más tarde"
+    ],
+    [
+     "finally",
+     "por último, finalmente"
+    ],
+    [
+     "also",
+     "también"
+    ],
+    [
+     "in addition",
+     "además"
+    ],
+    [
+     "moreover",
+     "además (formal)"
+    ],
+    [
+     "for example",
+     "por ejemplo"
+    ],
+    [
+     "such as",
+     "como, tales como"
+    ],
+    [
+     "in conclusion",
+     "en conclusión"
+    ],
+    [
+     "on the other hand",
+     "por otro lado"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Despite it was raining, we played.",
+     "Although it was raining, we played.",
+     "Con una frase: although."
+    ],
+    [
+     "Despite of the rain, we played.",
+     "Despite the rain, we played.",
+     "despite sin of."
+    ],
+    [
+     "I didn't go because the rain.",
+     "I didn't go because of the rain.",
+     "Con un sustantivo: because of."
+    ],
+    [
+     "I went there for to see her.",
+     "I went there to see her.",
+     "Finalidad: to."
+    ],
+    [
+     "It was late, however we stayed.",
+     "It was late. However, we stayed.",
+     "however empieza una frase nueva."
+    ],
+    [
+     "Although it was cold, but we swam.",
+     "Although it was cold, we swam.",
+     "although y but no van juntos."
+    ],
+    [
+     "Because I was ill I not came.",
+     "Because I was ill, I didn't come.",
+     "Orden normal, con didn't."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el conector correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ it was raining, we went for a walk.",
+     "hint": "aunque",
+     "a": "Although",
+     "full": "Although it was raining, we went for a walk."
+    },
+    {
+     "q": "______ the rain, we went for a walk.",
+     "hint": "a pesar de",
+     "a": "Despite",
+     "full": "Despite the rain, we went for a walk."
+    },
+    {
+     "q": "The flight was cancelled ______ the storm.",
+     "hint": "a causa de",
+     "a": "because of",
+     "full": "The flight was cancelled because of the storm."
+    },
+    {
+     "q": "I was hungry, ______ I made a sandwich.",
+     "hint": "así que",
+     "a": "so",
+     "full": "I was hungry, so I made a sandwich."
+    },
+    {
+     "q": "She saved money ______ buy a car.",
+     "hint": "para",
+     "a": "to",
+     "full": "She saved money to buy a car."
+    },
+    {
+     "q": "Speak slowly ______ everybody can understand.",
+     "hint": "para que",
+     "a": "so that",
+     "full": "Speak slowly so that everybody can understand."
+    },
+    {
+     "q": "The hotel was nice. ______, the food was terrible.",
+     "hint": "sin embargo",
+     "a": "However",
+     "full": "The hotel was nice. However, the food was terrible."
+    },
+    {
+     "q": "I like summer, ______ my sister prefers winter.",
+     "hint": "mientras que (contraste)",
+     "a": "while",
+     "full": "I like summer, while my sister prefers winter."
+    },
+    {
+     "q": "We visited many cities, ______ Rome and Florence.",
+     "hint": "como, tales como",
+     "a": "such as",
+     "full": "We visited many cities, such as Rome and Florence."
+    },
+    {
+     "q": "______ it was late, we took a taxi.",
+     "hint": "como (al principio)",
+     "a": "As",
+     "full": "As it was late, we took a taxi."
+    },
+    {
+     "q": "I missed the bus. ______ why I was late.",
+     "hint": "por eso",
+     "a": "That's",
+     "full": "I missed the bus. That's why I was late."
+    },
+    {
+     "q": "In ______, I think it was a good decision.",
+     "hint": "en conclusión",
+     "a": "conclusion",
+     "full": "In conclusion, I think it was a good decision."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Aunque hacía frío, fuimos a nadar.",
+     "a": "Although it was cold, we went swimming."
+    },
+    {
+     "q": "Me quedé en casa porque estaba enfermo.",
+     "a": "I stayed at home because I was ill."
+    },
+    {
+     "q": "Fui a la tienda a comprar pan.",
+     "a": "I went to the shop to buy bread."
+    },
+    {
+     "q": "A pesar de la lluvia, jugamos fuera.",
+     "a": "Despite the rain, we played outside."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

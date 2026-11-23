@@ -1,0 +1,416 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "¿Gerundio o infinitivo?",
+  "subtitle": "enjoy doing o want to do; verbos que admiten los dos; make y let",
+  "footer": "Language Learning · B1 · Gramática · Gerundio o infinitivo",
+  "next": "Siguiente: B1 · pdf 8 — Los verbos modales de probabilidad"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre la forma en <b>-ing</b> y <b>to</b> + verbo después de un verbo",
+    "usar la forma en -ing después de una preposición y como sujeto",
+    "conocer la diferencia de significado con <b>stop, remember, forget</b> y <b>try</b>",
+    "usar <b>make</b> y <b>let</b> sin to"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbo + -ing"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Después de estos verbos: -ing",
+   "items": [
+    [
+     "enjoy",
+     "disfrutar de, gustar"
+    ],
+    [
+     "finish",
+     "terminar de"
+    ],
+    [
+     "mind",
+     "importar"
+    ],
+    [
+     "avoid",
+     "evitar"
+    ],
+    [
+     "suggest",
+     "sugerir, proponer"
+    ],
+    [
+     "consider",
+     "plantearse, considerar"
+    ],
+    [
+     "keep",
+     "seguir, no parar de"
+    ],
+    [
+     "miss",
+     "echar de menos"
+    ],
+    [
+     "practise",
+     "practicar"
+    ],
+    [
+     "give up",
+     "dejar de"
+    ],
+    [
+     "can't stand",
+     "no soportar"
+    ],
+    [
+     "look forward to",
+     "tener ganas de"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>I enjoy <b>cooking</b>. Do you mind <b>waiting</b>? She suggested <b>going</b> to the beach. I'm looking forward to <b>seeing</b> you.</i> Ojo con <b>suggest</b>: <i>sugirió que fuéramos a la playa</i> = <b>she suggested going</b>, nunca <i>she suggested us to go</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Después de una preposición, siempre -ing",
+   "text": "El español usa el infinitivo después de una preposición (<i>sin decir</i>, <i>antes de salir</i>, <i>gracias por ayudar</i>). El inglés usa la forma en -ing: <i>He left <b>without saying</b> goodbye. <b>Before leaving</b>, ... Thanks <b>for helping</b>. I'm good <b>at swimming</b>.</i> También después de <b>look forward to</b>: ese to es una preposición. Y como sujeto: <i>Fumar es malo</i> = <b>Smoking is bad</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbo + to"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Después de estos verbos: to + verbo",
+   "items": [
+    [
+     "want",
+     "querer"
+    ],
+    [
+     "would like",
+     "querer, apetecer"
+    ],
+    [
+     "decide",
+     "decidir"
+    ],
+    [
+     "hope",
+     "esperar (tener esperanza)"
+    ],
+    [
+     "plan",
+     "tener pensado, planear"
+    ],
+    [
+     "promise",
+     "prometer"
+    ],
+    [
+     "agree",
+     "acordar, quedar en"
+    ],
+    [
+     "refuse",
+     "negarse a"
+    ],
+    [
+     "learn",
+     "aprender a"
+    ],
+    [
+     "need",
+     "necesitar, tener que"
+    ],
+    [
+     "afford",
+     "poder permitirse"
+    ],
+    [
+     "seem",
+     "parecer"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>I want <b>to go</b> home. We decided <b>to stay</b>. She promised <b>to call</b> me. I can't afford <b>to buy</b> a car.</i> Y nunca un <i>que</i>: <i>quiero que vengas</i> = <b>I want you to come</b>, no <i>I want that you come</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un infinitivo español, dos formas inglesas",
+   "text": "El español usa el infinitivo en todos los casos: <i>Intento dormir. Me encanta cocinar.</i> El inglés elige según el verbo: <b>I try to sleep</b>, <b>I love cooking</b>. Aprende los verbos de las listas de arriba como combinaciones fijas."
+  },
+  {
+   "type": "h1",
+   "text": "3. Con las dos formas, con otro significado"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "Verbo",
+    "+ -ing",
+    "+ to"
+   ],
+   "rows": [
+    [
+     "stop",
+     "I stopped smoking. (dejé de fumar)",
+     "I stopped to smoke. (me paré para fumar)"
+    ],
+    [
+     "remember",
+     "I remember meeting her. (me acuerdo de haberla conocido)",
+     "Remember to call her. (no te olvides de llamarla)"
+    ],
+    [
+     "forget",
+     "I'll never forget visiting Rome. (el recuerdo)",
+     "I forgot to lock the door. (no lo hice)"
+    ],
+    [
+     "try",
+     "Try adding salt. (prueba a añadir sal)",
+     "I tried to open it. (intenté abrirlo)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "like, love, hate, start, begin",
+   "text": "Con <b>like, love, hate, start, begin, continue</b> se pueden usar las dos formas sin gran diferencia: <i>It started to rain / It started raining.</i> Pero <b>would like</b> siempre lleva to: <i>I'd like to go.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. make, let y help"
+  },
+  {
+   "type": "p",
+   "text": "Después de <b>make</b> (hacer, obligar) y <b>let</b> (dejar, permitir) va el verbo sin nada, sin to. Después de <b>help</b> valen las dos cosas."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "My boss made me work late.",
+     "Mi jefe me hizo trabajar hasta tarde."
+    ],
+    [
+     "My parents let me stay up late.",
+     "Mis padres me dejaban acostarme tarde."
+    ],
+    [
+     "Can you help me (to) carry this?",
+     "¿Me ayudas a llevar esto?"
+    ],
+    [
+     "The film made me cry.",
+     "La película me hizo llorar."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "dejar no siempre es let",
+   "text": "<b>let</b> es solo <i>dejar</i> en el sentido de permitir. <i>Dejar de fumar</i> es <b>stop smoking</b>; <i>dejar caer algo</i> es <b>drop something</b>; <i>dejarse algo en casa</i> es <b>leave something at home</b>; <i>hacer esperar a alguien</i> es <b>keep someone waiting</b>; y <i>mandar arreglar algo</i> es <b>have something repaired</b> (pdf 4)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I enjoy to swim.",
+     "I enjoy swimming.",
+     "Después de enjoy: -ing."
+    ],
+    [
+     "I want going home.",
+     "I want to go home.",
+     "Después de want: to."
+    ],
+    [
+     "I'm looking forward to see you.",
+     "I'm looking forward to seeing you.",
+     "Aquí to es una preposición: -ing."
+    ],
+    [
+     "Thanks for help me.",
+     "Thanks for helping me.",
+     "Después de una preposición: -ing."
+    ],
+    [
+     "She made me to wait.",
+     "She made me wait.",
+     "Después de make no va to."
+    ],
+    [
+     "My parents don't let me to go out.",
+     "My parents don't let me go out.",
+     "Después de let no va to."
+    ],
+    [
+     "I stopped to smoke last year.",
+     "I stopped smoking last year.",
+     "Dejar de: stop + -ing."
+    ],
+    [
+     "Don't forget locking the door.",
+     "Don't forget to lock the door.",
+     "Algo que no hiciste: forget to."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma en -ing o con to + verbo. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I really enjoy ______ in the mountains.",
+     "hint": "walk",
+     "a": "walking",
+     "full": "I really enjoy walking in the mountains."
+    },
+    {
+     "q": "We decided ______ at home.",
+     "hint": "stay",
+     "a": "to stay",
+     "full": "We decided to stay at home."
+    },
+    {
+     "q": "Would you mind ______ the window?",
+     "hint": "open",
+     "a": "opening",
+     "full": "Would you mind opening the window?"
+    },
+    {
+     "q": "She's very good at ______.",
+     "hint": "draw",
+     "a": "drawing",
+     "full": "She's very good at drawing."
+    },
+    {
+     "q": "I can't afford ______ a new car.",
+     "hint": "buy",
+     "a": "to buy",
+     "full": "I can't afford to buy a new car."
+    },
+    {
+     "q": "I'm looking forward to ______ you.",
+     "hint": "see",
+     "a": "seeing",
+     "full": "I'm looking forward to seeing you."
+    },
+    {
+     "q": "Remember ______ the lights when you leave.",
+     "hint": "turn off, no olvidarse",
+     "a": "to turn off",
+     "full": "Remember to turn off the lights when you leave."
+    },
+    {
+     "q": "He gave up ______ two years ago.",
+     "hint": "smoke",
+     "a": "smoking",
+     "full": "He gave up smoking two years ago."
+    },
+    {
+     "q": "My teacher made me ______ the essay again.",
+     "hint": "write",
+     "a": "write",
+     "full": "My teacher made me write the essay again."
+    },
+    {
+     "q": "She left without ______ goodbye.",
+     "hint": "say",
+     "a": "saying",
+     "full": "She left without saying goodbye."
+    },
+    {
+     "q": "They promised ______ us next week.",
+     "hint": "visit",
+     "a": "to visit",
+     "full": "They promised to visit us next week."
+    },
+    {
+     "q": "Will your parents let you ______ to the party?",
+     "hint": "go",
+     "a": "go",
+     "full": "Will your parents let you go to the party?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me encanta cocinar.",
+     "a": "I love cooking."
+    },
+    {
+     "q": "Quiero irme a casa.",
+     "a": "I want to go home."
+    },
+    {
+     "q": "Tengo ganas de verte.",
+     "a": "I'm looking forward to seeing you."
+    },
+    {
+     "q": "Mi jefe me hizo trabajar hasta tarde.",
+     "a": "My boss made me work late."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

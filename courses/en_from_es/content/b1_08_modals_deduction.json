@@ -1,0 +1,321 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Verbos",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Los verbos modales de probabilidad",
+  "subtitle": "must, might, could y can't para el presente y el pasado, y should have",
+  "footer": "Language Learning · B1 · Verbos · Probabilidad",
+  "next": "Siguiente: B1 · pdf 9 — Los conectores"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "indicar lo seguro que estás con <b>must, might, may, could</b> y <b>can't</b>",
+    "hacer lo mismo sobre el pasado con <b>must have, might have, can't have</b>",
+    "expresar arrepentimiento y crítica con <b>should have</b>",
+    "decir lo que fue posible con <b>could have</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Sobre el presente"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    4.0,
+    5.4,
+    4.0
+   ],
+   "head": [
+    "Verbo",
+    "Seguridad",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "must",
+     "casi seguro que sí",
+     "She must be tired. She worked all night.",
+     "Debe de estar cansada."
+    ],
+    [
+     "may / might",
+     "quizá, puede que",
+     "He might be at home.",
+     "Puede que esté en casa."
+    ],
+    [
+     "could",
+     "quizá",
+     "It could be true.",
+     "Podría ser verdad."
+    ],
+    [
+     "can't",
+     "casi seguro que no",
+     "That can't be Tom. He's in Spain.",
+     "No puede ser Tom."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "must = deber de",
+   "text": "Con este sentido <b>must</b> no es una obligación sino una conclusión, como <i>deber de</i>: <i>Debe de ser rico</i> = <b>He must be rich</b>. Lo contrario es <b>can't</b>, no <i>mustn't</i>: <i>No puede ser verdad</i> = <b>That can't be true</b>. Y <i>puede que</i> lleva subjuntivo en español, pero en inglés <b>might</b> va con el verbo sin nada: <i>puede que llueva</i> = <b>it might rain</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Sobre el pasado"
+  },
+  {
+   "type": "p",
+   "text": "Para una conclusión sobre el pasado se usa <b>verbo modal + have + participio</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "must have + participio",
+     "The ground is wet. It must have rained.",
+     "Debe de haber llovido."
+    ],
+    [
+     "might / may have",
+     "She might have missed the bus.",
+     "Puede que haya perdido el autobús."
+    ],
+    [
+     "could have",
+     "He could have been delayed.",
+     "Puede que haya tenido un retraso."
+    ],
+    [
+     "can't / couldn't have",
+     "You can't have seen him. He was abroad.",
+     "No puedes haberlo visto."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "have, no of",
+   "text": "Al hablar, <i>must have</i> suena como 'must've', y mucha gente escribe por error <i>must of</i>. Es incorrecto. Escribe siempre <b>must have, should have, could have</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. should have y could have"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "should have",
+     "I should have studied harder.",
+     "Debería haber estudiado más."
+    ],
+    [
+     "shouldn't have",
+     "You shouldn't have said that.",
+     "No deberías haber dicho eso."
+    ],
+    [
+     "could have",
+     "We could have won.",
+     "Podríamos haber ganado."
+    ],
+    [
+     "needn't have",
+     "You needn't have bought flowers.",
+     "No hacía falta que compraras flores."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "debería haber = should have",
+   "text": "<i>Debería haberlo sabido</i> o <i>Tendría que haberlo sabido</i> = <b>I should have known</b>. El inglés no cambia should: el pasado está en <b>have + participio</b>. Nunca <i>I should knew</i> ni <i>I must have to know</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "He mustn't be at home. The lights are off.",
+     "He can't be at home. The lights are off.",
+     "Casi seguro que no: can't."
+    ],
+    [
+     "She must to be tired.",
+     "She must be tired.",
+     "Después de must no va to."
+    ],
+    [
+     "It must rain last night.",
+     "It must have rained last night.",
+     "Sobre el pasado: must have."
+    ],
+    [
+     "I should of called you.",
+     "I should have called you.",
+     "Escribe have, no of."
+    ],
+    [
+     "You should have tell me.",
+     "You should have told me.",
+     "Después de have: participio."
+    ],
+    [
+     "I should left earlier.",
+     "I should have left earlier.",
+     "Debería haber: should have."
+    ],
+    [
+     "Maybe he might come.",
+     "He might come.",
+     "might ya significa quizá."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el verbo modal o la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "You've been travelling all day. You ______ be exhausted.",
+     "hint": "seguro que sí",
+     "a": "must",
+     "full": "You've been travelling all day. You must be exhausted."
+    },
+    {
+     "q": "That ______ be Anna. She's in Australia.",
+     "hint": "no puede ser",
+     "a": "can't",
+     "full": "That can't be Anna. She's in Australia."
+    },
+    {
+     "q": "Take an umbrella. It ______ rain later.",
+     "hint": "puede que",
+     "a": "might",
+     "full": "Take an umbrella. It might rain later."
+    },
+    {
+     "q": "The window is broken. Somebody must ______ thrown a stone.",
+     "hint": "have",
+     "a": "have",
+     "full": "The window is broken. Somebody must have thrown a stone."
+    },
+    {
+     "q": "I ______ have studied more. I failed the test.",
+     "hint": "debería haber",
+     "a": "should",
+     "full": "I should have studied more. I failed the test."
+    },
+    {
+     "q": "She can't have ______ the letter. It's still here.",
+     "hint": "send",
+     "a": "sent",
+     "full": "She can't have sent the letter. It's still here."
+    },
+    {
+     "q": "We ______ have won if we had played better.",
+     "hint": "podríamos haber",
+     "a": "could",
+     "full": "We could have won if we had played better."
+    },
+    {
+     "q": "You ______ have told me! I didn't know.",
+     "hint": "deberías haber",
+     "a": "should",
+     "full": "You should have told me! I didn't know."
+    },
+    {
+     "q": "He isn't answering. He ______ be asleep.",
+     "hint": "puede que, may",
+     "a": "may",
+     "full": "He isn't answering. He may be asleep."
+    },
+    {
+     "q": "They're late. They might have ______ the train.",
+     "hint": "miss",
+     "a": "missed",
+     "full": "They're late. They might have missed the train."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Él debe de estar cansado.",
+     "a": "He must be tired."
+    },
+    {
+     "q": "Eso no puede ser verdad.",
+     "a": "That can't be true."
+    },
+    {
+     "q": "Debería haberlo sabido.",
+     "a": "I should have known."
+    },
+    {
+     "q": "Debe de haber llovido.",
+     "a": "It must have rained."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

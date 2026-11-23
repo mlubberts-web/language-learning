@@ -273,5 +273,38 @@
   "subtitle": "said y told, los tiempos un paso atrás, y las preguntas y peticiones indirectas",
   "content": "b1_06_reported_speech.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_07_Gerundio_o_infinitivo",
+  "file": "B1_07_Gerundio_o_infinitivo.pdf",
+  "level": "B1",
+  "number": 7,
+  "section": "Gramática",
+  "title": "¿Gerundio o infinitivo?",
+  "subtitle": "enjoy doing o want to do; verbos que admiten los dos; make y let",
+  "content": "b1_07_gerund_infinitive.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_08_Los_verbos_modales_de_probabilidad",
+  "file": "B1_08_Los_verbos_modales_de_probabilidad.pdf",
+  "level": "B1",
+  "number": 8,
+  "section": "Verbos",
+  "title": "Los verbos modales de probabilidad",
+  "subtitle": "must, might, could y can't para el presente y el pasado, y should have",
+  "content": "b1_08_modals_deduction.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B1_09_Los_conectores",
+  "file": "B1_09_Los_conectores.pdf",
+  "level": "B1",
+  "number": 9,
+  "section": "Gramática",
+  "title": "Los conectores",
+  "subtitle": "although, however, because of, so that, in order to, while y más: unir frases e ideas",
+  "content": "b1_09_linking_words.json",
+  "exercise_count": 12
  }
 ]
