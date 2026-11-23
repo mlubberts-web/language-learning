@@ -1,0 +1,75 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 4, "total_in_level": 10,
+ "title": "De lijdende vorm",
+ "subtitle": "be + voltooid deelwoord in alle tijden, by, en get something done",
+ "footer": "Language Learning · B1 · Grammatica · De lijdende vorm",
+ "next": "Volgende: B1 · pdf 5 — Betrekkelijke bijzinnen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de lijdende vorm maken met <b>be + voltooid deelwoord</b>",
+  "hem gebruiken in de present, past, present perfect en met modale werkwoorden",
+  "zeggen door wie iets gedaan wordt met <b>by</b>",
+  "<b>have / get something done</b> gebruiken (iets laten doen)"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "p", "text": "Je maakt de lijdende vorm (passive) met een vorm van <b>be</b> plus het <b>voltooid deelwoord</b>. De tijd zit in be; het deelwoord blijft hetzelfde."},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Tijd", "Voorbeeld", "Nederlands"], "rows": [
+  ["present simple", "English is spoken here.", "Hier wordt Engels gesproken."],
+  ["present continuous", "The road is being repaired.", "De weg wordt gerepareerd (op dit moment)."],
+  ["past simple", "The bridge was built in 1890.", "De brug werd in 1890 gebouwd."],
+  ["present perfect", "My bike has been stolen.", "Mijn fiets is gestolen."],
+  ["will", "The results will be published tomorrow.", "De uitslagen worden morgen bekendgemaakt."],
+  ["modaal werkwoord", "This must be done today.", "Dit moet vandaag gedaan worden."]]},
+ {"type": "callout", "kind": "dutch", "title": "worden en zijn = be", "text": "Het Nederlands gebruikt <i>worden</i> (handeling) en <i>zijn</i> (voltooid): <i>Het huis wordt verkocht</i>, <i>Het huis is verkocht</i>. Het Engels gebruikt in beide gevallen <b>be</b>, en de tijd maakt het verschil: <b>The house is being sold</b> / <b>The house has been sold</b>. Nooit <i>The house becomes sold</i>."},
+
+ {"type": "h1", "text": "2. Wanneer gebruik je hem?"},
+ {"type": "bullets", "items": [
+  "Als het niet belangrijk is wie het doet: <i>The rubbish <b>is collected</b> on Mondays.</i>",
+  "Als je het niet weet: <i>My car <b>was stolen</b> last night.</i>",
+  "Als het voor de hand ligt: <i>He <b>was arrested</b>.</i> (door de politie)",
+  "In formele teksten, nieuws en wetenschap: <i>The tests <b>were carried out</b> in May.</i>"]},
+ {"type": "p", "text": "Wil je toch zeggen wie het doet, gebruik dan <b>by</b>: <i>Hamlet was written <b>by</b> Shakespeare.</i> <i>The window was broken <b>by</b> a ball.</i>"},
+ {"type": "callout", "kind": "tip", "title": "Vragen en ontkenningen", "text": "Dezelfde regels als bij be: <i><b>Was</b> it made in China? It <b>wasn't</b> made in China. When <b>was</b> it built? <b>Has</b> the room <b>been</b> cleaned?</i>"},
+
+ {"type": "h1", "text": "3. have / get something done"},
+ {"type": "p", "text": "Als iemand anders iets voor jou doet (meestal tegen betaling), gebruik je <b>have</b> of <b>get</b> + voorwerp + voltooid deelwoord. <b>get</b> is informeler."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["I had my hair cut yesterday.", "Ik ben gisteren naar de kapper geweest."],
+  ["We're getting the kitchen painted.", "We laten de keuken schilderen."],
+  ["You should get your car checked.", "Je zou je auto moeten laten nakijken."],
+  ["She had her bike repaired.", "Zij heeft haar fiets laten repareren."]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik laat ... = I'm having ... done", "text": "<i>Ik heb mijn haar geknipt</i> betekent in het Nederlands meestal dat de kapper het deed. In het Engels zeg je dan <b>I had my hair cut</b>. <i>I cut my hair</i> betekent dat je het zelf deed."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["The house becomes sold.", "The house is being sold.", "worden is be, niet become."],
+  ["My bike is stolen yesterday.", "My bike was stolen yesterday.", "Verleden tijd: was."],
+  ["This book was written from Orwell.", "This book was written by Orwell.", "Door wie: by."],
+  ["English is speak in Ghana.", "English is spoken in Ghana.", "be + voltooid deelwoord."],
+  ["The letters has been sent.", "The letters have been sent.", "Meervoud: have been."],
+  ["I cut my hair at the hairdresser's.", "I had my hair cut at the hairdresser's.", "Iets laten doen: have something done."],
+  ["It must do today.", "It must be done today.", "Lijdende vorm na een modaal werkwoord: be + deelwoord."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de lijdende vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "This cheese ______ in France.", "hint": "make, present simple", "a": "is made", "full": "This cheese is made in France."},
+  {"q": "The Eiffel Tower ______ in 1889.", "hint": "build, past simple", "a": "was built", "full": "The Eiffel Tower was built in 1889."},
+  {"q": "My wallet ______. I can't find it!", "hint": "steal, present perfect", "a": "has been stolen", "full": "My wallet has been stolen. I can't find it!"},
+  {"q": "The new hospital ______ next year.", "hint": "open, will", "a": "will be opened", "full": "The new hospital will be opened next year."},
+  {"q": "The road ______ at the moment.", "hint": "repair, present continuous", "a": "is being repaired", "full": "The road is being repaired at the moment."},
+  {"q": "This song was written ______ John Lennon.", "hint": "door", "a": "by", "full": "This song was written by John Lennon."},
+  {"q": "The homework must ______ handed in on Friday.", "hint": "be", "a": "be", "full": "The homework must be handed in on Friday."},
+  {"q": "Where ______ these shoes made?", "hint": "was of were", "a": "were", "full": "Where were these shoes made?"},
+  {"q": "I'm having my car ______ tomorrow.", "hint": "service, voltooid deelwoord", "a": "serviced", "full": "I'm having my car serviced tomorrow."},
+  {"q": "She ______ her hair cut last week.", "hint": "have, past simple", "a": "had", "full": "She had her hair cut last week."},
+  {"q": "The rooms ______ cleaned every day.", "hint": "be, present simple", "a": "are", "full": "The rooms are cleaned every day."},
+  {"q": "Two people ______ injured in the accident.", "hint": "be, past simple", "a": "were", "full": "Two people were injured in the accident."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Mijn fiets is gestolen.", "a": "My bike has been stolen."},
+  {"q": "Hier wordt Engels gesproken.", "a": "English is spoken here."},
+  {"q": "De brug werd in 1890 gebouwd.", "a": "The bridge was built in 1890."},
+  {"q": "Ik heb gisteren mijn haar laten knippen.", "a": "I had my hair cut yesterday."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

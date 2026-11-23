@@ -1,0 +1,70 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 3, "total_in_level": 10,
+ "title": "Voorwaardelijke zinnen 0, 1 en 2",
+ "subtitle": "Feiten, echte mogelijkheden en denkbeeldige situaties, met if, unless, when en would",
+ "footer": "Language Learning · B1 · Grammatica · Voorwaardelijke zinnen",
+ "next": "Volgende: B1 · pdf 4 — De lijdende vorm"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "algemene feiten uitdrukken met de zero conditional",
+  "echte mogelijkheden in de toekomst uitdrukken met de first conditional",
+  "denkbeeldige situaties beschrijven met de second conditional",
+  "<b>unless</b>, <b>when</b> en <b>if I were you</b> gebruiken"]},
+
+ {"type": "h1", "text": "1. Drie soorten"},
+ {"type": "table", "style": "plain", "widths": [3.4, 4.6, 4.6, 4.4], "head": ["Soort", "if-zin", "Hoofdzin", "Voorbeeld"], "rows": [
+  ["Zero: altijd waar", "if + present simple", "present simple", "If you heat ice, it melts."],
+  ["First: echte kans", "if + present simple", "will + werkwoord", "If it rains, I'll stay at home."],
+  ["Second: denkbeeldig", "if + past simple", "would + werkwoord", "If I had more money, I'd buy a boat."]]},
+ {"type": "callout", "kind": "dutch", "title": "Geen will in de if-zin", "text": "Het Nederlands zegt soms <i>als het morgen zal regenen</i>. In het Engels staat na <b>if</b> nooit will: <b>If it rains tomorrow, I'll stay at home</b>, niet <i>If it will rain</i>. Ook na <b>when, as soon as, before, after, until</b> gebruik je de present simple voor de toekomst."},
+
+ {"type": "h1", "text": "2. De first conditional"},
+ {"type": "p", "text": "Voor iets dat echt kan gebeuren: <i>If you study, you'll pass. If we don't leave now, we'll miss the train. What will you do if she says no?</i> In plaats van will kan ook een gebiedende wijs of een modaal werkwoord: <i>If you see Tom, tell him to call me. If you're tired, you can go to bed.</i>"},
+ {"type": "table", "style": "plain", "widths": [3.4, 6.6, 7.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["unless", "I won't go unless you come with me.", "Ik ga niet, tenzij jij meegaat."],
+  ["when", "When I get home, I'll call you.", "Als ik thuiskom, bel ik je. (het gebeurt zeker)"],
+  ["if", "If I see him, I'll tell him.", "Als ik hem zie, zeg ik het. (misschien)"],
+  ["as soon as", "I'll text you as soon as I arrive.", "Ik app je zodra ik aankom."]]},
+ {"type": "callout", "kind": "warn", "title": "als = if of when", "text": "Het Nederlandse <i>als</i> is in het Engels <b>if</b> (misschien) of <b>when</b> (zeker, het is alleen een kwestie van tijd). <i>When I'm 18, I'll learn to drive</i>, niet <i>If I'm 18</i>."},
+
+ {"type": "h1", "text": "3. De second conditional"},
+ {"type": "p", "text": "Voor iets dat niet waar is of heel onwaarschijnlijk: <i>If I won the lottery, I would travel the world.</i> (Ik win waarschijnlijk niet.) <i>If I lived in London, I'd go to the theatre every week.</i> (Ik woon niet in Londen.) De past simple in de if-zin gaat dus niet over het verleden."},
+ {"type": "conj", "verb": "to go", "meaning": "gaan", "label": "met would", "tense": "conditional",
+  "forms": ["would go", "would go", "would go", "would go", "would go", "would go"],
+  "examples": [["I would go if I had time.", "Ik zou gaan als ik tijd had."], ["Would you go with me?", "Zou jij met me meegaan?"], ["She would go by train.", "Zij zou met de trein gaan."], ["We'd go more often if it were cheaper.", "We zouden vaker gaan als het goedkoper was."], ["You would go if you could.", "Jullie zouden gaan als jullie konden."], ["They wouldn't go without you.", "Zij zouden niet zonder jou gaan."]]},
+ {"type": "callout", "kind": "tip", "title": "If I were you", "text": "Voor advies zeg je <b>If I were you, I'd ...</b> (Als ik jou was, zou ik ...). In verzorgd Engels gebruik je <b>were</b> voor alle personen: <i>If she were here ...</i> In spreektaal hoor je ook <i>If I was</i>."},
+ {"type": "callout", "kind": "dutch", "title": "Twee keer zou", "text": "Het Nederlands zegt vaak twee keer <i>zou</i>: <i>Als ik geld zou hebben, zou ik reizen.</i> Het Engels heeft maar één <b>would</b>, in de hoofdzin: <b>If I had money, I would travel.</b> Nooit <i>If I would have money</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["If it will rain, we stay at home.", "If it rains, we'll stay at home.", "Geen will na if; will in de hoofdzin."],
+  ["If I would have time, I would help you.", "If I had time, I would help you.", "Geen would in de if-zin."],
+  ["I'll call you when I will arrive.", "I'll call you when I arrive.", "Na when: present simple."],
+  ["If I am you, I would go.", "If I were you, I would go.", "Advies: If I were you."],
+  ["Unless you don't hurry, you'll miss the bus.", "Unless you hurry, you'll miss the bus.", "unless betekent al 'als ... niet'."],
+  ["If I'm 18, I'll get my licence.", "When I'm 18, I'll get my licence.", "Het gebeurt zeker: when."],
+  ["If you heat water to 100 degrees, it would boil.", "If you heat water to 100 degrees, it boils.", "Een feit: zero conditional."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "If it ______ tomorrow, we'll cancel the picnic.", "hint": "rain", "a": "rains", "full": "If it rains tomorrow, we'll cancel the picnic."},
+  {"q": "If you mix red and blue, you ______ purple.", "hint": "get, feit", "a": "get", "full": "If you mix red and blue, you get purple."},
+  {"q": "If I ______ more time, I would learn the piano.", "hint": "have", "a": "had", "full": "If I had more time, I would learn the piano."},
+  {"q": "If I were you, I ______ take the job.", "hint": "zou", "a": "would", "full": "If I were you, I would take the job."},
+  {"q": "We'll miss the train ______ we leave now.", "hint": "tenzij", "a": "unless", "full": "We'll miss the train unless we leave now."},
+  {"q": "I'll phone you ______ I get home.", "hint": "zodra", "a": "as soon as", "full": "I'll phone you as soon as I get home."},
+  {"q": "If she studies hard, she ______ pass.", "hint": "will", "a": "will", "full": "If she studies hard, she will pass."},
+  {"q": "What ______ you do if you won the lottery?", "hint": "zou", "a": "would", "full": "What would you do if you won the lottery?"},
+  {"q": "If I ______ you, I'd see a doctor.", "hint": "be", "a": "were", "full": "If I were you, I'd see a doctor."},
+  {"q": "If we lived by the sea, we ______ swim every day.", "hint": "zou", "a": "would", "full": "If we lived by the sea, we would swim every day."},
+  {"q": "______ I'm in London, I'll visit the British Museum.", "hint": "als (zeker)", "a": "When", "full": "When I'm in London, I'll visit the British Museum."},
+  {"q": "If you're hungry, ______ yourself to some bread.", "hint": "help, gebiedende wijs", "a": "help", "full": "If you're hungry, help yourself to some bread."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Als het regent, blijf ik thuis.", "a": "If it rains, I'll stay at home."},
+  {"q": "Als ik jou was, zou ik gaan.", "a": "If I were you, I would go."},
+  {"q": "Als ik meer geld had, zou ik een huis kopen.", "a": "If I had more money, I would buy a house."},
+  {"q": "Ik ga niet, tenzij jij meegaat.", "a": "I won't go unless you come with me."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

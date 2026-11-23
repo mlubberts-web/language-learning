@@ -229,5 +229,27 @@
   "subtitle": "had + voltooid deelwoord: wat er al gebeurd was vóór een ander moment in het verleden",
   "content": "b1_02_past_perfect.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B1_03_Voorwaardelijke_zinnen_0_1_en_2",
+  "file": "B1_03_Voorwaardelijke_zinnen_0_1_en_2.pdf",
+  "level": "B1",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Voorwaardelijke zinnen 0, 1 en 2",
+  "subtitle": "Feiten, echte mogelijkheden en denkbeeldige situaties, met if, unless, when en would",
+  "content": "b1_03_conditionals.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_04_De_lijdende_vorm",
+  "file": "B1_04_De_lijdende_vorm.pdf",
+  "level": "B1",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "De lijdende vorm",
+  "subtitle": "be + voltooid deelwoord in alle tijden, by, en get something done",
+  "content": "b1_04_passive.json",
+  "exercise_count": 12
  }
 ]
