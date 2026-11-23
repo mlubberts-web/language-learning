@@ -1,0 +1,146 @@
+{
+ "title": "🎓 School en studie",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "School en universiteit",
+   "level": "B1",
+   "items": [
+    [
+     "primary school",
+     "basisschool"
+    ],
+    [
+     "secondary school",
+     "middelbare school"
+    ],
+    [
+     "university",
+     "universiteit"
+    ],
+    [
+     "subject",
+     "vak"
+    ],
+    [
+     "timetable",
+     "rooster"
+    ],
+    [
+     "homework",
+     "huiswerk"
+    ],
+    [
+     "exam",
+     "examen"
+    ],
+    [
+     "mark",
+     "cijfer"
+    ],
+    [
+     "degree",
+     "graad, diploma"
+    ],
+    [
+     "lecture",
+     "hoorcollege"
+    ],
+    [
+     "tutor",
+     "begeleider"
+    ],
+    [
+     "scholarship",
+     "beurs"
+    ],
+    [
+     "tuition fees",
+     "collegegeld"
+    ],
+    [
+     "term",
+     "trimester, periode"
+    ],
+    [
+     "to graduate",
+     "afstuderen"
+    ],
+    [
+     "student loan",
+     "studielening"
+    ]
+   ]
+  },
+  {
+   "name": "Studeren",
+   "level": "B1",
+   "items": [
+    [
+     "to revise",
+     "leren voor een toets"
+    ],
+    [
+     "to pass",
+     "slagen"
+    ],
+    [
+     "to fail",
+     "zakken"
+    ],
+    [
+     "to cheat",
+     "spieken"
+    ],
+    [
+     "to take notes",
+     "aantekeningen maken"
+    ],
+    [
+     "essay",
+     "essay, opstel"
+    ],
+    [
+     "assignment",
+     "opdracht"
+    ],
+    [
+     "to hand in",
+     "inleveren"
+    ],
+    [
+     "to enrol",
+     "zich inschrijven"
+    ],
+    [
+     "to cram",
+     "blokken"
+    ],
+    [
+     "research",
+     "onderzoek"
+    ],
+    [
+     "library",
+     "bibliotheek"
+    ],
+    [
+     "bookshop",
+     "boekhandel"
+    ],
+    [
+     "to attend",
+     "bijwonen"
+    ],
+    [
+     "absent",
+     "afwezig"
+    ],
+    [
+     "to learn by heart",
+     "uit het hoofd leren"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "title": "🛍️ Winkelen en geld",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Winkelen",
+   "level": "A2",
+   "items": [
+    [
+     "shop assistant",
+     "verkoper"
+    ],
+    [
+     "till",
+     "kassa"
+    ],
+    [
+     "receipt",
+     "bonnetje"
+    ],
+    [
+     "changing room",
+     "paskamer"
+    ],
+    [
+     "size",
+     "maat"
+    ],
+    [
+     "sale",
+     "uitverkoop"
+    ],
+    [
+     "discount",
+     "korting"
+    ],
+    [
+     "bargain",
+     "koopje"
+    ],
+    [
+     "to try on",
+     "passen"
+    ],
+    [
+     "to suit",
+     "goed staan"
+    ],
+    [
+     "to fit",
+     "passen (maat)"
+    ],
+    [
+     "to return",
+     "terugbrengen"
+    ],
+    [
+     "refund",
+     "terugbetaling"
+    ],
+    [
+     "shopping centre",
+     "winkelcentrum"
+    ],
+    [
+     "trolley",
+     "winkelwagen"
+    ],
+    [
+     "basket",
+     "mandje"
+    ]
+   ]
+  },
+  {
+   "name": "Geld en de bank",
+   "level": "B1",
+   "items": [
+    [
+     "cash",
+     "contant geld"
+    ],
+    [
+     "change",
+     "wisselgeld"
+    ],
+    [
+     "coin",
+     "munt"
+    ],
+    [
+     "note",
+     "briefje, bankbiljet"
+    ],
+    [
+     "current account",
+     "betaalrekening"
+    ],
+    [
+     "savings account",
+     "spaarrekening"
+    ],
+    [
+     "cash machine",
+     "geldautomaat"
+    ],
+    [
+     "to withdraw",
+     "opnemen"
+    ],
+    [
+     "to transfer",
+     "overmaken"
+    ],
+    [
+     "loan",
+     "lening"
+    ],
+    [
+     "mortgage",
+     "hypotheek"
+    ],
+    [
+     "debt",
+     "schuld"
+    ],
+    [
+     "interest",
+     "rente"
+    ],
+    [
+     "to borrow",
+     "lenen (van)"
+    ],
+    [
+     "to lend",
+     "lenen (aan)"
+    ],
+    [
+     "to afford",
+     "zich kunnen veroorloven"
+    ]
+   ]
+  }
+ ]
+}

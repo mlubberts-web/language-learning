@@ -1,0 +1,146 @@
+{
+ "title": "🏠 Huis en wonen",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Kamers en meubels",
+   "level": "A2",
+   "items": [
+    [
+     "living room",
+     "woonkamer"
+    ],
+    [
+     "bedroom",
+     "slaapkamer"
+    ],
+    [
+     "bathroom",
+     "badkamer"
+    ],
+    [
+     "kitchen",
+     "keuken"
+    ],
+    [
+     "hall",
+     "gang"
+    ],
+    [
+     "stairs",
+     "trap"
+    ],
+    [
+     "upstairs",
+     "boven"
+    ],
+    [
+     "downstairs",
+     "beneden"
+    ],
+    [
+     "cupboard",
+     "kast"
+    ],
+    [
+     "wardrobe",
+     "kledingkast"
+    ],
+    [
+     "shelf",
+     "plank"
+    ],
+    [
+     "sofa",
+     "bank"
+    ],
+    [
+     "armchair",
+     "fauteuil"
+    ],
+    [
+     "curtains",
+     "gordijnen"
+    ],
+    [
+     "carpet",
+     "vloerbedekking"
+    ],
+    [
+     "tap",
+     "kraan"
+    ]
+   ]
+  },
+  {
+   "name": "Huren en het huishouden",
+   "level": "B1",
+   "items": [
+    [
+     "rent",
+     "huur"
+    ],
+    [
+     "landlord",
+     "huisbaas"
+    ],
+    [
+     "tenant",
+     "huurder"
+    ],
+    [
+     "deposit",
+     "borg"
+    ],
+    [
+     "flat",
+     "appartement"
+    ],
+    [
+     "semi-detached house",
+     "twee-onder-een-kapwoning"
+    ],
+    [
+     "terraced house",
+     "rijtjeshuis"
+    ],
+    [
+     "to move house",
+     "verhuizen"
+    ],
+    [
+     "housework",
+     "huishouden"
+    ],
+    [
+     "to do the washing-up",
+     "afwassen"
+    ],
+    [
+     "to do the laundry",
+     "de was doen"
+    ],
+    [
+     "to hoover",
+     "stofzuigen"
+    ],
+    [
+     "to tidy up",
+     "opruimen"
+    ],
+    [
+     "to iron",
+     "strijken"
+    ],
+    [
+     "leak",
+     "lekkage"
+    ],
+    [
+     "to repair",
+     "repareren"
+    ]
+   ]
+  }
+ ]
+}

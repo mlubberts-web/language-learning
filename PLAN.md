@@ -111,7 +111,9 @@ Choices made (Menno can overrule any of them):
 - [x] 3.5 B2 units
 - [x] 3.6 C1 units
 - [x] 3.7 C2 units
-- [ ] 3.8 Verbs in context (irregular verbs, tenses) and themed lists.
+- [x] 3.8 Verbs in context (irregular verbs, tenses) and themed lists.
+      (13 verbs-in-context files, 195 sentences; 16 themed lists with 510 entries, including
+      phrasal verbs and "Valkuilen voor Nederlanders". More themes can follow, up to the 32 of Spanish.)
 - [ ] 3.9 Model exams: links to the official Cambridge sample papers per level.
 - [ ] 3.10 🙋 Menno spot-checks a few units.
 

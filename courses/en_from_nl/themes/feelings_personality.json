@@ -1,0 +1,146 @@
+{
+ "title": "💭 Gevoelens en karakter",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Gevoelens",
+   "level": "B1",
+   "items": [
+    [
+     "happy",
+     "blij"
+    ],
+    [
+     "sad",
+     "verdrietig"
+    ],
+    [
+     "angry",
+     "boos"
+    ],
+    [
+     "scared",
+     "bang"
+    ],
+    [
+     "nervous",
+     "zenuwachtig"
+    ],
+    [
+     "worried",
+     "bezorgd"
+    ],
+    [
+     "embarrassed",
+     "beschaamd"
+    ],
+    [
+     "proud",
+     "trots"
+    ],
+    [
+     "jealous",
+     "jaloers"
+    ],
+    [
+     "lonely",
+     "eenzaam"
+    ],
+    [
+     "relieved",
+     "opgelucht"
+    ],
+    [
+     "disappointed",
+     "teleurgesteld"
+    ],
+    [
+     "excited",
+     "opgewonden, enthousiast"
+    ],
+    [
+     "bored",
+     "verveeld"
+    ],
+    [
+     "confused",
+     "in de war"
+    ],
+    [
+     "grateful",
+     "dankbaar"
+    ]
+   ]
+  },
+  {
+   "name": "Karakter",
+   "level": "B1",
+   "items": [
+    [
+     "friendly",
+     "vriendelijk"
+    ],
+    [
+     "kind",
+     "aardig"
+    ],
+    [
+     "shy",
+     "verlegen"
+    ],
+    [
+     "outgoing",
+     "extravert"
+    ],
+    [
+     "hard-working",
+     "hardwerkend"
+    ],
+    [
+     "lazy",
+     "lui"
+    ],
+    [
+     "generous",
+     "vrijgevig"
+    ],
+    [
+     "mean",
+     "gierig, gemeen"
+    ],
+    [
+     "honest",
+     "eerlijk"
+    ],
+    [
+     "reliable",
+     "betrouwbaar"
+    ],
+    [
+     "stubborn",
+     "koppig"
+    ],
+    [
+     "patient",
+     "geduldig"
+    ],
+    [
+     "selfish",
+     "egoïstisch"
+    ],
+    [
+     "sensible",
+     "verstandig"
+    ],
+    [
+     "sensitive",
+     "gevoelig"
+    ],
+    [
+     "polite",
+     "beleefd"
+    ]
+   ]
+  }
+ ]
+}

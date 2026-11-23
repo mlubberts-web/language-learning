@@ -1,0 +1,146 @@
+{
+ "title": "🚇 Stad en vervoer",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In de stad",
+   "level": "A2",
+   "items": [
+    [
+     "town hall",
+     "gemeentehuis"
+    ],
+    [
+     "square",
+     "plein"
+    ],
+    [
+     "pavement",
+     "stoep"
+    ],
+    [
+     "pedestrian crossing",
+     "zebrapad"
+    ],
+    [
+     "traffic lights",
+     "verkeerslichten"
+    ],
+    [
+     "roundabout",
+     "rotonde"
+    ],
+    [
+     "crossroads",
+     "kruispunt"
+    ],
+    [
+     "corner",
+     "hoek"
+    ],
+    [
+     "neighbourhood",
+     "buurt"
+    ],
+    [
+     "suburbs",
+     "buitenwijken"
+    ],
+    [
+     "city centre",
+     "centrum"
+    ],
+    [
+     "car park",
+     "parkeerplaats"
+    ],
+    [
+     "bus stop",
+     "bushalte"
+    ],
+    [
+     "underground",
+     "metro"
+    ],
+    [
+     "tram",
+     "tram"
+    ],
+    [
+     "cycle lane",
+     "fietspad"
+    ]
+   ]
+  },
+  {
+   "name": "Autorijden",
+   "level": "B1",
+   "items": [
+    [
+     "driving licence",
+     "rijbewijs"
+    ],
+    [
+     "motorway",
+     "snelweg"
+    ],
+    [
+     "traffic jam",
+     "file"
+    ],
+    [
+     "petrol",
+     "benzine"
+    ],
+    [
+     "petrol station",
+     "tankstation"
+    ],
+    [
+     "speed limit",
+     "maximumsnelheid"
+    ],
+    [
+     "fine",
+     "boete"
+    ],
+    [
+     "to overtake",
+     "inhalen"
+    ],
+    [
+     "to park",
+     "parkeren"
+    ],
+    [
+     "to brake",
+     "remmen"
+    ],
+    [
+     "boot",
+     "kofferbak"
+    ],
+    [
+     "bonnet",
+     "motorkap"
+    ],
+    [
+     "tyre",
+     "band"
+    ],
+    [
+     "flat tyre",
+     "lekke band"
+    ],
+    [
+     "steering wheel",
+     "stuur"
+    ],
+    [
+     "seat belt",
+     "veiligheidsgordel"
+    ]
+   ]
+  }
+ ]
+}

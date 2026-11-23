@@ -1,0 +1,146 @@
+{
+ "title": "🌍 Natuur, weer en milieu",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Het weer",
+   "level": "A2",
+   "items": [
+    [
+     "sunny",
+     "zonnig"
+    ],
+    [
+     "cloudy",
+     "bewolkt"
+    ],
+    [
+     "windy",
+     "winderig"
+    ],
+    [
+     "foggy",
+     "mistig"
+    ],
+    [
+     "rainy",
+     "regenachtig"
+    ],
+    [
+     "shower",
+     "bui"
+    ],
+    [
+     "storm",
+     "storm, onweer"
+    ],
+    [
+     "thunder",
+     "donder"
+    ],
+    [
+     "lightning",
+     "bliksem"
+    ],
+    [
+     "snow",
+     "sneeuw"
+    ],
+    [
+     "ice",
+     "ijs"
+    ],
+    [
+     "frost",
+     "vorst"
+    ],
+    [
+     "heatwave",
+     "hittegolf"
+    ],
+    [
+     "weather forecast",
+     "weerbericht"
+    ],
+    [
+     "temperature",
+     "temperatuur"
+    ],
+    [
+     "degree",
+     "graad"
+    ]
+   ]
+  },
+  {
+   "name": "Het milieu",
+   "level": "B2",
+   "items": [
+    [
+     "environment",
+     "milieu"
+    ],
+    [
+     "climate change",
+     "klimaatverandering"
+    ],
+    [
+     "global warming",
+     "opwarming van de aarde"
+    ],
+    [
+     "pollution",
+     "vervuiling"
+    ],
+    [
+     "renewable energy",
+     "duurzame energie"
+    ],
+    [
+     "solar panel",
+     "zonnepaneel"
+    ],
+    [
+     "wind turbine",
+     "windturbine"
+    ],
+    [
+     "waste",
+     "afval"
+    ],
+    [
+     "recycling",
+     "recycling"
+    ],
+    [
+     "drought",
+     "droogte"
+    ],
+    [
+     "flood",
+     "overstroming"
+    ],
+    [
+     "carbon footprint",
+     "ecologische voetafdruk"
+    ],
+    [
+     "endangered species",
+     "bedreigde diersoort"
+    ],
+    [
+     "deforestation",
+     "ontbossing"
+    ],
+    [
+     "sustainable",
+     "duurzaam"
+    ],
+    [
+     "to reduce",
+     "verminderen"
+    ]
+   ]
+  }
+ ]
+}

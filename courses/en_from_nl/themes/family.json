@@ -1,0 +1,146 @@
+{
+ "title": "👨‍👩‍👧 Familie",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Familieleden",
+   "level": "A2",
+   "items": [
+    [
+     "grandparents",
+     "grootouders"
+    ],
+    [
+     "grandson",
+     "kleinzoon"
+    ],
+    [
+     "granddaughter",
+     "kleindochter"
+    ],
+    [
+     "uncle",
+     "oom"
+    ],
+    [
+     "aunt",
+     "tante"
+    ],
+    [
+     "cousin",
+     "neef, nicht (kind van oom of tante)"
+    ],
+    [
+     "nephew",
+     "neef (kind van broer of zus)"
+    ],
+    [
+     "niece",
+     "nicht (kind van broer of zus)"
+    ],
+    [
+     "twin",
+     "tweeling"
+    ],
+    [
+     "only child",
+     "enig kind"
+    ],
+    [
+     "parents-in-law",
+     "schoonouders"
+    ],
+    [
+     "brother-in-law",
+     "zwager"
+    ],
+    [
+     "sister-in-law",
+     "schoonzus"
+    ],
+    [
+     "stepfather",
+     "stiefvader"
+    ],
+    [
+     "stepmother",
+     "stiefmoeder"
+    ],
+    [
+     "relative",
+     "familielid"
+    ]
+   ]
+  },
+  {
+   "name": "Relaties en levensgebeurtenissen",
+   "level": "B1",
+   "items": [
+    [
+     "wedding",
+     "bruiloft"
+    ],
+    [
+     "engagement",
+     "verloving"
+    ],
+    [
+     "honeymoon",
+     "huwelijksreis"
+    ],
+    [
+     "divorce",
+     "scheiding"
+    ],
+    [
+     "to get married",
+     "trouwen"
+    ],
+    [
+     "to get divorced",
+     "scheiden"
+    ],
+    [
+     "to get engaged",
+     "zich verloven"
+    ],
+    [
+     "single",
+     "vrijgezel"
+    ],
+    [
+     "widow",
+     "weduwe"
+    ],
+    [
+     "widower",
+     "weduwnaar"
+    ],
+    [
+     "pregnancy",
+     "zwangerschap"
+    ],
+    [
+     "to give birth",
+     "bevallen"
+    ],
+    [
+     "to bring up",
+     "opvoeden"
+    ],
+    [
+     "childhood",
+     "jeugd, kindertijd"
+    ],
+    [
+     "to grow up",
+     "opgroeien"
+    ],
+    [
+     "to look after",
+     "zorgen voor"
+    ]
+   ]
+  }
+ ]
+}

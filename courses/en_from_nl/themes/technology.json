@@ -1,0 +1,146 @@
+{
+ "title": "💻 Technologie",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Apparaten en internet",
+   "level": "A2",
+   "items": [
+    [
+     "laptop",
+     "laptop"
+    ],
+    [
+     "screen",
+     "scherm"
+    ],
+    [
+     "keyboard",
+     "toetsenbord"
+    ],
+    [
+     "mouse",
+     "muis"
+    ],
+    [
+     "charger",
+     "oplader"
+    ],
+    [
+     "battery",
+     "batterij, accu"
+    ],
+    [
+     "headphones",
+     "koptelefoon"
+    ],
+    [
+     "printer",
+     "printer"
+    ],
+    [
+     "password",
+     "wachtwoord"
+    ],
+    [
+     "username",
+     "gebruikersnaam"
+    ],
+    [
+     "website",
+     "website"
+    ],
+    [
+     "link",
+     "link"
+    ],
+    [
+     "email",
+     "e-mail"
+    ],
+    [
+     "attachment",
+     "bijlage"
+    ],
+    [
+     "app",
+     "app"
+    ],
+    [
+     "Wi-Fi",
+     "wifi"
+    ]
+   ]
+  },
+  {
+   "name": "Online",
+   "level": "B1",
+   "items": [
+    [
+     "to download",
+     "downloaden"
+    ],
+    [
+     "to upload",
+     "uploaden"
+    ],
+    [
+     "to log in",
+     "inloggen"
+    ],
+    [
+     "to log out",
+     "uitloggen"
+    ],
+    [
+     "to sign up",
+     "zich aanmelden"
+    ],
+    [
+     "to share",
+     "delen"
+    ],
+    [
+     "to post",
+     "plaatsen"
+    ],
+    [
+     "follower",
+     "volger"
+    ],
+    [
+     "social media",
+     "sociale media"
+    ],
+    [
+     "search engine",
+     "zoekmachine"
+    ],
+    [
+     "to update",
+     "bijwerken"
+    ],
+    [
+     "to delete",
+     "verwijderen"
+    ],
+    [
+     "to save",
+     "opslaan"
+    ],
+    [
+     "backup",
+     "back-up"
+    ],
+    [
+     "privacy",
+     "privacy"
+    ],
+    [
+     "fake news",
+     "nepnieuws"
+    ]
+   ]
+  }
+ ]
+}

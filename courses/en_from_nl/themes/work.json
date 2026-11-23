@@ -1,0 +1,146 @@
+{
+ "title": "💼 Werk",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Banen en solliciteren",
+   "level": "B1",
+   "items": [
+    [
+     "job",
+     "baan"
+    ],
+    [
+     "career",
+     "loopbaan"
+    ],
+    [
+     "employer",
+     "werkgever"
+    ],
+    [
+     "employee",
+     "werknemer"
+    ],
+    [
+     "colleague",
+     "collega"
+    ],
+    [
+     "salary",
+     "salaris"
+    ],
+    [
+     "wages",
+     "loon"
+    ],
+    [
+     "CV",
+     "cv"
+    ],
+    [
+     "cover letter",
+     "sollicitatiebrief"
+    ],
+    [
+     "job interview",
+     "sollicitatiegesprek"
+    ],
+    [
+     "to apply for",
+     "solliciteren naar"
+    ],
+    [
+     "to hire",
+     "aannemen"
+    ],
+    [
+     "to fire",
+     "ontslaan"
+    ],
+    [
+     "to resign",
+     "ontslag nemen"
+    ],
+    [
+     "to retire",
+     "met pensioen gaan"
+    ],
+    [
+     "promotion",
+     "promotie"
+    ]
+   ]
+  },
+  {
+   "name": "Op kantoor",
+   "level": "B1",
+   "items": [
+    [
+     "meeting",
+     "vergadering"
+    ],
+    [
+     "deadline",
+     "deadline"
+    ],
+    [
+     "agenda",
+     "agenda (vergaderpunten)"
+    ],
+    [
+     "report",
+     "verslag"
+    ],
+    [
+     "workload",
+     "werkdruk"
+    ],
+    [
+     "overtime",
+     "overuren"
+    ],
+    [
+     "part-time",
+     "deeltijd"
+    ],
+    [
+     "full-time",
+     "voltijd"
+    ],
+    [
+     "to work from home",
+     "thuiswerken"
+    ],
+    [
+     "manager",
+     "leidinggevende"
+    ],
+    [
+     "staff",
+     "personeel"
+    ],
+    [
+     "trade union",
+     "vakbond"
+    ],
+    [
+     "contract",
+     "contract"
+    ],
+    [
+     "to negotiate",
+     "onderhandelen"
+    ],
+    [
+     "to delegate",
+     "delegeren"
+    ],
+    [
+     "to meet a deadline",
+     "een deadline halen"
+    ]
+   ]
+  }
+ ]
+}

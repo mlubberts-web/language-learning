@@ -1,0 +1,146 @@
+{
+ "title": "📰 Media en nieuws",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Media",
+   "level": "B1",
+   "items": [
+    [
+     "newspaper",
+     "krant"
+    ],
+    [
+     "magazine",
+     "tijdschrift"
+    ],
+    [
+     "headline",
+     "kop"
+    ],
+    [
+     "article",
+     "artikel"
+    ],
+    [
+     "journalist",
+     "journalist"
+    ],
+    [
+     "the news",
+     "het nieuws"
+    ],
+    [
+     "channel",
+     "zender"
+    ],
+    [
+     "programme",
+     "programma"
+    ],
+    [
+     "series",
+     "serie"
+    ],
+    [
+     "advert",
+     "reclame"
+    ],
+    [
+     "presenter",
+     "presentator"
+    ],
+    [
+     "interview",
+     "interview"
+    ],
+    [
+     "audience",
+     "publiek"
+    ],
+    [
+     "podcast",
+     "podcast"
+    ],
+    [
+     "review",
+     "recensie"
+    ],
+    [
+     "live",
+     "live"
+    ]
+   ]
+  },
+  {
+   "name": "Nieuws en invloed",
+   "level": "B2",
+   "items": [
+    [
+     "to report",
+     "verslag doen"
+    ],
+    [
+     "source",
+     "bron"
+    ],
+    [
+     "breaking news",
+     "laatste nieuws"
+    ],
+    [
+     "press conference",
+     "persconferentie"
+    ],
+    [
+     "editor",
+     "redacteur"
+    ],
+    [
+     "bias",
+     "vooringenomenheid"
+    ],
+    [
+     "censorship",
+     "censuur"
+    ],
+    [
+     "freedom of the press",
+     "persvrijheid"
+    ],
+    [
+     "to broadcast",
+     "uitzenden"
+    ],
+    [
+     "to publish",
+     "publiceren"
+    ],
+    [
+     "tabloid",
+     "roddelblad"
+    ],
+    [
+     "scandal",
+     "schandaal"
+    ],
+    [
+     "controversy",
+     "controverse"
+    ],
+    [
+     "misleading",
+     "misleidend"
+    ],
+    [
+     "to fact-check",
+     "de feiten controleren"
+    ],
+    [
+     "public opinion",
+     "publieke opinie"
+    ]
+   ]
+  }
+ ]
+}

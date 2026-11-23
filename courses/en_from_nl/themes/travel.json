@@ -1,0 +1,146 @@
+{
+ "title": "✈️ Reizen",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "Vliegen en de trein",
+   "level": "A2",
+   "items": [
+    [
+     "boarding pass",
+     "instapkaart"
+    ],
+    [
+     "gate",
+     "gate"
+    ],
+    [
+     "delay",
+     "vertraging"
+    ],
+    [
+     "departure",
+     "vertrek"
+    ],
+    [
+     "arrival",
+     "aankomst"
+    ],
+    [
+     "luggage",
+     "bagage"
+    ],
+    [
+     "hand luggage",
+     "handbagage"
+    ],
+    [
+     "check-in desk",
+     "incheckbalie"
+    ],
+    [
+     "customs",
+     "douane"
+    ],
+    [
+     "return ticket",
+     "retourtje"
+    ],
+    [
+     "single ticket",
+     "enkele reis"
+    ],
+    [
+     "platform",
+     "perron"
+    ],
+    [
+     "timetable",
+     "dienstregeling"
+    ],
+    [
+     "to change trains",
+     "overstappen"
+    ],
+    [
+     "to miss",
+     "missen"
+    ],
+    [
+     "journey",
+     "reis"
+    ]
+   ]
+  },
+  {
+   "name": "Overnachten en bezichtigen",
+   "level": "B1",
+   "items": [
+    [
+     "accommodation",
+     "onderdak"
+    ],
+    [
+     "hostel",
+     "hostel"
+    ],
+    [
+     "bed and breakfast",
+     "pension"
+    ],
+    [
+     "booking",
+     "reservering"
+    ],
+    [
+     "to check out",
+     "uitchecken"
+    ],
+    [
+     "single room",
+     "eenpersoonskamer"
+    ],
+    [
+     "double room",
+     "tweepersoonskamer"
+    ],
+    [
+     "sightseeing",
+     "bezienswaardigheden bekijken"
+    ],
+    [
+     "guided tour",
+     "rondleiding"
+    ],
+    [
+     "souvenir",
+     "souvenir"
+    ],
+    [
+     "brochure",
+     "folder"
+    ],
+    [
+     "backpack",
+     "rugzak"
+    ],
+    [
+     "abroad",
+     "in het buitenland"
+    ],
+    [
+     "jet lag",
+     "jetlag"
+    ],
+    [
+     "holiday",
+     "vakantie"
+    ],
+    [
+     "travel insurance",
+     "reisverzekering"
+    ]
+   ]
+  }
+ ]
+}

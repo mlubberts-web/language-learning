@@ -1,0 +1,154 @@
+{
+ "title": "🍽️ Eten en koken",
+ "kind": "topic",
+ "lists": [
+  {
+   "name": "In de keuken",
+   "level": "A2",
+   "items": [
+    [
+     "frying pan",
+     "koekenpan"
+    ],
+    [
+     "saucepan",
+     "steelpan"
+    ],
+    [
+     "oven",
+     "oven"
+    ],
+    [
+     "cooker",
+     "fornuis"
+    ],
+    [
+     "fridge",
+     "koelkast"
+    ],
+    [
+     "freezer",
+     "vriezer"
+    ],
+    [
+     "chopping board",
+     "snijplank"
+    ],
+    [
+     "knife",
+     "mes"
+    ],
+    [
+     "fork",
+     "vork"
+    ],
+    [
+     "spoon",
+     "lepel"
+    ],
+    [
+     "recipe",
+     "recept"
+    ],
+    [
+     "ingredient",
+     "ingrediënt"
+    ],
+    [
+     "to boil",
+     "koken (in water)"
+    ],
+    [
+     "to fry",
+     "bakken (in de pan)"
+    ],
+    [
+     "to bake",
+     "bakken (in de oven)"
+    ],
+    [
+     "to chop",
+     "fijnhakken"
+    ],
+    [
+     "to peel",
+     "schillen"
+    ],
+    [
+     "to stir",
+     "roeren"
+    ]
+   ]
+  },
+  {
+   "name": "Eten en uit eten",
+   "level": "A2",
+   "items": [
+    [
+     "starter",
+     "voorgerecht"
+    ],
+    [
+     "main course",
+     "hoofdgerecht"
+    ],
+    [
+     "dessert",
+     "toetje"
+    ],
+    [
+     "bill",
+     "rekening"
+    ],
+    [
+     "tip",
+     "fooi"
+    ],
+    [
+     "menu",
+     "menukaart"
+    ],
+    [
+     "vegetarian",
+     "vegetarisch"
+    ],
+    [
+     "spicy",
+     "pittig"
+    ],
+    [
+     "tasty",
+     "lekker"
+    ],
+    [
+     "bland",
+     "flauw"
+    ],
+    [
+     "fresh",
+     "vers"
+    ],
+    [
+     "homemade",
+     "zelfgemaakt"
+    ],
+    [
+     "to order",
+     "bestellen"
+    ],
+    [
+     "to book a table",
+     "een tafel reserveren"
+    ],
+    [
+     "takeaway",
+     "afhaalmaaltijd"
+    ],
+    [
+     "snack",
+     "tussendoortje"
+    ]
+   ]
+  }
+ ]
+}
