@@ -636,5 +636,16 @@
   "subtitle": "Derecho, medicina, tecnología, economía y ciencia",
   "content": "c2_09_specialist_vocabulary.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_10_Expresiones_de_maestria",
+  "file": "C2_10_Expresiones_de_maestria.pdf",
+  "level": "C2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Expresiones de maestría",
+  "subtitle": "Locuciones avanzadas, vocabulario literario, los últimos falsos amigos y la lista de comprobación del C2",
+  "content": "c2_10_mastery.json",
+  "exercise_count": 12
  }
 ]

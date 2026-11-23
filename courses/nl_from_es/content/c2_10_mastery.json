@@ -1,0 +1,322 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Expresiones de maestría",
+  "subtitle": "Locuciones avanzadas, vocabulario literario, los últimos falsos amigos y la lista de comprobación del C2",
+  "footer": "Language Learning · C2 · Vocabulario · Maestría",
+  "next": "C2 terminado: sigue practicando en la web"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar con seguridad locuciones avanzadas",
+    "reconocer y usar palabras literarias y formales",
+    "evitar los últimos falsos amigos traicioneros",
+    "medirte con el nivel C2"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Locuciones avanzadas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Discurso y opinión",
+   "items": [
+    [
+     "over het algemeen",
+     "en general"
+    ],
+    [
+     "op het eerste gezicht",
+     "a primera vista"
+    ],
+    [
+     "op de lange termijn",
+     "a la larga"
+    ],
+    [
+     "voorlopig",
+     "de momento, por ahora"
+    ],
+    [
+     "in feite",
+     "de hecho, en la práctica"
+    ],
+    [
+     "het spreekt voor zich",
+     "ni que decir tiene"
+    ],
+    [
+     "als het ware",
+     "por así decirlo"
+    ],
+    [
+     "in een notendop",
+     "en pocas palabras"
+    ],
+    [
+     "al met al",
+     "en definitiva, en conjunto"
+    ],
+    [
+     "waar het om gaat, is ...",
+     "la cuestión es ..."
+    ],
+    [
+     "zacht uitgedrukt",
+     "por decirlo suavemente"
+    ],
+    [
+     "per slot van rekening",
+     "al fin y al cabo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones verbales",
+   "items": [
+    [
+     "als vanzelfsprekend beschouwen",
+     "dar por sentado"
+    ],
+    [
+     "in twijfel trekken",
+     "poner en duda"
+    ],
+    [
+     "zich neerleggen bij",
+     "resignarse a"
+    ],
+    [
+     "in gedachten houden",
+     "tener en cuenta"
+    ],
+    [
+     "uit het oog verliezen",
+     "perder de vista"
+    ],
+    [
+     "licht werpen op",
+     "arrojar luz sobre"
+    ],
+    [
+     "aanleiding geven tot",
+     "dar lugar a"
+    ],
+    [
+     "voor de hand liggen",
+     "ser evidente, caer por su propio peso"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Palabras literarias y formales"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vocabulario literario",
+   "items": [
+    [
+     "vergankelijk",
+     "efímero, fugaz"
+    ],
+    [
+     "sereen",
+     "sereno"
+    ],
+    [
+     "de weemoed",
+     "melancolía, nostalgia"
+    ],
+    [
+     "welsprekend",
+     "elocuente"
+    ],
+    [
+     "aangrijpend",
+     "conmovedor"
+    ],
+    [
+     "nauwgezet",
+     "meticuloso"
+    ],
+    [
+     "alomtegenwoordig",
+     "omnipresente"
+    ],
+    [
+     "openhartig",
+     "franco, sincero"
+    ],
+    [
+     "veerkrachtig",
+     "resiliente"
+    ],
+    [
+     "vasthoudend",
+     "tenaz"
+    ],
+    [
+     "subtiel",
+     "sutil"
+    ],
+    [
+     "diepgaand",
+     "profundo, a fondo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Falsos amigos del nivel más alto",
+   "bullets": [
+    "<b>pathetisch</b> = grandilocuente, exageradamente emotivo; <i>patético</i> en el sentido de lamentable es <b>zielig</b> o <b>armzalig</b>.",
+    "<b>brutaal</b> = descarado, insolente, no <i>brutal</i> (eso es <b>wreed, meedogenloos</b>).",
+    "<b>kritiek</b> como adjetivo = crítico (grave): <i>Zijn toestand is kritiek</i>; <b>kritisch</b> = crítico (que juzga).",
+    "<b>constipatie</b> = estreñimiento, no <i>constipado</i> (eso es <b>verkouden</b>: <i>Ik ben verkouden</i>, estoy constipado)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. La lista de comprobación del C2"
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Estás en el C2 cuando",
+   "bullets": [
+    "sigues sin esfuerzo el habla rápida, los acentos (Holanda, Flandes, Limburgo), las películas y la radio",
+    "lees literatura, prensa y textos especializados y captas su tono e intención",
+    "escribes textos claros y bien estructurados en el registro adecuado, con la ortografía d/t correcta",
+    "expresas y reconoces matices finos, ironía, lítotes y partículas modales",
+    "te recuperas con facilidad de un error y reformulas sobre la marcha"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Over het ______ was het project een succes.",
+     "hint": "en general",
+     "a": "algemeen",
+     "full": "Over het algemeen was het project een succes."
+    },
+    {
+     "q": "Op de lange ______ wordt duurzame energie goedkoper.",
+     "hint": "a la larga",
+     "a": "termijn",
+     "full": "Op de lange termijn wordt duurzame energie goedkoper."
+    },
+    {
+     "q": "We blijven ______ hier.",
+     "hint": "de momento",
+     "a": "voorlopig",
+     "full": "We blijven voorlopig hier."
+    },
+    {
+     "q": "In een ______: we hebben meer geld nodig.",
+     "hint": "en pocas palabras",
+     "a": "notendop",
+     "full": "In een notendop: we hebben meer geld nodig."
+    },
+    {
+     "q": "We mogen onze gezondheid niet als ______ beschouwen.",
+     "hint": "dar por sentado",
+     "a": "vanzelfsprekend",
+     "full": "We mogen onze gezondheid niet als vanzelfsprekend beschouwen."
+    },
+    {
+     "q": "Dit onderzoek werpt nieuw ______ op een oud raadsel.",
+     "hint": "luz",
+     "a": "licht",
+     "full": "Dit onderzoek werpt nieuw licht op een oud raadsel."
+    },
+    {
+     "q": "Het was, zacht ______, een teleurstellende uitslag.",
+     "hint": "por decirlo suavemente",
+     "a": "uitgedrukt",
+     "full": "Het was, zacht uitgedrukt, een teleurstellende uitslag."
+    },
+    {
+     "q": "Ze werkt heel ______: ze controleert elk detail.",
+     "hint": "meticuloso",
+     "a": "nauwgezet",
+     "full": "Ze werkt heel nauwgezet: ze controleert elk detail."
+    },
+    {
+     "q": "Smartphones zijn ______ geworden.",
+     "hint": "omnipresentes",
+     "a": "alomtegenwoordig",
+     "full": "Smartphones zijn alomtegenwoordig geworden."
+    },
+    {
+     "q": "Het spreekt voor ______ dat je op tijd komt.",
+     "hint": "ni que decir tiene",
+     "a": "zich",
+     "full": "Het spreekt voor zich dat je op tijd komt."
+    },
+    {
+     "q": "Per ______ van rekening is hij mijn broer.",
+     "hint": "al fin y al cabo",
+     "a": "slot",
+     "full": "Per slot van rekening is hij mijn broer."
+    },
+    {
+     "q": "Hij was erg ______ tegen de leraar: hij gaf een grote mond.",
+     "hint": "descarado",
+     "a": "brutaal",
+     "full": "Hij was erg brutaal tegen de leraar: hij gaf een grote mond."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "En general, fue un éxito.",
+     "a": "Over het algemeen was het een succes."
+    },
+    {
+     "q": "De momento nos quedamos aquí.",
+     "a": "We blijven voorlopig hier."
+    },
+    {
+     "q": "Ten en cuenta que es caro.",
+     "a": "Houd in gedachten dat het duur is."
+    },
+    {
+     "q": "No des tu salud por sentada.",
+     "a": "Beschouw je gezondheid niet als vanzelfsprekend."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
