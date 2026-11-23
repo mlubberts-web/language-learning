@@ -97,5 +97,16 @@
   "subtitle": "Greetings, family, food and drink, the time, days and months, shopping, directions and the classroom",
   "content": "a1_09_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_01_The_perfect_tense_weak_verbs",
+  "file": "A2_01_The_perfect_tense_weak_verbs.pdf",
+  "level": "A2",
+  "number": 1,
+  "section": "Verbs",
+  "title": "The perfect tense: weak verbs",
+  "subtitle": "hebben + ge-...-t or -d, 't kofschip, and the participle at the end",
+  "content": "a2_01_perfect_weak.json",
+  "exercise_count": 12
  }
 ]
