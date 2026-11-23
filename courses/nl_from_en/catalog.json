@@ -31,5 +31,16 @@
   "subtitle": "Stem + t, the spelling changes, jij after the verb, and one tense for 'I work' and 'I'm working'",
   "content": "a1_03_present_tense.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_04_de_and_het",
+  "file": "A1_04_de_and_het.pdf",
+  "level": "A1",
+  "number": 4,
+  "section": "Grammar",
+  "title": "de and het",
+  "subtitle": "The two articles, plurals in -en and -s, and diminutives in -je",
+  "content": "a1_04_de_het.json",
+  "exercise_count": 12
  }
 ]
