@@ -537,5 +537,27 @@
   "subtitle": "Abstracte en academische woorden, valse vrienden op C1-niveau en parafraseren",
   "content": "c1_10_vocabulary.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_01_Fijne_nuances_van_tijd_en_wijs",
+  "file": "C2_01_Fijne_nuances_van_tijd_en_wijs.pdf",
+  "level": "C2",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Fijne nuances van tijd en wijs",
+  "subtitle": "De subjunctive (were, be), should voor verbazing, de historische presens en het verleden voor afstand",
+  "content": "c2_01_tense_mood.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_02_Gevorderde_woordvolgorde",
+  "file": "C2_02_Gevorderde_woordvolgorde.pdf",
+  "level": "C2",
+  "number": 2,
+  "section": "Grammatica",
+  "title": "Gevorderde woordvolgorde",
+  "subtitle": "Vooropplaatsing (fronting), weglating (ellipsis) en vervanging met so, not en do so",
+  "content": "c2_02_word_order.json",
+  "exercise_count": 10
  }
 ]

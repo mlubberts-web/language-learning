@@ -1,0 +1,70 @@
+{"meta": {"level": "C2", "section": "Grammatica", "number": 2, "total_in_level": 10,
+ "title": "Gevorderde woordvolgorde",
+ "subtitle": "Vooropplaatsing (fronting), weglating (ellipsis) en vervanging met so, not en do so",
+ "footer": "Language Learning · C2 · Grammatica · Woordvolgorde",
+ "next": "Volgende: C2 · pdf 3 — Complexe zinnen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "een zinsdeel vooraan zetten voor nadruk of contrast",
+  "woorden weglaten die al bekend zijn",
+  "herhaling vermijden met <b>so, not, do so, one</b>",
+  "de plaats van bijwoorden subtiel gebruiken"]},
+
+ {"type": "h1", "text": "1. Vooropplaatsing (fronting)"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.6, 6.0], "head": ["Wat vooraan", "Voorbeeld", "Effect"], "rows": [
+  ["Voorwerp", "That I can't accept.", "contrast, nadruk"],
+  ["Bijvoeglijk naamwoord + as / though", "Tired as she was, she kept working.", "= Although she was tired"],
+  ["Plaats + inversie", "In the corner stood an old piano.", "literair, beschrijvend"],
+  ["So + bijv. nw. + inversie", "So great was the noise that nobody slept.", "zeer nadrukkelijk"],
+  ["Such + be + inversie", "Such was his anger that he left the room.", "zeer nadrukkelijk"]]},
+ {"type": "callout", "kind": "dutch", "title": "Inversie na een plaatsbepaling", "text": "Na een plaatsbepaling vooraan kan het Engels het werkwoord vóór het onderwerp zetten, net als het Nederlands: <i>In de hoek stond een piano</i> = <b>In the corner stood a piano</b>. Dit kan alleen met werkwoorden als be, stand, lie, come en go, en het onderwerp mag geen voornaamwoord zijn: <i>Here comes the bus</i>, maar <i>Here it comes</i>."},
+
+ {"type": "h1", "text": "2. Weglating (ellipsis)"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Wat is weggelaten"], "rows": [
+  ["I'd like to help, but I can't.", "help"],
+  ["She said she would call, and she did.", "call"],
+  ["Have you finished? — Yes, I have.", "finished"],
+  ["I didn't want to go, but I had to.", "go"],
+  ["Tom likes jazz and Anna classical music.", "likes"]]},
+ {"type": "callout", "kind": "tip", "title": "to blijft staan", "text": "Bij weglating na <b>want, would like, have, try, need</b> blijft <b>to</b> staan: <i>You can come if you want <b>to</b>.</i> Het Nederlands laat dat weg: <i>als je wilt</i>."},
+
+ {"type": "h1", "text": "3. Vervanging"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.6, 6.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["so", "Is it going to rain? — I think so.", "Ik denk het wel."],
+  ["not", "Is he coming? — I hope not.", "Ik hoop van niet."],
+  ["do so", "He was asked to leave, and he did so.", "en dat deed hij"],
+  ["one / ones", "I don't like the red shirt; I prefer the blue one.", "de blauwe"],
+  ["the former / the latter", "Tom and Ben are brothers; the former is a doctor.", "de eerste / de laatste"]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik denk het = I think so", "text": "<i>Ik denk het wel</i> = <b>I think so</b>, <i>ik denk het niet</i> = <b>I don't think so</b> (of formeel <i>I think not</i>), <i>ik hoop het</i> = <b>I hope so</b>, <i>ik hoop van niet</i> = <b>I hope not</b>. Nooit <i>I think it</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Will she come? — I think it.", "Will she come? — I think so.", "Ik denk het = I think so."],
+  ["Is it serious? — I hope no.", "Is it serious? — I hope not.", "Ik hoop van niet = I hope not."],
+  ["You can come if you want.", "You can come if you want to.", "to blijft vaak staan.", "advice"],
+  ["Here comes it.", "Here it comes.", "Bij een voornaamwoord geen inversie."],
+  ["Although tired as she was, she worked.", "Tired as she was, she worked.", "Niet although en as samen."],
+  ["I prefer the blue.", "I prefer the blue one.", "one na een bijvoeglijk naamwoord."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Is the shop open on Sunday? — I think ______.", "hint": "het wel", "a": "so", "full": "Is the shop open on Sunday? — I think so."},
+  {"q": "Will it rain tomorrow? — I hope ______.", "hint": "van niet", "a": "not", "full": "Will it rain tomorrow? — I hope not."},
+  {"q": "______ as he was, he still finished the race.", "hint": "tired, vooraan", "a": "Tired", "full": "Tired as he was, he still finished the race."},
+  {"q": "So loud ______ the music that we couldn't talk.", "hint": "be, inversie", "a": "was", "full": "So loud was the music that we couldn't talk."},
+  {"q": "In the middle of the room ______ a large table.", "hint": "stand, inversie", "a": "stood", "full": "In the middle of the room stood a large table."},
+  {"q": "I wanted to call her, but I didn't have time ______.", "hint": "weglating", "a": "to", "full": "I wanted to call her, but I didn't have time to."},
+  {"q": "These shoes are too small. Have you got bigger ______?", "hint": "vervanging, meervoud", "a": "ones", "full": "These shoes are too small. Have you got bigger ones?"},
+  {"q": "He promised to apologise, and he did ______.", "hint": "vervanging", "a": "so", "full": "He promised to apologise, and he did so."},
+  {"q": "Such ______ the demand that tickets sold out in an hour.", "hint": "be", "a": "was", "full": "Such was the demand that tickets sold out in an hour."},
+  {"q": "Have you seen the film? — Yes, I ______.", "hint": "kort antwoord", "a": "have", "full": "Have you seen the film? — Yes, I have."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik denk het niet.", "a": "I don't think so."},
+  {"q": "Ik hoop van niet.", "a": "I hope not."},
+  {"q": "In de hoek stond een oude piano.", "a": "In the corner stood an old piano."},
+  {"q": "Je mag komen als je wilt.", "a": "You can come if you want to."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

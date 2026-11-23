@@ -1,0 +1,70 @@
+{"meta": {"level": "C2", "section": "Werkwoorden", "number": 1, "total_in_level": 10,
+ "title": "Fijne nuances van tijd en wijs",
+ "subtitle": "De subjunctive (were, be), should voor verbazing, de historische presens en het verleden voor afstand",
+ "footer": "Language Learning · C2 · Werkwoorden · Tijd en wijs",
+ "next": "Volgende: C2 · pdf 2 — Gevorderde woordvolgorde"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de <b>subjunctive</b> herkennen en gebruiken (<i>I insist that he be present</i>)",
+  "<b>should</b> gebruiken na woorden van verbazing en belang",
+  "de historische presens en de toekomst in het verleden gebruiken in verhalen",
+  "formele vaste uitdrukkingen met de subjunctive kennen"]},
+
+ {"type": "h1", "text": "1. De subjunctive"},
+ {"type": "p", "text": "Na werkwoorden en uitdrukkingen van eisen, aanraden en voorstellen gebruikt formeel Engels het <b>kale werkwoord</b> voor alle personen, ook bij he, she en it, en zelfs bij be."},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.6, 5.4], "head": ["Na", "Voorbeeld", "Let op"], "rows": [
+  ["insist / demand", "They insisted that he leave immediately.", "geen -s, geen past"],
+  ["recommend / suggest", "I recommend that she see a specialist.", ""],
+  ["it is essential / vital that", "It is essential that everyone be on time.", "be, niet is"],
+  ["ontkenning", "We suggest that he not travel alone.", "not vóór het werkwoord, zonder do"]]},
+ {"type": "callout", "kind": "dutch", "title": "Brits: vaak should", "text": "In Brits Engels hoor je in plaats van de subjunctive ook vaak <b>should</b>: <i>I suggest that he <b>should</b> leave.</i> Of gewoon de gewone vorm: <i>I suggest that he leaves.</i> Alle drie zijn correct; de subjunctive is het formeelst."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Vaste uitdrukkingen", "Nederlands"], "rows": [
+  ["God save the King.", "God zegene de koning."],
+  ["Be that as it may, ...", "Hoe het ook zij, ..."],
+  ["If need be, ...", "Indien nodig, ..."],
+  ["Come what may, ...", "Wat er ook gebeurt, ..."],
+  ["So be it.", "Het zij zo."]]},
+
+ {"type": "h1", "text": "2. should na verbazing en belang"},
+ {"type": "p", "text": "Na uitdrukkingen als <b>it's strange / odd / surprising / a pity that</b> gebruikt het Engels vaak <b>should</b> om verbazing of emotie te tonen: <i>It's strange that she <b>should</b> say that.</i> (Vreemd dat ze dat zegt.) <i>It's a pity that you <b>should</b> have to leave so soon.</i>"},
+
+ {"type": "h1", "text": "3. Tijden in verhalen en nieuws"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Effect"], "rows": [
+  ["Historische presens", "So I'm walking home, and this man comes up to me ...", "levendig vertellen"],
+  ["Presens in krantenkoppen", "Minister resigns over scandal.", "kort, actueel"],
+  ["Toekomst in het verleden", "He was to become the greatest painter of his age.", "vooruitblik in een biografie"],
+  ["would in een biografie", "She would later describe it as her happiest year.", "wat later zou gebeuren"]]},
+
+ {"type": "h1", "text": "4. Het verleden voor afstand"},
+ {"type": "p", "text": "Na <b>it's time, I'd rather, as if, suppose, what if</b> verwijst het verleden naar nu of de toekomst: <i>Suppose we <b>took</b> the train instead?</i> (Stel dat we de trein nemen?) <i>What if they <b>found</b> out?</i>"},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I insist that he leaves at once.", "I insist that he leave at once.", "Formeel: subjunctive zonder -s.", "advice"],
+  ["It is vital that everyone is there.", "It is vital that everyone be there.", "Formeel: be.", "advice"],
+  ["We suggest that he doesn't travel alone.", "We suggest that he not travel alone.", "Subjunctive: not zonder do."],
+  ["Be it as it may, we will continue.", "Be that as it may, we will continue.", "Vaste uitdrukking: Be that as it may."],
+  ["Suppose we take the train instead? (heel hypothetisch)", "Suppose we took the train instead?", "Het verleden maakt het voorzichtiger.", "advice"]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The doctor recommended that she ______ more rest.", "hint": "take, subjunctive", "a": "take", "full": "The doctor recommended that she take more rest."},
+  {"q": "It is essential that the contract ______ signed today.", "hint": "be, subjunctive", "a": "be", "full": "It is essential that the contract be signed today."},
+  {"q": "They demanded that he ______ the money back.", "hint": "pay, subjunctive", "a": "pay", "full": "They demanded that he pay the money back."},
+  {"q": "We suggest that he ______ drive at night.", "hint": "ontkenning, subjunctive", "a": "not", "full": "We suggest that he not drive at night."},
+  {"q": "______ that as it may, we must continue.", "hint": "vaste uitdrukking", "a": "Be", "full": "Be that as it may, we must continue."},
+  {"q": "Come what ______, I will finish this book.", "hint": "vaste uitdrukking", "a": "may", "full": "Come what may, I will finish this book."},
+  {"q": "It's odd that he ______ say such a thing.", "hint": "verbazing", "a": "should", "full": "It's odd that he should say such a thing."},
+  {"q": "She was ______ become one of the greatest writers of her time.", "hint": "toekomst in het verleden", "a": "to", "full": "She was to become one of the greatest writers of her time."},
+  {"q": "What if they ______ out the truth?", "hint": "find, afstand", "a": "found", "full": "What if they found out the truth?"},
+  {"q": "If need ______, we can work at the weekend.", "hint": "vaste uitdrukking", "a": "be", "full": "If need be, we can work at the weekend."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hoe het ook zij, we gaan door.", "a": "Be that as it may, we will continue."},
+  {"q": "Het is van belang dat iedereen op tijd is. (formeel)", "a": "It is essential that everyone be on time."},
+  {"q": "Indien nodig kunnen we morgen werken.", "a": "If need be, we can work tomorrow."},
+  {"q": "Wat er ook gebeurt, ik blijf.", "a": "Come what may, I will stay."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
