@@ -427,5 +427,16 @@
   "subtitle": "Colocaciones, modismos, trabajo y dinero, y los temas del Staatsexamen NT2, Programa II",
   "content": "b2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_01_Matices_de_tiempo_y_modo",
+  "file": "C1_01_Matices_de_tiempo_y_modo.pdf",
+  "level": "C1",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Matices de tiempo y modo",
+  "subtitle": "al + presente, el pasado de cortesía, zou y moeten para lo que dicen otros, y zal wel para las suposiciones",
+  "content": "c1_01_tense_mood.json",
+  "exercise_count": 12
  }
 ]

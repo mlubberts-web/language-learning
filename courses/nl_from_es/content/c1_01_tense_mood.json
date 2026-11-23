@@ -1,0 +1,333 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Matices de tiempo y modo",
+  "subtitle": "al + presente, el pasado de cortesía, zou y moeten para lo que dicen otros, y zal wel para las suposiciones",
+  "footer": "Language Learning · C1 · Verbos · Tiempo y modo",
+  "next": "Siguiente: C1 · pdf 2 — El orden complejo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar el presente con <b>al</b> para algo que empezó en el pasado",
+    "suavizar las peticiones con el pasado (<i>Ik wilde even vragen ...</i>)",
+    "contar rumores y noticias con <b>zou</b> y <b>moeten</b>",
+    "hacer suposiciones con <b>zal wel</b> y <b>moet wel</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El presente con al"
+  },
+  {
+   "type": "p",
+   "text": "Para algo que empezó en el pasado y sigue ahora, el neerlandés usa el <b>presente</b> con <b>al</b> (y a menudo <b>sinds</b>), igual que el español: <i>Ik woon hier <b>al</b> tien jaar.</i> (Vivo aquí desde hace diez años. Llevo diez años viviendo aquí.)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.6,
+    6.4,
+    4.0
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Ik woon hier al tien jaar.",
+     "Vivo aquí desde hace diez años.",
+     "presente + al"
+    ],
+    [
+     "Hoe lang leer je al Nederlands?",
+     "¿Cuánto tiempo llevas aprendiendo neerlandés?",
+     "presente + al"
+    ],
+    [
+     "Ik ken haar sinds 2015.",
+     "La conozco desde 2015.",
+     "presente + sinds"
+    ],
+    [
+     "Ik heb hier tien jaar gewoond.",
+     "Viví aquí diez años (ya no).",
+     "perfecto: terminado"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "desde hace = al, no sinds",
+   "text": "<i>Ik heb hier tien jaar gewoond</i> significa que ya <b>no</b> vives allí. Para decir que sigues, usa el presente, como en español: <b>Ik woon hier al tien jaar.</b> Ojo con <i>desde hace</i>: no es <i>sinds</i>, sino <b>al</b>. <i>sinds</i> es para un punto de partida (<i>sinds 2015</i>, desde 2015), <i>al</i> para un periodo (<i>al vijf jaar</i>, desde hace cinco años)."
+  },
+  {
+   "type": "h1",
+   "text": "2. El pasado de cortesía"
+  },
+  {
+   "type": "p",
+   "text": "Como en español con el imperfecto de cortesía, el pasado hace una petición o pregunta más distante y educada: <i>Ik <b>wilde</b> even vragen of ...</i> (quería preguntarle si ...). En las tiendas se oye: <i>Wat <b>mocht</b> het zijn?</i> (¿qué le pongo?) y <i>Was er nog iets?</i> (¿algo más?)"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Formas de cortesía en pasado",
+   "items": [
+    [
+     "Ik wilde even vragen ...",
+     "Solo quería preguntar ..."
+    ],
+    [
+     "Wat mocht het zijn?",
+     "¿Qué le pongo?"
+    ],
+    [
+     "Was er nog iets?",
+     "¿Algo más?"
+    ],
+    [
+     "Ik vroeg me af of ...",
+     "Me preguntaba si ..."
+    ],
+    [
+     "Ik dacht dat u ...",
+     "Pensaba que quizá ..."
+    ],
+    [
+     "Zou u misschien ...?",
+     "¿Podría usted quizá ...?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Lo que dicen otros: zou y moeten"
+  },
+  {
+   "type": "p",
+   "text": "En las noticias y en los informes, <b>zou / zouden</b> + infinitivo indica que la información no está confirmada, exactamente como el condicional periodístico español: <i>De minister <b>zou</b> ontslag willen nemen.</i> (El ministro querría dimitir, según fuentes.) Al hablar, <b>moeten</b> hace lo mismo con lo que dice la gente: <i>Die film <b>moet</b> erg goed zijn.</i> (Dicen que esa película es muy buena.)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    6.0,
+    3.6
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Uso"
+   ],
+   "rows": [
+    [
+     "De dader zou uit Rotterdam komen.",
+     "El autor procedería de Róterdam.",
+     "noticias"
+    ],
+    [
+     "Bij het ongeluk zouden twee mensen gewond zijn geraakt.",
+     "Dos personas habrían resultado heridas.",
+     "noticias"
+    ],
+    [
+     "Dat restaurant moet heel goed zijn.",
+     "Dicen que ese restaurante es muy bueno.",
+     "lo que se dice"
+    ],
+    [
+     "Hij zou om acht uur komen.",
+     "Iba a venir a las ocho.",
+     "un plan"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Suposiciones: zal wel, moet wel"
+  },
+  {
+   "type": "p",
+   "text": "<b>zal wel</b> expresa una suposición probable, como el futuro de probabilidad español: <i>Hij <b>zal wel</b> moe zijn.</i> (Estará cansado.) <b>moet wel</b> es más fuerte (<i>no hay otra explicación</i>): <i>Dat <b>moet wel</b> zijn broer zijn</i> (tiene que ser su hermano). En pasado: <i>Hij <b>zal</b> het wel <b>vergeten zijn</b>.</i> (Se le habrá olvidado.)"
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "zal wel = estará, no un futuro",
+   "text": "<i>Hij zal wel thuis zijn</i> no significa <i>estará en casa (mañana)</i>, sino <i>estará en casa (supongo)</i>, igual que en español. Y un <b>Zal wel.</b> suelto significa <i>Ya. Si tú lo dices.</i>, a menudo con algo de duda o de irritación."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik heb hier tien jaar gewoond en ik woon hier nog.",
+     "Ik woon hier al tien jaar.",
+     "Sigue siendo verdad: presente + al."
+    ],
+    [
+     "Hoe lang heb je al Nederlands geleerd? Je bent nog bezig.",
+     "Hoe lang leer je al Nederlands? Je bent nog bezig.",
+     "Sigue ocurriendo: presente + al."
+    ],
+    [
+     "De minister wil ontslag nemen, zeggen ze.",
+     "De minister zou ontslag willen nemen.",
+     "Noticia sin confirmar: zou.",
+     "consejo"
+    ],
+    [
+     "Hij is waarschijnlijk wel moe zal.",
+     "Hij zal wel moe zijn.",
+     "Suposición: zal wel + infinitivo al final."
+    ],
+    [
+     "Ik wil vragen of u kunt helpen.",
+     "Ik wilde vragen of u kon helpen.",
+     "Cortesía: pasado.",
+     "consejo"
+    ],
+    [
+     "Die film zou goed zijn moeten.",
+     "Die film moet goed zijn.",
+     "Lo que se dice: moeten + infinitivo."
+    ],
+    [
+     "Ik ken haar sinds vijf jaar.",
+     "Ik ken haar al vijf jaar.",
+     "Un periodo (desde hace): al; un punto de partida (desde): sinds."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik woon hier ______ twaalf jaar.",
+     "hint": "desde hace, sigue siendo verdad",
+     "a": "al",
+     "full": "Ik woon hier al twaalf jaar."
+    },
+    {
+     "q": "Hoe lang ______ je al in Nederland?",
+     "hint": "wonen, presente",
+     "a": "woon",
+     "full": "Hoe lang woon je al in Nederland?"
+    },
+    {
+     "q": "Ik ken hem ______ 2018.",
+     "hint": "desde",
+     "a": "sinds",
+     "full": "Ik ken hem sinds 2018."
+    },
+    {
+     "q": "Ik ______ even vragen of u morgen tijd hebt.",
+     "hint": "willen, pasado de cortesía",
+     "a": "wilde",
+     "full": "Ik wilde even vragen of u morgen tijd hebt."
+    },
+    {
+     "q": "Wat ______ het zijn?",
+     "hint": "mogen, tienda",
+     "a": "mocht",
+     "full": "Wat mocht het zijn?"
+    },
+    {
+     "q": "De dader ______ uit Utrecht komen.",
+     "hint": "según se dice",
+     "a": "zou",
+     "full": "De dader zou uit Utrecht komen."
+    },
+    {
+     "q": "Dat boek ______ erg spannend zijn.",
+     "hint": "dicen que es",
+     "a": "moet",
+     "full": "Dat boek moet erg spannend zijn."
+    },
+    {
+     "q": "Hij reageert niet. Hij ______ wel slapen.",
+     "hint": "probablemente",
+     "a": "zal",
+     "full": "Hij reageert niet. Hij zal wel slapen."
+    },
+    {
+     "q": "Ze is er nog niet. Ze zal de trein wel gemist ______.",
+     "hint": "hebben, suposición en pasado",
+     "a": "hebben",
+     "full": "Ze is er nog niet. Ze zal de trein wel gemist hebben."
+    },
+    {
+     "q": "Ik vroeg me ______ of je zin had om mee te gaan.",
+     "hint": "me preguntaba",
+     "a": "af",
+     "full": "Ik vroeg me af of je zin had om mee te gaan."
+    },
+    {
+     "q": "Was er nog ______?",
+     "hint": "algo más",
+     "a": "iets",
+     "full": "Was er nog iets?"
+    },
+    {
+     "q": "Bij het ongeluk ______ drie mensen gewond zijn geraakt.",
+     "hint": "según se dice, plural",
+     "a": "zouden",
+     "full": "Bij het ongeluk zouden drie mensen gewond zijn geraakt."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Vivo aquí desde hace diez años.",
+     "a": "Ik woon hier al tien jaar."
+    },
+    {
+     "q": "Estará cansado.",
+     "a": "Hij zal wel moe zijn."
+    },
+    {
+     "q": "Dicen que ese restaurante es muy bueno.",
+     "a": "Dat restaurant moet heel goed zijn."
+    },
+    {
+     "q": "Solo quería preguntar una cosa.",
+     "a": "Ik wilde even iets vragen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
