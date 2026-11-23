@@ -86,5 +86,16 @@
   "subtitle": "When an adjective gets -e, the spelling changes, and the basics of comparison",
   "content": "a1_08_adjectives.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_09_Vocabulary_and_phrases",
+  "file": "A1_09_Vocabulary_and_phrases.pdf",
+  "level": "A1",
+  "number": 9,
+  "section": "Vocabulary",
+  "title": "Vocabulary and phrases",
+  "subtitle": "Greetings, family, food and drink, the time, days and months, shopping, directions and the classroom",
+  "content": "a1_09_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

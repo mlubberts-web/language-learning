@@ -133,7 +133,7 @@ Choices made (Menno can overrule any of them):
 - [x] 5.1 Curriculum A1–C2 (word order, separable verbs, de/het, er, modal particles ...),
       following the CEFR, Staatsexamen NT2 and CNaVT. (`courses/nl_from_en/curriculum.md`, 59 units;
       course.json with the integration exam, Staatsexamen NT2 and CNaVT practice pages per level.)
-- [ ] 5.2 A1 units
+- [x] 5.2 A1 units (9 units, 1,140 questions)
 - [ ] 5.3 A2 units
 - [ ] 5.4 B1 units
 - [ ] 5.5 B2 units

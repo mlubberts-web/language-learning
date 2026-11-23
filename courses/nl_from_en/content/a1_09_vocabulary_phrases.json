@@ -1,0 +1,94 @@
+{
+ "meta": {"level": "A1", "section": "Vocabulary", "number": 9, "total_in_level": 9,
+  "title": "Vocabulary and phrases",
+  "subtitle": "Greetings, family, food and drink, the time, days and months, shopping, directions and the classroom",
+  "footer": "Language Learning · A1 · Vocabulary and phrases",
+  "next": "Next: A2 · pdf 1"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "How to use these lists", "bullets": [
+   "Cover one column and test yourself in both directions.",
+   "Learn every noun with de or het, and say the words aloud (g, ui, ij: pdf 1).",
+   "Make three sentences of your own for each block, with the grammar of A1."]},
+  {"type": "h1", "text": "1. Greetings and politeness"},
+  {"type": "verbpairs", "title": "Greetings", "items": [
+   ["Hallo. / Hoi.", "Hello. / Hi."], ["Goedemorgen.", "Good morning."], ["Goedemiddag.", "Good afternoon."],
+   ["Goedenavond.", "Good evening."], ["Dag. / Doei.", "Bye."], ["Tot straks.", "See you later."],
+   ["Tot ziens.", "Goodbye."], ["Leuk je te ontmoeten.", "Nice to meet you."], ["Hoe gaat het?", "How are you?"],
+   ["Goed, dank je.", "Fine, thank you."], ["Welterusten.", "Good night."]]},
+  {"type": "verbpairs", "title": "Politeness", "items": [
+   ["alsjeblieft (informal)", "please, here you are"], ["alstublieft (polite)", "please, here you are (polite)"],
+   ["dank je wel", "thank you"], ["graag gedaan", "you're welcome"], ["sorry", "sorry"],
+   ["pardon", "excuse me"], ["Wat zei je?", "What did you say?"], ["geen probleem", "no problem"]]},
+  {"type": "callout", "kind": "note", "title": "alsjeblieft: please and here you are", "text": "<b>alsjeblieft</b> (informal) and <b>alstublieft</b> (polite) mean <i>please</i> when you ask: <i>Een koffie, alstublieft.</i> They also mean <i>here you are</i> when you give something: the waiter puts down your coffee and says <i>Alstublieft.</i> You answer: <b>Dank u wel.</b>"},
+  {"type": "h1", "text": "2. Family"},
+  {"type": "verbpairs", "title": "Family", "items": [
+   ["de moeder", "mother"], ["de vader", "father"], ["de ouders", "parents"], ["de broer", "brother"],
+   ["de zus", "sister"], ["de zoon", "son"], ["de dochter", "daughter"], ["de man", "husband"],
+   ["de vrouw", "wife"], ["de oma", "grandmother, grandma"], ["de opa", "grandfather, grandpa"], ["de oom", "uncle"],
+   ["de tante", "aunt"], ["de neef", "cousin (male), nephew"], ["de nicht", "cousin (female), niece"]]},
+  {"type": "callout", "kind": "note", "title": "One word, two relatives", "text": "<b>neef</b> means both <i>nephew</i> and <i>male cousin</i>; <b>nicht</b> means both <i>niece</i> and <i>female cousin</i>. Context tells you which. And <b>man</b> and <b>vrouw</b> also mean <i>husband</i> and <i>wife</i>: <i>mijn man</i> = my husband."},
+  {"type": "h1", "text": "3. Food and drink"},
+  {"type": "verbpairs", "title": "Food and drink", "items": [
+   ["het brood", "bread"], ["de kaas", "cheese"], ["het ei", "egg"], ["het vlees", "meat"],
+   ["de kip", "chicken"], ["de vis", "fish"], ["de groente", "vegetables"], ["het fruit", "fruit"],
+   ["de aardappel", "potato"], ["de rijst", "rice"], ["het water", "water"], ["de melk", "milk"],
+   ["het sap", "juice"], ["de koffie", "coffee"], ["de thee", "tea"], ["het bier", "beer"]]},
+  {"type": "verbpairs", "title": "In a café or restaurant", "items": [
+   ["Mag ik een koffie?", "Can I have a coffee?"], ["Mag ik afrekenen?", "Can I have the bill?"],
+   ["Ik wil graag de vis.", "I'd like the fish."], ["Eet smakelijk.", "Enjoy your meal."],
+   ["Proost.", "Cheers."], ["Het was lekker.", "It was delicious."]]},
+  {"type": "h1", "text": "4. The time, days and months"},
+  {"type": "verbpairs", "title": "Days", "items": [
+   ["maandag", "Monday"], ["dinsdag", "Tuesday"], ["woensdag", "Wednesday"], ["donderdag", "Thursday"],
+   ["vrijdag", "Friday"], ["zaterdag", "Saturday"], ["zondag", "Sunday"], ["het weekend", "weekend"]]},
+  {"type": "verbpairs", "title": "Months", "items": [
+   ["januari", "January"], ["februari", "February"], ["maart", "March"], ["april", "April"],
+   ["mei", "May"], ["juni", "June"], ["juli", "July"], ["augustus", "August"],
+   ["september", "September"], ["oktober", "October"], ["november", "November"], ["december", "December"]]},
+  {"type": "callout", "kind": "warn", "title": "No capitals", "text": "Days and months have <b>no capital letter</b> in Dutch: <i>op maandag, in januari</i>. Languages and nationalities do: <i>Nederlands, Engels</i>."},
+  {"type": "table", "style": "plain", "widths": [2.6, 6.0, 8.4], "head": ["Clock", "Dutch", "Watch out"], "rows": [
+   ["7:00", "zeven uur", "uur only with whole hours"],
+   ["7:15", "kwart over zeven", "over = past"],
+   ["7:30", "half acht", "half to the next hour: half eight = 7:30"],
+   ["7:45", "kwart voor acht", "voor = to"],
+   ["7:20", "tien voor half acht", "ten to half eight"],
+   ["7:40", "tien over half acht", "ten past half eight"]]},
+  {"type": "callout", "kind": "note", "title": "half acht is 7:30, not 8:30", "text": "This is the classic mistake of English speakers: <b>half acht</b> means <i>half way to eight</i>, so <b>7:30</b>. The British <i>half eight</i> means 8:30. Between quarter past and quarter to, the Dutch count from the half hour: <i>tien voor half acht</i> = 7:20. Ask <b>Hoe laat is het?</b> (What time is it?)"},
+  {"type": "h1", "text": "5. Shopping and directions"},
+  {"type": "verbpairs", "title": "Shopping", "items": [
+   ["Hoeveel kost het?", "How much is it?"], ["Het is te duur.", "It's too expensive."], ["Kan ik pinnen?", "Can I pay by card?"],
+   ["Ik kijk even rond.", "I'm just looking."], ["Heeft u dit in een kleinere maat?", "Have you got this in a smaller size?"], ["het bonnetje", "receipt"]]},
+  {"type": "verbpairs", "title": "Asking the way", "items": [
+   ["Pardon, waar is het station?", "Excuse me, where is the station?"], ["Ga rechtdoor.", "Go straight on."],
+   ["Ga linksaf.", "Turn left."], ["Ga rechtsaf.", "Turn right."], ["Het is naast de bank.", "It's next to the bank."],
+   ["Het is tegenover de kerk.", "It's opposite the church."], ["Het is op de hoek.", "It's on the corner."], ["Is het ver?", "Is it far?"]]},
+  {"type": "h1", "text": "6. In class"},
+  {"type": "verbpairs", "title": "Useful in class", "items": [
+   ["Wat betekent dit woord?", "What does this word mean?"], ["Hoe zeg je ... in het Nederlands?", "How do you say ... in Dutch?"],
+   ["Kunt u langzamer praten?", "Can you speak more slowly?"], ["Ik begrijp het niet.", "I don't understand."],
+   ["Kunt u het opschrijven?", "Can you write it down?"], ["Ik weet het niet.", "I don't know."]]},
+  {"type": "h1", "text": "7. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Een koffie, ______.", "hint": "please, polite", "a": "alstublieft", "full": "Een koffie, alstublieft."},
+   {"q": "Dank je ______.", "hint": "thank you", "a": "wel", "full": "Dank je wel."},
+   {"q": "De zus van mijn moeder is mijn ______.", "hint": "family", "a": "tante", "full": "De zus van mijn moeder is mijn tante."},
+   {"q": "De zoon van mijn broer is mijn ______.", "hint": "family", "a": "neef", "full": "De zoon van mijn broer is mijn neef."},
+   {"q": "Het is half ______. (7:30)", "hint": "the time", "a": "acht", "full": "Het is half acht."},
+   {"q": "Het is kwart ______ acht. (7:45)", "hint": "voor or over", "a": "voor", "full": "Het is kwart voor acht."},
+   {"q": "De dag na dinsdag is ______.", "hint": "Wednesday", "a": "woensdag", "full": "De dag na dinsdag is woensdag."},
+   {"q": "______ kost het?", "hint": "how much", "a": "hoeveel", "full": "Hoeveel kost het?"},
+   {"q": "Ga bij de kerk ______.", "hint": "turn left", "a": "linksaf", "full": "Ga bij de kerk linksaf."},
+   {"q": "Wat ______ dit woord?", "hint": "mean", "a": "betekent", "full": "Wat betekent dit woord?"},
+   {"q": "Kan ik hier ______?", "hint": "pay by card", "a": "pinnen", "full": "Kan ik hier pinnen?"},
+   {"q": "Leuk je te ______.", "hint": "meet", "a": "ontmoeten", "full": "Leuk je te ontmoeten."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "How much is it?", "a": "Hoeveel kost het?"},
+   {"q": "I don't understand.", "a": "Ik begrijp het niet."},
+   {"q": "Excuse me, where is the station?", "a": "Pardon, waar is het station?"},
+   {"q": "It's half past seven.", "a": "Het is half acht."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
