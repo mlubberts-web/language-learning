@@ -1,0 +1,70 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 3, "total_in_level": 10,
+ "title": "De past continuous",
+ "subtitle": "was / were + -ing: de achtergrond van een verhaal, en when en while",
+ "footer": "Language Learning · A2 · Werkwoorden · Past continuous",
+ "next": "Volgende: A2 · pdf 4 — De present perfect"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de past continuous vormen met <b>was / were + -ing</b>",
+  "beschrijven wat er bezig was op een moment in het verleden",
+  "de achtergrond en de gebeurtenis van een verhaal onderscheiden",
+  "<b>when</b> en <b>while</b> goed gebruiken"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "conj", "verb": "to read", "meaning": "lezen", "label": "regelmatig werkwoord", "tense": "past continuous",
+  "forms": ["was read*ing*", "were read*ing*", "was read*ing*", "were read*ing*", "were read*ing*", "were read*ing*"],
+  "examples": [["I was reading when you called.", "Ik zat te lezen toen je belde."], ["You were reading the paper.", "Jij was de krant aan het lezen."], ["She was reading in the garden.", "Zij zat in de tuin te lezen."], ["We were reading the same book.", "We lazen hetzelfde boek."], ["You were reading aloud.", "Jullie waren hardop aan het lezen."], ["They were reading the menu.", "Zij waren de menukaart aan het lezen."]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["I was sleeping.", "I wasn't sleeping.", "Were you sleeping?"],
+  ["It was raining.", "It wasn't raining.", "Was it raining?"],
+  ["They were working.", "They weren't working.", "Were they working?"]]},
+
+ {"type": "h1", "text": "2. Wanneer gebruik je hem?"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Bezig op een moment in het verleden", "At eight o'clock I was having dinner.", "Om acht uur zat ik te eten."],
+  ["Achtergrond van een verhaal", "The sun was shining and birds were singing.", "De zon scheen en de vogels zongen."],
+  ["Onderbroken door iets", "I was cooking when the phone rang.", "Ik was aan het koken toen de telefoon ging."],
+  ["Twee dingen tegelijk", "While I was reading, he was watching TV.", "Terwijl ik las, keek hij tv."]]},
+ {"type": "callout", "kind": "dutch", "title": "zat te, stond te, was aan het", "text": "Het Nederlands zegt <i>Ik zat te lezen</i>, <i>Hij stond te wachten</i>, <i>We waren aan het eten</i>. In het Engels is dat allemaal de past continuous: <b>I was reading</b>, <b>He was waiting</b>, <b>We were eating</b>."},
+
+ {"type": "h1", "text": "3. when en while"},
+ {"type": "p", "text": "De lange handeling (achtergrond) staat in de past continuous, de korte gebeurtenis die ertussen komt in de past simple. <b>while</b> hoort meestal bij de lange handeling, <b>when</b> bij de korte."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["I was walking home when it started to rain.", "Ik liep naar huis toen het begon te regenen."],
+  ["While she was driving, her phone rang.", "Terwijl ze reed, ging haar telefoon."],
+  ["When I arrived, they were having lunch.", "Toen ik aankwam, zaten ze te lunchen."],
+  ["When I arrived, they had lunch.", "Toen ik aankwam, gingen ze lunchen."]]},
+ {"type": "callout", "kind": "tip", "title": "Let op het verschil", "text": "<i>When I arrived, they <b>were having</b> lunch</i>: ze waren al bezig. <i>When I arrived, they <b>had</b> lunch</i>: ze begonnen pas toen ik er was. De vorm verandert de volgorde van de gebeurtenissen."},
+ {"type": "callout", "kind": "warn", "title": "Geen -ing bij toestanden", "text": "Net als in de tegenwoordige tijd: werkwoorden als know, like, want en need krijgen geen -ing. <i>I <b>knew</b> the answer</i>, niet <i>I was knowing</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I was sleep when you called.", "I was sleeping when you called.", "Na was komt de -ing-vorm."],
+  ["They was playing football.", "They were playing football.", "Bij they: were."],
+  ["While I watched TV, the lights went out.", "While I was watching TV, the lights went out.", "De lange handeling: past continuous."],
+  ["I was walking home when it was starting to rain.", "I was walking home when it started to rain.", "De korte gebeurtenis: past simple."],
+  ["I was knowing her.", "I knew her.", "know krijgt geen -ing."],
+  ["What did you do at ten o'clock last night? I slept.", "What were you doing at ten o'clock last night? I was sleeping.", "Bezig op een moment: past continuous."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de past simple of de past continuous in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ a shower when the doorbell rang.", "hint": "have", "a": "was having", "full": "I was having a shower when the doorbell rang."},
+  {"q": "It ______ when we left the house.", "hint": "rain", "a": "was raining", "full": "It was raining when we left the house."},
+  {"q": "While they ______ dinner, the lights went out.", "hint": "cook", "a": "were cooking", "full": "While they were cooking dinner, the lights went out."},
+  {"q": "She was driving when she ______ the accident.", "hint": "see", "a": "saw", "full": "She was driving when she saw the accident."},
+  {"q": "What ______ you doing at nine o'clock?", "hint": "to be", "a": "were", "full": "What were you doing at nine o'clock?"},
+  {"q": "We ______ sleeping. We were watching a film.", "hint": "ontkenning", "a": "weren't", "full": "We weren't sleeping. We were watching a film."},
+  {"q": "I ______ my wallet while I was shopping.", "hint": "lose", "a": "lost", "full": "I lost my wallet while I was shopping."},
+  {"q": "The children ______ in the garden all afternoon.", "hint": "play", "a": "were playing", "full": "The children were playing in the garden all afternoon."},
+  {"q": "______ he working when you called?", "hint": "to be", "a": "Was", "full": "Was he working when you called?"},
+  {"q": "I ______ the answer.", "hint": "know", "a": "knew", "full": "I knew the answer."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik zat te lezen toen je belde.", "a": "I was reading when you called."},
+  {"q": "Het regende de hele dag.", "a": "It was raining all day."},
+  {"q": "Om acht uur zat ik te eten.", "a": "At eight o'clock I was having dinner."},
+  {"q": "Wat was je aan het doen?", "a": "What were you doing?"}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

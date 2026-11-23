@@ -97,5 +97,38 @@
   "subtitle": "Groeten, familie, eten en drinken, tijd, dagen en maanden, winkelen, de weg vragen en de klas",
   "content": "a1_09_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_01_Past_simple_regelmatige_werkwoorden",
+  "file": "A2_01_Past_simple_regelmatige_werkwoorden.pdf",
+  "level": "A2",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Past simple: regelmatige werkwoorden",
+  "subtitle": "De uitgang -ed, de spelling en de drie uitspraken, en did in vragen en ontkenningen",
+  "content": "a2_01_past_simple_regular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_02_Past_simple_onregelmatige_werkwoorden",
+  "file": "A2_02_Past_simple_onregelmatige_werkwoorden.pdf",
+  "level": "A2",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "Past simple: onregelmatige werkwoorden",
+  "subtitle": "was en were, en de belangrijkste onregelmatige werkwoorden in groepjes om te leren",
+  "content": "a2_02_past_simple_irregular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_03_De_past_continuous",
+  "file": "A2_03_De_past_continuous.pdf",
+  "level": "A2",
+  "number": 3,
+  "section": "Werkwoorden",
+  "title": "De past continuous",
+  "subtitle": "was / were + -ing: de achtergrond van een verhaal, en when en while",
+  "content": "a2_03_past_continuous.json",
+  "exercise_count": 10
  }
 ]

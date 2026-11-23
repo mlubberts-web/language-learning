@@ -1,0 +1,90 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 2, "total_in_level": 10,
+ "title": "Past simple: onregelmatige werkwoorden",
+ "subtitle": "was en were, en de belangrijkste onregelmatige werkwoorden in groepjes om te leren",
+ "footer": "Language Learning · A2 · Werkwoorden · Past simple (onregelmatig)",
+ "next": "Volgende: A2 · pdf 3 — De past continuous"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "<b>was</b> en <b>were</b> gebruiken, ook in vragen en ontkenningen",
+  "de verleden tijd van de zestig meest gebruikte onregelmatige werkwoorden",
+  "een kort verhaal vertellen over wat je gedaan hebt"]},
+
+ {"type": "h1", "text": "1. was en were"},
+ {"type": "conj", "verb": "to be", "meaning": "zijn", "label": "onregelmatig werkwoord", "tense": "past simple",
+  "forms": ["was", "were", "was", "were", "were", "were"],
+  "examples": [["I was tired yesterday.", "Ik was gisteren moe."], ["You were right.", "Je had gelijk."], ["It was a great party.", "Het was een geweldig feest."], ["We were at home.", "We waren thuis."], ["You were very kind.", "Jullie waren heel aardig."], ["They were in Spain last month.", "Zij waren vorige maand in Spanje."]]},
+ {"type": "p", "text": "Bij was en were heb je <b>geen did</b> nodig: <i>I <b>wasn't</b> at home. <b>Were</b> you late? Yes, I was.</i> Net als bij am, is en are."},
+ {"type": "callout", "kind": "dutch", "title": "gelijk hebben, honger hebben", "text": "Zoals in de tegenwoordige tijd gaan veel Nederlandse 'hebben'-uitdrukkingen in het Engels met to be: <i>Je had gelijk</i> = <b>You were right</b>; <i>Ik had honger</i> = <b>I was hungry</b>; <i>We hadden het koud</i> = <b>We were cold</b>."},
+
+ {"type": "h1", "text": "2. Onregelmatige werkwoorden"},
+ {"type": "p", "text": "Ongeveer zestig veelgebruikte werkwoorden hebben een eigen verleden tijd. Er zit wel systeem in: leer ze in groepjes die op elkaar lijken. De vorm is weer voor alle personen hetzelfde, en vragen en ontkenningen gaan met did plus het kale werkwoord: <i>I <b>went</b> home. Did you <b>go</b> home?</i>"},
+ {"type": "table", "style": "plain", "widths": [3.6, 3.6, 3.6, 6.2], "head": ["Infinitief", "Past simple", "Nederlands", "Groep"], "rows": [
+  ["go", "went", "gaan", "helemaal anders"],
+  ["have", "had", "hebben", ""],
+  ["do", "did", "doen", ""],
+  ["make", "made", "maken", ""],
+  ["say", "said", "zeggen", "spreek uit als 'sed'"],
+  ["get", "got", "krijgen, worden", ""],
+  ["see", "saw", "zien", ""],
+  ["come", "came", "komen", ""]]},
+ {"type": "verbpairs", "title": "Klinker wordt o of a", "items": [
+  ["went", "ging (to go)"], ["came", "kwam (to come)"], ["got", "kreeg, werd (to get)"], ["saw", "zag (to see)"],
+  ["gave", "gaf (to give)"], ["ate", "at (to eat)"], ["drank", "dronk (to drink)"], ["began", "begon (to begin)"],
+  ["swam", "zwom (to swim)"], ["sang", "zong (to sing)"], ["ran", "rende (to run)"], ["sat", "zat (to sit)"],
+  ["wrote", "schreef (to write)"], ["rode", "reed (to ride)"], ["drove", "reed (to drive)"], ["spoke", "sprak (to speak)"]]},
+ {"type": "verbpairs", "title": "Eindigt op -ought of -aught", "items": [
+  ["bought", "kocht (to buy)"], ["brought", "bracht (to bring)"], ["thought", "dacht (to think)"],
+  ["fought", "vocht (to fight)"], ["caught", "ving (to catch)"], ["taught", "gaf les (to teach)"]]},
+ {"type": "verbpairs", "title": "Eindigt op -t of -d", "items": [
+  ["felt", "voelde (to feel)"], ["left", "vertrok (to leave)"], ["kept", "hield (to keep)"], ["slept", "sliep (to sleep)"],
+  ["met", "ontmoette (to meet)"], ["sent", "stuurde (to send)"], ["spent", "gaf uit (to spend)"], ["lost", "verloor (to lose)"],
+  ["sold", "verkocht (to sell)"], ["told", "vertelde (to tell)"], ["heard", "hoorde (to hear)"], ["found", "vond (to find)"],
+  ["paid", "betaalde (to pay)"], ["made", "maakte (to make)"], ["stood", "stond (to stand)"], ["understood", "begreep (to understand)"]]},
+ {"type": "verbpairs", "title": "Blijft gelijk", "items": [
+  ["put", "zette, legde (to put)"], ["cut", "sneed (to cut)"], ["hit", "sloeg (to hit)"], ["let", "liet (to let)"],
+  ["cost", "kostte (to cost)"], ["read", "las (to read, spreek uit als 'red')"]]},
+ {"type": "verbpairs", "title": "Andere belangrijke", "items": [
+  ["knew", "wist, kende (to know)"], ["grew", "groeide (to grow)"], ["flew", "vloog (to fly)"], ["threw", "gooide (to throw)"],
+  ["took", "nam (to take)"], ["broke", "brak (to break)"], ["chose", "koos (to choose)"], ["forgot", "vergat (to forget)"],
+  ["fell", "viel (to fall)"], ["became", "werd (to become)"], ["won", "won (to win)"], ["wore", "droeg (kleding, to wear)"]]},
+ {"type": "callout", "kind": "tip", "title": "Zo leer je ze", "text": "Zeg steeds drie vormen hardop: <b>go – went – gone</b>, <b>see – saw – seen</b>. De derde vorm (het voltooid deelwoord) heb je in pdf 4 nodig. In de lijst 'Verbs in context' oefen je de vormen in zinnen."},
+
+ {"type": "h1", "text": "3. Een verhaal vertellen"},
+ {"type": "p", "text": "<i>Last Saturday I <b>got</b> up late. I <b>had</b> breakfast and then I <b>went</b> to the market. I <b>bought</b> some fruit and I <b>met</b> an old friend. We <b>drank</b> a coffee and we <b>spoke</b> for an hour. In the evening I <b>was</b> very tired, so I <b>went</b> to bed early.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "became is niet 'bekwam'", "text": "<b>become</b> betekent worden, niet bekomen: <i>She became a doctor</i> = Zij werd arts. En <b>got</b> betekent vaak ook worden: <i>It got dark</i> = Het werd donker."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I goed to the cinema.", "I went to the cinema.", "go is onregelmatig: went."],
+  ["Did you saw him?", "Did you see him?", "Na did komt het kale werkwoord."],
+  ["We was at home.", "We were at home.", "Bij we, you en they: were."],
+  ["Did you be at home?", "Were you at home?", "Bij to be geen did."],
+  ["She buyed a new car.", "She bought a new car.", "buy is onregelmatig: bought."],
+  ["I teached English.", "I taught English.", "teach is onregelmatig: taught."],
+  ["He didn't went to work.", "He didn't go to work.", "Na didn't komt het kale werkwoord."],
+  ["I had right.", "I was right.", "Gelijk hebben is be right."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de past simple in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "We ______ to Paris last summer.", "hint": "go", "a": "went", "full": "We went to Paris last summer."},
+  {"q": "I ______ very tired last night.", "hint": "be", "a": "was", "full": "I was very tired last night."},
+  {"q": "They ______ at home on Sunday.", "hint": "be", "a": "were", "full": "They were at home on Sunday."},
+  {"q": "She ______ a new phone yesterday.", "hint": "buy", "a": "bought", "full": "She bought a new phone yesterday."},
+  {"q": "I ______ my keys at the station.", "hint": "lose", "a": "lost", "full": "I lost my keys at the station."},
+  {"q": "He ______ me a nice story.", "hint": "tell", "a": "told", "full": "He told me a nice story."},
+  {"q": "Did you ______ the news?", "hint": "hear", "a": "hear", "full": "Did you hear the news?"},
+  {"q": "We ______ a lot of photos.", "hint": "take", "a": "took", "full": "We took a lot of photos."},
+  {"q": "______ you at the party?", "hint": "be, vraag", "a": "Were", "full": "Were you at the party?"},
+  {"q": "It ______ dark at six.", "hint": "get", "a": "got", "full": "It got dark at six."},
+  {"q": "I ______ that he was French.", "hint": "think", "a": "thought", "full": "I thought that he was French."},
+  {"q": "She ______ a teacher in 2015.", "hint": "become", "a": "became", "full": "She became a teacher in 2015."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik ben gisteren naar de markt gegaan.", "a": "I went to the market yesterday."},
+  {"q": "Je had gelijk.", "a": "You were right."},
+  {"q": "Hebben jullie de bus genomen?", "a": "Did you take the bus?"},
+  {"q": "Het werd donker.", "a": "It got dark."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

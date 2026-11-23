@@ -1,0 +1,88 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 1, "total_in_level": 10,
+ "title": "Past simple: regelmatige werkwoorden",
+ "subtitle": "De uitgang -ed, de spelling en de drie uitspraken, en did in vragen en ontkenningen",
+ "footer": "Language Learning · A2 · Werkwoorden · Past simple (regelmatig)",
+ "next": "Volgende: A2 · pdf 2 — Past simple: onregelmatige werkwoorden"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de past simple van regelmatige werkwoorden vormen met <b>-ed</b>",
+  "de -ed goed spellen en op drie manieren uitspreken",
+  "vragen en ontkenningen maken met <b>did</b>",
+  "vertellen wat je gisteren, vorige week of in 2020 deed"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "p", "text": "De past simple (verleden tijd) van een regelmatig werkwoord maak je met <b>-ed</b>. Goed nieuws: de vorm is voor <b>alle personen hetzelfde</b>. Geen -s, geen andere vorm bij he of she."},
+ {"type": "conj", "verb": "to work", "meaning": "werken", "label": "regelmatig werkwoord", "tense": "past simple",
+  "forms": ["work*ed*", "work*ed*", "work*ed*", "work*ed*", "work*ed*", "work*ed*"],
+  "examples": [["I worked late yesterday.", "Ik heb gisteren lang doorgewerkt."], ["You worked very hard last year.", "Je werkte vorig jaar heel hard."], ["She worked in Paris in 2019.", "Zij werkte in 2019 in Parijs."], ["We worked together for five years.", "We hebben vijf jaar samengewerkt."], ["You worked on Saturday.", "Jullie hebben zaterdag gewerkt."], ["They worked at the same school.", "Zij werkten op dezelfde school."]]},
+ {"type": "table", "style": "plain", "widths": [6.0, 5.6, 5.4], "head": ["Spellingregel", "Voorbeelden", "Opmerking"], "rows": [
+  ["meestal + ed", "work → worked, play → played", ""],
+  ["eindigt op -e: + d", "live → lived, like → liked", ""],
+  ["medeklinker + y: -ied", "study → studied, try → tried", "maar play → played, stay → stayed"],
+  ["korte klinker + één medeklinker: dubbel", "stop → stopped, plan → planned", "Brits ook travel → travelled"]]},
+
+ {"type": "h1", "text": "2. Drie uitspraken van -ed"},
+ {"type": "table", "style": "plain", "widths": [3.0, 6.0, 8.0], "head": ["Klank", "Na", "Voorbeelden"], "rows": [
+  ["/t/", "stemloze klank: p, k, f, s, sh, ch", "stopped, worked, laughed, missed, washed, watched"],
+  ["/d/", "stemhebbende klank en klinkers", "played, lived, opened, called, cleaned"],
+  ["/ɪd/ (een extra lettergreep)", "t of d", "wanted, started, needed, decided"]]},
+ {"type": "callout", "kind": "dutch", "title": "Geen extra lettergreep bij worked", "text": "Nederlanders zeggen vaak <i>work-ed</i> met een extra 'ed'. Alleen na een t of d hoor je een extra lettergreep: <b>want-ed</b>, <b>need-ed</b>. <b>worked</b> klinkt als 'workt', <b>played</b> als 'pleejd'. Het lijkt op 't kofschip: na een stemloze klank wordt het een t."},
+
+ {"type": "h1", "text": "3. Ontkenningen en vragen met did"},
+ {"type": "p", "text": "Net als in de present simple heb je een hulpwerkwoord nodig, nu <b>did</b> voor alle personen. De verleden tijd zit dan in did; het hoofdwerkwoord blijft kaal, zonder -ed."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["I watched the film.", "I didn't watch the film.", "Did you watch the film?"],
+  ["She called her mum.", "She didn't call her mum.", "Did she call her mum?"],
+  ["They stayed at home.", "They didn't stay at home.", "Did they stay at home?"]]},
+ {"type": "callout", "kind": "warn", "title": "Eén keer verleden tijd", "text": "Na <b>did</b> en <b>didn't</b> komt het kale werkwoord: <b>Did you play?</b>, <b>I didn't play</b>. Nooit <i>Did you played?</i> of <i>I didn't played</i>."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Vraag", "Ja", "Nee"], "rows": [
+  ["Did you enjoy it?", "Yes, I did.", "No, I didn't."],
+  ["Did it rain?", "Yes, it did.", "No, it didn't."]]},
+
+ {"type": "h1", "text": "4. Tijdwoorden van het verleden"},
+ {"type": "verbpairs", "title": "Wanneer?", "items": [
+  ["yesterday", "gisteren"], ["yesterday morning", "gisterochtend"], ["last night", "gisteravond, vannacht"],
+  ["last week", "vorige week"], ["last year", "vorig jaar"], ["two days ago", "twee dagen geleden"],
+  ["a long time ago", "lang geleden"], ["in 2020", "in 2020"], ["when I was a child", "toen ik een kind was"], ["the day before yesterday", "eergisteren"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands 'heb gedaan', Engels past simple", "text": "Met een afgelopen tijd (yesterday, last week, ago) gebruik je in het Engels de <b>past simple</b>, ook als het Nederlands <i>ik heb ... gewerkt</i> zegt: <i>Ik heb gisteren gewerkt</i> = <b>I worked yesterday</b>, nooit <i>I have worked yesterday</i>. Meer hierover in pdf 5."},
+ {"type": "callout", "kind": "tip", "title": "ago achteraan", "text": "<b>ago</b> (geleden) staat na de tijd, net als in het Nederlands: <i>two years ago</i> = twee jaar geleden."},
+ {"type": "verbpairs", "title": "Regelmatige werkwoorden om te oefenen", "items": [
+  ["to arrive", "aankomen"], ["to ask", "vragen"], ["to call", "bellen, roepen"], ["to clean", "schoonmaken"],
+  ["to decide", "besluiten"], ["to finish", "afmaken"], ["to happen", "gebeuren"], ["to help", "helpen"],
+  ["to listen", "luisteren"], ["to move", "verhuizen, bewegen"], ["to open", "openen"], ["to visit", "bezoeken"],
+  ["to wait", "wachten"], ["to walk", "lopen"], ["to want", "willen"], ["to travel", "reizen"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I have visited Rome last year.", "I visited Rome last year.", "Een afgelopen tijd: past simple."],
+  ["Did you watched the match?", "Did you watch the match?", "Na did komt het kale werkwoord."],
+  ["She didn't called me.", "She didn't call me.", "Na didn't komt het kale werkwoord."],
+  ["He studyed English.", "He studied English.", "Medeklinker + y wordt -ied."],
+  ["We stoped at a café.", "We stopped at a café.", "Korte klinker + één medeklinker: dubbel."],
+  ["I watched TV before two days.", "I watched TV two days ago.", "Geleden is ago, achter de tijd."],
+  ["Where you lived?", "Where did you live?", "Een vraag krijgt did."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de past simple in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "We ______ our grandparents last weekend.", "hint": "visit", "a": "visited", "full": "We visited our grandparents last weekend."},
+  {"q": "She ______ in London for two years.", "hint": "live", "a": "lived", "full": "She lived in London for two years."},
+  {"q": "I ______ French at school.", "hint": "study", "a": "studied", "full": "I studied French at school."},
+  {"q": "The bus ______ in front of the station.", "hint": "stop", "a": "stopped", "full": "The bus stopped in front of the station."},
+  {"q": "______ you enjoy the concert?", "hint": "vraag", "a": "Did", "full": "Did you enjoy the concert?"},
+  {"q": "He ______ call me yesterday.", "hint": "ontkenning", "a": "didn't", "full": "He didn't call me yesterday."},
+  {"q": "Did it rain? Yes, it ______.", "hint": "kort antwoord", "a": "did", "full": "Did it rain? Yes, it did."},
+  {"q": "They ______ to Spain in 2019.", "hint": "travel, Brits", "a": "travelled", "full": "They travelled to Spain in 2019."},
+  {"q": "I moved here three years ______.", "hint": "geleden", "a": "ago", "full": "I moved here three years ago."},
+  {"q": "What time did you ______?", "hint": "arrive", "a": "arrive", "full": "What time did you arrive?"},
+  {"q": "We ______ for the bus for an hour.", "hint": "wait", "a": "waited", "full": "We waited for the bus for an hour."},
+  {"q": "She ______ her exam last week.", "hint": "pass", "a": "passed", "full": "She passed her exam last week."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik heb gisteren tot laat gewerkt.", "a": "I worked late yesterday."},
+  {"q": "Heb je de film gekeken?", "a": "Did you watch the film?"},
+  {"q": "Zij heeft me niet gebeld.", "a": "She didn't call me."},
+  {"q": "We zijn twee jaar geleden verhuisd.", "a": "We moved two years ago."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
