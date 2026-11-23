@@ -427,5 +427,27 @@
   "subtitle": "Collocaties, uitdrukkingen, werk en geld, en valse vrienden voor Nederlanders",
   "content": "b2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_01_Nuances_van_tijd_en_aspect",
+  "file": "C1_01_Nuances_van_tijd_en_aspect.pdf",
+  "level": "C1",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Nuances van tijd en aspect",
+  "subtitle": "Toestandswerkwoorden met twee betekenissen, de continuous voor ergernis, en het verleden voor afstand en beleefdheid",
+  "content": "c1_01_tense_aspect.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_02_Inversie_en_nadruk",
+  "file": "C1_02_Inversie_en_nadruk.pdf",
+  "level": "C1",
+  "number": 2,
+  "section": "Grammatica",
+  "title": "Inversie en nadruk",
+  "subtitle": "Never have I, not only ... but also, gespleten zinnen en do voor nadruk",
+  "content": "c1_02_inversion_emphasis.json",
+  "exercise_count": 10
  }
 ]

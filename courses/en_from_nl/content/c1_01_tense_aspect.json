@@ -1,0 +1,73 @@
+{"meta": {"level": "C1", "section": "Werkwoorden", "number": 1, "total_in_level": 10,
+ "title": "Nuances van tijd en aspect",
+ "subtitle": "Toestandswerkwoorden met twee betekenissen, de continuous voor ergernis, en het verleden voor afstand en beleefdheid",
+ "footer": "Language Learning · C1 · Werkwoorden · Tijd en aspect",
+ "next": "Volgende: C1 · pdf 2 — Inversie en nadruk"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "toestandswerkwoorden herkennen die in een andere betekenis wél -ing krijgen",
+  "ergernis uitdrukken met <b>always + continuous</b>",
+  "beleefd en voorzichtig formuleren met het verleden (<i>I was wondering</i>)",
+  "subtiele verschillen tussen simple en continuous gebruiken"]},
+
+ {"type": "h1", "text": "1. Toestandswerkwoorden met twee betekenissen"},
+ {"type": "table", "style": "plain", "widths": [3.0, 7.0, 7.0], "head": ["Werkwoord", "Toestand (simple)", "Handeling (continuous)"], "rows": [
+  ["think", "I think he's right. (mening)", "I'm thinking about moving. (overwegen)"],
+  ["have", "She has two cars. (bezit)", "She's having a shower / lunch. (activiteit)"],
+  ["see", "I see what you mean. (begrijpen)", "I'm seeing the doctor at four. (afspraak)"],
+  ["taste", "This soup tastes salty. (smaak)", "He's tasting the soup. (proeven)"],
+  ["be", "He is rude. (karakter)", "He's being rude. (gedrag nu)"],
+  ["weigh", "The bag weighs ten kilos.", "She's weighing the flour."],
+  ["appear", "It appears to be broken. (lijken)", "She's appearing in a new film. (optreden)"]]},
+ {"type": "callout", "kind": "dutch", "title": "He's being silly", "text": "<b>be</b> in de continuous beschrijft tijdelijk gedrag, niet karakter: <i>You're being very quiet today</i> = je bent vandaag erg stil (anders dan normaal). Het Nederlands heeft daar geen aparte vorm voor."},
+
+ {"type": "h1", "text": "2. always + continuous: ergernis"},
+ {"type": "p", "text": "Met <b>always, constantly, forever</b> + continuous klaag je over iets dat vaak gebeurt: <i>He's <b>always leaving</b> his socks on the floor! You're <b>constantly interrupting</b> me.</i> Dezelfde zin in de simple is neutraal: <i>He always leaves at eight.</i>"},
+
+ {"type": "h1", "text": "3. Het verleden voor afstand en beleefdheid"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Effect"], "rows": [
+  ["I was wondering if you could help me.", "heel beleefd verzoek (eigenlijk nu)"],
+  ["I wanted to ask you something.", "zachter dan I want to ask"],
+  ["Did you want a drink?", "beleefd aanbod in een winkel of café"],
+  ["I was hoping we could talk.", "voorzichtig voorstel"],
+  ["I'd hoped to finish today.", "een hoop die niet uitkwam"]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik wilde even vragen ...", "text": "Het Nederlands kent dit ook: <i>Ik wilde even vragen of ...</i> Het Engels gaat nog verder met de continuous: <b>I was just wondering whether ...</b> is de meest beleefde manier om iets te vragen."},
+
+ {"type": "h1", "text": "4. Simple of continuous: de nuance"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Simple", "Continuous"], "rows": [
+  ["I live in Bristol. (vast)", "I'm living in Bristol for now. (tijdelijk)"],
+  ["I've read your report. (af)", "I've been reading your report. (bezig, misschien niet af)"],
+  ["What did you do last night? (de handeling)", "What were you doing at nine? (bezig op een moment)"],
+  ["I hope you will come.", "We'll be seeing you soon. (vanzelfsprekend, informeel)"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I'm thinking that he's right.", "I think that he's right.", "Een mening: simple."],
+  ["She is having a lot of money.", "She has a lot of money.", "Bezit: simple."],
+  ["This cake is tasting wonderful.", "This cake tastes wonderful.", "Smaak: simple."],
+  ["He always is complaining.", "He is always complaining.", "always tussen be en -ing."],
+  ["I wonder if you can help me.", "I was wondering if you could help me.", "Het beleefdst met het verleden.", "advice"],
+  ["I'm knowing him for years.", "I've known him for years.", "know krijgt geen continuous."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de simple of de continuous in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ about changing my job.", "hint": "think, overwegen", "a": "am thinking", "full": "I am thinking about changing my job."},
+  {"q": "I ______ you're making a mistake.", "hint": "think, mening", "a": "think", "full": "I think you're making a mistake."},
+  {"q": "We ______ dinner when you called.", "hint": "have, activiteit", "a": "were having", "full": "We were having dinner when you called."},
+  {"q": "You ______ very quiet today. Is anything wrong?", "hint": "be, gedrag nu", "a": "are being", "full": "You are being very quiet today. Is anything wrong?"},
+  {"q": "This milk ______ sour.", "hint": "taste", "a": "tastes", "full": "This milk tastes sour."},
+  {"q": "He's always ______ his keys!", "hint": "lose, ergernis", "a": "losing", "full": "He's always losing his keys!"},
+  {"q": "I was ______ if you could give me some advice.", "hint": "wonder", "a": "wondering", "full": "I was wondering if you could give me some advice."},
+  {"q": "I ______ the dentist tomorrow at ten.", "hint": "see, afspraak", "a": "am seeing", "full": "I am seeing the dentist tomorrow at ten."},
+  {"q": "I ______ what you mean.", "hint": "see, begrijpen", "a": "see", "full": "I see what you mean."},
+  {"q": "She ______ in a flat until her house is ready.", "hint": "live, tijdelijk", "a": "is living", "full": "She is living in a flat until her house is ready."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik denk erover om te verhuizen.", "a": "I'm thinking about moving."},
+  {"q": "Hij laat altijd zijn sokken liggen!", "a": "He's always leaving his socks on the floor!"},
+  {"q": "Ik vroeg me af of u me kon helpen.", "a": "I was wondering if you could help me."},
+  {"q": "Je doet vandaag erg vervelend.", "a": "You're being very annoying today."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

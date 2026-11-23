@@ -1,0 +1,74 @@
+{"meta": {"level": "C1", "section": "Grammatica", "number": 2, "total_in_level": 10,
+ "title": "Inversie en nadruk",
+ "subtitle": "Never have I, not only ... but also, gespleten zinnen en do voor nadruk",
+ "footer": "Language Learning · C1 · Grammatica · Inversie en nadruk",
+ "next": "Volgende: C1 · pdf 3 — Gevorderde verbindingswoorden en tekststructuur"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "inversie gebruiken na ontkennende en beperkende woorden (<i>Never have I seen ...</i>)",
+  "voorwaardelijke zinnen zonder if maken (<i>Had I known ...</i>)",
+  "nadruk leggen met gespleten zinnen (<i>What I need is ...</i>)",
+  "<b>do / does / did</b> gebruiken voor nadruk"]},
+
+ {"type": "h1", "text": "1. Inversie na ontkennende woorden"},
+ {"type": "p", "text": "In formeel en literair Engels kun je een zin beginnen met een ontkennend of beperkend woord. Dan volgt een <b>vraagvolgorde</b>: hulpwerkwoord vóór het onderwerp."},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Begin", "Voorbeeld", "Nederlands"], "rows": [
+  ["Never", "Never have I seen such a mess.", "Nog nooit heb ik zo'n rommel gezien."],
+  ["Rarely / Seldom", "Rarely do we get such good weather.", "Zelden hebben we zulk mooi weer."],
+  ["Not only ... but also", "Not only is it cheap, but it's also fast.", "Het is niet alleen goedkoop, maar ook snel."],
+  ["Hardly ... when", "Hardly had I arrived when it started to rain.", "Ik was nauwelijks aangekomen of het begon te regenen."],
+  ["No sooner ... than", "No sooner had we left than the phone rang.", "We waren net weg toen de telefoon ging."],
+  ["Under no circumstances", "Under no circumstances should you open this door.", "Onder geen beding mag je deze deur openen."],
+  ["Only then / Only when", "Only then did I understand.", "Pas toen begreep ik het."],
+  ["Little", "Little did she know what was coming.", "Ze had geen idee wat er ging gebeuren."]]},
+ {"type": "callout", "kind": "dutch", "title": "Hier lijkt het Engels op het Nederlands", "text": "Het Nederlands keert altijd om na een woord vooraan: <i>Nooit heb ik ...</i>. Het Engels doet dat alleen na deze ontkennende woorden, en gebruikt een hulpwerkwoord: <b>Never have I</b>, <b>Rarely do we</b>. Na gewone woorden als yesterday blijft de volgorde normaal (zie A1 · pdf 8)."},
+
+ {"type": "h1", "text": "2. Voorwaarde zonder if"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Met inversie (formeel)", "Gewoon"], "rows": [
+  ["Had I known, I would have come.", "If I had known, I would have come."],
+  ["Were I in your position, I would resign.", "If I were in your position, I would resign."],
+  ["Should you need help, call this number.", "If you need help, call this number."]]},
+
+ {"type": "h1", "text": "3. Gespleten zinnen"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Patroon", "Voorbeeld", "Nederlands"], "rows": [
+  ["It is / was ... that / who", "It was Tom who broke the window.", "Het was Tom die het raam brak."],
+  ["What ... is / was", "What I need is a holiday.", "Wat ik nodig heb, is vakantie."],
+  ["All ... is / was", "All I want is some peace.", "Het enige wat ik wil, is wat rust."],
+  ["The thing / reason ... is", "The reason I'm late is that I missed the bus.", "De reden dat ik te laat ben, is dat ik de bus miste."],
+  ["What happened was", "What happened was that the car broke down.", "Wat er gebeurde, was dat de auto kapotging."]]},
+
+ {"type": "h1", "text": "4. do voor nadruk"},
+ {"type": "p", "text": "In een bevestigende zin kun je <b>do, does</b> of <b>did</b> toevoegen om iets te benadrukken of tegen te spreken: <i>I <b>do</b> like your dress!</i> (Ik vind je jurk echt mooi.) <i>She <b>did</b> call you; you just didn't hear it.</i> <b>Do</b> sit down. (Gaat u toch zitten.)"},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Never I have seen this.", "Never have I seen this.", "Na never vooraan: inversie."],
+  ["Rarely we go out.", "Rarely do we go out.", "Inversie met do."],
+  ["Not only it is cheap, but also fast.", "Not only is it cheap, but it is also fast.", "Na not only: inversie."],
+  ["No sooner we had left when it rained.", "No sooner had we left than it rained.", "No sooner had ... than."],
+  ["What I need it is a rest.", "What I need is a rest.", "Geen extra it."],
+  ["If I would have known, I would have come.", "Had I known, I would have come.", "Formeel zonder if: Had I known."],
+  ["I do liked it.", "I did like it.", "Na did: kaal werkwoord."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Never ______ I heard such nonsense.", "hint": "have", "a": "have", "full": "Never have I heard such nonsense."},
+  {"q": "Rarely ______ we see snow in this area.", "hint": "hulpwerkwoord", "a": "do", "full": "Rarely do we see snow in this area."},
+  {"q": "Not only ______ she clever, but she is also kind.", "hint": "be", "a": "is", "full": "Not only is she clever, but she is also kind."},
+  {"q": "No sooner had I sat down ______ the phone rang.", "hint": "voegwoord", "a": "than", "full": "No sooner had I sat down than the phone rang."},
+  {"q": "______ I known, I would have helped.", "hint": "zonder if", "a": "Had", "full": "Had I known, I would have helped."},
+  {"q": "______ you have any questions, please contact us.", "hint": "zonder if, formeel", "a": "Should", "full": "Should you have any questions, please contact us."},
+  {"q": "______ I need is a long holiday.", "hint": "wat", "a": "What", "full": "What I need is a long holiday."},
+  {"q": "It was my sister ______ told me the news.", "hint": "persoon", "a": "who", "full": "It was my sister who told me the news."},
+  {"q": "Only then ______ I realise my mistake.", "hint": "hulpwerkwoord, past", "a": "did", "full": "Only then did I realise my mistake."},
+  {"q": "I ______ remember locking the door!", "hint": "nadruk", "a": "do", "full": "I do remember locking the door!"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Nog nooit heb ik zoiets gezien.", "a": "Never have I seen anything like it."},
+  {"q": "Wat ik nodig heb, is rust.", "a": "What I need is rest."},
+  {"q": "Het was Tom die het raam brak.", "a": "It was Tom who broke the window."},
+  {"q": "Had ik het maar geweten, dan was ik gekomen.", "a": "Had I known, I would have come."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
