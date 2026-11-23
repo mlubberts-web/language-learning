@@ -603,5 +603,27 @@
   "subtitle": "Rapporten, voorstellen en brieven; zakelijke en juridische formuleringen",
   "content": "c2_06_formal_writing.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_07_Uitdrukkingen_slang_en_spreektaal",
+  "file": "C2_07_Uitdrukkingen_slang_en_spreektaal.pdf",
+  "level": "C2",
+  "number": 7,
+  "section": "Woordenschat",
+  "title": "Uitdrukkingen, slang en spreektaal",
+  "subtitle": "Britse spreektaal, idiomen, stopwoorden en informele registers",
+  "content": "c2_07_idioms_slang.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_08_De_herkomst_van_woorden",
+  "file": "C2_08_De_herkomst_van_woorden.pdf",
+  "level": "C2",
+  "number": 8,
+  "section": "Woordenschat",
+  "title": "De herkomst van woorden",
+  "subtitle": "Germaanse en Latijnse lagen, Nederlandse leenwoorden in het Engels, en woordfamilies",
+  "content": "c2_08_word_origins.json",
+  "exercise_count": 10
  }
 ]

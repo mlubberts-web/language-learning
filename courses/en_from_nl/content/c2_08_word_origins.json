@@ -1,0 +1,65 @@
+{"meta": {"level": "C2", "section": "Woordenschat", "number": 8, "total_in_level": 10,
+ "title": "De herkomst van woorden",
+ "subtitle": "Germaanse en Latijnse lagen, Nederlandse leenwoorden in het Engels, en woordfamilies",
+ "footer": "Language Learning · C2 · Woordenschat · Herkomst van woorden",
+ "next": "Volgende: C2 · pdf 9 — Vakwoordenschat"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het verschil tussen Germaanse en Latijnse woorden herkennen en gebruiken",
+  "Nederlandse woorden in het Engels herkennen",
+  "onbekende woorden ontcijferen via stammen",
+  "het juiste register kiezen door je woordkeus"]},
+
+ {"type": "h1", "text": "1. Twee lagen: Germaans en Latijns"},
+ {"type": "p", "text": "Het Engels is een Germaanse taal, net als het Nederlands, maar na 1066 kwamen er duizenden Franse en Latijnse woorden bij. Daardoor zijn er vaak twee woorden voor hetzelfde: een kort, alledaags <b>Germaans</b> woord en een langer, formeler <b>Latijns</b> woord."},
+ {"type": "table", "style": "plain", "widths": [4.6, 4.6, 7.8], "head": ["Germaans (alledaags)", "Latijns / Frans (formeel)", "Nederlands"], "rows": [
+  ["ask", "enquire, request", "vragen"],
+  ["buy", "purchase", "kopen"],
+  ["help", "assist", "helpen"],
+  ["begin", "commence", "beginnen"],
+  ["end", "terminate, conclude", "eindigen"],
+  ["freedom", "liberty", "vrijheid"],
+  ["deep", "profound", "diep"],
+  ["house", "residence", "huis"]]},
+ {"type": "callout", "kind": "dutch", "title": "Een voordeel voor Nederlanders", "text": "De Germaanse kernwoorden lijken vaak op het Nederlands: <i>house</i> (huis), <i>water</i>, <i>bread</i> (brood), <i>drink</i> (drinken). De Latijnse woorden lijken weer op het Frans, en op Nederlandse leenwoorden: <i>commence</i>, <i>residence</i>, <i>profound</i>. Zo ken je meer dan je denkt."},
+
+ {"type": "h1", "text": "2. Nederlandse woorden in het Engels"},
+ {"type": "verbpairs", "title": "Uit het Nederlands", "items": [
+  ["yacht", "jacht"], ["skipper", "schipper"], ["cookie", "koekje"], ["boss", "baas"],
+  ["landscape", "landschap"], ["easel", "ezel (schildersezel)"], ["brandy", "brandewijn"], ["deck", "dek"],
+  ["sketch", "schets"], ["snoop", "snoepen, rondsnuffelen"], ["coleslaw", "koolsla"], ["dyke", "dijk"]]},
+ {"type": "callout", "kind": "tip", "title": "Uit de scheepvaart en de schilderkunst", "text": "Veel van deze woorden komen uit de 17e eeuw, toen Nederland groot was in de scheepvaart en de schilderkunst: <i>yacht, skipper, deck</i> en <i>landscape, easel, sketch</i>. <i>cookie</i> en <i>boss</i> kwamen via Nieuw-Amsterdam (New York) in het Amerikaans Engels."},
+
+ {"type": "h1", "text": "3. Latijnse en Griekse stammen"},
+ {"type": "table", "style": "plain", "widths": [3.2, 4.4, 9.4], "head": ["Stam", "Betekenis", "Voorbeelden"], "rows": [
+  ["dict", "zeggen", "dictate, predict, contradict"],
+  ["port", "dragen", "transport, export, portable"],
+  ["scrib / script", "schrijven", "describe, manuscript, prescription"],
+  ["spect", "kijken", "inspect, spectator, perspective"],
+  ["bene", "goed", "benefit, beneficial, benevolent"],
+  ["chron", "tijd", "chronic, chronology, synchronise"],
+  ["phil", "houden van", "philosophy, philanthropist"],
+  ["graph", "schrijven", "photograph, biography, autograph"]]},
+
+ {"type": "h1", "text": "4. Zelftoets"},
+ {"type": "p", "text": "Vul het formele (Latijnse) woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "You can ______ tickets online. (buy)", "hint": "formeel", "a": "purchase", "full": "You can purchase tickets online. (buy)"},
+  {"q": "The ceremony will ______ at ten. (begin)", "hint": "formeel", "a": "commence", "full": "The ceremony will commence at ten. (begin)"},
+  {"q": "Staff will ______ you with your luggage. (help)", "hint": "formeel", "a": "assist", "full": "Staff will assist you with your luggage. (help)"},
+  {"q": "I would like to ______ about your prices. (ask)", "hint": "formeel", "a": "enquire", "full": "I would like to enquire about your prices. (ask)"},
+  {"q": "The war had a ______ effect on the country. (deep)", "hint": "formeel", "a": "profound", "full": "The war had a profound effect on the country. (deep)"},
+  {"q": "The doctor gave me a ______ for antibiotics.", "hint": "scrib / script", "a": "prescription", "full": "The doctor gave me a prescription for antibiotics."},
+  {"q": "Nobody can ______ the future.", "hint": "dict: voorspellen", "a": "predict", "full": "Nobody can predict the future."},
+  {"q": "Regular exercise is ______ for your health.", "hint": "bene: goed", "a": "beneficial", "full": "Regular exercise is beneficial for your health."},
+  {"q": "They sailed around the island in a ______.", "hint": "uit het Nederlands: jacht", "a": "yacht", "full": "They sailed around the island in a yacht."},
+  {"q": "He suffers from a ______ illness.", "hint": "chron: langdurig", "a": "chronic", "full": "He suffers from a chronic illness."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (formeel):</b>"},
+ {"type": "translations", "items": [
+  {"q": "U kunt kaartjes online kopen.", "a": "You can purchase tickets online."},
+  {"q": "De vergadering begint om negen uur.", "a": "The meeting will commence at nine."},
+  {"q": "Lichaamsbeweging is goed voor je gezondheid.", "a": "Exercise is beneficial for your health."},
+  {"q": "Niemand kan de toekomst voorspellen.", "a": "Nobody can predict the future."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

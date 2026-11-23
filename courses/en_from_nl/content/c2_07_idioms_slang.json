@@ -1,0 +1,68 @@
+{"meta": {"level": "C2", "section": "Woordenschat", "number": 7, "total_in_level": 10,
+ "title": "Uitdrukkingen, slang en spreektaal",
+ "subtitle": "Britse spreektaal, idiomen, stopwoorden en informele registers",
+ "footer": "Language Learning · C2 · Woordenschat · Spreektaal",
+ "next": "Volgende: C2 · pdf 8 — De herkomst van woorden"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "veelgebruikte Britse spreektaal en slang begrijpen",
+  "idiomen gebruiken op de juiste plek",
+  "stopwoorden en gesprekswoorden herkennen",
+  "wisselen tussen informeel en neutraal register"]},
+ {"type": "p", "text": "<b>Let op:</b> deze woorden moet je vooral <b>herkennen</b>. Gebruik ze alleen met mensen die je goed kent; in een examen of formele tekst horen ze niet thuis."},
+
+ {"type": "h1", "text": "1. Britse spreektaal"},
+ {"type": "verbpairs", "title": "Woorden die je overal hoort", "items": [
+  ["mate", "maat, vriend"], ["cheers", "bedankt, proost, doei"], ["brilliant", "geweldig"], ["knackered", "doodmoe"],
+  ["gutted", "erg teleurgesteld"], ["chuffed", "blij, trots"], ["skint", "blut"], ["dodgy", "louche, onbetrouwbaar"],
+  ["to fancy", "zin hebben in, leuk vinden"], ["a quid", "een pond"], ["a cuppa", "een kopje thee"], ["to have a go", "het proberen"],
+  ["rubbish", "onzin, slecht"], ["loo", "wc"], ["bloke", "vent, man"], ["to reckon", "denken, vinden"]]},
+ {"type": "callout", "kind": "dutch", "title": "Cheers betekent drie dingen", "text": "Een Brit zegt <b>cheers</b> als hij proost, als hij bedankt (<i>Cheers, mate!</i>) en soms als hij weggaat. En <b>brilliant</b> betekent in spreektaal gewoon <i>top, super</i>, niet altijd <i>briljant</i>."},
+
+ {"type": "h1", "text": "2. Idiomen"},
+ {"type": "verbpairs", "title": "Veelgebruikte idiomen", "items": [
+  ["to beat around the bush", "om de hete brij heen draaien"], ["to bite the bullet", "door de zure appel heen bijten"], ["to call it a day", "ermee ophouden voor vandaag"],
+  ["to cut corners", "de kantjes eraf lopen"], ["to get cold feet", "koudwatervrees krijgen"], ["to pull someone's leg", "iemand in de maling nemen"],
+  ["to sit on the fence", "geen kant kiezen"], ["to spill the beans", "het geheim verklappen"], ["the ball is in your court", "nu ben jij aan zet"],
+  ["a blessing in disguise", "een geluk bij een ongeluk"], ["to go the extra mile", "een stapje extra doen"], ["to miss the boat", "de boot missen"]]},
+ {"type": "callout", "kind": "tip", "title": "Gelijke idiomen", "text": "Sommige idiomen zijn hetzelfde als in het Nederlands: <i>to miss the boat</i> (de boot missen), <i>to break the ice</i> (het ijs breken). Andere lijken alleen maar hetzelfde. Controleer altijd de betekenis voordat je een Nederlands idioom letterlijk vertaalt."},
+
+ {"type": "h1", "text": "3. Stopwoorden en gesprekswoorden"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.0, 7.0], "head": ["Woord", "Functie", "Voorbeeld"], "rows": [
+  ["like", "aarzeling, citaat", "And she was like, \"No way!\""],
+  ["you know", "contact met de luisteraar", "It's, you know, a bit complicated."],
+  ["I mean", "uitleg, correctie", "It's cheap. I mean, not really cheap, but okay."],
+  ["sort of / kind of", "vaagheid", "I sort of agree."],
+  ["anyway", "terug naar het onderwerp", "Anyway, as I was saying ..."],
+  ["right", "begin, bevestiging", "Right, let's get started."]]},
+
+ {"type": "h1", "text": "4. Informeel en neutraal"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Informeel", "Neutraal", "Nederlands"], "rows": [
+  ["I'm knackered.", "I'm very tired.", "Ik ben doodmoe."],
+  ["I'm skint.", "I haven't got any money.", "Ik ben blut."],
+  ["That's rubbish.", "That's not true / not good.", "Dat is onzin."],
+  ["Do you fancy a pint?", "Would you like a drink?", "Zin in een biertje?"],
+  ["I reckon he's right.", "I think he's right.", "Ik denk dat hij gelijk heeft."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I worked twelve hours today. I'm absolutely ______.", "hint": "doodmoe", "a": "knackered", "full": "I worked twelve hours today. I'm absolutely knackered."},
+  {"q": "She was ______ when she didn't get the job.", "hint": "erg teleurgesteld", "a": "gutted", "full": "She was gutted when she didn't get the job."},
+  {"q": "Do you ______ a cup of tea?", "hint": "zin hebben in", "a": "fancy", "full": "Do you fancy a cup of tea?"},
+  {"q": "Stop beating around the ______ and tell me.", "hint": "om de hete brij", "a": "bush", "full": "Stop beating around the bush and tell me."},
+  {"q": "It's late. Let's call it a ______.", "hint": "ophouden voor vandaag", "a": "day", "full": "It's late. Let's call it a day."},
+  {"q": "Who spilled the ______ about the party?", "hint": "het geheim verklappen", "a": "beans", "full": "Who spilled the beans about the party?"},
+  {"q": "I've made my offer. The ball is in your ______.", "hint": "jij bent aan zet", "a": "court", "full": "I've made my offer. The ball is in your court."},
+  {"q": "He got cold ______ the day before the wedding.", "hint": "koudwatervrees", "a": "feet", "full": "He got cold feet the day before the wedding."},
+  {"q": "Losing that job was a blessing in ______.", "hint": "geluk bij een ongeluk", "a": "disguise", "full": "Losing that job was a blessing in disguise."},
+  {"q": "I ______ it'll rain later.", "hint": "denken (spreektaal)", "a": "reckon", "full": "I reckon it'll rain later."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (spreektaal):</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik ben blut.", "a": "I'm skint."},
+  {"q": "Laten we er voor vandaag mee ophouden.", "a": "Let's call it a day."},
+  {"q": "Je neemt me in de maling!", "a": "You're pulling my leg!"},
+  {"q": "Zin in een kopje thee?", "a": "Do you fancy a cup of tea?"}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
