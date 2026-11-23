@@ -295,5 +295,16 @@
   "subtitle": "Hij zegt dat ..., Ze vraagt of ..., el orden en las preguntas indirectas, y zeggen tegen",
   "content": "b1_08_indirect_speech.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_09_Los_conectores",
+  "file": "B1_09_Los_conectores.pdf",
+  "level": "B1",
+  "number": 9,
+  "section": "Gramática",
+  "title": "Los conectores",
+  "subtitle": "maar, want, dus, daarom, toch, hoewel, zodat: tres grupos, tres órdenes",
+  "content": "b1_09_linking_words.json",
+  "exercise_count": 12
  }
 ]
