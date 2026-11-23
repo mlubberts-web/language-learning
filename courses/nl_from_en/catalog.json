@@ -570,5 +570,16 @@
   "subtitle": "Stacked clauses, hoe ... ook and wat ... ook, al and ook al, nu, naarmate, zonder dat, and keeping long sentences clear",
   "content": "c2_03_complex_sentences.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_04_Verb_patterns_in_depth",
+  "file": "C2_04_Verb_patterns_in_depth.pdf",
+  "level": "C2",
+  "number": 4,
+  "section": "Grammar",
+  "title": "Verb patterns in depth",
+  "subtitle": "Reporting verbs (beschuldigen van, aanraden om te), laten and doen, and verbs of perception",
+  "content": "c2_04_verb_patterns.json",
+  "exercise_count": 12
  }
 ]
