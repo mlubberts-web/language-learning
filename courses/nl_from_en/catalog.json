@@ -460,5 +460,16 @@
   "subtitle": "desondanks, enerzijds ... anderzijds, mits, aangezien; hedging; and guiding the reader through a text",
   "content": "c1_03_linking_text_structure.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_04_Nominal_style_and_academic_Dutch",
+  "file": "C1_04_Nominal_style_and_academic_Dutch.pdf",
+  "level": "C1",
+  "number": 4,
+  "section": "Writing",
+  "title": "Nominal style and academic Dutch",
+  "subtitle": "Nominalisation, formal prepositional phrases, er is sprake van, formal vocabulary and the CNaVT PAT tasks",
+  "content": "c1_04_nominal_academic.json",
+  "exercise_count": 12
  }
 ]
