@@ -1,0 +1,413 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Gramática",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Las preposiciones",
+  "subtitle": "in, op, aan, bij y naar; preposiciones de tiempo y lugar; thuis y naar huis",
+  "footer": "Language Learning · A2 · Gramática · Las preposiciones",
+  "next": "Siguiente: A2 · pdf 8 — Comparar y los números"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre <b>in, op, aan</b> y <b>bij</b> para los lugares",
+    "usar <b>om, op, in</b> con las horas, los días y los meses",
+    "decir adónde vas con <b>naar</b>, y de dónde vienes con <b>uit</b> y <b>van</b>",
+    "usar las combinaciones fijas más frecuentes (<i>wachten op, kijken naar</i>)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Lugar: in, op, aan, bij"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    6.6,
+    8.0
+   ],
+   "head": [
+    "Palabra",
+    "Uso",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "in",
+     "dentro de algo; ciudades y países",
+     "in de kamer, in de auto, in Utrecht, in Spanje"
+    ],
+    [
+     "op",
+     "encima de una superficie; muchos lugares y actos",
+     "op tafel, op de bank, op school, op het werk, op het station, op een feest"
+    ],
+    [
+     "aan",
+     "contra algo o pegado a algo; junto al agua",
+     "aan de muur, aan tafel, aan zee, aan de deur"
+    ],
+    [
+     "bij",
+     "cerca de; en casa de alguien o en una tienda",
+     "bij het station, bij mijn ouders, bij de bakker, bij Philips"
+    ],
+    [
+     "naar",
+     "a, hacia (dirección)",
+     "naar huis, naar school, naar Londen, naar de dokter"
+    ],
+    [
+     "uit",
+     "de (origen), fuera de",
+     "uit Spanje, uit het raam"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Un 'en' español, varias palabras neerlandesas",
+   "text": "El español dice <i>en</i> casi siempre. El neerlandés distingue: <i>en la habitación</i> = <b>in de kamer</b>, <i>en la mesa</i> = <b>op tafel</b>, <i>en el colegio, en el trabajo, en la estación</i> = <b>op school, op het werk, op het station</b>, <i>en la pared</i> = <b>aan de muur</b>, <i>en casa de mis padres</i> = <b>bij mijn ouders</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿thuis o naar huis?",
+   "text": "<b>thuis</b> significa <i>en casa</i>: <i>Ik ben thuis.</i> <b>naar huis</b> significa <i>a casa</i> (dirección): <i>Ik ga naar huis.</i> Nunca <i>Ik ga thuis</i> ni <i>Ik ben naar huis</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Preposiciones de lugar",
+   "items": [
+    [
+     "naast",
+     "al lado de"
+    ],
+    [
+     "tussen",
+     "entre"
+    ],
+    [
+     "achter",
+     "detrás de"
+    ],
+    [
+     "voor",
+     "delante de"
+    ],
+    [
+     "tegenover",
+     "enfrente de"
+    ],
+    [
+     "onder",
+     "debajo de"
+    ],
+    [
+     "boven",
+     "encima de"
+    ],
+    [
+     "tegen",
+     "contra"
+    ],
+    [
+     "door",
+     "a través de, por"
+    ],
+    [
+     "langs",
+     "a lo largo de, por delante de"
+    ],
+    [
+     "rond",
+     "alrededor de"
+    ],
+    [
+     "over",
+     "sobre, por encima de"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tiempo: om, op, in"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.4,
+    8.0
+   ],
+   "head": [
+    "Palabra",
+    "Uso",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "om",
+     "las horas",
+     "om acht uur, om half tien"
+    ],
+    [
+     "op",
+     "días y fechas",
+     "op maandag, op 5 mei, op mijn verjaardag"
+    ],
+    [
+     "in",
+     "meses, años, estaciones",
+     "in mei, in 2024, in de zomer"
+    ],
+    [
+     "'s",
+     "partes del día (forma antigua)",
+     "'s ochtends, 's middags, 's avonds, 's nachts"
+    ],
+    [
+     "in het",
+     "el fin de semana",
+     "in het weekend"
+    ],
+    [
+     "over",
+     "dentro de (desde ahora)",
+     "over een uur, over twee weken"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "'s ochtends = por la mañana",
+   "text": "Las formas <b>'s ochtends, 's middags, 's avonds, 's nachts</b> significan <i>por la mañana, por la tarde, por la noche, de madrugada</i>, y también <i>todas las mañanas</i>: <i>'s Ochtends drink ik koffie.</i> Para un día concreto: <i>vanochtend, vanmiddag, vanavond, vannacht</i> (esta mañana, esta tarde ...). Ojo: <i>el lunes</i> lleva preposición: <b>op maandag</b>; <i>a las ocho</i> = <b>om acht uur</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Combinaciones fijas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos con preposición fija",
+   "items": [
+    [
+     "wachten op",
+     "esperar"
+    ],
+    [
+     "kijken naar",
+     "mirar, ver"
+    ],
+    [
+     "luisteren naar",
+     "escuchar"
+    ],
+    [
+     "denken aan",
+     "pensar en"
+    ],
+    [
+     "praten over",
+     "hablar de"
+    ],
+    [
+     "houden van",
+     "querer, gustar mucho"
+    ],
+    [
+     "zoeken naar",
+     "buscar"
+    ],
+    [
+     "vragen om",
+     "pedir"
+    ],
+    [
+     "helpen met",
+     "ayudar con"
+    ],
+    [
+     "beginnen met",
+     "empezar por"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Verbos sin preposición en español",
+   "text": "<i>esperar, mirar, escuchar, buscar, pedir</i> no llevan preposición en español, pero en neerlandés sí: <b>wachten op</b>, <b>kijken naar</b>, <b>luisteren naar</b>, <b>zoeken naar</b> (o solo <b>zoeken</b>), <b>vragen om</b>. Y <i>pensar en</i> es <b>denken aan</b>, no <i>denken in</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ben in school.",
+     "Ik ben op school.",
+     "En el colegio: op school."
+    ],
+    [
+     "Ik ga thuis.",
+     "Ik ga naar huis.",
+     "Dirección: naar huis."
+    ],
+    [
+     "Ik wacht de bus.",
+     "Ik wacht op de bus.",
+     "wachten op."
+    ],
+    [
+     "Ik denk in jou.",
+     "Ik denk aan jou.",
+     "denken aan."
+    ],
+    [
+     "in maandag",
+     "op maandag",
+     "Días: op."
+    ],
+    [
+     "op acht uur",
+     "om acht uur",
+     "Horas: om."
+    ],
+    [
+     "Ik kom van Spanje.",
+     "Ik kom uit Spanje.",
+     "País de origen: uit."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la preposición correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De les begint ______ negen uur.",
+     "hint": "la hora",
+     "a": "om",
+     "full": "De les begint om negen uur."
+    },
+    {
+     "q": "Mijn verjaardag is ______ juni.",
+     "hint": "mes",
+     "a": "in",
+     "full": "Mijn verjaardag is in juni."
+    },
+    {
+     "q": "We hebben een vergadering ______ vrijdag.",
+     "hint": "día",
+     "a": "op",
+     "full": "We hebben een vergadering op vrijdag."
+    },
+    {
+     "q": "Mijn zoon is ______ school.",
+     "hint": "en el colegio",
+     "a": "op",
+     "full": "Mijn zoon is op school."
+    },
+    {
+     "q": "Het schilderij hangt ______ de muur.",
+     "hint": "en la pared",
+     "a": "aan",
+     "full": "Het schilderij hangt aan de muur."
+    },
+    {
+     "q": "Ik logeer ______ mijn ouders.",
+     "hint": "en casa de mis padres",
+     "a": "bij",
+     "full": "Ik logeer bij mijn ouders."
+    },
+    {
+     "q": "We gaan morgen ______ Londen.",
+     "hint": "a",
+     "a": "naar",
+     "full": "We gaan morgen naar Londen."
+    },
+    {
+     "q": "Hij komt ______ Schotland.",
+     "hint": "de, país",
+     "a": "uit",
+     "full": "Hij komt uit Schotland."
+    },
+    {
+     "q": "Ik wacht al een uur ______ de trein.",
+     "hint": "esperar",
+     "a": "op",
+     "full": "Ik wacht al een uur op de trein."
+    },
+    {
+     "q": "Luister je ______ de radio?",
+     "hint": "escuchar",
+     "a": "naar",
+     "full": "Luister je naar de radio?"
+    },
+    {
+     "q": "Ik ben vandaag de hele dag ______.",
+     "hint": "en casa",
+     "a": "thuis",
+     "full": "Ik ben vandaag de hele dag thuis."
+    },
+    {
+     "q": "De bank staat ______ het station.",
+     "hint": "enfrente de",
+     "a": "tegenover",
+     "full": "De bank staat tegenover het station."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy en el trabajo.",
+     "a": "Ik ben op het werk."
+    },
+    {
+     "q": "Me voy a casa.",
+     "a": "Ik ga naar huis."
+    },
+    {
+     "q": "Estamos esperando el autobús.",
+     "a": "We wachten op de bus."
+    },
+    {
+     "q": "La película empieza a las ocho.",
+     "a": "De film begint om acht uur."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
