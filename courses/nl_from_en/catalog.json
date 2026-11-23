@@ -284,5 +284,16 @@
   "subtitle": "In every position, with te and in the perfect; inseparable prefixes be-, ver-, her-, ont-; and stress",
   "content": "b1_07_separable_verbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_08_Indirect_speech_and_questions",
+  "file": "B1_08_Indirect_speech_and_questions.pdf",
+  "level": "B1",
+  "number": 8,
+  "section": "Grammar",
+  "title": "Indirect speech and questions",
+  "subtitle": "Hij zegt dat ..., Ze vraagt of ..., the word order in indirect questions, and zeggen tegen",
+  "content": "b1_08_indirect_speech.json",
+  "exercise_count": 12
  }
 ]
