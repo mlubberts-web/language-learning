@@ -1,0 +1,63 @@
+{
+ "meta": {"level": "C1", "section": "Culture", "number": 9, "total_in_level": 10,
+  "title": "Dutch in society",
+  "subtitle": "Directness, birthdays and agendas, humour, and the vocabulary of politics and the media",
+  "footer": "Language Learning · C1 · Culture · Dutch in society",
+  "next": "Next: C1 · pdf 10 — Vocabulary"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "understand Dutch directness and react to it",
+   "behave and speak appropriately at a Dutch birthday party",
+   "follow political news (<i>de Tweede Kamer, het kabinet</i>)",
+   "talk about the media and current affairs"]},
+  {"type": "h1", "text": "1. Directness"},
+  {"type": "p", "text": "The Dutch value <b>directness</b> (<i>direct zijn, zeggen waar het op staat</i>): they give their opinion openly, also to their boss, and see this as honesty, not rudeness. British speakers, used to understatement, can find this blunt; the Dutch, in turn, often miss the criticism hidden in British politeness."},
+  {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Dutch", "Literally", "What a Brit might say"], "rows": [
+   ["Dat is geen goed idee.", "That's not a good idea.", "That's an interesting idea."],
+   ["Dat klopt niet.", "That's not right.", "I'm not sure that's quite right."],
+   ["Ik ben het er niet mee eens.", "I don't agree.", "I see what you mean, but ..."],
+   ["Doe normaal.", "Act normal.", "Calm down, don't overdo it."]]},
+  {"type": "callout", "kind": "note", "title": "Doe maar gewoon, dan doe je al gek genoeg", "text": "This saying (<i>just act normal, that's crazy enough</i>) sums up a Dutch attitude: don't show off, don't be pretentious. Bragging about money or status is frowned upon. Modesty and plain speaking are valued."},
+  {"type": "h1", "text": "2. Birthdays and agendas"},
+  {"type": "p", "text": "At a Dutch birthday party (<b>verjaardag</b>) guests often sit in a circle (<b>de kring</b>). You congratulate not only the birthday person but also their family: <i><b>Gefeliciteerd met</b> je moeder!</i> (Congratulations on your mother's birthday!) Everything is planned: friends make appointments weeks ahead, and <b>de agenda</b> rules social life."},
+  {"type": "verbpairs", "title": "Social life", "items": [
+   ["Gefeliciteerd!", "Congratulations! Happy birthday!"], ["Gefeliciteerd met je zoon!", "Congratulations on your son's birthday!"],
+   ["een afspraak maken", "to make an appointment"], ["Ik kijk even in mijn agenda.", "Let me check my diary."],
+   ["Nederlands betalen", "to split the bill"], ["de borrel", "drinks (after work)"],
+   ["op de koffie komen", "to come round for coffee"], ["Het was gezellig!", "It was lovely!"]]},
+  {"type": "h1", "text": "3. Politics"},
+  {"type": "verbpairs", "title": "Politics in the Netherlands", "items": [
+   ["de Tweede Kamer", "House of Representatives"], ["de Eerste Kamer", "Senate"], ["het kabinet", "the cabinet, the government"],
+   ["de minister-president", "prime minister"], ["de verkiezingen", "the elections"], ["stemmen", "to vote"],
+   ["de partij", "party"], ["de coalitie", "coalition"], ["de oppositie", "opposition"], ["de gemeenteraad", "town council"],
+   ["de koning", "the King"], ["het wetsvoorstel", "bill (proposed law)"]]},
+  {"type": "callout", "kind": "tip", "title": "Coalitions and polder", "text": "No Dutch party ever has a majority, so governments are always coalitions, formed after long negotiations (<b>de formatie</b>). The Dutch habit of reaching compromise through talking is called the <b>poldermodel</b>: <i>overleggen</i> (consulting) until everyone can live with the result."},
+  {"type": "h1", "text": "4. The media"},
+  {"type": "verbpairs", "title": "News and media", "items": [
+   ["de krant", "newspaper"], ["het journaal", "TV news"], ["de kop", "headline"], ["het artikel", "article"],
+   ["de omroep", "broadcaster"], ["de verslaggever", "reporter"], ["de bron", "source"], ["het nepnieuws", "fake news"]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "______ met je verjaardag!", "hint": "congratulations", "a": "gefeliciteerd", "full": "Gefeliciteerd met je verjaardag!"},
+   {"q": "Gefeliciteerd ______ je vader!", "hint": "with", "a": "met", "full": "Gefeliciteerd met je vader!"},
+   {"q": "Ik kijk even in mijn ______ of ik tijd heb.", "hint": "diary", "a": "agenda", "full": "Ik kijk even in mijn agenda of ik tijd heb."},
+   {"q": "Zullen we ______ betalen? Iedereen betaalt voor zichzelf.", "hint": "split the bill", "a": "nederlands", "full": "Zullen we Nederlands betalen? Iedereen betaalt voor zichzelf."},
+   {"q": "Doe maar ______, dan doe je al gek genoeg.", "hint": "normal", "a": "gewoon", "full": "Doe maar gewoon, dan doe je al gek genoeg."},
+   {"q": "De ______ Kamer stemt volgende week over de nieuwe wet.", "hint": "second", "a": "tweede", "full": "De Tweede Kamer stemt volgende week over de nieuwe wet."},
+   {"q": "Na de verkiezingen begint de ______.", "hint": "forming a government", "a": "formatie", "full": "Na de verkiezingen begint de formatie."},
+   {"q": "Drie partijen vormen samen een ______.", "hint": "coalition", "a": "coalitie", "full": "Drie partijen vormen samen een coalitie."},
+   {"q": "Ik kijk elke avond naar het ______.", "hint": "TV news", "a": "journaal", "full": "Ik kijk elke avond naar het journaal."},
+   {"q": "Op vrijdag is er een ______ op kantoor.", "hint": "drinks", "a": "borrel", "full": "Op vrijdag is er een borrel op kantoor."},
+   {"q": "Het was een heel ______ avond.", "hint": "cosy, lovely", "a": "gezellige", "full": "Het was een heel gezellige avond."},
+   {"q": "Welke ______ noemt de journalist?", "hint": "source", "a": "bron", "full": "Welke bron noemt de journalist?"}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "Congratulations on your mother's birthday!", "a": "Gefeliciteerd met je moeder!"},
+   {"q": "Let me check my diary.", "a": "Ik kijk even in mijn agenda."},
+   {"q": "That's not a good idea.", "a": "Dat is geen goed idee."},
+   {"q": "the prime minister", "a": "de minister-president"}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

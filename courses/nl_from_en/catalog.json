@@ -515,5 +515,16 @@
   "subtitle": "d or t in verbs, compounds and hyphens, the trema, capitals, and Dutch commas",
   "content": "c1_08_spelling_punctuation.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_09_Dutch_in_society",
+  "file": "C1_09_Dutch_in_society.pdf",
+  "level": "C1",
+  "number": 9,
+  "section": "Culture",
+  "title": "Dutch in society",
+  "subtitle": "Directness, birthdays and agendas, humour, and the vocabulary of politics and the media",
+  "content": "c1_09_dutch_society.json",
+  "exercise_count": 12
  }
 ]
