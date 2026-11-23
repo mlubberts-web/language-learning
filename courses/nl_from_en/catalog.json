@@ -548,5 +548,16 @@
   "subtitle": "Rare and mixed strong verbs, the double infinitive in depth, and verbs with both hebben and zijn",
   "content": "c2_01_fine_points_grammar.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_02_Advanced_word_order",
+  "file": "C2_02_Advanced_word_order.pdf",
+  "level": "C2",
+  "number": 2,
+  "section": "Grammar",
+  "title": "Advanced word order",
+  "subtitle": "The order of pronouns (Ik heb het hem gegeven), red and green clusters, and clauses after the verbs",
+  "content": "c2_02_advanced_word_order.json",
+  "exercise_count": 10
  }
 ]
