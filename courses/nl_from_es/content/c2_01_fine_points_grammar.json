@@ -1,0 +1,434 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Detalles de la gramática",
+  "subtitle": "Verbos fuertes raros y mixtos, el doble infinitivo a fondo y los verbos que van con hebben y con zijn",
+  "footer": "Language Learning · C2 · Verbos · Detalles de la gramática",
+  "next": "Siguiente: C2 · pdf 2 — El orden avanzado"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar los verbos fuertes menos frecuentes (<i>bederven – bedierf – bedorven</i>)",
+    "usar los verbos mixtos (<i>lachen – lachte – gelachen</i>)",
+    "construir grupos verbales largos con el doble infinitivo",
+    "elegir entre <b>ik ben vergeten</b> e <b>ik heb vergeten</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos fuertes menos frecuentes"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    3.8,
+    6.0
+   ],
+   "head": [
+    "Infinitivo",
+    "Pasado",
+    "Participio",
+    "Español"
+   ],
+   "rows": [
+    [
+     "bederven",
+     "bedierf",
+     "bedorven",
+     "estropearse, echarse a perder"
+    ],
+    [
+     "wegen",
+     "woog",
+     "gewogen",
+     "pesar"
+    ],
+    [
+     "zweren",
+     "zwoer",
+     "gezworen",
+     "jurar"
+    ],
+    [
+     "bevelen",
+     "beval",
+     "bevolen",
+     "ordenar, mandar"
+    ],
+    [
+     "scheppen",
+     "schiep",
+     "geschapen",
+     "crear"
+    ],
+    [
+     "treffen",
+     "trof",
+     "getroffen",
+     "alcanzar, encontrarse con"
+    ],
+    [
+     "vriezen",
+     "vroor",
+     "gevroren",
+     "helar, congelar"
+    ],
+    [
+     "ruiken",
+     "rook",
+     "geroken",
+     "oler"
+    ],
+    [
+     "zwerven",
+     "zwierf",
+     "gezworven",
+     "vagar, deambular"
+    ],
+    [
+     "schenden",
+     "schond",
+     "geschonden",
+     "violar, vulnerar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbos mixtos"
+  },
+  {
+   "type": "p",
+   "text": "Unos pocos verbos son <b>débiles en el pasado</b> pero <b>fuertes en el participio</b>, o al revés. Algunos tienen además dos formas aceptadas."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.8,
+    3.8,
+    5.8
+   ],
+   "head": [
+    "Infinitivo",
+    "Pasado",
+    "Participio",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "lachen",
+     "lachte",
+     "gelachen",
+     "pasado débil, participio fuerte"
+    ],
+    [
+     "bakken",
+     "bakte",
+     "gebakken",
+     "pasado débil, participio fuerte"
+    ],
+    [
+     "vragen",
+     "vroeg",
+     "gevraagd",
+     "pasado fuerte, participio débil"
+    ],
+    [
+     "jagen",
+     "jaagde / joeg",
+     "gejaagd",
+     "dos pasados"
+    ],
+    [
+     "waaien",
+     "waaide / woei",
+     "gewaaid",
+     "dos pasados"
+    ],
+    [
+     "scheiden",
+     "scheidde",
+     "gescheiden",
+     "pasado débil, participio fuerte"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El doble infinitivo a fondo"
+  },
+  {
+   "type": "p",
+   "text": "Con los verbos modales y con <b>laten, zien, horen, voelen, blijven, gaan, komen</b>, el perfecto usa un infinitivo en lugar del participio (B1 · pdf 1). En los grupos largos, todos siguen siendo infinitivos: <i>Ik had het hem <b>moeten laten weten</b>.</i> (Debería habérselo hecho saber.) El español mezcla participio e infinitivo (<i>habría podido hacerlo</i>); el neerlandés no."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    6.2,
+    3.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Ik heb hem horen zingen.",
+     "Le he oído cantar.",
+     "horen + infinitivo"
+    ],
+    [
+     "Ze is komen eten.",
+     "Ha venido a comer.",
+     "komen + infinitivo, con zijn"
+    ],
+    [
+     "Ik had het hem moeten laten weten.",
+     "Debería habérselo hecho saber.",
+     "tres infinitivos"
+    ],
+    [
+     "Hij zou het hebben kunnen doen.",
+     "Habría podido hacerlo.",
+     "zou + hebben + kunnen + doen"
+    ],
+    [
+     "Ik heb geprobeerd het te doen.",
+     "He intentado hacerlo.",
+     "proberen: participio y luego te"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "¿Con te o sin te?",
+   "text": "Los verbos que llevan <b>te</b> (<i>proberen, beginnen, durven, hoeven</i>) también pueden formar un doble infinitivo, pero entonces <b>te</b> se queda: <i>Ik heb het niet <b>durven</b> te zeggen</i> o, con participio, <i>Ik heb het niet <b>gedurfd</b> te zeggen</i> (no me he atrevido a decirlo). Con <i>hoeven</i> el doble infinitivo es lo normal: <i>Je had niet <b>hoeven</b> te komen</i> (no hacía falta que vinieras)."
+  },
+  {
+   "type": "h1",
+   "text": "4. hebben o zijn cambia el significado"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.6,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "Ik ben zijn naam vergeten.",
+     "He olvidado su nombre.",
+     "se me ha ido de la cabeza"
+    ],
+    [
+     "Ik heb mijn paraplu vergeten.",
+     "Me he dejado el paraguas.",
+     "no me lo llevé"
+    ],
+    [
+     "Ik ben mijn sleutels verloren.",
+     "He perdido las llaves.",
+     "también: heb ... verloren"
+    ],
+    [
+     "Ik heb de wedstrijd verloren.",
+     "He perdido el partido.",
+     "con un juego: hebben"
+    ],
+    [
+     "Het ijs is gesmolten.",
+     "El hielo se ha derretido.",
+     "cambio: zijn"
+    ],
+    [
+     "Hij heeft gezwommen. / Hij is naar de overkant gezwommen.",
+     "actividad / hacia un lugar",
+     "regla de B1"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Het eten is gebedorven.",
+     "Het eten is bedorven.",
+     "Verbos con be-: sin ge-; bederven → bedorven."
+    ],
+    [
+     "We hebben veel gelacht.",
+     "We hebben veel gelachen.",
+     "lachen: participio gelachen."
+    ],
+    [
+     "Hij vraagde of ik kwam.",
+     "Hij vroeg of ik kwam.",
+     "vragen: pasado vroeg."
+    ],
+    [
+     "Ik heb hem gehoord zingen.",
+     "Ik heb hem horen zingen.",
+     "horen + infinitivo: doble infinitivo."
+    ],
+    [
+     "Je had niet gehoeven te komen.",
+     "Je had niet hoeven te komen.",
+     "hoeven: doble infinitivo."
+    ],
+    [
+     "Ik heb hem willen het vertellen.",
+     "Ik heb het hem willen vertellen.",
+     "Los complementos antes del grupo verbal (no como «quería decírselo»)."
+    ],
+    [
+     "Ik heb mijn sleutels verloren geweest.",
+     "Ik ben mijn sleutels verloren.",
+     "Una sola forma: ben ... verloren."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De melk is ______. Gooi hem maar weg.",
+     "hint": "bederven, participio",
+     "a": "bedorven",
+     "full": "De melk is bedorven. Gooi hem maar weg."
+    },
+    {
+     "q": "Ik ______ de appels op de weegschaal.",
+     "hint": "wegen, pasado",
+     "a": "woog",
+     "full": "Ik woog de appels op de weegschaal."
+    },
+    {
+     "q": "Het heeft vannacht ______.",
+     "hint": "vriezen, participio",
+     "a": "gevroren",
+     "full": "Het heeft vannacht gevroren."
+    },
+    {
+     "q": "We hebben de hele avond ______.",
+     "hint": "lachen, participio",
+     "a": "gelachen",
+     "full": "We hebben de hele avond gelachen."
+    },
+    {
+     "q": "Ze ______ of ik mee wilde.",
+     "hint": "vragen, pasado",
+     "a": "vroeg",
+     "full": "Ze vroeg of ik mee wilde."
+    },
+    {
+     "q": "Mijn oma heeft een taart ______.",
+     "hint": "bakken, participio",
+     "a": "gebakken",
+     "full": "Mijn oma heeft een taart gebakken."
+    },
+    {
+     "q": "Ik heb haar nooit horen ______.",
+     "hint": "zingen",
+     "a": "zingen",
+     "full": "Ik heb haar nooit horen zingen."
+    },
+    {
+     "q": "Je had niet ______ te betalen.",
+     "hint": "hoeven, doble infinitivo",
+     "a": "hoeven",
+     "full": "Je had niet hoeven te betalen."
+    },
+    {
+     "q": "Ik had het hem moeten laten ______.",
+     "hint": "weten",
+     "a": "weten",
+     "full": "Ik had het hem moeten laten weten."
+    },
+    {
+     "q": "Ik ______ zijn naam vergeten. Hoe heet hij ook alweer?",
+     "hint": "hebben o zijn",
+     "a": "ben",
+     "full": "Ik ben zijn naam vergeten. Hoe heet hij ook alweer?"
+    },
+    {
+     "q": "Ik ______ mijn paraplu in de trein vergeten.",
+     "hint": "hebben o zijn, olvidado en un sitio",
+     "a": "heb",
+     "full": "Ik heb mijn paraplu in de trein vergeten."
+    },
+    {
+     "q": "Ze is gisteren bij ons komen ______.",
+     "hint": "eten",
+     "a": "eten",
+     "full": "Ze is gisteren bij ons komen eten."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Debería habérselo hecho saber.",
+     "a": "Ik had het hem moeten laten weten."
+    },
+    {
+     "q": "Le he oído cantar.",
+     "a": "Ik heb hem horen zingen."
+    },
+    {
+     "q": "He olvidado su nombre.",
+     "a": "Ik ben zijn naam vergeten."
+    },
+    {
+     "q": "Nos hemos reído mucho.",
+     "a": "We hebben veel gelachen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

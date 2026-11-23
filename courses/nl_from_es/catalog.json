@@ -537,5 +537,16 @@
   "subtitle": "Palabras abstractas y académicas, falsos amigos de nivel C1 y la paráfrasis",
   "content": "c1_10_vocabulary.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_01_Detalles_de_la_gramatica",
+  "file": "C2_01_Detalles_de_la_gramatica.pdf",
+  "level": "C2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Detalles de la gramática",
+  "subtitle": "Verbos fuertes raros y mixtos, el doble infinitivo a fondo y los verbos que van con hebben y con zijn",
+  "content": "c2_01_fine_points_grammar.json",
+  "exercise_count": 12
  }
 ]
