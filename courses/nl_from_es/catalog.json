@@ -405,5 +405,16 @@
   "subtitle": "u y jij, correos formales e informales, expresiones fijas y las tareas de escritura del Staatsexamen",
   "content": "b2_08_register_writing.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_09_Los_Paises_Bajos_y_Flandes",
+  "file": "B2_09_Los_Paises_Bajos_y_Flandes.pdf",
+  "level": "B2",
+  "number": 9,
+  "section": "Cultura",
+  "title": "Los Países Bajos y Flandes",
+  "subtitle": "El neerlandés de los Países Bajos y de Bélgica: palabras, pronunciación, ge y gij, y cortesía",
+  "content": "b2_09_netherlands_flanders.json",
+  "exercise_count": 10
  }
 ]

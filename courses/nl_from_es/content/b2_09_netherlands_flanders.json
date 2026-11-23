@@ -1,0 +1,350 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Cultura",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Los Países Bajos y Flandes",
+  "subtitle": "El neerlandés de los Países Bajos y de Bélgica: palabras, pronunciación, ge y gij, y cortesía",
+  "footer": "Language Learning · B2 · Cultura · Los Países Bajos y Flandes",
+  "next": "Siguiente: B2 · pdf 10 — Vocabulario y expresiones"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer las palabras más frecuentes del neerlandés de Bélgica (flamenco)",
+    "entender <b>ge</b> y <b>gij</b> cuando los oigas",
+    "oír la diferencia entre el acento del norte y el del sur",
+    "adaptar tu cortesía a los hablantes neerlandeses y flamencos"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Sobre este curso:</b> todos los pdf enseñan el neerlandés de los <b>Países Bajos</b>. Unos 6 millones de personas en Flandes (Bélgica) también hablan neerlandés. La gramática y la ortografía son las mismas, pero algunas palabras, la pronunciación y el estilo cambian, un poco como entre el español de España y el de América. Este pdf te ayuda a <b>entender</b> a los flamencos; no hace falta imitarlos."
+  },
+  {
+   "type": "h1",
+   "text": "1. Palabras distintas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Países Bajos",
+    "Flandes",
+    "Español"
+   ],
+   "rows": [
+    [
+     "de mobiel",
+     "de gsm",
+     "teléfono móvil"
+    ],
+    [
+     "de patat",
+     "de frieten (mv.)",
+     "patatas fritas"
+    ],
+    [
+     "leuk",
+     "plezant, tof",
+     "divertido, agradable"
+    ],
+    [
+     "zin hebben in",
+     "goesting hebben in",
+     "tener ganas de"
+    ],
+    [
+     "schoon",
+     "proper",
+     "limpio (schoon = bonito en Flandes)"
+    ],
+    [
+     "de slager",
+     "de beenhouwer",
+     "carnicero"
+    ],
+    [
+     "de studentenkamer",
+     "het kot",
+     "habitación de estudiante"
+    ],
+    [
+     "een kop koffie",
+     "een tas koffie",
+     "una taza de café"
+    ],
+    [
+     "de stoep",
+     "het voetpad",
+     "acera"
+    ],
+    [
+     "pinnen",
+     "betalen met de bankkaart",
+     "pagar con tarjeta"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "schoon: ¿limpio o bonito?",
+   "text": "En los Países Bajos <b>schoon</b> significa <i>limpio</i>. En Flandes suele significar <i>bonito</i>: <i>Wat een schoon huis!</i> = ¡Qué casa más bonita! Si un flamenco dice que tu casa es <i>schoon</i>, te está haciendo un cumplido, no inspeccionándola."
+  },
+  {
+   "type": "h1",
+   "text": "2. ge, gij y u"
+  },
+  {
+   "type": "p",
+   "text": "En el flamenco de todos los días se usa <b>ge / gij</b> en lugar de <i>je / jij</i>, con el verbo terminado en <b>-t</b>: <i>Gij zijt</i> (jij bent), <i>Hebt ge tijd?</i> (Heb je tijd?), <i>Komt ge mee?</i> El posesivo <i>je / jouw</i> pasa a ser <b>uw</b>. Es algo parecido al <i>vos</i> de algunos países americanos: otra forma de tú, con su propia conjugación. En el flamenco formal y por escrito se usa <b>u</b> mucho más que en los Países Bajos."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Países Bajos",
+    "Flandes (hablado)",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Heb je tijd?",
+     "Hebt ge tijd?",
+     "¿Tienes tiempo?"
+    ],
+    [
+     "Jij bent laat.",
+     "Gij zijt laat.",
+     "Llegas tarde."
+    ],
+    [
+     "Is dat jouw fiets?",
+     "Is dat uw fiets?",
+     "¿Es esa tu bici?"
+    ],
+    [
+     "Kom je mee?",
+     "Komt ge mee?",
+     "¿Te vienes?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Pronunciación"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.6,
+    6.8
+   ],
+   "head": [
+    "Sonido",
+    "Norte (Holanda)",
+    "Sur (Flandes, Limburgo, Brabante)"
+   ],
+   "rows": [
+    [
+     "g / ch",
+     "dura y áspera, de la garganta, como una j española muy ronca",
+     "suave, como una j suave y sonora"
+    ],
+    [
+     "ij / ei",
+     "muy abierta, casi «ai»",
+     "más cerrada, casi «è»"
+    ],
+    [
+     "w",
+     "entre labios y dientes, casi una v",
+     "con los labios redondeados, como la u de «huevo»"
+    ],
+    [
+     "r",
+     "a menudo en la garganta, o muy débil al final",
+     "a menudo vibrante, como la r española"
+    ],
+    [
+     "melodía",
+     "rápida, cortada",
+     "más lenta y melódica"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿Qué acento aprender?",
+   "text": "Aprende uno, mejor el de la gente que te rodea, y aprende a entender el otro. Los dos son neerlandés estándar correcto. A muchos hispanohablantes la g suave y la r vibrante del sur les resultan más fáciles, y eso también es perfectamente aceptable en los Países Bajos."
+  },
+  {
+   "type": "h1",
+   "text": "4. Estilo y cortesía"
+  },
+  {
+   "type": "p",
+   "text": "Los neerlandeses son conocidos por su <b>franqueza</b>: dicen lo que piensan, pasan enseguida al <i>je</i> y lo ven como honestidad. A un español le puede parecer brusco, pero no lo es. Los flamencos suelen ser más <b>formales e indirectos</b>: usan <i>u</i> durante más tiempo y suavizan las críticas. Ninguno de los dos es maleducado; son costumbres distintas."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones flamencas",
+   "items": [
+    [
+     "Amai!",
+     "¡Vaya! ¡Madre mía!"
+    ],
+    [
+     "Allee!",
+     "¡Venga! ¡Pues!"
+    ],
+    [
+     "Ça va?",
+     "¿Qué tal? (en Flandes)"
+    ],
+    [
+     "Ik heb goesting.",
+     "Me apetece."
+    ],
+    [
+     "Dat is plezant.",
+     "Es divertido."
+    ],
+    [
+     "Smakelijk!",
+     "¡Que aproveche!"
+    ],
+    [
+     "Het is in orde.",
+     "Está bien, está arreglado."
+    ],
+    [
+     "Merci.",
+     "Gracias."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra de los Países Bajos. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Mag ik je ______ even lenen? Mijn batterij is leeg. (gsm)",
+     "hint": "móvil, Países Bajos",
+     "a": "mobiel",
+     "full": "Mag ik je mobiel even lenen? Mijn batterij is leeg."
+    },
+    {
+     "q": "Een zak ______ met mayonaise, alstublieft. (frieten)",
+     "hint": "patatas fritas, Países Bajos",
+     "a": "patat",
+     "full": "Een zak patat met mayonaise, alstublieft."
+    },
+    {
+     "q": "Het feest was heel ______. (plezant)",
+     "hint": "divertido, Países Bajos",
+     "a": "leuk",
+     "full": "Het feest was heel leuk."
+    },
+    {
+     "q": "Ik heb ______ in een ijsje. (goesting)",
+     "hint": "tener ganas, Países Bajos",
+     "a": "zin",
+     "full": "Ik heb zin in een ijsje."
+    },
+    {
+     "q": "De keuken is weer ______. Ik heb alles gepoetst. (proper)",
+     "hint": "limpio, Países Bajos",
+     "a": "schoon",
+     "full": "De keuken is weer schoon. Ik heb alles gepoetst."
+    },
+    {
+     "q": "Ik koop vlees bij de ______. (beenhouwer)",
+     "hint": "carnicero, Países Bajos",
+     "a": "slager",
+     "full": "Ik koop vlees bij de slager."
+    },
+    {
+     "q": "Wilt u een ______ koffie? (tas)",
+     "hint": "taza, Países Bajos",
+     "a": "kop",
+     "full": "Wilt u een kop koffie?"
+    },
+    {
+     "q": "______ je tijd? (Hebt ge tijd?)",
+     "hint": "hebben, Países Bajos",
+     "a": "heb",
+     "full": "Heb je tijd?"
+    },
+    {
+     "q": "Jij ______ laat. (Gij zijt laat.)",
+     "hint": "zijn, Países Bajos",
+     "a": "bent",
+     "full": "Jij bent laat."
+    },
+    {
+     "q": "Kan ik hier ______? (betalen met de bankkaart)",
+     "hint": "pagar con tarjeta, Países Bajos",
+     "a": "pinnen",
+     "full": "Kan ik hier pinnen?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés (Países Bajos):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Tienes tiempo?",
+     "a": "Heb je tijd?"
+    },
+    {
+     "q": "La cocina está limpia.",
+     "a": "De keuken is schoon."
+    },
+    {
+     "q": "Me apetece un helado.",
+     "a": "Ik heb zin in een ijsje."
+    },
+    {
+     "q": "una taza de café",
+     "a": "een kop koffie"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
