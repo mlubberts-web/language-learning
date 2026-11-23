@@ -86,5 +86,16 @@
   "subtitle": "Cuándo lleva -e un adjetivo, los cambios de ortografía y lo básico de la comparación",
   "content": "a1_08_adjectives.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_09_Vocabulario_y_expresiones",
+  "file": "A1_09_Vocabulario_y_expresiones.pdf",
+  "level": "A1",
+  "number": 9,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, de compras, preguntar el camino y la clase",
+  "content": "a1_09_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

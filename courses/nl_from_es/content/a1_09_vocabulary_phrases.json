@@ -1,0 +1,678 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Vocabulario",
+  "number": 9,
+  "total_in_level": 9,
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, de compras, preguntar el camino y la clase",
+  "footer": "Language Learning · A1 · Vocabulario y expresiones",
+  "next": "Siguiente: A2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Aprende cada sustantivo con de o het, y di las palabras en voz alta (g, ui, ij: pdf 1).",
+    "Escribe tres frases propias por bloque con la gramática de A1."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Saludos y cortesía"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Saludos",
+   "items": [
+    [
+     "Hallo. / Hoi.",
+     "Hola."
+    ],
+    [
+     "Goedemorgen.",
+     "Buenos días."
+    ],
+    [
+     "Goedemiddag.",
+     "Buenas tardes."
+    ],
+    [
+     "Goedenavond.",
+     "Buenas tardes, buenas noches (al llegar)"
+    ],
+    [
+     "Dag. / Doei.",
+     "Adiós. / Chao."
+    ],
+    [
+     "Tot straks.",
+     "Hasta luego."
+    ],
+    [
+     "Tot ziens.",
+     "Adiós."
+    ],
+    [
+     "Leuk je te ontmoeten.",
+     "Encantado de conocerte."
+    ],
+    [
+     "Hoe gaat het?",
+     "¿Qué tal?"
+    ],
+    [
+     "Goed, dank je.",
+     "Bien, gracias."
+    ],
+    [
+     "Welterusten.",
+     "Buenas noches. (al irse a dormir)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Cortesía",
+   "items": [
+    [
+     "alsjeblieft (informal)",
+     "por favor, toma"
+    ],
+    [
+     "alstublieft (polite)",
+     "por favor, tenga (formal)"
+    ],
+    [
+     "dank je wel",
+     "gracias"
+    ],
+    [
+     "graag gedaan",
+     "de nada"
+    ],
+    [
+     "sorry",
+     "perdón, lo siento"
+    ],
+    [
+     "pardon",
+     "perdone, disculpe"
+    ],
+    [
+     "Wat zei je?",
+     "¿Qué has dicho?"
+    ],
+    [
+     "geen probleem",
+     "no hay problema"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "alsjeblieft: por favor y toma",
+   "text": "<b>alsjeblieft</b> (informal) y <b>alstublieft</b> (formal) significan <i>por favor</i> al pedir algo: <i>Een koffie, alstublieft.</i> Y también <i>toma, aquí tiene</i> al dar algo: el camarero te pone el café y dice <i>Alstublieft.</i> Tú contestas: <b>Dank u wel.</b>"
+  },
+  {
+   "type": "h1",
+   "text": "2. La familia"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La familia",
+   "items": [
+    [
+     "de moeder",
+     "madre"
+    ],
+    [
+     "de vader",
+     "padre"
+    ],
+    [
+     "de ouders",
+     "padres"
+    ],
+    [
+     "de broer",
+     "hermano"
+    ],
+    [
+     "de zus",
+     "hermana"
+    ],
+    [
+     "de zoon",
+     "hijo"
+    ],
+    [
+     "de dochter",
+     "hija"
+    ],
+    [
+     "de man",
+     "marido"
+    ],
+    [
+     "de vrouw",
+     "mujer, esposa"
+    ],
+    [
+     "de oma",
+     "abuela"
+    ],
+    [
+     "de opa",
+     "abuelo"
+    ],
+    [
+     "de oom",
+     "tío"
+    ],
+    [
+     "de tante",
+     "tía"
+    ],
+    [
+     "de neef",
+     "primo, sobrino"
+    ],
+    [
+     "de nicht",
+     "prima, sobrina"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Una palabra, dos parientes",
+   "text": "El español distingue entre primo y sobrino; el neerlandés no: <b>neef</b> es primo y sobrino, <b>nicht</b> es prima y sobrina. El contexto lo aclara. Y <b>man</b> y <b>vrouw</b> también significan <i>marido</i> y <i>mujer</i>: <i>mijn man</i> = mi marido."
+  },
+  {
+   "type": "h1",
+   "text": "3. Comer y beber"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Comer y beber",
+   "items": [
+    [
+     "het brood",
+     "pan"
+    ],
+    [
+     "de kaas",
+     "queso"
+    ],
+    [
+     "het ei",
+     "huevo"
+    ],
+    [
+     "het vlees",
+     "carne"
+    ],
+    [
+     "de kip",
+     "pollo"
+    ],
+    [
+     "de vis",
+     "pescado"
+    ],
+    [
+     "de groente",
+     "verdura"
+    ],
+    [
+     "het fruit",
+     "fruta"
+    ],
+    [
+     "de aardappel",
+     "patata"
+    ],
+    [
+     "de rijst",
+     "arroz"
+    ],
+    [
+     "het water",
+     "agua"
+    ],
+    [
+     "de melk",
+     "leche"
+    ],
+    [
+     "het sap",
+     "zumo"
+    ],
+    [
+     "de koffie",
+     "café"
+    ],
+    [
+     "de thee",
+     "té"
+    ],
+    [
+     "het bier",
+     "cerveza"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "En un bar o restaurante",
+   "items": [
+    [
+     "Mag ik een koffie?",
+     "¿Me pone un café?"
+    ],
+    [
+     "Mag ik afrekenen?",
+     "¿Me trae la cuenta?"
+    ],
+    [
+     "Ik wil graag de vis.",
+     "Quiero el pescado, por favor."
+    ],
+    [
+     "Eet smakelijk.",
+     "Que aproveche."
+    ],
+    [
+     "Proost.",
+     "Salud."
+    ],
+    [
+     "Het was lekker.",
+     "Estaba muy rico."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La hora, los días y los meses"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los días",
+   "items": [
+    [
+     "maandag",
+     "lunes"
+    ],
+    [
+     "dinsdag",
+     "martes"
+    ],
+    [
+     "woensdag",
+     "miércoles"
+    ],
+    [
+     "donderdag",
+     "jueves"
+    ],
+    [
+     "vrijdag",
+     "viernes"
+    ],
+    [
+     "zaterdag",
+     "sábado"
+    ],
+    [
+     "zondag",
+     "domingo"
+    ],
+    [
+     "het weekend",
+     "fin de semana"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los meses",
+   "items": [
+    [
+     "januari",
+     "enero"
+    ],
+    [
+     "februari",
+     "febrero"
+    ],
+    [
+     "maart",
+     "marzo"
+    ],
+    [
+     "april",
+     "abril"
+    ],
+    [
+     "mei",
+     "mayo"
+    ],
+    [
+     "juni",
+     "junio"
+    ],
+    [
+     "juli",
+     "julio"
+    ],
+    [
+     "augustus",
+     "agosto"
+    ],
+    [
+     "september",
+     "septiembre"
+    ],
+    [
+     "oktober",
+     "octubre"
+    ],
+    [
+     "november",
+     "noviembre"
+    ],
+    [
+     "december",
+     "diciembre"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Sin mayúsculas, como en español",
+   "text": "Los días y los meses van con <b>minúscula</b>, igual que en español: <i>op maandag, in januari</i>. Los idiomas y las nacionalidades sí llevan mayúscula: <i>Nederlands, Spaans</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.0,
+    8.4
+   ],
+   "head": [
+    "Reloj",
+    "Neerlandés",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "7:00",
+     "zeven uur",
+     "uur solo con las horas en punto"
+    ],
+    [
+     "7:15",
+     "kwart over zeven",
+     "over = y"
+    ],
+    [
+     "7:30",
+     "half acht",
+     "half hacia la hora siguiente: media ocho = 7:30"
+    ],
+    [
+     "7:45",
+     "kwart voor acht",
+     "voor = menos"
+    ],
+    [
+     "7:20",
+     "tien voor half acht",
+     "diez menos media ocho"
+    ],
+    [
+     "7:40",
+     "tien over half acht",
+     "diez y media ocho"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "half acht son las 7:30, no las 8:30",
+   "text": "Es el error clásico: <b>half acht</b> significa <i>la mitad hacia las ocho</i>, es decir, <b>las siete y media</b>. Entre y cuarto y menos cuarto, los neerlandeses cuentan desde la media hora: <i>tien voor half acht</i> = las siete y veinte. Pregunta <b>Hoe laat is het?</b> (¿Qué hora es?)."
+  },
+  {
+   "type": "h1",
+   "text": "5. De compras y preguntando el camino"
+  },
+  {
+   "type": "verbpairs",
+   "title": "De compras",
+   "items": [
+    [
+     "Hoeveel kost het?",
+     "¿Cuánto cuesta?"
+    ],
+    [
+     "Het is te duur.",
+     "Es demasiado caro."
+    ],
+    [
+     "Kan ik pinnen?",
+     "¿Puedo pagar con tarjeta?"
+    ],
+    [
+     "Ik kijk even rond.",
+     "Solo estoy mirando."
+    ],
+    [
+     "Heeft u dit in een kleinere maat?",
+     "¿Lo tiene en una talla más pequeña?"
+    ],
+    [
+     "het bonnetje",
+     "tique, recibo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Preguntar el camino",
+   "items": [
+    [
+     "Pardon, waar is het station?",
+     "Perdone, ¿dónde está la estación?"
+    ],
+    [
+     "Ga rechtdoor.",
+     "Siga recto."
+    ],
+    [
+     "Ga linksaf.",
+     "Gire a la izquierda."
+    ],
+    [
+     "Ga rechtsaf.",
+     "Gire a la derecha."
+    ],
+    [
+     "Het is naast de bank.",
+     "Está al lado del banco."
+    ],
+    [
+     "Het is tegenover de kerk.",
+     "Está enfrente de la iglesia."
+    ],
+    [
+     "Het is op de hoek.",
+     "Está en la esquina."
+    ],
+    [
+     "Is het ver?",
+     "¿Está lejos?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. En clase"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Útil en clase",
+   "items": [
+    [
+     "Wat betekent dit woord?",
+     "¿Qué significa esta palabra?"
+    ],
+    [
+     "Hoe zeg je ... in het Nederlands?",
+     "¿Cómo se dice ... en neerlandés?"
+    ],
+    [
+     "Kunt u langzamer praten?",
+     "¿Puede hablar más despacio?"
+    ],
+    [
+     "Ik begrijp het niet.",
+     "No lo entiendo."
+    ],
+    [
+     "Kunt u het opschrijven?",
+     "¿Puede escribirlo?"
+    ],
+    [
+     "Ik weet het niet.",
+     "No lo sé."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Een koffie, ______.",
+     "hint": "por favor, formal",
+     "a": "alstublieft",
+     "full": "Een koffie, alstublieft."
+    },
+    {
+     "q": "Dank je ______.",
+     "hint": "gracias",
+     "a": "wel",
+     "full": "Dank je wel."
+    },
+    {
+     "q": "De zus van mijn moeder is mijn ______.",
+     "hint": "familia",
+     "a": "tante",
+     "full": "De zus van mijn moeder is mijn tante."
+    },
+    {
+     "q": "De zoon van mijn broer is mijn ______.",
+     "hint": "familia",
+     "a": "neef",
+     "full": "De zoon van mijn broer is mijn neef."
+    },
+    {
+     "q": "Het is half ______. (7:30)",
+     "hint": "la hora",
+     "a": "acht",
+     "full": "Het is half acht."
+    },
+    {
+     "q": "Het is kwart ______ acht. (7:45)",
+     "hint": "voor u over",
+     "a": "voor",
+     "full": "Het is kwart voor acht."
+    },
+    {
+     "q": "De dag na dinsdag is ______.",
+     "hint": "miércoles",
+     "a": "woensdag",
+     "full": "De dag na dinsdag is woensdag."
+    },
+    {
+     "q": "______ kost het?",
+     "hint": "cuánto",
+     "a": "hoeveel",
+     "full": "Hoeveel kost het?"
+    },
+    {
+     "q": "Ga bij de kerk ______.",
+     "hint": "a la izquierda",
+     "a": "linksaf",
+     "full": "Ga bij de kerk linksaf."
+    },
+    {
+     "q": "Wat ______ dit woord?",
+     "hint": "significar",
+     "a": "betekent",
+     "full": "Wat betekent dit woord?"
+    },
+    {
+     "q": "Kan ik hier ______?",
+     "hint": "pagar con tarjeta",
+     "a": "pinnen",
+     "full": "Kan ik hier pinnen?"
+    },
+    {
+     "q": "Leuk je te ______.",
+     "hint": "conocer",
+     "a": "ontmoeten",
+     "full": "Leuk je te ontmoeten."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Cuánto cuesta?",
+     "a": "Hoeveel kost het?"
+    },
+    {
+     "q": "No lo entiendo.",
+     "a": "Ik begrijp het niet."
+    },
+    {
+     "q": "Perdone, ¿dónde está la estación?",
+     "a": "Pardon, waar is het station?"
+    },
+    {
+     "q": "Son las siete y media.",
+     "a": "Het is half acht."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
