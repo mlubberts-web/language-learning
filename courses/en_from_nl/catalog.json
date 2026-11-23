@@ -339,5 +339,27 @@
   "subtitle": "future continuous, future perfect, be about to, be due to en de toekomst in het verleden",
   "content": "b2_02_future_forms.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_03_Voorwaardelijke_zinnen_3_gemengd_en_wensen",
+  "file": "B2_03_Voorwaardelijke_zinnen_3_gemengd_en_wensen.pdf",
+  "level": "B2",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Voorwaardelijke zinnen 3, gemengd, en wensen",
+  "subtitle": "would have, gemengde voorwaarden, wish en if only, it's time en I'd rather",
+  "content": "b2_03_conditionals_wishes.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_04_De_gevorderde_lijdende_vorm",
+  "file": "B2_04_De_gevorderde_lijdende_vorm.pdf",
+  "level": "B2",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "De gevorderde lijdende vorm",
+  "subtitle": "it is said that, he is thought to, de lijdende vorm met modale werkwoorden en infinitieven",
+  "content": "b2_04_advanced_passive.json",
+  "exercise_count": 10
  }
 ]

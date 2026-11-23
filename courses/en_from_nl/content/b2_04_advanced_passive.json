@@ -1,0 +1,71 @@
+{"meta": {"level": "B2", "section": "Grammatica", "number": 4, "total_in_level": 10,
+ "title": "De gevorderde lijdende vorm",
+ "subtitle": "it is said that, he is thought to, de lijdende vorm met modale werkwoorden en infinitieven",
+ "footer": "Language Learning · B2 · Grammatica · Gevorderde lijdende vorm",
+ "next": "Volgende: B2 · pdf 5 — Phrasal verbs"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "berichten doorgeven zonder bron met <b>it is said that</b> en <b>he is thought to</b>",
+  "de lijdende vorm gebruiken met modale werkwoorden, ook in het verleden",
+  "de lijdende vorm van infinitieven en -ing-vormen gebruiken",
+  "werkwoorden met twee voorwerpen in de lijdende vorm zetten"]},
+
+ {"type": "h1", "text": "1. Wat men zegt en denkt"},
+ {"type": "p", "text": "In nieuws en formele teksten geef je vaak informatie door zonder te zeggen wie het zegt. Daar zijn twee patronen voor, met werkwoorden als <b>say, think, believe, report, expect, know, consider</b>."},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Patroon", "Voorbeeld", "Nederlands"], "rows": [
+  ["It is said that ...", "It is said that he is very rich.", "Men zegt dat hij erg rijk is."],
+  ["He is said to ...", "He is said to be very rich.", "Hij schijnt erg rijk te zijn."],
+  ["... to have + deelwoord (verleden)", "The thieves are thought to have escaped.", "Men denkt dat de dieven ontsnapt zijn."],
+  ["It is expected that ...", "It is expected that prices will rise.", "Verwacht wordt dat de prijzen stijgen."],
+  ["... is expected to ...", "Prices are expected to rise.", "De prijzen zullen naar verwachting stijgen."]]},
+ {"type": "callout", "kind": "dutch", "title": "men = it is ... / people", "text": "Het Nederlandse <i>men</i> en <i>naar verluidt</i> hebben geen precieze Engelse vorm. In formele taal gebruik je <b>it is said / he is said to</b>; in spreektaal <b>people say</b> of <b>they say</b>. <i>One says</i> klinkt erg ouderwets."},
+
+ {"type": "h1", "text": "2. Met modale werkwoorden"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["modaal + be + deelwoord", "The form must be signed.", "Het formulier moet ondertekend worden."],
+  ["modaal + have been + deelwoord", "The letter should have been sent yesterday.", "De brief had gisteren verstuurd moeten worden."],
+  ["can't have been", "It can't have been done by hand.", "Het kan niet met de hand gedaan zijn."],
+  ["might be being", "The road might be being repaired.", "De weg wordt misschien op dit moment gerepareerd."]]},
+
+ {"type": "h1", "text": "3. Infinitief en -ing in de lijdende vorm"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["to be + deelwoord", "I want to be told the truth.", "Ik wil dat de waarheid me verteld wordt."],
+  ["to have been + deelwoord", "She was lucky to have been chosen.", "Ze had geluk dat ze gekozen was."],
+  ["being + deelwoord", "I hate being interrupted.", "Ik vind het vreselijk als ik onderbroken word."],
+  ["having been + deelwoord", "Having been warned, we took care.", "Omdat we gewaarschuwd waren, letten we op."]]},
+
+ {"type": "h1", "text": "4. Twee voorwerpen"},
+ {"type": "p", "text": "Bij werkwoorden als <b>give, send, offer, show, tell, teach</b> is er een persoon en een ding. Meestal maak je de <b>persoon</b> het onderwerp: <i>I was given a present.</i> (Ik kreeg een cadeau.) <i>She was offered a job.</i> (Haar werd een baan aangeboden.)"},
+ {"type": "callout", "kind": "dutch", "title": "Mij werd ... = I was ...", "text": "Het Nederlands zegt <i>Mij werd een baan aangeboden</i> of <i>Ik kreeg een baan aangeboden</i>. Het Engels maakt de persoon het onderwerp: <b>I was offered a job</b>, niet <i>To me was offered a job</i>."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["He is said that he is rich.", "He is said to be rich.", "He is said to + werkwoord."],
+  ["It is said him to be rich.", "It is said that he is rich.", "It is said that + zin."],
+  ["The documents must signed today.", "The documents must be signed today.", "modaal + be + deelwoord."],
+  ["It should have been send yesterday.", "It should have been sent yesterday.", "Voltooid deelwoord: sent."],
+  ["I don't like to be interrupt.", "I don't like being interrupted.", "being + voltooid deelwoord."],
+  ["To me was given a prize.", "I was given a prize.", "De persoon wordt het onderwerp."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "He is said ______ the richest man in town.", "hint": "be", "a": "to be", "full": "He is said to be the richest man in town."},
+  {"q": "It is ______ that the minister will resign.", "hint": "believe", "a": "believed", "full": "It is believed that the minister will resign."},
+  {"q": "The painting is thought to ______ stolen in 1990.", "hint": "have been", "a": "have been", "full": "The painting is thought to have been stolen in 1990."},
+  {"q": "This form must ______ completed in black ink.", "hint": "be", "a": "be", "full": "This form must be completed in black ink."},
+  {"q": "The work should have ______ finished last week.", "hint": "be", "a": "been", "full": "The work should have been finished last week."},
+  {"q": "I hate ______ told what to do.", "hint": "being of to be", "a": "being", "full": "I hate being told what to do."},
+  {"q": "She ______ offered a new job last month.", "hint": "be, past simple", "a": "was", "full": "She was offered a new job last month."},
+  {"q": "The new law is expected ______ passed next year.", "hint": "to be", "a": "to be", "full": "The new law is expected to be passed next year."},
+  {"q": "The window can't have ______ opened from outside.", "hint": "be", "a": "been", "full": "The window can't have been opened from outside."},
+  {"q": "We were ______ a tour of the factory.", "hint": "give", "a": "given", "full": "We were given a tour of the factory."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hij schijnt erg rijk te zijn.", "a": "He is said to be very rich."},
+  {"q": "Het formulier moet ondertekend worden.", "a": "The form must be signed."},
+  {"q": "Ik kreeg een baan aangeboden.", "a": "I was offered a job."},
+  {"q": "De brief had gisteren verstuurd moeten worden.", "a": "The letter should have been sent yesterday."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

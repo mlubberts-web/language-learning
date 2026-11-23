@@ -1,0 +1,74 @@
+{"meta": {"level": "B2", "section": "Grammatica", "number": 3, "total_in_level": 10,
+ "title": "Voorwaardelijke zinnen 3, gemengd, en wensen",
+ "subtitle": "would have, gemengde voorwaarden, wish en if only, it's time en I'd rather",
+ "footer": "Language Learning · B2 · Grammatica · Voorwaarden en wensen",
+ "next": "Volgende: B2 · pdf 4 — De gevorderde lijdende vorm"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "praten over iets dat in het verleden niet gebeurd is (<b>third conditional</b>)",
+  "verleden en heden mengen in één voorwaardelijke zin",
+  "wensen en spijt uitdrukken met <b>wish</b> en <b>if only</b>",
+  "<b>it's time</b>, <b>I'd rather</b> en <b>as if</b> gebruiken"]},
+
+ {"type": "h1", "text": "1. De third conditional"},
+ {"type": "p", "text": "Voor iets dat in het verleden <b>niet</b> gebeurd is, en het denkbeeldige gevolg: <b>if + past perfect</b>, <b>would have + voltooid deelwoord</b>."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Werkelijkheid"], "rows": [
+  ["If I had studied, I would have passed.", "Ik heb niet gestudeerd en ben gezakt."],
+  ["If we hadn't missed the train, we wouldn't have been late.", "We hebben de trein gemist."],
+  ["She would have come if you had asked her.", "Je hebt het niet gevraagd."],
+  ["What would you have done if you had lost?", "Je hebt niet verloren."]]},
+ {"type": "callout", "kind": "dutch", "title": "Als ik had ... had ik", "text": "Het Nederlands zegt <i>Als ik het had geweten, was ik gekomen</i> of <i>zou ik gekomen zijn</i>. Het Engels heeft een vaste vorm: <b>If I had known, I would have come.</b> Nooit <i>If I would have known</i>, en nooit <i>I had come</i> in de hoofdzin."},
+ {"type": "callout", "kind": "tip", "title": "'d = had of would", "text": "In de korte vorm <i>If I'd known, I'd have come</i> is de eerste 'd <b>had</b> en de tweede <b>would</b>. Na if staat altijd had."},
+
+ {"type": "h1", "text": "2. Gemengde voorwaarden"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Patroon", "Voorbeeld", "Betekenis"], "rows": [
+  ["verleden voorwaarde, gevolg nu", "If I had taken that job, I would be rich now.", "ik nam de baan niet, ik ben niet rijk"],
+  ["voorwaarde nu, gevolg verleden", "If I were braver, I would have said something.", "ik ben niet dapper, ik zei niets"]]},
+
+ {"type": "h1", "text": "3. wish en if only"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Wens over", "Vorm en voorbeeld", "Nederlands"], "rows": [
+  ["nu (het is niet zo)", "wish + past simple: I wish I had more time.", "Had ik maar meer tijd."],
+  ["het verleden (spijt)", "wish + past perfect: I wish I hadn't said that.", "Had ik dat maar niet gezegd."],
+  ["gedrag van een ander (ergernis)", "wish + would: I wish you would stop talking.", "Hield je maar eens op met praten."],
+  ["vermogen", "wish + could: I wish I could swim.", "Kon ik maar zwemmen."]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik wou dat ... = I wish", "text": "<i>Ik wou dat ik rijk was</i> = <b>I wish I were (was) rich</b>. Het Engels gebruikt een tijd verder terug dan je verwacht: geen will, geen present. <b>If only</b> is sterker: <i>If only I had listened!</i> (Had ik maar geluisterd!)"},
+
+ {"type": "h1", "text": "4. it's time, I'd rather, as if"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Uitdrukking", "Voorbeeld", "Nederlands"], "rows": [
+  ["it's time + past simple", "It's time we went home.", "Het wordt tijd dat we naar huis gaan."],
+  ["I'd rather + werkwoord", "I'd rather stay in tonight.", "Ik blijf vanavond liever thuis."],
+  ["I'd rather + persoon + past", "I'd rather you didn't smoke.", "Ik heb liever dat je niet rookt."],
+  ["as if / as though", "He talks as if he knew everything.", "Hij praat alsof hij alles weet."]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["If I would have known, I would have come.", "If I had known, I would have come.", "Na if: past perfect."],
+  ["If she had asked, I had helped her.", "If she had asked, I would have helped her.", "In de hoofdzin: would have."],
+  ["I wish I have more money.", "I wish I had more money.", "wish over nu: past simple."],
+  ["I wish I didn't say that yesterday.", "I wish I hadn't said that yesterday.", "Spijt over het verleden: past perfect."],
+  ["It's time we go home.", "It's time we went home.", "it's time + past simple."],
+  ["I'd rather to stay here.", "I'd rather stay here.", "Na I'd rather geen to."],
+  ["If I had taken the job, I would have been rich now.", "If I had taken the job, I would be rich now.", "Gevolg nu: would + werkwoord."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "If I ______ the answer, I would have told you.", "hint": "know", "a": "had known", "full": "If I had known the answer, I would have told you."},
+  {"q": "If we had left earlier, we ______ the train.", "hint": "catch", "a": "would have caught", "full": "If we had left earlier, we would have caught the train."},
+  {"q": "I wish I ______ taller.", "hint": "be", "a": "were", "full": "I wish I were taller."},
+  {"q": "I wish I ______ to the party last night.", "hint": "go, spijt", "a": "had gone", "full": "I wish I had gone to the party last night."},
+  {"q": "I wish you ______ stop interrupting me!", "hint": "ergernis", "a": "would", "full": "I wish you would stop interrupting me!"},
+  {"q": "If only I ______ speak Chinese.", "hint": "kunnen", "a": "could", "full": "If only I could speak Chinese."},
+  {"q": "It's time you ______ a job.", "hint": "get", "a": "got", "full": "It's time you got a job."},
+  {"q": "I'd rather ______ at home tonight.", "hint": "stay", "a": "stay", "full": "I'd rather stay at home tonight."},
+  {"q": "If she had taken the medicine, she ______ better now.", "hint": "feel, nu", "a": "would feel", "full": "If she had taken the medicine, she would feel better now."},
+  {"q": "He looks ______ if he hasn't slept for days.", "hint": "alsof", "a": "as", "full": "He looks as if he hasn't slept for days."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Als ik het had geweten, was ik gekomen.", "a": "If I had known, I would have come."},
+  {"q": "Had ik maar meer tijd.", "a": "I wish I had more time."},
+  {"q": "Had ik dat maar niet gezegd.", "a": "I wish I hadn't said that."},
+  {"q": "Het wordt tijd dat we naar huis gaan.", "a": "It's time we went home."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
