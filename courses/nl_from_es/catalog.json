@@ -251,5 +251,16 @@
   "subtitle": "worden y zijn + participio, door, y la pasiva impersonal (Er wordt gedanst)",
   "content": "b1_04_passive.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_05_El_condicional",
+  "file": "B1_05_El_condicional.pdf",
+  "level": "B1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "El condicional",
+  "subtitle": "zou + infinitivo, las condiciones reales e irreales con als, los deseos educados y el condicional pasado",
+  "content": "b1_05_conditional.json",
+  "exercise_count": 12
  }
 ]

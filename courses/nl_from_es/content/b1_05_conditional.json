@@ -1,0 +1,337 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "El condicional",
+  "subtitle": "zou + infinitivo, las condiciones reales e irreales con als, los deseos educados y el condicional pasado",
+  "footer": "Language Learning · B1 · Gramática · El condicional",
+  "next": "Siguiente: B1 · pdf 6 — Las construcciones de infinitivo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el condicional con <b>zou / zouden</b> + infinitivo",
+    "hablar de situaciones reales e imaginarias con <b>als</b>",
+    "pedir y desear con educación: <i>Ik zou graag ... willen</i>",
+    "hablar del pasado que no ocurrió: <i>Als ik het geweten had, was ik gekomen</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. zou + infinitivo"
+  },
+  {
+   "type": "p",
+   "text": "<b>zou</b> (singular) y <b>zouden</b> (plural) son el pasado de <i>zullen</i>. Con un infinitivo al final forman el condicional español: <i>Ik <b>zou</b> graag naar Japan <b>gaan</b></i> (me gustaría ir a Japón)."
+  },
+  {
+   "type": "conj",
+   "verb": "zullen",
+   "meaning": "condicional (-ría)",
+   "label": "verbo modal",
+   "tense": "condicional",
+   "forms": [
+    "zou",
+    "zou",
+    "zou",
+    "zouden",
+    "zouden",
+    "zouden"
+   ],
+   "examples": [
+    [
+     "Ik zou dat niet doen.",
+     "Yo no haría eso."
+    ],
+    [
+     "Zou je me kunnen helpen?",
+     "¿Podrías ayudarme?"
+    ],
+    [
+     "Hij zou graag arts worden.",
+     "Le gustaría ser médico."
+    ],
+    [
+     "We zouden vaker gaan als het goedkoper was.",
+     "Iríamos más a menudo si fuera más barato."
+    ],
+    [
+     "Zouden jullie dat willen?",
+     "¿Os gustaría?"
+    ],
+    [
+     "Ze zouden om acht uur komen.",
+     "Iban a venir a las ocho."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "zou también significa 'iba a' y 'al parecer'",
+   "text": "<b>Ze zouden om acht uur komen</b> puede significar <i>iban a venir a las ocho</i> (pero no vinieron), o <i>quedaron en venir</i>. En las noticias, <b>zou</b> significa <i>al parecer</i>: <i>De minister zou ontslag nemen</i> = el ministro dimitiría, según parece (C1 · pdf 1)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Real e imaginario"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    7.6,
+    5.4
+   ],
+   "head": [
+    "Tipo",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "real (posible)",
+     "Als het regent, blijf ik thuis.",
+     "Si llueve, me quedo en casa."
+    ],
+    [
+     "imaginario (ahora)",
+     "Als ik rijk was, zou ik een huis kopen.",
+     "Si fuera rico, me compraría una casa."
+    ],
+    [
+     "imaginario, más corto",
+     "Als ik rijk was, kocht ik een huis.",
+     "lo mismo, también correcto"
+    ],
+    [
+     "pasado que no ocurrió",
+     "Als ik het geweten had, was ik gekomen.",
+     "Si lo hubiera sabido, habría venido."
+    ],
+    [
+     "pasado, con zou",
+     "Als ik het geweten had, zou ik gekomen zijn.",
+     "lo mismo, más formal"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Si fuera = als ik was: sin subjuntivo",
+   "text": "Donde el español usa el imperfecto de subjuntivo (<i>si fuera, si tuviera</i>), el neerlandés usa el pasado simple: <i>als ik rijk <b>was</b>, als ik tijd <b>had</b></i>. Y para <i>si hubiera sabido</i>, el pluscuamperfecto: <i>als ik het geweten <b>had</b></i>. Como en toda subordinada al principio (A2 · pdf 5), la oración principal empieza por el verbo: <i>Als ik tijd had, <b>zou</b> ik je helpen.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Deseos educados y consejos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.2,
+    6.0,
+    3.8
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Uso"
+   ],
+   "rows": [
+    [
+     "Ik zou graag een kamer willen reserveren.",
+     "Quisiera reservar una habitación.",
+     "deseo educado"
+    ],
+    [
+     "Zou u dat kunnen herhalen?",
+     "¿Podría repetirlo?",
+     "petición educada"
+    ],
+    [
+     "Ik zou het niet doen.",
+     "Yo no lo haría.",
+     "consejo"
+    ],
+    [
+     "Als ik jou was, zou ik gaan.",
+     "Yo que tú, iría.",
+     "consejo"
+    ],
+    [
+     "Je zou eens met hem moeten praten.",
+     "Deberías hablar con él.",
+     "propuesta"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Ojalá lo hubiera sabido = Had ik het maar geweten",
+   "text": "Para un deseo sobre el pasado, el neerlandés pone el verbo delante y añade <b>maar</b>: <b>Had ik het maar geweten!</b> (¡Ojalá lo hubiera sabido!). Para el presente: <b>Was ik maar rijk!</b> (¡Ojalá fuera rico!)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Als ik rijk was, ik zou een huis kopen.",
+     "Als ik rijk was, zou ik een huis kopen.",
+     "Tras la frase con als: el verbo primero."
+    ],
+    [
+     "Ik zou graag gaan willen naar Japan.",
+     "Ik zou graag naar Japan willen gaan.",
+     "Los infinitivos van al final."
+    ],
+    [
+     "Als ik het wist, was ik gisteren gekomen.",
+     "Als ik het geweten had, was ik gisteren gekomen.",
+     "Pasado irreal: pluscuamperfecto."
+    ],
+    [
+     "Als ik jij was, zou ik gaan.",
+     "Als ik jou was, zou ik gaan.",
+     "Expresión fija: als ik jou was (yo que tú)."
+    ],
+    [
+     "Hij zouden komen.",
+     "Hij zou komen.",
+     "hij: zou."
+    ],
+    [
+     "Had ik het geweten maar!",
+     "Had ik het maar geweten!",
+     "maar va delante del participio."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ graag naar Japan gaan.",
+     "hint": "zullen, condicional",
+     "a": "zou",
+     "full": "Ik zou graag naar Japan gaan."
+    },
+    {
+     "q": "______ u dat kunnen herhalen?",
+     "hint": "podría usted, educado",
+     "a": "zou",
+     "full": "Zou u dat kunnen herhalen?"
+    },
+    {
+     "q": "Als ik meer tijd had, ______ ik vaker sporten.",
+     "hint": "zullen, condicional",
+     "a": "zou",
+     "full": "Als ik meer tijd had, zou ik vaker sporten."
+    },
+    {
+     "q": "Als het morgen ______, blijven we thuis.",
+     "hint": "regenen, real",
+     "a": "regent",
+     "full": "Als het morgen regent, blijven we thuis."
+    },
+    {
+     "q": "Als ik jou ______, zou ik het doen.",
+     "hint": "zijn, pasado",
+     "a": "was",
+     "full": "Als ik jou was, zou ik het doen."
+    },
+    {
+     "q": "Als ik het geweten ______, was ik gekomen.",
+     "hint": "hebben, pasado",
+     "a": "had",
+     "full": "Als ik het geweten had, was ik gekomen."
+    },
+    {
+     "q": "We ______ het fijn vinden als je komt.",
+     "hint": "zullen, nosotros",
+     "a": "zouden",
+     "full": "We zouden het fijn vinden als je komt."
+    },
+    {
+     "q": "Ik zou graag een kamer willen ______.",
+     "hint": "reserveren",
+     "a": "reserveren",
+     "full": "Ik zou graag een kamer willen reserveren."
+    },
+    {
+     "q": "Had ik het ______ geweten!",
+     "hint": "ojalá",
+     "a": "maar",
+     "full": "Had ik het maar geweten!"
+    },
+    {
+     "q": "Je zou eens met je baas moeten ______.",
+     "hint": "praten",
+     "a": "praten",
+     "full": "Je zou eens met je baas moeten praten."
+    },
+    {
+     "q": "Als ik de loterij won, ______ ik een groot huis.",
+     "hint": "kopen, pasado (forma corta)",
+     "a": "kocht",
+     "full": "Als ik de loterij won, kocht ik een groot huis."
+    },
+    {
+     "q": "Was ik ______ rijk!",
+     "hint": "ojalá",
+     "a": "maar",
+     "full": "Was ik maar rijk!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Si fuera rico, me compraría una casa.",
+     "a": "Als ik rijk was, zou ik een huis kopen."
+    },
+    {
+     "q": "Si lo hubiera sabido, habría venido.",
+     "a": "Als ik het geweten had, was ik gekomen."
+    },
+    {
+     "q": "¿Podrías ayudarme?",
+     "a": "Zou je me kunnen helpen?"
+    },
+    {
+     "q": "Yo que tú, iría.",
+     "a": "Als ik jou was, zou ik gaan."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
