@@ -1,0 +1,337 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Las construcciones de participio y las oraciones reducidas",
+  "subtitle": "having finished, given that, the man sitting there, y el participio colgante",
+  "footer": "Language Learning · C1 · Gramática · Construcciones de participio",
+  "next": "Siguiente: C1 · pdf 6 — Los verbos modales a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reducir oraciones subordinadas con una forma en <b>-ing</b> o en <b>-ed</b>",
+    "indicar el orden con <b>having + participio</b>",
+    "reducir oraciones de relativo (<i>the woman sitting next to me</i>)",
+    "evitar el 'participio colgante'"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Reducir oraciones subordinadas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Frase completa",
+    "Reducida"
+   ],
+   "rows": [
+    [
+     "Because she felt tired, she went to bed.",
+     "Feeling tired, she went to bed."
+    ],
+    [
+     "After he had finished his work, he went home.",
+     "Having finished his work, he went home."
+    ],
+    [
+     "When it is seen from above, the city looks small.",
+     "Seen from above, the city looks small."
+    ],
+    [
+     "As I didn't know what to do, I called my mum.",
+     "Not knowing what to do, I called my mum."
+    ],
+    [
+     "While I was walking home, I met Tom.",
+     "Walking home, I met Tom."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿Qué forma?",
+   "bullets": [
+    "<b>-ing</b>: lo hace el propio sujeto, a la vez o como causa (<i>Feeling tired, ...</i>), como el gerundio <i>Sintiéndose cansada, ...</i>",
+    "<b>having + participio</b>: pasó antes (<i>Having eaten, we left.</i>), como <i>Habiendo comido, ...</i> o <i>Después de comer, ...</i>",
+    "<b>participio (-ed)</b>: sentido pasivo (<i>Built in 1900, the house ...</i>), como <i>Construida en 1900, la casa ...</i>",
+    "<b>not</b> va delante: <i>Not having a car, I walk everywhere.</i> (Como no tengo coche, ...)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. El participio colgante"
+  },
+  {
+   "type": "p",
+   "text": "La parte reducida se refiere al <b>sujeto</b> de la frase principal. Si no es así, la frase queda rara o graciosa."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Incorrecto",
+    "Correcto"
+   ],
+   "rows": [
+    [
+     "Walking down the street, a car hit me. (¿el coche iba andando?)",
+     "Walking down the street, I was hit by a car."
+    ],
+    [
+     "Having finished dinner, the dishes were washed.",
+     "Having finished dinner, we washed the dishes."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El español es más flexible",
+   "text": "En español se dice sin problema <i>Paseando por la calle, me atropelló un coche</i>, aunque el que paseaba eras tú. En inglés eso es un error: el sujeto tiene que ser quien pasea: <b>Walking down the street, I was hit by a car.</b> Y <i>al</i> + infinitivo (<i>Al llegar a casa, ...</i>) se traduce con <b>On arriving home, ...</b> o <b>When I got home, ...</b>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Reducir oraciones de relativo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Completa",
+    "Reducida"
+   ],
+   "rows": [
+    [
+     "The woman who is sitting next to me is a doctor.",
+     "The woman sitting next to me is a doctor."
+    ],
+    [
+     "The goods which were ordered last week have arrived.",
+     "The goods ordered last week have arrived."
+    ],
+    [
+     "Anyone who wants to join should register.",
+     "Anyone wanting to join should register."
+    ],
+    [
+     "He was the first person who arrived.",
+     "He was the first person to arrive."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Expresiones fijas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Construcciones de participio fijas",
+   "items": [
+    [
+     "given that",
+     "dado que, teniendo en cuenta que"
+    ],
+    [
+     "considering",
+     "dado, teniendo en cuenta"
+    ],
+    [
+     "generally speaking",
+     "en general"
+    ],
+    [
+     "judging by",
+     "a juzgar por"
+    ],
+    [
+     "assuming that",
+     "suponiendo que"
+    ],
+    [
+     "provided that",
+     "siempre que, con tal de que"
+    ],
+    [
+     "compared with",
+     "comparado con"
+    ],
+    [
+     "based on",
+     "basado en"
+    ],
+    [
+     "taking everything into account",
+     "teniéndolo todo en cuenta"
+    ],
+    [
+     "strictly speaking",
+     "en sentido estricto"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Walking down the street, a car hit me.",
+     "Walking down the street, I was hit by a car.",
+     "El participio se refiere al sujeto."
+    ],
+    [
+     "Having finish the work, I left.",
+     "Having finished the work, I left.",
+     "having + participio."
+    ],
+    [
+     "Knowing not the answer, she stayed silent.",
+     "Not knowing the answer, she stayed silent.",
+     "not delante."
+    ],
+    [
+     "The man sat next to me was rude.",
+     "The man sitting next to me was rude.",
+     "Activo y a la vez: -ing."
+    ],
+    [
+     "Building in 1900, the house is very old.",
+     "Built in 1900, the house is very old.",
+     "Pasivo: participio."
+    ],
+    [
+     "He was the first in arriving.",
+     "He was the first to arrive.",
+     "Después de the first: to + verbo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ tired, I went to bed early.",
+     "hint": "feel",
+     "a": "Feeling",
+     "full": "Feeling tired, I went to bed early."
+    },
+    {
+     "q": "______ finished the report, she sent it to her boss.",
+     "hint": "have",
+     "a": "Having",
+     "full": "Having finished the report, she sent it to her boss."
+    },
+    {
+     "q": "______ in 1890, the bridge is still in use.",
+     "hint": "build",
+     "a": "Built",
+     "full": "Built in 1890, the bridge is still in use."
+    },
+    {
+     "q": "______ knowing the way, we asked for directions.",
+     "hint": "negación",
+     "a": "Not",
+     "full": "Not knowing the way, we asked for directions."
+    },
+    {
+     "q": "The girl ______ by the window is my sister.",
+     "hint": "stand",
+     "a": "standing",
+     "full": "The girl standing by the window is my sister."
+    },
+    {
+     "q": "The books ______ last week have arrived.",
+     "hint": "order",
+     "a": "ordered",
+     "full": "The books ordered last week have arrived."
+    },
+    {
+     "q": "She was the first woman ______ the prize.",
+     "hint": "win",
+     "a": "to win",
+     "full": "She was the first woman to win the prize."
+    },
+    {
+     "q": "______ that it's raining, let's stay in.",
+     "hint": "dado que",
+     "a": "Given",
+     "full": "Given that it's raining, let's stay in."
+    },
+    {
+     "q": "______ by his accent, he's from Scotland.",
+     "hint": "a juzgar por",
+     "a": "Judging",
+     "full": "Judging by his accent, he's from Scotland."
+    },
+    {
+     "q": "Generally ______, the weather here is mild.",
+     "hint": "en general",
+     "a": "speaking",
+     "full": "Generally speaking, the weather here is mild."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Como estaba cansado, me fui a la cama temprano. (reducida)",
+     "a": "Feeling tired, I went to bed early."
+    },
+    {
+     "q": "La mujer que está sentada a mi lado es médica. (reducida)",
+     "a": "The woman sitting next to me is a doctor."
+    },
+    {
+     "q": "Después de comer, nos fuimos. (reducida)",
+     "a": "Having eaten, we left."
+    },
+    {
+     "q": "En general, aquí hay tranquilidad.",
+     "a": "Generally speaking, it is quiet here."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

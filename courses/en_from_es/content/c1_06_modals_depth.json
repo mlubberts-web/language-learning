@@ -1,0 +1,321 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Verbos",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Los verbos modales a fondo",
+  "subtitle": "needn't have o didn't need to, may well, was to have, would para las costumbres, y be able to",
+  "footer": "Language Learning · C1 · Verbos · Verbos modales",
+  "next": "Siguiente: C1 · pdf 7 — Colocaciones y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "conocer la diferencia entre <b>needn't have done</b> y <b>didn't need to do</b>",
+    "matizar la probabilidad con <b>may well, might just, could easily</b>",
+    "expresar planes del pasado con <b>was to</b> y <b>was supposed to</b>",
+    "usar <b>would</b> y <b>will</b> para costumbres y rasgos de carácter"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿needn't have o didn't need to?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "needn't have + participio",
+     "You needn't have brought a present.",
+     "lo hiciste, pero no hacía falta"
+    ],
+    [
+     "didn't need to + verbo",
+     "I didn't need to buy a ticket. (so I didn't)",
+     "no hacía falta (y normalmente no se hizo)"
+    ],
+    [
+     "didn't have to",
+     "We didn't have to queue.",
+     "no era obligatorio"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "No hacía falta que lo hicieras",
+   "text": "<i>No hacía falta que lo hicieras</i> (pero lo hiciste) = <b>You needn't have done that</b>. <i>No tuve que pagar</i> = <b>I didn't need to pay / I didn't have to pay</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Matices de probabilidad"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "may / might well",
+     "She may well be right.",
+     "Es muy posible que tenga razón."
+    ],
+    [
+     "might just",
+     "We might just catch the train if we run.",
+     "Si corremos, a lo mejor todavía cogemos el tren."
+    ],
+    [
+     "could easily",
+     "It could easily take a week.",
+     "Puede tardar perfectamente una semana."
+    ],
+    [
+     "is bound to",
+     "He's bound to find out.",
+     "Seguro que se entera."
+    ],
+    [
+     "may as well / might as well",
+     "We might as well go home.",
+     "Ya puestos, nos vamos a casa."
+    ],
+    [
+     "can't possibly",
+     "You can't possibly be serious.",
+     "No lo dirás en serio."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Planes y expectativas en el pasado"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "was / were to",
+     "She was to become famous.",
+     "Con el tiempo se haría famosa."
+    ],
+    [
+     "was to have + participio",
+     "The meeting was to have taken place today.",
+     "La reunión iba a celebrarse hoy (pero no fue así)."
+    ],
+    [
+     "was supposed to",
+     "You were supposed to call me!",
+     "¡Ibas a llamarme! / ¡Quedaste en llamarme!"
+    ],
+    [
+     "be meant to",
+     "This film is meant to be good.",
+     "Dicen que esta película es buena."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. would y will para las costumbres"
+  },
+  {
+   "type": "p",
+   "text": "<b>would</b> describe acciones repetidas en el pasado (pdf B2 · 1). <b>will</b> puede expresar un rasgo típico o una costumbre en el presente: <i>She'll sit there for hours, just reading.</i> (Es capaz de pasarse horas ahí sentada leyendo.) Con el acento en will o would suena irritado: <i>He <b>will</b> leave the door open!</i> (¡Siempre tiene que dejar la puerta abierta!)"
+  },
+  {
+   "type": "h1",
+   "text": "5. ¿can o be able to?"
+  },
+  {
+   "type": "p",
+   "text": "<b>can</b> no tiene infinitivo ni forma de participio. Entonces se usa <b>be able to</b>: <i>I'd like to <b>be able to</b> speak Chinese</i> (me gustaría poder hablar chino). <i>I haven't <b>been able to</b> sleep</i> (no he podido dormir). Para un logro concreto en el pasado se usa <b>was able to / managed to</b>, no could: <i>After hours, we <b>managed to</b> open the door.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Conseguí = I managed to",
+   "text": "<i>Conseguí coger el tren</i> o <i>Pude coger el tren</i> (una vez) = <b>I managed to catch the train</b> o <b>I was able to catch the train</b>. <i>I could catch the train</i> suena a que en general podías. Y nunca <i>I will can</i>: el futuro es <b>I will be able to</b>."
+  },
+  {
+   "type": "h1",
+   "text": "6. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "You needn't to bring anything.",
+     "You needn't bring anything.",
+     "needn't sin to."
+    ],
+    [
+     "I will can help you tomorrow.",
+     "I will be able to help you tomorrow.",
+     "Después de will: be able to."
+    ],
+    [
+     "After hours, we could open the door.",
+     "After hours, we managed to open the door.",
+     "Un logro concreto: managed to."
+    ],
+    [
+     "You were suppose to call me.",
+     "You were supposed to call me.",
+     "supposed con -d."
+    ],
+    [
+     "I haven't could sleep.",
+     "I haven't been able to sleep.",
+     "Forma de participio: been able to."
+    ],
+    [
+     "It might well to rain.",
+     "It might well rain.",
+     "Después de might well: el verbo sin nada."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "You ______ have cooked. I'd already eaten.",
+     "hint": "no hacía falta, pero lo hiciste",
+     "a": "needn't",
+     "full": "You needn't have cooked. I'd already eaten."
+    },
+    {
+     "q": "I didn't ______ to wait. The bus came at once.",
+     "hint": "need",
+     "a": "need",
+     "full": "I didn't need to wait. The bus came at once."
+    },
+    {
+     "q": "She may ______ be right about that.",
+     "hint": "muy posible",
+     "a": "well",
+     "full": "She may well be right about that."
+    },
+    {
+     "q": "There's nothing on TV. We might as ______ go to bed.",
+     "hint": "ya puestos",
+     "a": "well",
+     "full": "There's nothing on TV. We might as well go to bed."
+    },
+    {
+     "q": "You were ______ to be here at nine!",
+     "hint": "quedar en, se suponía",
+     "a": "supposed",
+     "full": "You were supposed to be here at nine!"
+    },
+    {
+     "q": "This restaurant is ______ to be excellent.",
+     "hint": "dicen que (mean)",
+     "a": "meant",
+     "full": "This restaurant is meant to be excellent."
+    },
+    {
+     "q": "I haven't ______ able to contact him.",
+     "hint": "be",
+     "a": "been",
+     "full": "I haven't been able to contact him."
+    },
+    {
+     "q": "After three attempts, she ______ to pass her driving test.",
+     "hint": "conseguir",
+     "a": "managed",
+     "full": "After three attempts, she managed to pass her driving test."
+    },
+    {
+     "q": "The wedding was ______ have taken place in June.",
+     "hint": "iba a (pero no)",
+     "a": "to",
+     "full": "The wedding was to have taken place in June."
+    },
+    {
+     "q": "He's ______ to find out sooner or later.",
+     "hint": "seguro",
+     "a": "bound",
+     "full": "He's bound to find out sooner or later."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "No hacía falta que lo hicieras.",
+     "a": "You needn't have done that."
+    },
+    {
+     "q": "¡Quedaste en llamarme!",
+     "a": "You were supposed to call me!"
+    },
+    {
+     "q": "Conseguí coger el tren.",
+     "a": "I managed to catch the train."
+    },
+    {
+     "q": "Ya puestos, podríamos irnos a casa.",
+     "a": "We might as well go home."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

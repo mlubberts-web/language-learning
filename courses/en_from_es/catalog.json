@@ -471,5 +471,27 @@
   "subtitle": "Sustantivos en lugar de verbos, el estilo impersonal y la voz pasiva para tomar distancia",
   "content": "c1_04_nominalisation_academic.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_05_Las_construcciones_de_participio_y_las_oraciones_reducidas",
+  "file": "C1_05_Las_construcciones_de_participio_y_las_oraciones_reducidas.pdf",
+  "level": "C1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "Las construcciones de participio y las oraciones reducidas",
+  "subtitle": "having finished, given that, the man sitting there, y el participio colgante",
+  "content": "c1_05_participle_clauses.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_06_Los_verbos_modales_a_fondo",
+  "file": "C1_06_Los_verbos_modales_a_fondo.pdf",
+  "level": "C1",
+  "number": 6,
+  "section": "Verbos",
+  "title": "Los verbos modales a fondo",
+  "subtitle": "needn't have o didn't need to, may well, was to have, would para las costumbres, y be able to",
+  "content": "c1_06_modals_depth.json",
+  "exercise_count": 10
  }
 ]
