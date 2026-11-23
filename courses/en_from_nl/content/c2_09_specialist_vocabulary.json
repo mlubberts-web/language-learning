@@ -1,0 +1,64 @@
+{"meta": {"level": "C2", "section": "Woordenschat", "number": 9, "total_in_level": 10,
+ "title": "Vakwoordenschat",
+ "subtitle": "Recht, geneeskunde, technologie, economie en wetenschap",
+ "footer": "Language Learning · C2 · Woordenschat · Vakwoordenschat",
+ "next": "Volgende: C2 · pdf 10 — Uitdrukkingen voor meesterschap"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "praten en lezen over recht, gezondheid, technologie en economie",
+  "vakteksten volgen met minder woordenboek",
+  "de valse vrienden in vaktaal vermijden"]},
+
+ {"type": "h1", "text": "1. Recht"},
+ {"type": "verbpairs", "title": "Recht", "items": [
+  ["lawsuit", "rechtszaak"], ["defendant", "verdachte, gedaagde"], ["plaintiff", "eiser"], ["verdict", "uitspraak (jury)"],
+  ["sentence", "vonnis, straf"], ["appeal", "hoger beroep"], ["barrister", "advocaat (pleit in de rechtbank)"], ["solicitor", "advocaat (adviseert)"],
+  ["evidence", "bewijs"], ["witness", "getuige"], ["to sue", "een rechtszaak aanspannen"], ["to acquit", "vrijspreken"]]},
+
+ {"type": "h1", "text": "2. Geneeskunde"},
+ {"type": "verbpairs", "title": "Geneeskunde", "items": [
+  ["diagnosis", "diagnose"], ["symptom", "symptoom"], ["treatment", "behandeling"], ["prescription", "recept"],
+  ["side effect", "bijwerking"], ["GP (general practitioner)", "huisarts"], ["A&E", "spoedeisende hulp"], ["surgery", "operatie; huisartsenpraktijk (Brits)"],
+  ["to recover", "herstellen"], ["chronic", "chronisch"], ["contagious", "besmettelijk"], ["vaccine", "vaccin"]]},
+ {"type": "callout", "kind": "dutch", "title": "surgery is ook de huisartsenpraktijk", "text": "In Brits Engels is een <b>surgery</b> zowel een operatie als de praktijk van de huisarts: <i>I've got an appointment at the surgery at ten.</i> Een <b>recept</b> van de dokter is een <b>prescription</b>; een <b>recipe</b> is een recept om te koken."},
+
+ {"type": "h1", "text": "3. Technologie"},
+ {"type": "verbpairs", "title": "Technologie", "items": [
+  ["software", "software"], ["database", "database"], ["algorithm", "algoritme"], ["encryption", "versleuteling"],
+  ["bandwidth", "bandbreedte"], ["cloud computing", "cloudcomputing"], ["artificial intelligence", "kunstmatige intelligentie"], ["machine learning", "machinaal leren"],
+  ["data breach", "datalek"], ["to upgrade", "upgraden, bijwerken"], ["user-friendly", "gebruiksvriendelijk"], ["cybersecurity", "cyberbeveiliging"]]},
+
+ {"type": "h1", "text": "4. Economie en financiën"},
+ {"type": "verbpairs", "title": "Economie", "items": [
+  ["GDP (gross domestic product)", "bbp"], ["inflation", "inflatie"], ["recession", "recessie"], ["interest rate", "rentevoet"],
+  ["shareholder", "aandeelhouder"], ["turnover", "omzet"], ["profit margin", "winstmarge"], ["revenue", "inkomsten, opbrengst"],
+  ["supply and demand", "vraag en aanbod"], ["stock market", "aandelenmarkt, beurs"], ["to invest", "investeren"], ["bankruptcy", "faillissement"]]},
+ {"type": "callout", "kind": "warn", "title": "turnover en omzet", "text": "<b>turnover</b> betekent omzet, maar ook personeelsverloop (<i>staff turnover</i>). En <i>vraag en aanbod</i> is in het Engels <b>supply and demand</b>: de volgorde is omgekeerd."},
+
+ {"type": "h1", "text": "5. Wetenschap"},
+ {"type": "verbpairs", "title": "Wetenschap", "items": [
+  ["hypothesis", "hypothese"], ["experiment", "experiment"], ["data", "gegevens"], ["peer review", "beoordeling door vakgenoten"],
+  ["sample", "steekproef, monster"], ["variable", "variabele"], ["findings", "bevindingen"], ["to replicate", "herhalen (onderzoek)"]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The ______ was found not guilty.", "hint": "verdachte", "a": "defendant", "full": "The defendant was found not guilty."},
+  {"q": "They decided to ______ the company for damages.", "hint": "aanklagen", "a": "sue", "full": "They decided to sue the company for damages."},
+  {"q": "The doctor gave me a ______ for painkillers.", "hint": "recept", "a": "prescription", "full": "The doctor gave me a prescription for painkillers."},
+  {"q": "Headaches are a common side ______ of this drug.", "hint": "bijwerking", "a": "effect", "full": "Headaches are a common side effect of this drug."},
+  {"q": "The disease is highly ______.", "hint": "besmettelijk", "a": "contagious", "full": "The disease is highly contagious."},
+  {"q": "The company reported a data ______ last week.", "hint": "lek", "a": "breach", "full": "The company reported a data breach last week."},
+  {"q": "The central bank raised interest ______.", "hint": "rentevoet, meervoud", "a": "rates", "full": "The central bank raised interest rates."},
+  {"q": "Prices are determined by supply and ______.", "hint": "vraag", "a": "demand", "full": "Prices are determined by supply and demand."},
+  {"q": "The researchers could not ______ the results.", "hint": "herhalen", "a": "replicate", "full": "The researchers could not replicate the results."},
+  {"q": "The company's annual ______ was ten million pounds.", "hint": "omzet", "a": "turnover", "full": "The company's annual turnover was ten million pounds."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "De verdachte werd vrijgesproken.", "a": "The defendant was acquitted."},
+  {"q": "Ik heb een afspraak bij de huisarts.", "a": "I have an appointment with my GP."},
+  {"q": "De prijzen worden bepaald door vraag en aanbod.", "a": "Prices are determined by supply and demand."},
+  {"q": "Het bedrijf ging failliet.", "a": "The company went bankrupt."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

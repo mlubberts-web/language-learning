@@ -1,0 +1,64 @@
+{"meta": {"level": "C2", "section": "Woordenschat", "number": 10, "total_in_level": 10,
+ "title": "Uitdrukkingen voor meesterschap",
+ "subtitle": "Gevorderde vaste uitdrukkingen, literaire woordenschat en de C2-checklist",
+ "footer": "Language Learning · C2 · Woordenschat · Meesterschap",
+ "next": "C2 afgerond — oefen verder op de website"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "gevorderde vaste uitdrukkingen met vertrouwen gebruiken",
+  "literaire en formele woorden herkennen en gebruiken",
+  "jezelf toetsen aan het C2-niveau"]},
+
+ {"type": "h1", "text": "1. Gevorderde vaste uitdrukkingen"},
+ {"type": "verbpairs", "title": "Discours en mening", "items": [
+  ["by and large", "over het algemeen"], ["on the face of it", "op het eerste gezicht"], ["in the long run", "op de lange termijn"],
+  ["for the time being", "voorlopig"], ["to all intents and purposes", "in feite, praktisch gezien"], ["needless to say", "het spreekt vanzelf"],
+  ["as it were", "als het ware"], ["in a nutshell", "in een notendop"], ["at the end of the day", "uiteindelijk, al met al"],
+  ["first and foremost", "eerst en vooral"], ["the bottom line is", "waar het om gaat, is"], ["to put it mildly", "zacht uitgedrukt"]]},
+ {"type": "verbpairs", "title": "Werkwoordelijke uitdrukkingen", "items": [
+  ["to take something for granted", "iets als vanzelfsprekend beschouwen"], ["to call into question", "in twijfel trekken"],
+  ["to come to terms with", "leren leven met, aanvaarden"], ["to bear in mind", "in gedachten houden"],
+  ["to lose sight of", "uit het oog verliezen"], ["to shed light on", "licht werpen op"],
+  ["to give rise to", "aanleiding geven tot"], ["to stand to reason", "voor de hand liggen"]]},
+
+ {"type": "h1", "text": "2. Literaire en formele woorden"},
+ {"type": "verbpairs", "title": "Literaire woordenschat", "items": [
+  ["ephemeral", "vergankelijk, kortstondig"], ["serene", "sereen, kalm"], ["melancholy", "weemoed"], ["eloquent", "welsprekend"],
+  ["poignant", "aangrijpend"], ["meticulous", "uiterst nauwkeurig"], ["ubiquitous", "alomtegenwoordig"], ["candid", "openhartig"],
+  ["resilient", "veerkrachtig"], ["tenacious", "vasthoudend"], ["subtle", "subtiel"], ["profound", "diepgaand"]]},
+ {"type": "callout", "kind": "dutch", "title": "Valse vrienden op het hoogste niveau", "bullets": [
+  "<b>candid</b> = openhartig, niet <i>kandidaat</i> (candidate).",
+  "<b>pathetic</b> = zielig, armzalig, niet <i>pathetisch</i> in de zin van hoogdravend (dat is <b>bombastic</b>).",
+  "<b>genial</b> = vriendelijk, niet <i>geniaal</i> (brilliant).",
+  "<b>novel</b> = roman, maar ook <i>nieuw, origineel</i> (a novel idea); een novelle is <b>a novella</b>."]},
+
+ {"type": "h1", "text": "3. De C2-checklist"},
+ {"type": "callout", "kind": "tip", "title": "Je zit op C2 als je", "bullets": [
+  "snelle spraak, accenten, films en radio zonder moeite volgt",
+  "literatuur, kranten en vakteksten leest en de toon en bedoeling ziet",
+  "heldere, goed gestructureerde teksten schrijft in het juiste register",
+  "fijne nuances, ironie en understatement kunt uitdrukken en herkennen",
+  "je makkelijk herstelt na een fout en ter plekke anders formuleert"]},
+
+ {"type": "h1", "text": "4. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "By and ______, the project was a success.", "hint": "over het algemeen", "a": "large", "full": "By and large, the project was a success."},
+  {"q": "In the long ______, renewable energy will be cheaper.", "hint": "op de lange termijn", "a": "run", "full": "In the long run, renewable energy will be cheaper."},
+  {"q": "We'll stay here for the time ______.", "hint": "voorlopig", "a": "being", "full": "We'll stay here for the time being."},
+  {"q": "In a ______, we need more money.", "hint": "in een notendop", "a": "nutshell", "full": "In a nutshell, we need more money."},
+  {"q": "We should never take our health for ______.", "hint": "vanzelfsprekend", "a": "granted", "full": "We should never take our health for granted."},
+  {"q": "It took him years to come to ______ with his loss.", "hint": "aanvaarden", "a": "terms", "full": "It took him years to come to terms with his loss."},
+  {"q": "This research sheds ______ on an old mystery.", "hint": "licht werpen", "a": "light", "full": "This research sheds light on an old mystery."},
+  {"q": "She is ______ in her work; she checks every detail.", "hint": "uiterst nauwkeurig", "a": "meticulous", "full": "She is meticulous in her work; she checks every detail."},
+  {"q": "Smartphones have become ______.", "hint": "alomtegenwoordig", "a": "ubiquitous", "full": "Smartphones have become ubiquitous."},
+  {"q": "It was, to put it ______, a disappointing result.", "hint": "zacht uitgedrukt", "a": "mildly", "full": "It was, to put it mildly, a disappointing result."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Over het algemeen was het een succes.", "a": "By and large, it was a success."},
+  {"q": "Voorlopig blijven we hier.", "a": "For the time being, we'll stay here."},
+  {"q": "Houd in gedachten dat het duur is.", "a": "Bear in mind that it is expensive."},
+  {"q": "Neem je gezondheid niet als vanzelfsprekend aan.", "a": "Don't take your health for granted."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
