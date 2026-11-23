@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Estilo",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Retórica y estilo",
+  "subtitle": "Figuras retóricas, ironía y lítote, eufemismos, aliteración, y la retórica en discursos y ensayos",
+  "footer": "Language Learning · C2 · Estilo · Retórica",
+  "next": "Siguiente: C2 · pdf 6 — La escritura formal y comercial"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar las principales figuras retóricas en neerlandés",
+    "entender la ironía y la lítote neerlandesas (<i>niet verkeerd</i>)",
+    "reconocer los eufemismos en las noticias y en el trabajo",
+    "usar recursos retóricos en un discurso o un ensayo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Figuras retóricas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.4,
+    5.0
+   ],
+   "head": [
+    "Figura",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "metafoor",
+     "Tijd is geld.",
+     "metáfora"
+    ],
+    [
+     "vergelijking",
+     "Hij is zo sterk als een beer.",
+     "comparación, símil (zo ... als, als een)"
+    ],
+    [
+     "overdrijving (hyperbool)",
+     "Ik heb het je al duizend keer gezegd.",
+     "hipérbole"
+    ],
+    [
+     "alliteratie",
+     "met man en macht, kind noch kraai",
+     "aliteración"
+    ],
+    [
+     "personificatie",
+     "De wind huilde om het huis.",
+     "personificación"
+    ],
+    [
+     "oxymoron",
+     "een oorverdovende stilte",
+     "oxímoron"
+    ],
+    [
+     "retorische vraag",
+     "Wie wil er nou niet gelukkig zijn?",
+     "pregunta retórica"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "La aliteración en expresiones fijas",
+   "text": "El neerlandés tiene muchas parejas fijas con aliteración: <b>met man en macht</b> (con todas sus fuerzas), <b>kind noch kraai</b> (sin familia alguna), <b>huis en haard</b> (casa y hogar), <b>van top tot teen</b> (de la cabeza a los pies). Suenan naturales y un poco literarias."
+  },
+  {
+   "type": "h1",
+   "text": "2. Lítote e ironía"
+  },
+  {
+   "type": "p",
+   "text": "Los neerlandeses suelen elogiar negando lo contrario (<b>lítote</b>): <i>Dat is <b>niet verkeerd</b></i> significa <i>está bastante bien</i>. <i><b>Niet slecht</b>!</i> (¡nada mal!) es un cumplido de verdad. Donde un español diría <i>¡qué maravilla!</i>, un neerlandés dice <i>niet slecht</i>: no es falta de entusiasmo. La ironía suele ser seca: <i>Lekker weertje, hè?</i> bajo un aguacero."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    5.4,
+    5.2
+   ],
+   "head": [
+    "Lo que se dice",
+    "Lo que se quiere decir",
+    "Tipo"
+   ],
+   "rows": [
+    [
+     "Dat is niet verkeerd.",
+     "Está muy bien.",
+     "lítote"
+    ],
+    [
+     "Hij is niet de slimste.",
+     "Es más bien tonto.",
+     "lítote"
+    ],
+    [
+     "Lekker weertje, hè? (bajo la lluvia)",
+     "Hace un tiempo horrible.",
+     "ironía"
+    ],
+    [
+     "Nou, dat ging goed. (tras un fracaso)",
+     "Ha salido fatal.",
+     "ironía"
+    ],
+    [
+     "Ik ben niet ontevreden.",
+     "Estoy bastante contento.",
+     "lítote"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Eufemismos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Eufemismos",
+   "items": [
+    [
+     "overlijden, heengaan",
+     "fallecer"
+    ],
+    [
+     "inslapen",
+     "dormirse para siempre, fallecer en paz"
+    ],
+    [
+     "laten gaan, afvloeien",
+     "prescindir de alguien, despedir"
+    ],
+    [
+     "werkzoekend",
+     "demandante de empleo"
+    ],
+    [
+     "op leeftijd",
+     "personas mayores"
+    ],
+    [
+     "het niet zo nauw nemen met de waarheid",
+     "faltar a la verdad"
+    ],
+    [
+     "naar het kleinste kamertje gaan",
+     "ir al servicio"
+    ],
+    [
+     "een reorganisatie",
+     "recortes, ajustes de plantilla"
+    ],
+    [
+     "in verwachting zijn",
+     "estar en estado (embarazada)"
+    ],
+    [
+     "minder bedeeld",
+     "con menos recursos"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La retórica en discursos y ensayos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    8.0,
+    4.6
+   ],
+   "head": [
+    "Recurso",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "drieslag (regla del tres)",
+     "We willen een land dat eerlijk, veilig en groen is.",
+     "ritmo, fácil de recordar"
+    ],
+    [
+     "herhaling (anáfora)",
+     "Wij kiezen voor werk. Wij kiezen voor zorg. Wij kiezen voor de toekomst.",
+     "énfasis"
+    ],
+    [
+     "tegenstelling (antítesis)",
+     "Niet praten, maar doen.",
+     "contraste"
+    ],
+    [
+     "directe aanspreking (apelación directa)",
+     "U vraagt zich misschien af waarom dit belangrijk is.",
+     "implica al público"
+    ],
+    [
+     "concessie (concesión)",
+     "Natuurlijk zijn er risico's. Maar ...",
+     "credibilidad"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "El estilo neerlandés: sencillo y sobrio",
+   "text": "Los lectores y oyentes neerlandeses desconfían de las palabras grandilocuentes y del patetismo. Un buen discurso neerlandés es <b>concreto, breve y algo seco</b>, con una o dos imágenes bien elegidas. Un estilo retórico muy elaborado, que en español puede sonar elegante, en neerlandés suena enseguida <i>overdreven</i> (exagerado) o <i>Amerikaans</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "\"Tijd is geld\" is een ______.",
+     "hint": "metáfora",
+     "a": "metafoor",
+     "full": "\"Tijd is geld\" is een metafoor."
+    },
+    {
+     "q": "Hij is zo sterk ______ een beer.",
+     "hint": "como",
+     "a": "als",
+     "full": "Hij is zo sterk als een beer."
+    },
+    {
+     "q": "Ik heb het je al ______ keer gezegd!",
+     "hint": "mil",
+     "a": "duizend",
+     "full": "Ik heb het je al duizend keer gezegd!"
+    },
+    {
+     "q": "Ze werkten met man en ______.",
+     "hint": "fuerzas",
+     "a": "macht",
+     "full": "Ze werkten met man en macht."
+    },
+    {
+     "q": "Dat plan is niet ______. Ik vind het eigenlijk heel goed.",
+     "hint": "lítote: mal",
+     "a": "verkeerd",
+     "full": "Dat plan is niet verkeerd. Ik vind het eigenlijk heel goed."
+    },
+    {
+     "q": "Mijn opa is vorig jaar ______.",
+     "hint": "falleció",
+     "a": "overleden",
+     "full": "Mijn opa is vorig jaar overleden."
+    },
+    {
+     "q": "Na de reorganisatie moesten veertig mensen ______.",
+     "hint": "ser despedidos",
+     "a": "afvloeien",
+     "full": "Na de reorganisatie moesten veertig mensen afvloeien."
+    },
+    {
+     "q": "Ze is in ______: in mei krijgt ze een baby.",
+     "hint": "en estado",
+     "a": "verwachting",
+     "full": "Ze is in verwachting: in mei krijgt ze een baby."
+    },
+    {
+     "q": "Er viel een oorverdovende ______.",
+     "hint": "oxímoron: silencio",
+     "a": "stilte",
+     "full": "Er viel een oorverdovende stilte."
+    },
+    {
+     "q": "Niet praten, maar ______!",
+     "hint": "contraste: actuar",
+     "a": "doen",
+     "full": "Niet praten, maar doen!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "El tiempo es oro.",
+     "a": "Tijd is geld."
+    },
+    {
+     "q": "Te lo he dicho mil veces.",
+     "a": "Ik heb het je al duizend keer gezegd."
+    },
+    {
+     "q": "No está nada mal.",
+     "a": "Dat is helemaal niet verkeerd."
+    },
+    {
+     "q": "Falleció el año pasado.",
+     "a": "Hij is vorig jaar overleden."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

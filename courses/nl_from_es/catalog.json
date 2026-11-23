@@ -581,5 +581,16 @@
   "subtitle": "Verbos para contar lo dicho (beschuldigen van, aanraden om te), laten y doen, y los verbos de percepción",
   "content": "c2_04_verb_patterns.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_05_Retorica_y_estilo",
+  "file": "C2_05_Retorica_y_estilo.pdf",
+  "level": "C2",
+  "number": 5,
+  "section": "Estilo",
+  "title": "Retórica y estilo",
+  "subtitle": "Figuras retóricas, ironía y lítote, eufemismos, aliteración, y la retórica en discursos y ensayos",
+  "content": "c2_05_rhetoric_style.json",
+  "exercise_count": 10
  }
 ]
