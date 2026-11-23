@@ -1,1 +1,13 @@
-[]
+[
+ {
+  "id": "A1_01_Pronunciation_and_spelling",
+  "file": "A1_01_Pronunciation_and_spelling.pdf",
+  "level": "A1",
+  "number": 1,
+  "section": "Pronunciation",
+  "title": "Pronunciation and spelling",
+  "subtitle": "The alphabet, short and long vowels, the sounds English doesn't have, and the numbers to 100",
+  "content": "a1_01_pronunciation_spelling.json",
+  "exercise_count": 10
+ }
+]
