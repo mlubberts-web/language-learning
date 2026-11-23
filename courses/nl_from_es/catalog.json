@@ -262,5 +262,16 @@
   "subtitle": "zou + infinitivo, las condiciones reales e irreales con als, los deseos educados y el condicional pasado",
   "content": "b1_05_conditional.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_06_Las_construcciones_de_infinitivo",
+  "file": "B1_06_Las_construcciones_de_infinitivo.pdf",
+  "level": "B1",
+  "number": 6,
+  "section": "Gramática",
+  "title": "Las construcciones de infinitivo",
+  "subtitle": "om te, verbos con te (proberen te), zitten te, zonder te, door te, y me gusta + infinitivo",
+  "content": "b1_06_infinitive_constructions.json",
+  "exercise_count": 12
  }
 ]

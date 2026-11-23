@@ -1,0 +1,310 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Las construcciones de infinitivo",
+  "subtitle": "om te, verbos con te (proberen te), zitten te, zonder te, door te, y me gusta + infinitivo",
+  "footer": "Language Learning · B1 · Gramática · Construcciones de infinitivo",
+  "next": "Siguiente: B1 · pdf 7 — Los verbos separables a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "expresar una finalidad con <b>om ... te</b>",
+    "saber qué verbos llevan <b>te</b> y cuáles no",
+    "usar <b>zitten / staan / liggen te</b> para una actividad en curso",
+    "traducir <i>sin decir, al trabajar, me gusta nadar</i> con <b>zonder te, door te, graag</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. om ... te"
+  },
+  {
+   "type": "p",
+   "text": "<b>om ... te</b> + infinitivo al final expresa una finalidad (<i>para</i>): <i>Ik ga naar de winkel <b>om</b> brood <b>te</b> kopen</i> (voy a la tienda a comprar pan). También va tras muchos adjetivos y sustantivos: <i>Het is leuk <b>om</b> je <b>te</b> zien</i> (me alegra verte). <i>Ik heb geen tijd <b>om te</b> koken.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Todo entre om y te",
+   "text": "El complemento y las demás palabras van <b>entre</b> om y te: <i>om <b>brood</b> te kopen, om <b>morgen vroeg</b> te vertrekken</i>. Un verbo separable pone te en medio: <i>om je op <b>te</b> bellen</i>, <i>om op <b>te</b> staan</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbos con te y sin te"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    6.6,
+    5.2
+   ],
+   "head": [
+    "Grupo",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "con te: proberen, beginnen, vergeten, hopen, besluiten, beloven, weigeren",
+     "Ik probeer te slapen.",
+     "Intento dormir."
+    ],
+    [
+     "con te: niet hoeven",
+     "Je hoeft niet te komen.",
+     "No tienes que venir."
+    ],
+    [
+     "sin te: verbos modales",
+     "Ik wil slapen.",
+     "Quiero dormir."
+    ],
+    [
+     "sin te: gaan, komen, blijven, laten",
+     "Ik kom eten. Hij blijft slapen.",
+     "Vengo a comer. Se queda a dormir."
+    ],
+    [
+     "sin te: zien, horen, voelen",
+     "Ik zie hem lopen.",
+     "Lo veo andar."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "zitten te, staan te, liggen te",
+   "text": "Para describir lo que alguien está haciendo, el neerlandés usa a menudo un verbo de posición + <b>te</b>: <i>Hij <b>zit te</b> lezen</i> (está leyendo, sentado), <i>Ze <b>staat te</b> koken</i> (está cocinando), <i>Ik <b>lag te</b> slapen</i> (estaba durmiendo). Es como <i>estar + gerundio</i>, pero además dice la posición."
+  },
+  {
+   "type": "h1",
+   "text": "3. Del español al neerlandés"
+  },
+  {
+   "type": "p",
+   "text": "El español usa el infinitivo tras una preposición (<i>sin decir, antes de salir</i>). El neerlandés también, pero con <b>te</b> al final y la preposición delante."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.4,
+    5.2
+   ],
+   "head": [
+    "Español",
+    "Neerlandés",
+    "Estructura"
+   ],
+   "rows": [
+    [
+     "sin decir adiós",
+     "zonder gedag te zeggen",
+     "zonder ... te"
+    ],
+    [
+     "trabajando mucho, a base de trabajar",
+     "door hard te werken",
+     "door ... te"
+    ],
+    [
+     "en vez de llamar",
+     "in plaats van te bellen",
+     "in plaats van te"
+    ],
+    [
+     "Dejé de fumar.",
+     "Ik ben gestopt met roken.",
+     "met + infinitive"
+    ],
+    [
+     "Me gusta nadar.",
+     "Ik zwem graag.",
+     "verb + graag"
+    ],
+    [
+     "Fumar es malo.",
+     "Roken is slecht.",
+     "infinitivo como sustantivo, como en español"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "graag: me gusta + infinitivo",
+   "text": "<i>Me gusta nadar</i> se dice en neerlandés <b>Ik zwem graag</b>: el verbo más <b>graag</b>. <i>Prefiero andar</i> = <b>Ik loop liever</b>, <i>Lo que más me gusta es leer</i> = <b>Ik lees het liefst</b>. <i>Ik houd van zwemmen</i> también es posible, pero menos frecuente."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ga naar de winkel voor brood kopen.",
+     "Ik ga naar de winkel om brood te kopen.",
+     "Finalidad: om ... te."
+    ],
+    [
+     "Ik wil te slapen.",
+     "Ik wil slapen.",
+     "Verbos modales: sin te."
+    ],
+    [
+     "Ik probeer slapen.",
+     "Ik probeer te slapen.",
+     "proberen + te."
+    ],
+    [
+     "om te opbellen",
+     "om op te bellen",
+     "Separable: te en medio."
+    ],
+    [
+     "Hij ging weg zonder zeggen gedag.",
+     "Hij ging weg zonder gedag te zeggen.",
+     "zonder ... te, con el infinitivo al final."
+    ],
+    [
+     "Ik houd zwemmen.",
+     "Ik zwem graag.",
+     "Me gusta nadar: zwem graag."
+    ],
+    [
+     "Ik ben gestopt roken.",
+     "Ik ben gestopt met roken.",
+     "stoppen met."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con om, te o nada. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ga naar de bakker ______ brood te kopen.",
+     "hint": "finalidad",
+     "a": "om",
+     "full": "Ik ga naar de bakker om brood te kopen."
+    },
+    {
+     "q": "Het is leuk om je weer ______ zien.",
+     "hint": "om ... te",
+     "a": "te",
+     "full": "Het is leuk om je weer te zien."
+    },
+    {
+     "q": "Ik probeer elke dag Nederlands ______ spreken.",
+     "hint": "proberen",
+     "a": "te",
+     "full": "Ik probeer elke dag Nederlands te spreken."
+    },
+    {
+     "q": "Je hoeft niet ______ wachten.",
+     "hint": "niet hoeven",
+     "a": "te",
+     "full": "Je hoeft niet te wachten."
+    },
+    {
+     "q": "Hij zit de krant ______ lezen.",
+     "hint": "zitten te",
+     "a": "te",
+     "full": "Hij zit de krant te lezen."
+    },
+    {
+     "q": "Ze ging weg ______ iets te zeggen.",
+     "hint": "sin",
+     "a": "zonder",
+     "full": "Ze ging weg zonder iets te zeggen."
+    },
+    {
+     "q": "Je leert een taal ______ veel te oefenen.",
+     "hint": "a base de",
+     "a": "door",
+     "full": "Je leert een taal door veel te oefenen."
+    },
+    {
+     "q": "Ik ben vorig jaar gestopt ______ roken.",
+     "hint": "stoppen met",
+     "a": "met",
+     "full": "Ik ben vorig jaar gestopt met roken."
+    },
+    {
+     "q": "Ik heb geen tijd om ______ koken.",
+     "hint": "om ... te",
+     "a": "te",
+     "full": "Ik heb geen tijd om te koken."
+    },
+    {
+     "q": "Vergeet niet om me op ______ bellen.",
+     "hint": "separable",
+     "a": "te",
+     "full": "Vergeet niet om me op te bellen."
+    },
+    {
+     "q": "Ik fiets ______ naar mijn werk.",
+     "hint": "me gusta ir en bici",
+     "a": "graag",
+     "full": "Ik fiets graag naar mijn werk."
+    },
+    {
+     "q": "Hij besloot om in Utrecht ______ gaan wonen.",
+     "hint": "om ... te",
+     "a": "te",
+     "full": "Hij besloot om in Utrecht te gaan wonen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Voy a la tienda a comprar pan.",
+     "a": "Ik ga naar de winkel om brood te kopen."
+    },
+    {
+     "q": "Intento dormir.",
+     "a": "Ik probeer te slapen."
+    },
+    {
+     "q": "Él se fue sin decir adiós.",
+     "a": "Hij ging weg zonder gedag te zeggen."
+    },
+    {
+     "q": "Me gusta nadar.",
+     "a": "Ik zwem graag."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
