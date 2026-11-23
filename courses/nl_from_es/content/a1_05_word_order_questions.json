@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 9,
+  "title": "El orden de las palabras y las preguntas",
+  "subtitle": "El verbo en segundo lugar, la inversión, las palabras interrogativas, y dónde van niet y geen",
+  "footer": "Language Learning · A1 · Gramática · Orden de las palabras y preguntas",
+  "next": "Siguiente: A1 · pdf 6 — Pronombres y posesivos"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "poner el verbo en <b>segundo lugar</b> en cada oración principal",
+    "empezar una frase con una palabra de tiempo o lugar (<i>Morgen ga ik ...</i>)",
+    "hacer preguntas con palabras interrogativas",
+    "poner <b>niet</b> y <b>geen</b> en su sitio"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El verbo en segundo lugar"
+  },
+  {
+   "type": "p",
+   "text": "En una oración principal neerlandesa, el verbo conjugado es siempre el <b>segundo elemento</b>. El primer lugar puede ser el sujeto, pero también una palabra de tiempo, un lugar o un complemento. Si va otra cosa delante, el sujeto se coloca justo detrás del verbo. Esto se llama <b>inversión</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    2.8,
+    3.0,
+    7.0
+   ],
+   "head": [
+    "Primer lugar",
+    "Verbo",
+    "Sujeto",
+    "Resto"
+   ],
+   "rows": [
+    [
+     "Ik",
+     "ga",
+     "—",
+     "morgen naar Londen."
+    ],
+    [
+     "Morgen",
+     "ga",
+     "ik",
+     "naar Londen."
+    ],
+    [
+     "In Londen",
+     "woont",
+     "mijn broer.",
+     ""
+    ],
+    [
+     "Koffie",
+     "drink",
+     "ik",
+     "niet."
+    ],
+    [
+     "Om acht uur",
+     "begint",
+     "de les.",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El sujeto, siempre y en su sitio",
+   "text": "En español dices <i>Mañana voy a Londres</i>, sin sujeto. En neerlandés el sujeto es obligatorio, y si la frase empieza por otra cosa, va detrás del verbo: <b>Morgen ga ik naar Londen</b>. Cuenta los elementos: <i>Morgen</i> (1), <i>ga</i> (2), <i>ik</i> (3). Nunca <i>Morgen ga naar Londen</i> ni <i>Morgen ik ga</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Tiempo antes que lugar",
+   "text": "En el resto de la frase, el orden normal es <b>tiempo – modo – lugar</b>: <i>Ik ga <b>morgen</b> <b>met de trein</b> <b>naar Utrecht</b></i> (mañana voy a Utrecht en tren)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Las preguntas"
+  },
+  {
+   "type": "p",
+   "text": "Una pregunta de sí o no empieza con el verbo: <b>Ga je mee?</b> (¿Vienes?). No basta con la entonación como en español. Una pregunta con palabra interrogativa empieza con esa palabra, seguida directamente del verbo: <b>Waar woon je?</b>"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras interrogativas",
+   "items": [
+    [
+     "wat",
+     "qué"
+    ],
+    [
+     "wie",
+     "quién"
+    ],
+    [
+     "waar",
+     "dónde"
+    ],
+    [
+     "waarom",
+     "por qué"
+    ],
+    [
+     "wanneer",
+     "cuándo"
+    ],
+    [
+     "hoe",
+     "cómo"
+    ],
+    [
+     "hoeveel",
+     "cuánto, cuántos"
+    ],
+    [
+     "hoe laat",
+     "a qué hora"
+    ],
+    [
+     "welke",
+     "cuál, qué (palabras de, plural)"
+    ],
+    [
+     "welk",
+     "cuál, qué (palabras het)"
+    ],
+    [
+     "waar ... vandaan",
+     "de dónde"
+    ],
+    [
+     "hoe oud",
+     "cuántos años"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.8,
+    5.6,
+    5.6
+   ],
+   "head": [
+    "Pregunta",
+    "Español",
+    "Respuesta"
+   ],
+   "rows": [
+    [
+     "Wat drink je?",
+     "¿Qué bebes?",
+     "Thee."
+    ],
+    [
+     "Hoe laat begint de film?",
+     "¿A qué hora empieza la película?",
+     "Om acht uur."
+    ],
+    [
+     "Welk boek lees je?",
+     "¿Qué libro estás leyendo?",
+     "Een roman."
+    ],
+    [
+     "Hoeveel kost het?",
+     "¿Cuánto cuesta?",
+     "Tien euro."
+    ],
+    [
+     "Waar kom je vandaan?",
+     "¿De dónde eres?",
+     "Uit Spanje."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. niet y geen"
+  },
+  {
+   "type": "p",
+   "text": "Usa <b>geen</b> en lugar de <i>een</i>, o delante de un sustantivo sin artículo: <i>Ik heb <b>geen</b> auto. Ik drink <b>geen</b> koffie.</i> En los demás casos, <b>niet</b>. Y ojo: el <i>no</i> español va delante del verbo (<i>no trabajo</i>), pero <b>niet</b> va detrás, a menudo al final."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.2,
+    6.0,
+    4.8
+   ],
+   "head": [
+    "Regla",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "al final, tras el verbo y el complemento",
+     "Ik zie hem niet.",
+     "No lo veo."
+    ],
+    [
+     "delante de un adjetivo",
+     "Het is niet duur.",
+     "No es caro."
+    ],
+    [
+     "delante de un complemento con preposición",
+     "Ik ga niet naar huis.",
+     "No me voy a casa."
+    ],
+    [
+     "detrás de una palabra de tiempo",
+     "Ik werk vandaag niet.",
+     "Hoy no trabajo."
+    ],
+    [
+     "geen delante de un sustantivo con een",
+     "Ik heb geen tijd.",
+     "No tengo tiempo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Morgen ik ga naar Londen.",
+     "Morgen ga ik naar Londen.",
+     "El verbo va siempre en segundo lugar."
+    ],
+    [
+     "Waar jij woont?",
+     "Waar woon jij?",
+     "Tras una palabra interrogativa: el verbo."
+    ],
+    [
+     "Je spreekt Nederlands?",
+     "Spreek je Nederlands?",
+     "Pregunta: el verbo delante, no basta la entonación."
+    ],
+    [
+     "Ik heb niet een auto.",
+     "Ik heb geen auto.",
+     "Delante de un sustantivo con een: geen."
+    ],
+    [
+     "Ik niet werk vandaag.",
+     "Ik werk vandaag niet.",
+     "niet detrás del verbo y de la palabra de tiempo."
+    ],
+    [
+     "Ik ga naar Utrecht morgen.",
+     "Ik ga morgen naar Utrecht.",
+     "Tiempo antes que lugar."
+    ],
+    [
+     "Welke boek lees je?",
+     "Welk boek lees je?",
+     "Palabras het: welk."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta o pon el verbo en su sitio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Morgen ______ ik naar Amsterdam.",
+     "hint": "gaan",
+     "a": "ga",
+     "full": "Morgen ga ik naar Amsterdam."
+    },
+    {
+     "q": "In het weekend ______ we uit.",
+     "hint": "gaan",
+     "a": "gaan",
+     "full": "In het weekend gaan we uit."
+    },
+    {
+     "q": "______ woon je? In Leiden.",
+     "hint": "palabra interrogativa",
+     "a": "waar",
+     "full": "Waar woon je? In Leiden."
+    },
+    {
+     "q": "______ laat is het?",
+     "hint": "a qué hora",
+     "a": "hoe",
+     "full": "Hoe laat is het?"
+    },
+    {
+     "q": "______ kost dit boek?",
+     "hint": "cuánto",
+     "a": "hoeveel",
+     "full": "Hoeveel kost dit boek?"
+    },
+    {
+     "q": "______ is die man? Mijn leraar.",
+     "hint": "palabra interrogativa",
+     "a": "wie",
+     "full": "Wie is die man? Mijn leraar."
+    },
+    {
+     "q": "Ik heb ______ tijd.",
+     "hint": "ningún tiempo",
+     "a": "geen",
+     "full": "Ik heb geen tijd."
+    },
+    {
+     "q": "Het is ______ duur.",
+     "hint": "no caro",
+     "a": "niet",
+     "full": "Het is niet duur."
+    },
+    {
+     "q": "______ huis is van jou?",
+     "hint": "cuál, palabra het",
+     "a": "welk",
+     "full": "Welk huis is van jou?"
+    },
+    {
+     "q": "Vandaag ______ zij thuis.",
+     "hint": "werken, ella",
+     "a": "werkt",
+     "full": "Vandaag werkt zij thuis."
+    },
+    {
+     "q": "______ ben je moe? Ik heb slecht geslapen.",
+     "hint": "por qué",
+     "a": "waarom",
+     "full": "Waarom ben je moe? Ik heb slecht geslapen."
+    },
+    {
+     "q": "Waar kom je ______?",
+     "hint": "de dónde",
+     "a": "vandaan",
+     "full": "Waar kom je vandaan?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Mañana voy a Londres.",
+     "a": "Morgen ga ik naar Londen."
+    },
+    {
+     "q": "¿Dónde vives?",
+     "a": "Waar woon je?"
+    },
+    {
+     "q": "No tengo coche.",
+     "a": "Ik heb geen auto."
+    },
+    {
+     "q": "Hoy no trabajo.",
+     "a": "Ik werk vandaag niet."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

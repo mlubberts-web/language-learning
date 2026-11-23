@@ -42,5 +42,16 @@
   "subtitle": "Los dos artículos, el plural en -en y -s, y los diminutivos en -je",
   "content": "a1_04_de_het.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_05_El_orden_de_las_palabras_y_las_preguntas",
+  "file": "A1_05_El_orden_de_las_palabras_y_las_preguntas.pdf",
+  "level": "A1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "El orden de las palabras y las preguntas",
+  "subtitle": "El verbo en segundo lugar, la inversión, las palabras interrogativas, y dónde van niet y geen",
+  "content": "a1_05_word_order_questions.json",
+  "exercise_count": 12
  }
 ]
