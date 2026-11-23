@@ -1,0 +1,66 @@
+{
+ "meta": {"level": "C2", "section": "Style", "number": 5, "total_in_level": 10,
+  "title": "Rhetoric and style",
+  "subtitle": "Figures of speech, irony and litotes, euphemism, alliteration, and rhetoric in speeches and essays",
+  "footer": "Language Learning · C2 · Style · Rhetoric",
+  "next": "Next: C2 · pdf 6 — Formal and business writing"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "recognise and use the main figures of speech in Dutch",
+   "understand Dutch irony and litotes (<i>niet verkeerd</i>)",
+   "recognise euphemisms in the news and at work",
+   "use rhetorical devices in a speech or an essay"]},
+  {"type": "h1", "text": "1. Figures of speech"},
+  {"type": "table", "style": "plain", "widths": [4.6, 7.4, 5.0], "head": ["Figure", "Example", "English"], "rows": [
+   ["metafoor", "Tijd is geld.", "metaphor"],
+   ["vergelijking", "Hij is zo sterk als een beer.", "simile (zo ... als, als een)"],
+   ["overdrijving (hyperbool)", "Ik heb het je al duizend keer gezegd.", "hyperbole"],
+   ["alliteratie", "met man en macht, kind noch kraai", "alliteration"],
+   ["personificatie", "De wind huilde om het huis.", "personification"],
+   ["oxymoron", "een oorverdovende stilte", "oxymoron"],
+   ["retorische vraag", "Wie wil er nou niet gelukkig zijn?", "rhetorical question"]]},
+  {"type": "callout", "kind": "note", "title": "Alliteration in fixed expressions", "text": "Dutch has many fixed alliterating pairs: <b>met man en macht</b> (with all one's might), <b>kind noch kraai</b> (no family at all), <b>huis en haard</b> (home and hearth), <b>van top tot teen</b> (from head to toe). They sound natural and a little literary."},
+  {"type": "h1", "text": "2. Litotes and irony"},
+  {"type": "p", "text": "Dutch speakers often praise by denying the opposite (<b>litotes</b>): <i>Dat is <b>niet verkeerd</b></i> means <i>that's quite good</i>. <i><b>Niet slecht</b>!</i> is a real compliment. Irony is usually dry: <i>Lekker weertje, hè?</i> in the pouring rain."},
+  {"type": "table", "style": "plain", "widths": [6.4, 5.4, 5.2], "head": ["What is said", "What is meant", "Type"], "rows": [
+   ["Dat is niet verkeerd.", "That's very good.", "litotes"],
+   ["Hij is niet de slimste.", "He's rather stupid.", "litotes"],
+   ["Lekker weertje, hè? (in the rain)", "Awful weather.", "irony"],
+   ["Nou, dat ging goed. (after a failure)", "That went badly.", "irony"],
+   ["Ik ben niet ontevreden.", "I'm quite happy.", "litotes"]]},
+  {"type": "h1", "text": "3. Euphemisms"},
+  {"type": "verbpairs", "title": "Euphemisms", "items": [
+   ["overlijden, heengaan", "to pass away"], ["inslapen", "to pass away peacefully"], ["laten gaan, afvloeien", "to let go, to make redundant"],
+   ["werkzoekend", "unemployed (job-seeking)"], ["op leeftijd", "elderly"], ["het niet zo nauw nemen met de waarheid", "to be economical with the truth"],
+   ["naar het kleinste kamertje gaan", "to go to the loo"], ["een reorganisatie", "cuts, job losses"], ["in verwachting zijn", "to be expecting (pregnant)"], ["minder bedeeld", "less well off, poor"]]},
+  {"type": "h1", "text": "4. Rhetoric in speeches and essays"},
+  {"type": "table", "style": "plain", "widths": [4.4, 8.0, 4.6], "head": ["Device", "Example", "Effect"], "rows": [
+   ["drieslag (rule of three)", "We willen een land dat eerlijk, veilig en groen is.", "rhythm, memorable"],
+   ["herhaling (anaphora)", "Wij kiezen voor werk. Wij kiezen voor zorg. Wij kiezen voor de toekomst.", "emphasis"],
+   ["tegenstelling", "Niet praten, maar doen.", "contrast"],
+   ["directe aanspreking", "U vraagt zich misschien af waarom dit belangrijk is.", "involves the audience"],
+   ["concessie", "Natuurlijk zijn er risico's. Maar ...", "credibility"]]},
+  {"type": "callout", "kind": "tip", "title": "Dutch style: plain and sober", "text": "Dutch readers and listeners distrust big words and pathos. A good Dutch speech is <b>concrete, short and a bit dry</b>, with one or two well-chosen images. Overdoing the rhetoric quickly sounds <i>overdreven</i> or <i>Amerikaans</i>."},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "\"Tijd is geld\" is een ______.", "hint": "metaphor", "a": "metafoor", "full": "\"Tijd is geld\" is een metafoor."},
+   {"q": "Hij is zo sterk ______ een beer.", "hint": "as", "a": "als", "full": "Hij is zo sterk als een beer."},
+   {"q": "Ik heb het je al ______ keer gezegd!", "hint": "a thousand", "a": "duizend", "full": "Ik heb het je al duizend keer gezegd!"},
+   {"q": "Ze werkten met man en ______.", "hint": "might", "a": "macht", "full": "Ze werkten met man en macht."},
+   {"q": "Dat plan is niet ______. Ik vind het eigenlijk heel goed.", "hint": "litotes: wrong", "a": "verkeerd", "full": "Dat plan is niet verkeerd. Ik vind het eigenlijk heel goed."},
+   {"q": "Mijn opa is vorig jaar ______.", "hint": "passed away", "a": "overleden", "full": "Mijn opa is vorig jaar overleden."},
+   {"q": "Na de reorganisatie moesten veertig mensen ______.", "hint": "be made redundant", "a": "afvloeien", "full": "Na de reorganisatie moesten veertig mensen afvloeien."},
+   {"q": "Ze is in ______: in mei krijgt ze een baby.", "hint": "expecting", "a": "verwachting", "full": "Ze is in verwachting: in mei krijgt ze een baby."},
+   {"q": "Er viel een oorverdovende ______.", "hint": "oxymoron: silence", "a": "stilte", "full": "Er viel een oorverdovende stilte."},
+   {"q": "Niet praten, maar ______!", "hint": "contrast: act", "a": "doen", "full": "Niet praten, maar doen!"}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "Time is money.", "a": "Tijd is geld."},
+   {"q": "I've told you a thousand times.", "a": "Ik heb het je al duizend keer gezegd."},
+   {"q": "That's not bad at all.", "a": "Dat is helemaal niet verkeerd."},
+   {"q": "He passed away last year.", "a": "Hij is vorig jaar overleden."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

@@ -581,5 +581,16 @@
   "subtitle": "Reporting verbs (beschuldigen van, aanraden om te), laten and doen, and verbs of perception",
   "content": "c2_04_verb_patterns.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_05_Rhetoric_and_style",
+  "file": "C2_05_Rhetoric_and_style.pdf",
+  "level": "C2",
+  "number": 5,
+  "section": "Style",
+  "title": "Rhetoric and style",
+  "subtitle": "Figures of speech, irony and litotes, euphemism, alliteration, and rhetoric in speeches and essays",
+  "content": "c2_05_rhetoric_style.json",
+  "exercise_count": 10
  }
 ]
