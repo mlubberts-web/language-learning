@@ -1,0 +1,67 @@
+{
+ "meta": {"level": "C2", "section": "Vocabulary", "number": 8, "total_in_level": 10,
+  "title": "Word origins",
+  "subtitle": "Germanic roots shared with English, French loanwords, English words in Dutch, and Dutch words in English",
+  "footer": "Language Learning · C2 · Vocabulary · Word origins",
+  "next": "Next: C2 · pdf 9 — Specialist vocabulary"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "use the Germanic roots Dutch and English share to guess words",
+   "recognise French loanwords and their pronunciation",
+   "conjugate English verbs in Dutch (<i>downloaden → gedownload</i>)",
+   "know which English words come from Dutch"]},
+  {"type": "h1", "text": "1. Shared Germanic roots"},
+  {"type": "p", "text": "Dutch and English are close relatives: both are West Germanic languages. Many basic words share a root, often with regular sound changes. Knowing them helps you guess new words."},
+  {"type": "table", "style": "plain", "widths": [4.4, 4.4, 8.2], "head": ["Dutch", "English", "Pattern"], "rows": [
+   ["huis, muis, uit", "house, mouse, out", "ui = ou"],
+   ["water, beter, dat", "water, better, that", "t = t, d = th"],
+   ["dik, drie, denken", "thick, three, think", "d = th"],
+   ["brood, boot, groot", "bread, boat, great", "long o = ea, oa"],
+   ["zee, zien, zout", "sea, see, salt", "z = s"],
+   ["dag, weg, zeggen", "day, way, say", "g = y"],
+   ["schip, school, schoen", "ship, school, shoe", "sch = sh / sk"]]},
+  {"type": "h1", "text": "2. French loanwords"},
+  {"type": "p", "text": "From the Middle Ages to the 19th century, French was the language of culture and the elite. Thousands of French words entered Dutch, often keeping a French spelling and pronunciation (stress on the last syllable)."},
+  {"type": "verbpairs", "title": "French loanwords", "items": [
+   ["het bureau", "desk, office"], ["het cadeau", "present, gift"], ["het trottoir", "pavement"], ["het plafond", "ceiling"],
+   ["de paraplu", "umbrella"], ["de portemonnee", "purse, wallet"], ["het horloge", "watch"], ["de jus", "gravy"],
+   ["het niveau", "level"], ["de garage", "garage"], ["de enquête", "survey"], ["het restaurant", "restaurant"]]},
+  {"type": "h1", "text": "3. English words in Dutch"},
+  {"type": "p", "text": "Today English is the main source of new words: <i>laptop, meeting, deadline, weekend, cool</i>. English verbs get Dutch endings and follow Dutch rules, with 't kofschip judged by the <b>sound</b> of the English stem: <i>downloaden → ik download, gedownload</i>; <i>updaten → geüpdatet</i>; <i>chillen → gechilld</i>."},
+  {"type": "table", "style": "plain", "widths": [4.0, 4.2, 4.6, 4.2], "head": ["Infinitive", "ik", "Participle", "English"], "rows": [
+   ["downloaden", "ik download", "gedownload", "to download"],
+   ["updaten", "ik update", "geüpdatet", "to update"],
+   ["googelen", "ik googel", "gegoogeld", "to google"],
+   ["mailen", "ik mail", "gemaild", "to e-mail"],
+   ["skypen", "ik skype", "geskypet", "to video call"],
+   ["chillen", "ik chill", "gechilld", "to chill"]]},
+  {"type": "callout", "kind": "note", "title": "geüpdatet: odd, but correct", "text": "The stem of <i>updaten</i> is <i>updat</i>, pronounced with a t, so the participle ends in -t with an -e- in between: <b>geüpdatet</b>. The trema shows that <i>ge</i> and <i>up</i> are separate syllables. These forms look strange, but they follow the official spelling."},
+  {"type": "h1", "text": "4. Dutch words in English"},
+  {"type": "verbpairs", "title": "From Dutch into English", "items": [
+   ["het jacht", "yacht"], ["de schipper", "skipper"], ["het koekje", "cookie"], ["de baas", "boss"],
+   ["het landschap", "landscape"], ["de ezel", "easel (literally: donkey)"], ["de brandewijn", "brandy"], ["het dek", "deck"],
+   ["de schets", "sketch"], ["snoepen", "to snoop (originally: to eat sweets secretly)"], ["de koolsla", "coleslaw"], ["Sinterklaas", "Santa Claus"]]},
+  {"type": "callout", "kind": "tip", "title": "From the sea and New Amsterdam", "text": "Many of these words come from the 17th century, when the Dutch led in shipping (<i>yacht, skipper, deck</i>) and painting (<i>landscape, easel, sketch</i>). <i>Cookie, boss</i> and <i>Santa Claus</i> came into American English through New Amsterdam, today's New York."},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Ik heb het bestand ______.", "hint": "downloaden, participle", "a": "gedownload", "full": "Ik heb het bestand gedownload."},
+   {"q": "Heb je de app al ______?", "hint": "updaten, participle", "a": "geüpdatet", "full": "Heb je de app al geüpdatet?"},
+   {"q": "Ik heb zijn naam even ______.", "hint": "googelen, participle", "a": "gegoogeld", "full": "Ik heb zijn naam even gegoogeld."},
+   {"q": "Neem je ______ mee, het gaat regenen.", "hint": "umbrella", "a": "paraplu", "full": "Neem je paraplu mee, het gaat regenen."},
+   {"q": "Ik heb een ______ voor je verjaardag.", "hint": "present", "a": "cadeau", "full": "Ik heb een cadeau voor je verjaardag."},
+   {"q": "Mijn ______ zit in mijn jaszak.", "hint": "wallet", "a": "portemonnee", "full": "Mijn portemonnee zit in mijn jaszak."},
+   {"q": "Wat is je ______ Nederlands? B2 of C1?", "hint": "level", "a": "niveau", "full": "Wat is je niveau Nederlands? B2 of C1?"},
+   {"q": "Het Engelse woord yacht komt van het Nederlandse woord ______.", "hint": "from Dutch", "a": "jacht", "full": "Het Engelse woord yacht komt van het Nederlandse woord jacht."},
+   {"q": "De schilder zette zijn doek op de ______.", "hint": "easel", "a": "ezel", "full": "De schilder zette zijn doek op de ezel."},
+   {"q": "Ik heb gisteren de hele dag ______.", "hint": "chillen, participle", "a": "gechilld", "full": "Ik heb gisteren de hele dag gechilld."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "I've downloaded the file.", "a": "Ik heb het bestand gedownload."},
+   {"q": "Have you updated the app?", "a": "Heb je de app geüpdatet?"},
+   {"q": "a present", "a": "een cadeau"},
+   {"q": "the ceiling", "a": "het plafond"}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

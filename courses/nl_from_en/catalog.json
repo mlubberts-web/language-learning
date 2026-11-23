@@ -614,5 +614,16 @@
   "subtitle": "Spoken words like joh and zeg, informal and youth language, idioms and sayings",
   "content": "c2_07_idioms_spoken.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_08_Word_origins",
+  "file": "C2_08_Word_origins.pdf",
+  "level": "C2",
+  "number": 8,
+  "section": "Vocabulary",
+  "title": "Word origins",
+  "subtitle": "Germanic roots shared with English, French loanwords, English words in Dutch, and Dutch words in English",
+  "content": "c2_08_word_origins.json",
+  "exercise_count": 10
  }
 ]
