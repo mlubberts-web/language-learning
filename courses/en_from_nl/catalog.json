@@ -317,5 +317,27 @@
   "subtitle": "Basis-phrasal verbs, make of do, de vele betekenissen van get, onderwijs, media en milieu",
   "content": "b1_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_01_Verhalende_tijden",
+  "file": "B2_01_Verhalende_tijden.pdf",
+  "level": "B2",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "Verhalende tijden",
+  "subtitle": "Alle verleden tijden in één verhaal, used to en would, en be used to",
+  "content": "b2_01_narrative_tenses.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_02_Vormen_van_de_toekomst",
+  "file": "B2_02_Vormen_van_de_toekomst.pdf",
+  "level": "B2",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "Vormen van de toekomst",
+  "subtitle": "future continuous, future perfect, be about to, be due to en de toekomst in het verleden",
+  "content": "b2_02_future_forms.json",
+  "exercise_count": 10
  }
 ]

@@ -1,0 +1,70 @@
+{"meta": {"level": "B2", "section": "Werkwoorden", "number": 2, "total_in_level": 10,
+ "title": "Vormen van de toekomst",
+ "subtitle": "future continuous, future perfect, be about to, be due to en de toekomst in het verleden",
+ "footer": "Language Learning · B2 · Werkwoorden · De toekomst",
+ "next": "Volgende: B2 · pdf 3 — Voorwaardelijke zinnen 3 en gemengd"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "zeggen wat er op een moment in de toekomst bezig zal zijn (<b>will be doing</b>)",
+  "zeggen wat er dan al klaar zal zijn (<b>will have done</b>)",
+  "<b>be about to, be due to, be likely to</b> gebruiken",
+  "de best passende toekomstvorm kiezen"]},
+
+ {"type": "h1", "text": "1. Overzicht van de toekomstvormen"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.0, 6.4], "head": ["Vorm", "Gebruik", "Voorbeeld"], "rows": [
+  ["will", "voorspelling, besluit nu, belofte", "I think it'll rain. I'll help you."],
+  ["going to", "plan, voorspelling op basis van nu", "I'm going to move. Look, it's going to fall!"],
+  ["present continuous", "vaste afspraak", "I'm meeting the boss at ten."],
+  ["present simple", "dienstregeling, programma", "The plane lands at 6.15."],
+  ["will be + -ing", "bezig op een moment in de toekomst", "This time tomorrow I'll be lying on the beach."],
+  ["will have + deelwoord", "klaar vóór een moment in de toekomst", "By Friday I'll have finished the report."]]},
+
+ {"type": "h1", "text": "2. Future continuous en future perfect"},
+ {"type": "conj", "verb": "to finish", "meaning": "afmaken", "label": "regelmatig werkwoord", "tense": "future perfect",
+  "forms": ["will have finished", "will have finished", "will have finished", "will have finished", "will have finished", "will have finished"],
+  "examples": [["I'll have finished by six.", "Om zes uur ben ik klaar."], ["Will you have finished by Monday?", "Ben je maandag klaar?"], ["She'll have finished her degree by June.", "In juni heeft zij haar studie afgerond."], ["We'll have finished the house by spring.", "In het voorjaar is het huis klaar."], ["You'll have finished the course by then.", "Tegen die tijd hebben jullie de cursus afgerond."], ["They won't have finished before Christmas.", "Ze zijn niet voor Kerstmis klaar."]]},
+ {"type": "p", "text": "<b>Future continuous</b>: <i>Don't call at eight; I'll be having dinner.</i> (Bel niet om acht uur; dan zit ik te eten.) Ook als beleefde vraag naar plannen: <i>Will you be using the car tonight?</i> (Heb je de auto vanavond nodig?)"},
+ {"type": "callout", "kind": "dutch", "title": "by = uiterlijk, tegen", "text": "Bij de future perfect hoort vaak <b>by</b>: <i>by Friday</i> = uiterlijk vrijdag, <i>by the time you arrive</i> = tegen de tijd dat je aankomt. Het Nederlands gebruikt hier vaak de tegenwoordige tijd: <i>Vrijdag ben ik klaar</i> = <b>I'll have finished by Friday</b>."},
+
+ {"type": "h1", "text": "3. Andere toekomstvormen"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["be about to", "Hurry up, the train is about to leave.", "De trein staat op het punt te vertrekken."],
+  ["be due to", "The meeting is due to start at nine.", "De vergadering begint volgens plan om negen uur."],
+  ["be likely to", "Prices are likely to rise.", "De prijzen zullen waarschijnlijk stijgen."],
+  ["be bound to", "You're bound to pass. You've worked so hard.", "Je slaagt zeker."],
+  ["be on the point of", "She was on the point of leaving.", "Ze stond op het punt te vertrekken."]]},
+
+ {"type": "h1", "text": "4. De toekomst in het verleden"},
+ {"type": "p", "text": "Vanuit het verleden naar de toekomst kijken doe je met <b>was going to</b> en <b>would</b>: <i>I <b>was going to</b> call you, but I forgot.</i> (Ik was van plan je te bellen.) <i>She knew she <b>would</b> miss him.</i>"},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["At ten tomorrow I will lie on the beach.", "At ten tomorrow I will be lying on the beach.", "Bezig op een moment: will be + -ing."],
+  ["I will finish it until Friday.", "I will have finished it by Friday.", "Uiterlijk: by, met de future perfect."],
+  ["The train is about leaving.", "The train is about to leave.", "be about to + werkwoord."],
+  ["When I will arrive, I'll call you.", "When I arrive, I'll call you.", "Na when: present simple."],
+  ["I wanted to call you, but I forgot it.", "I was going to call you, but I forgot.", "Een plan in het verleden: was going to."],
+  ["Prices are likely rise.", "Prices are likely to rise.", "be likely to + werkwoord."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste toekomstvorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "This time next week I ______ in Spain.", "hint": "ski, bezig", "a": "will be skiing", "full": "This time next week I will be skiing in Spain."},
+  {"q": "By 2030 they ______ the new bridge.", "hint": "build, klaar", "a": "will have built", "full": "By 2030 they will have built the new bridge."},
+  {"q": "Quick, the film is ______ to start!", "hint": "op het punt", "a": "about", "full": "Quick, the film is about to start!"},
+  {"q": "The plane is ______ to land at six.", "hint": "volgens plan", "a": "due", "full": "The plane is due to land at six."},
+  {"q": "I'll have finished the report ______ Monday.", "hint": "uiterlijk", "a": "by", "full": "I'll have finished the report by Monday."},
+  {"q": "Don't phone at seven. I ______ dinner.", "hint": "have, bezig", "a": "will be having", "full": "Don't phone at seven. I will be having dinner."},
+  {"q": "I ______ going to visit you, but my car broke down.", "hint": "was of were", "a": "was", "full": "I was going to visit you, but my car broke down."},
+  {"q": "She's very talented. She's ______ to win.", "hint": "zeker", "a": "bound", "full": "She's very talented. She's bound to win."},
+  {"q": "By the time you get home, I ______ to bed.", "hint": "go, klaar", "a": "will have gone", "full": "By the time you get home, I will have gone to bed."},
+  {"q": "______ you be using the car this evening?", "hint": "beleefde vraag", "a": "Will", "full": "Will you be using the car this evening?"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Vrijdag ben ik klaar met het rapport.", "a": "I'll have finished the report by Friday."},
+  {"q": "Morgen om deze tijd lig ik op het strand.", "a": "This time tomorrow I'll be lying on the beach."},
+  {"q": "De trein staat op het punt te vertrekken.", "a": "The train is about to leave."},
+  {"q": "Ik was van plan je te bellen.", "a": "I was going to call you."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

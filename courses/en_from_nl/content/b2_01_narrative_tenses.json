@@ -1,0 +1,68 @@
+{"meta": {"level": "B2", "section": "Werkwoorden", "number": 1, "total_in_level": 10,
+ "title": "Verhalende tijden",
+ "subtitle": "Alle verleden tijden in één verhaal, used to en would, en be used to",
+ "footer": "Language Learning · B2 · Werkwoorden · Verhalende tijden",
+ "next": "Volgende: B2 · pdf 2 — Vormen van de toekomst"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "een verhaal vertellen met de past simple, past continuous, past perfect en past perfect continuous",
+  "vroegere gewoontes beschrijven met <b>used to</b> en <b>would</b>",
+  "<b>used to do</b>, <b>be used to doing</b> en <b>get used to doing</b> onderscheiden"]},
+
+ {"type": "h1", "text": "1. Vier tijden in één verhaal"},
+ {"type": "table", "style": "plain", "widths": [4.4, 5.0, 7.6], "head": ["Tijd", "Functie", "Voorbeeld"], "rows": [
+  ["past simple", "de gebeurtenissen, in volgorde", "I opened the door and saw a man."],
+  ["past continuous", "de achtergrond, wat bezig was", "It was raining and the wind was blowing."],
+  ["past perfect", "wat daarvoor al gebeurd was", "Someone had broken the window."],
+  ["past perfect continuous", "hoe lang iets al bezig was", "He had been waiting for hours."]]},
+ {"type": "p", "text": "<i>It <b>was getting</b> dark when I <b>arrived</b> at the station. I <b>had been travelling</b> all day and I was exhausted. When I <b>looked</b> for my ticket, I <b>realised</b> that I <b>had left</b> it on the train.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlands vertelt vaak in de voltooide tijd", "text": "In het Nederlands vertel je een verhaal vaak met <i>heb ... gedaan</i>: <i>Gisteren heb ik mijn tas verloren.</i> In het Engels is het verhaal in de <b>past simple</b>: <b>Yesterday I lost my bag.</b> De present perfect hoort niet in een verhaal over een afgesloten moment."},
+
+ {"type": "h1", "text": "2. used to en would"},
+ {"type": "p", "text": "Voor gewoontes en toestanden in het verleden die er nu niet meer zijn, gebruik je <b>used to</b> + werkwoord. Voor herhaalde <i>handelingen</i> (niet toestanden) kan ook <b>would</b>."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["I used to live in Utrecht.", "Ik woonde vroeger in Utrecht."],
+  ["She didn't use to like coffee.", "Vroeger hield ze niet van koffie."],
+  ["Did you use to play football?", "Voetbalde jij vroeger?"],
+  ["Every summer we would go camping.", "Elke zomer gingen we kamperen."]]},
+ {"type": "callout", "kind": "warn", "title": "Niet would voor toestanden", "text": "<i>I <b>used to</b> have long hair</i> is goed, <i>I would have long hair</i> niet: hebben, wonen, houden van en zijn zijn toestanden. En na did en didn't schrijf je <b>use to</b>, zonder d."},
+
+ {"type": "h1", "text": "3. be used to en get used to"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Betekenis"], "rows": [
+  ["used to + werkwoord", "I used to drive on the right.", "vroeger deed ik dat"],
+  ["be used to + -ing", "I'm used to driving on the left now.", "ik ben het gewend"],
+  ["get used to + -ing", "I'm getting used to the cold.", "ik raak eraan gewend"]]},
+ {"type": "callout", "kind": "dutch", "title": "gewend zijn aan = be used to + -ing", "text": "Na <b>be used to</b> en <b>get used to</b> is <i>to</i> een voorzetsel, dus komt er <b>-ing</b> of een zelfstandig naamwoord achter: <i>I'm used to <b>getting up</b> early. I'm used to <b>the noise</b>.</i> Nooit <i>I'm used to get up</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Yesterday I have lost my keys.", "Yesterday I lost my keys.", "Een afgesloten moment: past simple."],
+  ["When I arrived, the film already started.", "When I arrived, the film had already started.", "Daarvoor al gebeurd: past perfect."],
+  ["I would have a dog when I was young.", "I used to have a dog when I was young.", "Een toestand: used to."],
+  ["Did you used to live here?", "Did you use to live here?", "Na did: use to."],
+  ["I'm used to get up early.", "I'm used to getting up early.", "be used to + -ing."],
+  ["I use to play tennis as a child.", "I used to play tennis as a child.", "Vroeger: used to."],
+  ["She was living here for ten years when she moved.", "She had been living here for ten years when she moved.", "Hoe lang al vóór een moment: had been + -ing."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "While I ______ dinner, the phone rang.", "hint": "cook", "a": "was cooking", "full": "While I was cooking dinner, the phone rang."},
+  {"q": "When we got to the cinema, the film ______.", "hint": "start, al eerder", "a": "had started", "full": "When we got to the cinema, the film had started."},
+  {"q": "He was tired because he ______ all night.", "hint": "work, hoe lang", "a": "had been working", "full": "He was tired because he had been working all night."},
+  {"q": "I ______ to live in a small village.", "hint": "vroeger", "a": "used", "full": "I used to live in a small village."},
+  {"q": "Did you ______ to have long hair?", "hint": "use", "a": "use", "full": "Did you use to have long hair?"},
+  {"q": "Every Sunday my grandfather ______ take us to the park.", "hint": "herhaalde handeling", "a": "would", "full": "Every Sunday my grandfather would take us to the park."},
+  {"q": "I'm not used to ______ on the left.", "hint": "drive", "a": "driving", "full": "I'm not used to driving on the left."},
+  {"q": "You'll soon get used to ______ in a big city.", "hint": "live", "a": "living", "full": "You'll soon get used to living in a big city."},
+  {"q": "She ______ her keys, so she couldn't get in.", "hint": "lose, al eerder", "a": "had lost", "full": "She had lost her keys, so she couldn't get in."},
+  {"q": "The sun ______ and the birds were singing.", "hint": "shine, achtergrond", "a": "was shining", "full": "The sun was shining and the birds were singing."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik woonde vroeger in Utrecht.", "a": "I used to live in Utrecht."},
+  {"q": "Ik ben gewend om vroeg op te staan.", "a": "I'm used to getting up early."},
+  {"q": "Gisteren heb ik mijn tas verloren.", "a": "Yesterday I lost my bag."},
+  {"q": "Toen ik aankwam, was hij al weg.", "a": "When I arrived, he had already left."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
