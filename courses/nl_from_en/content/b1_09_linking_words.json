@@ -1,0 +1,68 @@
+{
+ "meta": {"level": "B1", "section": "Grammar", "number": 9, "total_in_level": 10,
+  "title": "Linking words",
+  "subtitle": "maar, want, dus, daarom, toch, hoewel, zodat: three groups, three word orders",
+  "footer": "Language Learning · B1 · Grammar · Linking words",
+  "next": "Next: B1 · pdf 10 — Vocabulary and phrases"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "link sentences with the most common linking words",
+   "know the <b>three word orders</b> that come after them",
+   "express contrast, cause, result and time",
+   "write longer, connected sentences for the Staatsexamen"]},
+  {"type": "h1", "text": "1. Three groups, three word orders"},
+  {"type": "p", "text": "The most important thing about Dutch linking words is the word order that follows. There are three groups. Learn each word together with its group."},
+  {"type": "table", "style": "plain", "widths": [4.4, 5.0, 7.6], "head": ["Group", "Words", "Word order and example"], "rows": [
+   ["1. coordinating", "en, maar, of, want, dus", "normal order: <i>..., want ik <b>ben</b> moe.</i>"],
+   ["2. adverbs", "daarom, toch, echter, bovendien, daarna, toen, anders", "inversion: <i>Daarom <b>ben</b> ik moe.</i>"],
+   ["3. subordinating", "omdat, hoewel, zodat, terwijl, als, nadat, voordat, zodra, tenzij", "verb at the end: <i>..., omdat ik moe <b>ben</b>.</i>"]]},
+  {"type": "callout", "kind": "note", "title": "One meaning, three orders", "text": "<i>because</i>: <b>want ik ben moe</b> (group 1) and <b>omdat ik moe ben</b> (group 3). <i>so, that's why</i>: <b>dus ik blijf thuis</b> (group 1) and <b>daarom blijf ik thuis</b> (group 2). The meaning is almost the same; the word order is not. <b>dus</b> may also take inversion: <i>dus blijf ik thuis</i>."},
+  {"type": "h1", "text": "2. By meaning"},
+  {"type": "table", "style": "plain", "widths": [3.6, 6.6, 6.8], "head": ["Meaning", "Words", "Example"], "rows": [
+   ["contrast", "maar, toch, echter, hoewel", "Het regende, toch gingen we wandelen."],
+   ["cause", "want, omdat, doordat", "Ik kwam te laat doordat de trein vertraging had."],
+   ["result", "dus, daarom, zodat", "Ik was ziek, daarom bleef ik thuis."],
+   ["addition", "en, ook, bovendien", "Het is duur en bovendien is het lelijk."],
+   ["time", "toen, daarna, terwijl, nadat, zodra", "Zodra ik thuis ben, bel ik je."],
+   ["condition", "als, tenzij, anders", "Haast je, anders mis je de trein."]]},
+  {"type": "callout", "kind": "tip", "title": "toch: still, anyway, after all", "text": "<b>toch</b> is a favourite Dutch word. As a linking word it means <i>still, all the same</i>: <i>Het was koud, <b>toch</b> gingen we zwemmen.</i> In a statement it means <i>after all, really</i>: <i>Je komt <b>toch</b>?</i> (You are coming, aren't you?) More in B2 · pdf 3."},
+  {"type": "callout", "kind": "warn", "title": "omdat or doordat?", "text": "<b>omdat</b> gives a reason (someone's motive or a general cause). <b>doordat</b> gives a cause without intention, often an event: <i>De trein had vertraging <b>doordat</b> er een storing was.</i> In speech, omdat is fine for both; in writing, examiners like doordat for causes."},
+  {"type": "verbpairs", "title": "Linking words", "items": [
+   ["maar", "but"], ["want", "because, for"], ["dus", "so"], ["daarom", "that's why, therefore"],
+   ["toch", "still, anyway"], ["echter", "however"], ["bovendien", "moreover, besides"], ["hoewel", "although"],
+   ["zodat", "so that"], ["terwijl", "while, whereas"], ["zodra", "as soon as"], ["tenzij", "unless"],
+   ["anders", "otherwise"], ["doordat", "because (cause)"]]},
+  {"type": "h1", "text": "3. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Ik ben moe, daarom ik blijf thuis.", "Ik ben moe, daarom blijf ik thuis.", "After daarom: inversion."],
+   ["Ik blijf thuis, want ik moe ben.", "Ik blijf thuis, want ik ben moe.", "After want: normal order."],
+   ["Ik blijf thuis, omdat ik ben moe.", "Ik blijf thuis, omdat ik moe ben.", "After omdat: verb at the end."],
+   ["Hoewel het regent, we gaan wandelen.", "Hoewel het regent, gaan we wandelen.", "After a subordinate clause: the verb first."],
+   ["Het regende, toch we gingen.", "Het regende, toch gingen we.", "After toch: inversion."],
+   ["Zodra ik ben thuis, bel ik je.", "Zodra ik thuis ben, bel ik je.", "After zodra: verb at the end."],
+   ["Haast je, of anders je mist de trein.", "Haast je, anders mis je de trein.", "After anders: inversion."]]},
+  {"type": "h1", "text": "4. Self-check"},
+  {"type": "p", "text": "Fill in the linking word or the verb in the right place. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Ik ben ziek, ______ blijf ik thuis.", "hint": "that's why", "a": "daarom", "full": "Ik ben ziek, daarom blijf ik thuis."},
+   {"q": "Ik blijf thuis, want ik ______ ziek.", "hint": "zijn", "a": "ben", "full": "Ik blijf thuis, want ik ben ziek."},
+   {"q": "Ik blijf thuis, omdat ik ziek ______.", "hint": "zijn", "a": "ben", "full": "Ik blijf thuis, omdat ik ziek ben."},
+   {"q": "Het was koud, ______ gingen we zwemmen.", "hint": "still", "a": "toch", "full": "Het was koud, toch gingen we zwemmen."},
+   {"q": "______ het regent, gaan we wandelen.", "hint": "although", "a": "hoewel", "full": "Hoewel het regent, gaan we wandelen."},
+   {"q": "Praat langzaam, ______ iedereen het begrijpt.", "hint": "so that", "a": "zodat", "full": "Praat langzaam, zodat iedereen het begrijpt."},
+   {"q": "Haast je, ______ mis je de bus.", "hint": "otherwise", "a": "anders", "full": "Haast je, anders mis je de bus."},
+   {"q": "Ik bel je ______ ik thuis ben.", "hint": "as soon as", "a": "zodra", "full": "Ik bel je zodra ik thuis ben."},
+   {"q": "Ik kom morgen, ______ ik ziek word.", "hint": "unless", "a": "tenzij", "full": "Ik kom morgen, tenzij ik ziek word."},
+   {"q": "Het huis is mooi en ______ is het goedkoop.", "hint": "moreover", "a": "bovendien", "full": "Het huis is mooi en bovendien is het goedkoop."},
+   {"q": "De trein had vertraging ______ er een storing was.", "hint": "because, cause", "a": "doordat", "full": "De trein had vertraging doordat er een storing was."},
+   {"q": "Ik had geen geld, ______ ik kon niet mee.", "hint": "so", "a": "dus", "full": "Ik had geen geld, dus ik kon niet mee."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "I was ill, that's why I stayed at home.", "a": "Ik was ziek, daarom bleef ik thuis."},
+   {"q": "Although it was cold, we went swimming.", "a": "Hoewel het koud was, gingen we zwemmen."},
+   {"q": "I'll call you as soon as I'm home.", "a": "Ik bel je zodra ik thuis ben."},
+   {"q": "Hurry up, otherwise you'll miss the train.", "a": "Haast je, anders mis je de trein."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
