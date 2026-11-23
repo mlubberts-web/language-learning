@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Las oraciones de relativo",
+  "subtitle": "who, which, that, whose y where; especificativas y explicativas; omitir el pronombre",
+  "footer": "Language Learning · B1 · Gramática · Oraciones de relativo",
+  "next": "Siguiente: B1 · pdf 6 — El estilo indirecto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "unir frases con <b>who, which, that, whose</b> y <b>where</b>",
+    "distinguir las oraciones especificativas y explicativas, con las comas correctas",
+    "omitir el pronombre relativo cuando se puede",
+    "poner las preposiciones al final de la oración de relativo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿Qué palabra?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    5.0,
+    9.0
+   ],
+   "head": [
+    "Palabra",
+    "Para",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "who",
+     "personas",
+     "The woman who lives next door is a doctor."
+    ],
+    [
+     "which",
+     "cosas y animales",
+     "The book which I'm reading is great."
+    ],
+    [
+     "that",
+     "personas y cosas (no después de una coma)",
+     "The man that called you is here. The car that I bought is red."
+    ],
+    [
+     "whose",
+     "posesión (cuyo, cuya)",
+     "That's the girl whose brother plays for Real Madrid."
+    ],
+    [
+     "where",
+     "lugares",
+     "This is the hotel where we stayed."
+    ],
+    [
+     "when",
+     "tiempo",
+     "I remember the day when we met."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "que = who, which o that",
+   "text": "El español usa <i>que</i> para todo. El inglés elige según sea <b>persona o cosa</b>: <i>el hombre que</i> = <b>the man who</b>, <i>el libro que</i> = <b>the book which / that</b>. Y <i>lo que</i> después de una frase entera es <b>which</b>: <i>Llegó tarde, lo que me molestó</i> = <b>He was late, which annoyed me</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Especificativa o explicativa?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Especificativa (sin comas)",
+    "Explicativa (con comas)"
+   ],
+   "rows": [
+    [
+     "My brother who lives in Spain is a chef. (tengo más hermanos)",
+     "My brother, who lives in Spain, is a chef. (tengo un solo hermano)"
+    ],
+    [
+     "The students who studied passed. (solo ellos)",
+     "The students, who studied hard, all passed. (todos los alumnos)"
+    ],
+    [
+     "that sí: The film that we saw was good.",
+     "that no: The film, which we saw last week, was good."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Después de una coma, nunca that",
+   "text": "En una explicativa (con comas) solo se usa <b>who</b> o <b>which</b>: <i>Madrid, <b>which</b> is the capital, ...</i>, nunca <i>Madrid, that is the capital</i>. Funciona como en español: las comas cambian el significado."
+  },
+  {
+   "type": "h1",
+   "text": "3. Omitir el pronombre"
+  },
+  {
+   "type": "p",
+   "text": "En una oración <b>especificativa</b> se puede omitir who, which o that cuando es el <b>complemento</b> (después viene un nuevo sujeto). Los ingleses lo hacen muchísimo al hablar."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Con",
+    "Sin"
+   ],
+   "rows": [
+    [
+     "The book that I read was boring.",
+     "The book I read was boring."
+    ],
+    [
+     "The people who we met were nice.",
+     "The people we met were nice."
+    ],
+    [
+     "The man who lives here is old.",
+     "No se omite: aquí who es el sujeto."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El español nunca omite el 'que'",
+   "text": "<i>El libro que leí</i> siempre lleva 'que'. Los ingleses dicen casi siempre <b>the book I read</b>. Reconoce esas frases al leer: parece que falta una palabra, pero está bien así."
+  },
+  {
+   "type": "h1",
+   "text": "4. Las preposiciones"
+  },
+  {
+   "type": "p",
+   "text": "En el inglés normal la preposición va al <b>final</b> de la oración de relativo, no delante como en español (<i>la chica con la que hablaba</i>): <i>the girl I was talking <b>to</b></i>, <i>the house we live <b>in</b></i>, <i>the music I listen <b>to</b></i>. En inglés formal va delante, con whom o which: <i>the person <b>to whom</b> I spoke</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "what = lo que",
+   "text": "<b>what</b> significa <i>lo que</i>: <i><b>What</b> I need is a holiday. I don't understand <b>what</b> you mean.</i> Pero después de un sustantivo o de <i>everything</i> y <i>all</i> no: <i>everything <b>that</b> I know</i> (todo lo que sé), nunca <i>everything what</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "The man which called you is here.",
+     "The man who called you is here.",
+     "Para personas: who."
+    ],
+    [
+     "My mother, that is a teacher, lives in Delft.",
+     "My mother, who is a teacher, lives in Delft.",
+     "Después de una coma, nada de that."
+    ],
+    [
+     "He was late, what annoyed me.",
+     "He was late, which annoyed me.",
+     "Después de una frase entera: which."
+    ],
+    [
+     "The girl who her father is a pilot.",
+     "The girl whose father is a pilot.",
+     "Posesión: whose."
+    ],
+    [
+     "That's the shop where I bought it there.",
+     "That's the shop where I bought it.",
+     "where ya sustituye a 'allí'."
+    ],
+    [
+     "Everything what he said was true.",
+     "Everything that he said was true.",
+     "Después de everything: that."
+    ],
+    [
+     "The man lives here is old.",
+     "The man who lives here is old.",
+     "who como sujeto no se puede omitir."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con who, which, that, whose, where o what. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The doctor ______ treated me was very kind.",
+     "hint": "persona (who o that; escribe who)",
+     "a": "who",
+     "full": "The doctor who treated me was very kind."
+    },
+    {
+     "q": "Is this the bus ______ goes to the airport?",
+     "hint": "cosa (which o that; escribe which)",
+     "a": "which",
+     "full": "Is this the bus which goes to the airport?"
+    },
+    {
+     "q": "That's the man ______ car was stolen.",
+     "hint": "posesión",
+     "a": "whose",
+     "full": "That's the man whose car was stolen."
+    },
+    {
+     "q": "This is the café ______ we first met.",
+     "hint": "lugar",
+     "a": "where",
+     "full": "This is the café where we first met."
+    },
+    {
+     "q": "London, ______ is the capital of the UK, is very expensive.",
+     "hint": "después de una coma",
+     "a": "which",
+     "full": "London, which is the capital of the UK, is very expensive."
+    },
+    {
+     "q": "She failed the exam, ______ surprised everyone.",
+     "hint": "después de una frase entera",
+     "a": "which",
+     "full": "She failed the exam, which surprised everyone."
+    },
+    {
+     "q": "I don't understand ______ you're saying.",
+     "hint": "lo que",
+     "a": "what",
+     "full": "I don't understand what you're saying."
+    },
+    {
+     "q": "My sister, ______ lives in Canada, is visiting us.",
+     "hint": "persona, después de una coma",
+     "a": "who",
+     "full": "My sister, who lives in Canada, is visiting us."
+    },
+    {
+     "q": "The music I listen ______ is mostly jazz.",
+     "hint": "preposición",
+     "a": "to",
+     "full": "The music I listen to is mostly jazz."
+    },
+    {
+     "q": "All ______ you need is love.",
+     "hint": "después de all",
+     "a": "that",
+     "full": "All that you need is love."
+    },
+    {
+     "q": "The student ______ phone rang had to leave.",
+     "hint": "posesión",
+     "a": "whose",
+     "full": "The student whose phone rang had to leave."
+    },
+    {
+     "q": "That was the year ______ I finished school.",
+     "hint": "tiempo",
+     "a": "when",
+     "full": "That was the year when I finished school."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "La mujer que vive al lado es médica.",
+     "a": "The woman who lives next to us is a doctor."
+    },
+    {
+     "q": "Este es el hotel donde nos alojamos.",
+     "a": "This is the hotel where we stayed."
+    },
+    {
+     "q": "Él llegó tarde, lo que me molestó.",
+     "a": "He was late, which annoyed me."
+    },
+    {
+     "q": "La chica con la que hablaba es española.",
+     "a": "The girl I was talking to is Spanish."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,412 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "El estilo indirecto",
+  "subtitle": "said y told, los tiempos un paso atrás, y las preguntas y peticiones indirectas",
+  "footer": "Language Learning · B1 · Gramática · El estilo indirecto",
+  "next": "Siguiente: B1 · pdf 7 — ¿Gerundio o infinitivo?"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "contar lo que alguien dijo, con <b>say</b> y <b>tell</b>",
+    "poner los tiempos un paso atrás",
+    "hacer preguntas indirectas con <b>if</b> y con palabras interrogativas, sin do",
+    "contar peticiones y órdenes con <b>asked / told someone to</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿say o tell?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    6.0,
+    8.0
+   ],
+   "head": [
+    "",
+    "Regla",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "say",
+     "sin persona, o con to + persona",
+     "She said (that) she was tired. She said to me that ..."
+    ],
+    [
+     "tell",
+     "siempre con una persona justo detrás",
+     "She told me (that) she was tired."
+    ],
+    [
+     "tell",
+     "combinaciones fijas",
+     "tell the truth, tell a lie, tell a story, tell the time"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Me dijo = He told me",
+   "text": "El español usa <i>decir</i> para las dos cosas. Recuerda: si justo después viene una persona, se usa <b>tell</b>: <i>Me dijo que ...</i> = <b>He told me that ...</b>, nunca <i>He said me</i>. Y <i>decir la verdad, decir una mentira, contar un cuento</i> = <b>tell the truth, tell a lie, tell a story</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los tiempos, un paso atrás"
+  },
+  {
+   "type": "p",
+   "text": "Después de un verbo en pasado (said, told, asked) el tiempo suele ir un paso atrás, como en español (<i>dijo que estaba cansada</i>). También cambian los pronombres y las expresiones de tiempo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Lo que dijo",
+    "Indirecto",
+    "Tiempo"
+   ],
+   "rows": [
+    [
+     "\"I'm tired.\"",
+     "She said she was tired.",
+     "present → past"
+    ],
+    [
+     "\"I'm working.\"",
+     "He said he was working.",
+     "present continuous → past continuous"
+    ],
+    [
+     "\"I saw the film.\"",
+     "She said she had seen the film.",
+     "past → past perfect"
+    ],
+    [
+     "\"I've finished.\"",
+     "He said he had finished.",
+     "present perfect → past perfect"
+    ],
+    [
+     "\"I'll call you.\"",
+     "She said she would call me.",
+     "will → would"
+    ],
+    [
+     "\"I can swim.\"",
+     "He said he could swim.",
+     "can → could"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Directo",
+    "Indirecto",
+    ""
+   ],
+   "rows": [
+    [
+     "today",
+     "that day",
+     ""
+    ],
+    [
+     "tomorrow",
+     "the next day",
+     ""
+    ],
+    [
+     "yesterday",
+     "the day before",
+     ""
+    ],
+    [
+     "here",
+     "there",
+     ""
+    ],
+    [
+     "this",
+     "that",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿Cuándo no se cambia?",
+   "text": "Si sigue siendo verdad, el tiempo puede quedarse igual: <i>She said she <b>lives</b> in Leiden</i> (todavía vive allí). Y después de un verbo en presente no cambia nada: <i>He says he's busy.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Las preguntas indirectas"
+  },
+  {
+   "type": "p",
+   "text": "En una pregunta indirecta va el orden normal (sujeto – verbo), <b>sin do, does ni did</b> y sin signo de interrogación. Las preguntas de sí o no llevan <b>if</b> o <b>whether</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Pregunta directa",
+    "Indirecta",
+    "Español"
+   ],
+   "rows": [
+    [
+     "\"Where do you live?\"",
+     "He asked me where I lived.",
+     "Me preguntó dónde vivía."
+    ],
+    [
+     "\"Are you hungry?\"",
+     "She asked if I was hungry.",
+     "Me preguntó si tenía hambre."
+    ],
+    [
+     "\"What time is it?\"",
+     "Can you tell me what time it is?",
+     "¿Me puede decir qué hora es?"
+    ],
+    [
+     "\"Did you see him?\"",
+     "They asked whether I had seen him.",
+     "Me preguntaron si lo había visto."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Orden normal: where the toilets are",
+   "text": "El español mantiene el orden de la pregunta (<i>¿Sabes dónde están los servicios?</i>). El inglés no: <b>Do you know where the toilets are?</b>, nunca <i>where are the toilets</i>. Y el <i>si</i> de una pregunta indirecta es <b>if</b> o <b>whether</b>: <i>No sé si viene</i> = <b>I don't know if he's coming</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Peticiones y órdenes"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Directo",
+    "Indirecto",
+    "Español"
+   ],
+   "rows": [
+    [
+     "\"Please help me.\"",
+     "She asked me to help her.",
+     "Me pidió que la ayudara."
+    ],
+    [
+     "\"Sit down!\"",
+     "He told us to sit down.",
+     "Nos dijo que nos sentáramos."
+    ],
+    [
+     "\"Don't be late.\"",
+     "My boss told me not to be late.",
+     "Mi jefe me dijo que no llegara tarde."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "He said me that he was ill.",
+     "He told me that he was ill.",
+     "Con una persona justo detrás: tell."
+    ],
+    [
+     "She asked me where did I live.",
+     "She asked me where I lived.",
+     "Pregunta indirecta: sin did, orden normal."
+    ],
+    [
+     "Can you tell me where is the station?",
+     "Can you tell me where the station is?",
+     "Pregunta indirecta: el sujeto delante del verbo."
+    ],
+    [
+     "He told that he was tired.",
+     "He said that he was tired.",
+     "Sin persona: say."
+    ],
+    [
+     "She asked me that if I wanted tea.",
+     "She asked me if I wanted tea.",
+     "El si de una pregunta indirecta: if, sin that delante (no: preguntó que si)."
+    ],
+    [
+     "He told me don't touch it.",
+     "He told me not to touch it.",
+     "Contar una prohibición: not to."
+    ],
+    [
+     "She said she will come.",
+     "She said she would come.",
+     "will se convierte en would."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "She ______ me she was leaving.",
+     "hint": "say o tell",
+     "a": "told",
+     "full": "She told me she was leaving."
+    },
+    {
+     "q": "He ______ that he didn't like fish.",
+     "hint": "say o tell",
+     "a": "said",
+     "full": "He said that he didn't like fish."
+    },
+    {
+     "q": "\"I'm busy.\" — She said she ______ busy.",
+     "hint": "tiempo un paso atrás",
+     "a": "was",
+     "full": "\"I'm busy.\" — She said she was busy."
+    },
+    {
+     "q": "\"I'll help you.\" — He said he ______ help me.",
+     "hint": "will un paso atrás",
+     "a": "would",
+     "full": "\"I'll help you.\" — He said he would help me."
+    },
+    {
+     "q": "\"I saw it.\" — She said she ______ seen it.",
+     "hint": "past perfect",
+     "a": "had",
+     "full": "\"I saw it.\" — She said she had seen it."
+    },
+    {
+     "q": "He asked me ______ I was married.",
+     "hint": "si",
+     "a": "if",
+     "full": "He asked me if I was married."
+    },
+    {
+     "q": "Can you tell me where the toilets ______?",
+     "hint": "to be",
+     "a": "are",
+     "full": "Can you tell me where the toilets are?"
+    },
+    {
+     "q": "She asked me ______ close the window.",
+     "hint": "petición",
+     "a": "to",
+     "full": "She asked me to close the window."
+    },
+    {
+     "q": "The doctor told me ______ to eat too much sugar.",
+     "hint": "prohibición",
+     "a": "not",
+     "full": "The doctor told me not to eat too much sugar."
+    },
+    {
+     "q": "\"I can drive.\" — He said he ______ drive.",
+     "hint": "can un paso atrás",
+     "a": "could",
+     "full": "\"I can drive.\" — He said he could drive."
+    },
+    {
+     "q": "I don't know ______ she will come.",
+     "hint": "si",
+     "a": "if",
+     "full": "I don't know if she will come."
+    },
+    {
+     "q": "Don't ______ lies!",
+     "hint": "say o tell",
+     "a": "tell",
+     "full": "Don't tell lies!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Él dijo que estaba cansado.",
+     "a": "He said he was tired."
+    },
+    {
+     "q": "Ella me preguntó dónde vivía.",
+     "a": "She asked me where I lived."
+    },
+    {
+     "q": "No sé si él viene.",
+     "a": "I don't know if he's coming."
+    },
+    {
+     "q": "Mi madre me pidió que la ayudara.",
+     "a": "My mother asked me to help her."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

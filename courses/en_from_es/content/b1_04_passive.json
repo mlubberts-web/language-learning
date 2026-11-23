@@ -1,0 +1,312 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "La voz pasiva",
+  "subtitle": "be + participio en todos los tiempos, by, y get something done",
+  "footer": "Language Learning · B1 · Gramática · La voz pasiva",
+  "next": "Siguiente: B1 · pdf 5 — Las oraciones de relativo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar la voz pasiva con <b>be + participio</b>",
+    "usarla en present, past, present perfect y con verbos modales",
+    "decir quién hace algo con <b>by</b>",
+    "usar <b>have / get something done</b> (mandar hacer algo)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "La voz pasiva (passive) se forma con una forma de <b>be</b> más el <b>participio</b>. El tiempo está en be; el participio no cambia."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Tiempo",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "present simple",
+     "English is spoken here.",
+     "Aquí se habla inglés."
+    ],
+    [
+     "present continuous",
+     "The road is being repaired.",
+     "Están arreglando la carretera (ahora mismo)."
+    ],
+    [
+     "past simple",
+     "The bridge was built in 1890.",
+     "El puente se construyó en 1890."
+    ],
+    [
+     "present perfect",
+     "My bike has been stolen.",
+     "Me han robado la bici."
+    ],
+    [
+     "will",
+     "The results will be published tomorrow.",
+     "Los resultados se publicarán mañana."
+    ],
+    [
+     "verbo modal",
+     "This must be done today.",
+     "Esto hay que hacerlo hoy."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "se habla = is spoken",
+   "text": "El español usa mucho el <i>se</i> (<i>se habla inglés</i>, <i>se vende piso</i>) o la tercera persona del plural (<i>me han robado la bici</i>). El inglés usa la pasiva con <b>be</b>: <b>English is spoken here</b>, <b>Flat for sale</b> o <b>A flat is being sold</b>, <b>My bike has been stolen</b>. Nunca <i>Here speaks English</i> ni <i>Is spoken English</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Cuándo se usa?"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Cuando no importa quién lo hace: <i>The rubbish <b>is collected</b> on Mondays.</i>",
+    "Cuando no lo sabes: <i>My car <b>was stolen</b> last night.</i>",
+    "Cuando es evidente: <i>He <b>was arrested</b>.</i> (por la policía)",
+    "En textos formales, noticias y ciencia: <i>The tests <b>were carried out</b> in May.</i>"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Si aun así quieres decir quién lo hace, usa <b>by</b> (por): <i>Hamlet was written <b>by</b> Shakespeare.</i> <i>The window was broken <b>by</b> a ball.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Preguntas y negaciones",
+   "text": "Las mismas reglas que con be: <i><b>Was</b> it made in China? It <b>wasn't</b> made in China. When <b>was</b> it built? <b>Has</b> the room <b>been</b> cleaned?</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. have / get something done"
+  },
+  {
+   "type": "p",
+   "text": "Cuando otra persona hace algo por ti (normalmente pagando), se usa <b>have</b> o <b>get</b> + complemento + participio. <b>get</b> es más informal."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I had my hair cut yesterday.",
+     "Ayer me corté el pelo (en la peluquería)."
+    ],
+    [
+     "We're getting the kitchen painted.",
+     "Nos están pintando la cocina."
+    ],
+    [
+     "You should get your car checked.",
+     "Deberías llevar el coche a revisar."
+    ],
+    [
+     "She had her bike repaired.",
+     "Le arreglaron la bici."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Me corté el pelo = I had my hair cut",
+   "text": "<i>Me corté el pelo</i> suele significar en español que lo hizo el peluquero. En inglés se dice entonces <b>I had my hair cut</b>. <i>I cut my hair</i> significa que lo hiciste tú mismo."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Here speaks English.",
+     "English is spoken here.",
+     "Se habla = is spoken (be + participio)."
+    ],
+    [
+     "My bike is stolen yesterday.",
+     "My bike was stolen yesterday.",
+     "En pasado: was."
+    ],
+    [
+     "This book was written from Orwell.",
+     "This book was written by Orwell.",
+     "Quién lo hace: by."
+    ],
+    [
+     "English is speak in Ghana.",
+     "English is spoken in Ghana.",
+     "be + participio."
+    ],
+    [
+     "The letters has been sent.",
+     "The letters have been sent.",
+     "En plural: have been."
+    ],
+    [
+     "I cut my hair at the hairdresser's.",
+     "I had my hair cut at the hairdresser's.",
+     "Mandar hacer algo: have something done."
+    ],
+    [
+     "It must do today.",
+     "It must be done today.",
+     "Pasiva después de un verbo modal: be + participio."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la voz pasiva. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "This cheese ______ in France.",
+     "hint": "make, present simple",
+     "a": "is made",
+     "full": "This cheese is made in France."
+    },
+    {
+     "q": "The Eiffel Tower ______ in 1889.",
+     "hint": "build, past simple",
+     "a": "was built",
+     "full": "The Eiffel Tower was built in 1889."
+    },
+    {
+     "q": "My wallet ______. I can't find it!",
+     "hint": "steal, present perfect",
+     "a": "has been stolen",
+     "full": "My wallet has been stolen. I can't find it!"
+    },
+    {
+     "q": "The new hospital ______ next year.",
+     "hint": "open, will",
+     "a": "will be opened",
+     "full": "The new hospital will be opened next year."
+    },
+    {
+     "q": "The road ______ at the moment.",
+     "hint": "repair, present continuous",
+     "a": "is being repaired",
+     "full": "The road is being repaired at the moment."
+    },
+    {
+     "q": "This song was written ______ John Lennon.",
+     "hint": "por",
+     "a": "by",
+     "full": "This song was written by John Lennon."
+    },
+    {
+     "q": "The homework must ______ handed in on Friday.",
+     "hint": "be",
+     "a": "be",
+     "full": "The homework must be handed in on Friday."
+    },
+    {
+     "q": "Where ______ these shoes made?",
+     "hint": "was o were",
+     "a": "were",
+     "full": "Where were these shoes made?"
+    },
+    {
+     "q": "I'm having my car ______ tomorrow.",
+     "hint": "service, participio",
+     "a": "serviced",
+     "full": "I'm having my car serviced tomorrow."
+    },
+    {
+     "q": "She ______ her hair cut last week.",
+     "hint": "have, past simple",
+     "a": "had",
+     "full": "She had her hair cut last week."
+    },
+    {
+     "q": "The rooms ______ cleaned every day.",
+     "hint": "be, present simple",
+     "a": "are",
+     "full": "The rooms are cleaned every day."
+    },
+    {
+     "q": "Two people ______ injured in the accident.",
+     "hint": "be, past simple",
+     "a": "were",
+     "full": "Two people were injured in the accident."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me han robado la bici.",
+     "a": "My bike has been stolen."
+    },
+    {
+     "q": "Aquí se habla inglés.",
+     "a": "English is spoken here."
+    },
+    {
+     "q": "El puente se construyó en 1890.",
+     "a": "The bridge was built in 1890."
+    },
+    {
+     "q": "Ayer me corté el pelo en la peluquería.",
+     "a": "I had my hair cut yesterday."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

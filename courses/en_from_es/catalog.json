@@ -240,5 +240,38 @@
   "subtitle": "Hechos, posibilidades reales y situaciones imaginarias, con if, unless, when y would",
   "content": "b1_03_conditionals.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_04_La_voz_pasiva",
+  "file": "B1_04_La_voz_pasiva.pdf",
+  "level": "B1",
+  "number": 4,
+  "section": "Gramática",
+  "title": "La voz pasiva",
+  "subtitle": "be + participio en todos los tiempos, by, y get something done",
+  "content": "b1_04_passive.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_05_Las_oraciones_de_relativo",
+  "file": "B1_05_Las_oraciones_de_relativo.pdf",
+  "level": "B1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "Las oraciones de relativo",
+  "subtitle": "who, which, that, whose y where; especificativas y explicativas; omitir el pronombre",
+  "content": "b1_05_relative_clauses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_06_El_estilo_indirecto",
+  "file": "B1_06_El_estilo_indirecto.pdf",
+  "level": "B1",
+  "number": 6,
+  "section": "Gramática",
+  "title": "El estilo indirecto",
+  "subtitle": "said y told, los tiempos un paso atrás, y las preguntas y peticiones indirectas",
+  "content": "b1_06_reported_speech.json",
+  "exercise_count": 12
  }
 ]
