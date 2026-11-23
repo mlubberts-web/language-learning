@@ -1,0 +1,80 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 7, "total_in_level": 10,
+ "title": "Gerund of infinitief",
+ "subtitle": "enjoy doing of want to do; werkwoorden met allebei; make en let",
+ "footer": "Language Learning · B1 · Grammatica · Gerund of infinitief",
+ "next": "Volgende: B1 · pdf 8 — Modale werkwoorden van waarschijnlijkheid"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "kiezen tussen de <b>-ing</b>-vorm en <b>to</b> + werkwoord na een werkwoord",
+  "de -ing-vorm gebruiken na voorzetsels en als onderwerp",
+  "het betekenisverschil kennen bij <b>stop, remember, forget</b> en <b>try</b>",
+  "<b>make</b> en <b>let</b> gebruiken zonder to"]},
+
+ {"type": "h1", "text": "1. Werkwoord + -ing"},
+ {"type": "verbpairs", "title": "Na deze werkwoorden: -ing", "items": [
+  ["enjoy", "genieten van, leuk vinden"], ["finish", "klaar zijn met"], ["mind", "erg vinden"], ["avoid", "vermijden"],
+  ["suggest", "voorstellen"], ["consider", "overwegen"], ["keep", "blijven, steeds"], ["miss", "missen"],
+  ["practise", "oefenen"], ["give up", "stoppen met, opgeven"], ["can't stand", "niet kunnen uitstaan"], ["look forward to", "uitkijken naar"]]},
+ {"type": "p", "text": "<i>I enjoy <b>cooking</b>. Do you mind <b>waiting</b>? She suggested <b>going</b> to the beach. I'm looking forward to <b>seeing</b> you.</i>"},
+ {"type": "callout", "kind": "warn", "title": "Na een voorzetsel altijd -ing", "text": "Na <b>in, at, of, about, before, after, without, by</b> en andere voorzetsels gebruik je de -ing-vorm: <i>I'm good <b>at swimming</b>. Thanks <b>for helping</b>. He left <b>without saying</b> goodbye.</i> Ook na <b>look forward to</b>: het to is hier een voorzetsel."},
+
+ {"type": "h1", "text": "2. Werkwoord + to"},
+ {"type": "verbpairs", "title": "Na deze werkwoorden: to + werkwoord", "items": [
+  ["want", "willen"], ["would like", "graag willen"], ["decide", "besluiten"], ["hope", "hopen"],
+  ["plan", "van plan zijn"], ["promise", "beloven"], ["agree", "afspreken, instemmen"], ["refuse", "weigeren"],
+  ["learn", "leren"], ["need", "nodig hebben, moeten"], ["afford", "zich kunnen veroorloven"], ["seem", "lijken"]]},
+ {"type": "p", "text": "<i>I want <b>to go</b> home. We decided <b>to stay</b>. She promised <b>to call</b> me. I can't afford <b>to buy</b> a car.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Te + infinitief = to of -ing", "text": "Het Nederlands heeft één vorm: <i>Ik probeer te slapen. Ik hou van koken.</i> Het Engels kiest per werkwoord: <b>I try to sleep</b>, <b>I love cooking</b>. Leer de werkwoorden in de lijsten hierboven als vaste combinatie."},
+
+ {"type": "h1", "text": "3. Met allebei, met een andere betekenis"},
+ {"type": "table", "style": "plain", "widths": [3.0, 7.0, 7.0], "head": ["Werkwoord", "+ -ing", "+ to"], "rows": [
+  ["stop", "I stopped smoking. (ik rook niet meer)", "I stopped to smoke. (ik stopte om te roken)"],
+  ["remember", "I remember meeting her. (ik weet het nog)", "Remember to call her. (vergeet het niet)"],
+  ["forget", "I'll never forget visiting Rome. (de herinnering)", "I forgot to lock the door. (het niet gedaan)"],
+  ["try", "Try adding salt. (probeer het eens, als test)", "I tried to open it. (ik deed moeite)"]]},
+ {"type": "callout", "kind": "tip", "title": "like, love, hate, start, begin", "text": "Bij <b>like, love, hate, start, begin, continue</b> kun je allebei gebruiken zonder groot verschil: <i>It started to rain / It started raining.</i> Maar <b>would like</b> heeft altijd to: <i>I'd like to go.</i>"},
+
+ {"type": "h1", "text": "4. make, let en help"},
+ {"type": "p", "text": "Na <b>make</b> (laten, dwingen) en <b>let</b> (laten, toestaan) volgt een kaal werkwoord, zonder to. Na <b>help</b> mag het allebei."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["My boss made me work late.", "Mijn baas liet me tot laat werken."],
+  ["My parents let me stay up late.", "Mijn ouders lieten me laat opblijven."],
+  ["Can you help me (to) carry this?", "Kun je me helpen dit te dragen?"],
+  ["The film made me cry.", "Ik moest huilen om de film."]]},
+ {"type": "callout", "kind": "warn", "title": "laten is niet altijd let", "text": "<i>Iets laten repareren</i> is <b>have something repaired</b> (pdf 4). <i>Iemand laten wachten</i> is <b>keep someone waiting</b>. <i>Iets laten vallen</i> is <b>drop something</b>. Alleen 'toestaan' is let."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I enjoy to swim.", "I enjoy swimming.", "Na enjoy: -ing."],
+  ["I want going home.", "I want to go home.", "Na want: to."],
+  ["I'm looking forward to see you.", "I'm looking forward to seeing you.", "to is hier een voorzetsel: -ing."],
+  ["Thanks for help me.", "Thanks for helping me.", "Na een voorzetsel: -ing."],
+  ["She made me to wait.", "She made me wait.", "Na make geen to."],
+  ["My parents don't let me to go out.", "My parents don't let me go out.", "Na let geen to."],
+  ["I stopped to smoke last year.", "I stopped smoking last year.", "Ophouden met: stop + -ing."],
+  ["Don't forget locking the door.", "Don't forget to lock the door.", "Iets nog moeten doen: forget to."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de -ing-vorm of to + werkwoord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I really enjoy ______ in the mountains.", "hint": "walk", "a": "walking", "full": "I really enjoy walking in the mountains."},
+  {"q": "We decided ______ at home.", "hint": "stay", "a": "to stay", "full": "We decided to stay at home."},
+  {"q": "Would you mind ______ the window?", "hint": "open", "a": "opening", "full": "Would you mind opening the window?"},
+  {"q": "She's very good at ______.", "hint": "draw", "a": "drawing", "full": "She's very good at drawing."},
+  {"q": "I can't afford ______ a new car.", "hint": "buy", "a": "to buy", "full": "I can't afford to buy a new car."},
+  {"q": "I'm looking forward to ______ you.", "hint": "see", "a": "seeing", "full": "I'm looking forward to seeing you."},
+  {"q": "Remember ______ the lights when you leave.", "hint": "turn off, niet vergeten", "a": "to turn off", "full": "Remember to turn off the lights when you leave."},
+  {"q": "He gave up ______ two years ago.", "hint": "smoke", "a": "smoking", "full": "He gave up smoking two years ago."},
+  {"q": "My teacher made me ______ the essay again.", "hint": "write", "a": "write", "full": "My teacher made me write the essay again."},
+  {"q": "She left without ______ goodbye.", "hint": "say", "a": "saying", "full": "She left without saying goodbye."},
+  {"q": "They promised ______ us next week.", "hint": "visit", "a": "to visit", "full": "They promised to visit us next week."},
+  {"q": "Will your parents let you ______ to the party?", "hint": "go", "a": "go", "full": "Will your parents let you go to the party?"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik hou van koken.", "a": "I love cooking."},
+  {"q": "Ik wil naar huis gaan.", "a": "I want to go home."},
+  {"q": "Ik kijk ernaar uit je te zien.", "a": "I'm looking forward to seeing you."},
+  {"q": "Mijn baas liet me tot laat werken.", "a": "My boss made me work late."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

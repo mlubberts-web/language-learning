@@ -1,0 +1,69 @@
+{"meta": {"level": "B1", "section": "Werkwoorden", "number": 8, "total_in_level": 10,
+ "title": "Modale werkwoorden van waarschijnlijkheid",
+ "subtitle": "must, might, could en can't voor nu en voor het verleden, en should have",
+ "footer": "Language Learning · B1 · Werkwoorden · Waarschijnlijkheid",
+ "next": "Volgende: B1 · pdf 9 — Verbindingswoorden"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "aangeven hoe zeker je bent met <b>must, might, may, could</b> en <b>can't</b>",
+  "hetzelfde doen over het verleden met <b>must have, might have, can't have</b>",
+  "spijt en kritiek uitdrukken met <b>should have</b>",
+  "zeggen wat mogelijk was met <b>could have</b>"]},
+
+ {"type": "h1", "text": "1. Over nu"},
+ {"type": "table", "style": "plain", "widths": [3.6, 4.0, 5.4, 4.0], "head": ["Werkwoord", "Zekerheid", "Voorbeeld", "Nederlands"], "rows": [
+  ["must", "bijna zeker wel", "She must be tired. She worked all night.", "Zij is vast moe."],
+  ["may / might", "misschien", "He might be at home.", "Hij is misschien thuis."],
+  ["could", "misschien", "It could be true.", "Het zou waar kunnen zijn."],
+  ["can't", "bijna zeker niet", "That can't be Tom. He's in Spain.", "Dat kan Tom niet zijn."]]},
+ {"type": "callout", "kind": "dutch", "title": "must = vast, moet wel", "text": "In deze betekenis is <b>must</b> geen verplichting maar een conclusie: <i>Hij moet wel rijk zijn</i> = <b>He must be rich</b>. Het tegendeel is <b>can't</b>, niet <i>mustn't</i>: <i>Dat kan niet waar zijn</i> = <b>That can't be true</b>."},
+
+ {"type": "h1", "text": "2. Over het verleden"},
+ {"type": "p", "text": "Voor een conclusie over het verleden gebruik je <b>modaal werkwoord + have + voltooid deelwoord</b>."},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["must have + deelwoord", "The ground is wet. It must have rained.", "Het heeft vast geregend."],
+  ["might / may have", "She might have missed the bus.", "Ze heeft misschien de bus gemist."],
+  ["could have", "He could have been delayed.", "Hij zou vertraging gehad kunnen hebben."],
+  ["can't / couldn't have", "You can't have seen him. He was abroad.", "Je kunt hem niet gezien hebben."]]},
+ {"type": "callout", "kind": "warn", "title": "have, niet of", "text": "In spreektaal klinkt <i>must have</i> als 'must've', en veel mensen schrijven dan per ongeluk <i>must of</i>. Dat is fout. Schrijf altijd <b>must have, should have, could have</b>."},
+
+ {"type": "h1", "text": "3. should have en could have"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["should have", "I should have studied harder.", "Ik had harder moeten studeren."],
+  ["shouldn't have", "You shouldn't have said that.", "Dat had je niet moeten zeggen."],
+  ["could have", "We could have won.", "We hadden kunnen winnen."],
+  ["needn't have", "You needn't have bought flowers.", "Je had geen bloemen hoeven te kopen."]]},
+ {"type": "callout", "kind": "dutch", "title": "had moeten = should have", "text": "<i>Ik had het moeten weten</i> = <b>I should have known</b>. Het Nederlands zet <i>had</i> vooraan, het Engels zet <b>have</b> na should. Nooit <i>I had must know</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["He mustn't be at home. The lights are off.", "He can't be at home. The lights are off.", "Bijna zeker niet: can't."],
+  ["She must to be tired.", "She must be tired.", "Na must geen to."],
+  ["It must rain last night.", "It must have rained last night.", "Over het verleden: must have."],
+  ["I should of called you.", "I should have called you.", "Schrijf have, niet of."],
+  ["You should have tell me.", "You should have told me.", "Na have: voltooid deelwoord."],
+  ["I had must leave earlier.", "I should have left earlier.", "Had moeten: should have."],
+  ["Maybe he might come.", "He might come.", "might betekent al misschien."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste modale werkwoord of de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "You've been travelling all day. You ______ be exhausted.", "hint": "vast", "a": "must", "full": "You've been travelling all day. You must be exhausted."},
+  {"q": "That ______ be Anna. She's in Australia.", "hint": "kan niet", "a": "can't", "full": "That can't be Anna. She's in Australia."},
+  {"q": "Take an umbrella. It ______ rain later.", "hint": "misschien", "a": "might", "full": "Take an umbrella. It might rain later."},
+  {"q": "The window is broken. Somebody must ______ thrown a stone.", "hint": "have", "a": "have", "full": "The window is broken. Somebody must have thrown a stone."},
+  {"q": "I ______ have studied more. I failed the test.", "hint": "had moeten", "a": "should", "full": "I should have studied more. I failed the test."},
+  {"q": "She can't have ______ the letter. It's still here.", "hint": "send", "a": "sent", "full": "She can't have sent the letter. It's still here."},
+  {"q": "We ______ have won if we had played better.", "hint": "hadden kunnen", "a": "could", "full": "We could have won if we had played better."},
+  {"q": "You ______ have told me! I didn't know.", "hint": "had moeten", "a": "should", "full": "You should have told me! I didn't know."},
+  {"q": "He isn't answering. He ______ be asleep.", "hint": "misschien, may", "a": "may", "full": "He isn't answering. He may be asleep."},
+  {"q": "They're late. They might have ______ the train.", "hint": "miss", "a": "missed", "full": "They're late. They might have missed the train."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hij is vast moe.", "a": "He must be tired."},
+  {"q": "Dat kan niet waar zijn.", "a": "That can't be true."},
+  {"q": "Ik had het moeten weten.", "a": "I should have known."},
+  {"q": "Het heeft vast geregend.", "a": "It must have rained."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
