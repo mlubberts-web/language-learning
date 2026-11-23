@@ -262,5 +262,16 @@
   "subtitle": "zou + infinitive, real and unreal als-clauses, polite wishes and the past conditional",
   "content": "b1_05_conditional.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_06_Infinitive_constructions",
+  "file": "B1_06_Infinitive_constructions.pdf",
+  "level": "B1",
+  "number": 6,
+  "section": "Grammar",
+  "title": "Infinitive constructions",
+  "subtitle": "om te, verbs with te (proberen te), zitten te, zonder te, door te, and English -ing",
+  "content": "b1_06_infinitive_constructions.json",
+  "exercise_count": 12
  }
 ]
