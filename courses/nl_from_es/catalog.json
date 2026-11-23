@@ -372,5 +372,16 @@
   "subtitle": "-heid, -ing, -te, -baar, -loos, on-, los sustantivos compuestos en una sola palabra, y las letras de unión -s- y -en-",
   "content": "b2_05_word_formation.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_06_Adjetivos_y_adverbios_a_fondo",
+  "file": "B2_06_Adjetivos_y_adverbios_a_fondo.pdf",
+  "level": "B2",
+  "number": 6,
+  "section": "Gramática",
+  "title": "Adjetivos y adverbios a fondo",
+  "subtitle": "La -e tras geen, elk y zo'n; iets nieuws; expresiones fijas sin -e; y adverbios sin -mente",
+  "content": "b2_06_adjectives_adverbs.json",
+  "exercise_count": 12
  }
 ]

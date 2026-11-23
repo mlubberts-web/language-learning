@@ -1,0 +1,355 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Adjetivos y adverbios a fondo",
+  "subtitle": "La -e tras geen, elk y zo'n; iets nieuws; expresiones fijas sin -e; y adverbios sin -mente",
+  "footer": "Language Learning · B2 · Gramática · Adjetivos y adverbios a fondo",
+  "next": "Siguiente: B2 · pdf 7 — Los pronombres a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar bien la -e tras <b>geen, elk, ieder, welk, zo'n, veel</b>",
+    "decir <i>algo nuevo</i>: <b>iets nieuws</b>",
+    "reconocer las expresiones fijas en las que falta la -e (<i>het openbaar vervoer</i>)",
+    "usar adjetivos como adverbios, sin terminación"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La regla de la -e, todos los casos"
+  },
+  {
+   "type": "p",
+   "text": "La regla básica (A1 · pdf 8): delante de un sustantivo el adjetivo lleva -e, salvo con una <b>palabra het</b> en singular cuando no hay delante <i>de, het, deze, dit, die, dat</i> ni un posesivo. Ese grupo «indeterminado» incluye también <b>geen, elk, ieder, welk, zo'n, veel, weinig, genoeg</b>. Recuerda que el adjetivo va siempre <b>delante</b> del sustantivo, no detrás como suele ir en español."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Delante del adjetivo",
+    "palabra de",
+    "palabra het"
+   ],
+   "rows": [
+    [
+     "de / het / deze / dit / mijn",
+     "de oude fiets",
+     "het oude huis"
+    ],
+    [
+     "een / geen",
+     "geen oude fiets",
+     "geen oud huis"
+    ],
+    [
+     "elk / ieder / welk",
+     "elke oude fiets",
+     "elk oud huis"
+    ],
+    [
+     "zo'n / zulk een",
+     "zo'n oude fiets",
+     "zo'n oud huis"
+    ],
+    [
+     "veel / weinig / genoeg (incontable)",
+     "veel goede wijn",
+     "veel goed eten"
+    ],
+    [
+     "nada",
+     "goede wijn",
+     "goed eten"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Cuidado con elk y welk",
+   "text": "<b>elk</b> y <b>welk</b> siguen la misma regla: <b>elke</b> dag (de dag), <b>elk</b> jaar (het jaar); <b>welke</b> auto, <b>welk</b> huis. Y el adjetivo que va detrás, también: <i>elk nieuw jaar, elke nieuwe dag</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. iets nieuws: adjetivo + s"
+  },
+  {
+   "type": "p",
+   "text": "Tras <b>iets, niets, wat, veel, weinig, allerlei</b>, el adjetivo lleva <b>-s</b>: <i>iets nieuws</i> (algo nuevo), <i>niets bijzonders</i> (nada especial), <i>veel moois</i> (muchas cosas bonitas). El español dice <i>algo nuevo</i> sin nada más, así que esta -s se olvida fácilmente. Se aplican las reglas de ortografía: <i>iets lekkers, iets groots, iets liefs</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "iets ... -s",
+   "items": [
+    [
+     "iets nieuws",
+     "algo nuevo"
+    ],
+    [
+     "niets bijzonders",
+     "nada especial"
+    ],
+    [
+     "iets lekkers",
+     "algo rico"
+    ],
+    [
+     "iets anders",
+     "otra cosa"
+    ],
+    [
+     "veel moois",
+     "muchas cosas bonitas"
+    ],
+    [
+     "iets geks",
+     "algo loco"
+    ],
+    [
+     "niets ergs",
+     "nada grave"
+    ],
+    [
+     "iets goeds",
+     "algo bueno"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Expresiones fijas sin -e"
+  },
+  {
+   "type": "p",
+   "text": "En algunas combinaciones fijas, una palabra de o una palabra het determinada lleva el adjetivo sin -e. Hay que aprenderlas como un bloque."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Expresión",
+    "Español",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "het openbaar vervoer",
+     "el transporte público",
+     "expresión fija"
+    ],
+    [
+     "het centraal station",
+     "la estación central",
+     "también: Centraal Station"
+    ],
+    [
+     "een groot man",
+     "un gran hombre (importante)",
+     "een grote man = un hombre alto"
+    ],
+    [
+     "het stoffelijk overschot",
+     "los restos mortales",
+     "formal"
+    ],
+    [
+     "het Nederlands elftal",
+     "la selección neerlandesa",
+     "fija"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Los adverbios: sin terminación"
+  },
+  {
+   "type": "p",
+   "text": "El español forma los adverbios con <i>-mente</i>: <i>rápido → rápidamente</i>. El neerlandés usa el adjetivo sin ninguna terminación: <i>Hij rijdt <b>snel</b> (conduce rápido). Ze zingt <b>mooi</b> (canta bonito). Je hebt het <b>goed</b> gedaan (lo has hecho bien).</i> El superlativo del adverbio es <b>het + -st</b>: <i>Wie loopt <b>het snelst</b>?</i> (¿quién corre más rápido?)"
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "-lijk no es -mente",
+   "text": "La terminación <b>-lijk</b> no forma adverbios, sino adjetivos: <i>vriendelijk</i> (amable), <i>gevaarlijk</i> (peligroso). <i>Conduce peligrosamente</i> = <b>Hij rijdt gevaarlijk</b>: sin terminación de más."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "geen oude huis",
+     "geen oud huis",
+     "geen + palabra het: sin -e."
+    ],
+    [
+     "elk oude jaar",
+     "elk oud jaar",
+     "elk + palabra het: sin -e."
+    ],
+    [
+     "elk dag",
+     "elke dag",
+     "de dag: elke."
+    ],
+    [
+     "iets nieuw",
+     "iets nieuws",
+     "Tras iets: -s."
+    ],
+    [
+     "niets bijzonder",
+     "niets bijzonders",
+     "Tras niets: -s."
+    ],
+    [
+     "Hij rijdt snellijk.",
+     "Hij rijdt snel.",
+     "Adverbio: sin terminación."
+    ],
+    [
+     "het openbare vervoer",
+     "het openbaar vervoer",
+     "Expresión fija sin -e.",
+     "consejo"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb geen ______ huis gevonden.",
+     "hint": "goedkoop, het huis",
+     "a": "goedkoop",
+     "full": "Ik heb geen goedkoop huis gevonden."
+    },
+    {
+     "q": "______ jaar gaan we naar Spanje.",
+     "hint": "elk, het jaar",
+     "a": "elk",
+     "full": "Elk jaar gaan we naar Spanje."
+    },
+    {
+     "q": "Ik heb ______ dag hoofdpijn.",
+     "hint": "elk, de dag",
+     "a": "elke",
+     "full": "Ik heb elke dag hoofdpijn."
+    },
+    {
+     "q": "Zo'n ______ boek heb ik nog nooit gelezen.",
+     "hint": "spannend, het boek",
+     "a": "spannend",
+     "full": "Zo'n spannend boek heb ik nog nooit gelezen."
+    },
+    {
+     "q": "Heb je iets ______ gehoord?",
+     "hint": "nieuw",
+     "a": "nieuws",
+     "full": "Heb je iets nieuws gehoord?"
+    },
+    {
+     "q": "Er is niets ______ gebeurd.",
+     "hint": "bijzonder",
+     "a": "bijzonders",
+     "full": "Er is niets bijzonders gebeurd."
+    },
+    {
+     "q": "Wil je iets ______? Ik heb taart.",
+     "hint": "lekker",
+     "a": "lekkers",
+     "full": "Wil je iets lekkers? Ik heb taart."
+    },
+    {
+     "q": "Hij rijdt veel te ______.",
+     "hint": "snel, adverbio",
+     "a": "snel",
+     "full": "Hij rijdt veel te snel."
+    },
+    {
+     "q": "Wie van jullie loopt het ______?",
+     "hint": "snel, superlativo",
+     "a": "snelst",
+     "full": "Wie van jullie loopt het snelst?"
+    },
+    {
+     "q": "Ik reis met het ______ vervoer.",
+     "hint": "público, expresión fija",
+     "a": "openbaar",
+     "full": "Ik reis met het openbaar vervoer."
+    },
+    {
+     "q": "______ huis bedoel je? Dat witte?",
+     "hint": "cuál, palabra het",
+     "a": "welk",
+     "full": "Welk huis bedoel je? Dat witte?"
+    },
+    {
+     "q": "Ze heeft het heel ______ gedaan.",
+     "hint": "bien, adverbio",
+     "a": "goed",
+     "full": "Ze heeft het heel goed gedaan."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Has oído algo nuevo?",
+     "a": "Heb je iets nieuws gehoord?"
+    },
+    {
+     "q": "No ha pasado nada especial.",
+     "a": "Er is niets bijzonders gebeurd."
+    },
+    {
+     "q": "Conduce demasiado rápido.",
+     "a": "Hij rijdt te snel."
+    },
+    {
+     "q": "cada año",
+     "a": "elk jaar"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
