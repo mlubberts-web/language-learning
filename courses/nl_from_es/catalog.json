@@ -350,5 +350,16 @@
   "subtitle": "even, maar, toch, wel, nou, eens, hoor, gewoon: palabritas que marcan el tono",
   "content": "b2_03_modal_particles.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_04_Los_verbos_con_preposicion_fija",
+  "file": "B2_04_Los_verbos_con_preposicion_fija.pdf",
+  "level": "B2",
+  "number": 4,
+  "section": "Gramática",
+  "title": "Los verbos con preposición fija",
+  "subtitle": "wachten op, denken aan, zich ergeren aan; adjetivos como trots op; y erop dat, eraan om te",
+  "content": "b2_04_fixed_prepositions.json",
+  "exercise_count": 12
  }
 ]

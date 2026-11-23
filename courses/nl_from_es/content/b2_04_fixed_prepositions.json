@@ -1,0 +1,408 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Los verbos con preposición fija",
+  "subtitle": "wachten op, denken aan, zich ergeren aan; adjetivos como trots op; y erop dat, eraan om te",
+  "footer": "Language Learning · B2 · Gramática · Verbos con preposición fija",
+  "next": "Siguiente: B2 · pdf 5 — La formación de palabras"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar cuarenta verbos y adjetivos frecuentes con su preposición fija",
+    "evitar traducir la preposición española palabra por palabra",
+    "unir una oración con <b>erop dat, eraan om te</b>",
+    "preguntar con <b>waarop, waaraan</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos con preposición fija"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos",
+   "items": [
+    [
+     "wachten op",
+     "esperar (a)"
+    ],
+    [
+     "denken aan",
+     "pensar en"
+    ],
+    [
+     "houden van",
+     "querer, gustar"
+    ],
+    [
+     "rekenen op",
+     "contar con"
+    ],
+    [
+     "zorgen voor",
+     "cuidar de, encargarse de"
+    ],
+    [
+     "geloven in",
+     "creer en"
+    ],
+    [
+     "deelnemen aan",
+     "participar en"
+    ],
+    [
+     "bestaan uit",
+     "consistir en, constar de"
+    ],
+    [
+     "afhangen van",
+     "depender de"
+    ],
+    [
+     "klagen over",
+     "quejarse de"
+    ],
+    [
+     "twijfelen aan",
+     "dudar de"
+    ],
+    [
+     "lijken op",
+     "parecerse a"
+    ],
+    [
+     "genieten van",
+     "disfrutar de"
+    ],
+    [
+     "letten op",
+     "fijarse en, prestar atención a"
+    ],
+    [
+     "reageren op",
+     "reaccionar a"
+    ],
+    [
+     "slagen voor",
+     "aprobar (un examen)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos reflexivos con preposición",
+   "items": [
+    [
+     "zich ergeren aan",
+     "molestarse por, irritarse con"
+    ],
+    [
+     "zich verheugen op",
+     "tener ganas de, hacer ilusión"
+    ],
+    [
+     "zich interesseren voor",
+     "interesarse por"
+    ],
+    [
+     "zich concentreren op",
+     "concentrarse en"
+    ],
+    [
+     "zich voorbereiden op",
+     "prepararse para"
+    ],
+    [
+     "zich schamen voor",
+     "avergonzarse de"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Distinto del español",
+   "text": "Muchas preposiciones neerlandesas no coinciden con las españolas: <i>pensar <b>en</b></i> = denken <b>aan</b>, <i>parecerse <b>a</b></i> = lijken <b>op</b>, <i>soñar <b>con</b></i> = dromen <b>van</b>, <i>enamorado <b>de</b></i> = verliefd <b>op</b>, <i>orgulloso <b>de</b></i> = trots <b>op</b>. Y algunos verbos llevan preposición solo en una lengua: <i>esperar el autobús</i> = wachten <b>op</b> de bus; <i>aprobar un examen</i> = slagen <b>voor</b> een examen. Por suerte, otros sí coinciden: <i>depender de</i> = afhangen <b>van</b>, <i>creer en</i> = geloven <b>in</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Adjetivos con preposición fija"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivos",
+   "items": [
+    [
+     "bang voor",
+     "tener miedo de"
+    ],
+    [
+     "trots op",
+     "orgulloso de"
+    ],
+    [
+     "blij met",
+     "contento con"
+    ],
+    [
+     "boos op",
+     "enfadado con"
+    ],
+    [
+     "jaloers op",
+     "celoso de, envidioso de"
+    ],
+    [
+     "verliefd op",
+     "enamorado de"
+    ],
+    [
+     "tevreden met",
+     "satisfecho con"
+    ],
+    [
+     "geïnteresseerd in",
+     "interesado en"
+    ],
+    [
+     "goed in",
+     "bueno en"
+    ],
+    [
+     "verantwoordelijk voor",
+     "responsable de"
+    ],
+    [
+     "gewend aan",
+     "acostumbrado a"
+    ],
+    [
+     "klaar met",
+     "terminado con, harto de"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Con una oración: erop dat, eraan om te"
+  },
+  {
+   "type": "p",
+   "text": "Cuando la preposición va seguida de una oración entera, el neerlandés pone <b>er + preposición</b> en la oración principal y empieza la otra con <b>dat</b> o <b>om te</b>. El español pone la preposición directamente delante de <i>que</i> o del infinitivo (<i>tengo ganas de que vengas</i>, <i>estoy acostumbrado a madrugar</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.6,
+    6.4,
+    3.0
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Estructura"
+   ],
+   "rows": [
+    [
+     "Ik verheug me erop dat je komt.",
+     "Me hace ilusión que vengas.",
+     "erop dat"
+    ],
+    [
+     "Ik verheug me erop om je te zien.",
+     "Tengo ganas de verte.",
+     "erop om te"
+    ],
+    [
+     "Ik ben eraan gewend om vroeg op te staan.",
+     "Estoy acostumbrado a levantarme temprano.",
+     "eraan om te"
+    ],
+    [
+     "Het hangt ervan af of het regent.",
+     "Depende de si llueve.",
+     "ervan of"
+    ],
+    [
+     "Ik twijfel eraan of hij de waarheid spreekt.",
+     "Dudo de que diga la verdad.",
+     "eraan of"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Preguntas: waarop, waaraan",
+   "text": "Para preguntar por el complemento, usa <b>waar + preposición</b>: <i><b>Waar</b> wacht je <b>op</b>?</i> (¿A qué esperas?) <i><b>Waar</b> denk je <b>aan</b>?</i> (¿En qué piensas?) No digas <i>Op wat wacht je?</i>, aunque el español empiece con la preposición. Para personas: <i><b>Op wie</b> wacht je?</i> (¿A quién esperas?) Fíjate en que waar y la preposición suelen ir separados."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik denk in jou.",
+     "Ik denk aan jou.",
+     "pensar en: denken aan."
+    ],
+    [
+     "Ik wacht de bus.",
+     "Ik wacht op de bus.",
+     "esperar algo: wachten op."
+    ],
+    [
+     "Ik ben trots van mijn zoon.",
+     "Ik ben trots op mijn zoon.",
+     "trots op."
+    ],
+    [
+     "Hij lijkt aan zijn vader.",
+     "Hij lijkt op zijn vader.",
+     "parecerse a: lijken op."
+    ],
+    [
+     "Ik ben gewend aan vroeg opstaan.",
+     "Ik ben eraan gewend om vroeg op te staan.",
+     "Con un verbo: eraan ... om te."
+    ],
+    [
+     "Op wat wacht je?",
+     "Waar wacht je op?",
+     "Cosas: waar + preposición."
+    ],
+    [
+     "Ik ben geslaagd mijn examen.",
+     "Ik ben geslaagd voor mijn examen.",
+     "slagen voor."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la preposición o la forma con er. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Het hangt ______ het weer af.",
+     "hint": "depender de",
+     "a": "van",
+     "full": "Het hangt van het weer af."
+    },
+    {
+     "q": "Ik verheug me ______ de zomer.",
+     "hint": "tener ganas de",
+     "a": "op",
+     "full": "Ik verheug me op de zomer."
+    },
+    {
+     "q": "Zij is erg trots ______ haar dochter.",
+     "hint": "orgulloso de",
+     "a": "op",
+     "full": "Zij is erg trots op haar dochter."
+    },
+    {
+     "q": "Ik erger me ______ de herrie van de buren.",
+     "hint": "molestarse por",
+     "a": "aan",
+     "full": "Ik erger me aan de herrie van de buren."
+    },
+    {
+     "q": "Wie zorgt ______ de kat als je weg bent?",
+     "hint": "cuidar de",
+     "a": "voor",
+     "full": "Wie zorgt voor de kat als je weg bent?"
+    },
+    {
+     "q": "Hij lijkt ______ zijn vader.",
+     "hint": "parecerse a",
+     "a": "op",
+     "full": "Hij lijkt op zijn vader."
+    },
+    {
+     "q": "Het team bestaat ______ elf spelers.",
+     "hint": "constar de",
+     "a": "uit",
+     "full": "Het team bestaat uit elf spelers."
+    },
+    {
+     "q": "Ik ben geslaagd ______ mijn rijexamen!",
+     "hint": "aprobar",
+     "a": "voor",
+     "full": "Ik ben geslaagd voor mijn rijexamen!"
+    },
+    {
+     "q": "Ik ben ______ gewend om vroeg op te staan.",
+     "hint": "forma con er",
+     "a": "eraan",
+     "full": "Ik ben eraan gewend om vroeg op te staan."
+    },
+    {
+     "q": "______ denk je aan? Je bent zo stil.",
+     "hint": "pregunta, cosa",
+     "a": "waar",
+     "full": "Waar denk je aan? Je bent zo stil."
+    },
+    {
+     "q": "Ik twijfel ______ of het een goed idee is.",
+     "hint": "forma con er, dudar",
+     "a": "eraan",
+     "full": "Ik twijfel eraan of het een goed idee is."
+    },
+    {
+     "q": "We hebben erg genoten ______ de vakantie.",
+     "hint": "disfrutar de",
+     "a": "van",
+     "full": "We hebben erg genoten van de vakantie."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Depende del tiempo.",
+     "a": "Het hangt van het weer af."
+    },
+    {
+     "q": "Tengo ganas de que lleguen las vacaciones.",
+     "a": "Ik verheug me op de vakantie."
+    },
+    {
+     "q": "Estoy orgulloso de ti.",
+     "a": "Ik ben trots op je."
+    },
+    {
+     "q": "¿A qué esperas?",
+     "a": "Waar wacht je op?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
