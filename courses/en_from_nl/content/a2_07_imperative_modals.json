@@ -1,0 +1,83 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 7, "total_in_level": 10,
+ "title": "De gebiedende wijs en modale werkwoorden",
+ "subtitle": "Opdrachten geven, en can, could, must, have to, should en may",
+ "footer": "Language Learning · A2 · Werkwoorden · Gebiedende wijs en modale werkwoorden",
+ "next": "Volgende: A2 · pdf 8 — Telbaar en ontelbaar"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "opdrachten, instructies en waarschuwingen geven",
+  "beleefd iets vragen met <b>could</b> en <b>can</b>",
+  "verplichting uitdrukken met <b>must</b> en <b>have to</b>, en het verschil tussen <b>mustn't</b> en <b>don't have to</b> kennen",
+  "advies geven met <b>should</b>"]},
+
+ {"type": "h1", "text": "1. De gebiedende wijs"},
+ {"type": "p", "text": "De gebiedende wijs is gewoon het kale werkwoord, zonder onderwerp: <b>Sit down. Close the door. Be careful!</b> Voor een ontkenning zet je <b>Don't</b> ervoor: <b>Don't worry. Don't be late.</b> Met <b>Let's</b> doe je een voorstel aan de groep: <b>Let's go!</b>"},
+ {"type": "callout", "kind": "dutch", "title": "please maakt het beleefd", "text": "Een Engelse gebiedende wijs klinkt al snel bot. Zet er <b>please</b> bij, of gebruik een vraag: <i>Could you close the door, please?</i> is veel vriendelijker dan <i>Close the door.</i> Engelsen zijn hier gevoeliger voor dan Nederlanders."},
+
+ {"type": "h1", "text": "2. Modale werkwoorden: de regels"},
+ {"type": "bullets", "items": [
+  "Geen -s bij he, she en it: <i>She <b>can</b> swim</i>, <i>He <b>must</b> go</i>.",
+  "Daarna komt een kaal werkwoord, zonder to: <i>You <b>should</b> rest</i>, niet <i>should to rest</i>.",
+  "Vragen en ontkenningen zonder do: <i><b>Can</b> you help? You <b>shouldn't</b> smoke.</i>",
+  "Uitzondering: <b>have to</b> gedraagt zich als een gewoon werkwoord, met do en met -s."]},
+
+ {"type": "h1", "text": "3. Overzicht"},
+ {"type": "table", "style": "plain", "widths": [3.4, 5.0, 8.6], "head": ["Werkwoord", "Betekenis", "Voorbeeld"], "rows": [
+  ["can", "kunnen, mogen", "I can drive. Can I sit here?"],
+  ["could", "kon; beleefd verzoek", "I could swim when I was five. Could you help me?"],
+  ["may", "mogen (formeel); misschien", "May I come in? It may rain."],
+  ["must", "moeten (je vindt het zelf nodig)", "I must call my mother."],
+  ["have to", "moeten (een regel of situatie)", "I have to wear a uniform at work."],
+  ["mustn't", "niet mogen", "You mustn't park here."],
+  ["don't have to", "niet hoeven", "You don't have to come."],
+  ["should", "zouden moeten (advies)", "You should see a doctor."]]},
+ {"type": "callout", "kind": "warn", "title": "mustn't is niet 'hoeft niet'", "text": "<b>You mustn't go</b> = je mag niet gaan. <b>You don't have to go</b> = je hoeft niet te gaan (het mag wel). Het Nederlandse <i>je moet niet</i> is dubbelzinnig; het Engels maakt een duidelijk verschil."},
+ {"type": "callout", "kind": "tip", "title": "had to in het verleden", "text": "must heeft geen verleden tijd. Gebruik <b>had to</b>: <i>I had to work late yesterday.</i> Ook can: <b>could</b> of <b>was able to</b>."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["have to", "Ontkenning", "Vraag"], "rows": [
+  ["I have to go.", "I don't have to go.", "Do I have to go?"],
+  ["She has to work.", "She doesn't have to work.", "Does she have to work?"],
+  ["We had to wait.", "We didn't have to wait.", "Did you have to wait?"]]},
+
+ {"type": "h1", "text": "4. Beleefde verzoeken"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["Can you pass the salt?", "Kun je het zout even aangeven?"],
+  ["Could you speak more slowly, please?", "Zou u langzamer kunnen praten?"],
+  ["Could I have the bill, please?", "Mag ik de rekening, alstublieft?"],
+  ["May I use your phone?", "Mag ik uw telefoon gebruiken?"],
+  ["Would you like some tea?", "Wilt u thee?"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["She cans speak French.", "She can speak French.", "Modale werkwoorden krijgen geen -s."],
+  ["You should to rest.", "You should rest.", "Na should komt geen to."],
+  ["Do you can swim?", "Can you swim?", "Een modaal werkwoord maakt zelf de vraag."],
+  ["I must work yesterday.", "I had to work yesterday.", "Verleden tijd: had to."],
+  ["She have to leave.", "She has to leave.", "have to krijgt een -s: has to."],
+  ["Not touch that!", "Don't touch that!", "Een verbod begint met Don't."],
+  ["You don't must smoke here.", "You mustn't smoke here.", "Niet mogen: mustn't."],
+  ["Will you a drink?", "Would you like a drink?", "Iets aanbieden: Would you like."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste modale werkwoord of de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "You look ill. You ______ see a doctor.", "hint": "advies", "a": "should", "full": "You look ill. You should see a doctor."},
+  {"q": "______ you open the window, please?", "hint": "beleefd verzoek", "a": "Could", "full": "Could you open the window, please?"},
+  {"q": "You ______ smoke in the hospital.", "hint": "niet mogen", "a": "mustn't", "full": "You mustn't smoke in the hospital."},
+  {"q": "It's Sunday. You ______ get up early.", "hint": "niet hoeven", "a": "don't have to", "full": "It's Sunday. You don't have to get up early."},
+  {"q": "She ______ wear a uniform at work.", "hint": "have to", "a": "has to", "full": "She has to wear a uniform at work."},
+  {"q": "Yesterday I ______ wait for an hour.", "hint": "moeten, verleden tijd", "a": "had to", "full": "Yesterday I had to wait for an hour."},
+  {"q": "______ worry. It's not a problem.", "hint": "ontkenning", "a": "Don't", "full": "Don't worry. It's not a problem."},
+  {"q": "______ go to the beach!", "hint": "laten we", "a": "Let's", "full": "Let's go to the beach!"},
+  {"q": "When I was young I ______ run very fast.", "hint": "kon", "a": "could", "full": "When I was young I could run very fast."},
+  {"q": "______ I come in?", "hint": "mogen, formeel", "a": "May", "full": "May I come in?"},
+  {"q": "Do I ______ to pay now?", "hint": "have to", "a": "have", "full": "Do I have to pay now?"},
+  {"q": "______ you like a cup of tea?", "hint": "aanbieden", "a": "Would", "full": "Would you like a cup of tea?"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Je hoeft niet te komen.", "a": "You don't have to come."},
+  {"q": "Je mag hier niet parkeren.", "a": "You mustn't park here."},
+  {"q": "Zou u me kunnen helpen?", "a": "Could you help me?"},
+  {"q": "Ik moest gisteren tot laat werken.", "a": "I had to work late yesterday."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

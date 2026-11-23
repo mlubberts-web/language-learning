@@ -1,0 +1,84 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 6, "total_in_level": 10,
+ "title": "De toekomst",
+ "subtitle": "will, going to, de present continuous voor afspraken en shall voor aanbiedingen",
+ "footer": "Language Learning · A2 · Werkwoorden · De toekomst",
+ "next": "Volgende: A2 · pdf 7 — De gebiedende wijs en modale werkwoorden"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "voorspellingen, beloftes en snelle besluiten maken met <b>will</b>",
+  "plannen en verwachtingen uitdrukken met <b>going to</b>",
+  "vaste afspraken noemen met de <b>present continuous</b>",
+  "iets aanbieden of voorstellen met <b>shall</b>"]},
+
+ {"type": "h1", "text": "1. will"},
+ {"type": "p", "text": "<b>will</b> + kaal werkwoord, voor alle personen hetzelfde. De korte vorm is <b>'ll</b>, de ontkenning <b>won't</b> (= will not)."},
+ {"type": "conj", "verb": "to help", "meaning": "helpen", "label": "regelmatig werkwoord", "tense": "will future",
+  "forms": ["will help", "will help", "will help", "will help", "will help", "will help"],
+  "examples": [["I'll help you with your bags.", "Ik help je wel met je tassen."], ["You'll help me, won't you?", "Je helpt me toch wel?"], ["She'll help us tomorrow.", "Zij helpt ons morgen."], ["We'll help with the cooking.", "We helpen mee met koken."], ["You'll help each other.", "Jullie helpen elkaar."], ["They won't help us.", "Zij zullen ons niet helpen."]]},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Voorspelling", "It will rain tomorrow.", "Morgen gaat het regenen."],
+  ["Belofte", "I'll call you tonight.", "Ik bel je vanavond."],
+  ["Besluit op dit moment", "It's cold. I'll close the window.", "Het is koud. Ik doe het raam dicht."],
+  ["Aanbod", "I'll carry that for you.", "Ik draag dat wel voor je."],
+  ["Weigering", "The car won't start.", "De auto wil niet starten."]]},
+ {"type": "callout", "kind": "dutch", "title": "will is niet 'willen'", "text": "<b>will</b> lijkt op het Nederlandse <i>willen</i>, maar betekent <i>zullen</i>. <i>Ik wil koffie</i> = <b>I want coffee</b> of <b>I'd like a coffee</b>, nooit <i>I will coffee</i>."},
+
+ {"type": "h1", "text": "2. going to"},
+ {"type": "p", "text": "<b>am / is / are going to</b> + kaal werkwoord gebruik je voor een <b>plan</b> dat al vaststaat in je hoofd, en voor een <b>voorspelling</b> op basis van wat je nu ziet."},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Plan", "I'm going to learn Spanish next year.", "Ik ga volgend jaar Spaans leren."],
+  ["Plan", "We're going to paint the kitchen.", "We gaan de keuken schilderen."],
+  ["Wat je nu ziet", "Look at those clouds! It's going to rain.", "Kijk die wolken! Het gaat regenen."],
+  ["Ontkenning en vraag", "Are you going to tell him? No, I'm not going to tell him.", "Ga je het hem vertellen? Nee."]]},
+ {"type": "callout", "kind": "tip", "title": "will of going to?", "text": "Besluit je het nu, op dit moment: <b>will</b>. <i>The phone's ringing. — I'll answer it.</i> Had je het al besloten: <b>going to</b>. <i>Why did you buy paint? — I'm going to paint my room.</i>"},
+
+ {"type": "h1", "text": "3. Afspraken: de present continuous"},
+ {"type": "p", "text": "Voor een vaste afspraak met een tijd en een plaats gebruik je de <b>present continuous</b>: <i>I'm meeting Sarah at six. We're flying to Rome on Friday. What are you doing tonight?</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Morgen werk ik = I'm working tomorrow", "text": "Het Nederlands gebruikt de tegenwoordige tijd voor de toekomst: <i>Morgen werk ik.</i> In het Engels kan dat niet met de present simple (behalve bij dienstregelingen: <i>The train leaves at six</i>). Zeg <b>I'm working tomorrow</b> of <b>I'll be working tomorrow</b>."},
+
+ {"type": "h1", "text": "4. shall voor aanbiedingen en voorstellen"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["Shall I open the window?", "Zal ik het raam opendoen?"],
+  ["Shall we go for a walk?", "Zullen we gaan wandelen?"],
+  ["What shall we do tonight?", "Wat zullen we vanavond doen?"]]},
+ {"type": "verbpairs", "title": "Tijdwoorden voor de toekomst", "items": [
+  ["tomorrow", "morgen"], ["the day after tomorrow", "overmorgen"], ["next week", "volgende week"],
+  ["next year", "volgend jaar"], ["in two weeks", "over twee weken"], ["soon", "binnenkort"],
+  ["later", "later"], ["tonight", "vanavond"], ["one day", "ooit, op een dag"], ["in the future", "in de toekomst"]]},
+ {"type": "callout", "kind": "warn", "title": "in two weeks = over twee weken", "text": "Het Nederlandse <i>over</i> in tijd is in het Engels <b>in</b>: <i>over een uur</i> = <b>in an hour</b>. <i>over an hour</i> betekent iets anders (meer dan een uur)."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I will to call you.", "I will call you.", "Na will komt geen to."],
+  ["She wills come.", "She will come.", "will krijgt nooit een -s."],
+  ["I will a coffee.", "I want a coffee.", "Willen is want."],
+  ["Tomorrow I work in Delft.", "Tomorrow I'm working in Delft.", "Een afspraak: present continuous."],
+  ["I'm hungry. I make a sandwich.", "I'm hungry. I'll make a sandwich.", "Een besluit dat je nu neemt: will."],
+  ["See you over a week.", "See you in a week.", "Over in tijd = in."],
+  ["We going to buy a car.", "We are going to buy a car.", "going to heeft am / is / are nodig."],
+  ["Will I open the door?", "Shall I open the door?", "Een aanbod met I of we: shall."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul will, going to of de present continuous in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "It's hot in here. I ______ open the window.", "hint": "besluit nu", "a": "'ll", "full": "It's hot in here. I'll open the window."},
+  {"q": "I'm ______ to visit my aunt next month.", "hint": "plan", "a": "going", "full": "I'm going to visit my aunt next month."},
+  {"q": "Look at the sky! It's going ______ snow.", "hint": "wat je nu ziet", "a": "to", "full": "Look at the sky! It's going to snow."},
+  {"q": "We ______ Tom at seven tonight.", "hint": "meet, afspraak", "a": "are meeting", "full": "We are meeting Tom at seven tonight."},
+  {"q": "______ we go to the cinema?", "hint": "voorstel", "a": "Shall", "full": "Shall we go to the cinema?"},
+  {"q": "I promise I ______ tell anyone.", "hint": "will, ontkenning", "a": "won't", "full": "I promise I won't tell anyone."},
+  {"q": "What ______ you doing this weekend?", "hint": "afspraak", "a": "are", "full": "What are you doing this weekend?"},
+  {"q": "I think Spain ______ win the match.", "hint": "voorspelling", "a": "will", "full": "I think Spain will win the match."},
+  {"q": "See you ______ two weeks.", "hint": "over", "a": "in", "full": "See you in two weeks."},
+  {"q": "The train ______ at half past eight tomorrow.", "hint": "leave, dienstregeling", "a": "leaves", "full": "The train leaves at half past eight tomorrow."},
+  {"q": "She ______ going to study medicine.", "hint": "to be", "a": "is", "full": "She is going to study medicine."},
+  {"q": "______ I carry your bag?", "hint": "aanbod", "a": "Shall", "full": "Shall I carry your bag?"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik bel je vanavond.", "a": "I'll call you tonight."},
+  {"q": "Zullen we een wandeling maken?", "a": "Shall we go for a walk?"},
+  {"q": "We gaan volgend jaar een huis kopen.", "a": "We are going to buy a house next year."},
+  {"q": "Ik zie Sarah morgen om zes uur.", "a": "I'm meeting Sarah at six tomorrow."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

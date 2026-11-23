@@ -152,5 +152,27 @@
   "subtitle": "Afgelopen tijd of tijd tot nu: de grootste valkuil voor Nederlanders",
   "content": "a2_05_perfect_or_past.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_06_De_toekomst",
+  "file": "A2_06_De_toekomst.pdf",
+  "level": "A2",
+  "number": 6,
+  "section": "Werkwoorden",
+  "title": "De toekomst",
+  "subtitle": "will, going to, de present continuous voor afspraken en shall voor aanbiedingen",
+  "content": "a2_06_future.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_07_De_gebiedende_wijs_en_modale_werkwoorden",
+  "file": "A2_07_De_gebiedende_wijs_en_modale_werkwoorden.pdf",
+  "level": "A2",
+  "number": 7,
+  "section": "Werkwoorden",
+  "title": "De gebiedende wijs en modale werkwoorden",
+  "subtitle": "Opdrachten geven, en can, could, must, have to, should en may",
+  "content": "a2_07_imperative_modals.json",
+  "exercise_count": 12
  }
 ]
