@@ -284,5 +284,16 @@
   "subtitle": "En todas las posiciones, con te y en el perfecto; los prefijos inseparables be-, ver-, her-, ont-; y el acento",
   "content": "b1_07_separable_verbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_08_El_estilo_indirecto_y_las_preguntas_indirectas",
+  "file": "B1_08_El_estilo_indirecto_y_las_preguntas_indirectas.pdf",
+  "level": "B1",
+  "number": 8,
+  "section": "Gramática",
+  "title": "El estilo indirecto y las preguntas indirectas",
+  "subtitle": "Hij zegt dat ..., Ze vraagt of ..., el orden en las preguntas indirectas, y zeggen tegen",
+  "content": "b1_08_indirect_speech.json",
+  "exercise_count": 12
  }
 ]

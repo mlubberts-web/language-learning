@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "El estilo indirecto y las preguntas indirectas",
+  "subtitle": "Hij zegt dat ..., Ze vraagt of ..., el orden en las preguntas indirectas, y zeggen tegen",
+  "footer": "Language Learning · B1 · Gramática · Estilo indirecto",
+  "next": "Siguiente: B1 · pdf 9 — Los conectores"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "contar lo que alguien dijo con <b>dat</b>",
+    "contar preguntas con <b>of</b> y con palabras interrogativas",
+    "usar el orden correcto: <i>Weet u waar het station is?</i>",
+    "elegir entre <b>zeggen, zeggen tegen, vertellen</b> y <b>vragen</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Contar afirmaciones: dat"
+  },
+  {
+   "type": "p",
+   "text": "El estilo indirecto empieza con <b>dat</b> (que), y el verbo va al final (A2 · pdf 5). Los pronombres cambian como en español. Tras un verbo en pasado, el tiempo suele retroceder un paso, como en español (<i>dijo que estaba cansado</i>), pero si sigue siendo verdad puede quedarse igual."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.0,
+    5.4
+   ],
+   "head": [
+    "Lo que dijo",
+    "Indirecto",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "\"Ik ben moe.\"",
+     "Hij zegt dat hij moe is.",
+     "presente: no cambia"
+    ],
+    [
+     "\"Ik ben moe.\"",
+     "Hij zei dat hij moe was.",
+     "pasado: un paso atrás"
+    ],
+    [
+     "\"Ik woon in Leiden.\"",
+     "Ze zei dat ze in Leiden woont.",
+     "sigue siendo verdad: puede quedarse"
+    ],
+    [
+     "\"Ik heb het gedaan.\"",
+     "Hij zei dat hij het gedaan had.",
+     "perfecto → pluscuamperfecto"
+    ],
+    [
+     "\"Ik kom morgen.\"",
+     "Ze zei dat ze de volgende dag zou komen.",
+     "futuro → zou"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "decir, contar: zeggen, zeggen tegen, vertellen",
+   "bullets": [
+    "<b>zeggen</b> = decir: <i>Hij zei dat hij moe was.</i>",
+    "<b>zeggen tegen</b> = decirle a alguien: <i>Hij zei <b>tegen</b> mij dat hij moe was</i> (me dijo que estaba cansado).",
+    "<b>vertellen</b> = contar (una historia, una noticia): <i>Ze vertelde over haar reis.</i>",
+    "<i>Me dijo</i> no es <i>Hij zei me</i> en neerlandés estándar, sino <b>Hij zei tegen me</b> o <b>Hij vertelde me</b>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Las preguntas indirectas"
+  },
+  {
+   "type": "p",
+   "text": "Una pregunta de sí o no empieza con <b>of</b> (si); una pregunta con palabra interrogativa conserva esa palabra. En las dos, el verbo va al <b>final</b>, como en toda subordinada."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    7.2,
+    4.8
+   ],
+   "head": [
+    "Pregunta directa",
+    "Indirecta",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Ben je moe?",
+     "Ze vraagt of je moe bent.",
+     "si estás cansado"
+    ],
+    [
+     "Waar woon je?",
+     "Hij vroeg waar ik woonde.",
+     "dónde vivía"
+    ],
+    [
+     "Hoe laat is het?",
+     "Weet u hoe laat het is?",
+     "qué hora es"
+    ],
+    [
+     "Komt hij morgen?",
+     "Ik weet niet of hij morgen komt.",
+     "si viene mañana"
+    ],
+    [
+     "Wat kost het?",
+     "Kunt u me zeggen wat het kost?",
+     "cuánto cuesta"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Weet u waar het station is?",
+   "text": "Las preguntas educadas suelen llevar una pregunta indirecta. El español mantiene el orden de la pregunta (<i>¿Sabe dónde está la estación?</i>), pero en neerlandés el verbo va al final: <i>Weet u waar het station <b>is</b>?</i> <i>Weet u waar is het station?</i> es incorrecto."
+  },
+  {
+   "type": "h1",
+   "text": "3. Contar peticiones y órdenes"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.4,
+    5.0
+   ],
+   "head": [
+    "Directo",
+    "Indirecto",
+    "Estructura"
+   ],
+   "rows": [
+    [
+     "\"Help me, alsjeblieft.\"",
+     "Ze vroeg (me) of ik haar wilde helpen.",
+     "vragen of ... wil"
+    ],
+    [
+     "\"Help me, alsjeblieft.\"",
+     "Ze vroeg me om haar te helpen.",
+     "vragen om te"
+    ],
+    [
+     "\"Ga zitten!\"",
+     "Hij zei dat we moesten gaan zitten.",
+     "zeggen dat ... moet"
+    ],
+    [
+     "\"Kom niet te laat.\"",
+     "Mijn baas zei dat ik niet te laat moest komen.",
+     "zeggen dat ... niet moet"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Hij zei dat hij is moe.",
+     "Hij zei dat hij moe was.",
+     "Tras dat: el verbo al final."
+    ],
+    [
+     "Weet u waar is het station?",
+     "Weet u waar het station is?",
+     "Pregunta indirecta: el verbo al final."
+    ],
+    [
+     "Ze vroeg als ik moe was.",
+     "Ze vroeg of ik moe was.",
+     "Si (indirecto): of."
+    ],
+    [
+     "Hij zei me dat hij kwam.",
+     "Hij zei tegen me dat hij kwam.",
+     "Decirle a alguien: zeggen tegen."
+    ],
+    [
+     "Ik weet niet wanneer begint de film.",
+     "Ik weet niet wanneer de film begint.",
+     "El verbo al final."
+    ],
+    [
+     "Ze vertelde dat: ik ben ziek.",
+     "Ze vertelde dat ze ziek was.",
+     "Cambia el pronombre y el orden."
+    ],
+    [
+     "Hij vroeg me dat ik hem hielp.",
+     "Hij vroeg me om hem te helpen.",
+     "Me pidió que le ayudara: om ... te."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Hij zegt ______ hij morgen komt.",
+     "hint": "que",
+     "a": "dat",
+     "full": "Hij zegt dat hij morgen komt."
+    },
+    {
+     "q": "Ze vraagt ______ je zin hebt om mee te gaan.",
+     "hint": "si",
+     "a": "of",
+     "full": "Ze vraagt of je zin hebt om mee te gaan."
+    },
+    {
+     "q": "Weet u waar het station ______?",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Weet u waar het station is?"
+    },
+    {
+     "q": "Hij zei dat hij erg moe ______.",
+     "hint": "zijn, pasado",
+     "a": "was",
+     "full": "Hij zei dat hij erg moe was."
+    },
+    {
+     "q": "Ik weet niet hoe laat de winkel ______.",
+     "hint": "opengaan",
+     "a": "opengaat",
+     "full": "Ik weet niet hoe laat de winkel opengaat."
+    },
+    {
+     "q": "Ze zei ______ mij dat ze ging verhuizen.",
+     "hint": "decirle a",
+     "a": "tegen",
+     "full": "Ze zei tegen mij dat ze ging verhuizen."
+    },
+    {
+     "q": "Hij vroeg waar ik ______.",
+     "hint": "wonen, pasado",
+     "a": "woonde",
+     "full": "Hij vroeg waar ik woonde."
+    },
+    {
+     "q": "Kunt u me zeggen wat dit ______?",
+     "hint": "kosten",
+     "a": "kost",
+     "full": "Kunt u me zeggen wat dit kost?"
+    },
+    {
+     "q": "De dokter zei dat ik meer ______ rusten.",
+     "hint": "moeten, pasado",
+     "a": "moest",
+     "full": "De dokter zei dat ik meer moest rusten."
+    },
+    {
+     "q": "Ze vroeg me ______ haar te helpen.",
+     "hint": "om ... te",
+     "a": "om",
+     "full": "Ze vroeg me om haar te helpen."
+    },
+    {
+     "q": "Hij ______ een grappig verhaal over zijn reis.",
+     "hint": "contar, pasado",
+     "a": "vertelde",
+     "full": "Hij vertelde een grappig verhaal over zijn reis."
+    },
+    {
+     "q": "Ik vraag me af ______ hij de waarheid spreekt.",
+     "hint": "si",
+     "a": "of",
+     "full": "Ik vraag me af of hij de waarheid spreekt."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Él dijo que estaba cansado.",
+     "a": "Hij zei dat hij moe was."
+    },
+    {
+     "q": "¿Sabe dónde está la estación?",
+     "a": "Weet u waar het station is?"
+    },
+    {
+     "q": "No sé si él viene.",
+     "a": "Ik weet niet of hij komt."
+    },
+    {
+     "q": "Ella me dijo que estaba enferma.",
+     "a": "Ze zei tegen me dat ze ziek was."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
