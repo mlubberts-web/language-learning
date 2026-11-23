@@ -1,0 +1,67 @@
+{"meta": {"level": "B1", "section": "Werkwoorden", "number": 2, "total_in_level": 10,
+ "title": "De past perfect",
+ "subtitle": "had + voltooid deelwoord: wat er al gebeurd was vóór een ander moment in het verleden",
+ "footer": "Language Learning · B1 · Werkwoorden · Past perfect",
+ "next": "Volgende: B1 · pdf 3 — Voorwaardelijke zinnen 0, 1 en 2"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de past perfect vormen met <b>had + voltooid deelwoord</b>",
+  "duidelijk maken welke gebeurtenis eerst kwam",
+  "<b>by the time, already, before</b> en <b>after</b> gebruiken",
+  "de past perfect continuous herkennen (<i>had been waiting</i>)"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "conj", "verb": "to leave", "meaning": "vertrekken", "label": "onregelmatig werkwoord", "tense": "past perfect",
+  "forms": ["had left", "had left", "had left", "had left", "had left", "had left"],
+  "examples": [["I had already left when she called.", "Ik was al weg toen ze belde."], ["You had left your keys at home.", "Je had je sleutels thuis laten liggen."], ["The train had left by the time we arrived.", "De trein was al vertrokken toen we aankwamen."], ["We had left before the rain started.", "We waren vertrokken voordat de regen begon."], ["You had left the door open.", "Jullie hadden de deur open laten staan."], ["They hadn't left yet.", "Zij waren nog niet weg."]]},
+ {"type": "p", "text": "De past perfect is altijd <b>had</b>, voor alle personen. De korte vorm is <b>'d</b>: <i>I'd seen, she'd gone</i>. De ontkenning is <b>hadn't</b>."},
+
+ {"type": "h1", "text": "2. Wanneer gebruik je hem?"},
+ {"type": "p", "text": "Je vertelt over het verleden in de past simple. Wil je laten zien dat iets <b>daarvoor al gebeurd was</b>, dan gebruik je de past perfect."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Volgorde"], "rows": [
+  ["When I arrived, the film had started.", "eerst begon de film, toen kwam ik"],
+  ["When I arrived, the film started.", "ik kwam, en toen begon de film"],
+  ["She was nervous because she had never flown before.", "nog nooit gevlogen vóór dat moment"],
+  ["I didn't recognise him. He had grown a beard.", "de baard was er al"]]},
+ {"type": "callout", "kind": "dutch", "title": "Bijna als in het Nederlands", "text": "Het Nederlands heeft dezelfde tijd: <i>Ik <b>had</b> hem al <b>gezien</b>.</i> Alleen gebruikt het Engels altijd <b>had</b>, ook waar het Nederlands <i>was</i> zegt: <i>Hij <b>was</b> al vertrokken</i> = <b>He <b>had</b> already left</b>."},
+ {"type": "callout", "kind": "tip", "title": "Niet nodig als de volgorde al duidelijk is", "text": "Na <b>after</b> of <b>before</b> is de volgorde al duidelijk, dus de past simple mag ook: <i>After she <b>finished</b> (of <b>had finished</b>) her work, she went home.</i>"},
+
+ {"type": "h1", "text": "3. Woorden die erbij horen"},
+ {"type": "verbpairs", "title": "Tijdwoorden", "items": [
+  ["already", "al"], ["by the time", "tegen de tijd dat, toen"], ["before", "voordat, eerder"],
+  ["after", "nadat"], ["never ... before", "nog nooit eerder"], ["just", "net"],
+  ["by then", "toen al, tegen die tijd"], ["as soon as", "zodra"]]},
+
+ {"type": "h1", "text": "4. De past perfect continuous"},
+ {"type": "p", "text": "Met <b>had been + -ing</b> zeg je hoe lang iets al bezig was vóór een moment in het verleden: <i>When the bus finally came, we <b>had been waiting</b> for an hour.</i> (We stonden al een uur te wachten.) <i>She was tired because she <b>had been working</b> all day.</i>"},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["When we arrived, the train has left.", "When we arrived, the train had left.", "Vóór een moment in het verleden: had."],
+  ["He was already gone home.", "He had already gone home.", "De past perfect gaat altijd met had."],
+  ["I didn't know her because I never met her before.", "I didn't know her because I had never met her before.", "Eerder dan dat moment: past perfect."],
+  ["She had went to bed.", "She had gone to bed.", "Na had komt het voltooid deelwoord."],
+  ["We were waiting for an hour when the bus came.", "We had been waiting for an hour when the bus came.", "Hoe lang al bezig: had been + -ing."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de past simple of de past perfect in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "When I got to the station, the train ______.", "hint": "leave, al eerder", "a": "had left", "full": "When I got to the station, the train had left."},
+  {"q": "She ______ never seen snow before she moved to Canada.", "hint": "have", "a": "had", "full": "She had never seen snow before she moved to Canada."},
+  {"q": "I didn't recognise him. He ______ a lot.", "hint": "change", "a": "had changed", "full": "I didn't recognise him. He had changed a lot."},
+  {"q": "By the time we arrived, the party ______.", "hint": "finish", "a": "had finished", "full": "By the time we arrived, the party had finished."},
+  {"q": "They ______ tired because they had walked all day.", "hint": "be", "a": "were", "full": "They were tired because they had walked all day."},
+  {"q": "We ______ eaten, so we weren't hungry.", "hint": "already", "a": "had already", "full": "We had already eaten, so we weren't hungry."},
+  {"q": "He couldn't pay because he ______ his wallet.", "hint": "lose", "a": "had lost", "full": "He couldn't pay because he had lost his wallet."},
+  {"q": "We had ______ waiting for two hours when the doctor called us.", "hint": "be", "a": "been", "full": "We had been waiting for two hours when the doctor called us."},
+  {"q": "I ______ seen the film, so I didn't go.", "hint": "have, past perfect", "a": "had", "full": "I had seen the film, so I didn't go."},
+  {"q": "She told me she ______ in Spain before.", "hint": "never, live", "a": "had never lived", "full": "She told me she had never lived in Spain before."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Toen ik aankwam, was de film al begonnen.", "a": "When I arrived, the film had already started."},
+  {"q": "Hij was al naar huis gegaan.", "a": "He had already gone home."},
+  {"q": "Ik had haar nog nooit eerder gezien.", "a": "I had never seen her before."},
+  {"q": "We stonden al een uur te wachten.", "a": "We had been waiting for an hour."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

@@ -1,0 +1,72 @@
+{"meta": {"level": "B1", "section": "Werkwoorden", "number": 1, "total_in_level": 10,
+ "title": "De present perfect continuous",
+ "subtitle": "have been + -ing: hoe lang iets al bezig is, en het verschil met de present perfect simple",
+ "footer": "Language Learning · B1 · Werkwoorden · Present perfect continuous",
+ "next": "Volgende: B1 · pdf 2 — De past perfect"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de present perfect continuous vormen met <b>have / has been + -ing</b>",
+  "zeggen hoe lang iets al bezig is, met <b>for, since</b> en <b>How long</b>",
+  "zichtbare gevolgen van een recente bezigheid beschrijven",
+  "kiezen tussen <i>I've been reading</i> en <i>I've read</i>"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "conj", "verb": "to wait", "meaning": "wachten", "label": "regelmatig werkwoord", "tense": "present perfect continuous",
+  "forms": ["have been wait*ing*", "have been wait*ing*", "has been wait*ing*", "have been wait*ing*", "have been wait*ing*", "have been wait*ing*"],
+  "examples": [["I've been waiting for an hour.", "Ik sta al een uur te wachten."], ["Have you been waiting long?", "Wacht je al lang?"], ["She's been waiting since nine.", "Zij wacht al sinds negen uur."], ["We've been waiting for the bus.", "We staan op de bus te wachten."], ["You've been waiting patiently.", "Jullie hebben geduldig gewacht."], ["They've been waiting all day.", "Zij wachten al de hele dag."]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["I've been working.", "I haven't been working.", "Have you been working?"],
+  ["She's been crying.", "She hasn't been crying.", "Has she been crying?"],
+  ["They've been living here.", "They haven't been living here.", "How long have they been living here?"]]},
+
+ {"type": "h1", "text": "2. Wanneer gebruik je hem?"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Al een tijd bezig, en nog steeds", "I've been learning English for three years.", "Ik leer al drie jaar Engels."],
+  ["Hoe lang?", "How long have you been living here?", "Hoe lang woon je hier al?"],
+  ["Zichtbaar gevolg van iets recents", "Your eyes are red. Have you been crying?", "Je ogen zijn rood. Heb je gehuild?"],
+  ["Herhaalde bezigheid tot nu", "I've been calling you all morning.", "Ik probeer je al de hele ochtend te bellen."]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik werk hier al drie jaar", "text": "Het Nederlands gebruikt de tegenwoordige tijd met <i>al</i>: <i>Ik wacht al een uur.</i> Het Engels zegt dat nooit met de present simple. Gebruik <b>I've been waiting for an hour</b>. <i>I wait since an hour</i> is een typische Nederlandse fout."},
+
+ {"type": "h1", "text": "3. Simple of continuous?"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Present perfect simple", "Present perfect continuous"], "rows": [
+  ["Het resultaat, het aantal: I've read three books this month.", "De bezigheid, de duur: I've been reading all afternoon."],
+  ["Klaar: I've painted the kitchen. (het is af)", "Bezig, misschien niet af: I've been painting the kitchen. (er zit verf op mijn handen)"],
+  ["Blijvend: I've lived here all my life.", "Tijdelijk: I've been living with friends since May."],
+  ["Met toestanden: I've known him for years.", "Niet met toestanden: I've been knowing him (fout)."]]},
+ {"type": "callout", "kind": "tip", "title": "How many / how much: simple", "text": "Vraag je naar een aantal of hoeveelheid, gebruik dan de simple: <i>How many cups of coffee <b>have</b> you <b>had</b>?</i> Vraag je naar de duur, dan de continuous: <i>How long <b>have</b> you <b>been</b> drinking coffee?</i>"},
+ {"type": "callout", "kind": "warn", "title": "Toestandswerkwoorden", "text": "<b>know, like, love, believe, own, be</b> en andere toestandswerkwoorden krijgen geen continuous: <i>I've known her since school</i>, <i>We've been married for ten years</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I wait here since ten o'clock.", "I've been waiting here since ten o'clock.", "Al een tijd bezig tot nu: present perfect continuous."],
+  ["I'm learning English for two years.", "I've been learning English for two years.", "Duur tot nu: niet de present continuous."],
+  ["She has been knowing him for years.", "She has known him for years.", "know krijgt geen continuous."],
+  ["How long are you living here?", "How long have you been living here?", "Hoe lang al: present perfect continuous."],
+  ["I've been reading three books.", "I've read three books.", "Een aantal: present perfect simple."],
+  ["He has been work all day.", "He has been working all day.", "Na been komt de -ing-vorm."],
+  ["We have been waiting since two hours.", "We have been waiting for two hours.", "Een periode: for."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de present perfect simple of continuous in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ for you for twenty minutes!", "hint": "wait", "a": "have been waiting", "full": "I have been waiting for you for twenty minutes!"},
+  {"q": "How long ______ you been learning English?", "hint": "have of has", "a": "have", "full": "How long have you been learning English?"},
+  {"q": "She ______ all morning. She looks tired.", "hint": "work", "a": "has been working", "full": "She has been working all morning. She looks tired."},
+  {"q": "I ______ four emails today.", "hint": "write, aantal", "a": "have written", "full": "I have written four emails today."},
+  {"q": "We ______ each other since we were children.", "hint": "know", "a": "have known", "full": "We have known each other since we were children."},
+  {"q": "It ______ raining since this morning.", "hint": "have been", "a": "has been", "full": "It has been raining since this morning."},
+  {"q": "Your hands are dirty. What have you ______ doing?", "hint": "be", "a": "been", "full": "Your hands are dirty. What have you been doing?"},
+  {"q": "They ______ living in Leeds for six months.", "hint": "have been", "a": "have been", "full": "They have been living in Leeds for six months."},
+  {"q": "I've been studying ______ 8 o'clock.", "hint": "for of since", "a": "since", "full": "I've been studying since 8 o'clock."},
+  {"q": "He's been playing the guitar ______ ten years.", "hint": "for of since", "a": "for", "full": "He's been playing the guitar for ten years."},
+  {"q": "How many cups of tea ______ you had today?", "hint": "have of has", "a": "have", "full": "How many cups of tea have you had today?"},
+  {"q": "I ______ my keys. I can't find them anywhere.", "hint": "lose", "a": "have lost", "full": "I have lost my keys. I can't find them anywhere."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik wacht al een uur.", "a": "I've been waiting for an hour."},
+  {"q": "Hoe lang woon je hier al?", "a": "How long have you been living here?"},
+  {"q": "Het regent al de hele dag.", "a": "It has been raining all day."},
+  {"q": "Ik ken haar al tien jaar.", "a": "I have known her for ten years."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

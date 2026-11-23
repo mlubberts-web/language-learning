@@ -207,5 +207,27 @@
   "subtitle": "Reizen, gezondheid, het weer, werk, vrije tijd, en zinnen voor de telefoon en e-mail",
   "content": "a2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_01_De_present_perfect_continuous",
+  "file": "B1_01_De_present_perfect_continuous.pdf",
+  "level": "B1",
+  "number": 1,
+  "section": "Werkwoorden",
+  "title": "De present perfect continuous",
+  "subtitle": "have been + -ing: hoe lang iets al bezig is, en het verschil met de present perfect simple",
+  "content": "b1_01_present_perfect_continuous.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_02_De_past_perfect",
+  "file": "B1_02_De_past_perfect.pdf",
+  "level": "B1",
+  "number": 2,
+  "section": "Werkwoorden",
+  "title": "De past perfect",
+  "subtitle": "had + voltooid deelwoord: wat er al gebeurd was vóór een ander moment in het verleden",
+  "content": "b1_02_past_perfect.json",
+  "exercise_count": 10
  }
 ]
