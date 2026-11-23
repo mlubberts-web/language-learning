@@ -64,5 +64,16 @@
   "subtitle": "me, hem and haar; mijn, jouw, ons and onze; van mij; and hij for things",
   "content": "a1_06_pronouns_possessives.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_07_Modal_verbs_and_separable_verbs",
+  "file": "A1_07_Modal_verbs_and_separable_verbs.pdf",
+  "level": "A1",
+  "number": 7,
+  "section": "Verbs",
+  "title": "Modal verbs and separable verbs",
+  "subtitle": "kunnen, moeten, willen and mogen with the infinitive at the end, and verbs like opbellen and meegaan",
+  "content": "a1_07_modal_separable_verbs.json",
+  "exercise_count": 12
  }
 ]
