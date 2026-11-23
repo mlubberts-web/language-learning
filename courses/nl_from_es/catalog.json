@@ -119,5 +119,16 @@
   "subtitle": "Los verbos fuertes más frecuentes, y cuándo se usa zijn en lugar de hebben",
   "content": "a2_02_perfect_strong.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_03_El_pasado_simple",
+  "file": "A2_03_El_pasado_simple.pdf",
+  "level": "A2",
+  "number": 3,
+  "section": "Verbos",
+  "title": "El pasado simple",
+  "subtitle": "-te y -de, las formas fuertes del pasado, y cuándo elegir el pasado simple o el perfecto",
+  "content": "a2_03_simple_past.json",
+  "exercise_count": 12
  }
 ]

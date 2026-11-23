@@ -1,0 +1,500 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "El pasado simple",
+  "subtitle": "-te y -de, las formas fuertes del pasado, y cuándo elegir el pasado simple o el perfecto",
+  "footer": "Language Learning · A2 · Verbos · El pasado simple",
+  "next": "Siguiente: A2 · pdf 4 — El futuro y gaan"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el pasado simple de los verbos débiles con <b>-te(n)</b> o <b>-de(n)</b>",
+    "usar el pasado de los verbos fuertes más frecuentes (<i>ging, kwam, zag</i>)",
+    "describir el pasado: <i>Vroeger woonde ik in Londen</i>",
+    "elegir entre <i>ik werkte</i> e <i>ik heb gewerkt</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos débiles: -te o -de"
+  },
+  {
+   "type": "p",
+   "text": "Toma la raíz y añade <b>-te</b> (singular) o <b>-ten</b> (plural) si la raíz termina en una letra de <b>'t kofschip</b>; si no, añade <b>-de / -den</b>. Es la misma regla que la del participio (pdf 1)."
+  },
+  {
+   "type": "conj",
+   "verb": "werken",
+   "meaning": "trabajar",
+   "label": "verbo débil",
+   "tense": "pasado simple",
+   "forms": [
+    "werk*te*",
+    "werk*te*",
+    "werk*te*",
+    "werk*ten*",
+    "werk*ten*",
+    "werk*ten*"
+   ],
+   "examples": [
+    [
+     "Ik werkte toen in een winkel.",
+     "Entonces trabajaba en una tienda."
+    ],
+    [
+     "Werkte jij ook op zaterdag?",
+     "¿Trabajabas también los sábados?"
+    ],
+    [
+     "Zij werkte in Parijs.",
+     "Ella trabajaba en París."
+    ],
+    [
+     "We werkten vaak samen.",
+     "A menudo trabajábamos juntos."
+    ],
+    [
+     "Jullie werkten hard.",
+     "Trabajabais mucho."
+    ],
+    [
+     "Ze werkten de hele nacht.",
+     "Trabajaron toda la noche."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "wonen",
+   "meaning": "vivir",
+   "label": "verbo débil",
+   "tense": "pasado simple",
+   "forms": [
+    "woon*de*",
+    "woon*de*",
+    "woon*de*",
+    "woon*den*",
+    "woon*den*",
+    "woon*den*"
+   ],
+   "examples": [
+    [
+     "Ik woonde vroeger in Londen.",
+     "Antes vivía en Londres."
+    ],
+    [
+     "Waar woonde je toen?",
+     "¿Dónde vivías entonces?"
+    ],
+    [
+     "Hij woonde bij zijn oma.",
+     "Él vivía con su abuela."
+    ],
+    [
+     "We woonden aan zee.",
+     "Vivíamos junto al mar."
+    ],
+    [
+     "Jullie woonden in het centrum.",
+     "Vivíais en el centro."
+    ],
+    [
+     "Ze woonden in een klein huis.",
+     "Vivían en una casa pequeña."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "leven → leefde, reizen → reisde",
+   "text": "Como con el participio, mira el infinitivo: la v y la z no están en 't kofschip, así que <b>leefde</b> y <b>reisde</b>. Una raíz que termina en t o d la conserva: <i>praten → praatte</i>, <i>antwoorden → antwoordde</i> (sí, con dd)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los verbos fuertes"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos fuertes cambian la vocal y no llevan terminación en singular: <i>ik liep, jij liep, hij liep</i>. El plural añade <b>-en</b>: <i>wij liepen</i>. A veces la vocal vuelve a cambiar en plural o cambia la ortografía: <i>ik las, wij lazen</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    3.6,
+    3.8,
+    2.4
+   ],
+   "head": [
+    "Infinitivo",
+    "Pasado singular",
+    "Pasado plural",
+    "Participio",
+    "Español"
+   ],
+   "rows": [
+    [
+     "zijn",
+     "was",
+     "waren",
+     "geweest",
+     "ser, estar"
+    ],
+    [
+     "hebben",
+     "had",
+     "hadden",
+     "gehad",
+     "tener"
+    ],
+    [
+     "gaan",
+     "ging",
+     "gingen",
+     "gegaan",
+     "ir"
+    ],
+    [
+     "komen",
+     "kwam",
+     "kwamen",
+     "gekomen",
+     "venir"
+    ],
+    [
+     "zien",
+     "zag",
+     "zagen",
+     "gezien",
+     "ver"
+    ],
+    [
+     "eten",
+     "at",
+     "aten",
+     "gegeten",
+     "comer"
+    ],
+    [
+     "lezen",
+     "las",
+     "lazen",
+     "gelezen",
+     "leer"
+    ],
+    [
+     "geven",
+     "gaf",
+     "gaven",
+     "gegeven",
+     "dar"
+    ],
+    [
+     "nemen",
+     "nam",
+     "namen",
+     "genomen",
+     "coger, tomar"
+    ],
+    [
+     "schrijven",
+     "schreef",
+     "schreven",
+     "geschreven",
+     "escribir"
+    ],
+    [
+     "drinken",
+     "dronk",
+     "dronken",
+     "gedronken",
+     "beber"
+    ],
+    [
+     "lopen",
+     "liep",
+     "liepen",
+     "gelopen",
+     "andar"
+    ],
+    [
+     "kopen",
+     "kocht",
+     "kochten",
+     "gekocht",
+     "comprar"
+    ],
+    [
+     "doen",
+     "deed",
+     "deden",
+     "gedaan",
+     "hacer"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.2,
+    4.2,
+    4.4
+   ],
+   "head": [
+    "Verbo modal",
+    "Pasado singular",
+    "Pasado plural",
+    "Español"
+   ],
+   "rows": [
+    [
+     "kunnen",
+     "kon",
+     "konden",
+     "podía, pude"
+    ],
+    [
+     "moeten",
+     "moest",
+     "moesten",
+     "tenía que, tuve que"
+    ],
+    [
+     "willen",
+     "wilde / wou",
+     "wilden",
+     "quería, quise"
+    ],
+    [
+     "mogen",
+     "mocht",
+     "mochten",
+     "me dejaban, podía"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿Pasado simple o perfecto?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.0,
+    5.6
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Tiempo"
+   ],
+   "rows": [
+    [
+     "un hecho suelto, en una conversación",
+     "Ik heb gisteren een fiets gekocht.",
+     "perfecto"
+    ],
+    [
+     "una historia, un hecho tras otro",
+     "Ik stond op, nam een douche en ging weg.",
+     "pasado simple"
+    ],
+    [
+     "cómo eran las cosas, costumbres pasadas",
+     "Vroeger woonde ik in Londen.",
+     "pasado simple"
+    ],
+    [
+     "zijn, hebben y los verbos modales",
+     "Ik was moe en ik moest werken.",
+     "pasado simple"
+    ],
+    [
+     "el fondo de otro hecho",
+     "Het regende toen ik thuiskwam.",
+     "pasado simple"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Indefinido, imperfecto y estaba + gerundio",
+   "text": "El neerlandés no distingue entre indefinido e imperfecto: <i>trabajé</i> y <i>trabajaba</i> son los dos <b>ik werkte</b>. En una conversación, un hecho suelto suele ir en perfecto (<i>Ik heb gisteren een fiets gekocht</i>). Para <i>estaba + gerundio</i> se usa <b>was aan het + infinitivo</b>: <i>Ik was aan het koken toen je belde.</i> Y para <i>solía</i>, <b>vroeger</b> + pasado simple: <i>Vroeger speelde ik tennis.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik woonte in Londen.",
+     "Ik woonde in Londen.",
+     "La n no está en 't kofschip: -de."
+    ],
+    [
+     "Ik maakde een taart.",
+     "Ik maakte een taart.",
+     "La k está en 't kofschip: -te."
+    ],
+    [
+     "Ik gaate naar huis.",
+     "Ik ging naar huis.",
+     "gaan es fuerte: ging."
+    ],
+    [
+     "Wij kwam laat.",
+     "Wij kwamen laat.",
+     "Plural: kwamen."
+    ],
+    [
+     "Ik was werken.",
+     "Ik was aan het werken.",
+     "Estaba trabajando: was aan het werken."
+    ],
+    [
+     "Ik heb moe geweest en ik heb moeten werken.",
+     "Ik was moe en ik moest werken.",
+     "zijn y los verbos modales: normalmente pasado simple."
+    ],
+    [
+     "Ik gebruikte te spelen.",
+     "Vroeger speelde ik.",
+     "Solía: vroeger + pasado simple."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el pasado simple. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Vroeger ______ ik in Engeland.",
+     "hint": "wonen",
+     "a": "woonde",
+     "full": "Vroeger woonde ik in Engeland."
+    },
+    {
+     "q": "Gisteren ______ ik erg moe.",
+     "hint": "zijn",
+     "a": "was",
+     "full": "Gisteren was ik erg moe."
+    },
+    {
+     "q": "We ______ geen tijd.",
+     "hint": "hebben",
+     "a": "hadden",
+     "full": "We hadden geen tijd."
+    },
+    {
+     "q": "Hij ______ naar huis.",
+     "hint": "gaan",
+     "a": "ging",
+     "full": "Hij ging naar huis."
+    },
+    {
+     "q": "Ze ______ te laat op het feest.",
+     "hint": "komen, ellos",
+     "a": "kwamen",
+     "full": "Ze kwamen te laat op het feest."
+    },
+    {
+     "q": "Ik ______ een boek in de trein.",
+     "hint": "lezen",
+     "a": "las",
+     "full": "Ik las een boek in de trein."
+    },
+    {
+     "q": "Zij ______ elke dag in het park.",
+     "hint": "werken, ella",
+     "a": "werkte",
+     "full": "Zij werkte elke dag in het park."
+    },
+    {
+     "q": "We ______ gisteren lang werken.",
+     "hint": "moeten",
+     "a": "moesten",
+     "full": "We moesten gisteren lang werken."
+    },
+    {
+     "q": "Ik ______ niet komen. Ik was ziek.",
+     "hint": "kunnen",
+     "a": "kon",
+     "full": "Ik kon niet komen. Ik was ziek."
+    },
+    {
+     "q": "Het ______ toen ik thuiskwam.",
+     "hint": "regenen",
+     "a": "regende",
+     "full": "Het regende toen ik thuiskwam."
+    },
+    {
+     "q": "Ik was aan het ______ toen je belde.",
+     "hint": "koken",
+     "a": "koken",
+     "full": "Ik was aan het koken toen je belde."
+    },
+    {
+     "q": "Hij ______ een nieuwe auto.",
+     "hint": "kopen",
+     "a": "kocht",
+     "full": "Hij kocht een nieuwe auto."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Antes vivía en Londres.",
+     "a": "Vroeger woonde ik in Londen."
+    },
+    {
+     "q": "Estaba cansado.",
+     "a": "Ik was moe."
+    },
+    {
+     "q": "Estaba cocinando cuando llamaste.",
+     "a": "Ik was aan het koken toen je belde."
+    },
+    {
+     "q": "Tuvimos que trabajar.",
+     "a": "We moesten werken."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
