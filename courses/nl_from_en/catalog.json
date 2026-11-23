@@ -75,5 +75,16 @@
   "subtitle": "kunnen, moeten, willen and mogen with the infinitive at the end, and verbs like opbellen and meegaan",
   "content": "a1_07_modal_separable_verbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_08_Adjectives",
+  "file": "A1_08_Adjectives.pdf",
+  "level": "A1",
+  "number": 8,
+  "section": "Grammar",
+  "title": "Adjectives",
+  "subtitle": "When an adjective gets -e, the spelling changes, and the basics of comparison",
+  "content": "a1_08_adjectives.json",
+  "exercise_count": 12
  }
 ]
