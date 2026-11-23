@@ -155,7 +155,7 @@ Choices made (Menno can overrule any of them):
 ## Phase 7: finishing the website
 
 - [x] 7.1 README and DEPLOY for the whole site; screenshots.
-- [ ] 7.2 Privacy page (what is stored, how to delete an account), terms of use.
+- [x] 7.2 Privacy page (what is stored, how to delete an account), terms of use.
 - [ ] 7.3 Everything once more on a phone-sized screen.
 - [ ] 7.4 🙋 Menno decides on a name and maybe an own domain.
 
@@ -172,3 +172,7 @@ Short notes per session: what was done, anything left open.
   such as "Ik denk in jou", "Ik wacht de bus", "Ik heb het hem" order), 15 word lists, the verbs in
   context and "Trampas para hispanohablantes"; all tests pass. 7.1: new README for the six courses
   with new screenshots, DEPLOY updated; "Put back a backup" now also takes results/<course>_*.json.
+- 2026-11-23: 7.2: privacy.py, "🔒 Privacy and terms" on the login screen and in the sidebar (what is
+  stored, where, who can see it, terms of use), in all three languages. Online, people with their own
+  account can delete it with all results (tick box first); accounts in the secrets can't. Tested
+  online against the fake database.

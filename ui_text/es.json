@@ -473,5 +473,20 @@
  "🗓️ Schedule": "🗓️ Planificación",
  "🧩 Build the sentence": "🧩 Construye la frase",
  "Official {exam} mock exam no. {number} ({level})": "Examen de prueba oficial {exam} n.º {number} ({level})",
- "{exam} sample papers": "Exámenes de muestra {exam}"
+ "{exam} sample papers": "Exámenes de muestra {exam}",
+ "What is stored": "Qué se guarda",
+ "Where it is kept and who can see it": "Dónde se guarda y quién puede verlo",
+ "Your data and deleting it": "Tus datos y cómo borrarlos",
+ "Terms of use": "Condiciones de uso",
+ "On your own computer (start.bat) everything stays in the results folder next to app.py. Nothing is sent anywhere.": "En tu propio ordenador (start.bat) todo se queda en la carpeta results junto a app.py. No se envía nada a ninguna parte.",
+ "Online: your name, a scrambled version of your password (never the password itself), your time zone and the date you made your account. Per course: which pages you read, your answers to the practice questions and when you gave them, your study time, your deadlines and your mock exam scores. Also which courses you follow and the language of the screens.": "En línea: tu nombre, una versión cifrada de tu contraseña (nunca la contraseña misma), tu zona horaria y la fecha en que creaste tu cuenta. Por curso: qué páginas has leído, tus respuestas a las preguntas de práctica y cuándo las diste, tu tiempo de estudio, tus fechas límite y tus notas en los exámenes de prueba. Además, qué cursos sigues y el idioma de las pantallas.",
+ "The site runs on Streamlit Community Cloud and keeps the results in a Supabase database, both with servers in the United States. Only the site's own server can read the database. The person who runs the site can see the names of the accounts and could look at the data, but only does so to help you.": "La web funciona en Streamlit Community Cloud y guarda los resultados en una base de datos de Supabase, ambos con servidores en Estados Unidos. Solo el propio servidor de la web puede leer la base de datos. Quien gestiona la web ve los nombres de las cuentas y podría consultar los datos, pero solo lo hace para ayudarte.",
+ "Nothing is sold or shared, and there are no ads and no tracking. Streamlit and Supabase keep their own technical logs, like every web host. Listening uses the voices of your own browser.": "No se vende ni se comparte nada, y no hay anuncios ni seguimiento. Streamlit y Supabase guardan sus propios registros técnicos, como cualquier alojamiento web. La comprensión auditiva usa las voces de tu propio navegador.",
+ "💾 Your data in the sidebar downloads all your results of the open course.": "💾 Tus datos, en la barra lateral, descarga todos tus resultados del curso abierto.",
+ "Delete my account (below, online) removes your account and all your results at once. This can't be undone. For an account the site's owner made for you, ask them.": "Borrar mi cuenta (abajo, en línea) elimina tu cuenta y todos tus resultados de una vez. No se puede deshacer. Si la cuenta te la creó quien gestiona la web, pídeselo a esa persona.",
+ "The site is free, for your own study. The material was written with the help of an AI (Claude) and checked, but it can still contain mistakes. The site has no connection with Instituto Cervantes, Cambridge, the Staatsexamens NT2, DUO or CNaVT; it only links to their official practice papers.": "La web es gratuita, para tu propio estudio. El material se escribió con ayuda de una IA (Claude) y se revisó, pero aun así puede contener errores. La web no tiene relación con el Instituto Cervantes, Cambridge, los Staatsexamens NT2, DUO ni el CNaVT; solo enlaza a sus exámenes de práctica oficiales.",
+ "The site can change or stop, so download a backup now and then. Keep your login and your bookmark to yourself, and don't try to get into other people's accounts.": "La web puede cambiar o dejar de funcionar, así que descarga una copia de vez en cuando. No compartas tu acceso ni tu marcador, y no intentes entrar en las cuentas de otras personas.",
+ "🔒 Privacy and terms": "🔒 Privacidad y condiciones",
+ "Yes, delete my account and all my results": "Sí, borrar mi cuenta y todos mis resultados",
+ "Delete my account": "Borrar mi cuenta"
 }

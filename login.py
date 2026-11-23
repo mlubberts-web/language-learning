@@ -150,12 +150,14 @@ def login_screen(database):
     st.subheader(t("Log in or make an account"))
     if secrets_part("signup") is None:
         login_form(database)
-        return
-    log_in_tab, new_tab = st.tabs([t("Log in"), t("Create an account")])
-    with log_in_tab:
-        login_form(database)
-    with new_tab:
-        signup_form(database)
+    else:
+        log_in_tab, new_tab = st.tabs([t("Log in"), t("Create an account")])
+        with log_in_tab:
+            login_form(database)
+        with new_tab:
+            signup_form(database)
+    import privacy  # here: privacy.py imports this file, so importing it at the top would go round in a circle
+    privacy.privacy_part()
 
 
 # The three cards on the landing page: (title, text), translated where they are shown.

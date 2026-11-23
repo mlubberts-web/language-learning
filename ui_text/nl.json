@@ -473,5 +473,20 @@
  "🗓️ Schedule": "🗓️ Planning",
  "🧩 Build the sentence": "🧩 Bouw de zin",
  "Official {exam} mock exam no. {number} ({level})": "Officieel {exam}-proefexamen nr. {number} ({level})",
- "{exam} sample papers": "{exam}-oefenexamens"
+ "{exam} sample papers": "{exam}-oefenexamens",
+ "What is stored": "Wat er wordt bewaard",
+ "Where it is kept and who can see it": "Waar het staat en wie het kan zien",
+ "Your data and deleting it": "Je gegevens en ze verwijderen",
+ "Terms of use": "Gebruiksvoorwaarden",
+ "On your own computer (start.bat) everything stays in the results folder next to app.py. Nothing is sent anywhere.": "Op je eigen computer (start.bat) blijft alles in de map results naast app.py. Er wordt niets verstuurd.",
+ "Online: your name, a scrambled version of your password (never the password itself), your time zone and the date you made your account. Per course: which pages you read, your answers to the practice questions and when you gave them, your study time, your deadlines and your mock exam scores. Also which courses you follow and the language of the screens.": "Online: je naam, een versleutelde versie van je wachtwoord (nooit het wachtwoord zelf), je tijdzone en de datum waarop je je account maakte. Per cursus: welke pagina's je las, je antwoorden op de oefenvragen en wanneer je ze gaf, je studietijd, je deadlines en je scores op proefexamens. Verder welke cursussen je volgt en de taal van de schermen.",
+ "The site runs on Streamlit Community Cloud and keeps the results in a Supabase database, both with servers in the United States. Only the site's own server can read the database. The person who runs the site can see the names of the accounts and could look at the data, but only does so to help you.": "De site draait op Streamlit Community Cloud en bewaart de resultaten in een database van Supabase, allebei met servers in de Verenigde Staten. Alleen de server van de site zelf kan de database lezen. Wie de site beheert, ziet de namen van de accounts en zou de gegevens kunnen inzien, maar doet dat alleen om je te helpen.",
+ "Nothing is sold or shared, and there are no ads and no tracking. Streamlit and Supabase keep their own technical logs, like every web host. Listening uses the voices of your own browser.": "Er wordt niets verkocht of gedeeld, en er zijn geen advertenties en geen tracking. Streamlit en Supabase houden hun eigen technische logboeken bij, zoals elke webhost. Luisteren gebruikt de stemmen van je eigen browser.",
+ "💾 Your data in the sidebar downloads all your results of the open course.": "💾 Je gegevens in de zijbalk downloadt al je resultaten van de open cursus.",
+ "Delete my account (below, online) removes your account and all your results at once. This can't be undone. For an account the site's owner made for you, ask them.": "Mijn account verwijderen (hieronder, online) verwijdert je account en al je resultaten in één keer. Dat kan niet ongedaan worden gemaakt. Voor een account dat de beheerder van de site voor je maakte, vraag je het aan hem of haar.",
+ "The site is free, for your own study. The material was written with the help of an AI (Claude) and checked, but it can still contain mistakes. The site has no connection with Instituto Cervantes, Cambridge, the Staatsexamens NT2, DUO or CNaVT; it only links to their official practice papers.": "De site is gratis, voor je eigen studie. Het lesmateriaal is geschreven met hulp van een AI (Claude) en nagekeken, maar kan toch fouten bevatten. De site heeft geen band met het Instituto Cervantes, Cambridge, de Staatsexamens NT2, DUO of het CNaVT; hij verwijst alleen naar hun officiële oefenexamens.",
+ "The site can change or stop, so download a backup now and then. Keep your login and your bookmark to yourself, and don't try to get into other people's accounts.": "De site kan veranderen of stoppen, dus download af en toe een back-up. Houd je inlog en je bladwijzer voor jezelf, en probeer niet in de accounts van anderen te komen.",
+ "🔒 Privacy and terms": "🔒 Privacy en voorwaarden",
+ "Yes, delete my account and all my results": "Ja, verwijder mijn account en al mijn resultaten",
+ "Delete my account": "Mijn account verwijderen"
 }

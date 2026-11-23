@@ -16,6 +16,7 @@ import courses_screen as courses
 import extra_screens as extra
 import login
 import practice_screen as practice
+import privacy
 import practice_store as store
 import progress_screen as progress
 import schedule_screen as schedule
@@ -272,6 +273,7 @@ def sidebar():
         else:
             st.caption(t("Progress is saved in the results folder next to app.py."))
         your_data()
+        privacy.privacy_part()
         login.admin_part()  # only for admins: the accounts people made
 
 
