@@ -1,0 +1,68 @@
+{"meta": {"level": "C2", "section": "Stijl", "number": 5, "total_in_level": 10,
+ "title": "Retoriek en stijl",
+ "subtitle": "Stijlfiguren, ironie, understatement, eufemisme en retorische middelen in betogen",
+ "footer": "Language Learning · C2 · Stijl · Retoriek",
+ "next": "Volgende: C2 · pdf 6 — Formeel en zakelijk schrijven"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de belangrijkste stijlfiguren in het Engels herkennen en gebruiken",
+  "ironie en understatement begrijpen, typisch voor Brits Engels",
+  "eufemismen herkennen",
+  "retorische middelen inzetten in een toespraak of betoog"]},
+
+ {"type": "h1", "text": "1. Stijlfiguren"},
+ {"type": "table", "style": "plain", "widths": [4.0, 7.0, 6.0], "head": ["Stijlfiguur", "Voorbeeld", "Nederlands"], "rows": [
+  ["metaphor", "Time is money.", "metafoor"],
+  ["simile", "She sings like an angel. He's as cold as ice.", "vergelijking (like, as ... as)"],
+  ["hyperbole", "I've told you a million times.", "overdrijving"],
+  ["alliteration", "Peter Piper picked a peck of pickled peppers.", "alliteratie (zelfde beginklank)"],
+  ["personification", "The wind howled all night.", "personificatie"],
+  ["oxymoron", "a deafening silence, bitter sweet", "oxymoron (tegenstrijdige woorden)"],
+  ["rhetorical question", "Who doesn't want to be happy?", "retorische vraag"]]},
+
+ {"type": "h1", "text": "2. Understatement en ironie"},
+ {"type": "p", "text": "Britse sprekers zeggen vaak <b>minder</b> dan ze bedoelen, of het <b>tegenovergestelde</b>. Herken de toon:"},
+ {"type": "table", "style": "plain", "widths": [7.0, 10.0], "head": ["Wat er gezegd wordt", "Wat er bedoeld wordt"], "rows": [
+  ["It was a bit of a disaster.", "Het was een complete ramp."],
+  ["I'm not entirely convinced.", "Ik geloof er niets van."],
+  ["He's not the brightest.", "Hij is nogal dom."],
+  ["Lovely weather! (in de stromende regen)", "Wat een rotweer. (ironie)"],
+  ["That went well. (na een mislukking)", "Dat ging helemaal mis."]]},
+ {"type": "callout", "kind": "dutch", "title": "Litotes: not bad = goed", "text": "Een <b>litotes</b> zegt iets positiefs door het tegendeel te ontkennen: <i>not bad</i> (goed), <i>not uncommon</i> (vrij gewoon), <i>not without risk</i> (riskant). Het Nederlands kent dit ook (<i>niet slecht</i>), maar Britten gebruiken het veel vaker."},
+
+ {"type": "h1", "text": "3. Eufemismen"},
+ {"type": "verbpairs", "title": "Eufemismen", "items": [
+  ["to pass away", "overlijden"], ["to let someone go", "iemand ontslaan"], ["between jobs", "werkloos"], ["senior citizen", "oudere, bejaarde"],
+  ["economical with the truth", "aan het liegen"], ["to powder your nose", "naar het toilet gaan"], ["a little worse for wear", "dronken, er moe uitzien"], ["downsizing", "inkrimping, ontslagen"],
+  ["collateral damage", "burgerslachtoffers"], ["in a delicate condition", "zwanger (ouderwets)"]]},
+
+ {"type": "h1", "text": "4. Retorische middelen in een betoog"},
+ {"type": "table", "style": "plain", "widths": [4.4, 7.6, 5.0], "head": ["Middel", "Voorbeeld", "Effect"], "rows": [
+  ["rule of three", "We will fight for freedom, for justice and for equality.", "ritme, makkelijk te onthouden"],
+  ["anaphora", "We shall fight on the beaches, we shall fight on the landing grounds ...", "herhaling aan het begin"],
+  ["antithesis", "Ask not what your country can do for you; ask what you can do for your country.", "tegenstelling"],
+  ["direct address", "You might ask yourself why this matters.", "betrekt de luisteraar"],
+  ["concession", "Admittedly, there are risks. But ...", "geloofwaardig"]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "\"She sings like an angel\" is a ______.", "hint": "vergelijking", "a": "simile", "full": "\"She sings like an angel\" is a simile."},
+  {"q": "\"Time is money\" is a ______.", "hint": "metafoor", "a": "metaphor", "full": "\"Time is money\" is a metaphor."},
+  {"q": "\"I've told you a million times\" is an example of ______.", "hint": "overdrijving", "a": "hyperbole", "full": "\"I've told you a million times\" is an example of hyperbole."},
+  {"q": "My grandfather passed ______ last year.", "hint": "overlijden", "a": "away", "full": "My grandfather passed away last year."},
+  {"q": "The company had to let fifty people ______.", "hint": "ontslaan", "a": "go", "full": "The company had to let fifty people go."},
+  {"q": "The film wasn't ______ at all. I really enjoyed it.", "hint": "slecht (litotes)", "a": "bad", "full": "The film wasn't bad at all. I really enjoyed it."},
+  {"q": "He was rather economical with the ______.", "hint": "waarheid", "a": "truth", "full": "He was rather economical with the truth."},
+  {"q": "The wind ______ all night.", "hint": "huilde (personificatie), howl", "a": "howled", "full": "The wind howled all night."},
+  {"q": "There was a deafening ______ after the announcement.", "hint": "stilte (oxymoron)", "a": "silence", "full": "There was a deafening silence after the announcement."},
+  {"q": "______, there are risks. But the benefits are greater.", "hint": "toegegeven", "a": "Admittedly", "full": "Admittedly, there are risks. But the benefits are greater."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hij is vorig jaar overleden. (eufemisme)", "a": "He passed away last year."},
+  {"q": "Het was niet slecht. (litotes, betekent: goed)", "a": "It wasn't bad."},
+  {"q": "Tijd is geld.", "a": "Time is money."},
+  {"q": "Ik heb het je al duizend keer gezegd.", "a": "I've told you a thousand times."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

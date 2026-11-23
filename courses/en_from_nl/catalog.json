@@ -581,5 +581,27 @@
   "subtitle": "Werkwoord + voorwerp + infinitief of -ing, en werkwoorden om iets na te vertellen (accuse of, urge to)",
   "content": "c2_04_verb_patterns.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_05_Retoriek_en_stijl",
+  "file": "C2_05_Retoriek_en_stijl.pdf",
+  "level": "C2",
+  "number": 5,
+  "section": "Stijl",
+  "title": "Retoriek en stijl",
+  "subtitle": "Stijlfiguren, ironie, understatement, eufemisme en retorische middelen in betogen",
+  "content": "c2_05_rhetoric_style.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_06_Formeel_en_zakelijk_schrijven",
+  "file": "C2_06_Formeel_en_zakelijk_schrijven.pdf",
+  "level": "C2",
+  "number": 6,
+  "section": "Schrijven",
+  "title": "Formeel en zakelijk schrijven",
+  "subtitle": "Rapporten, voorstellen en brieven; zakelijke en juridische formuleringen",
+  "content": "c2_06_formal_writing.json",
+  "exercise_count": 10
  }
 ]

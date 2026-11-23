@@ -1,0 +1,69 @@
+{"meta": {"level": "C2", "section": "Schrijven", "number": 6, "total_in_level": 10,
+ "title": "Formeel en zakelijk schrijven",
+ "subtitle": "Rapporten, voorstellen en brieven; zakelijke en juridische formuleringen",
+ "footer": "Language Learning · C2 · Schrijven · Formeel en zakelijk",
+ "next": "Volgende: C2 · pdf 7 — Uitdrukkingen, slang en spreektaal"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "een rapport en een voorstel opbouwen",
+  "zakelijke formuleringen gebruiken voor verzoeken, klachten en reacties",
+  "juridische en officiële taal herkennen",
+  "de toon kiezen: formeel, neutraal of vriendelijk-zakelijk"]},
+
+ {"type": "h1", "text": "1. Een rapport of voorstel"},
+ {"type": "table", "style": "plain", "widths": [3.8, 13.2], "head": ["Onderdeel", "Handige zinnen"], "rows": [
+  ["Doel", "<i>The purpose of this report is to ... This proposal outlines ...</i>"],
+  ["Achtergrond", "<i>Following the recent ..., it has become clear that ...</i>"],
+  ["Bevindingen", "<i>It was found that ... The majority of respondents indicated that ... A significant proportion ...</i>"],
+  ["Aanbevelingen", "<i>It is recommended that ... We propose that ... It would be advisable to ...</i>"],
+  ["Conclusie", "<i>In light of the above, ... To conclude, ...</i>"]]},
+ {"type": "callout", "kind": "dutch", "title": "Geen 'ik' en 'wij' te veel", "text": "In Nederlandse rapporten staat vaak <i>wij hebben onderzocht</i>. In formeel Engels kies je liever de lijdende vorm of een onpersoonlijk onderwerp: <b>The survey showed that ...</b>, <b>It was found that ...</b>"},
+
+ {"type": "h1", "text": "2. Zakelijke formuleringen"},
+ {"type": "table", "style": "plain", "widths": [4.0, 7.6, 5.4], "head": ["Functie", "Formulering", "Nederlands"], "rows": [
+  ["Verwijzen", "With reference to your letter of 3 May, ...", "Naar aanleiding van uw brief van 3 mei ..."],
+  ["Verzoek", "We would appreciate it if you could ...", "Wij zouden het op prijs stellen als ..."],
+  ["Bijlage", "Please find attached ...", "Bijgaand treft u ..."],
+  ["Excuses", "We apologise for any inconvenience caused.", "Excuses voor het ongemak."],
+  ["Bevestiging", "I am writing to confirm ...", "Hierbij bevestig ik ..."],
+  ["Spijt", "We regret to inform you that ...", "Tot onze spijt moeten wij u meedelen dat ..."],
+  ["Afsluiting", "Please do not hesitate to contact me.", "Neem gerust contact met mij op."]]},
+ {"type": "callout", "kind": "warn", "title": "Please find attached", "text": "Een vaste formule: <b>Please find attached the invoice</b>, of <b>I attach the invoice</b>. Vermijd het ouderwetse <i>Attached please find</i>. Het Nederlandse <i>in de bijlage</i> = <b>attached</b>, niet <i>in the attachment</i>."},
+
+ {"type": "h1", "text": "3. Officiële en juridische taal"},
+ {"type": "verbpairs", "title": "Formele woorden", "items": [
+  ["hereby", "hierbij"], ["thereof", "daarvan"], ["whereas", "overwegende dat"], ["pursuant to", "ingevolge, op grond van"],
+  ["in accordance with", "in overeenstemming met"], ["notwithstanding", "niettegenstaande"], ["the undersigned", "ondergetekende"], ["subject to", "onder voorbehoud van"],
+  ["null and void", "nietig"], ["terms and conditions", "algemene voorwaarden"], ["liable for", "aansprakelijk voor"], ["to comply with", "voldoen aan, naleven"]]},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["In the attachment you find the invoice.", "Please find attached the invoice.", "Vaste formule."],
+  ["Referring to your letter, we want to say ...", "With reference to your letter, we would like to inform you ...", "Formeel en volledig.", "advice"],
+  ["We apologise for the inconvenience it gave.", "We apologise for any inconvenience caused.", "Vaste formule."],
+  ["Don't hesitate to contact me.", "Please do not hesitate to contact me.", "Formeel: please, en geen korte vorm."],
+  ["The company must comply to the rules.", "The company must comply with the rules.", "comply with."],
+  ["We are responsible of the damage.", "We are liable for the damage.", "liable for."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "With ______ to your email of 12 March, ...", "hint": "verwijzing", "a": "reference", "full": "With reference to your email of 12 March, ..."},
+  {"q": "Please find ______ a copy of the contract.", "hint": "bijgaand", "a": "attached", "full": "Please find attached a copy of the contract."},
+  {"q": "We ______ any inconvenience this may cause.", "hint": "excuses aanbieden", "a": "apologise for", "full": "We apologise for any inconvenience this may cause."},
+  {"q": "We ______ to inform you that your application was unsuccessful.", "hint": "tot onze spijt", "a": "regret", "full": "We regret to inform you that your application was unsuccessful."},
+  {"q": "Please do not ______ to contact me.", "hint": "aarzelen", "a": "hesitate", "full": "Please do not hesitate to contact me."},
+  {"q": "The purpose of this report is to ______ the results of the survey.", "hint": "presenteren", "a": "present", "full": "The purpose of this report is to present the results of the survey."},
+  {"q": "It is ______ that the company hire more staff.", "hint": "aanbevolen", "a": "recommended", "full": "It is recommended that the company hire more staff."},
+  {"q": "All products must comply ______ EU regulations.", "hint": "voorzetsel", "a": "with", "full": "All products must comply with EU regulations."},
+  {"q": "The offer is ______ to availability.", "hint": "onder voorbehoud van", "a": "subject", "full": "The offer is subject to availability."},
+  {"q": "The company is not ______ for any loss or damage.", "hint": "aansprakelijk", "a": "liable", "full": "The company is not liable for any loss or damage."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (formeel):</b>"},
+ {"type": "translations", "items": [
+  {"q": "Bijgaand treft u de factuur.", "a": "Please find attached the invoice."},
+  {"q": "Excuses voor het ongemak.", "a": "We apologise for any inconvenience caused."},
+  {"q": "Neem gerust contact met mij op.", "a": "Please do not hesitate to contact me."},
+  {"q": "Het aanbod is onder voorbehoud van beschikbaarheid.", "a": "The offer is subject to availability."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
