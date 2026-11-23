@@ -1,0 +1,60 @@
+{
+ "meta": {"level": "C2", "section": "Vocabulary", "number": 9, "total_in_level": 10,
+  "title": "Specialist vocabulary",
+  "subtitle": "Law, medicine, technology, economics and science",
+  "footer": "Language Learning · C2 · Vocabulary · Specialist vocabulary",
+  "next": "Next: C2 · pdf 10 — Mastery phrases"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "talk and read about law, health, technology and the economy",
+   "follow specialist texts with less dictionary use",
+   "avoid the false friends of specialist language"]},
+  {"type": "h1", "text": "1. Law"},
+  {"type": "verbpairs", "title": "Law", "items": [
+   ["de rechtszaak", "court case"], ["de verdachte", "suspect, defendant"], ["de eiser", "claimant"], ["de rechter", "judge"],
+   ["de uitspraak", "verdict, ruling"], ["het vonnis", "sentence, judgement"], ["het hoger beroep", "appeal"], ["de advocaat", "lawyer"],
+   ["de notaris", "notary"], ["de getuige", "witness"], ["aanklagen", "to sue, to charge"], ["vrijspreken", "to acquit"]]},
+  {"type": "callout", "kind": "note", "title": "No jury in the Netherlands", "text": "Dutch courts have no jury: a <b>rechter</b> (judge) or three judges decide. A <b>notaris</b> is much more important than in Britain: you need one to buy a house, set up a company or make a will. And <b>advocaat</b> is also a Dutch egg liqueur."},
+  {"type": "h1", "text": "2. Medicine"},
+  {"type": "verbpairs", "title": "Medicine", "items": [
+   ["de diagnose", "diagnosis"], ["het symptoom", "symptom"], ["de behandeling", "treatment"], ["het recept", "prescription, recipe"],
+   ["de bijwerking", "side effect"], ["de huisarts", "GP"], ["de spoedeisende hulp", "A&E, emergency department"], ["de operatie", "operation"],
+   ["herstellen", "to recover"], ["chronisch", "chronic"], ["besmettelijk", "contagious"], ["het vaccin", "vaccine"]]},
+  {"type": "h1", "text": "3. Technology"},
+  {"type": "verbpairs", "title": "Technology", "items": [
+   ["het algoritme", "algorithm"], ["de versleuteling", "encryption"], ["de bandbreedte", "bandwidth"], ["de kunstmatige intelligentie", "artificial intelligence"],
+   ["het datalek", "data breach"], ["de cyberbeveiliging", "cybersecurity"], ["gebruiksvriendelijk", "user-friendly"], ["bijwerken", "to update"],
+   ["de opslag", "storage"], ["het wachtwoord", "password"]]},
+  {"type": "h1", "text": "4. Economics"},
+  {"type": "verbpairs", "title": "Economics and finance", "items": [
+   ["het bbp", "GDP"], ["de inflatie", "inflation"], ["de recessie", "recession"], ["de rente", "interest (rate)"],
+   ["de aandeelhouder", "shareholder"], ["de omzet", "turnover"], ["de winstmarge", "profit margin"], ["de beurs", "stock exchange"],
+   ["het faillissement", "bankruptcy"], ["investeren", "to invest"], ["vraag en aanbod", "supply and demand"], ["de koopkracht", "purchasing power"]]},
+  {"type": "callout", "kind": "warn", "title": "vraag en aanbod: the other way round", "text": "<i>Supply and demand</i> is <b>vraag en aanbod</b> in Dutch: demand comes first. And <b>de beurs</b> means both <i>stock exchange</i> and <i>grant, scholarship</i> (<i>een studiebeurs</i>), and also <i>trade fair</i>."},
+  {"type": "h1", "text": "5. Science"},
+  {"type": "verbpairs", "title": "Science", "items": [
+   ["de hypothese", "hypothesis"], ["het experiment", "experiment"], ["de gegevens", "data"], ["de steekproef", "sample"],
+   ["de bevindingen", "findings"], ["de variabele", "variable"], ["herhalen (een onderzoek)", "to replicate"], ["de vakgenoten", "peers"]]},
+  {"type": "h1", "text": "6. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "De ______ werd vrijgesproken.", "hint": "suspect", "a": "verdachte", "full": "De verdachte werd vrijgesproken."},
+   {"q": "Hij gaat in hoger ______ tegen het vonnis.", "hint": "appeal", "a": "beroep", "full": "Hij gaat in hoger beroep tegen het vonnis."},
+   {"q": "Voor de koop van een huis heb je een ______ nodig.", "hint": "notary", "a": "notaris", "full": "Voor de koop van een huis heb je een notaris nodig."},
+   {"q": "De dokter gaf me een ______ voor pijnstillers.", "hint": "prescription", "a": "recept", "full": "De dokter gaf me een recept voor pijnstillers."},
+   {"q": "Hoofdpijn is een bekende ______ van dit medicijn.", "hint": "side effect", "a": "bijwerking", "full": "Hoofdpijn is een bekende bijwerking van dit medicijn."},
+   {"q": "Het bedrijf meldde vorige week een ______.", "hint": "data breach", "a": "datalek", "full": "Het bedrijf meldde vorige week een datalek."},
+   {"q": "De centrale bank heeft de ______ verhoogd.", "hint": "interest rate", "a": "rente", "full": "De centrale bank heeft de rente verhoogd."},
+   {"q": "De prijzen worden bepaald door vraag en ______.", "hint": "supply", "a": "aanbod", "full": "De prijzen worden bepaald door vraag en aanbod."},
+   {"q": "De ______ van het bedrijf was tien miljoen euro.", "hint": "turnover", "a": "omzet", "full": "De omzet van het bedrijf was tien miljoen euro."},
+   {"q": "De onderzoekers konden de resultaten niet ______.", "hint": "replicate", "a": "herhalen", "full": "De onderzoekers konden de resultaten niet herhalen."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "The suspect was acquitted.", "a": "De verdachte werd vrijgesproken."},
+   {"q": "I have an appointment with my GP.", "a": "Ik heb een afspraak bij de huisarts."},
+   {"q": "Prices are determined by supply and demand.", "a": "De prijzen worden bepaald door vraag en aanbod."},
+   {"q": "The company went bankrupt.", "a": "Het bedrijf ging failliet."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

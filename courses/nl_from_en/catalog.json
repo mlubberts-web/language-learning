@@ -625,5 +625,16 @@
   "subtitle": "Germanic roots shared with English, French loanwords, English words in Dutch, and Dutch words in English",
   "content": "c2_08_word_origins.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_09_Specialist_vocabulary",
+  "file": "C2_09_Specialist_vocabulary.pdf",
+  "level": "C2",
+  "number": 9,
+  "section": "Vocabulary",
+  "title": "Specialist vocabulary",
+  "subtitle": "Law, medicine, technology, economics and science",
+  "content": "c2_09_specialist_vocabulary.json",
+  "exercise_count": 10
  }
 ]
