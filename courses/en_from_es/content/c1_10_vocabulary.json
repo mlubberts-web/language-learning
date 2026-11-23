@@ -1,0 +1,378 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario",
+  "subtitle": "Palabras abstractas y académicas, falsos amigos de nivel C1 y la paráfrasis",
+  "footer": "Language Learning · C1 · Vocabulario",
+  "next": "Siguiente: C2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende las palabras con su preposición fija y una frase de ejemplo.",
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Estas palabras aparecen mucho en el examen C1 Advanced de Cambridge."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Sustantivos abstractos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La sociedad y el pensamiento",
+   "items": [
+    [
+     "awareness",
+     "conciencia, concienciación"
+    ],
+    [
+     "inequality",
+     "desigualdad"
+    ],
+    [
+     "sustainability",
+     "sostenibilidad"
+    ],
+    [
+     "approach",
+     "enfoque, planteamiento"
+    ],
+    [
+     "assumption",
+     "suposición, presupuesto"
+    ],
+    [
+     "outcome",
+     "resultado, desenlace"
+    ],
+    [
+     "issue",
+     "cuestión, problema"
+    ],
+    [
+     "trend",
+     "tendencia"
+    ],
+    [
+     "impact",
+     "impacto, efecto"
+    ],
+    [
+     "evidence",
+     "pruebas"
+    ],
+    [
+     "perspective",
+     "punto de vista"
+    ],
+    [
+     "consequence",
+     "consecuencia"
+    ],
+    [
+     "framework",
+     "marco"
+    ],
+    [
+     "threat",
+     "amenaza"
+    ],
+    [
+     "challenge",
+     "reto, desafío"
+    ],
+    [
+     "breakthrough",
+     "avance, descubrimiento"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "evidence es incontable",
+   "text": "<b>evidence</b> significa <i>pruebas</i> y no tiene plural: <i>There is a lot of evidence</i>, no <i>evidences</i>. Para una sola prueba: <b>a piece of evidence</b>. Ojo: <i>evidencia</i> en el sentido de algo obvio se dice de otra manera (<i>it is obvious that ...</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbos académicos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos para el análisis",
+   "items": [
+    [
+     "to assess",
+     "evaluar"
+    ],
+    [
+     "to emphasise",
+     "subrayar, hacer hincapié en"
+    ],
+    [
+     "to undermine",
+     "socavar, minar"
+    ],
+    [
+     "to enhance",
+     "mejorar, potenciar"
+    ],
+    [
+     "to tackle",
+     "abordar, hacer frente a"
+    ],
+    [
+     "to highlight",
+     "poner de relieve, destacar"
+    ],
+    [
+     "to acknowledge",
+     "reconocer, admitir"
+    ],
+    [
+     "to imply",
+     "implicar, dar a entender"
+    ],
+    [
+     "to outline",
+     "esbozar, resumir"
+    ],
+    [
+     "to justify",
+     "justificar"
+    ],
+    [
+     "to foster",
+     "fomentar, promover"
+    ],
+    [
+     "to hinder",
+     "dificultar, obstaculizar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Falsos amigos de nivel C1"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.4,
+    8.0
+   ],
+   "head": [
+    "Inglés",
+    "Significa",
+    "No confundir con"
+   ],
+   "rows": [
+    [
+     "sympathetic",
+     "comprensivo",
+     "simpático = nice, friendly"
+    ],
+    [
+     "molest",
+     "abusar sexualmente de",
+     "molestar = bother, annoy"
+    ],
+    [
+     "fabric",
+     "tela, tejido",
+     "fábrica = factory"
+    ],
+    [
+     "argument",
+     "discusión, pelea; argumento (razón)",
+     "argumento (de una película) = plot"
+    ],
+    [
+     "compromise",
+     "acuerdo mutuo, término medio",
+     "compromiso = commitment, engagement"
+    ],
+    [
+     "deception",
+     "engaño",
+     "decepción = disappointment"
+    ],
+    [
+     "discussion",
+     "conversación, debate tranquilo",
+     "discusión (pelea) = argument"
+    ],
+    [
+     "preservative",
+     "conservante",
+     "preservativo = condom"
+    ],
+    [
+     "support",
+     "apoyar",
+     "soportar = put up with, stand"
+    ],
+    [
+     "casualty",
+     "víctima, herido",
+     "casualidad = coincidence"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La paráfrasis"
+  },
+  {
+   "type": "p",
+   "text": "En el examen C1 Advanced (y en la escritura académica) tienes que poder decir lo mismo con otras palabras."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Original",
+    "Paráfrasis"
+   ],
+   "rows": [
+    [
+     "It's possible that he will resign.",
+     "He may well resign."
+    ],
+    [
+     "She was not able to finish.",
+     "She didn't manage to finish."
+    ],
+    [
+     "People say he's very rich.",
+     "He is said to be very rich."
+    ],
+    [
+     "I regret not studying harder.",
+     "I wish I had studied harder."
+    ],
+    [
+     "The meeting was cancelled because of the strike.",
+     "The strike led to the cancellation of the meeting."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "There is no ______ that the drug works.",
+     "hint": "pruebas",
+     "a": "evidence",
+     "full": "There is no evidence that the drug works."
+    },
+    {
+     "q": "We need a new ______ to the problem.",
+     "hint": "enfoque",
+     "a": "approach",
+     "full": "We need a new approach to the problem."
+    },
+    {
+     "q": "The report ______ the need for more funding.",
+     "hint": "subraya",
+     "a": "highlights",
+     "full": "The report highlights the need for more funding."
+    },
+    {
+     "q": "The government must ______ unemployment.",
+     "hint": "abordar",
+     "a": "tackle",
+     "full": "The government must tackle unemployment."
+    },
+    {
+     "q": "Social media has had a huge ______ on politics.",
+     "hint": "impacto",
+     "a": "impact",
+     "full": "Social media has had a huge impact on politics."
+    },
+    {
+     "q": "She was very ______ when I told her about my problems.",
+     "hint": "comprensiva",
+     "a": "sympathetic",
+     "full": "She was very sympathetic when I told her about my problems."
+    },
+    {
+     "q": "I didn't ______ how late it was.",
+     "hint": "darse cuenta",
+     "a": "realise",
+     "full": "I didn't realise how late it was."
+    },
+    {
+     "q": "He ______ that he had made a mistake.",
+     "hint": "reconocer, past",
+     "a": "acknowledged",
+     "full": "He acknowledged that he had made a mistake."
+    },
+    {
+     "q": "Climate change is a serious ______ to wildlife.",
+     "hint": "amenaza",
+     "a": "threat",
+     "full": "Climate change is a serious threat to wildlife."
+    },
+    {
+     "q": "He is said ______ be very rich.",
+     "hint": "paráfrasis",
+     "a": "to",
+     "full": "He is said to be very rich."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hay muchas pruebas.",
+     "a": "There is a lot of evidence."
+    },
+    {
+     "q": "Tenemos que abordar este problema.",
+     "a": "We need to tackle this problem."
+    },
+    {
+     "q": "No me di cuenta de lo tarde que era.",
+     "a": "I didn't realise how late it was."
+    },
+    {
+     "q": "Ella fue muy comprensiva.",
+     "a": "She was very sympathetic."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

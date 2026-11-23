@@ -1,0 +1,326 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Cultura",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "El inglés en el mundo",
+  "subtitle": "Acentos británicos, inglés americano, irlandés y australiano, diferencias de vocabulario y costumbres culturales",
+  "footer": "Language Learning · C1 · Cultura · El inglés en el mundo",
+  "next": "Siguiente: C1 · pdf 10 — Vocabulario"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer las principales variedades del inglés",
+    "conocer las palabras británicas y americanas para las mismas cosas",
+    "entender la cortesía y el understatement británicos",
+    "entender lo que alguien quiere decir detrás de una formulación educada"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Sobre este curso:</b> todos los pdf te enseñan <b>inglés británico</b>. Este pdf te ayuda a <b>entender</b> otras variedades, igual que un madrileño entiende a un mexicano o a un argentino; no hace falta que las uses tú."
+  },
+  {
+   "type": "h1",
+   "text": "1. Variedades del inglés"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    7.0,
+    6.0
+   ],
+   "head": [
+    "Variedad",
+    "Rasgos",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "Británico estándar (RP)",
+     "la 'pronunciación de la BBC'; sin r al final de la palabra",
+     "car suena como 'caa'"
+    ],
+    [
+     "Londres y el sudeste",
+     "la t se convierte a menudo en un golpe de glotis",
+     "water suena como 'uo-a'"
+    ],
+    [
+     "Norte de Inglaterra",
+     "a corta en bath y grass; la u como una u española",
+     "bus suena como 'bus', igual que en español"
+    ],
+    [
+     "Escocia",
+     "la r vibra; palabras propias",
+     "wee (pequeño), aye (sí), loch (lago)"
+    ],
+    [
+     "Irlanda",
+     "pronunciación suave y melodiosa; th como t",
+     "three suena como 'tri'"
+    ],
+    [
+     "Estados Unidos",
+     "la r siempre se oye; la t entre vocales suena como una r suave",
+     "water suena como 'uárer'"
+    ],
+    [
+     "Australia",
+     "las vocales cambian; muchas abreviaturas",
+     "arvo (afternoon), brekkie (breakfast)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Británico y americano: palabras distintas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Británico",
+    "Americano",
+    "Español"
+   ],
+   "rows": [
+    [
+     "flat",
+     "apartment",
+     "piso, apartamento"
+    ],
+    [
+     "lift",
+     "elevator",
+     "ascensor"
+    ],
+    [
+     "mobile (phone)",
+     "cell phone",
+     "móvil"
+    ],
+    [
+     "holiday",
+     "vacation",
+     "vacaciones"
+    ],
+    [
+     "queue",
+     "line",
+     "cola, fila"
+    ],
+    [
+     "autumn",
+     "fall",
+     "otoño"
+    ],
+    [
+     "biscuit",
+     "cookie",
+     "galleta"
+    ],
+    [
+     "chips",
+     "fries",
+     "patatas fritas (de bar)"
+    ],
+    [
+     "crisps",
+     "chips",
+     "patatas fritas (de bolsa)"
+    ],
+    [
+     "motorway",
+     "highway / freeway",
+     "autopista"
+    ],
+    [
+     "petrol",
+     "gas",
+     "gasolina"
+    ],
+    [
+     "ground floor / first floor",
+     "first floor / second floor",
+     "planta baja / primera planta"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "first floor",
+   "text": "En Gran Bretaña la <b>ground floor</b> es la planta baja y la <b>first floor</b> es la primera planta, igual que en España. En Estados Unidos la <b>first floor</b> es la planta baja."
+  },
+  {
+   "type": "h1",
+   "text": "3. La cortesía británica y el understatement"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    11.0
+   ],
+   "head": [
+    "Lo que dicen",
+    "Lo que suele significar"
+   ],
+   "rows": [
+    [
+     "That's an interesting idea.",
+     "No me parece una buena idea."
+    ],
+    [
+     "I'll bear it in mind.",
+     "No voy a hacer nada con eso."
+    ],
+    [
+     "Not bad at all.",
+     "Muy bien."
+    ],
+    [
+     "With all due respect, ...",
+     "No estoy nada de acuerdo contigo."
+    ],
+    [
+     "I'm sure it's my fault.",
+     "La culpa es tuya."
+    ],
+    [
+     "Quite good.",
+     "Regular, no gran cosa."
+    ],
+    [
+     "Could we possibly ...?",
+     "De verdad quiero que ..."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "La franqueza española",
+   "text": "A los británicos los españoles les parecen a menudo muy directos, y también se sorprenden de lo mucho que nos interrumpimos al hablar. <i>Eso es un mal plan</i> suena brusco en inglés. Un británico diría más bien <b>I'm not sure that would work</b> o <b>Have you considered ...?</b> Y al revés: si oyes a un británico decir que algo es 'quite interesting', quizá no le entusiasme nada. Di también <b>please</b>, <b>thank you</b> y <b>sorry</b> mucho más de lo que dirías en español."
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra británica. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We live in a small ______ in London.",
+     "hint": "piso, británico",
+     "a": "flat",
+     "full": "We live in a small flat in London."
+    },
+    {
+     "q": "Take the ______ to the fifth floor.",
+     "hint": "ascensor, británico",
+     "a": "lift",
+     "full": "Take the lift to the fifth floor."
+    },
+    {
+     "q": "There was a long ______ at the post office.",
+     "hint": "cola, británico",
+     "a": "queue",
+     "full": "There was a long queue at the post office."
+    },
+    {
+     "q": "Fish and ______ is a typical British dish.",
+     "hint": "patatas fritas, británico",
+     "a": "chips",
+     "full": "Fish and chips is a typical British dish."
+    },
+    {
+     "q": "I'd like a packet of ______, please.",
+     "hint": "patatas de bolsa, británico",
+     "a": "crisps",
+     "full": "I'd like a packet of crisps, please."
+    },
+    {
+     "q": "The leaves turn red in ______.",
+     "hint": "otoño, británico",
+     "a": "autumn",
+     "full": "The leaves turn red in autumn."
+    },
+    {
+     "q": "We need to stop for ______.",
+     "hint": "gasolina, británico",
+     "a": "petrol",
+     "full": "We need to stop for petrol."
+    },
+    {
+     "q": "Where are you going on ______ this year?",
+     "hint": "vacaciones, británico",
+     "a": "holiday",
+     "full": "Where are you going on holiday this year?"
+    },
+    {
+     "q": "Would you like a ______ with your tea?",
+     "hint": "galleta, británico",
+     "a": "biscuit",
+     "full": "Would you like a biscuit with your tea?"
+    },
+    {
+     "q": "My office is on the ______ floor, just above the entrance.",
+     "hint": "primera planta, británico",
+     "a": "first",
+     "full": "My office is on the first floor, just above the entrance."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (británico):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Vivimos en un piso.",
+     "a": "We live in a flat."
+    },
+    {
+     "q": "Había una cola muy larga.",
+     "a": "There was a long queue."
+    },
+    {
+     "q": "Coge el ascensor hasta la primera planta.",
+     "a": "Take the lift to the first floor."
+    },
+    {
+     "q": "Tenemos que echar gasolina.",
+     "a": "We need to get petrol."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
