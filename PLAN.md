@@ -142,7 +142,9 @@ Choices made (Menno can overrule any of them):
 - [x] 5.8 Verbs in context (strong verbs, perfect with hebben/zijn) and themed lists.
       (9 verbs-in-context files, 137 sentences; 16 themed lists with de/het for every noun, including
       separable verbs and "Traps for English speakers".)
-- [ ] 5.9 Model exams: official NT2 and CNaVT practice exams.
+- [x] 5.9 Model exams: official NT2 and CNaVT practice exams.
+      (exam_levels in course.json: A1/A2 → Inburgeringsexamen, B1/B2 → Staatsexamen NT2 I and II,
+      C1/C2 → CNaVT C1; each mock-exam card links to the official practice page.)
 - [ ] 5.10 🙋 Menno spot-checks a few units.
 
 ## Phase 6: Dutch for Spanish speakers (`nl_from_es`)
