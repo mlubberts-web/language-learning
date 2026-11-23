@@ -1,0 +1,343 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Cultura",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "El neerlandés en la sociedad",
+  "subtitle": "La franqueza, los cumpleaños y las agendas, el humor, y el vocabulario de la política y los medios",
+  "footer": "Language Learning · C1 · Cultura · El neerlandés en la sociedad",
+  "next": "Siguiente: C1 · pdf 10 — Vocabulario"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "entender la franqueza neerlandesa y reaccionar ante ella",
+    "comportarte y hablar como es debido en un cumpleaños neerlandés",
+    "seguir las noticias políticas (<i>de Tweede Kamer, het kabinet</i>)",
+    "hablar de los medios y de la actualidad"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La franqueza"
+  },
+  {
+   "type": "p",
+   "text": "Los neerlandeses valoran la <b>franqueza</b> (<i>direct zijn, zeggen waar het op staat</i>): dan su opinión abiertamente, también a su jefe, y lo ven como honestidad, no como mala educación. Los españoles también son bastante directos, pero suelen envolver la crítica en calidez, humor o rodeos; el neerlandés la dice tal cual, sin adornos. No es frialdad: es respeto por tu tiempo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Neerlandés",
+    "Literalmente",
+    "Lo que diría un español"
+   ],
+   "rows": [
+    [
+     "Dat is geen goed idee.",
+     "No es una buena idea.",
+     "Hombre, no sé yo si ..."
+    ],
+    [
+     "Dat klopt niet.",
+     "Eso no es correcto.",
+     "Creo que no es exactamente así."
+    ],
+    [
+     "Ik ben het er niet mee eens.",
+     "No estoy de acuerdo.",
+     "Ya, te entiendo, pero ..."
+    ],
+    [
+     "Doe normaal.",
+     "Compórtate con normalidad.",
+     "Tranquilo, no te pases."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Doe maar gewoon, dan doe je al gek genoeg",
+   "text": "Este dicho (<i>compórtate con normalidad, que eso ya es bastante raro</i>) resume una actitud neerlandesa: no presumas, no seas pretencioso. Fanfarronear de dinero o de estatus está mal visto. Se valoran la modestia y hablar claro."
+  },
+  {
+   "type": "h1",
+   "text": "2. Cumpleaños y agendas"
+  },
+  {
+   "type": "p",
+   "text": "En un cumpleaños neerlandés (<b>verjaardag</b>) los invitados suelen sentarse en círculo (<b>de kring</b>). No solo se felicita al que cumple años, sino también a su familia: <i><b>Gefeliciteerd met</b> je moeder!</i> (¡Felicidades por el cumpleaños de tu madre!) Todo se planifica: los amigos quedan con semanas de antelación y <b>de agenda</b> manda en la vida social. Presentarse sin avisar, algo normal en España, aquí se hace poco. Y al pagar es habitual que cada uno pague lo suyo."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vida social",
+   "items": [
+    [
+     "Gefeliciteerd!",
+     "¡Felicidades! ¡Feliz cumpleaños!"
+    ],
+    [
+     "Gefeliciteerd met je zoon!",
+     "¡Felicidades por el cumpleaños de tu hijo!"
+    ],
+    [
+     "een afspraak maken",
+     "quedar, concertar una cita"
+    ],
+    [
+     "Ik kijk even in mijn agenda.",
+     "Déjame mirar la agenda."
+    ],
+    [
+     "Nederlands betalen",
+     "pagar cada uno lo suyo, pagar a escote"
+    ],
+    [
+     "de borrel",
+     "unas copas (después del trabajo)"
+    ],
+    [
+     "op de koffie komen",
+     "pasarse a tomar un café"
+    ],
+    [
+     "Het was gezellig!",
+     "¡Ha sido muy agradable!"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. La política"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La política en los Países Bajos",
+   "items": [
+    [
+     "de Tweede Kamer",
+     "Cámara Baja, el Congreso"
+    ],
+    [
+     "de Eerste Kamer",
+     "Senado"
+    ],
+    [
+     "het kabinet",
+     "el gabinete, el Gobierno"
+    ],
+    [
+     "de minister-president",
+     "primer ministro, presidente del Gobierno"
+    ],
+    [
+     "de verkiezingen",
+     "las elecciones"
+    ],
+    [
+     "stemmen",
+     "votar"
+    ],
+    [
+     "de partij",
+     "partido"
+    ],
+    [
+     "de coalitie",
+     "coalición"
+    ],
+    [
+     "de oppositie",
+     "oposición"
+    ],
+    [
+     "de gemeenteraad",
+     "concejo municipal, ayuntamiento"
+    ],
+    [
+     "de koning",
+     "el Rey"
+    ],
+    [
+     "het wetsvoorstel",
+     "proyecto de ley"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Coaliciones y pólder",
+   "text": "Ningún partido neerlandés tiene nunca mayoría, así que los gobiernos son siempre coaliciones, formadas tras largas negociaciones (<b>de formatie</b>). La costumbre neerlandesa de llegar a acuerdos hablando se llama el <b>poldermodel</b>: <i>overleggen</i> (consultar, deliberar) hasta que todos puedan vivir con el resultado."
+  },
+  {
+   "type": "h1",
+   "text": "4. Los medios"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Noticias y medios",
+   "items": [
+    [
+     "de krant",
+     "periódico"
+    ],
+    [
+     "het journaal",
+     "el telediario"
+    ],
+    [
+     "de kop",
+     "titular"
+    ],
+    [
+     "het artikel",
+     "artículo"
+    ],
+    [
+     "de omroep",
+     "cadena, emisora"
+    ],
+    [
+     "de verslaggever",
+     "reportero"
+    ],
+    [
+     "de bron",
+     "fuente"
+    ],
+    [
+     "het nepnieuws",
+     "noticias falsas, bulos"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ met je verjaardag!",
+     "hint": "felicidades",
+     "a": "gefeliciteerd",
+     "full": "Gefeliciteerd met je verjaardag!"
+    },
+    {
+     "q": "Gefeliciteerd ______ je vader!",
+     "hint": "con, por",
+     "a": "met",
+     "full": "Gefeliciteerd met je vader!"
+    },
+    {
+     "q": "Ik kijk even in mijn ______ of ik tijd heb.",
+     "hint": "agenda",
+     "a": "agenda",
+     "full": "Ik kijk even in mijn agenda of ik tijd heb."
+    },
+    {
+     "q": "Zullen we ______ betalen? Iedereen betaalt voor zichzelf.",
+     "hint": "cada uno lo suyo",
+     "a": "nederlands",
+     "full": "Zullen we Nederlands betalen? Iedereen betaalt voor zichzelf."
+    },
+    {
+     "q": "Doe maar ______, dan doe je al gek genoeg.",
+     "hint": "normal",
+     "a": "gewoon",
+     "full": "Doe maar gewoon, dan doe je al gek genoeg."
+    },
+    {
+     "q": "De ______ Kamer stemt volgende week over de nieuwe wet.",
+     "hint": "segunda",
+     "a": "tweede",
+     "full": "De Tweede Kamer stemt volgende week over de nieuwe wet."
+    },
+    {
+     "q": "Na de verkiezingen begint de ______.",
+     "hint": "formación del Gobierno",
+     "a": "formatie",
+     "full": "Na de verkiezingen begint de formatie."
+    },
+    {
+     "q": "Drie partijen vormen samen een ______.",
+     "hint": "coalición",
+     "a": "coalitie",
+     "full": "Drie partijen vormen samen een coalitie."
+    },
+    {
+     "q": "Ik kijk elke avond naar het ______.",
+     "hint": "telediario",
+     "a": "journaal",
+     "full": "Ik kijk elke avond naar het journaal."
+    },
+    {
+     "q": "Op vrijdag is er een ______ op kantoor.",
+     "hint": "copas",
+     "a": "borrel",
+     "full": "Op vrijdag is er een borrel op kantoor."
+    },
+    {
+     "q": "Het was een heel ______ avond.",
+     "hint": "agradable, buen ambiente",
+     "a": "gezellige",
+     "full": "Het was een heel gezellige avond."
+    },
+    {
+     "q": "Welke ______ noemt de journalist?",
+     "hint": "fuente",
+     "a": "bron",
+     "full": "Welke bron noemt de journalist?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¡Felicidades por el cumpleaños de tu madre!",
+     "a": "Gefeliciteerd met je moeder!"
+    },
+    {
+     "q": "Déjame mirar la agenda.",
+     "a": "Ik kijk even in mijn agenda."
+    },
+    {
+     "q": "No es una buena idea.",
+     "a": "Dat is geen goed idee."
+    },
+    {
+     "q": "el primer ministro",
+     "a": "de minister-president"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
