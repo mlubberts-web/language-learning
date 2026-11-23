@@ -9,5 +9,16 @@
   "subtitle": "El alfabeto, las vocales cortas y largas, los sonidos que el español no tiene y los números hasta 100",
   "content": "a1_01_pronunciation_spelling.json",
   "exercise_count": 10
+ },
+ {
+  "id": "A1_02_zijn_and_hebben",
+  "file": "A1_02_zijn_and_hebben.pdf",
+  "level": "A1",
+  "number": 2,
+  "section": "Verbos",
+  "title": "zijn and hebben",
+  "subtitle": "ser, estar y tener: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
+  "content": "a1_02_zijn_hebben.json",
+  "exercise_count": 12
  }
 ]

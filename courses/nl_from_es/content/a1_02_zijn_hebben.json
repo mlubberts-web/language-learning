@@ -1,0 +1,550 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 9,
+  "title": "zijn and hebben",
+  "subtitle": "ser, estar y tener: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
+  "footer": "Language Learning · A1 · Verbos · zijn y hebben",
+  "next": "Siguiente: A1 · pdf 3 — El presente"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "conjugar <b>zijn</b> (ser, estar) y <b>hebben</b> (tener)",
+    "usar los pronombres de sujeto, también <b>jij</b> y <b>u</b>",
+    "presentarte: nombre, edad, país, profesión",
+    "decir cómo te sientes: <i>Ik heb honger, Ik ben moe</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los pronombres de sujeto"
+  },
+  {
+   "type": "p",
+   "text": "Muchos pronombres neerlandeses tienen una forma tónica y una átona. Al hablar lo normal es la átona: <i>Ben je moe?</i> La tónica da énfasis o contraste: <i>Ben <b>jij</b> moe? Ik niet.</i> Y a diferencia del español, el sujeto <b>nunca</b> se omite: <i>ben moe</i> no es correcto, siempre <b>ik ben moe</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "Español",
+    "Tónico",
+    "Átono",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "yo",
+     "ik",
+     "('k)",
+     "la forma corta solo se dice"
+    ],
+    [
+     "tú",
+     "jij",
+     "je",
+     "amigos, familia, niños, gente de tu edad"
+    ],
+    [
+     "usted",
+     "u",
+     "u",
+     "desconocidos, personas mayores, situaciones formales"
+    ],
+    [
+     "él / ella / ello",
+     "hij / zij / het",
+     "(ie) / ze / 't",
+     "zij = ella, pero también ellos"
+    ],
+    [
+     "nosotros",
+     "wij",
+     "we",
+     ""
+    ],
+    [
+     "vosotros, ustedes",
+     "jullie",
+     "jullie",
+     "más de una persona, informal"
+    ],
+    [
+     "ellos, ellas",
+     "zij",
+     "ze",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "¿jij o u?",
+   "text": "Como en español <i>tú</i> y <i>usted</i>: <b>jij</b> con amigos, familia y gente de tu edad, <b>u</b> con desconocidos, personas mayores y en cartas formales. Los neerlandeses pasan al jij muy rápido; si alguien dice <i>Zeg maar jij</i>, puedes tutearle. Para el plural, <b>jullie</b> sirve para vosotros y ustedes."
+  },
+  {
+   "type": "h1",
+   "text": "2. zijn (ser, estar)"
+  },
+  {
+   "type": "conj",
+   "verb": "zijn",
+   "meaning": "ser, estar",
+   "label": "verbo irregular",
+   "tense": "presente",
+   "forms": [
+    "ben",
+    "bent",
+    "is",
+    "zijn",
+    "zijn",
+    "zijn"
+   ],
+   "examples": [
+    [
+     "Ik ben Engels.",
+     "Soy inglés."
+    ],
+    [
+     "Jij bent te laat.",
+     "Llegas tarde."
+    ],
+    [
+     "Zij is verpleegkundige.",
+     "Ella es enfermera."
+    ],
+    [
+     "Wij zijn thuis.",
+     "Estamos en casa."
+    ],
+    [
+     "Jullie zijn heel aardig.",
+     "Sois muy amables."
+    ],
+    [
+     "Zij zijn uit Schotland.",
+     "Ellos son de Escocia."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Ben je ...? La t desaparece",
+   "text": "Cuando <b>jij / je</b> va detrás del verbo, la -t del verbo desaparece: <i>Jij bent moe</i>, pero <b>Ben je moe?</b> Esta regla vale para casi todos los verbos (pdf 3). Con <b>u</b> se dice <i>u bent</i> o, menos, <i>u is</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. hebben (tener)"
+  },
+  {
+   "type": "conj",
+   "verb": "hebben",
+   "meaning": "tener",
+   "label": "verbo irregular",
+   "tense": "presente",
+   "forms": [
+    "heb",
+    "hebt",
+    "heeft",
+    "hebben",
+    "hebben",
+    "hebben"
+   ],
+   "examples": [
+    [
+     "Ik heb twee broers.",
+     "Tengo dos hermanos."
+    ],
+    [
+     "Heb je een pen?",
+     "¿Tienes un boli?"
+    ],
+    [
+     "Hij heeft een hond.",
+     "Él tiene un perro."
+    ],
+    [
+     "Wij hebben een nieuwe auto.",
+     "Tenemos un coche nuevo."
+    ],
+    [
+     "Jullie hebben veel boeken.",
+     "Tenéis muchos libros."
+    ],
+    [
+     "Zij hebben drie kinderen.",
+     "Ellos tienen tres hijos."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Hambre, sed y frío van con hebben, como en español",
+   "bullets": [
+    "<b>Ik heb honger / dorst</b> = tengo hambre / sed: ¡igual que en español!",
+    "<b>Ik heb het koud / warm</b> = tengo frío / calor. <i>Ik ben koud</i> significa que eres una persona fría.",
+    "<b>Ik heb gelijk</b> = tengo razón. <b>Ik heb haast</b> = tengo prisa.",
+    "Pero la edad va con zijn: <b>Ik ben twintig (jaar)</b> (soy veinte), nunca <i>Ik heb twintig jaar</i>. Es el error típico de los hispanohablantes."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Presentarse"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.6,
+    6.8
+   ],
+   "head": [
+    "Tema",
+    "Neerlandés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Nombre",
+     "Ik ben Sam. / Ik heet Sam.",
+     "Soy Sam. / Me llamo Sam."
+    ],
+    [
+     "Edad",
+     "Ik ben vijfentwintig (jaar).",
+     "Tengo veinticinco años."
+    ],
+    [
+     "País",
+     "Ik kom uit Spanje.",
+     "Soy de España."
+    ],
+    [
+     "Nacionalidad",
+     "Ik ben Spaans.",
+     "Soy español."
+    ],
+    [
+     "Profesión",
+     "Ik ben ingenieur.",
+     "Soy ingeniero."
+    ],
+    [
+     "Dónde vives",
+     "Ik woon in Utrecht.",
+     "Vivo en Utrecht."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Sin artículo con la profesión",
+   "text": "Como en español (<i>soy médico</i>), el neerlandés no pone artículo con la profesión: <b>Ik ben leraar</b>, <b>Zij is arts</b>. Con un adjetivo vuelve el artículo: <i>Zij is een goede arts</i> (es una buena médica)."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Países y nacionalidades",
+   "items": [
+    [
+     "Nederland",
+     "los Países Bajos, Holanda"
+    ],
+    [
+     "Nederlands",
+     "neerlandés"
+    ],
+    [
+     "België",
+     "Bélgica"
+    ],
+    [
+     "Belgisch",
+     "belga"
+    ],
+    [
+     "Engeland",
+     "Inglaterra"
+    ],
+    [
+     "Engels",
+     "inglés"
+    ],
+    [
+     "het Verenigd Koninkrijk",
+     "el Reino Unido"
+    ],
+    [
+     "Brits",
+     "británico"
+    ],
+    [
+     "Amerika",
+     "América, Estados Unidos"
+    ],
+    [
+     "Amerikaans",
+     "americano, estadounidense"
+    ],
+    [
+     "Duitsland",
+     "Alemania"
+    ],
+    [
+     "Duits",
+     "alemán"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Preguntas y negaciones"
+  },
+  {
+   "type": "p",
+   "text": "Para una pregunta de sí o no, el verbo va primero: <b>Ben je moe?</b> <b>Heeft zij een auto?</b> Para negar se usa <b>niet</b> (no) con un adjetivo o un verbo, y <b>geen</b> (ningún, no ... un) delante de un sustantivo con <i>een</i> o sin artículo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Pregunta",
+    "Sí",
+    "No"
+   ],
+   "rows": [
+    [
+     "Ben je moe?",
+     "Ja, ik ben moe.",
+     "Nee, ik ben niet moe."
+    ],
+    [
+     "Is hij Spaans?",
+     "Ja, hij is Spaans.",
+     "Nee, hij is niet Spaans."
+    ],
+    [
+     "Heb je een auto?",
+     "Ja, ik heb een auto.",
+     "Nee, ik heb geen auto."
+    ],
+    [
+     "Heeft zij kinderen?",
+     "Ja, ze heeft twee kinderen.",
+     "Nee, ze heeft geen kinderen."
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Preguntas útiles",
+   "items": [
+    [
+     "Hoe heet je?",
+     "¿Cómo te llamas?"
+    ],
+    [
+     "Waar kom je vandaan?",
+     "¿De dónde eres?"
+    ],
+    [
+     "Hoe oud ben je?",
+     "¿Cuántos años tienes?"
+    ],
+    [
+     "Hoe gaat het?",
+     "¿Qué tal?"
+    ],
+    [
+     "Wie is dat?",
+     "¿Quién es ese?"
+    ],
+    [
+     "Waar woon je?",
+     "¿Dónde vives?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ben honger.",
+     "Ik heb honger.",
+     "Hambre y sed van con hebben."
+    ],
+    [
+     "Ik heb twintig jaar.",
+     "Ik ben twintig jaar.",
+     "La edad va con zijn."
+    ],
+    [
+     "Ik ben een leraar.",
+     "Ik ben leraar.",
+     "Sin artículo con la profesión."
+    ],
+    [
+     "Bent je moe?",
+     "Ben je moe?",
+     "Detrás del verbo, jij pierde la -t."
+    ],
+    [
+     "Hij hebt een hond.",
+     "Hij heeft een hond.",
+     "hij, zij, het: heeft."
+    ],
+    [
+     "Ik heb niet een auto.",
+     "Ik heb geen auto.",
+     "Delante de un sustantivo con een: geen."
+    ],
+    [
+     "Ik ben koud.",
+     "Ik heb het koud.",
+     "Tener frío: het koud hebben."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta de zijn o hebben, o con niet o geen. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ uit Londen.",
+     "hint": "zijn",
+     "a": "ben",
+     "full": "Ik ben uit Londen."
+    },
+    {
+     "q": "Zij ______ verpleegkundige.",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Zij is verpleegkundige."
+    },
+    {
+     "q": "______ je moe?",
+     "hint": "zijn, pregunta",
+     "a": "ben",
+     "full": "Ben je moe?"
+    },
+    {
+     "q": "Wij ______ een hond.",
+     "hint": "hebben",
+     "a": "hebben",
+     "full": "Wij hebben een hond."
+    },
+    {
+     "q": "Hij ______ twee zussen.",
+     "hint": "hebben",
+     "a": "heeft",
+     "full": "Hij heeft twee zussen."
+    },
+    {
+     "q": "Ik heb ______. Is er eten?",
+     "hint": "hambre",
+     "a": "honger",
+     "full": "Ik heb honger. Is er eten?"
+    },
+    {
+     "q": "Mijn broer ______ dertig jaar.",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Mijn broer is dertig jaar."
+    },
+    {
+     "q": "Ik heb ______ auto.",
+     "hint": "ningún coche",
+     "a": "geen",
+     "full": "Ik heb geen auto."
+    },
+    {
+     "q": "Ik ben ______ moe.",
+     "hint": "no cansado",
+     "a": "niet",
+     "full": "Ik ben niet moe."
+    },
+    {
+     "q": "______ u een vraag?",
+     "hint": "hebben, pregunta, usted",
+     "a": "heeft",
+     "full": "Heeft u een vraag?"
+    },
+    {
+     "q": "Waar kom je ______?",
+     "hint": "de dónde",
+     "a": "vandaan",
+     "full": "Waar kom je vandaan?"
+    },
+    {
+     "q": "Jullie ______ heel aardig.",
+     "hint": "zijn",
+     "a": "zijn",
+     "full": "Jullie zijn heel aardig."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Tengo veinticinco años.",
+     "a": "Ik ben vijfentwintig."
+    },
+    {
+     "q": "Ella es profesora.",
+     "a": "Zij is lerares."
+    },
+    {
+     "q": "¿De dónde eres?",
+     "a": "Waar kom je vandaan?"
+    },
+    {
+     "q": "Tenemos frío.",
+     "a": "We hebben het koud."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
