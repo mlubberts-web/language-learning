@@ -1,0 +1,356 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Las partículas modales",
+  "subtitle": "even, maar, toch, wel, nou, eens, hoor, gewoon: palabritas que marcan el tono",
+  "footer": "Language Learning · B2 · Gramática · Partículas modales",
+  "next": "Siguiente: B2 · pdf 4 — Los verbos con preposición fija"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "entender lo que añaden <b>even, maar, toch, wel, nou, eens, hoor</b> y <b>gewoon</b> a una frase",
+    "hacer las peticiones más amables y las afirmaciones más suaves",
+    "combinar partículas en el orden correcto (<i>maar even, eens even</i>)",
+    "sonar menos a libro de texto y más a hablante de neerlandés"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿Qué son las partículas modales?"
+  },
+  {
+   "type": "p",
+   "text": "Las partículas modales son palabritas que no cambian los hechos de una frase, sino su <b>tono</b>: amable, impaciente, tranquilizador, sorprendido. El español lo hace con la entonación, con coletillas (<i>..., ¿no?</i>) y con palabras como <i>anda, venga, pues, hombre</i> o <i>un momento</i>. Sin partículas, el neerlandés hablado suena rígido; con las equivocadas, puede sonar maleducado."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    6.6,
+    8.0
+   ],
+   "head": [
+    "Palabra",
+    "Efecto",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "even",
+     "un momento, un poco: hace la petición pequeña y amable",
+     "Kun je even helpen? Ik ga even naar de winkel."
+    ],
+    [
+     "maar",
+     "adelante, tranquilo: permiso, ánimo",
+     "Kom maar binnen. Doe maar rustig."
+    ],
+    [
+     "eens",
+     "a ver, prueba: una sugerencia amable",
+     "Kijk eens. Probeer het eens."
+    ],
+    [
+     "toch",
+     "¿no?, pero si, anda: sorpresa o insistencia",
+     "Je komt toch ook? Doe toch mee!"
+    ],
+    [
+     "wel",
+     "contraste, tranquilidad: sí que, ya verás",
+     "Het komt wel goed. Ik heb het wel gedaan!"
+    ],
+    [
+     "nou",
+     "pues, bueno: impaciencia o énfasis",
+     "Nou, wat vind je ervan? Kom nou!"
+    ],
+    [
+     "hoor",
+     "al final: tranquiliza o da énfasis (eh, de verdad)",
+     "Het is goed, hoor. Dank je, hoor."
+    ],
+    [
+     "gewoon",
+     "simplemente: no tiene importancia",
+     "Doe gewoon normaal. Ik heb het gewoon gevraagd."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El imperativo necesita una partícula",
+   "text": "Un imperativo solo (<i>Kom binnen. Ga zitten.</i>) puede sonar a orden, más que en español. Con una partícula se convierte en invitación: <b>Kom maar binnen. Ga maar zitten</b> (pasa, pasa; siéntate, siéntate). Y una petición con <b>even</b> suena pequeña y fácil: <b>Kun je het zout even aangeven?</b> (¿me pasas la sal un momento?)"
+  },
+  {
+   "type": "h1",
+   "text": "2. El orden y las combinaciones"
+  },
+  {
+   "type": "p",
+   "text": "Las partículas van en medio de la frase, normalmente después del verbo conjugado y de los pronombres: <i>Kom <b>maar</b> binnen. Ik heb het <b>wel</b> gedaan.</i> <b>hoor</b> es la excepción: va al final. A menudo se combinan, en un orden fijo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.6,
+    5.8
+   ],
+   "head": [
+    "Combinación",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "maar even",
+     "Wacht maar even.",
+     "espera un momento, no pasa nada"
+    ],
+    [
+     "eens even",
+     "Kom eens even hier.",
+     "ven un momento (algo firme)"
+    ],
+    [
+     "toch even",
+     "Kun je toch even kijken?",
+     "¿podrías mirarlo de todos modos?"
+    ],
+    [
+     "maar eens",
+     "Probeer het maar eens.",
+     "venga, pruébalo"
+    ],
+    [
+     "nou eens",
+     "Luister nou eens!",
+     "¡escúchame de una vez!"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "toch en una pregunta",
+   "text": "<b>Je komt toch?</b> espera un sí: <i>Vienes, ¿no?</i> Es la coletilla <i>¿no?, ¿verdad?</i> del neerlandés, pero va dentro de la frase. Con entonación de sorpresa, <b>toch</b> también significa <i>no será que</i>: <i>Hij is toch niet ziek?</i> (No estará enfermo, ¿verdad?)"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones con partículas",
+   "items": [
+    [
+     "Wacht even.",
+     "Espera un momento."
+    ],
+    [
+     "Kom maar binnen.",
+     "Pasa, pasa."
+    ],
+    [
+     "Kijk eens.",
+     "Mira. / Aquí tienes."
+    ],
+    [
+     "Het komt wel goed.",
+     "Ya verás como sale bien."
+    ],
+    [
+     "Je komt toch?",
+     "Vienes, ¿no?"
+    ],
+    [
+     "Dank je, hoor.",
+     "Gracias, de verdad."
+    ],
+    [
+     "Doe maar gewoon.",
+     "Sé tú mismo."
+    ],
+    [
+     "Kom nou!",
+     "¡Anda, venga!"
+    ],
+    [
+     "Zeg het maar.",
+     "Venga, cuéntame."
+    ],
+    [
+     "Dat is toch niet waar!",
+     "¡No puede ser!"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Kom binnen maar.",
+     "Kom maar binnen.",
+     "La partícula va antes del resto."
+    ],
+    [
+     "Hoor, het is goed.",
+     "Het is goed, hoor.",
+     "hoor va al final."
+    ],
+    [
+     "Ik wel kom.",
+     "Ik kom wel.",
+     "La partícula va después del verbo."
+    ],
+    [
+     "Wacht even eens.",
+     "Wacht eens even.",
+     "Orden fijo: eens even."
+    ],
+    [
+     "Probeer het eens maar.",
+     "Probeer het maar eens.",
+     "Orden fijo: maar eens."
+    ],
+    [
+     "Je komt, toch niet?",
+     "Je komt toch?",
+     "Coletilla: toch, sin niet."
+    ],
+    [
+     "Kun je mij helpen even?",
+     "Kun je me even helpen?",
+     "even en medio, antes del verbo del final."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la partícula que mejor encaja. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Kun je ______ helpen? Het duurt maar een minuut.",
+     "hint": "un momento",
+     "a": "even",
+     "full": "Kun je even helpen? Het duurt maar een minuut."
+    },
+    {
+     "q": "Kom ______ binnen! De koffie is klaar.",
+     "hint": "invitación",
+     "a": "maar",
+     "full": "Kom maar binnen! De koffie is klaar."
+    },
+    {
+     "q": "Maak je geen zorgen, het komt ______ goed.",
+     "hint": "tranquilizar",
+     "a": "wel",
+     "full": "Maak je geen zorgen, het komt wel goed."
+    },
+    {
+     "q": "Je komt ______ ook naar het feest?",
+     "hint": "¿no?",
+     "a": "toch",
+     "full": "Je komt toch ook naar het feest?"
+    },
+    {
+     "q": "Het is niet erg, ______.",
+     "hint": "al final, tranquilizador",
+     "a": "hoor",
+     "full": "Het is niet erg, hoor."
+    },
+    {
+     "q": "Kijk ______ wat ik gevonden heb!",
+     "hint": "sugerencia",
+     "a": "eens",
+     "full": "Kijk eens wat ik gevonden heb!"
+    },
+    {
+     "q": "______, wat vind je ervan?",
+     "hint": "pues, bueno",
+     "a": "nou",
+     "full": "Nou, wat vind je ervan?"
+    },
+    {
+     "q": "Doe ______ normaal, je hoeft niet zenuwachtig te zijn.",
+     "hint": "simplemente",
+     "a": "gewoon",
+     "full": "Doe gewoon normaal, je hoeft niet zenuwachtig te zijn."
+    },
+    {
+     "q": "Wacht maar ______. Ik ben zo terug.",
+     "hint": "un momento",
+     "a": "even",
+     "full": "Wacht maar even. Ik ben zo terug."
+    },
+    {
+     "q": "Probeer het maar ______.",
+     "hint": "venga, prueba",
+     "a": "eens",
+     "full": "Probeer het maar eens."
+    },
+    {
+     "q": "Ik heb mijn huiswerk ______ gemaakt! Kijk maar.",
+     "hint": "contraste: sí que lo hice",
+     "a": "wel",
+     "full": "Ik heb mijn huiswerk wel gemaakt! Kijk maar."
+    },
+    {
+     "q": "Luister ______ eens!",
+     "hint": "impaciencia",
+     "a": "nou",
+     "full": "Luister nou eens!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Pasa, pasa.",
+     "a": "Kom maar binnen."
+    },
+    {
+     "q": "Ya verás como sale bien.",
+     "a": "Het komt wel goed."
+    },
+    {
+     "q": "Vienes, ¿no?",
+     "a": "Je komt toch?"
+    },
+    {
+     "q": "¿Podrías ayudarme un momento?",
+     "a": "Kun je me even helpen?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

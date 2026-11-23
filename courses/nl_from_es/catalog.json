@@ -339,5 +339,16 @@
   "subtitle": "Los usos de er juntos, er en las preguntas, er con la pasiva y el lugar de er en una frase larga",
   "content": "b2_02_er_2.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_03_Las_particulas_modales",
+  "file": "B2_03_Las_particulas_modales.pdf",
+  "level": "B2",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Las partículas modales",
+  "subtitle": "even, maar, toch, wel, nou, eens, hoor, gewoon: palabritas que marcan el tono",
+  "content": "b2_03_modal_particles.json",
+  "exercise_count": 12
  }
 ]
