@@ -35,6 +35,9 @@ for course_id in course.all_ids():
                     problems.append(f"{course_id} {path.name}: the title is missing")
                 if "�" in text or "■" in text:
                     problems.append(f"{course_id} {path.name}: characters the font can't show")
+    for pdf in course.pdf_folder(course_id).glob("*.pdf"):
+        if not pdf.name.isascii():  # an accent in a file name can break the link to it
+            problems.append(f"{course_id} {pdf.name}: the file name has letters outside ASCII")
     print(f"{course_id}: {len(picks)} PDFs made")
 
 if problems:

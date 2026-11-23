@@ -1,0 +1,582 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Pronunciación",
+  "number": 1,
+  "total_in_level": 9,
+  "title": "Pronunciación y ortografía",
+  "subtitle": "El alfabeto, sonidos que el español no tiene, letras mudas y los números hasta 100",
+  "footer": "Language Learning · A1 · Pronunciación · Pronunciación y ortografía",
+  "next": "Siguiente: A1 · pdf 2 — to be"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decir el alfabeto inglés y deletrear tu nombre",
+    "pronunciar los sonidos que el español no tiene: la v, la sh, la z sonora y la a corta de cat",
+    "reconocer las letras mudas (knife, write, hour)",
+    "contar y escribir hasta cien"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El alfabeto"
+  },
+  {
+   "type": "p",
+   "text": "Las letras inglesas tienen nombres distintos de los españoles. Las necesitas cada día para deletrear tu nombre, tu dirección o un correo electrónico. Apréndelas en grupos que riman entre sí."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    4.0,
+    8.0
+   ],
+   "head": [
+    "Letras",
+    "Suena más o menos como",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "A H J K",
+     "ei (como en 'rey')",
+     "La A suena <b>ei</b>, no a"
+    ],
+    [
+     "B C D E G P T V",
+     "i",
+     "La E suena <b>i</b>; la G suena <b>yi</b> (con una y fuerte, como en 'yo' dicho con fuerza)"
+    ],
+    [
+     "F L M N S X Z",
+     "e (ef, el, em, en, es, eks, zed)",
+     "La Z se llama <b>zed</b> en inglés británico"
+    ],
+    [
+     "I Y",
+     "ai",
+     "La I suena <b>ai</b>, no i"
+    ],
+    [
+     "O",
+     "ou (como en 'bou')",
+     ""
+    ],
+    [
+     "Q U W",
+     "iu (kiu, iu, dábel-iu)",
+     "La W se llama <b>double u</b>"
+    ],
+    [
+     "R",
+     "a (sin r al final en inglés británico)",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Letras que los hispanohablantes confunden",
+   "bullets": [
+    "La <b>E</b> suena i y la <b>I</b> suena ai. Así que e-mail se deletrea i-mail.",
+    "La <b>G</b> suena yi y la <b>J</b> suena yei: justo al revés de lo que esperarías.",
+    "Dos letras iguales seguidas se dicen con <b>double</b>: Anna = A, double N, A."
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Deletrear tu nombre",
+   "text": "<i>What's your name? — Anna. How do you spell that? — A, double N, A.</i> Y un correo electrónico: @ = <b>at</b>, . = <b>dot</b>, - = <b>dash</b>, _ = <b>underscore</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Sonidos que el español no tiene"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    4.6,
+    9.4
+   ],
+   "head": [
+    "Sonido",
+    "Ejemplos",
+    "Cómo se hace"
+   ],
+   "rows": [
+    [
+     "th (sin voz)",
+     "think, three, thank you",
+     "como la z de 'zapato' en España; no t, no s, no f"
+    ],
+    [
+     "th (con voz)",
+     "this, the, mother",
+     "como la d suave de 'cada' o 'nada'; no una d fuerte"
+    ],
+    [
+     "w",
+     "we, water, wine",
+     "labios redondos y hacia delante, como en 'huevo'; no es una b ni una gu"
+    ],
+    [
+     "v",
+     "very, live, love",
+     "dientes de arriba sobre el labio de abajo, haciendo vibrar la voz; no es una b"
+    ],
+    [
+     "a (corta)",
+     "cat, bad, man",
+     "boca muy abierta, entre la e y la a españolas"
+    ],
+    [
+     "sh",
+     "she, shop, fish",
+     "como 'chis' para pedir silencio, sin la t de la ch: she no es che"
+    ],
+    [
+     "r",
+     "red, very, car",
+     "no la hagas vibrar como la rr; en inglés británico la r no se oye al final de una palabra"
+    ],
+    [
+     "consonante final",
+     "bed, dog, love",
+     "pronuncia de verdad la d, la g y la v al final: bed no es be y dog no es do"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El mayor problema: el final de la palabra",
+   "text": "En español casi ninguna palabra termina en b, d, g o v, así que tendemos a suavizarlas o a no decirlas. En inglés eso cambia el significado: <b>bad</b> (malo) y <b>bat</b> (murciélago), <b>dog</b> y <b>dock</b>, <b>leave</b> y <b>leaf</b>. Y no pongas una e delante de s + consonante: <b>Spain</b>, no 'Espain'; <b>school</b>, no 'eschool'."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras para practicar los sonidos",
+   "items": [
+    [
+     "think",
+     "pensar"
+    ],
+    [
+     "three",
+     "tres"
+    ],
+    [
+     "thank you",
+     "gracias"
+    ],
+    [
+     "this",
+     "esto, este, esta"
+    ],
+    [
+     "mother",
+     "madre"
+    ],
+    [
+     "water",
+     "agua"
+    ],
+    [
+     "wine",
+     "vino"
+    ],
+    [
+     "very",
+     "muy"
+    ],
+    [
+     "cat",
+     "gato"
+    ],
+    [
+     "bad",
+     "malo"
+    ],
+    [
+     "bed",
+     "cama"
+    ],
+    [
+     "leave",
+     "irse, marcharse, salir"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Letras mudas"
+  },
+  {
+   "type": "p",
+   "text": "Muchas palabras inglesas tienen letras que no se pronuncian. La ortografía viene de una época más antigua del idioma; la pronunciación cambió, la ortografía no."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    9.8
+   ],
+   "head": [
+    "Palabra",
+    "Letra muda",
+    "Más ejemplos"
+   ],
+   "rows": [
+    [
+     "knife",
+     "k",
+     "know, knee, knock"
+    ],
+    [
+     "write",
+     "w",
+     "wrong, answer, two"
+    ],
+    [
+     "listen",
+     "t",
+     "castle, often (a menudo sin t)"
+    ],
+    [
+     "hour",
+     "h",
+     "honest, honour"
+    ],
+    [
+     "island",
+     "s",
+     ""
+    ],
+    [
+     "Wednesday",
+     "la primera d",
+     "Wednesday suena como 'uéns-dei'"
+    ],
+    [
+     "half",
+     "l",
+     "walk, talk, could, should"
+    ],
+    [
+     "climb",
+     "b",
+     "comb, thumb, doubt"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "an hour",
+   "text": "Como la h de <b>hour</b> no se pronuncia, la palabra empieza por vocal. Por eso se dice <b>an hour</b> y <b>an honest man</b> (más sobre a y an en el pdf 5)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Los números hasta 100"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Del 0 al 20",
+   "items": [
+    [
+     "zero",
+     "cero"
+    ],
+    [
+     "one",
+     "uno"
+    ],
+    [
+     "two",
+     "dos"
+    ],
+    [
+     "three",
+     "tres"
+    ],
+    [
+     "four",
+     "cuatro"
+    ],
+    [
+     "five",
+     "cinco"
+    ],
+    [
+     "six",
+     "seis"
+    ],
+    [
+     "seven",
+     "siete"
+    ],
+    [
+     "eight",
+     "ocho"
+    ],
+    [
+     "nine",
+     "nueve"
+    ],
+    [
+     "ten",
+     "diez"
+    ],
+    [
+     "eleven",
+     "once"
+    ],
+    [
+     "twelve",
+     "doce"
+    ],
+    [
+     "thirteen",
+     "trece"
+    ],
+    [
+     "fourteen",
+     "catorce"
+    ],
+    [
+     "fifteen",
+     "quince"
+    ],
+    [
+     "sixteen",
+     "dieciséis"
+    ],
+    [
+     "seventeen",
+     "diecisiete"
+    ],
+    [
+     "eighteen",
+     "dieciocho"
+    ],
+    [
+     "nineteen",
+     "diecinueve"
+    ],
+    [
+     "twenty",
+     "veinte"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Las decenas",
+   "items": [
+    [
+     "thirty",
+     "treinta"
+    ],
+    [
+     "forty",
+     "cuarenta"
+    ],
+    [
+     "fifty",
+     "cincuenta"
+    ],
+    [
+     "sixty",
+     "sesenta"
+    ],
+    [
+     "seventy",
+     "setenta"
+    ],
+    [
+     "eighty",
+     "ochenta"
+    ],
+    [
+     "ninety",
+     "noventa"
+    ],
+    [
+     "a hundred",
+     "cien"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Primero la decena, luego la unidad",
+   "text": "Como en español (<i>veintitrés</i>, <i>treinta y cinco</i>), primero va la decena y después la unidad, pero en inglés con un guion y sin 'y': <b>twenty-three</b>, <b>forty-five</b>, <b>ninety-nine</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿thirteen o thirty?",
+   "text": "De <b>thirteen</b> a <b>nineteen</b> el acento va al final: thir<b>TEEN</b>. De <b>thirty</b> a <b>ninety</b> va al principio: <b>THIR</b>ty. Así se oye la diferencia."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "fourty",
+     "forty",
+     "Four lleva u, pero forty no."
+    ],
+    [
+     "ninty",
+     "ninety",
+     "Ninety conserva la e de nine."
+    ],
+    [
+     "fivety",
+     "fifty",
+     "Five se convierte en fif- en fifty y fifteen."
+    ],
+    [
+     "twelf",
+     "twelve",
+     "Twelve termina en -ve."
+    ],
+    [
+     "Wensday",
+     "Wednesday",
+     "La d no se oye, pero sí se escribe."
+    ],
+    [
+     "a hour",
+     "an hour",
+     "La h es muda, así que la palabra empieza por vocal."
+    ],
+    [
+     "three and twenty",
+     "twenty-three",
+     "Primero la decena, luego la unidad, con un guion."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Escribe el número o la palabra. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "14 = ______",
+     "hint": "en letras",
+     "a": "fourteen",
+     "full": "14 = fourteen"
+    },
+    {
+     "q": "40 = ______",
+     "hint": "en letras",
+     "a": "forty",
+     "full": "40 = forty"
+    },
+    {
+     "q": "90 = ______",
+     "hint": "en letras",
+     "a": "ninety",
+     "full": "90 = ninety"
+    },
+    {
+     "q": "12 = ______",
+     "hint": "en letras",
+     "a": "twelve",
+     "full": "12 = twelve"
+    },
+    {
+     "q": "55 = ______",
+     "hint": "en letras, con un guion",
+     "a": "fifty-five",
+     "full": "55 = fifty-five"
+    },
+    {
+     "q": "How do you ______ your name?",
+     "hint": "deletrear",
+     "a": "spell",
+     "full": "How do you spell your name?"
+    },
+    {
+     "q": "It takes ______ hour.",
+     "hint": "a o an",
+     "a": "an",
+     "full": "It takes an hour."
+    },
+    {
+     "q": "My birthday is on ______.",
+     "hint": "miércoles",
+     "a": "Wednesday",
+     "full": "My birthday is on Wednesday."
+    },
+    {
+     "q": "Can you ______ that, please?",
+     "hint": "repetir",
+     "a": "repeat",
+     "full": "Can you repeat that, please?"
+    },
+    {
+     "q": "______ you very much.",
+     "hint": "dar las gracias",
+     "a": "Thank",
+     "full": "Thank you very much."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Cómo se escribe eso?",
+     "a": "How do you spell that?"
+    },
+    {
+     "q": "¿Puede repetir eso, por favor?",
+     "a": "Can you repeat that, please?"
+    },
+    {
+     "q": "Muchas gracias.",
+     "a": "Thank you very much."
+    },
+    {
+     "q": "Veintitrés.",
+     "a": "Twenty-three."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

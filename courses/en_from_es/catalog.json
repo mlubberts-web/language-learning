@@ -1,0 +1,24 @@
+[
+ {
+  "id": "A1_01_Pronunciacion_y_ortografia",
+  "file": "A1_01_Pronunciacion_y_ortografia.pdf",
+  "level": "A1",
+  "number": 1,
+  "section": "Pronunciación",
+  "title": "Pronunciación y ortografía",
+  "subtitle": "El alfabeto, sonidos que el español no tiene, letras mudas y los números hasta 100",
+  "content": "a1_01_pronunciation_spelling.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "A1_02_to_be",
+  "file": "A1_02_to_be.pdf",
+  "level": "A1",
+  "number": 2,
+  "section": "Verbos",
+  "title": "to be",
+  "subtitle": "am, is y are: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
+  "content": "a1_02_to_be.json",
+  "exercise_count": 12
+ }
+]

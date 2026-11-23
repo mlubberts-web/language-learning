@@ -13,7 +13,7 @@ shown in red; elsewhere a star is just a star (*Pienso de que: a wrong sentence)
 The headings that belong to the PDF itself ("Person", "Answers" ...) are in the language of the
 course's explanations, through ui_text.t().
 """
-import json, re, sys
+import json, re, sys, unicodedata
 from pathlib import Path
 
 from reportlab.lib import colors
@@ -296,8 +296,10 @@ BLOCKS = {"h1": block_h1, "h2": block_h2, "p": block_p, "bullets": block_bullets
 
 # ---------- the whole PDF ----------
 def file_name(meta):
-    """'A1_02_Regular_Verbs_Present_Tense.pdf'."""
-    words = re.sub(r"[^\w\s-]", "", meta["title"]).split()
+    """'A1_02_Regular_Verbs_Present_Tense.pdf'. Accents are left off ('Pronunciación' becomes
+    'Pronunciacion'), so the name works in any web address."""
+    plain = unicodedata.normalize("NFKD", meta["title"]).encode("ascii", "ignore").decode()
+    words = re.sub(r"[^\w\s-]", "", plain).split()
     return f"{meta['level']}_{int(meta['number']):02d}_{'_'.join(words)}.pdf"
 
 

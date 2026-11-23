@@ -1,0 +1,523 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 9,
+  "title": "to be",
+  "subtitle": "am, is y are: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
+  "footer": "Language Learning · A1 · Verbos · to be",
+  "next": "Siguiente: A1 · pdf 3 — El present simple"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "conjugar el verbo <b>to be</b> (ser y estar), con las formas cortas",
+    "presentarte: nombre, edad, país, profesión",
+    "hacer preguntas y negar con to be",
+    "usar a y an con una profesión"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Las formas"
+  },
+  {
+   "type": "p",
+   "text": "<b>to be</b> es el verbo más importante del inglés, y significa a la vez <b>ser</b> y <b>estar</b>: <i>I'm Spanish</i> (soy español) y <i>I'm tired</i> (estoy cansado). En presente tiene tres formas: <b>am</b>, <b>is</b> y <b>are</b>. Al hablar y en los correos casi siempre se usa la <b>forma corta</b> con apóstrofo."
+  },
+  {
+   "type": "conj",
+   "verb": "to be",
+   "meaning": "ser, estar",
+   "label": "verbo irregular",
+   "tense": "present simple",
+   "forms": [
+    "am",
+    "are",
+    "is",
+    "are",
+    "are",
+    "are"
+   ],
+   "examples": [
+    [
+     "I am Dutch.",
+     "Soy español."
+    ],
+    [
+     "You are late.",
+     "Llegas tarde."
+    ],
+    [
+     "She is a nurse.",
+     "Ella es enfermera."
+    ],
+    [
+     "We are at home.",
+     "Estamos en casa."
+    ],
+    [
+     "You are very kind.",
+     "Sois muy amables."
+    ],
+    [
+     "They are from Spain.",
+     "Ellos son de España."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.2,
+    4.2,
+    4.4
+   ],
+   "head": [
+    "Forma larga",
+    "Forma corta",
+    "Negación",
+    "Negación corta"
+   ],
+   "rows": [
+    [
+     "I am",
+     "I'm",
+     "I am not",
+     "I'm not"
+    ],
+    [
+     "you are",
+     "you're",
+     "you are not",
+     "you aren't"
+    ],
+    [
+     "he is",
+     "he's",
+     "he is not",
+     "he isn't"
+    ],
+    [
+     "she is",
+     "she's",
+     "she is not",
+     "she isn't"
+    ],
+    [
+     "it is",
+     "it's",
+     "it is not",
+     "it isn't"
+    ],
+    [
+     "we are",
+     "we're",
+     "we are not",
+     "we aren't"
+    ],
+    [
+     "they are",
+     "they're",
+     "they are not",
+     "they aren't"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "I'm not, nunca I amn't",
+   "text": "Con <b>I</b> la única negación corta es <b>I'm not</b>. Las demás personas tienen dos posibilidades: <i>you're not</i> o <i>you aren't</i>, <i>he's not</i> o <i>he isn't</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "you = tú, usted, vosotros y ustedes",
+   "text": "El inglés no distingue entre tú, usted, vosotros y ustedes: todo es <b>you</b>, con la forma <b>are</b>. La cortesía está en otras palabras: <i>please</i>, <i>could you</i>, <i>Sir</i>, <i>Madam</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Preguntas y respuestas cortas"
+  },
+  {
+   "type": "p",
+   "text": "Para preguntar pones <b>am / is / are</b> delante del sujeto. En español basta con la entonación (<i>¿Estás cansado?</i>), pero en inglés hay que cambiar el orden: <b>Are you tired?</b> Una respuesta corta repite el verbo, sin forma corta con yes."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Pregunta",
+    "Sí",
+    "No"
+   ],
+   "rows": [
+    [
+     "Am I late?",
+     "Yes, you are.",
+     "No, you aren't."
+    ],
+    [
+     "Are you Spanish?",
+     "Yes, I am.",
+     "No, I'm not."
+    ],
+    [
+     "Is she a teacher?",
+     "Yes, she is.",
+     "No, she isn't."
+    ],
+    [
+     "Is it cold?",
+     "Yes, it is.",
+     "No, it isn't."
+    ],
+    [
+     "Are they at work?",
+     "Yes, they are.",
+     "No, they aren't."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Yes, I am. — no Yes, I'm.",
+   "text": "Al final de la frase nunca se usa la forma corta en una respuesta afirmativa: <b>Yes, I am.</b> / <b>Yes, she is.</b> Con no sí se puede: <i>No, she isn't.</i>"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras interrogativas con to be",
+   "items": [
+    [
+     "What's your name?",
+     "¿Cómo te llamas?"
+    ],
+    [
+     "Where are you from?",
+     "¿De dónde eres?"
+    ],
+    [
+     "How old are you?",
+     "¿Cuántos años tienes?"
+    ],
+    [
+     "How are you?",
+     "¿Qué tal?, ¿Cómo estás?"
+    ],
+    [
+     "Who is that?",
+     "¿Quién es ese?, ¿Quién es esa?"
+    ],
+    [
+     "Where is the station?",
+     "¿Dónde está la estación?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Presentarse"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Tema",
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Nombre",
+     "I'm Sara. / My name is Sara.",
+     "Soy Sara. / Me llamo Sara."
+    ],
+    [
+     "Edad",
+     "I'm twenty-five.",
+     "Tengo veinticinco años."
+    ],
+    [
+     "País",
+     "I'm from Spain.",
+     "Soy de España."
+    ],
+    [
+     "Nacionalidad",
+     "I'm Spanish.",
+     "Soy español."
+    ],
+    [
+     "Profesión",
+     "I'm an engineer.",
+     "Soy ingeniero."
+    ],
+    [
+     "Sensación",
+     "I'm tired. / I'm hungry.",
+     "Estoy cansado. / Tengo hambre."
+    ],
+    [
+     "Estado civil",
+     "I'm married. / I'm single.",
+     "Estoy casado. / Estoy soltero."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Cuatro trampas para hispanohablantes",
+   "bullets": [
+    "<b>La edad</b> va con to be: <i>I'm twenty</i> o <i>I'm twenty years old</i>, nunca <i>I have twenty years</i>.",
+    "<b>La profesión</b> lleva <b>a / an</b>: <i>She's a doctor</i>, no <i>She's doctor</i>. El español omite el artículo (<i>es médica</i>), el inglés no.",
+    "<b>Hambre, sed, frío y calor</b> van con to be: <i>I'm hungry, I'm thirsty, I'm cold, I'm hot</i> (tengo hambre, sed, frío, calor). Y el sujeto nunca se omite: <i>He is a doctor</i> o <i>It is cold</i>, nunca <i>Is a doctor</i> ni <i>Is cold</i>."
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Países y nacionalidades",
+   "items": [
+    [
+     "the Netherlands",
+     "Países Bajos, Holanda"
+    ],
+    [
+     "Dutch",
+     "neerlandés, holandés"
+    ],
+    [
+     "Belgium",
+     "Bélgica"
+    ],
+    [
+     "Belgian",
+     "belga"
+    ],
+    [
+     "Germany",
+     "Alemania"
+    ],
+    [
+     "German",
+     "alemán"
+    ],
+    [
+     "Spain",
+     "España"
+    ],
+    [
+     "Spanish",
+     "español"
+    ],
+    [
+     "France",
+     "Francia"
+    ],
+    [
+     "French",
+     "francés"
+    ],
+    [
+     "the United Kingdom",
+     "el Reino Unido"
+    ],
+    [
+     "British",
+     "británico"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Mayúsculas",
+   "text": "En inglés, los países, las nacionalidades y los idiomas siempre llevan mayúscula: <b>Spanish</b>, <b>English</b>, <b>Dutch</b>. También los días y los meses: <b>Monday</b>, <b>January</b>. Y <b>I</b> (yo) siempre es mayúscula."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I have 30 years.",
+     "I'm 30.",
+     "La edad va con to be."
+    ],
+    [
+     "She is teacher.",
+     "She is a teacher.",
+     "Una profesión lleva a o an."
+    ],
+    [
+     "I am from Netherlands.",
+     "I am from the Netherlands.",
+     "the Netherlands siempre lleva the."
+    ],
+    [
+     "Yes, I'm.",
+     "Yes, I am.",
+     "No hay forma corta al final de la frase.",
+     "advice"
+    ],
+    [
+     "I amn't tired.",
+     "I'm not tired.",
+     "Con I la negación es I'm not.",
+     "advice"
+    ],
+    [
+     "i am dutch.",
+     "I am Dutch.",
+     "I y las nacionalidades llevan mayúscula."
+    ],
+    [
+     "Are you hunger?",
+     "Are you hungry?",
+     "Tener hambre es be hungry (un adjetivo)."
+    ],
+    [
+     "He is a engineer.",
+     "He is an engineer.",
+     "Delante de un sonido vocálico se usa an."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con am, is o are, o con la forma corta correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ from Utrecht.",
+     "hint": "to be",
+     "a": "am",
+     "full": "I am from Utrecht."
+    },
+    {
+     "q": "She ______ a nurse.",
+     "hint": "to be",
+     "a": "is",
+     "full": "She is a nurse."
+    },
+    {
+     "q": "We ______ very tired.",
+     "hint": "to be",
+     "a": "are",
+     "full": "We are very tired."
+    },
+    {
+     "q": "______ you Dutch?",
+     "hint": "to be, pregunta",
+     "a": "Are",
+     "full": "Are you Dutch?"
+    },
+    {
+     "q": "It ______ cold today.",
+     "hint": "to be, negación, forma corta",
+     "a": "isn't",
+     "full": "It isn't cold today."
+    },
+    {
+     "q": "Is he at home? Yes, he ______.",
+     "hint": "respuesta corta",
+     "a": "is",
+     "full": "Is he at home? Yes, he is."
+    },
+    {
+     "q": "They ______ from Spain.",
+     "hint": "to be",
+     "a": "are",
+     "full": "They are from Spain."
+    },
+    {
+     "q": "I ______ hungry.",
+     "hint": "to be, negación, forma corta",
+     "a": "'m not",
+     "full": "I'm not hungry."
+    },
+    {
+     "q": "My brother is ______ engineer.",
+     "hint": "a o an",
+     "a": "an",
+     "full": "My brother is an engineer."
+    },
+    {
+     "q": "How old ______ you?",
+     "hint": "to be",
+     "a": "are",
+     "full": "How old are you?"
+    },
+    {
+     "q": "Where ______ the station?",
+     "hint": "to be",
+     "a": "is",
+     "full": "Where is the station?"
+    },
+    {
+     "q": "I'm from ______ Netherlands.",
+     "hint": "artículo",
+     "a": "the",
+     "full": "I'm from the Netherlands."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Tengo veinticinco años.",
+     "a": "I'm twenty-five."
+    },
+    {
+     "q": "Ella es profesora.",
+     "a": "She is a teacher."
+    },
+    {
+     "q": "¿De dónde eres?",
+     "a": "Where are you from?"
+    },
+    {
+     "q": "Tenemos frío.",
+     "a": "We are cold."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
