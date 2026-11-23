@@ -48,6 +48,12 @@ STYLE = """
   [class*="st-key-card_"], [class*="st-key-row_"] { background: #fff; }
   [data-testid="stSidebar"] button { justify-content: flex-start; text-align: left; }
   [data-testid="stSidebar"] button > div { justify-content: flex-start; }
+  /* On a phone Streamlit puts every column under the one before. In the reader's button rows that
+     pushes the page far down, so there two columns share a row (Prev and Next side by side). */
+  @media (max-width: 640px) {
+    [class*="st-key-reader_bar"] [data-testid="stColumn"] {
+      min-width: calc(50% - 1rem) !important; flex: 1 1 calc(50% - 1rem) !important; }
+  }
 </style>
 """
 
@@ -223,7 +229,9 @@ def reset_pdf(pid):
 
 
 def scroll_to_top_after_moving():
-    """Start each new screen or PDF page at the top instead of keeping the old scroll position."""
+    """Start each new screen or PDF page at the top instead of keeping the old scroll position.
+    On a phone the sidebar lies over the page, so it is closed too: after tapping Schedule in it
+    you see the Schedule, not the menu (768 pixels is where Streamlit lays the sidebar over the page)."""
     s = st.session_state
     spot = f"{s.view}/{s.level}"
     if s.view == "reader":
@@ -234,6 +242,9 @@ def scroll_to_top_after_moving():
         spot += f"/{s.mock['position']}"
     # Streamlit only runs the script again when the HTML changes, hence the comment holding the spot.
     st.html(f'<script>/* {spot} */ document.querySelector(\'[data-testid="stMain"]\')?.scrollTo(0, 0);'
+            "if (window.innerWidth < 768 && document.querySelector('[data-testid=\"stSidebar\"]')"
+            "?.getAttribute('data-collapsed') === 'false') {"
+            " document.querySelector('[data-testid=\"stSidebarCollapseButton\"] button')?.click(); }"
             "</script>", unsafe_allow_javascript=True)
 
 
@@ -495,7 +506,7 @@ def reader():
     top[2].markdown(f"#### {item['level']} · PDF {item['number']} — {item['title']}")
     top[3].progress(fraction(item), text=t(STATUS_LABEL[status(item)]))
 
-    bar = st.columns([1, 1, 1.3, 1.6, 2, 2, 1.8], vertical_alignment="center")
+    bar = st.container(key="reader_bar_top").columns([1, 1, 1.3, 1.6, 2, 2, 1.8], vertical_alignment="center")
     bar[0].button(t("◀ Prev"), on_click=turn_page, args=(-1,), disabled=page == 0,
                   shortcut="Left", width="stretch")
     bar[1].button(t("Next ▶"), on_click=turn_page, args=(1,), disabled=page >= total - 1,
@@ -513,7 +524,7 @@ def reader():
     st.html(f'<div style="text-align:center"><img class="pdf-page" src="{render_page(item["file"], page, course.current())}" '
             f'alt="{t("Page {page} of {total}", page=page + 1, total=total)}" style="max-width:{PAGE_WIDTHS[size]}px"></div>')
 
-    foot = st.columns([1, 1, 2, 2, 2])
+    foot = st.container(key="reader_bar_foot").columns([1, 1, 2, 2, 2])
     foot[0].button(t("◀ Prev") + " ", on_click=turn_page, args=(-1,), disabled=page == 0,
                    key="prev2", width="stretch")
     foot[1].button(t("Next ▶") + " ", on_click=turn_page, args=(1,), disabled=page >= total - 1,

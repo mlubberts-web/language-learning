@@ -156,7 +156,7 @@ Choices made (Menno can overrule any of them):
 
 - [x] 7.1 README and DEPLOY for the whole site; screenshots.
 - [x] 7.2 Privacy page (what is stored, how to delete an account), terms of use.
-- [ ] 7.3 Everything once more on a phone-sized screen.
+- [x] 7.3 Everything once more on a phone-sized screen.
 - [ ] 7.4 🙋 Menno decides on a name and maybe an own domain.
 
 ## Log
@@ -176,3 +176,10 @@ Short notes per session: what was done, anything left open.
   stored, where, who can see it, terms of use), in all three languages. Online, people with their own
   account can delete it with all results (tick box first); accounts in the secrets can't. Tested
   online against the fake database.
+- 2026-11-23: 7.3: every main screen checked at 390 px wide (courses, home, schedule, progress,
+  themes, mock, level, reader, exercises, build, listen, translate): no errors, nothing wider than
+  the screen. Fixed: on a phone the sidebar now closes after tapping a menu button, and the reader
+  keeps two buttons per row so the page comes into view sooner.
+  🙋 Question for Menno: es_from_en (Spanish explained in English) still has the "Dutch" comparison
+  boxes of the original app in 30 units (for example "One tense, two Dutch tenses"). Keep them, or
+  rewrite them for English speakers? Not changed, since they are the original content.
