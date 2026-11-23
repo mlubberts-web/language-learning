@@ -6,8 +6,9 @@ accounts: GitHub (where the code is), Supabase (a database for the results) and 
 Community Cloud (which runs the app).
 
 Why a database: the online server forgets its files whenever it restarts, which happens often, so
-progress.json, practice.json and study_log.json can't live there. On your own computer nothing
-changes: without the secrets below, the app keeps using those files and doesn't ask for a login.
+the results (on your own computer the files in the `results` folder) can't live there. On your own
+computer nothing changes: without the secrets below, the app keeps using those files and doesn't
+ask for a login.
 
 ## 1. The database (Supabase)
 
@@ -21,7 +22,7 @@ changes: without the secrets below, the app keeps using those files and doesn't 
    ```sql
    create table saves (
      owner text not null,           -- whose results: the name you log in with
-     name text not null,            -- which file: progress, practice or study_log
+     name text not null,            -- which file: es_from_en_practice, nl_from_es_progress, profile ...
      data jsonb not null,           -- the contents of that file
      primary key (owner, name)
    );
@@ -72,7 +73,7 @@ The code has to be in a GitHub repository. Your own results and the secrets are 
    - Repository: your repository
    - Branch: `main`
    - Main file path: `app.py`
-   - App URL: a name you like, for example `spanish-study`
+   - App URL: a name you like, for example `language-learning`
 3. Open **Advanced settings**. Choose Python **3.12**, and paste this into **Secrets**, with your
    own values:
 
@@ -114,11 +115,15 @@ To change the secrets later: in Streamlit Community Cloud, open the app's **Sett
 - **👥 Accounts** (only for admins, in the sidebar): the accounts people made, with **Set new
   password** for someone who forgot theirs, and **Remove account**, which also deletes all their
   results. Accounts written in the secrets are changed in the secrets instead.
-- **Your results from your own computer:** in the sidebar, open **💾 Your data**, choose
-  `progress.json`, `practice.json` and `study_log.json` from the app folder, and click
-  **Replace my results**. Then keep using the online version, because the two don't stay in step.
-- **Backups:** **💾 Your data** also has **Download a backup**. Putting a backup back works the
-  same way as above.
+- **Your results from your own computer:** open the course online, then in the sidebar open
+  **💾 Your data**, choose that course's files from the `results` folder of the app on your
+  computer (for example `es_from_en_progress.json`, `es_from_en_practice.json` and
+  `es_from_en_study_log.json`), and click **Replace my results**. Do this once per course. The
+  files `progress.json`, `practice.json` and `study_log.json` of the original Spanish app work
+  too, for the course Spanish explained in English. Then keep using the online version, because
+  the two don't stay in step.
+- **Backups:** **💾 Your data** also has **Download a backup**, of the course that is open.
+  Putting a backup back works the same way as above.
 - An app that nobody opened for a while goes to sleep. Opening it shows a button to wake it up,
   which takes about a minute.
 - After you upload a change to GitHub, the online app updates itself within a few minutes.

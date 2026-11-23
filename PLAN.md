@@ -154,7 +154,7 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 7: finishing the website
 
-- [ ] 7.1 README and DEPLOY for the whole site; screenshots.
+- [x] 7.1 README and DEPLOY for the whole site; screenshots.
 - [ ] 7.2 Privacy page (what is stored, how to delete an account), terms of use.
 - [ ] 7.3 Everything once more on a phone-sized screen.
 - [ ] 7.4 🙋 Menno decides on a name and maybe an own domain.
@@ -168,3 +168,7 @@ Short notes per session: what was done, anything left open.
   test_ui_text.py). Already done for 1.7: a course with only some levels works (the plan, the
   mock exam and the level lists skip what doesn't exist yet). Run the app with another course
   with `set COURSE=<id>` before `streamlit run app.py`.
+- 2026-11-23: Phase 6 done: all 59 Dutch units in Spanish, adapted for Spanish speakers (mistake rows
+  such as "Ik denk in jou", "Ik wacht de bus", "Ik heb het hem" order), 15 word lists, the verbs in
+  context and "Trampas para hispanohablantes"; all tests pass. 7.1: new README for the six courses
+  with new screenshots, DEPLOY updated; "Put back a backup" now also takes results/<course>_*.json.
