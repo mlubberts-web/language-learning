@@ -339,5 +339,16 @@
   "subtitle": "The uses of er together, er in questions, er with the passive, and where er goes in a long sentence",
   "content": "b2_02_er_2.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_03_Modal_particles",
+  "file": "B2_03_Modal_particles.pdf",
+  "level": "B2",
+  "number": 3,
+  "section": "Grammar",
+  "title": "Modal particles",
+  "subtitle": "even, maar, toch, wel, nou, eens, hoor, gewoon: small words that set the tone",
+  "content": "b2_03_modal_particles.json",
+  "exercise_count": 12
  }
 ]
