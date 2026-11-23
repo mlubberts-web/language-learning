@@ -1,0 +1,420 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Vocabulario",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "La formación de palabras",
+  "subtitle": "Prefijos y sufijos, familias de palabras de verbo, sustantivo y adjetivo",
+  "footer": "Language Learning · B2 · Vocabulario · Formación de palabras",
+  "next": "Siguiente: B2 · pdf 9 — El registro y la escritura"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar sustantivos a partir de verbos y adjetivos",
+    "formar adjetivos y adverbios",
+    "formar el contrario con <b>un-, in-, im-, dis-, ir-</b>",
+    "preparar la parte 'word formation' del examen B2 First"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los sustantivos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    6.6,
+    7.0
+   ],
+   "head": [
+    "Sufijo",
+    "A partir de",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "-tion / -sion",
+     "verbo",
+     "decide → decision, inform → information, educate → education"
+    ],
+    [
+     "-ment",
+     "verbo",
+     "develop → development, agree → agreement, improve → improvement"
+    ],
+    [
+     "-ance / -ence",
+     "verbo",
+     "appear → appearance, prefer → preference, exist → existence"
+    ],
+    [
+     "-er / -or / -ist",
+     "persona",
+     "teach → teacher, act → actor, science → scientist"
+    ],
+    [
+     "-ness",
+     "adjetivo",
+     "happy → happiness, kind → kindness, dark → darkness"
+    ],
+    [
+     "-ity",
+     "adjetivo",
+     "possible → possibility, popular → popularity, active → activity"
+    ],
+    [
+     "-ship / -hood",
+     "estado, condición",
+     "friend → friendship, child → childhood"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Los adjetivos y los adverbios"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    6.6,
+    7.0
+   ],
+   "head": [
+    "Sufijo",
+    "Significado",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "-ful / -less",
+     "con / sin",
+     "careful, careless, helpful, useless, hopeful, homeless"
+    ],
+    [
+     "-able / -ible",
+     "que se puede",
+     "comfortable, reliable, visible, flexible"
+    ],
+    [
+     "-ous",
+     "lleno de",
+     "dangerous, famous, nervous, mysterious"
+    ],
+    [
+     "-al / -ic",
+     "relativo a",
+     "national, economic, historic, musical"
+    ],
+    [
+     "-ive",
+     "con la cualidad de",
+     "creative, expensive, attractive"
+    ],
+    [
+     "-y",
+     "lleno de",
+     "rainy, sunny, healthy, dirty"
+    ],
+    [
+     "-ly",
+     "adverbio",
+     "quick → quickly, careful → carefully, happy → happily"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿-ed o -ing?",
+   "text": "<b>-ed</b> describe cómo se siente alguien, <b>-ing</b> lo que causa el sentimiento: <i>I'm <b>bored</b> because the film is <b>boring</b>.</i> Igual con interested / interesting, tired / tiring, surprised / surprising."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Estoy aburrido = I'm bored",
+   "text": "Aquí el español te ayuda: <i>estoy aburrido</i> es <b>I'm bored</b> y <i>soy aburrido</i> es <b>I'm boring</b>, que no es lo que sueles querer decir. Igual: <i>estoy interesado</i> = <b>I'm interested</b>, no <i>I'm interesting</i>. Y muchos sufijos se parecen: <i>-ción</i> = <b>-tion</b>, <i>-dad</i> = <b>-ity</b>, <i>-oso</i> = <b>-ous</b>, <i>-mente</i> = <b>-ly</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. El contrario"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "Prefijo",
+    "Ejemplos",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "un-",
+     "unhappy, unusual, unlikely, unemployed",
+     "el más usado"
+    ],
+    [
+     "in-",
+     "independent, informal, incorrect",
+     ""
+    ],
+    [
+     "im-",
+     "impossible, impatient, impolite",
+     "delante de p y m"
+    ],
+    [
+     "il- / ir-",
+     "illegal, irregular, irresponsible",
+     "delante de l y r"
+    ],
+    [
+     "dis-",
+     "dishonest, disagree, dislike, disappear",
+     "también con verbos"
+    ],
+    [
+     "mis-",
+     "misunderstand, misspell",
+     "mal, de forma equivocada"
+    ],
+    [
+     "re- / over- / under-",
+     "rewrite, overcook, underestimate",
+     "otra vez / demasiado / demasiado poco"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Familias de palabras"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.2,
+    4.2,
+    4.6
+   ],
+   "head": [
+    "Verbo",
+    "Sustantivo",
+    "Adjetivo",
+    "Adverbio"
+   ],
+   "rows": [
+    [
+     "succeed",
+     "success",
+     "successful",
+     "successfully"
+    ],
+    [
+     "create",
+     "creation, creativity",
+     "creative",
+     "creatively"
+    ],
+    [
+     "decide",
+     "decision",
+     "decisive",
+     "decisively"
+    ],
+    [
+     "believe",
+     "belief",
+     "believable",
+     "—"
+    ],
+    [
+     "compete",
+     "competition",
+     "competitive",
+     "competitively"
+    ],
+    [
+     "—",
+     "danger",
+     "dangerous",
+     "dangerously"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I'm boring. Let's go out.",
+     "I'm bored. Let's go out.",
+     "Cómo te sientes: -ed."
+    ],
+    [
+     "It was a very interested book.",
+     "It was a very interesting book.",
+     "Lo que causa el sentimiento: -ing."
+    ],
+    [
+     "That's unpossible.",
+     "That's impossible.",
+     "Delante de p: im-."
+    ],
+    [
+     "She drives very careful.",
+     "She drives very carefully.",
+     "Con un verbo: adverbio en -ly."
+    ],
+    [
+     "He made a good decide.",
+     "He made a good decision.",
+     "Sustantivo: decision."
+    ],
+    [
+     "Smoking is unlegal here.",
+     "Smoking is illegal here.",
+     "Delante de l: il-."
+    ],
+    [
+     "I'm agree with you.",
+     "I agree with you.",
+     "agree es un verbo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Forma la palabra correcta a partir de la palabra entre paréntesis. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We need to make a ______ today.",
+     "hint": "decide",
+     "a": "decision",
+     "full": "We need to make a decision today."
+    },
+    {
+     "q": "Thank you for your ______.",
+     "hint": "kind",
+     "a": "kindness",
+     "full": "Thank you for your kindness."
+    },
+    {
+     "q": "The film was really ______.",
+     "hint": "bore",
+     "a": "boring",
+     "full": "The film was really boring."
+    },
+    {
+     "q": "Please drive ______.",
+     "hint": "care",
+     "a": "carefully",
+     "full": "Please drive carefully."
+    },
+    {
+     "q": "It's ______ to park here.",
+     "hint": "legal, contrario",
+     "a": "illegal",
+     "full": "It's illegal to park here."
+    },
+    {
+     "q": "She's a very ______ businesswoman.",
+     "hint": "success",
+     "a": "successful",
+     "full": "She's a very successful businesswoman."
+    },
+    {
+     "q": "This chair isn't very ______.",
+     "hint": "comfort",
+     "a": "comfortable",
+     "full": "This chair isn't very comfortable."
+    },
+    {
+     "q": "There has been a big ______ in his work.",
+     "hint": "improve",
+     "a": "improvement",
+     "full": "There has been a big improvement in his work."
+    },
+    {
+     "q": "Don't be so ______! Wait your turn.",
+     "hint": "patient, contrario",
+     "a": "impatient",
+     "full": "Don't be so impatient! Wait your turn."
+    },
+    {
+     "q": "I think you ______ the question.",
+     "hint": "understand, mal, past",
+     "a": "misunderstood",
+     "full": "I think you misunderstood the question."
+    },
+    {
+     "q": "Climbing without a rope is very ______.",
+     "hint": "danger",
+     "a": "dangerous",
+     "full": "Climbing without a rope is very dangerous."
+    },
+    {
+     "q": "I spent my ______ in a small village.",
+     "hint": "child",
+     "a": "childhood",
+     "full": "I spent my childhood in a small village."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy aburrido.",
+     "a": "I'm bored."
+    },
+    {
+     "q": "Era un libro muy interesante.",
+     "a": "It was a very interesting book."
+    },
+    {
+     "q": "Eso es imposible.",
+     "a": "That's impossible."
+    },
+    {
+     "q": "Ella conduce con mucho cuidado.",
+     "a": "She drives very carefully."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

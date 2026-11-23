@@ -383,5 +383,27 @@
   "subtitle": "Verbos, adjetivos y sustantivos con una preposición fija, by y until, e in, on y at en detalle",
   "content": "b2_06_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_07_Los_articulos_y_los_determinantes",
+  "file": "B2_07_Los_articulos_y_los_determinantes.pdf",
+  "level": "B2",
+  "number": 7,
+  "section": "Gramática",
+  "title": "Los artículos y los determinantes",
+  "subtitle": "the con lugares e instituciones, all, each y every, both, either y neither",
+  "content": "b2_07_articles_determiners.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_08_La_formacion_de_palabras",
+  "file": "B2_08_La_formacion_de_palabras.pdf",
+  "level": "B2",
+  "number": 8,
+  "section": "Vocabulario",
+  "title": "La formación de palabras",
+  "subtitle": "Prefijos y sufijos, familias de palabras de verbo, sustantivo y adjetivo",
+  "content": "b2_08_word_formation.json",
+  "exercise_count": 12
  }
 ]

@@ -1,0 +1,350 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Los artículos y los determinantes",
+  "subtitle": "the con lugares e instituciones, all, each y every, both, either y neither",
+  "footer": "Language Learning · B2 · Gramática · Artículos y determinantes",
+  "next": "Siguiente: B2 · pdf 8 — La formación de palabras"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre <b>the</b> y ningún artículo con lugares, instituciones y afirmaciones generales",
+    "usar <b>all, every, each</b> y <b>whole</b>",
+    "usar <b>both, either, neither</b> y <b>none</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿the o sin artículo?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Situación",
+    "Con the",
+    "Sin artículo"
+   ],
+   "rows": [
+    [
+     "Países",
+     "the Netherlands, the UK, the USA",
+     "France, Spain, Japan"
+    ],
+    [
+     "Mares, ríos y cordilleras",
+     "the Thames, the Atlantic, the Alps",
+     "Lake Como, Mount Everest"
+    ],
+    [
+     "General o concreto",
+     "The coffee in this café is good.",
+     "Coffee is expensive these days."
+    ],
+    [
+     "Instituciones por su función",
+     "I went to the school to see the teacher. (como visita)",
+     "He goes to school. She's in hospital. (como alumno, como paciente)"
+    ],
+    [
+     "Único",
+     "the sun, the internet, the government",
+     "—"
+    ],
+    [
+     "Instrumentos musicales",
+     "She plays the piano.",
+     "—"
+    ],
+    [
+     "Deportes, comidas, idiomas",
+     "—",
+     "play tennis, have lunch, speak Dutch"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El español usa mucho más el artículo",
+   "text": "Es el error de artículo más típico de los hispanohablantes. En general, el inglés no pone the: <i>La vida es corta</i> = <b>Life is short</b>. <i>El café está caro</i> = <b>Coffee is expensive</b>. <i>La gente es amable</i> = <b>People are friendly</b>. <i>Me encanta la música</i> = <b>I love music</b>. <i>Estar en el hospital</i> (como paciente) = <b>be in hospital</b> (británico). Solo cuando hablas de algo concreto: <i>The coffee in this café is good</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. all, every, each, whole"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.4,
+    7.0
+   ],
+   "head": [
+    "Palabra",
+    "Uso",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "every",
+     "todos (como grupo), + singular",
+     "Every student has a laptop."
+    ],
+    [
+     "each",
+     "cada uno por separado, también con dos",
+     "Each child got a present."
+    ],
+    [
+     "all",
+     "+ plural o incontable",
+     "All students must register. All the money is gone."
+    ],
+    [
+     "whole",
+     "todo el, entero, + singular",
+     "the whole day, the whole country"
+    ],
+    [
+     "all day / every day",
+     "todo el día / todos los días",
+     "I worked all day. I work every day."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "every + singular",
+   "text": "Después de <b>every</b> y <b>each</b> van el sustantivo y el verbo en singular: <i>Every room <b>has</b> a bathroom</i> (todas las habitaciones tienen baño). Y <i>everybody</i> también es singular: <i>Everybody <b>is</b> here</i> (están todos)."
+  },
+  {
+   "type": "h1",
+   "text": "3. both, either, neither, none"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.4,
+    7.0
+   ],
+   "head": [
+    "Palabra",
+    "Significado",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "both",
+     "los dos, ambos",
+     "Both my parents are teachers."
+    ],
+    [
+     "either",
+     "uno u otro (de dos)",
+     "You can sit at either end."
+    ],
+    [
+     "neither",
+     "ninguno de los dos",
+     "Neither answer is correct."
+    ],
+    [
+     "none of",
+     "ninguno de (más de dos)",
+     "None of my friends came."
+    ],
+    [
+     "both ... and",
+     "tanto ... como",
+     "She speaks both French and German."
+    ],
+    [
+     "either ... or",
+     "o ... o",
+     "We can either walk or take a taxi."
+    ],
+    [
+     "neither ... nor",
+     "ni ... ni",
+     "He neither smokes nor drinks."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Sin doble negación",
+   "text": "El español dice <i>No vino ninguno</i> o <i>No sabe ninguno de los dos</i>, con dos negaciones. En inglés basta con una: después de <b>neither</b>, <b>nor</b> y <b>none</b> el verbo va en afirmativa: <i>Neither of them <b>knows</b></i>, <i>None of them <b>came</b></i>, nunca <i>didn't come</i>. Y <i>yo tampoco</i> = <b>me neither</b> o <b>neither do I</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "The life is beautiful.",
+     "Life is beautiful.",
+     "En general: sin the."
+    ],
+    [
+     "I live in Netherlands.",
+     "I live in the Netherlands.",
+     "the Netherlands con the."
+    ],
+    [
+     "Every students have a book.",
+     "Every student has a book.",
+     "every + singular."
+    ],
+    [
+     "She plays piano very well.",
+     "She plays the piano very well.",
+     "Los instrumentos llevan the (británico)."
+    ],
+    [
+     "The both answers are wrong.",
+     "Both answers are wrong.",
+     "both sin the delante."
+    ],
+    [
+     "Neither of them don't know.",
+     "Neither of them knows.",
+     "neither con un verbo en afirmativa."
+    ],
+    [
+     "I worked all the day.",
+     "I worked all day.",
+     "all day sin the."
+    ],
+    [
+     "He is in the prison.",
+     "He is in prison.",
+     "Como preso: sin the."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con the o con la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We crossed ______ Atlantic by ship.",
+     "hint": "artículo",
+     "a": "the",
+     "full": "We crossed the Atlantic by ship."
+    },
+    {
+     "q": "My cousin lives in ______ United States.",
+     "hint": "artículo",
+     "a": "the",
+     "full": "My cousin lives in the United States."
+    },
+    {
+     "q": "______ student must bring a dictionary.",
+     "hint": "cada, singular",
+     "a": "Every",
+     "full": "Every student must bring a dictionary."
+    },
+    {
+     "q": "I spent the ______ weekend in bed.",
+     "hint": "entero",
+     "a": "whole",
+     "full": "I spent the whole weekend in bed."
+    },
+    {
+     "q": "______ my brothers live abroad.",
+     "hint": "los dos",
+     "a": "Both",
+     "full": "Both my brothers live abroad."
+    },
+    {
+     "q": "We can ______ go to the cinema or stay at home.",
+     "hint": "o ... o",
+     "a": "either",
+     "full": "We can either go to the cinema or stay at home."
+    },
+    {
+     "q": "______ of my friends could help me.",
+     "hint": "ninguno (más de dos)",
+     "a": "None",
+     "full": "None of my friends could help me."
+    },
+    {
+     "q": "He neither phoned ______ wrote.",
+     "hint": "ni",
+     "a": "nor",
+     "full": "He neither phoned nor wrote."
+    },
+    {
+     "q": "She plays ______ violin in an orchestra.",
+     "hint": "artículo",
+     "a": "the",
+     "full": "She plays the violin in an orchestra."
+    },
+    {
+     "q": "I don't like coffee. — Me ______.",
+     "hint": "yo tampoco",
+     "a": "neither",
+     "full": "I don't like coffee. — Me neither."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "La vida es corta.",
+     "a": "Life is short."
+    },
+    {
+     "q": "Todas las habitaciones tienen baño.",
+     "a": "Every room has a bathroom."
+    },
+    {
+     "q": "Ninguna de las dos respuestas es correcta.",
+     "a": "Neither answer is correct."
+    },
+    {
+     "q": "Ella toca el piano.",
+     "a": "She plays the piano."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
