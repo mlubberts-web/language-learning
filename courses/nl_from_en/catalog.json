@@ -636,5 +636,16 @@
   "subtitle": "Law, medicine, technology, economics and science",
   "content": "c2_09_specialist_vocabulary.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_10_Mastery_phrases",
+  "file": "C2_10_Mastery_phrases.pdf",
+  "level": "C2",
+  "number": 10,
+  "section": "Vocabulary",
+  "title": "Mastery phrases",
+  "subtitle": "Advanced set phrases, literary vocabulary, the last false friends, and the C2 checklist",
+  "content": "c2_10_mastery.json",
+  "exercise_count": 12
  }
 ]

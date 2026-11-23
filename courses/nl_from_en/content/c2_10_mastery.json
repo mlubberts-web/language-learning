@@ -1,0 +1,65 @@
+{
+ "meta": {"level": "C2", "section": "Vocabulary", "number": 10, "total_in_level": 10,
+  "title": "Mastery phrases",
+  "subtitle": "Advanced set phrases, literary vocabulary, the last false friends, and the C2 checklist",
+  "footer": "Language Learning · C2 · Vocabulary · Mastery",
+  "next": "C2 finished: keep practising on the website"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "use advanced set phrases with confidence",
+   "recognise and use literary and formal words",
+   "avoid the last tricky false friends",
+   "measure yourself against the C2 level"]},
+  {"type": "h1", "text": "1. Advanced set phrases"},
+  {"type": "verbpairs", "title": "Discourse and opinion", "items": [
+   ["over het algemeen", "in general"], ["op het eerste gezicht", "at first sight"], ["op de lange termijn", "in the long run"],
+   ["voorlopig", "for the time being"], ["in feite", "in fact, in effect"], ["het spreekt voor zich", "it goes without saying"],
+   ["als het ware", "as it were"], ["in een notendop", "in a nutshell"], ["al met al", "all in all"],
+   ["waar het om gaat, is ...", "the point is ..."], ["zacht uitgedrukt", "to put it mildly"], ["per slot van rekening", "after all"]]},
+  {"type": "verbpairs", "title": "Verbal expressions", "items": [
+   ["als vanzelfsprekend beschouwen", "to take for granted"], ["in twijfel trekken", "to call into question"],
+   ["zich neerleggen bij", "to resign oneself to"], ["in gedachten houden", "to bear in mind"],
+   ["uit het oog verliezen", "to lose sight of"], ["licht werpen op", "to shed light on"],
+   ["aanleiding geven tot", "to give rise to"], ["voor de hand liggen", "to be obvious"]]},
+  {"type": "h1", "text": "2. Literary and formal words"},
+  {"type": "verbpairs", "title": "Literary vocabulary", "items": [
+   ["vergankelijk", "transient, fleeting"], ["sereen", "serene"], ["de weemoed", "melancholy, wistfulness"], ["welsprekend", "eloquent"],
+   ["aangrijpend", "moving, poignant"], ["nauwgezet", "meticulous"], ["alomtegenwoordig", "omnipresent"], ["openhartig", "candid"],
+   ["veerkrachtig", "resilient"], ["vasthoudend", "tenacious"], ["subtiel", "subtle"], ["diepgaand", "in-depth, profound"]]},
+  {"type": "callout", "kind": "warn", "title": "False friends at the highest level", "bullets": [
+   "<b>pathetisch</b> = overly emotional, high-flown, not <i>pathetic</i> (that is <b>zielig</b> or <b>armzalig</b>).",
+   "<b>brutaal</b> = cheeky, impudent, not <i>brutal</i> (that is <b>wreed, meedogenloos</b>).",
+   "<b>kritiek</b> as an adjective = critical (serious): <i>Zijn toestand is kritiek</i>; <b>kritisch</b> = critical (judging).",
+   "<b>eventueel</b> = possibly, if necessary, not <i>eventually</i> (that is <b>uiteindelijk</b>)."]},
+  {"type": "h1", "text": "3. The C2 checklist"},
+  {"type": "callout", "kind": "tip", "title": "You are at C2 when you", "bullets": [
+   "follow fast speech, accents (Holland, Flanders, Limburg), films and radio without effort",
+   "read literature, newspapers and specialist texts and see their tone and intention",
+   "write clear, well-structured texts in the right register, with correct d/t spelling",
+   "express and recognise fine nuances, irony, litotes and modal particles",
+   "recover easily from a mistake and rephrase on the spot"]},
+  {"type": "h1", "text": "4. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Over het ______ was het project een succes.", "hint": "in general", "a": "algemeen", "full": "Over het algemeen was het project een succes."},
+   {"q": "Op de lange ______ wordt duurzame energie goedkoper.", "hint": "in the long run", "a": "termijn", "full": "Op de lange termijn wordt duurzame energie goedkoper."},
+   {"q": "We blijven ______ hier.", "hint": "for the time being", "a": "voorlopig", "full": "We blijven voorlopig hier."},
+   {"q": "In een ______: we hebben meer geld nodig.", "hint": "in a nutshell", "a": "notendop", "full": "In een notendop: we hebben meer geld nodig."},
+   {"q": "We mogen onze gezondheid niet als ______ beschouwen.", "hint": "for granted", "a": "vanzelfsprekend", "full": "We mogen onze gezondheid niet als vanzelfsprekend beschouwen."},
+   {"q": "Dit onderzoek werpt nieuw ______ op een oud raadsel.", "hint": "light", "a": "licht", "full": "Dit onderzoek werpt nieuw licht op een oud raadsel."},
+   {"q": "Het was, zacht ______, een teleurstellende uitslag.", "hint": "put mildly", "a": "uitgedrukt", "full": "Het was, zacht uitgedrukt, een teleurstellende uitslag."},
+   {"q": "Ze werkt heel ______: ze controleert elk detail.", "hint": "meticulous", "a": "nauwgezet", "full": "Ze werkt heel nauwgezet: ze controleert elk detail."},
+   {"q": "Smartphones zijn ______ geworden.", "hint": "omnipresent", "a": "alomtegenwoordig", "full": "Smartphones zijn alomtegenwoordig geworden."},
+   {"q": "Het spreekt voor ______ dat je op tijd komt.", "hint": "it goes without saying", "a": "zich", "full": "Het spreekt voor zich dat je op tijd komt."},
+   {"q": "Per ______ van rekening is hij mijn broer.", "hint": "after all", "a": "slot", "full": "Per slot van rekening is hij mijn broer."},
+   {"q": "Hij was erg ______ tegen de leraar: hij gaf een grote mond.", "hint": "cheeky", "a": "brutaal", "full": "Hij was erg brutaal tegen de leraar: hij gaf een grote mond."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "In general, it was a success.", "a": "Over het algemeen was het een succes."},
+   {"q": "We're staying here for the time being.", "a": "We blijven voorlopig hier."},
+   {"q": "Bear in mind that it's expensive.", "a": "Houd in gedachten dat het duur is."},
+   {"q": "Don't take your health for granted.", "a": "Beschouw je gezondheid niet als vanzelfsprekend."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
