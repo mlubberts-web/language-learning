@@ -1,0 +1,388 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Dar tu opinión, expresiones cotidianas, falsos amigos y los temas del Staatsexamen B1",
+  "footer": "Language Learning · B1 · Vocabulario y expresiones",
+  "next": "Siguiente: B2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende las expresiones como frases enteras, no palabra por palabra.",
+    "Tapa una columna y ponte a prueba en las dos direcciones.",
+    "Estas palabras salen a menudo en el Staatsexamen NT2, Programa I (B1)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Dar tu opinión"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Opiniones y reacciones",
+   "items": [
+    [
+     "Ik vind dat ...",
+     "Creo que ..."
+    ],
+    [
+     "Volgens mij ...",
+     "En mi opinión ..."
+    ],
+    [
+     "Ik ben het met je eens.",
+     "Estoy de acuerdo contigo."
+    ],
+    [
+     "Ik ben het niet met je eens.",
+     "No estoy de acuerdo contigo."
+    ],
+    [
+     "Dat klopt.",
+     "Es correcto."
+    ],
+    [
+     "Dat klopt niet.",
+     "No es correcto."
+    ],
+    [
+     "Daar heb je gelijk in.",
+     "En eso tienes razón."
+    ],
+    [
+     "Ik twijfel.",
+     "No estoy seguro."
+    ],
+    [
+     "Het hangt ervan af.",
+     "Depende."
+    ],
+    [
+     "Wat vind jij ervan?",
+     "¿Qué te parece?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "vinden, denken, geloven",
+   "text": "Para dar una opinión el neerlandés usa <b>vinden</b>: <i>Ik vind het een goed plan</i> (me parece un buen plan), <i>Hoe vind je mijn jas?</i> (¿qué te parece mi abrigo?). <b>denken</b> es para lo que esperas o supones: <i>Ik denk dat het gaat regenen</i> (creo que va a llover). <b>geloven</b> es creer en algo o no estar del todo seguro. Ojo: el español dice <i>creo que</i> en los tres casos; para una opinión, usa vinden."
+  },
+  {
+   "type": "h1",
+   "text": "2. Expresiones muy neerlandesas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones cotidianas",
+   "items": [
+    [
+     "gezellig",
+     "acogedor, agradable, divertido"
+    ],
+    [
+     "Lekker!",
+     "¡Qué bien! ¡Genial!"
+    ],
+    [
+     "Wat jammer.",
+     "Qué lástima."
+    ],
+    [
+     "Prima.",
+     "Vale. Bien."
+    ],
+    [
+     "Het maakt niet uit.",
+     "Da igual."
+    ],
+    [
+     "Geen idee.",
+     "Ni idea."
+    ],
+    [
+     "Dat valt mee.",
+     "No es tan malo como se esperaba."
+    ],
+    [
+     "Dat valt tegen.",
+     "Decepciona."
+    ],
+    [
+     "Doe maar gewoon.",
+     "Compórtate con normalidad."
+    ],
+    [
+     "Even kijken.",
+     "A ver."
+    ],
+    [
+     "Succes!",
+     "¡Suerte!"
+    ],
+    [
+     "Sterkte!",
+     "¡Ánimo! (en momentos difíciles)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "gezellig",
+   "text": "<b>gezellig</b> no tiene traducción exacta en español. Es la sensación cálida y relajada de estar juntos: un café, un cumpleaños, una charla con amigos. Se parece a nuestro <i>buen ambiente</i>. <i>Het was heel gezellig!</i> es el mejor cumplido después de una fiesta."
+  },
+  {
+   "type": "h1",
+   "text": "3. Falsos amigos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.6,
+    7.8
+   ],
+   "head": [
+    "Neerlandés",
+    "Significa",
+    "Cuidado"
+   ],
+   "rows": [
+    [
+     "eventueel",
+     "posiblemente, si hace falta",
+     "como «eventualmente»; «al final» es uiteindelijk"
+    ],
+    [
+     "actueel",
+     "de actualidad, actual",
+     "«en realidad» no es actueel, sino eigenlijk"
+    ],
+    [
+     "brutaal",
+     "descarado, maleducado",
+     "no «brutal» (= wreed)"
+    ],
+    [
+     "slim",
+     "listo, inteligente",
+     "no «delgado» como en inglés (= slank)"
+    ],
+    [
+     "bellen",
+     "llamar por teléfono",
+     "el timbre = de bel"
+    ],
+    [
+     "raar",
+     "raro, extraño",
+     "«raro» = poco frecuente es zeldzaam"
+    ],
+    [
+     "hard",
+     "alto (volumen), rápido (también duro)",
+     "Praat niet zo hard. = No hables tan alto."
+    ],
+    [
+     "durven",
+     "atreverse",
+     "no «durar» (= duren)"
+    ],
+    [
+     "kind",
+     "niño",
+     "no «amable» como en inglés (= aardig)"
+    ],
+    [
+     "arm",
+     "pobre (y brazo)",
+     "Ze zijn erg arm. = Son muy pobres."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Trabajo, estudios y sociedad"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Temas del Staatsexamen B1",
+   "items": [
+    [
+     "de opleiding",
+     "formación, estudios"
+    ],
+    [
+     "het diploma",
+     "diploma, título"
+    ],
+    [
+     "de cursus",
+     "curso"
+    ],
+    [
+     "de werkgever",
+     "empleador, empresa"
+    ],
+    [
+     "de werknemer",
+     "empleado, trabajador"
+    ],
+    [
+     "de uitkering",
+     "prestación, subsidio"
+    ],
+    [
+     "het milieu",
+     "medio ambiente"
+    ],
+    [
+     "de gezondheid",
+     "salud"
+    ],
+    [
+     "de buurt",
+     "barrio"
+    ],
+    [
+     "de vrijwilliger",
+     "voluntario"
+    ],
+    [
+     "het nieuws",
+     "noticias"
+    ],
+    [
+     "de maatschappij",
+     "sociedad"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ het een goed idee.",
+     "hint": "pensar (opinión)",
+     "a": "vind",
+     "full": "Ik vind het een goed idee."
+    },
+    {
+     "q": "Ik ben het niet met je ______.",
+     "hint": "estar de acuerdo",
+     "a": "eens",
+     "full": "Ik ben het niet met je eens."
+    },
+    {
+     "q": "______ mij is dat niet waar.",
+     "hint": "en mi opinión",
+     "a": "volgens",
+     "full": "Volgens mij is dat niet waar."
+    },
+    {
+     "q": "Het feest was heel ______.",
+     "hint": "agradable, buen ambiente",
+     "a": "gezellig",
+     "full": "Het feest was heel gezellig."
+    },
+    {
+     "q": "Het examen was niet zo moeilijk. Het viel ______.",
+     "hint": "no tan malo como se esperaba",
+     "a": "mee",
+     "full": "Het examen was niet zo moeilijk. Het viel mee."
+    },
+    {
+     "q": "Wat ______ dat je niet kunt komen.",
+     "hint": "lástima",
+     "a": "jammer",
+     "full": "Wat jammer dat je niet kunt komen."
+    },
+    {
+     "q": "Koffie of thee? Het maakt niet ______.",
+     "hint": "da igual",
+     "a": "uit",
+     "full": "Koffie of thee? Het maakt niet uit."
+    },
+    {
+     "q": "Hij is heel ______: hij heeft altijd goede cijfers.",
+     "hint": "listo",
+     "a": "slim",
+     "full": "Hij is heel slim: hij heeft altijd goede cijfers."
+    },
+    {
+     "q": "Ik bel je ______ morgen nog even.",
+     "hint": "posiblemente",
+     "a": "eventueel",
+     "full": "Ik bel je eventueel morgen nog even."
+    },
+    {
+     "q": "Praat niet zo ______, de baby slaapt.",
+     "hint": "alto (volumen)",
+     "a": "hard",
+     "full": "Praat niet zo hard, de baby slaapt."
+    },
+    {
+     "q": "Morgen heb je je examen? ______!",
+     "hint": "suerte",
+     "a": "succes",
+     "full": "Morgen heb je je examen? Succes!"
+    },
+    {
+     "q": "Dat ______. Het is precies tien euro.",
+     "hint": "es correcto",
+     "a": "klopt",
+     "full": "Dat klopt. Het is precies tien euro."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "No estoy de acuerdo contigo.",
+     "a": "Ik ben het niet met je eens."
+    },
+    {
+     "q": "Da igual.",
+     "a": "Het maakt niet uit."
+    },
+    {
+     "q": "¿Qué te parece?",
+     "a": "Wat vind jij ervan?"
+    },
+    {
+     "q": "Depende.",
+     "a": "Het hangt ervan af."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

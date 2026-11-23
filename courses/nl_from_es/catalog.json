@@ -306,5 +306,16 @@
   "subtitle": "maar, want, dus, daarom, toch, hoewel, zodat: tres grupos, tres órdenes",
   "content": "b1_09_linking_words.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_10_Vocabulario_y_expresiones",
+  "file": "B1_10_Vocabulario_y_expresiones.pdf",
+  "level": "B1",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Dar tu opinión, expresiones cotidianas, falsos amigos y los temas del Staatsexamen B1",
+  "content": "b1_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
