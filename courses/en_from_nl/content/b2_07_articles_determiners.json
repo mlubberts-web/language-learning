@@ -1,0 +1,75 @@
+{"meta": {"level": "B2", "section": "Grammatica", "number": 7, "total_in_level": 10,
+ "title": "Lidwoorden en bepalingen",
+ "subtitle": "the bij plaatsen en instellingen, all, each en every, both, either en neither",
+ "footer": "Language Learning · B2 · Grammatica · Lidwoorden en bepalingen",
+ "next": "Volgende: B2 · pdf 8 — Woordvorming"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "kiezen tussen <b>the</b> en geen lidwoord bij plaatsen, instellingen en algemene uitspraken",
+  "<b>all, every, each</b> en <b>whole</b> gebruiken",
+  "<b>both, either, neither</b> en <b>none</b> gebruiken"]},
+
+ {"type": "h1", "text": "1. the of geen lidwoord?"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Situatie", "Met the", "Zonder lidwoord"], "rows": [
+  ["Landen", "the Netherlands, the UK, the USA", "France, Spain, Japan"],
+  ["Water en bergketens", "the Thames, the Atlantic, the Alps", "Lake Como, Mount Everest"],
+  ["Algemeen of bepaald", "The coffee in this café is good.", "Coffee is expensive these days."],
+  ["Instellingen als doel", "I went to the school to see the teacher. (als bezoeker)", "He goes to school. She's in hospital. (als leerling, patiënt)"],
+  ["Uniek", "the sun, the internet, the government", "—"],
+  ["Muziekinstrumenten", "She plays the piano.", "—"],
+  ["Sport, maaltijden, talen", "—", "play tennis, have lunch, speak Dutch"]]},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlands gebruikt vaker een lidwoord", "text": "<i>Het leven is kort</i> = <b>Life is short</b>. <i>De natuur</i> = <b>nature</b>. <i>De mens</i> = <b>people / humans</b>. <i>In het ziekenhuis liggen</i> = <b>be in hospital</b> (Brits). Iets in het algemeen krijgt in het Engels geen the."},
+
+ {"type": "h1", "text": "2. all, every, each, whole"},
+ {"type": "table", "style": "plain", "widths": [3.6, 6.4, 7.0], "head": ["Woord", "Gebruik", "Voorbeeld"], "rows": [
+  ["every", "alle (als groep), + enkelvoud", "Every student has a laptop."],
+  ["each", "elk afzonderlijk, ook bij twee", "Each child got a present."],
+  ["all", "+ meervoud of ontelbaar", "All students must register. All the money is gone."],
+  ["whole", "het hele, + enkelvoud", "the whole day, the whole country"],
+  ["all day / every day", "de hele dag / elke dag", "I worked all day. I work every day."]]},
+ {"type": "callout", "kind": "warn", "title": "every + enkelvoud", "text": "Na <b>every</b> en <b>each</b> komt een zelfstandig naamwoord en werkwoord in het enkelvoud: <i>Every room <b>has</b> a bathroom.</i> En <i>everybody</i> is ook enkelvoud: <i>Everybody <b>is</b> here.</i>"},
+
+ {"type": "h1", "text": "3. both, either, neither, none"},
+ {"type": "table", "style": "plain", "widths": [3.6, 6.4, 7.0], "head": ["Woord", "Betekenis", "Voorbeeld"], "rows": [
+  ["both", "allebei (twee)", "Both my parents are teachers."],
+  ["either", "de een of de ander (twee)", "You can sit at either end."],
+  ["neither", "geen van beide (twee)", "Neither answer is correct."],
+  ["none of", "geen van (meer dan twee)", "None of my friends came."],
+  ["both ... and", "zowel ... als", "She speaks both French and German."],
+  ["either ... or", "of ... of", "We can either walk or take a taxi."],
+  ["neither ... nor", "noch ... noch", "He neither smokes nor drinks."]]},
+ {"type": "callout", "kind": "dutch", "title": "Geen dubbele ontkenning", "text": "Na <b>neither</b> en <b>nor</b> staat het werkwoord bevestigend: <i>Neither of them <b>knows</b></i>, niet <i>doesn't know</i>. En <i>ik ook niet</i> = <b>me neither</b> of <b>neither do I</b>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["The life is beautiful.", "Life is beautiful.", "Algemeen: geen the."],
+  ["I live in Netherlands.", "I live in the Netherlands.", "the Netherlands met the."],
+  ["Every students have a book.", "Every student has a book.", "every + enkelvoud."],
+  ["She plays piano very well.", "She plays the piano very well.", "Instrumenten krijgen the (Brits)."],
+  ["The both answers are wrong.", "Both answers are wrong.", "both zonder the ervoor."],
+  ["Neither of them don't know.", "Neither of them knows.", "neither met een bevestigend werkwoord."],
+  ["I worked the all day.", "I worked all day.", "all day zonder the."],
+  ["He is in the prison.", "He is in prison.", "Als gevangene: zonder the."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul the in, of het juiste woord. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "We crossed ______ Atlantic by ship.", "hint": "lidwoord", "a": "the", "full": "We crossed the Atlantic by ship."},
+  {"q": "My cousin lives in ______ United States.", "hint": "lidwoord", "a": "the", "full": "My cousin lives in the United States."},
+  {"q": "______ student must bring a dictionary.", "hint": "elke, enkelvoud", "a": "Every", "full": "Every student must bring a dictionary."},
+  {"q": "I spent the ______ weekend in bed.", "hint": "hele", "a": "whole", "full": "I spent the whole weekend in bed."},
+  {"q": "______ my brothers live abroad.", "hint": "allebei", "a": "Both", "full": "Both my brothers live abroad."},
+  {"q": "We can ______ go to the cinema or stay at home.", "hint": "of ... of", "a": "either", "full": "We can either go to the cinema or stay at home."},
+  {"q": "______ of my friends could help me.", "hint": "geen van (meer dan twee)", "a": "None", "full": "None of my friends could help me."},
+  {"q": "He neither phoned ______ wrote.", "hint": "noch", "a": "nor", "full": "He neither phoned nor wrote."},
+  {"q": "She plays ______ violin in an orchestra.", "hint": "lidwoord", "a": "the", "full": "She plays the violin in an orchestra."},
+  {"q": "I don't like coffee. — Me ______.", "hint": "ik ook niet", "a": "neither", "full": "I don't like coffee. — Me neither."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Het leven is kort.", "a": "Life is short."},
+  {"q": "Elke kamer heeft een badkamer.", "a": "Every room has a bathroom."},
+  {"q": "Geen van beide antwoorden is goed.", "a": "Neither answer is correct."},
+  {"q": "Zij speelt piano.", "a": "She plays the piano."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

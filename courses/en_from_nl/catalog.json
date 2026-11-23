@@ -383,5 +383,27 @@
   "subtitle": "Werkwoord, bijvoeglijk en zelfstandig naamwoord met een vast voorzetsel, by en until, en in, on en at in detail",
   "content": "b2_06_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_07_Lidwoorden_en_bepalingen",
+  "file": "B2_07_Lidwoorden_en_bepalingen.pdf",
+  "level": "B2",
+  "number": 7,
+  "section": "Grammatica",
+  "title": "Lidwoorden en bepalingen",
+  "subtitle": "the bij plaatsen en instellingen, all, each en every, both, either en neither",
+  "content": "b2_07_articles_determiners.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_08_Woordvorming",
+  "file": "B2_08_Woordvorming.pdf",
+  "level": "B2",
+  "number": 8,
+  "section": "Woordenschat",
+  "title": "Woordvorming",
+  "subtitle": "Voorvoegsels en achtervoegsels, woordfamilies van werkwoord, zelfstandig en bijvoeglijk naamwoord",
+  "content": "b2_08_word_formation.json",
+  "exercise_count": 12
  }
 ]
