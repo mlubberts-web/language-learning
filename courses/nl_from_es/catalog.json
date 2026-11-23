@@ -141,5 +141,16 @@
   "subtitle": "El presente para el futuro, gaan + infinitivo, y zullen para promesas y ofrecimientos",
   "content": "a2_04_future_gaan.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_05_Las_oraciones_subordinadas",
+  "file": "A2_05_Las_oraciones_subordinadas.pdf",
+  "level": "A2",
+  "number": 5,
+  "section": "Gramática",
+  "title": "Las oraciones subordinadas",
+  "subtitle": "dat, omdat, als, toen y of: el verbo va al final",
+  "content": "a2_05_subordinate_clauses.json",
+  "exercise_count": 12
  }
 ]

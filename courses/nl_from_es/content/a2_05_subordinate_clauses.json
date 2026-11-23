@@ -1,0 +1,384 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Las oraciones subordinadas",
+  "subtitle": "dat, omdat, als, toen y of: el verbo va al final",
+  "footer": "Language Learning · A2 · Gramática · Oraciones subordinadas",
+  "next": "Siguiente: A2 · pdf 6 — Los verbos reflexivos"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "unir frases con <b>dat, omdat, als, toen, of</b> y otras conjunciones",
+    "poner el verbo al <b>final</b> de una oración subordinada",
+    "empezar una frase con una subordinada: <i>Als het regent, blijf ik thuis</i>",
+    "elegir entre <b>als, toen</b> y <b>wanneer</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El verbo al final"
+  },
+  {
+   "type": "p",
+   "text": "Después de una conjunción subordinante como <b>omdat</b> (porque) o <b>dat</b> (que), todos los verbos van al <b>final</b> de la oración. Es la tercera regla del orden de las palabras, tras el verbo en segundo lugar (A1 · pdf 5) y el infinitivo al final (A1 · pdf 7)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.8,
+    6.4,
+    4.8
+   ],
+   "head": [
+    "Oración principal",
+    "Subordinada",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Ik blijf thuis,",
+     "omdat ik ziek ben.",
+     "porque estoy enfermo."
+    ],
+    [
+     "Ik denk",
+     "dat hij morgen komt.",
+     "que viene mañana."
+    ],
+    [
+     "Ik weet niet",
+     "of ze thuis is.",
+     "si está en casa."
+    ],
+    [
+     "Ik blijf thuis,",
+     "omdat ik moet werken.",
+     "porque tengo que trabajar."
+    ],
+    [
+     "Hij zegt",
+     "dat hij het gedaan heeft.",
+     "que lo ha hecho."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El español mantiene el orden, el neerlandés no",
+   "text": "El español dice <i>porque estoy enfermo</i>, con el mismo orden que una oración principal. El neerlandés manda el verbo al final: <b>omdat ik ziek ben</b>. Con dos verbos, los dos van al final: <i>omdat ik <b>moet werken</b></i>, <i>dat hij het <b>gedaan heeft</b></i> (o <i>heeft gedaan</i>: los dos órdenes son correctos)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Las conjunciones"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Conjunciones subordinantes",
+   "items": [
+    [
+     "dat",
+     "que"
+    ],
+    [
+     "omdat",
+     "porque"
+    ],
+    [
+     "als",
+     "si, cuando (presente o futuro)"
+    ],
+    [
+     "toen",
+     "cuando (una vez en el pasado)"
+    ],
+    [
+     "of",
+     "si (pregunta indirecta)"
+    ],
+    [
+     "wanneer",
+     "cuándo, cada vez que"
+    ],
+    [
+     "terwijl",
+     "mientras"
+    ],
+    [
+     "voordat",
+     "antes de que"
+    ],
+    [
+     "nadat",
+     "después de que"
+    ],
+    [
+     "zodat",
+     "para que, de modo que"
+    ],
+    [
+     "hoewel",
+     "aunque"
+    ],
+    [
+     "totdat",
+     "hasta que"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.4,
+    6.6
+   ],
+   "head": [
+    "Palabra",
+    "Uso",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "als",
+     "si, o cuando (presente y futuro)",
+     "Als ik tijd heb, kom ik."
+    ],
+    [
+     "toen",
+     "cuando, un momento del pasado",
+     "Toen ik jong was, woonde ik in Leeds."
+    ],
+    [
+     "wanneer",
+     "cuándo (pregunta), cada vez que",
+     "Wanneer kom je? Ik weet niet wanneer hij komt."
+    ],
+    [
+     "of",
+     "si (pregunta indirecta de sí o no)",
+     "Ik weet niet of hij komt."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Un 'si' español, dos palabras: als y of",
+   "text": "<i>Si llueve, me quedo en casa</i> = <b>Als</b> het regent ...; pero <i>No sé si viene</i> = Ik weet niet <b>of</b> hij komt. Y <i>cuando</i> tiene tres traducciones: <b>als</b> (presente y futuro: <i>cuando llegue</i> = <i>als ik aankom</i>, sin subjuntivo), <b>toen</b> (una vez en el pasado) y <b>wanneer</b> (pregunta). Además, <i>porque</i> puede ser <b>omdat</b> (verbo al final) o <b>want</b> (orden normal): <i>want ik <b>ben</b> moe</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Empezar con una subordinada"
+  },
+  {
+   "type": "p",
+   "text": "Una subordinada puede ir delante. Entonces cuenta como el <b>primer elemento</b> de la frase, así que el verbo de la oración principal va justo después de la coma: <i>Als het regent, <b>blijf</b> ik thuis.</i> Queda verbo – coma – verbo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    3.0,
+    6.6
+   ],
+   "head": [
+    "Subordinada (lugar 1)",
+    "Verbo (2)",
+    "Resto"
+   ],
+   "rows": [
+    [
+     "Als het morgen regent,",
+     "blijf",
+     "ik thuis."
+    ],
+    [
+     "Toen ik thuiskwam,",
+     "was",
+     "iedereen al weg."
+    ],
+    [
+     "Omdat de trein laat was,",
+     "kwam",
+     "ik te laat."
+    ],
+    [
+     "Hoewel het koud is,",
+     "gaan",
+     "we zwemmen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "omdat ik ben ziek",
+     "omdat ik ziek ben",
+     "Tras omdat: el verbo al final."
+    ],
+    [
+     "Ik denk dat hij komt morgen.",
+     "Ik denk dat hij morgen komt.",
+     "El verbo al final."
+    ],
+    [
+     "Als het regent, ik blijf thuis.",
+     "Als het regent, blijf ik thuis.",
+     "Tras la subordinada: el verbo."
+    ],
+    [
+     "Als ik jong was, woonde ik in Leeds.",
+     "Toen ik jong was, woonde ik in Leeds.",
+     "Una vez en el pasado: toen."
+    ],
+    [
+     "Ik weet niet als hij komt.",
+     "Ik weet niet of hij komt.",
+     "Si (indirecto): of."
+    ],
+    [
+     "want ik moe ben",
+     "want ik ben moe",
+     "Tras want: orden normal."
+    ],
+    [
+     "omdat ik moet werken vandaag",
+     "omdat ik vandaag moet werken",
+     "Los dos verbos al final."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la conjunción correcta o pon el verbo en su sitio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik blijf thuis, omdat ik ziek ______.",
+     "hint": "zijn",
+     "a": "ben",
+     "full": "Ik blijf thuis, omdat ik ziek ben."
+    },
+    {
+     "q": "Ik denk ______ hij gelijk heeft.",
+     "hint": "que",
+     "a": "dat",
+     "full": "Ik denk dat hij gelijk heeft."
+    },
+    {
+     "q": "______ het regent, blijf ik binnen.",
+     "hint": "si",
+     "a": "als",
+     "full": "Als het regent, blijf ik binnen."
+    },
+    {
+     "q": "______ ik klein was, woonde ik in Engeland.",
+     "hint": "cuando, pasado",
+     "a": "toen",
+     "full": "Toen ik klein was, woonde ik in Engeland."
+    },
+    {
+     "q": "Weet jij ______ de winkel open is?",
+     "hint": "si (indirecto)",
+     "a": "of",
+     "full": "Weet jij of de winkel open is?"
+    },
+    {
+     "q": "Als ik tijd heb, ______ ik je.",
+     "hint": "helpen",
+     "a": "help",
+     "full": "Als ik tijd heb, help ik je."
+    },
+    {
+     "q": "Ik kom niet, want ik ______ geen tijd.",
+     "hint": "hebben",
+     "a": "heb",
+     "full": "Ik kom niet, want ik heb geen tijd."
+    },
+    {
+     "q": "Ze belde ______ ik aan het koken was.",
+     "hint": "mientras",
+     "a": "terwijl",
+     "full": "Ze belde terwijl ik aan het koken was."
+    },
+    {
+     "q": "Ik weet niet ______ de film begint.",
+     "hint": "cuándo",
+     "a": "wanneer",
+     "full": "Ik weet niet wanneer de film begint."
+    },
+    {
+     "q": "______ het koud is, gaan we zwemmen.",
+     "hint": "aunque",
+     "a": "hoewel",
+     "full": "Hoewel het koud is, gaan we zwemmen."
+    },
+    {
+     "q": "Hij zegt dat hij morgen niet kan ______.",
+     "hint": "komen",
+     "a": "komen",
+     "full": "Hij zegt dat hij morgen niet kan komen."
+    },
+    {
+     "q": "Was je handen ______ je gaat eten.",
+     "hint": "antes de que",
+     "a": "voordat",
+     "full": "Was je handen voordat je gaat eten."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me quedo en casa porque estoy enfermo.",
+     "a": "Ik blijf thuis omdat ik ziek ben."
+    },
+    {
+     "q": "Creo que él tiene razón.",
+     "a": "Ik denk dat hij gelijk heeft."
+    },
+    {
+     "q": "Si llueve, me quedo en casa.",
+     "a": "Als het regent, blijf ik thuis."
+    },
+    {
+     "q": "No sé si ella viene.",
+     "a": "Ik weet niet of ze komt."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
