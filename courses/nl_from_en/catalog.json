@@ -471,5 +471,16 @@
   "subtitle": "Nominalisation, formal prepositional phrases, er is sprake van, formal vocabulary and the CNaVT PAT tasks",
   "content": "c1_04_nominal_academic.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_05_Participles_and_shortened_clauses",
+  "file": "C1_05_Participles_and_shortened_clauses.pdf",
+  "level": "C1",
+  "number": 5,
+  "section": "Grammar",
+  "title": "Participles and shortened clauses",
+  "subtitle": "lopend and de huilende baby, al lachend, de gestolen fiets, and when to use a clause instead of -ing",
+  "content": "c1_05_participles.json",
+  "exercise_count": 12
  }
 ]
