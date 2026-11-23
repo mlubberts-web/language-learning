@@ -372,5 +372,16 @@
   "subtitle": "-heid, -ing, -te, -baar, -loos, on-, compound nouns written as one word, and the linking -s- and -en-",
   "content": "b2_05_word_formation.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_06_Adjectives_and_adverbs_in_depth",
+  "file": "B2_06_Adjectives_and_adverbs_in_depth.pdf",
+  "level": "B2",
+  "number": 6,
+  "section": "Grammar",
+  "title": "Adjectives and adverbs in depth",
+  "subtitle": "-e after geen, elk and zo'n; iets nieuws; fixed phrases without -e; and adverbs without -ly",
+  "content": "b2_06_adjectives_adverbs.json",
+  "exercise_count": 12
  }
 ]
