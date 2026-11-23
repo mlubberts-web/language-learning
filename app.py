@@ -287,16 +287,26 @@ def backup_text():
     return json.dumps(every, ensure_ascii=False, indent=1)
 
 
+def part_of(file_name):
+    """Which part a separate results file holds, from its name: the files of the open course in
+    the results folder (es_from_en_progress.json ...), or progress.json ... of the original Spanish
+    app. Files of another course give None, so they can't end up in this course."""
+    for part, old_name in PARTS.items():
+        if file_name in (old_name, course.results_file(part).name):
+            return part
+    return None
+
+
 def read_uploads(files):
-    """The parts in the uploaded files: a backup from the button above, or the separate files
-    progress.json, practice.json and study_log.json from the app on your own computer."""
+    """The parts in the uploaded files: a backup from the button above, or the separate results
+    files of this course from the app on your own computer."""
     found = {}
     for file in files:
         try:
             data = json.loads(file.getvalue().decode("utf-8"))
         except (ValueError, UnicodeDecodeError):
             continue  # not a JSON file
-        part = next((p for p, file_name in PARTS.items() if file.name == file_name), None)
+        part = part_of(file.name)
         if part:
             found[part] = data
         elif isinstance(data, dict) and set(data) & set(PARTS):  # & keeps what both sets have
@@ -327,8 +337,9 @@ def your_data():
             st.success(t("Put back: {files}.", files=st.session_state.pop("restored")))
         files = st.file_uploader(t("Put back a backup"), type="json", accept_multiple_files=True,
                                  key="backup_upload",
-                                 help=t("A backup from the button above, or progress.json, practice.json "
-                                        "and study_log.json from the app on your own computer."))
+                                 help=t("A backup from the button above, or the files of this course in the "
+                                        "results folder of the app on your own computer, such as {file}.",
+                                        file=course.results_file("practice").name))
         found = read_uploads(files or [])
         if files and not found:
             st.warning(t("These files don't hold any results."))

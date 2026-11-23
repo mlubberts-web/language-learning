@@ -18,7 +18,7 @@
  "40 questions, 30 minutes": "40 vragen, 30 minuten",
  "60 questions, 45 minutes": "60 vragen, 45 minuten",
  "A PDF counts as read when you opened all its pages or marked it as done. An exercise is one exercise type of a PDF or list, finished when every question was answered once. Mastered: right on your last first try.": "Een pdf telt als gelezen als je alle pagina's hebt geopend of hem als klaar hebt gemarkeerd. Een oefening is één oefentype van een pdf of lijst, klaar als elke vraag één keer beantwoord is. Beheerst: goed bij je laatste eerste poging.",
- "A backup from the button above, or progress.json, practice.json and study_log.json from the app on your own computer.": "Een back-up van de knop hierboven, of progress.json, practice.json en study_log.json van de app op je eigen computer.",
+ "A backup from the button above, or the files of this course in the results folder of the app on your own computer, such as {file}.": "Een back-up van de knop hierboven, of de bestanden van deze cursus in de map results van de app op je eigen computer, zoals {file}.",
  "A higher level needs a later date.": "Een hoger niveau heeft een latere datum nodig.",
  "A mix of all exercise types, one attempt each, with no feedback until the end.": "Een mix van alle oefentypes, één poging per vraag, zonder feedback tot het einde.",
  "Account": "Account",

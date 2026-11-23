@@ -18,7 +18,7 @@
  "40 questions, 30 minutes": "40 preguntas, 30 minutos",
  "60 questions, 45 minutes": "60 preguntas, 45 minutos",
  "A PDF counts as read when you opened all its pages or marked it as done. An exercise is one exercise type of a PDF or list, finished when every question was answered once. Mastered: right on your last first try.": "Un PDF cuenta como leído cuando has abierto todas sus páginas o lo has marcado como terminado. Un ejercicio es un tipo de ejercicio de un PDF o lista, terminado cuando has respondido cada pregunta una vez. Dominada: correcta en tu último primer intento.",
- "A backup from the button above, or progress.json, practice.json and study_log.json from the app on your own computer.": "Una copia del botón de arriba, o progress.json, practice.json y study_log.json de la aplicación en tu propio ordenador.",
+ "A backup from the button above, or the files of this course in the results folder of the app on your own computer, such as {file}.": "Una copia del botón de arriba, o los archivos de este curso en la carpeta results de la aplicación en tu propio ordenador, como {file}.",
  "A higher level needs a later date.": "Un nivel más alto necesita una fecha posterior.",
  "A mix of all exercise types, one attempt each, with no feedback until the end.": "Una mezcla de todos los tipos de ejercicio, un intento por pregunta, sin corrección hasta el final.",
  "Account": "Cuenta",
