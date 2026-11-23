@@ -559,5 +559,16 @@
   "subtitle": "El orden de los pronombres (Ik heb het hem gegeven), los grupos verbales «rojo» y «verde», y las oraciones tras los verbos",
   "content": "c2_02_advanced_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_03_Oraciones_complejas",
+  "file": "C2_03_Oraciones_complejas.pdf",
+  "level": "C2",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Oraciones complejas",
+  "subtitle": "Subordinadas encadenadas, hoe ... ook y wat ... ook, al y ook al, nu, naarmate, zonder dat, y cómo mantener claras las frases largas",
+  "content": "c2_03_complex_sentences.json",
+  "exercise_count": 10
  }
 ]

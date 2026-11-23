@@ -1,0 +1,372 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Oraciones complejas",
+  "subtitle": "Subordinadas encadenadas, hoe ... ook y wat ... ook, al y ook al, nu, naarmate, zonder dat, y cómo mantener claras las frases largas",
+  "footer": "Language Learning · C2 · Gramática · Oraciones complejas",
+  "next": "Siguiente: C2 · pdf 4 — Los patrones verbales a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "encadenar subordinadas sin perder el hilo",
+    "usar <b>hoe ... ook, wat ... ook, waar ... ook</b> (por mucho que, hagas lo que hagas, vayas donde vayas)",
+    "usar <b>al</b> y <b>ook al</b> concesivos, con su orden especial",
+    "usar <b>nu, naarmate, zonder dat, in plaats van dat</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Subordinadas encadenadas"
+  },
+  {
+   "type": "p",
+   "text": "Cada subordinada manda sus propios verbos a su propio final: <i>Ik denk <b>dat</b> hij zei <b>dat</b> hij morgen <b>zou komen</b>.</i> (Creo que dijo que vendría mañana.) Lee y escribe una oración cada vez. Con más de dos niveles, piensa en partir la frase: a los lectores neerlandeses no les gustan las cadenas muy largas, que en español son más habituales."
+  },
+  {
+   "type": "h1",
+   "text": "2. hoe ... ook, wat ... ook"
+  },
+  {
+   "type": "p",
+   "text": "Para <i>por mucho que, hagas lo que hagas, vayas donde vayas, gane quien gane</i>, el neerlandés usa la palabra interrogativa + <b>ook</b> en una subordinada (verbo al final), con el verbo en indicativo, no en subjuntivo. La oración principal que sigue mantiene su <b>orden normal</b>, sin inversión."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.6,
+    5.4,
+    4.0
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Hoe hard ik ook werk, het is nooit genoeg.",
+     "Por mucho que trabaje, nunca es suficiente.",
+     "sin inversión después"
+    ],
+    [
+     "Wat je ook doet, vertel het haar niet.",
+     "Hagas lo que hagas, no se lo digas.",
+     ""
+    ],
+    [
+     "Waar je ook gaat, je vindt toeristen.",
+     "Vayas donde vayas, encontrarás turistas.",
+     ""
+    ],
+    [
+     "Wie er ook wint, het wordt spannend.",
+     "Gane quien gane, será emocionante.",
+     "wie er ook"
+    ],
+    [
+     "Hoe dan ook, we gaan door.",
+     "Sea como sea, seguimos adelante.",
+     "fija: hoe dan ook"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. al y ook al: aunque"
+  },
+  {
+   "type": "p",
+   "text": "El <b>al</b> concesivo (aunque, aun cuando) tiene un orden especial: el verbo va <b>justo después de al</b>, y la oración principal mantiene el orden normal: <i><b>Al regent</b> het, we gaan toch</i> (aunque llueva, vamos igualmente). <b>ook al</b> funciona igual y es más frecuente al hablar: <i><b>Ook al regent</b> het, we gaan toch.</i> Ojo: el español usa aquí subjuntivo (<i>aunque llueva</i>); el neerlandés, indicativo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    5.8,
+    3.8
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Orden"
+   ],
+   "rows": [
+    [
+     "Al is hij rijk, hij is niet gelukkig.",
+     "Aunque es rico, no es feliz.",
+     "al + verbo"
+    ],
+    [
+     "Ook al is hij rijk, hij is niet gelukkig.",
+     "lo mismo",
+     "ook al + verbo"
+    ],
+    [
+     "Hij is niet gelukkig, ook al is hij rijk.",
+     "No es feliz, aunque sea rico.",
+     ""
+    ],
+    [
+     "Hoewel hij rijk is, is hij niet gelukkig.",
+     "Aunque es rico, no es feliz.",
+     "hoewel: inversión después"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Dos excepciones al verbo en segunda posición",
+   "text": "Tras una oración con <b>hoe ... ook</b>, <b>wat ... ook</b> o <b>al</b>, la oración principal <b>no</b> se invierte: <i>Wat je ook doet, <b>je</b> moet het goed doen.</i> Tras cualquier otra subordinada, sí: <i>Hoewel het regent, <b>gaan</b> we.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Más palabras subordinantes"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras subordinantes de nivel C2",
+   "items": [
+    [
+     "nu",
+     "ahora que"
+    ],
+    [
+     "naarmate",
+     "a medida que"
+    ],
+    [
+     "zonder dat",
+     "sin que"
+    ],
+    [
+     "in plaats van dat",
+     "en lugar de que"
+    ],
+    [
+     "ofschoon",
+     "si bien, aunque (formal)"
+    ],
+    [
+     "zolang",
+     "mientras, siempre que"
+    ],
+    [
+     "voor zover",
+     "en la medida en que, que yo sepa"
+    ],
+    [
+     "opdat",
+     "de modo que (formal)"
+    ],
+    [
+     "indien",
+     "si, en caso de que (formal)"
+    ],
+    [
+     "tenzij",
+     "a menos que"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.6,
+    6.0,
+    3.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Palabra"
+   ],
+   "rows": [
+    [
+     "Nu je er toch bent, kun je helpen.",
+     "Ahora que estás aquí, puedes ayudar.",
+     "nu"
+    ],
+    [
+     "Naarmate je ouder wordt, ga je anders denken.",
+     "A medida que te haces mayor, piensas de otra manera.",
+     "naarmate"
+    ],
+    [
+     "Hij vertrok zonder dat iemand het merkte.",
+     "Se fue sin que nadie se diera cuenta.",
+     "zonder dat"
+    ],
+    [
+     "Voor zover ik weet, komt hij niet.",
+     "Que yo sepa, no viene.",
+     "voor zover"
+    ],
+    [
+     "Indien u vragen hebt, kunt u bellen.",
+     "Si tiene alguna pregunta, llame.",
+     "indien"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Wat je ook doet, moet je het goed doen.",
+     "Wat je ook doet, je moet het goed doen.",
+     "Tras wat ... ook: sin inversión."
+    ],
+    [
+     "Al het regent, we gaan toch.",
+     "Al regent het, we gaan toch.",
+     "Tras al: el verbo primero."
+    ],
+    [
+     "Hoe hard ik werk ook, het is niet genoeg.",
+     "Hoe hard ik ook werk, het is niet genoeg.",
+     "ook delante del verbo."
+    ],
+    [
+     "Nu dat je er bent, kun je helpen.",
+     "Nu je er bent, kun je helpen.",
+     "Ahora que: nu, sin dat."
+    ],
+    [
+     "Hij vertrok zonder iemand het merkte.",
+     "Hij vertrok zonder dat iemand het merkte.",
+     "Con un sujeto nuevo (sin que): zonder dat."
+    ],
+    [
+     "Hoe dan ook we gaan door.",
+     "Hoe dan ook, we gaan door.",
+     "Coma tras hoe dan ook.",
+     "consejo"
+    ],
+    [
+     "Voor zover ik weet hij komt niet.",
+     "Voor zover ik weet, komt hij niet.",
+     "Tras voor zover: inversión."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Hoe hard ik ______ werk, het is nooit genoeg.",
+     "hint": "por mucho que",
+     "a": "ook",
+     "full": "Hoe hard ik ook werk, het is nooit genoeg."
+    },
+    {
+     "q": "______ je ook doet, vertel het niet aan je moeder.",
+     "hint": "hagas lo que hagas",
+     "a": "wat",
+     "full": "Wat je ook doet, vertel het niet aan je moeder."
+    },
+    {
+     "q": "______ regent het, we gaan toch wandelen.",
+     "hint": "aunque",
+     "a": "al",
+     "full": "Al regent het, we gaan toch wandelen."
+    },
+    {
+     "q": "Hoe dan ______, we moeten een besluit nemen.",
+     "hint": "sea como sea",
+     "a": "ook",
+     "full": "Hoe dan ook, we moeten een besluit nemen."
+    },
+    {
+     "q": "______ je er toch bent, kun je me helpen.",
+     "hint": "ahora que",
+     "a": "nu",
+     "full": "Nu je er toch bent, kun je me helpen."
+    },
+    {
+     "q": "______ je ouder wordt, word je wijzer.",
+     "hint": "a medida que",
+     "a": "naarmate",
+     "full": "Naarmate je ouder wordt, word je wijzer."
+    },
+    {
+     "q": "Hij vertrok zonder ______ iemand het merkte.",
+     "hint": "sin que nadie",
+     "a": "dat",
+     "full": "Hij vertrok zonder dat iemand het merkte."
+    },
+    {
+     "q": "Voor ______ ik weet, is de winkel open.",
+     "hint": "que yo sepa",
+     "a": "zover",
+     "full": "Voor zover ik weet, is de winkel open."
+    },
+    {
+     "q": "______ u vragen hebt, kunt u ons bellen.",
+     "hint": "si, formal",
+     "a": "indien",
+     "full": "Indien u vragen hebt, kunt u ons bellen."
+    },
+    {
+     "q": "Wie er ook ______, het wordt een spannende wedstrijd.",
+     "hint": "winnen",
+     "a": "wint",
+     "full": "Wie er ook wint, het wordt een spannende wedstrijd."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hagas lo que hagas, no se lo digas.",
+     "a": "Wat je ook doet, vertel het haar niet."
+    },
+    {
+     "q": "Aunque llueve, vamos.",
+     "a": "Al regent het, we gaan toch."
+    },
+    {
+     "q": "Ahora que estás aquí, puedes ayudar.",
+     "a": "Nu je er bent, kun je helpen."
+    },
+    {
+     "q": "Que yo sepa, no viene.",
+     "a": "Voor zover ik weet, komt hij niet."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
