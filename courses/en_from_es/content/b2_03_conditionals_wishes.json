@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Las condicionales 3, las mixtas y los deseos",
+  "subtitle": "would have, las condicionales mixtas, wish e if only, it's time e I'd rather",
+  "footer": "Language Learning · B2 · Gramática · Condicionales y deseos",
+  "next": "Siguiente: B2 · pdf 4 — La voz pasiva avanzada"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hablar de algo que no pasó en el pasado (<b>third conditional</b>)",
+    "mezclar pasado y presente en una misma condicional",
+    "expresar deseos y arrepentimiento con <b>wish</b> e <b>if only</b>",
+    "usar <b>it's time</b>, <b>I'd rather</b> y <b>as if</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La third conditional"
+  },
+  {
+   "type": "p",
+   "text": "Para algo que <b>no</b> pasó en el pasado y su consecuencia imaginaria: <b>if + past perfect</b>, <b>would have + participio</b>. Es el <i>si hubiera ..., habría ...</i> del español."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Realidad"
+   ],
+   "rows": [
+    [
+     "If I had studied, I would have passed.",
+     "No estudié y suspendí."
+    ],
+    [
+     "If we hadn't missed the train, we wouldn't have been late.",
+     "Perdimos el tren."
+    ],
+    [
+     "She would have come if you had asked her.",
+     "No se lo pediste."
+    ],
+    [
+     "What would you have done if you had lost?",
+     "No perdiste."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Si lo hubiera sabido = If I had known",
+   "text": "El español dice <i>Si lo hubiera sabido, habría venido</i> (o <i>hubiera venido</i>). El inglés tiene una forma fija: <b>If I had known, I would have come.</b> Como <i>hubiera</i> puede ir en las dos partes en español, es fácil decir <i>If I would have known</i>: es incorrecto. Después de if va siempre <b>had</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "'d = had o would",
+   "text": "En la forma corta <i>If I'd known, I'd have come</i> la primera 'd es <b>had</b> y la segunda <b>would</b>. Después de if va siempre had."
+  },
+  {
+   "type": "h1",
+   "text": "2. Las condicionales mixtas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Patrón",
+    "Ejemplo",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "condición pasada, consecuencia presente",
+     "If I had taken that job, I would be rich now.",
+     "no acepté el trabajo, no soy rico"
+    ],
+    [
+     "condición presente, consecuencia pasada",
+     "If I were braver, I would have said something.",
+     "no soy valiente, no dije nada"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. wish e if only"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Deseo sobre",
+    "Forma y ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "el presente (no es así)",
+     "wish + past simple: I wish I had more time.",
+     "Ojalá tuviera más tiempo."
+    ],
+    [
+     "el pasado (arrepentimiento)",
+     "wish + past perfect: I wish I hadn't said that.",
+     "Ojalá no hubiera dicho eso."
+    ],
+    [
+     "el comportamiento de otro (fastidio)",
+     "wish + would: I wish you would stop talking.",
+     "A ver si te callas de una vez."
+    ],
+    [
+     "capacidad",
+     "wish + could: I wish I could swim.",
+     "Ojalá supiera nadar."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Ojalá = I wish",
+   "text": "Donde el español usa <i>ojalá</i> + imperfecto de subjuntivo, el inglés usa <b>wish</b> + past simple: <i>Ojalá fuera rico</i> = <b>I wish I were (was) rich</b>. Y con el pluscuamperfecto de subjuntivo, past perfect: <i>Ojalá hubiera escuchado</i> = <b>I wish I had listened</b>. Ojo: para un deseo sobre el futuro (<i>ojalá llueva mañana</i>) se usa <b>I hope</b>: <b>I hope it rains tomorrow</b>. <b>If only</b> es más fuerte: <i>If only I had listened!</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. it's time, I'd rather, as if"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Expresión",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "it's time + past simple",
+     "It's time we went home.",
+     "Ya es hora de que nos vayamos a casa."
+    ],
+    [
+     "I'd rather + verbo",
+     "I'd rather stay in tonight.",
+     "Prefiero quedarme en casa esta noche."
+    ],
+    [
+     "I'd rather + persona + past",
+     "I'd rather you didn't smoke.",
+     "Prefiero que no fumes."
+    ],
+    [
+     "as if / as though",
+     "He talks as if he knew everything.",
+     "Habla como si lo supiera todo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "If I would have known, I would have come.",
+     "If I had known, I would have come.",
+     "Después de if: past perfect."
+    ],
+    [
+     "If she had asked, I had helped her.",
+     "If she had asked, I would have helped her.",
+     "En la frase principal: would have."
+    ],
+    [
+     "I wish I have more money.",
+     "I wish I had more money.",
+     "wish sobre el presente: past simple."
+    ],
+    [
+     "I wish I didn't say that yesterday.",
+     "I wish I hadn't said that yesterday.",
+     "Arrepentimiento sobre el pasado: past perfect."
+    ],
+    [
+     "It's time we go home.",
+     "It's time we went home.",
+     "it's time + past simple."
+    ],
+    [
+     "I'd rather to stay here.",
+     "I'd rather stay here.",
+     "Después de I'd rather no va to."
+    ],
+    [
+     "If I had taken the job, I would have been rich now.",
+     "If I had taken the job, I would be rich now.",
+     "Consecuencia presente: would + verbo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "If I ______ the answer, I would have told you.",
+     "hint": "know",
+     "a": "had known",
+     "full": "If I had known the answer, I would have told you."
+    },
+    {
+     "q": "If we had left earlier, we ______ the train.",
+     "hint": "catch",
+     "a": "would have caught",
+     "full": "If we had left earlier, we would have caught the train."
+    },
+    {
+     "q": "I wish I ______ taller.",
+     "hint": "be",
+     "a": "were",
+     "full": "I wish I were taller."
+    },
+    {
+     "q": "I wish I ______ to the party last night.",
+     "hint": "go, arrepentimiento",
+     "a": "had gone",
+     "full": "I wish I had gone to the party last night."
+    },
+    {
+     "q": "I wish you ______ stop interrupting me!",
+     "hint": "fastidio",
+     "a": "would",
+     "full": "I wish you would stop interrupting me!"
+    },
+    {
+     "q": "If only I ______ speak Chinese.",
+     "hint": "poder",
+     "a": "could",
+     "full": "If only I could speak Chinese."
+    },
+    {
+     "q": "It's time you ______ a job.",
+     "hint": "get",
+     "a": "got",
+     "full": "It's time you got a job."
+    },
+    {
+     "q": "I'd rather ______ at home tonight.",
+     "hint": "stay",
+     "a": "stay",
+     "full": "I'd rather stay at home tonight."
+    },
+    {
+     "q": "If she had taken the medicine, she ______ better now.",
+     "hint": "feel, ahora",
+     "a": "would feel",
+     "full": "If she had taken the medicine, she would feel better now."
+    },
+    {
+     "q": "He looks ______ if he hasn't slept for days.",
+     "hint": "como si",
+     "a": "as",
+     "full": "He looks as if he hasn't slept for days."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Si lo hubiera sabido, habría venido.",
+     "a": "If I had known, I would have come."
+    },
+    {
+     "q": "Ojalá tuviera más tiempo.",
+     "a": "I wish I had more time."
+    },
+    {
+     "q": "Ojalá no hubiera dicho eso.",
+     "a": "I wish I hadn't said that."
+    },
+    {
+     "q": "Ya es hora de que nos vayamos a casa.",
+     "a": "It's time we went home."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

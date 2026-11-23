@@ -339,5 +339,27 @@
   "subtitle": "future continuous, future perfect, be about to, be due to y el futuro en el pasado",
   "content": "b2_02_future_forms.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_03_Las_condicionales_3_las_mixtas_y_los_deseos",
+  "file": "B2_03_Las_condicionales_3_las_mixtas_y_los_deseos.pdf",
+  "level": "B2",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Las condicionales 3, las mixtas y los deseos",
+  "subtitle": "would have, las condicionales mixtas, wish e if only, it's time e I'd rather",
+  "content": "b2_03_conditionals_wishes.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_04_La_voz_pasiva_avanzada",
+  "file": "B2_04_La_voz_pasiva_avanzada.pdf",
+  "level": "B2",
+  "number": 4,
+  "section": "Gramática",
+  "title": "La voz pasiva avanzada",
+  "subtitle": "it is said that, he is thought to, la pasiva con verbos modales e infinitivos",
+  "content": "b2_04_advanced_passive.json",
+  "exercise_count": 10
  }
 ]

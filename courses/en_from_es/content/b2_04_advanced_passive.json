@@ -1,0 +1,317 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "La voz pasiva avanzada",
+  "subtitle": "it is said that, he is thought to, la pasiva con verbos modales e infinitivos",
+  "footer": "Language Learning · B2 · Gramática · Voz pasiva avanzada",
+  "next": "Siguiente: B2 · pdf 5 — Los phrasal verbs"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "transmitir información sin fuente con <b>it is said that</b> y <b>he is thought to</b>",
+    "usar la pasiva con verbos modales, también en pasado",
+    "usar la pasiva de los infinitivos y de las formas en -ing",
+    "poner en pasiva los verbos con dos complementos"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Lo que se dice y se piensa"
+  },
+  {
+   "type": "p",
+   "text": "En las noticias y en los textos formales a menudo se da información sin decir quién la dice. Hay dos patrones para eso, con verbos como <b>say, think, believe, report, expect, know, consider</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Patrón",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "It is said that ...",
+     "It is said that he is very rich.",
+     "Se dice que es muy rico."
+    ],
+    [
+     "He is said to ...",
+     "He is said to be very rich.",
+     "Al parecer es muy rico."
+    ],
+    [
+     "... to have + participio (pasado)",
+     "The thieves are thought to have escaped.",
+     "Se cree que los ladrones han escapado."
+    ],
+    [
+     "It is expected that ...",
+     "It is expected that prices will rise.",
+     "Se espera que suban los precios."
+    ],
+    [
+     "... is expected to ...",
+     "Prices are expected to rise.",
+     "Previsiblemente, los precios subirán."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "se dice = it is said / people say",
+   "text": "El <i>se dice que</i>, <i>se cree que</i> y <i>según parece</i> del español no tienen una forma con <i>se</i> en inglés. En lenguaje formal se usa <b>it is said / he is said to</b>; al hablar, <b>people say</b> o <b>they say</b> (dicen que). Nunca <i>Says that he is rich</i> ni <i>It says that</i> para hablar de la gente."
+  },
+  {
+   "type": "h1",
+   "text": "2. Con verbos modales"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "modal + be + participio",
+     "The form must be signed.",
+     "El formulario debe firmarse."
+    ],
+    [
+     "modal + have been + participio",
+     "The letter should have been sent yesterday.",
+     "La carta tendría que haberse enviado ayer."
+    ],
+    [
+     "can't have been",
+     "It can't have been done by hand.",
+     "No puede haberse hecho a mano."
+    ],
+    [
+     "might be being",
+     "The road might be being repaired.",
+     "Puede que estén arreglando la carretera ahora mismo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El infinitivo y la forma en -ing en pasiva"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "to be + participio",
+     "I want to be told the truth.",
+     "Quiero que me digan la verdad."
+    ],
+    [
+     "to have been + participio",
+     "She was lucky to have been chosen.",
+     "Tuvo suerte de que la eligieran."
+    ],
+    [
+     "being + participio",
+     "I hate being interrupted.",
+     "Odio que me interrumpan."
+    ],
+    [
+     "having been + participio",
+     "Having been warned, we took care.",
+     "Como nos habían avisado, tuvimos cuidado."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Dos complementos"
+  },
+  {
+   "type": "p",
+   "text": "Con verbos como <b>give, send, offer, show, tell, teach</b> hay una persona y una cosa. Normalmente la <b>persona</b> pasa a ser el sujeto: <i>I was given a present.</i> (Me regalaron algo.) <i>She was offered a job.</i> (Le ofrecieron un trabajo.)"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Me ofrecieron ... = I was offered ...",
+   "text": "El español dice <i>Me ofrecieron un trabajo</i> o <i>Me han dado un premio</i>, con la persona como complemento. El inglés hace de la persona el sujeto: <b>I was offered a job</b>, <b>I've been given a prize</b>, nunca <i>To me was offered a job</i> ni <i>Me was offered</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "He is said that he is rich.",
+     "He is said to be rich.",
+     "He is said to + verbo."
+    ],
+    [
+     "It is said him to be rich.",
+     "It is said that he is rich.",
+     "It is said that + frase."
+    ],
+    [
+     "The documents must signed today.",
+     "The documents must be signed today.",
+     "modal + be + participio."
+    ],
+    [
+     "It should have been send yesterday.",
+     "It should have been sent yesterday.",
+     "Participio: sent."
+    ],
+    [
+     "I don't like to be interrupt.",
+     "I don't like being interrupted.",
+     "being + participio."
+    ],
+    [
+     "To me was given a prize.",
+     "I was given a prize.",
+     "La persona pasa a ser el sujeto."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "He is said ______ the richest man in town.",
+     "hint": "be",
+     "a": "to be",
+     "full": "He is said to be the richest man in town."
+    },
+    {
+     "q": "It is ______ that the minister will resign.",
+     "hint": "believe",
+     "a": "believed",
+     "full": "It is believed that the minister will resign."
+    },
+    {
+     "q": "The painting is thought to ______ stolen in 1990.",
+     "hint": "have been",
+     "a": "have been",
+     "full": "The painting is thought to have been stolen in 1990."
+    },
+    {
+     "q": "This form must ______ completed in black ink.",
+     "hint": "be",
+     "a": "be",
+     "full": "This form must be completed in black ink."
+    },
+    {
+     "q": "The work should have ______ finished last week.",
+     "hint": "be",
+     "a": "been",
+     "full": "The work should have been finished last week."
+    },
+    {
+     "q": "I hate ______ told what to do.",
+     "hint": "being o to be",
+     "a": "being",
+     "full": "I hate being told what to do."
+    },
+    {
+     "q": "She ______ offered a new job last month.",
+     "hint": "be, past simple",
+     "a": "was",
+     "full": "She was offered a new job last month."
+    },
+    {
+     "q": "The new law is expected ______ passed next year.",
+     "hint": "to be",
+     "a": "to be",
+     "full": "The new law is expected to be passed next year."
+    },
+    {
+     "q": "The window can't have ______ opened from outside.",
+     "hint": "be",
+     "a": "been",
+     "full": "The window can't have been opened from outside."
+    },
+    {
+     "q": "We were ______ a tour of the factory.",
+     "hint": "give",
+     "a": "given",
+     "full": "We were given a tour of the factory."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Al parecer, él es muy rico.",
+     "a": "He is said to be very rich."
+    },
+    {
+     "q": "El formulario tiene que firmarse.",
+     "a": "The form must be signed."
+    },
+    {
+     "q": "Me ofrecieron un trabajo.",
+     "a": "I was offered a job."
+    },
+    {
+     "q": "La carta tendría que haberse enviado ayer.",
+     "a": "The letter should have been sent yesterday."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
