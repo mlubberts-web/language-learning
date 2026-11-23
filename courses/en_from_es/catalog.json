@@ -625,5 +625,27 @@
   "subtitle": "Las capas germánica y latina, palabras españolas en inglés, y familias de palabras",
   "content": "c2_08_word_origins.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_09_El_vocabulario_especializado",
+  "file": "C2_09_El_vocabulario_especializado.pdf",
+  "level": "C2",
+  "number": 9,
+  "section": "Vocabulario",
+  "title": "El vocabulario especializado",
+  "subtitle": "El derecho, la medicina, la tecnología, la economía y la ciencia",
+  "content": "c2_09_specialist_vocabulary.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_10_Expresiones_para_la_maestria",
+  "file": "C2_10_Expresiones_para_la_maestria.pdf",
+  "level": "C2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Expresiones para la maestría",
+  "subtitle": "Expresiones fijas avanzadas, vocabulario literario y la lista de comprobación del C2",
+  "content": "c2_10_mastery.json",
+  "exercise_count": 10
  }
 ]

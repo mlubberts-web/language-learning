@@ -1,0 +1,309 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Expresiones para la maestría",
+  "subtitle": "Expresiones fijas avanzadas, vocabulario literario y la lista de comprobación del C2",
+  "footer": "Language Learning · C2 · Vocabulario · Maestría",
+  "next": "C2 terminado: sigue practicando en la web"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar con seguridad expresiones fijas avanzadas",
+    "reconocer y usar palabras literarias y formales",
+    "medirte con el nivel C2"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Expresiones fijas avanzadas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El discurso y la opinión",
+   "items": [
+    [
+     "by and large",
+     "en general, en líneas generales"
+    ],
+    [
+     "on the face of it",
+     "a primera vista"
+    ],
+    [
+     "in the long run",
+     "a largo plazo"
+    ],
+    [
+     "for the time being",
+     "por ahora, de momento"
+    ],
+    [
+     "to all intents and purposes",
+     "en la práctica, a efectos prácticos"
+    ],
+    [
+     "needless to say",
+     "ni que decir tiene"
+    ],
+    [
+     "as it were",
+     "por así decirlo"
+    ],
+    [
+     "in a nutshell",
+     "en pocas palabras, en resumen"
+    ],
+    [
+     "at the end of the day",
+     "al fin y al cabo"
+    ],
+    [
+     "first and foremost",
+     "ante todo, lo primero"
+    ],
+    [
+     "the bottom line is",
+     "lo que importa es"
+    ],
+    [
+     "to put it mildly",
+     "por decirlo suavemente"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones verbales",
+   "items": [
+    [
+     "to take something for granted",
+     "dar algo por sentado"
+    ],
+    [
+     "to call into question",
+     "poner en duda"
+    ],
+    [
+     "to come to terms with",
+     "asumir, aceptar"
+    ],
+    [
+     "to bear in mind",
+     "tener en cuenta"
+    ],
+    [
+     "to lose sight of",
+     "perder de vista"
+    ],
+    [
+     "to shed light on",
+     "arrojar luz sobre"
+    ],
+    [
+     "to give rise to",
+     "dar lugar a"
+    ],
+    [
+     "to stand to reason",
+     "ser evidente, caer por su propio peso"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Palabras literarias y formales"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vocabulario literario",
+   "items": [
+    [
+     "ephemeral",
+     "efímero, pasajero"
+    ],
+    [
+     "serene",
+     "sereno, tranquilo"
+    ],
+    [
+     "melancholy",
+     "melancolía, nostalgia"
+    ],
+    [
+     "eloquent",
+     "elocuente"
+    ],
+    [
+     "poignant",
+     "conmovedor"
+    ],
+    [
+     "meticulous",
+     "meticuloso"
+    ],
+    [
+     "ubiquitous",
+     "omnipresente"
+    ],
+    [
+     "candid",
+     "franco, sincero"
+    ],
+    [
+     "resilient",
+     "resiliente, que se recupera"
+    ],
+    [
+     "tenacious",
+     "tenaz"
+    ],
+    [
+     "subtle",
+     "sutil"
+    ],
+    [
+     "profound",
+     "profundo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Falsos amigos del nivel más alto",
+   "bullets": [
+    "<b>candid</b> = franco, sincero, no <i>cándido</i> (eso es <b>naive</b>).",
+    "<b>pathetic</b> = penoso, lamentable, no <i>patético</i> en el sentido de conmovedor (eso es <b>moving</b>).",
+    "<b>genial</b> = afable, cordial, no <i>genial</i> (eso es <b>brilliant</b> o <b>great</b>).",
+    "<b>novel</b> = novela, pero también <i>nuevo, original</i> (a novel idea); y <b>terrific</b> = estupendo, no <i>terrorífico</i> (eso es <b>terrifying</b>)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. La lista de comprobación del C2"
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Estás en el C2 si",
+   "bullets": [
+    "sigues sin esfuerzo el habla rápida, los acentos, las películas y la radio",
+    "lees literatura, prensa y textos especializados y captas el tono y la intención",
+    "escribes textos claros y bien estructurados en el registro adecuado",
+    "expresas y reconoces matices finos, ironía y understatement",
+    "te recuperas con facilidad de un error y reformulas sobre la marcha"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "By and ______, the project was a success.",
+     "hint": "en general",
+     "a": "large",
+     "full": "By and large, the project was a success."
+    },
+    {
+     "q": "In the long ______, renewable energy will be cheaper.",
+     "hint": "a largo plazo",
+     "a": "run",
+     "full": "In the long run, renewable energy will be cheaper."
+    },
+    {
+     "q": "We'll stay here for the time ______.",
+     "hint": "de momento",
+     "a": "being",
+     "full": "We'll stay here for the time being."
+    },
+    {
+     "q": "In a ______, we need more money.",
+     "hint": "en pocas palabras",
+     "a": "nutshell",
+     "full": "In a nutshell, we need more money."
+    },
+    {
+     "q": "We should never take our health for ______.",
+     "hint": "dar por sentado",
+     "a": "granted",
+     "full": "We should never take our health for granted."
+    },
+    {
+     "q": "It took him years to come to ______ with his loss.",
+     "hint": "asumir",
+     "a": "terms",
+     "full": "It took him years to come to terms with his loss."
+    },
+    {
+     "q": "This research sheds ______ on an old mystery.",
+     "hint": "arrojar luz",
+     "a": "light",
+     "full": "This research sheds light on an old mystery."
+    },
+    {
+     "q": "She is ______ in her work; she checks every detail.",
+     "hint": "meticulosa",
+     "a": "meticulous",
+     "full": "She is meticulous in her work; she checks every detail."
+    },
+    {
+     "q": "Smartphones have become ______.",
+     "hint": "omnipresentes",
+     "a": "ubiquitous",
+     "full": "Smartphones have become ubiquitous."
+    },
+    {
+     "q": "It was, to put it ______, a disappointing result.",
+     "hint": "por decirlo suavemente",
+     "a": "mildly",
+     "full": "It was, to put it mildly, a disappointing result."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "En líneas generales, fue un éxito.",
+     "a": "By and large, it was a success."
+    },
+    {
+     "q": "De momento nos quedamos aquí.",
+     "a": "For the time being, we'll stay here."
+    },
+    {
+     "q": "Ten en cuenta que es caro.",
+     "a": "Bear in mind that it is expensive."
+    },
+    {
+     "q": "No des tu salud por sentada.",
+     "a": "Don't take your health for granted."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

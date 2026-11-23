@@ -1,0 +1,414 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "El vocabulario especializado",
+  "subtitle": "El derecho, la medicina, la tecnología, la economía y la ciencia",
+  "footer": "Language Learning · C2 · Vocabulario · Vocabulario especializado",
+  "next": "Siguiente: C2 · pdf 10 — Expresiones para la maestría"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hablar y leer sobre derecho, salud, tecnología y economía",
+    "seguir textos especializados con menos diccionario",
+    "evitar los falsos amigos del lenguaje especializado"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El derecho"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El derecho",
+   "items": [
+    [
+     "lawsuit",
+     "juicio, pleito"
+    ],
+    [
+     "defendant",
+     "acusado, demandado"
+    ],
+    [
+     "plaintiff",
+     "demandante"
+    ],
+    [
+     "verdict",
+     "veredicto (del jurado)"
+    ],
+    [
+     "sentence",
+     "sentencia, condena"
+    ],
+    [
+     "appeal",
+     "recurso, apelación"
+    ],
+    [
+     "barrister",
+     "abogado (que defiende ante el tribunal)"
+    ],
+    [
+     "solicitor",
+     "abogado (que asesora)"
+    ],
+    [
+     "evidence",
+     "pruebas"
+    ],
+    [
+     "witness",
+     "testigo"
+    ],
+    [
+     "to sue",
+     "demandar, poner una demanda"
+    ],
+    [
+     "to acquit",
+     "absolver"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. La medicina"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La medicina",
+   "items": [
+    [
+     "diagnosis",
+     "diagnóstico"
+    ],
+    [
+     "symptom",
+     "síntoma"
+    ],
+    [
+     "treatment",
+     "tratamiento"
+    ],
+    [
+     "prescription",
+     "receta (médica)"
+    ],
+    [
+     "side effect",
+     "efecto secundario"
+    ],
+    [
+     "GP (general practitioner)",
+     "médico de cabecera"
+    ],
+    [
+     "A&E",
+     "urgencias"
+    ],
+    [
+     "surgery",
+     "operación; consulta del médico (británico)"
+    ],
+    [
+     "to recover",
+     "recuperarse"
+    ],
+    [
+     "chronic",
+     "crónico"
+    ],
+    [
+     "contagious",
+     "contagioso"
+    ],
+    [
+     "vaccine",
+     "vacuna"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "surgery también es la consulta del médico",
+   "text": "En inglés británico, <b>surgery</b> es una operación y también la consulta del médico de cabecera: <i>I've got an appointment at the surgery at ten.</i> Y la <i>receta</i> tiene dos palabras: la del médico es <b>prescription</b> y la de cocina es <b>recipe</b>. <i>Constipated</i> es estreñido, no constipado (B2 · pdf 10)."
+  },
+  {
+   "type": "h1",
+   "text": "3. La tecnología"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La tecnología",
+   "items": [
+    [
+     "software",
+     "software"
+    ],
+    [
+     "database",
+     "base de datos"
+    ],
+    [
+     "algorithm",
+     "algoritmo"
+    ],
+    [
+     "encryption",
+     "cifrado"
+    ],
+    [
+     "bandwidth",
+     "ancho de banda"
+    ],
+    [
+     "cloud computing",
+     "computación en la nube"
+    ],
+    [
+     "artificial intelligence",
+     "inteligencia artificial"
+    ],
+    [
+     "machine learning",
+     "aprendizaje automático"
+    ],
+    [
+     "data breach",
+     "filtración de datos"
+    ],
+    [
+     "to upgrade",
+     "actualizar"
+    ],
+    [
+     "user-friendly",
+     "fácil de usar"
+    ],
+    [
+     "cybersecurity",
+     "ciberseguridad"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La economía y las finanzas"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La economía",
+   "items": [
+    [
+     "GDP (gross domestic product)",
+     "PIB"
+    ],
+    [
+     "inflation",
+     "inflación"
+    ],
+    [
+     "recession",
+     "recesión"
+    ],
+    [
+     "interest rate",
+     "tipo de interés"
+    ],
+    [
+     "shareholder",
+     "accionista"
+    ],
+    [
+     "turnover",
+     "facturación, volumen de negocio"
+    ],
+    [
+     "profit margin",
+     "margen de beneficio"
+    ],
+    [
+     "revenue",
+     "ingresos"
+    ],
+    [
+     "supply and demand",
+     "oferta y demanda"
+    ],
+    [
+     "stock market",
+     "bolsa, mercado de valores"
+    ],
+    [
+     "to invest",
+     "invertir"
+    ],
+    [
+     "bankruptcy",
+     "quiebra, bancarrota"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "turnover y la facturación",
+   "text": "<b>turnover</b> significa facturación, pero también rotación de personal (<i>staff turnover</i>). <i>Oferta y demanda</i> es <b>supply and demand</b>, en el mismo orden. Y ojo: una <i>oferta</i> en una tienda es <b>a special offer</b>, y <i>en oferta</i> es <b>on offer</b> o <b>on sale</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. La ciencia"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La ciencia",
+   "items": [
+    [
+     "hypothesis",
+     "hipótesis"
+    ],
+    [
+     "experiment",
+     "experimento"
+    ],
+    [
+     "data",
+     "datos"
+    ],
+    [
+     "peer review",
+     "revisión por pares"
+    ],
+    [
+     "sample",
+     "muestra"
+    ],
+    [
+     "variable",
+     "variable"
+    ],
+    [
+     "findings",
+     "resultados, conclusiones"
+    ],
+    [
+     "to replicate",
+     "replicar (un estudio)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The ______ was found not guilty.",
+     "hint": "acusado",
+     "a": "defendant",
+     "full": "The defendant was found not guilty."
+    },
+    {
+     "q": "They decided to ______ the company for damages.",
+     "hint": "demandar",
+     "a": "sue",
+     "full": "They decided to sue the company for damages."
+    },
+    {
+     "q": "The doctor gave me a ______ for painkillers.",
+     "hint": "receta médica",
+     "a": "prescription",
+     "full": "The doctor gave me a prescription for painkillers."
+    },
+    {
+     "q": "Headaches are a common side ______ of this drug.",
+     "hint": "efecto secundario",
+     "a": "effect",
+     "full": "Headaches are a common side effect of this drug."
+    },
+    {
+     "q": "The disease is highly ______.",
+     "hint": "contagiosa",
+     "a": "contagious",
+     "full": "The disease is highly contagious."
+    },
+    {
+     "q": "The company reported a data ______ last week.",
+     "hint": "filtración",
+     "a": "breach",
+     "full": "The company reported a data breach last week."
+    },
+    {
+     "q": "The central bank raised interest ______.",
+     "hint": "tipo de interés, plural",
+     "a": "rates",
+     "full": "The central bank raised interest rates."
+    },
+    {
+     "q": "Prices are determined by supply and ______.",
+     "hint": "demanda",
+     "a": "demand",
+     "full": "Prices are determined by supply and demand."
+    },
+    {
+     "q": "The researchers could not ______ the results.",
+     "hint": "replicar",
+     "a": "replicate",
+     "full": "The researchers could not replicate the results."
+    },
+    {
+     "q": "The company's annual ______ was ten million pounds.",
+     "hint": "facturación",
+     "a": "turnover",
+     "full": "The company's annual turnover was ten million pounds."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "El acusado fue absuelto.",
+     "a": "The defendant was acquitted."
+    },
+    {
+     "q": "Tengo cita con el médico de cabecera.",
+     "a": "I have an appointment with my GP."
+    },
+    {
+     "q": "Los precios los determinan la oferta y la demanda.",
+     "a": "Prices are determined by supply and demand."
+    },
+    {
+     "q": "La empresa quebró.",
+     "a": "The company went bankrupt."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

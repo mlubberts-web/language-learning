@@ -121,7 +121,9 @@ Choices made (Menno can overrule any of them):
 
 ## Phase 4: English for Spanish speakers (`en_from_es`)
 
-- [ ] 4.1 Translate the explanations of all English units into Spanish (Spain), A1–C2.
+- [x] 4.1 Translate the explanations of all English units into Spanish (Spain), A1–C2.
+      (59 units and PDFs, 5,062 questions; Dutch-specific notes and mistakes rewritten for Spanish
+      speakers: ser/estar, "hay", "depend of", false friends such as constipado and embarazada.)
 - [ ] 4.2 Themed lists and notes for Spanish speakers (false friends, pronunciation traps).
 
 ## Phase 5: Dutch for English speakers (`nl_from_en`)
