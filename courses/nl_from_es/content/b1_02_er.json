@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "er (1)",
+  "subtitle": "er is, er como lugar, er con números, y er + preposición (erop, ermee, erover)",
+  "footer": "Language Learning · B1 · Gramática · er (1)",
+  "next": "Siguiente: B1 · pdf 3 — Las oraciones de relativo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar <b>er is / er zijn</b> para decir <i>hay</i>",
+    "usar <b>er</b> para un lugar ya mencionado",
+    "usar <b>er</b> con números: <i>Ik heb er twee</i>",
+    "sustituir <i>ello</i> tras una preposición por <b>erop, ermee, erover</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Cuatro usos de er"
+  },
+  {
+   "type": "p",
+   "text": "La palabrita <b>er</b> es una de las cosas más difíciles del neerlandés, porque no tiene un equivalente español. Si sabes catalán o francés, se parece a <i>en</i> e <i>hi</i>, o a <i>en</i> e <i>y</i>. Tiene cuatro usos principales; este pdf los explica uno a uno (más en B2 · pdf 2)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.6,
+    5.8
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "hay",
+     "Er is een probleem.",
+     "Hay un problema."
+    ],
+    [
+     "un lugar ya mencionado",
+     "Ken je Leiden? Ik woon er al jaren.",
+     "Vivo allí desde hace años."
+    ],
+    [
+     "con un número o una cantidad",
+     "Hoeveel kinderen heb je? Ik heb er twee.",
+     "Tengo dos."
+    ],
+    [
+     "en lugar de 'ello' tras una preposición",
+     "Ik denk erover na.",
+     "Me lo estoy pensando."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. er is, er zijn"
+  },
+  {
+   "type": "p",
+   "text": "<b>Er is</b> (singular) y <b>er zijn</b> (plural) son el <i>hay</i> del español, pero el neerlandés distingue singular y plural. También se usa <b>er</b> con otros verbos cuando el sujeto es nuevo e indeterminado: <i>Er staat een man voor de deur</i> (hay un hombre en la puerta). <i>Er ligt een boek op tafel. Er komt morgen een monteur.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Er staat, er ligt, er zit",
+   "text": "Donde el español dice <i>hay</i>, el neerlandés usa a menudo un verbo de posición: <b>staan</b> para cosas de pie, <b>liggen</b> para cosas tumbadas, <b>zitten</b> para cosas dentro de algo: <i>Er <b>staat</b> een fiets voor de deur. Er <b>ligt</b> een krant op tafel. Er <b>zit</b> melk in de koelkast.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. er como lugar"
+  },
+  {
+   "type": "p",
+   "text": "<b>er</b> sustituye a un lugar ya mencionado, como un <i>allí</i> átono: <i>Ben je weleens in Londen geweest? Ja, ik ben <b>er</b> vorig jaar geweest</i> (sí, estuve allí el año pasado). Para dar énfasis se usa <b>daar</b>: <i><b>Daar</b> woon ik!</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. er con números"
+  },
+  {
+   "type": "p",
+   "text": "Cuando dices un número o una cantidad sin el sustantivo, el neerlandés necesita <b>er</b>: <i>Hoeveel broers heb je? Ik heb <b>er</b> drie.</i> También con <i>veel, weinig, een paar, geen, nog een</i>: <i>Wil je nog een koekje? Ja, graag, ik neem er nog een.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Tengo tres = Ik heb er drie",
+   "text": "En español basta con <i>tengo tres</i>. En neerlandés <i>Ik heb drie</i> suena incompleto: hace falta <b>Ik heb er drie</b>. Igual: <i>Heb je pennen? Ja, ik heb er een paar. Nee, ik heb er geen.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. er + preposición"
+  },
+  {
+   "type": "p",
+   "text": "Tras una preposición, el neerlandés no dice <i>het</i> (ello) ni <i>dat</i> para una cosa. Usa <b>er + preposición</b> en una sola palabra: <i>op het → <b>erop</b></i>. En una frase, er y la preposición suelen separarse: <i>Ik denk <b>er</b> niet <b>aan</b></i> (no pienso en ello). Para dar énfasis se usa <b>daar</b>: <i><b>Daar</b>over wil ik niet praten.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.2,
+    8.8
+   ],
+   "head": [
+    "Preposición",
+    "Forma con er",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "op",
+     "erop",
+     "Ik wacht erop. (Lo espero.)"
+    ],
+    [
+     "over",
+     "erover",
+     "We praten er morgen over."
+    ],
+    [
+     "aan",
+     "eraan",
+     "Ik denk er niet aan."
+    ],
+    [
+     "met",
+     "ermee",
+     "Wat doe je ermee? (met se convierte en mee)"
+    ],
+    [
+     "tot",
+     "ertoe",
+     "Dat doet er niet toe. (No importa.)"
+    ],
+    [
+     "van",
+     "ervan",
+     "Ik houd ervan. (Me encanta.)"
+    ],
+    [
+     "in",
+     "erin",
+     "Er zit niets in."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Solo para cosas, no para personas",
+   "text": "Para personas se mantiene el pronombre: <i>Ik denk aan <b>haar</b></i> (pienso en ella). Para cosas e ideas: <i>Ik denk <b>eraan</b></i> (pienso en ello). Nunca <i>Ik denk aan het</i>."
+  },
+  {
+   "type": "h1",
+   "text": "6. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik denk aan het.",
+     "Ik denk eraan.",
+     "Ello tras una preposición: er + preposición."
+    ],
+    [
+     "Wat doe je ermet?",
+     "Wat doe je ermee?",
+     "met se convierte en mee."
+    ],
+    [
+     "Ik heb drie.",
+     "Ik heb er drie.",
+     "Un número sin sustantivo necesita er."
+    ],
+    [
+     "Daar is een probleem.",
+     "Er is een probleem.",
+     "Hay: er is, no daar is."
+    ],
+    [
+     "Ik woon daar al jaren.",
+     "Ik woon er al jaren.",
+     "Lugar átono: er.",
+     "advice"
+    ],
+    [
+     "Ik houd van het.",
+     "Ik houd ervan.",
+     "Ello tras van: ervan."
+    ],
+    [
+     "Ik denk eraan haar.",
+     "Ik denk aan haar.",
+     "Personas: aan haar."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con er o con la forma de er correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ is een probleem met de computer.",
+     "hint": "hay",
+     "a": "er",
+     "full": "Er is een probleem met de computer."
+    },
+    {
+     "q": "Hoeveel kinderen heb je? Ik heb ______ twee.",
+     "hint": "con un número",
+     "a": "er",
+     "full": "Hoeveel kinderen heb je? Ik heb er twee."
+    },
+    {
+     "q": "Ken je Utrecht? Ik woon ______ al vijf jaar.",
+     "hint": "lugar",
+     "a": "er",
+     "full": "Ken je Utrecht? Ik woon er al vijf jaar."
+    },
+    {
+     "q": "Het examen is morgen. Ik denk ______ de hele dag aan.",
+     "hint": "er + aan, separado",
+     "a": "er",
+     "full": "Het examen is morgen. Ik denk er de hele dag aan."
+    },
+    {
+     "q": "Mijn nieuwe fiets? Ik ben ______ heel blij mee.",
+     "hint": "er + met, separado",
+     "a": "er",
+     "full": "Mijn nieuwe fiets? Ik ben er heel blij mee."
+    },
+    {
+     "q": "Wat doe je met die oude stoel? Wat doe je ______?",
+     "hint": "con ello",
+     "a": "ermee",
+     "full": "Wat doe je met die oude stoel? Wat doe je ermee?"
+    },
+    {
+     "q": "Chocolade? Ik houd ______!",
+     "hint": "de ello",
+     "a": "ervan",
+     "full": "Chocolade? Ik houd ervan!"
+    },
+    {
+     "q": "Er ______ een fiets voor de deur.",
+     "hint": "staan",
+     "a": "staat",
+     "full": "Er staat een fiets voor de deur."
+    },
+    {
+     "q": "Er ______ een krant op tafel.",
+     "hint": "liggen",
+     "a": "ligt",
+     "full": "Er ligt een krant op tafel."
+    },
+    {
+     "q": "Dat doet er niet ______.",
+     "hint": "no importa",
+     "a": "toe",
+     "full": "Dat doet er niet toe."
+    },
+    {
+     "q": "Heb je nog koekjes? Nee, ik heb er ______ meer.",
+     "hint": "ninguna",
+     "a": "geen",
+     "full": "Heb je nog koekjes? Nee, ik heb er geen meer."
+    },
+    {
+     "q": "Ik wacht al een uur op de bus. Ik wacht er al een uur ______.",
+     "hint": "er + op, separado",
+     "a": "op",
+     "full": "Ik wacht al een uur op de bus. Ik wacht er al een uur op."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hay un problema.",
+     "a": "Er is een probleem."
+    },
+    {
+     "q": "Tengo dos.",
+     "a": "Ik heb er twee."
+    },
+    {
+     "q": "No pienso en ello.",
+     "a": "Ik denk er niet aan."
+    },
+    {
+     "q": "¿Qué haces con eso?",
+     "a": "Wat doe je ermee?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

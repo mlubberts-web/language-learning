@@ -218,5 +218,16 @@
   "subtitle": "Varios verbos en una oración: Ik heb het niet kunnen doen, omdat ik moet werken",
   "content": "b1_01_word_order_verb_clusters.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_02_er_1",
+  "file": "B1_02_er_1.pdf",
+  "level": "B1",
+  "number": 2,
+  "section": "Gramática",
+  "title": "er (1)",
+  "subtitle": "er is, er como lugar, er con números, y er + preposición (erop, ermee, erover)",
+  "content": "b1_02_er.json",
+  "exercise_count": 12
  }
 ]
