@@ -53,5 +53,16 @@
   "subtitle": "The verb in second place, inversion, question words, and where niet and geen go",
   "content": "a1_05_word_order_questions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_06_Pronouns_and_possessives",
+  "file": "A1_06_Pronouns_and_possessives.pdf",
+  "level": "A1",
+  "number": 6,
+  "section": "Grammar",
+  "title": "Pronouns and possessives",
+  "subtitle": "me, hem and haar; mijn, jouw, ons and onze; van mij; and hij for things",
+  "content": "a1_06_pronouns_possessives.json",
+  "exercise_count": 12
  }
 ]
