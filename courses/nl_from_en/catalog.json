@@ -449,5 +449,16 @@
   "subtitle": "The middle of the sentence: pronouns, time, manner and place; fronting for emphasis; and phrases after the verbs",
   "content": "c1_02_complex_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_03_Advanced_linking_words_and_text_structure",
+  "file": "C1_03_Advanced_linking_words_and_text_structure.pdf",
+  "level": "C1",
+  "number": 3,
+  "section": "Writing",
+  "title": "Advanced linking words and text structure",
+  "subtitle": "desondanks, enerzijds ... anderzijds, mits, aangezien; hedging; and guiding the reader through a text",
+  "content": "c1_03_linking_text_structure.json",
+  "exercise_count": 12
  }
 ]
