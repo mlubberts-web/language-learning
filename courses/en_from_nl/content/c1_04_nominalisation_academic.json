@@ -1,0 +1,69 @@
+{"meta": {"level": "C1", "section": "Schrijven", "number": 4, "total_in_level": 10,
+ "title": "Nominalisering en academische stijl",
+ "subtitle": "Zelfstandige naamwoorden in plaats van werkwoorden, onpersoonlijke stijl en de lijdende vorm voor afstand",
+ "footer": "Language Learning · C1 · Schrijven · Nominalisering",
+ "next": "Volgende: C1 · pdf 5 — Deelwoordzinnen en verkorte bijzinnen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "werkwoorden en bijzinnen omzetten in zelfstandige naamwoorden",
+  "onpersoonlijk schrijven (<i>it is widely believed</i>)",
+  "lange naamwoordgroepen lezen en maken",
+  "informele woorden vervangen door formele"]},
+
+ {"type": "h1", "text": "1. Van werkwoord naar zelfstandig naamwoord"},
+ {"type": "p", "text": "Academisch en formeel Engels gebruikt veel <b>zelfstandige naamwoorden</b> waar spreektaal werkwoorden gebruikt. De tekst wordt daardoor compacter en onpersoonlijker."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Met werkwoorden (spreektaal)", "Met zelfstandige naamwoorden (formeel)"], "rows": [
+  ["Prices rose sharply, so people bought less.", "The sharp rise in prices led to a fall in consumption."],
+  ["We analysed the data and found that ...", "Analysis of the data revealed that ..."],
+  ["Because the government decided to raise taxes, ...", "Following the government's decision to raise taxes, ..."],
+  ["When the factory closed, many people lost their jobs.", "The closure of the factory resulted in widespread job losses."],
+  ["If we invest more, the economy will grow.", "Greater investment will lead to economic growth."]]},
+ {"type": "callout", "kind": "tip", "title": "Handige werkwoorden bij nominaliseringen", "text": "<b>lead to, result in, cause, contribute to</b> (oorzaak en gevolg), <b>be due to, result from</b> (oorzaak), <b>undergo, carry out, conduct</b> (uitvoeren). <i>The study was conducted in 2020. The decline was due to a lack of funding.</i>"},
+
+ {"type": "h1", "text": "2. Onpersoonlijk schrijven"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Persoonlijk", "Onpersoonlijk"], "rows": [
+  ["I think that ...", "It could be argued that ..."],
+  ["People believe that ...", "It is widely believed that ..."],
+  ["We can see that ...", "It can be seen that ... / This shows that ..."],
+  ["I will discuss ...", "This essay discusses ..."],
+  ["You need to remember that ...", "It should be borne in mind that ..."]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands 'men' en 'je'", "text": "Het Nederlandse <i>men</i> of <i>je</i> (<i>Je ziet dat ...</i>) werkt niet in een Engels academisch stuk. Gebruik de lijdende vorm of <b>it</b>-constructies: <b>It is clear that ...</b>, <b>As can be seen ...</b>"},
+
+ {"type": "h1", "text": "3. Formele woordkeus"},
+ {"type": "verbpairs", "title": "Informeel → formeel", "items": [
+  ["get → obtain", "verkrijgen"], ["show → demonstrate", "aantonen"], ["find out → discover", "ontdekken"],
+  ["go up → increase", "stijgen"], ["go down → decrease", "dalen"], ["look into → investigate", "onderzoeken"],
+  ["help → assist", "assisteren"], ["need → require", "vereisen"], ["start → commence", "aanvangen"],
+  ["try → attempt", "pogen"], ["a lot of → a considerable amount of", "een aanzienlijke hoeveelheid"], ["about → approximately", "ongeveer"]]},
+ {"type": "callout", "kind": "warn", "title": "Niet overdrijven", "text": "Een tekst vol zware zelfstandige naamwoorden is moeilijk te lezen. Goed academisch Engels mengt de stijlen: nominaliseer wat belangrijk is, en houd zinnen helder. Vermijd ook in formele teksten korte vormen (it's, don't) en uitroeptekens."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["The rise of prices caused that people bought less.", "The rise in prices caused people to buy less.", "a rise in; cause someone to."],
+  ["It's clear that the data shows this.", "It is clear that the data show this.", "Formeel: geen korte vorm; data is vaak meervoud.", "advice"],
+  ["You can see that sales went up a lot.", "It can be seen that sales increased considerably.", "Onpersoonlijk en formeel."],
+  ["This research was done by us.", "This research was conducted in 2020.", "Formeel werkwoord: conduct.", "advice"],
+  ["The decrease was because of a lack of money.", "The decrease was due to a lack of funding.", "Formeel: due to, funding."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "There has been a sharp ______ in unemployment.", "hint": "stijging (zelfst. nw.)", "a": "rise", "full": "There has been a sharp rise in unemployment."},
+  {"q": "The ______ of the factory led to many job losses.", "hint": "sluiting (close)", "a": "closure", "full": "The closure of the factory led to many job losses."},
+  {"q": "It is widely ______ that exercise reduces stress.", "hint": "believe", "a": "believed", "full": "It is widely believed that exercise reduces stress."},
+  {"q": "The study was ______ in three countries.", "hint": "uitgevoerd (formeel)", "a": "conducted", "full": "The study was conducted in three countries."},
+  {"q": "The delay was ______ to technical problems.", "hint": "te wijten", "a": "due", "full": "The delay was due to technical problems."},
+  {"q": "Higher taxes may ______ in lower spending.", "hint": "leiden tot (result)", "a": "result", "full": "Higher taxes may result in lower spending."},
+  {"q": "The results ______ that the method works.", "hint": "aantonen (formeel)", "a": "demonstrate", "full": "The results demonstrate that the method works."},
+  {"q": "It could be ______ that the policy has failed.", "hint": "argue", "a": "argued", "full": "It could be argued that the policy has failed."},
+  {"q": "The project will ______ in January.", "hint": "aanvangen (formeel)", "a": "commence", "full": "The project will commence in January."},
+  {"q": "This job ______ a high level of English.", "hint": "vereisen (formeel)", "a": "requires", "full": "This job requires a high level of English."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (formeel):</b>"},
+ {"type": "translations", "items": [
+  {"q": "Men neemt algemeen aan dat roken schadelijk is.", "a": "It is widely believed that smoking is harmful."},
+  {"q": "De sluiting van de fabriek leidde tot werkloosheid.", "a": "The closure of the factory led to unemployment."},
+  {"q": "Het onderzoek werd in 2020 uitgevoerd.", "a": "The study was conducted in 2020."},
+  {"q": "De vertraging was te wijten aan technische problemen.", "a": "The delay was due to technical problems."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

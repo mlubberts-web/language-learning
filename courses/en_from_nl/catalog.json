@@ -449,5 +449,27 @@
   "subtitle": "Never have I, not only ... but also, gespleten zinnen en do voor nadruk",
   "content": "c1_02_inversion_emphasis.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_03_Gevorderde_verbindingswoorden_en_tekststructuur",
+  "file": "C1_03_Gevorderde_verbindingswoorden_en_tekststructuur.pdf",
+  "level": "C1",
+  "number": 3,
+  "section": "Schrijven",
+  "title": "Gevorderde verbindingswoorden en tekststructuur",
+  "subtitle": "nevertheless, whereas, provided that, voorzichtig formuleren en een tekst structureren",
+  "content": "c1_03_linking_discourse.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_04_Nominalisering_en_academische_stijl",
+  "file": "C1_04_Nominalisering_en_academische_stijl.pdf",
+  "level": "C1",
+  "number": 4,
+  "section": "Schrijven",
+  "title": "Nominalisering en academische stijl",
+  "subtitle": "Zelfstandige naamwoorden in plaats van werkwoorden, onpersoonlijke stijl en de lijdende vorm voor afstand",
+  "content": "c1_04_nominalisation_academic.json",
+  "exercise_count": 10
  }
 ]

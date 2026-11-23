@@ -68,7 +68,7 @@
   {"q": "Nog nooit heb ik zoiets gezien.", "a": "Never have I seen anything like it."},
   {"q": "Wat ik nodig heb, is rust.", "a": "What I need is rest."},
   {"q": "Het was Tom die het raam brak.", "a": "It was Tom who broke the window."},
-  {"q": "Had ik het maar geweten, dan was ik gekomen.", "a": "Had I known, I would have come."}]},
+  {"q": "Als ik het had geweten, was ik gekomen. (formeel, zonder if)", "a": "Had I known, I would have come."}]},
  {"type": "pagebreak"},
  {"type": "answers"}
 ]}

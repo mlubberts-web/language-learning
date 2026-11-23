@@ -1,0 +1,78 @@
+{"meta": {"level": "C1", "section": "Schrijven", "number": 3, "total_in_level": 10,
+ "title": "Gevorderde verbindingswoorden en tekststructuur",
+ "subtitle": "nevertheless, whereas, provided that, voorzichtig formuleren en een tekst structureren",
+ "footer": "Language Learning · C1 · Schrijven · Verbindingswoorden en tekststructuur",
+ "next": "Volgende: C1 · pdf 4 — Nominalisering en academische stijl"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "een redenering opbouwen met gevorderde verbindingswoorden",
+  "voorwaarden en toegevingen formeel uitdrukken",
+  "voorzichtig formuleren (<i>hedging</i>)",
+  "de lezer door een tekst leiden (<i>signposting</i>)"]},
+
+ {"type": "h1", "text": "1. Tegenstelling en toegeving"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.6, 6.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["nevertheless / nonetheless", "The plan is risky. Nevertheless, we will go ahead.", "toch, desondanks"],
+  ["whereas", "Some prefer cities, whereas others like the countryside.", "terwijl (contrast)"],
+  ["even so", "It was expensive. Even so, it was worth it.", "toch"],
+  ["admittedly", "Admittedly, the results are not perfect.", "toegegeven"],
+  ["while / whilst", "While I understand your point, I disagree.", "hoewel"],
+  ["notwithstanding", "Notwithstanding the costs, the project continued.", "ondanks (zeer formeel)"]]},
+
+ {"type": "h1", "text": "2. Oorzaak, gevolg en voorwaarde"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.6, 6.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["consequently / as a result", "Sales fell. Consequently, jobs were lost.", "bijgevolg"],
+  ["owing to / due to", "Owing to the strike, flights were cancelled.", "vanwege"],
+  ["thus / hence", "The data were incomplete; hence the delay.", "dus, vandaar"],
+  ["provided / providing that", "You can go, provided that you finish first.", "op voorwaarde dat"],
+  ["as long as", "I'll help as long as you pay me.", "zolang"],
+  ["in case", "Take an umbrella in case it rains.", "voor het geval dat"]]},
+ {"type": "callout", "kind": "dutch", "title": "in case is niet 'in het geval dat'", "text": "<b>in case</b> = <i>voor het geval dat</i> (een voorzorg): <i>Take a coat in case it gets cold.</i> Voor <i>als, mocht het gebeuren</i> gebruik je <b>if</b>: <i>If it gets cold, put on a coat.</i>"},
+
+ {"type": "h1", "text": "3. Voorzichtig formuleren"},
+ {"type": "p", "text": "In academisch en zakelijk Engels doe je zelden absolute uitspraken. Je verzacht ze met <i>hedging</i>."},
+ {"type": "verbpairs", "title": "Hedging", "items": [
+  ["it seems that", "het lijkt erop dat"], ["it appears that", "blijkbaar"], ["tend to", "de neiging hebben om"], ["to some extent", "in zekere mate"],
+  ["arguably", "je zou kunnen zeggen"], ["it could be argued that", "men zou kunnen stellen dat"], ["presumably", "vermoedelijk"], ["in most cases", "in de meeste gevallen"],
+  ["likely", "waarschijnlijk"], ["relatively", "betrekkelijk"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands direct, Engels voorzichtig", "text": "<i>Dit is fout</i> klinkt in het Engels vaak te hard. Zeg liever <b>This may not be entirely correct</b> of <b>I'm not sure this is quite right</b>. In een essay: <b>This suggests that ...</b> in plaats van <i>This proves that ...</i>"},
+
+ {"type": "h1", "text": "4. De lezer leiden"},
+ {"type": "table", "style": "plain", "widths": [4.4, 12.6], "head": ["Functie", "Zinnen"], "rows": [
+  ["Inleiden", "<i>This essay will examine ... The aim of this section is to ...</i>"],
+  ["Volgorde", "<i>To begin with ... Turning now to ... Lastly ...</i>"],
+  ["Toelichten", "<i>In other words ... That is to say ... To put it simply ...</i>"],
+  ["Voorbeeld", "<i>For instance ... A case in point is ... This is illustrated by ...</i>"],
+  ["Samenvatten", "<i>To sum up ... In short ... All things considered ...</i>"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Nevertheless the rain, we went out.", "Despite the rain, we went out.", "nevertheless staat niet voor een naamwoord."],
+  ["Take an umbrella in case of it rains.", "Take an umbrella in case it rains.", "in case + zin."],
+  ["Owing the strike, we stayed.", "Owing to the strike, we stayed.", "owing to."],
+  ["You can borrow it provided you will return it.", "You can borrow it provided you return it.", "Na provided: present simple."],
+  ["This proves that everyone agrees.", "This suggests that most people agree.", "Voorzichtig formuleren.", "advice"],
+  ["Whereas I agree, I have doubts.", "While I agree, I have doubts.", "Toegeving: while, niet whereas."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste verbindingswoord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The plan is expensive. ______, we will go ahead.", "hint": "toch, desondanks", "a": "Nevertheless", "full": "The plan is expensive. Nevertheless, we will go ahead."},
+  {"q": "My brother loves sport, ______ I prefer reading.", "hint": "terwijl (contrast)", "a": "whereas", "full": "My brother loves sport, whereas I prefer reading."},
+  {"q": "______ to the bad weather, the match was postponed.", "hint": "vanwege", "a": "Owing", "full": "Owing to the bad weather, the match was postponed."},
+  {"q": "You can use my car ______ that you drive carefully.", "hint": "op voorwaarde", "a": "provided", "full": "You can use my car provided that you drive carefully."},
+  {"q": "Take some money in ______ you need a taxi.", "hint": "voor het geval dat", "a": "case", "full": "Take some money in case you need a taxi."},
+  {"q": "Sales fell sharply. ______, the company cut jobs.", "hint": "bijgevolg", "a": "Consequently", "full": "Sales fell sharply. Consequently, the company cut jobs."},
+  {"q": "______, the results are not perfect.", "hint": "toegegeven", "a": "Admittedly", "full": "Admittedly, the results are not perfect."},
+  {"q": "Young people ______ to spend more time online.", "hint": "de neiging hebben", "a": "tend", "full": "Young people tend to spend more time online."},
+  {"q": "In other ______, the project has failed.", "hint": "met andere woorden", "a": "words", "full": "In other words, the project has failed."},
+  {"q": "All things ______, it was a successful year.", "hint": "alles bij elkaar", "a": "considered", "full": "All things considered, it was a successful year."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Neem een jas mee voor het geval het koud wordt.", "a": "Take a coat in case it gets cold."},
+  {"q": "Het lijkt erop dat de prijzen stijgen.", "a": "It seems that prices are rising."},
+  {"q": "Je mag gaan, op voorwaarde dat je eerst je werk afmaakt.", "a": "You can go, provided that you finish your work first."},
+  {"q": "Alles bij elkaar genomen was het een goed jaar.", "a": "All things considered, it was a good year."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
