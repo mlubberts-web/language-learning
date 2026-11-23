@@ -251,5 +251,16 @@
   "subtitle": "worden and zijn + participle, door, and the impersonal passive (Er wordt gedanst)",
   "content": "b1_04_passive.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_05_The_conditional",
+  "file": "B1_05_The_conditional.pdf",
+  "level": "B1",
+  "number": 5,
+  "section": "Grammar",
+  "title": "The conditional",
+  "subtitle": "zou + infinitive, real and unreal als-clauses, polite wishes and the past conditional",
+  "content": "b1_05_conditional.json",
+  "exercise_count": 12
  }
 ]
