@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "El imperativo y las peticiones educadas",
+  "subtitle": "Kom binnen, laten we gaan, zou je ... kunnen, y los suavizadores even, maar y eens",
+  "footer": "Language Learning · A2 · Verbos · El imperativo y las peticiones educadas",
+  "next": "Siguiente: A2 · pdf 10 — Vocabulario y expresiones"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "dar instrucciones con el <b>imperativo</b>: <i>Kom binnen. Ga zitten.</i>",
+    "proponer algo con <b>laten we</b>",
+    "pedir con educación con <b>Kun je ...?, Zou je ... kunnen?, Wilt u ...?</b>",
+    "suavizar una petición con <b>even, maar</b> y <b>eens</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El imperativo"
+  },
+  {
+   "type": "p",
+   "text": "El imperativo es simplemente la <b>raíz</b> del verbo: <i>werken → <b>Werk</b>!, komen → <b>Kom</b> binnen!, gaan → <b>Ga</b> zitten.</i> Es igual para tú y para vosotros, mucho más fácil que en español. Los prefijos separables van al final: <i><b>Bel</b> me morgen <b>op</b>.</i> El único irregular: <b>zijn → wees</b> (<i>Wees voorzichtig</i>, ten cuidado)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.6,
+    6.2
+   ],
+   "head": [
+    "Infinitivo",
+    "Imperativo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "komen",
+     "Kom binnen.",
+     "Pasa. Entra."
+    ],
+    [
+     "gaan zitten",
+     "Ga zitten.",
+     "Siéntate."
+    ],
+    [
+     "opletten",
+     "Let op!",
+     "¡Cuidado! ¡Atención!"
+    ],
+    [
+     "zijn",
+     "Wees stil.",
+     "Cállate."
+    ],
+    [
+     "vergeten",
+     "Vergeet je sleutels niet.",
+     "No te olvides las llaves."
+    ],
+    [
+     "niet roken (cartel)",
+     "Niet roken.",
+     "Prohibido fumar."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Sin subjuntivo para negar",
+   "text": "El español niega el imperativo con el subjuntivo (<i>no fumes, no te preocupes</i>). El neerlandés solo añade <b>niet</b> o <b>geen</b> al imperativo normal: <i>Rook <b>niet</b>. Maak je <b>geen</b> zorgen.</i> En carteles e instrucciones se usa a menudo el infinitivo: <i>Niet roken. Hier parkeren verboden. Duwen.</i> (Empujar.)"
+  },
+  {
+   "type": "h1",
+   "text": "2. Propuestas: laten we"
+  },
+  {
+   "type": "p",
+   "text": "Para <i>vamos a</i> (propuesta), el neerlandés dice <b>laten we</b> + infinitivo al final: <i><b>Laten we</b> naar huis <b>gaan</b>. <b>Laten we</b> morgen <b>afspreken</b>.</i> Al hablar, <b>Zullen we ...?</b> es igual de frecuente: <i>Zullen we gaan?</i> (¿Nos vamos?)"
+  },
+  {
+   "type": "h1",
+   "text": "3. Peticiones educadas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.2,
+    5.6,
+    4.2
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Tono"
+   ],
+   "rows": [
+    [
+     "Kun je het raam even dichtdoen?",
+     "¿Puedes cerrar la ventana?",
+     "normal, amable"
+    ],
+    [
+     "Zou je me kunnen helpen?",
+     "¿Podrías ayudarme?",
+     "educado"
+    ],
+    [
+     "Wilt u hier even tekenen?",
+     "¿Puede firmar aquí, por favor?",
+     "educado, formal"
+    ],
+    [
+     "Mag ik de rekening?",
+     "¿Me trae la cuenta?",
+     "normal"
+    ],
+    [
+     "Zou u langzamer kunnen praten?",
+     "¿Podría hablar más despacio?",
+     "muy educado"
+    ],
+    [
+     "Komt u binnen.",
+     "Pase usted.",
+     "imperativo formal con u"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "El neerlandés es directo, y no pasa nada",
+   "text": "Como en España, un imperativo en neerlandés no es descortés: <i>Geef me het zout even</i> es normal en la mesa. Pero con desconocidos, en las tiendas y en el trabajo, una pregunta con <b>kun je, zou je</b> o <b>wilt u</b> es más segura. <b>alsjeblieft</b> / <b>alstublieft</b> al final la hace educada."
+  },
+  {
+   "type": "h1",
+   "text": "4. Los suavizadores: even, maar, eens"
+  },
+  {
+   "type": "p",
+   "text": "Unas palabritas hacen el imperativo más amable. No tienen traducción directa; cambian el tono, no el significado (más en B2 · pdf 3)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.6,
+    7.8
+   ],
+   "head": [
+    "Palabra",
+    "Efecto",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "even",
+     "un momento, un favor pequeño",
+     "Kun je even helpen? Wacht even."
+    ],
+    [
+     "maar",
+     "adelante, sin problema: permiso",
+     "Kom maar binnen. Ga maar zitten."
+    ],
+    [
+     "eens",
+     "prueba esto: una propuesta",
+     "Kijk eens. Probeer het eens."
+    ],
+    [
+     "toch",
+     "venga: insistir",
+     "Kom toch mee!"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Frases útiles",
+   "items": [
+    [
+     "Wacht even.",
+     "Espera un momento."
+    ],
+    [
+     "Kom maar binnen.",
+     "Pasa, pasa."
+    ],
+    [
+     "Ga maar zitten.",
+     "Siéntate."
+    ],
+    [
+     "Kijk eens.",
+     "Mira."
+    ],
+    [
+     "Let op!",
+     "¡Atención!"
+    ],
+    [
+     "Pas op!",
+     "¡Cuidado!"
+    ],
+    [
+     "Maak je geen zorgen.",
+     "No te preocupes."
+    ],
+    [
+     "Doe maar rustig.",
+     "Tranquilo."
+    ],
+    [
+     "Laten we gaan.",
+     "Vamos."
+    ],
+    [
+     "Ga je gang.",
+     "Adelante."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Komt binnen!",
+     "Kom binnen!",
+     "Imperativo: la raíz."
+    ],
+    [
+     "Ben voorzichtig.",
+     "Wees voorzichtig.",
+     "zijn: wees."
+    ],
+    [
+     "Niet rookt.",
+     "Rook niet.",
+     "Negación: la raíz + niet."
+    ],
+    [
+     "Laat ons gaan.",
+     "Laten we gaan.",
+     "Vamos a: laten we."
+    ],
+    [
+     "Opbel me morgen.",
+     "Bel me morgen op.",
+     "Separable: prefijo al final."
+    ],
+    [
+     "Zou je kunnen me helpen?",
+     "Zou je me kunnen helpen?",
+     "Los infinitivos van al final."
+    ],
+    [
+     "Maak je niet zorgen.",
+     "Maak je geen zorgen.",
+     "Delante de un sustantivo: geen."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ binnen!",
+     "hint": "komen",
+     "a": "kom",
+     "full": "Kom binnen!"
+    },
+    {
+     "q": "______ voorzichtig op de fiets.",
+     "hint": "zijn",
+     "a": "wees",
+     "full": "Wees voorzichtig op de fiets."
+    },
+    {
+     "q": "Bel me morgen ______.",
+     "hint": "opbellen",
+     "a": "op",
+     "full": "Bel me morgen op."
+    },
+    {
+     "q": "______ we naar huis gaan.",
+     "hint": "vamos a",
+     "a": "laten",
+     "full": "Laten we naar huis gaan."
+    },
+    {
+     "q": "______ je me kunnen helpen?",
+     "hint": "podrías",
+     "a": "zou",
+     "full": "Zou je me kunnen helpen?"
+    },
+    {
+     "q": "Wacht ______. Ik kom eraan.",
+     "hint": "un momento",
+     "a": "even",
+     "full": "Wacht even. Ik kom eraan."
+    },
+    {
+     "q": "Ga ______ zitten. Wil je koffie?",
+     "hint": "permiso, amable",
+     "a": "maar",
+     "full": "Ga maar zitten. Wil je koffie?"
+    },
+    {
+     "q": "Kijk ______ wat ik heb gekocht!",
+     "hint": "propuesta",
+     "a": "eens",
+     "full": "Kijk eens wat ik heb gekocht!"
+    },
+    {
+     "q": "Maak je ______ zorgen.",
+     "hint": "no te preocupes",
+     "a": "geen",
+     "full": "Maak je geen zorgen."
+    },
+    {
+     "q": "______ u hier even tekenen?",
+     "hint": "educado, ¿puede usted?",
+     "a": "wilt",
+     "full": "Wilt u hier even tekenen?"
+    },
+    {
+     "q": "Vergeet je jas ______.",
+     "hint": "no te olvides",
+     "a": "niet",
+     "full": "Vergeet je jas niet."
+    },
+    {
+     "q": "Pas ______! Een fiets!",
+     "hint": "ten cuidado",
+     "a": "op",
+     "full": "Pas op! Een fiets!"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Pasa.",
+     "a": "Kom binnen."
+    },
+    {
+     "q": "No te preocupes.",
+     "a": "Maak je geen zorgen."
+    },
+    {
+     "q": "¿Podrías ayudarme?",
+     "a": "Zou je me kunnen helpen?"
+    },
+    {
+     "q": "Vámonos a casa.",
+     "a": "Laten we naar huis gaan."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

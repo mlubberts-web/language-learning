@@ -185,5 +185,16 @@
   "subtitle": "net zo ... als, -er dan, steeds; los ordinales, las fechas, los años y los precios",
   "content": "a2_08_comparing_numbers.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_09_El_imperativo_y_las_peticiones_educadas",
+  "file": "A2_09_El_imperativo_y_las_peticiones_educadas.pdf",
+  "level": "A2",
+  "number": 9,
+  "section": "Verbos",
+  "title": "El imperativo y las peticiones educadas",
+  "subtitle": "Kom binnen, laten we gaan, zou je ... kunnen, y los suavizadores even, maar y eens",
+  "content": "a2_09_imperative_requests.json",
+  "exercise_count": 12
  }
 ]
