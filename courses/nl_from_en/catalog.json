@@ -427,5 +427,27 @@
   "subtitle": "Collocations, idioms, work and money, and the topics of the Staatsexamen NT2, Programma II",
   "content": "b2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_01_Nuances_of_tense_and_mood",
+  "file": "C1_01_Nuances_of_tense_and_mood.pdf",
+  "level": "C1",
+  "number": 1,
+  "section": "Verbs",
+  "title": "Nuances of tense and mood",
+  "subtitle": "al + present, the past for politeness, zou and moeten for what others say, and zal wel for guesses",
+  "content": "c1_01_tense_mood.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_02_Complex_word_order",
+  "file": "C1_02_Complex_word_order.pdf",
+  "level": "C1",
+  "number": 2,
+  "section": "Grammar",
+  "title": "Complex word order",
+  "subtitle": "The middle of the sentence: pronouns, time, manner and place; fronting for emphasis; and phrases after the verbs",
+  "content": "c1_02_complex_word_order.json",
+  "exercise_count": 10
  }
 ]
