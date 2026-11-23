@@ -1,0 +1,314 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Los tiempos en una historia",
+  "subtitle": "El pluscuamperfecto (had gedaan, was gegaan) y todos los tiempos del pasado juntos en una historia",
+  "footer": "Language Learning · B2 · Verbos · Los tiempos en una historia",
+  "next": "Siguiente: B2 · pdf 2 — er (2)"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el <b>pluscuamperfecto</b> con <b>had</b> o <b>was</b> + participio",
+    "mostrar qué ocurrió primero",
+    "contar una historia con el pasado simple, el perfecto y el pluscuamperfecto juntos",
+    "mirar al futuro desde el pasado con <b>zou</b> y <b>ging</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El pluscuamperfecto"
+  },
+  {
+   "type": "p",
+   "text": "El pluscuamperfecto (<i>voltooid verleden tijd</i>) es el pasado simple de <b>hebben</b> o <b>zijn</b> + participio, igual que el español <i>había hecho</i>: <i>Ik <b>had</b> het al <b>gezien</b> (ya lo había visto). Hij <b>was</b> al <b>vertrokken</b> (ya se había ido).</i> Ojo: el español usa siempre <i>haber</i>, pero el neerlandés elige entre hebben y zijn como en el perfecto (A2 · pdf 2)."
+  },
+  {
+   "type": "conj",
+   "verb": "vertrekken",
+   "meaning": "irse, salir",
+   "label": "verbo fuerte",
+   "tense": "pluscuamperfecto",
+   "forms": [
+    "was *vertrokken*",
+    "was *vertrokken*",
+    "was *vertrokken*",
+    "waren *vertrokken*",
+    "waren *vertrokken*",
+    "waren *vertrokken*"
+   ],
+   "examples": [
+    [
+     "Ik was al vertrokken toen ze belde.",
+     "Ya me había ido cuando ella llamó."
+    ],
+    [
+     "Was je al vertrokken?",
+     "¿Ya te habías ido?"
+    ],
+    [
+     "De trein was net vertrokken.",
+     "El tren acababa de salir."
+    ],
+    [
+     "We waren om acht uur vertrokken.",
+     "Habíamos salido a las ocho."
+    ],
+    [
+     "Jullie waren al vertrokken.",
+     "Usted ya se había ido."
+    ],
+    [
+     "Ze waren nog niet vertrokken.",
+     "Todavía no se habían ido."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.6,
+    6.0,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Orden"
+   ],
+   "rows": [
+    [
+     "Toen ik aankwam, was de film al begonnen.",
+     "Cuando llegué, la película ya había empezado.",
+     "primero la película"
+    ],
+    [
+     "Toen ik aankwam, begon de film.",
+     "Cuando llegué, empezó la película.",
+     "primero yo"
+    ],
+    [
+     "Ze was zenuwachtig, want ze had nog nooit gevlogen.",
+     "Estaba nerviosa porque nunca había volado.",
+     "nunca antes de eso"
+    ],
+    [
+     "Nadat we hadden gegeten, gingen we wandelen.",
+     "Después de comer, fuimos a dar un paseo.",
+     "primero la comida"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Todos los tiempos del pasado en una historia"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.4,
+    6.2
+   ],
+   "head": [
+    "Tiempo",
+    "Función",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "pasado simple",
+     "los hechos, uno tras otro (indefinido); el fondo (imperfecto)",
+     "Ik deed de deur open en zag een man."
+    ],
+    [
+     "was aan het + infinitivo",
+     "lo que estaba pasando (estaba + gerundio)",
+     "Het was aan het regenen."
+    ],
+    [
+     "pluscuamperfecto",
+     "lo que había pasado antes",
+     "Iemand had het raam gebroken."
+    ],
+    [
+     "zou / ging + infinitivo",
+     "lo que iba a pasar",
+     "Ik zou die avond vertrekken."
+    ],
+    [
+     "perfecto",
+     "la noticia, en la conversación; el resumen",
+     "Gisteren heb ik iets geks meegemaakt."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>Gisteren <b>heb</b> ik iets geks <b>meegemaakt</b>. Ik <b>was</b> net thuis en het <b>was aan het regenen</b>. Toen ik de deur <b>opendeed</b>, <b>zag</b> ik dat iemand het raam <b>had gebroken</b>. Ik <b>zou</b> die avond met vrienden uit eten <b>gaan</b>, maar ik <b>belde</b> eerst de politie.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Perfecto para empezar, pasado simple para contar",
+   "text": "En la conversación los neerlandeses suelen empezar con el perfecto (<i>Heb je gehoord wat er gebeurd is?</i>) y luego pasan al pasado simple para los detalles (<i>Hij reed door rood en ...</i>). En España se hace algo parecido: <i>¿Te has enterado de lo que ha pasado? Se saltó un semáforo en rojo ...</i> Recuerda que el pasado simple neerlandés cubre a la vez el indefinido y el imperfecto españoles."
+  },
+  {
+   "type": "h1",
+   "text": "3. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Toen ik aankwam, de film was al begonnen.",
+     "Toen ik aankwam, was de film al begonnen.",
+     "Tras la frase con toen: el verbo primero."
+    ],
+    [
+     "Hij had al vertrokken.",
+     "Hij was al vertrokken.",
+     "vertrekken va con zijn."
+    ],
+    [
+     "Ik was het boek al gelezen.",
+     "Ik had het boek al gelezen.",
+     "lezen va con hebben."
+    ],
+    [
+     "Nadat we aten, we gingen wandelen.",
+     "Nadat we hadden gegeten, gingen we wandelen.",
+     "Lo anterior: pluscuamperfecto; después, inversión."
+    ],
+    [
+     "Ik ging die avond vertrekken, maar ...",
+     "Ik zou die avond vertrekken, maar ...",
+     "Un plan en el pasado: zou.",
+     "consejo"
+    ],
+    [
+     "Het regende aan het.",
+     "Het was aan het regenen.",
+     "was aan het + infinitivo."
+    ],
+    [
+     "Ze had nooit gevlogen geweest.",
+     "Ze had nog nooit gevlogen.",
+     "Pluscuamperfecto: had + participio."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Toen ik op het station kwam, ______ de trein al vertrokken.",
+     "hint": "zijn, pasado",
+     "a": "was",
+     "full": "Toen ik op het station kwam, was de trein al vertrokken."
+    },
+    {
+     "q": "Ik ______ het boek al gelezen.",
+     "hint": "hebben, pasado",
+     "a": "had",
+     "full": "Ik had het boek al gelezen."
+    },
+    {
+     "q": "Ze was zenuwachtig, want ze had nog nooit ______.",
+     "hint": "vliegen, participio",
+     "a": "gevlogen",
+     "full": "Ze was zenuwachtig, want ze had nog nooit gevlogen."
+    },
+    {
+     "q": "Nadat we ______ gegeten, gingen we wandelen.",
+     "hint": "hebben, pasado",
+     "a": "hadden",
+     "full": "Nadat we hadden gegeten, gingen we wandelen."
+    },
+    {
+     "q": "Het was aan het ______ toen ik thuiskwam.",
+     "hint": "sneeuwen",
+     "a": "sneeuwen",
+     "full": "Het was aan het sneeuwen toen ik thuiskwam."
+    },
+    {
+     "q": "Ik ______ die avond vertrekken, maar ik werd ziek.",
+     "hint": "plan en el pasado",
+     "a": "zou",
+     "full": "Ik zou die avond vertrekken, maar ik werd ziek."
+    },
+    {
+     "q": "Hij kon niet betalen, want hij had zijn portemonnee ______.",
+     "hint": "verliezen, participio",
+     "a": "verloren",
+     "full": "Hij kon niet betalen, want hij had zijn portemonnee verloren."
+    },
+    {
+     "q": "Toen we aankwamen, ______ iedereen al weg.",
+     "hint": "zijn, pasado",
+     "a": "was",
+     "full": "Toen we aankwamen, was iedereen al weg."
+    },
+    {
+     "q": "Ze ______ al twee uur gewacht toen de dokter kwam.",
+     "hint": "hebben, pasado, ellos",
+     "a": "hadden",
+     "full": "Ze hadden al twee uur gewacht toen de dokter kwam."
+    },
+    {
+     "q": "Gisteren ______ ik iets geks meegemaakt.",
+     "hint": "hebben, perfecto",
+     "a": "heb",
+     "full": "Gisteren heb ik iets geks meegemaakt."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Cuando llegué, la película ya había empezado.",
+     "a": "Toen ik aankwam, was de film al begonnen."
+    },
+    {
+     "q": "Ya había leído el libro.",
+     "a": "Ik had het boek al gelezen."
+    },
+    {
+     "q": "Estaba lloviendo.",
+     "a": "Het was aan het regenen."
+    },
+    {
+     "q": "Iba a irme esa tarde.",
+     "a": "Ik zou die avond vertrekken."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

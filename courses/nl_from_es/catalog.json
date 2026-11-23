@@ -317,5 +317,16 @@
   "subtitle": "Dar tu opinión, expresiones cotidianas, falsos amigos y los temas del Staatsexamen B1",
   "content": "b1_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_01_Los_tiempos_en_una_historia",
+  "file": "B2_01_Los_tiempos_en_una_historia.pdf",
+  "level": "B2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Los tiempos en una historia",
+  "subtitle": "El pluscuamperfecto (had gedaan, was gegaan) y todos los tiempos del pasado juntos en una historia",
+  "content": "b2_01_tenses_story.json",
+  "exercise_count": 10
  }
 ]
