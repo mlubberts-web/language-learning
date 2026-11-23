@@ -1,0 +1,36 @@
+{
+  "id": "nl_from_en",
+  "learn": "nl",
+  "explained_in": "en",
+  "title": "Dutch",
+  "subtitle": "Dutch from the Netherlands, explained in English",
+  "exam": "Staatsexamen NT2",
+  "accent_pdfs": [],
+  "exam_site": "https://www.staatsexamensnt2.nl/",
+  "exam_levels": {
+    "A1": {
+      "name": "Inburgeringsexamen A2",
+      "site": "https://www.inburgeren.nl/examen-doen/oefenen.jsp"
+    },
+    "A2": {
+      "name": "Inburgeringsexamen A2",
+      "site": "https://www.inburgeren.nl/examen-doen/oefenen.jsp"
+    },
+    "B1": {
+      "name": "Staatsexamen NT2 I",
+      "site": "https://www.staatsexamensnt2.nl/voorbereiden/examens-oefenen"
+    },
+    "B2": {
+      "name": "Staatsexamen NT2 II",
+      "site": "https://www.staatsexamensnt2.nl/voorbereiden/examens-oefenen"
+    },
+    "C1": {
+      "name": "CNaVT C1",
+      "site": "https://cnavt.org/voorbereiding/voorbeeldexamens"
+    },
+    "C2": {
+      "name": "CNaVT C1",
+      "site": "https://cnavt.org/voorbereiding/voorbeeldexamens"
+    }
+  }
+}
