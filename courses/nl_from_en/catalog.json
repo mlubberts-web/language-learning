@@ -383,5 +383,16 @@
   "subtitle": "-e after geen, elk and zo'n; iets nieuws; fixed phrases without -e; and adverbs without -ly",
   "content": "b2_06_adjectives_adverbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_07_Pronouns_in_depth",
+  "file": "B2_07_Pronouns_in_depth.pdf",
+  "level": "B2",
+  "number": 7,
+  "section": "Grammar",
+  "title": "Pronouns in depth",
+  "subtitle": "het, dit and dat as subjects, die and dat standing alone, elkaar, zichzelf, and men, je and ze",
+  "content": "b2_07_pronouns_depth.json",
+  "exercise_count": 12
  }
 ]
