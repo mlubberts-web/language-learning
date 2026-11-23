@@ -548,5 +548,16 @@
   "subtitle": "Verbos fuertes raros y mixtos, el doble infinitivo a fondo y los verbos que van con hebben y con zijn",
   "content": "c2_01_fine_points_grammar.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_02_El_orden_avanzado",
+  "file": "C2_02_El_orden_avanzado.pdf",
+  "level": "C2",
+  "number": 2,
+  "section": "Gramática",
+  "title": "El orden avanzado",
+  "subtitle": "El orden de los pronombres (Ik heb het hem gegeven), los grupos verbales «rojo» y «verde», y las oraciones tras los verbos",
+  "content": "c2_02_advanced_word_order.json",
+  "exercise_count": 10
  }
 ]

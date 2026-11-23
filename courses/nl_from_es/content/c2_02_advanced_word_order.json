@@ -1,0 +1,323 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "El orden avanzado",
+  "subtitle": "El orden de los pronombres (Ik heb het hem gegeven), los grupos verbales «rojo» y «verde», y las oraciones tras los verbos",
+  "footer": "Language Learning · C2 · Gramática · El orden avanzado",
+  "next": "Siguiente: C2 · pdf 3 — Oraciones complejas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "ordenar dos pronombres complemento: <b>het hem, het haar, ze me</b>",
+    "elegir entre el orden «rojo» y el «verde» en los grupos verbales",
+    "poner las oraciones con dat y om te después de los verbos",
+    "colocar con precisión adverbios pequeños como <b>ook, al, nog</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Dos complementos"
+  },
+  {
+   "type": "p",
+   "text": "Con dos sustantivos, el complemento indirecto (la persona) va primero: <i>Ik heb <b>mijn moeder een boek</b> gegeven.</i> Con pronombres, <b>het</b> y los átonos <b>'t, ze</b> (cosas) van antes de la persona: <i>Ik heb <b>het hem</b> gegeven.</i> (Se lo di.) Es justo al revés que en español, donde la persona va primero: <i>se lo, me lo, dámelo</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.8,
+    5.6,
+    4.6
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Orden"
+   ],
+   "rows": [
+    [
+     "Ik heb mijn moeder een boek gegeven.",
+     "Le di un libro a mi madre.",
+     "persona + cosa"
+    ],
+    [
+     "Ik heb haar een boek gegeven.",
+     "Le di un libro.",
+     "pronombre de persona + sustantivo"
+    ],
+    [
+     "Ik heb het haar gegeven.",
+     "Se lo di (a ella).",
+     "het + persona"
+    ],
+    [
+     "Geef het me maar.",
+     "Dámelo.",
+     "het + me"
+    ],
+    [
+     "Ik heb het aan mijn moeder gegeven.",
+     "Se lo di a mi madre.",
+     "het + aan + sustantivo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Los pronombres saltan al principio",
+   "text": "Todos los pronombres átonos van al principio del campo central, justo después del verbo (o del sujeto, cuando este va detrás del verbo): <i>Gisteren heeft hij <b>het me</b> verteld</i> (ayer me lo contó). Un sujeto sustantivo puede incluso ir detrás de los pronombres: <i>Gisteren heeft <b>het me</b> mijn buurman verteld</i> (formal)."
+  },
+  {
+   "type": "h1",
+   "text": "2. El orden rojo y el verde"
+  },
+  {
+   "type": "p",
+   "text": "Al final de una subordinada, un participio y su auxiliar pueden ir en dos órdenes. Los lingüistas neerlandeses los llaman <b>rojo</b> (el auxiliar primero: <i>dat hij is gekomen</i>) y <b>verde</b> (el participio primero: <i>dat hij gekomen is</i>). Los dos son estándar; el verde es más frecuente en los Países Bajos, el rojo en Bélgica y por escrito."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    4.6,
+    6.4
+   ],
+   "head": [
+    "Grupo",
+    "Órdenes posibles",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "participio + auxiliar",
+     "gekomen is / is gekomen",
+     "los dos son correctos"
+    ],
+    [
+     "modal + infinitivo",
+     "moet werken / werken moet",
+     "el primero es el normal"
+    ],
+    [
+     "tres verbos",
+     "zou hebben kunnen doen",
+     "fijo: sin orden libre"
+    ],
+    [
+     "con un verbo separable",
+     "wil opbellen / op wil bellen",
+     "los dos son correctos"
+    ],
+    [
+     "adjetivo + zijn",
+     "dat het duur is",
+     "no: dat het is duur"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Oraciones tras los verbos"
+  },
+  {
+   "type": "p",
+   "text": "Una oración con <b>dat</b> o con <b>om te</b> que funciona como complemento va <b>después</b> de los verbos del final, no dentro del campo central: <i>Ik heb gezegd <b>dat hij moet komen</b>.</i> (No: <i>Ik heb dat hij moet komen gezegd.</i>) Los complementos con preposición también pueden ir detrás (C1 · pdf 2)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.2,
+    8.8
+   ],
+   "head": [
+    "Correcto",
+    "Incorrecto"
+   ],
+   "rows": [
+    [
+     "Ik heb gezegd dat hij moet komen.",
+     "Ik heb dat hij moet komen gezegd."
+    ],
+    [
+     "Hij heeft beloofd om me te helpen.",
+     "Hij heeft om me te helpen beloofd."
+    ],
+    [
+     "Ik weet niet of ze komt.",
+     "—"
+    ],
+    [
+     "Ik heb haar gevraagd of ze meegaat.",
+     "Ik heb haar of ze meegaat gevraagd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Adverbios pequeños"
+  },
+  {
+   "type": "p",
+   "text": "Los adverbios pequeños como <b>ook, al, nog, wel, toch, maar, even</b> van pronto en el campo central, después de los pronombres, y destacan lo que les sigue: <i>Ik heb het <b>ook</b> gezien.</i> (Yo también lo he visto.) <i>Ik heb <b>ook</b> het boek gelezen.</i> (También he leído el libro.)"
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik heb hem het gegeven.",
+     "Ik heb het hem gegeven.",
+     "het antes del pronombre de persona (al revés que «se lo»)."
+    ],
+    [
+     "Geef me het.",
+     "Geef het me.",
+     "het antes de me (al revés que «dámelo»)."
+    ],
+    [
+     "Ik heb dat hij moet komen gezegd.",
+     "Ik heb gezegd dat hij moet komen.",
+     "La oración con dat tras los verbos."
+    ],
+    [
+     "dat hij het zou kunnen hebben doen",
+     "dat hij het zou hebben kunnen doen",
+     "Orden fijo con tres verbos."
+    ],
+    [
+     "Hij heeft om te helpen beloofd.",
+     "Hij heeft beloofd om te helpen.",
+     "La oración con om te tras los verbos."
+    ],
+    [
+     "dat het is duur",
+     "dat het duur is",
+     "Todos los verbos al final."
+    ],
+    [
+     "Ik heb gezien het ook.",
+     "Ik heb het ook gezien.",
+     "Pronombre y adverbio en el centro."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta en su sitio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb ______ hem gegeven.",
+     "hint": "lo",
+     "a": "het",
+     "full": "Ik heb het hem gegeven."
+    },
+    {
+     "q": "Geef het ______ maar.",
+     "hint": "me",
+     "a": "me",
+     "full": "Geef het me maar."
+    },
+    {
+     "q": "Ik heb mijn zus een ______ gestuurd.",
+     "hint": "tarjeta, postal",
+     "a": "kaart",
+     "full": "Ik heb mijn zus een kaart gestuurd."
+    },
+    {
+     "q": "Gisteren heeft hij het me ______.",
+     "hint": "vertellen, participio",
+     "a": "verteld",
+     "full": "Gisteren heeft hij het me verteld."
+    },
+    {
+     "q": "Ik denk dat hij al ______ gekomen.",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Ik denk dat hij al is gekomen."
+    },
+    {
+     "q": "Hij heeft gezegd ______ hij morgen komt.",
+     "hint": "que",
+     "a": "dat",
+     "full": "Hij heeft gezegd dat hij morgen komt."
+    },
+    {
+     "q": "Ze heeft beloofd ______ me te helpen.",
+     "hint": "om",
+     "a": "om",
+     "full": "Ze heeft beloofd om me te helpen."
+    },
+    {
+     "q": "dat hij het zou hebben ______ doen",
+     "hint": "kunnen",
+     "a": "kunnen",
+     "full": "dat hij het zou hebben kunnen doen"
+    },
+    {
+     "q": "Ik heb het ______ gezien.",
+     "hint": "también",
+     "a": "ook",
+     "full": "Ik heb het ook gezien."
+    },
+    {
+     "q": "Ik heb haar gevraagd ______ ze meegaat.",
+     "hint": "si",
+     "a": "of",
+     "full": "Ik heb haar gevraagd of ze meegaat."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Se lo di (a él).",
+     "a": "Ik heb het hem gegeven."
+    },
+    {
+     "q": "Dámelo.",
+     "a": "Geef het me maar."
+    },
+    {
+     "q": "Dijo que vendría mañana.",
+     "a": "Hij heeft gezegd dat hij morgen zou komen."
+    },
+    {
+     "q": "Habría podido hacerlo.",
+     "a": "Hij had het kunnen doen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
