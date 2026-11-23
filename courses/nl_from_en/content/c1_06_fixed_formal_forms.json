@@ -42,7 +42,7 @@
    ["Tenslotte wil ik iedereen bedanken.", "Ten slotte wil ik iedereen bedanken.", "Finally: ten slotte, two words."],
    ["de vrouw wiens zoon arts is", "de vrouw wier zoon arts is", "Female: wier."],
    ["de man die zijn auto gestolen is", "de man wiens auto gestolen is", "Whose: wiens or van wie."],
-   ["ter plaats", "ter plaatse", "Fixed: ter plaatse."]
+   ["ter plaats", "ter plaatse", "Fixed: ter plaatse."]]},
   {"type": "h1", "text": "5. Self-check"},
   {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
   {"type": "exercises", "items": [
