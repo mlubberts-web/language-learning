@@ -130,5 +130,27 @@
   "subtitle": "was / were + -ing: de achtergrond van een verhaal, en when en while",
   "content": "a2_03_past_continuous.json",
   "exercise_count": 10
+ },
+ {
+  "id": "A2_04_De_present_perfect",
+  "file": "A2_04_De_present_perfect.pdf",
+  "level": "A2",
+  "number": 4,
+  "section": "Werkwoorden",
+  "title": "De present perfect",
+  "subtitle": "have / has + voltooid deelwoord: ervaringen, ever en never, just, already en yet, for en since",
+  "content": "a2_04_present_perfect.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_05_Present_perfect_of_past_simple",
+  "file": "A2_05_Present_perfect_of_past_simple.pdf",
+  "level": "A2",
+  "number": 5,
+  "section": "Werkwoorden",
+  "title": "Present perfect of past simple?",
+  "subtitle": "Afgelopen tijd of tijd tot nu: de grootste valkuil voor Nederlanders",
+  "content": "a2_05_perfect_or_past.json",
+  "exercise_count": 12
  }
 ]

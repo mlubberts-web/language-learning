@@ -1,0 +1,89 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 4, "total_in_level": 10,
+ "title": "De present perfect",
+ "subtitle": "have / has + voltooid deelwoord: ervaringen, ever en never, just, already en yet, for en since",
+ "footer": "Language Learning · A2 · Werkwoorden · Present perfect",
+ "next": "Volgende: A2 · pdf 5 — Present perfect of past simple?"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de present perfect vormen met <b>have / has + voltooid deelwoord</b>",
+  "over ervaringen praten met <b>ever</b> en <b>never</b>",
+  "<b>just, already</b> en <b>yet</b> gebruiken",
+  "zeggen hoe lang iets al duurt met <b>for</b> en <b>since</b>"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "p", "text": "De present perfect is <b>have</b> (of <b>has</b> bij he, she, it) plus het <b>voltooid deelwoord</b> (past participle). Bij regelmatige werkwoorden is dat de -ed-vorm: <i>worked, played</i>. Onregelmatige werkwoorden hebben een eigen derde vorm: <i>go – went – <b>gone</b></i>."},
+ {"type": "conj", "verb": "to see", "meaning": "zien", "label": "onregelmatig werkwoord", "tense": "present perfect",
+  "forms": ["have seen", "have seen", "ha*s* seen", "have seen", "have seen", "have seen"],
+  "examples": [["I have seen that film twice.", "Ik heb die film twee keer gezien."], ["Have you seen my keys?", "Heb jij mijn sleutels gezien?"], ["She has never seen the sea.", "Zij heeft de zee nog nooit gezien."], ["We have seen a lot of Spain.", "We hebben veel van Spanje gezien."], ["You have seen the new office.", "Jullie hebben het nieuwe kantoor gezien."], ["They haven't seen him yet.", "Zij hebben hem nog niet gezien."]]},
+ {"type": "table", "style": "plain", "widths": [3.6, 3.6, 3.6, 6.2], "head": ["Infinitief", "Past simple", "Past participle", "Nederlands"], "rows": [
+  ["be", "was / were", "been", "zijn, geweest"],
+  ["go", "went", "gone", "gaan, gegaan"],
+  ["do", "did", "done", "doen, gedaan"],
+  ["see", "saw", "seen", "zien, gezien"],
+  ["eat", "ate", "eaten", "eten, gegeten"],
+  ["write", "wrote", "written", "schrijven, geschreven"],
+  ["take", "took", "taken", "nemen, genomen"],
+  ["speak", "spoke", "spoken", "spreken, gesproken"],
+  ["buy", "bought", "bought", "kopen, gekocht"],
+  ["make", "made", "made", "maken, gemaakt"]]},
+ {"type": "callout", "kind": "dutch", "title": "Altijd have, nooit be", "text": "Het Nederlands zegt <i>ik <b>ben</b> gegaan, ik <b>ben</b> gekomen</i>. Het Engels gebruikt altijd <b>have</b>: <b>I have gone</b>, <b>She has come</b>, <b>We have arrived</b>. Nooit <i>I am gone</i> in deze betekenis."},
+ {"type": "callout", "kind": "tip", "title": "been of gone?", "text": "<i>He has <b>gone</b> to Spain</i>: hij is er nu nog. <i>He has <b>been</b> to Spain</i>: hij is er geweest en weer terug."},
+
+ {"type": "h1", "text": "2. Ervaringen: ever en never"},
+ {"type": "p", "text": "Met de present perfect vertel je wat je ooit in je leven hebt gedaan, zonder te zeggen wanneer."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["Have you ever been to London?", "Ben je ooit in Londen geweest?"],
+  ["Yes, I have. / No, I haven't.", "Ja. / Nee."],
+  ["I've never eaten sushi.", "Ik heb nog nooit sushi gegeten."],
+  ["She has visited Spain three times.", "Zij is drie keer in Spanje geweest."]]},
+
+ {"type": "h1", "text": "3. just, already en yet"},
+ {"type": "table", "style": "plain", "widths": [3.0, 7.0, 7.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["just", "I've just finished.", "Ik ben net klaar. (zojuist)"],
+  ["already", "She has already left.", "Zij is al weg."],
+  ["yet (vraag)", "Have you eaten yet?", "Heb je al gegeten?"],
+  ["yet (ontkenning)", "I haven't finished yet.", "Ik ben nog niet klaar."]]},
+ {"type": "callout", "kind": "warn", "title": "Plek in de zin", "text": "<b>just</b> en <b>already</b> staan tussen have en het deelwoord: <i>I have <b>just</b> arrived.</i> <b>yet</b> staat aan het eind: <i>Have you called her <b>yet</b>?</i>"},
+
+ {"type": "h1", "text": "4. for en since"},
+ {"type": "p", "text": "Voor iets dat in het verleden begon en nu nog doorgaat, gebruik je de present perfect met <b>for</b> (een periode) of <b>since</b> (een beginpunt)."},
+ {"type": "table", "style": "plain", "widths": [3.0, 7.0, 7.0], "head": ["", "Voorbeeld", "Nederlands"], "rows": [
+  ["for", "I've lived here for ten years.", "Ik woon hier al tien jaar."],
+  ["since", "I've lived here since 2015.", "Ik woon hier sinds 2015."],
+  ["How long", "How long have you known her?", "Hoe lang ken je haar al?"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands tegenwoordige tijd, Engels present perfect", "text": "<i>Ik woon hier al tien jaar</i> staat in het Nederlands in de tegenwoordige tijd. Het Engels gebruikt de present perfect: <b>I have lived here for ten years</b>. <i>I live here for ten years</i> is fout."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I am gone to the shop.", "I have gone to the shop.", "De present perfect gaat altijd met have."],
+  ["She have finished.", "She has finished.", "Bij she: has."],
+  ["I live here since 2010.", "I have lived here since 2010.", "Iets dat tot nu doorgaat: present perfect."],
+  ["I have lived here since ten years.", "I have lived here for ten years.", "Een periode: for."],
+  ["Have you ever went to Rome?", "Have you ever been to Rome?", "Na have komt het voltooid deelwoord."],
+  ["I haven't yet finished.", "I haven't finished yet.", "yet staat aan het eind."],
+  ["I know her since years.", "I have known her for years.", "Present perfect met for."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul de present perfect of het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ that film three times.", "hint": "see", "a": "have seen", "full": "I have seen that film three times."},
+  {"q": "She ______ to Spain many times.", "hint": "be", "a": "has been", "full": "She has been to Spain many times."},
+  {"q": "Have you ______ been to Scotland?", "hint": "ooit", "a": "ever", "full": "Have you ever been to Scotland?"},
+  {"q": "We have ______ arrived. We're still taking our coats off.", "hint": "net", "a": "just", "full": "We have just arrived. We're still taking our coats off."},
+  {"q": "Have you finished your homework ______?", "hint": "al (vraag)", "a": "yet", "full": "Have you finished your homework yet?"},
+  {"q": "I've lived in this town ______ 2018.", "hint": "for of since", "a": "since", "full": "I've lived in this town since 2018."},
+  {"q": "They've been married ______ twenty years.", "hint": "for of since", "a": "for", "full": "They've been married for twenty years."},
+  {"q": "He ______ eaten Indian food.", "hint": "nooit", "a": "has never", "full": "He has never eaten Indian food."},
+  {"q": "I ______ my keys. I can't find them.", "hint": "lose", "a": "have lost", "full": "I have lost my keys. I can't find them."},
+  {"q": "How long have you ______ her?", "hint": "know", "a": "known", "full": "How long have you known her?"},
+  {"q": "She has ______ left. She went an hour ago.", "hint": "al", "a": "already", "full": "She has already left. She went an hour ago."},
+  {"q": "They ______ written the letter yet.", "hint": "ontkenning", "a": "haven't", "full": "They haven't written the letter yet."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik woon hier al vijf jaar.", "a": "I have lived here for five years."},
+  {"q": "Ben je ooit in Londen geweest?", "a": "Have you ever been to London?"},
+  {"q": "Ik heb nog nooit sushi gegeten.", "a": "I have never eaten sushi."},
+  {"q": "Zij is net aangekomen.", "a": "She has just arrived."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

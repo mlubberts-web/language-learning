@@ -1,0 +1,77 @@
+{"meta": {"level": "A2", "section": "Werkwoorden", "number": 5, "total_in_level": 10,
+ "title": "Present perfect of past simple?",
+ "subtitle": "Afgelopen tijd of tijd tot nu: de grootste valkuil voor Nederlanders",
+ "footer": "Language Learning · A2 · Werkwoorden · Present perfect of past simple",
+ "next": "Volgende: A2 · pdf 6 — De toekomst"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "kiezen tussen de present perfect en de past simple",
+  "de tijdwoorden herkennen die bij elke tijd horen",
+  "een gesprek voeren dat begint met een ervaring en verder gaat met details"]},
+
+ {"type": "h1", "text": "1. De hoofdregel"},
+ {"type": "p", "text": "Het Nederlands gebruikt <i>ik heb gedaan</i> en <i>ik deed</i> bijna door elkaar. Het Engels niet. De vraag is steeds: <b>is de tijd afgelopen, of loopt hij tot nu?</b>"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Past simple: afgelopen tijd", "Present perfect: tijd tot nu"], "rows": [
+  ["I saw her yesterday.", "I have seen her today."],
+  ["We went to Italy last year.", "We have been to Italy twice."],
+  ["She lived in Paris from 2010 to 2015.", "She has lived in Paris since 2015."],
+  ["Did you call him this morning? (het is nu middag)", "Have you called him this morning? (het is nog ochtend)"]]},
+ {"type": "callout", "kind": "dutch", "title": "Ik heb gisteren ... = past simple", "text": "Zodra er een moment in het verleden genoemd wordt (yesterday, last week, in 2019, ago, when I was young, What time ...?), gebruik je de <b>past simple</b>: <i>Ik heb hem gisteren gezien</i> = <b>I saw him yesterday</b>. <i>I have seen him yesterday</i> is altijd fout."},
+
+ {"type": "h1", "text": "2. Tijdwoorden"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Past simple", "Present perfect"], "rows": [
+  ["yesterday, last week, last year", "ever, never, before"],
+  ["two days ago, an hour ago", "just, already, yet"],
+  ["in 2020, in May, on Monday", "so far, up to now, recently"],
+  ["when I was a child", "for (tot nu), since"],
+  ["What time ...? When ...?", "today, this week (nog niet voorbij)"]]},
+ {"type": "callout", "kind": "warn", "title": "When ...? altijd met de past simple", "text": "Een vraag met <b>When</b> of <b>What time</b> vraagt naar een moment: <b>When did you arrive?</b>, nooit <i>When have you arrived?</i>"},
+
+ {"type": "h1", "text": "3. Van nieuws naar details"},
+ {"type": "p", "text": "In een gesprek begin je vaak met de present perfect (het nieuws, de ervaring) en ga je over op de past simple zodra je details geeft: wanneer, waar, hoe."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["Have you ever been to New York?", "Ben je ooit in New York geweest?"],
+  ["Yes, I have. I went there in 2019.", "Ja. Ik ben er in 2019 geweest."],
+  ["Did you like it?", "Vond je het leuk?"],
+  ["Yes, it was fantastic. We stayed for a week.", "Ja, het was fantastisch. We zijn er een week gebleven."]]},
+ {"type": "callout", "kind": "tip", "title": "Nieuws op de radio", "text": "Nieuws begint ook vaak met de present perfect en gaat verder in de past simple: <i>A plane <b>has crashed</b> in France. It <b>left</b> Paris at 10 a.m.</i>"},
+
+ {"type": "h1", "text": "4. for in beide tijden"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Betekenis"], "rows": [
+  ["I have worked here for five years.", "Ik werk hier nu al vijf jaar (en nog steeds)."],
+  ["I worked there for five years.", "Ik heb daar vijf jaar gewerkt (nu niet meer)."]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I have seen him yesterday.", "I saw him yesterday.", "yesterday is afgelopen: past simple."],
+  ["When have you arrived?", "When did you arrive?", "When vraagt naar een moment: past simple."],
+  ["Did you ever eat snails?", "Have you ever eaten snails?", "Een ervaring tot nu: present perfect."],
+  ["I have been to Rome in 2018.", "I went to Rome in 2018.", "Een jaartal: past simple."],
+  ["She works here since May.", "She has worked here since May.", "since: present perfect."],
+  ["I didn't finish yet.", "I haven't finished yet.", "yet: present perfect."],
+  ["We have moved two years ago.", "We moved two years ago.", "ago: past simple."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Kies de present perfect of de past simple. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I ______ him at the station yesterday.", "hint": "see", "a": "saw", "full": "I saw him at the station yesterday."},
+  {"q": "______ you ever ______ to Ireland?", "hint": "be", "a": "Have, been", "full": "Have you ever been to Ireland?"},
+  {"q": "We ______ to Greece last summer.", "hint": "go", "a": "went", "full": "We went to Greece last summer."},
+  {"q": "She ______ in this company since 2020.", "hint": "work", "a": "has worked", "full": "She has worked in this company since 2020."},
+  {"q": "When ______ you ______ your car?", "hint": "buy", "a": "did, buy", "full": "When did you buy your car?"},
+  {"q": "I ______ my homework yet.", "hint": "finish, ontkenning", "a": "haven't finished", "full": "I haven't finished my homework yet."},
+  {"q": "They ______ two hours ago.", "hint": "leave", "a": "left", "full": "They left two hours ago."},
+  {"q": "I ______ never ______ a horse.", "hint": "ride", "a": "have, ridden", "full": "I have never ridden a horse."},
+  {"q": "He ______ in Berlin from 2010 to 2014.", "hint": "live", "a": "lived", "full": "He lived in Berlin from 2010 to 2014."},
+  {"q": "Look! I ______ my finger.", "hint": "cut, net gebeurd", "a": "have cut", "full": "Look! I have cut my finger."},
+  {"q": "What time ______ the film start?", "hint": "past simple", "a": "did", "full": "What time did the film start?"},
+  {"q": "I ______ three cups of coffee today.", "hint": "drink, de dag is niet voorbij", "a": "have drunk", "full": "I have drunk three cups of coffee today."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik heb hem gisteren gezien.", "a": "I saw him yesterday."},
+  {"q": "Wanneer ben je aangekomen?", "a": "When did you arrive?"},
+  {"q": "Ik heb nog nooit in een vliegtuig gezeten.", "a": "I have never been on a plane."},
+  {"q": "Ze werkt hier sinds mei.", "a": "She has worked here since May."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
