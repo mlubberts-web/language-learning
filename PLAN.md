@@ -114,7 +114,9 @@ Choices made (Menno can overrule any of them):
 - [x] 3.8 Verbs in context (irregular verbs, tenses) and themed lists.
       (13 verbs-in-context files, 195 sentences; 16 themed lists with 510 entries, including
       phrasal verbs and "Valkuilen voor Nederlanders". More themes can follow, up to the 32 of Spanish.)
-- [ ] 3.9 Model exams: links to the official Cambridge sample papers per level.
+- [x] 3.9 Model exams: links to the official Cambridge sample papers per level.
+      (`exam_levels` in course.json: A1/A2 → A2 Key, B1 Preliminary, B2 First, C1 Advanced,
+      C2 Proficiency; each mock-exam card shows a button to that exam's preparation page.)
 - [ ] 3.10 🙋 Menno spot-checks a few units.
 
 ## Phase 4: English for Spanish speakers (`en_from_es`)

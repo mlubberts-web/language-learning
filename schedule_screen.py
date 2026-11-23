@@ -52,9 +52,18 @@ def long_date(day):
     return ui_text.long_date(day)
 
 
-def exam_name():
-    """The official exam of the course, such as 'DELE'."""
-    return course.info().get("exam", "")
+def exam_name(level=None):
+    """The official exam of the course, such as 'DELE'. Some courses have another exam per level
+    (Cambridge: A2 Key, B2 First ...): course.json then has "exam_levels" with a name per level."""
+    info = course.info()
+    per_level = info.get("exam_levels", {}).get(level)
+    return per_level["name"] if per_level else info.get("exam", "")
+
+
+def exam_level_site(level):
+    """The official page with sample papers for one level, or None (only with "exam_levels")."""
+    per_level = course.info().get("exam_levels", {}).get(level)
+    return per_level.get("site") if per_level else None
 
 
 def goal_text(phase):
@@ -64,6 +73,8 @@ def goal_text(phase):
 
 
 def mock_title(level, number):
+    if course.info().get("exam_levels", {}).get(level):  # the name of the exam already says the level
+        return t("Official {exam} mock exam no. {number} ({level})", exam=exam_name(level), level=level, number=number)
     return t("Official {exam} {level} mock exam no. {number}", exam=exam_name(), level=level, number=number)
 
 
@@ -745,6 +756,9 @@ def mock_section(plan, shares, finished, today):
                 st.caption(t("Planned for {day}", day=long_date(start)) if start else t("Not in the plan"))
                 st.button(t("Log result"), key=f"mock_log_{level}_{number}", on_click=go_mock_log, args=(level, number),
                           width="stretch")
+            if exam_level_site(level):  # a course with an exam per level: its sample papers
+                st.link_button(t("{exam} sample papers", exam=exam_name(level)), exam_level_site(level),
+                               width="stretch")
 
     st.subheader(t("Log a result"))
     st.session_state.setdefault("mock_slot", f"{MOCK_SLOTS[0][0]} · no. 1")

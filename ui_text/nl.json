@@ -471,5 +471,7 @@
  "🗓️ Coming days": "🗓️ Komende dagen",
  "🗓️ Plan": "🗓️ Plannen",
  "🗓️ Schedule": "🗓️ Planning",
- "🧩 Build the sentence": "🧩 Bouw de zin"
+ "🧩 Build the sentence": "🧩 Bouw de zin",
+ "Official {exam} mock exam no. {number} ({level})": "Officieel {exam}-proefexamen nr. {number} ({level})",
+ "{exam} sample papers": "{exam}-oefenexamens"
 }

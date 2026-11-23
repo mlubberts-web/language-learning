@@ -6,5 +6,31 @@
   "subtitle": "Brits Engels, uitgelegd in het Nederlands",
   "exam": "Cambridge",
   "accent_pdfs": [],
-  "exam_site": "https://www.cambridgeenglish.org/exams-and-tests/"
+  "exam_site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/",
+  "exam_levels": {
+    "A1": {
+      "name": "A2 Key",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/key/preparation/"
+    },
+    "A2": {
+      "name": "A2 Key",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/key/preparation/"
+    },
+    "B1": {
+      "name": "B1 Preliminary",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/preliminary/preparation/"
+    },
+    "B2": {
+      "name": "B2 First",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/first/preparation/"
+    },
+    "C1": {
+      "name": "C1 Advanced",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/advanced/preparation/"
+    },
+    "C2": {
+      "name": "C2 Proficiency",
+      "site": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/preparation/"
+    }
+  }
 }

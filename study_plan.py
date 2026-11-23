@@ -98,7 +98,7 @@ def new_unit(kind, key, title, minutes, level, **extra):
 
 
 def mock_unit(level, number):
-    return new_unit("mock", f"{level}:{number}", f"Official DELE {level} mock exam no. {number}",
+    return new_unit("mock", f"{level}:{number}", f"Official {level} mock exam no. {number}",  # on screen: schedule_screen.mock_title
                     MOCK_MINUTES[level], level, number=number)
 
 
