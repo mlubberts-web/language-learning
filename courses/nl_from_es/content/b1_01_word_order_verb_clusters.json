@@ -1,0 +1,296 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "El orden 2: los grupos verbales",
+  "subtitle": "Varios verbos en una oración: Ik heb het niet kunnen doen, omdat ik moet werken",
+  "footer": "Language Learning · B1 · Gramática · Grupos verbales",
+  "next": "Siguiente: B1 · pdf 2 — er (1)"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "poner dos o tres verbos en el orden correcto al final de una oración",
+    "usar el <b>doble infinitivo</b>: <i>Ik heb moeten werken</i>",
+    "construir subordinadas con verbos modales y el perfecto",
+    "mantener juntos los verbos separables en un grupo verbal"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El paréntesis verbal"
+  },
+  {
+   "type": "p",
+   "text": "Una oración principal neerlandesa tiene un 'paréntesis': el verbo conjugado en segundo lugar y todos los demás verbos al final. Todo lo demás (complementos, tiempo, lugar) va en medio. En una subordinada, todos los verbos van juntos al final: ese grupo se llama <b>grupo verbal</b> (<i>werkwoordelijke eindgroep</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    9.6
+   ],
+   "head": [
+    "Oración principal",
+    "Subordinada"
+   ],
+   "rows": [
+    [
+     "Ik <b>moet</b> morgen <b>werken</b>.",
+     "... omdat ik morgen <b>moet werken</b>."
+    ],
+    [
+     "Ik <b>heb</b> het boek <b>gelezen</b>.",
+     "... dat ik het boek <b>gelezen heb</b> / <b>heb gelezen</b>."
+    ],
+    [
+     "Ik <b>wil</b> je <b>opbellen</b>.",
+     "... omdat ik je <b>wil opbellen</b>."
+    ],
+    [
+     "Ik <b>ga</b> een huis <b>kopen</b>.",
+     "... dat we een huis <b>gaan kopen</b>."
+    ],
+    [
+     "Ik <b>heb</b> het niet <b>kunnen doen</b>.",
+     "... dat ik het niet <b>heb kunnen doen</b>."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Dos órdenes para el perfecto",
+   "text": "Con un participio y hebben o zijn, los dos órdenes son correctos al final de una subordinada: <i>dat ik het <b>gelezen heb</b></i> (más frecuente en el norte y al hablar) y <i>dat ik het <b>heb gelezen</b></i>. Con un verbo modal y un infinitivo, el verbo conjugado suele ir primero: <i>omdat ik <b>moet werken</b></i> (también se oye <i>werken moet</i>). Con tres verbos el orden es fijo: <i>dat ik het <b>heb kunnen doen</b></i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. El doble infinitivo"
+  },
+  {
+   "type": "p",
+   "text": "En el perfecto, un verbo modal (y también <i>gaan, laten, zien, horen, blijven</i>) no usa su participio cuando le sigue otro infinitivo. En su lugar hay <b>dos infinitivos</b>: <i>Ik heb moeten werken</i>, no <i>Ik heb gemoeten werken</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.2,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "No"
+   ],
+   "rows": [
+    [
+     "Ik heb moeten werken.",
+     "He tenido que trabajar.",
+     "gemoeten werken"
+    ],
+    [
+     "Ze heeft niet kunnen komen.",
+     "No ha podido venir.",
+     "gekund komen"
+    ],
+    [
+     "We hebben willen helpen.",
+     "Hemos querido ayudar.",
+     "gewild helpen"
+    ],
+    [
+     "Ik ben gaan zwemmen.",
+     "Me he ido a nadar.",
+     "gegaan zwemmen"
+    ],
+    [
+     "Hij heeft zijn auto laten repareren.",
+     "Ha llevado el coche a arreglar.",
+     "gelaten repareren"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "He tenido que = ik heb moeten",
+   "text": "El español usa el participio: <i>he <b>tenido</b> que trabajar, no ha <b>podido</b> venir</i>. El neerlandés usa el infinitivo: <i>ik heb <b>moeten</b> werken, ze heeft niet <b>kunnen</b> komen</i>. Y en una subordinada todos los verbos van al final: <i>porque ayer tuve que trabajar</i> = <i>omdat ik gisteren <b>heb moeten werken</b></i>. Lee la oración hasta el final: el significado llega a menudo con el último verbo."
+  },
+  {
+   "type": "h1",
+   "text": "3. Los verbos separables en un grupo verbal"
+  },
+  {
+   "type": "p",
+   "text": "En un grupo verbal, un verbo separable se queda junto como un solo infinitivo o participio: <i>omdat ik je wil <b>opbellen</b></i>, <i>dat hij al is <b>aangekomen</b></i>. Con un doble infinitivo el prefijo también puede ir delante: <i>dat ik je <b>op</b> wil bellen</i>. Las dos formas son correctas."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik heb gemoeten werken.",
+     "Ik heb moeten werken.",
+     "Doble infinitivo: moeten."
+    ],
+    [
+     "omdat ik moet morgen werken",
+     "omdat ik morgen moet werken",
+     "Todos los verbos al final."
+    ],
+    [
+     "dat ik heb het boek gelezen",
+     "dat ik het boek heb gelezen",
+     "El complemento delante del grupo verbal."
+    ],
+    [
+     "Ze heeft niet gekund komen.",
+     "Ze heeft niet kunnen komen.",
+     "Doble infinitivo: kunnen."
+    ],
+    [
+     "Hij heeft zijn auto gelaten repareren.",
+     "Hij heeft zijn auto laten repareren.",
+     "laten + infinitivo: doble infinitivo."
+    ],
+    [
+     "Ik ben gegaan zwemmen.",
+     "Ik ben gaan zwemmen.",
+     "gaan + infinitivo: doble infinitivo."
+    ],
+    [
+     "dat ik je wil bellen op",
+     "dat ik je wil opbellen",
+     "El prefijo se queda con el verbo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el verbo que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb gisteren lang ______ werken.",
+     "hint": "moeten, doble infinitivo",
+     "a": "moeten",
+     "full": "Ik heb gisteren lang moeten werken."
+    },
+    {
+     "q": "Ze heeft niet ______ komen.",
+     "hint": "kunnen",
+     "a": "kunnen",
+     "full": "Ze heeft niet kunnen komen."
+    },
+    {
+     "q": "Ik blijf thuis, omdat ik morgen vroeg ______ opstaan.",
+     "hint": "moeten",
+     "a": "moet",
+     "full": "Ik blijf thuis, omdat ik morgen vroeg moet opstaan."
+    },
+    {
+     "q": "Hij zegt dat hij het boek al ______ gelezen.",
+     "hint": "hebben",
+     "a": "heeft",
+     "full": "Hij zegt dat hij het boek al heeft gelezen."
+    },
+    {
+     "q": "We zijn gisteren ______ zwemmen.",
+     "hint": "gaan, doble infinitivo",
+     "a": "gaan",
+     "full": "We zijn gisteren gaan zwemmen."
+    },
+    {
+     "q": "Hij heeft zijn fiets laten ______.",
+     "hint": "repareren",
+     "a": "repareren",
+     "full": "Hij heeft zijn fiets laten repareren."
+    },
+    {
+     "q": "Ik denk dat ze morgen niet ______ komen.",
+     "hint": "kunnen, ellos",
+     "a": "kunnen",
+     "full": "Ik denk dat ze morgen niet kunnen komen."
+    },
+    {
+     "q": "omdat ik je morgen wil ______",
+     "hint": "opbellen",
+     "a": "opbellen",
+     "full": "omdat ik je morgen wil opbellen"
+    },
+    {
+     "q": "Ik weet niet of hij al is ______.",
+     "hint": "aankomen, participio",
+     "a": "aangekomen",
+     "full": "Ik weet niet of hij al is aangekomen."
+    },
+    {
+     "q": "We hebben het huis willen ______.",
+     "hint": "kopen",
+     "a": "kopen",
+     "full": "We hebben het huis willen kopen."
+    },
+    {
+     "q": "Ik vind het jammer dat ik niet heb ______ helpen.",
+     "hint": "kunnen",
+     "a": "kunnen",
+     "full": "Ik vind het jammer dat ik niet heb kunnen helpen."
+    },
+    {
+     "q": "Ze is een uur blijven ______.",
+     "hint": "wachten",
+     "a": "wachten",
+     "full": "Ze is een uur blijven wachten."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ayer tuve que trabajar.",
+     "a": "Ik heb gisteren moeten werken."
+    },
+    {
+     "q": "Ella no ha podido venir.",
+     "a": "Ze heeft niet kunnen komen."
+    },
+    {
+     "q": "Me quedo en casa porque tengo que trabajar.",
+     "a": "Ik blijf thuis omdat ik moet werken."
+    },
+    {
+     "q": "Fuimos a nadar.",
+     "a": "We zijn gaan zwemmen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

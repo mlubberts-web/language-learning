@@ -207,5 +207,16 @@
   "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, el teléfono y el correo, y vivir en los Países Bajos",
   "content": "a2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_01_El_orden_2_los_grupos_verbales",
+  "file": "B1_01_El_orden_2_los_grupos_verbales.pdf",
+  "level": "B1",
+  "number": 1,
+  "section": "Gramática",
+  "title": "El orden 2: los grupos verbales",
+  "subtitle": "Varios verbos en una oración: Ik heb het niet kunnen doen, omdat ik moet werken",
+  "content": "b1_01_word_order_verb_clusters.json",
+  "exercise_count": 12
  }
 ]
