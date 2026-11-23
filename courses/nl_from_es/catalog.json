@@ -361,5 +361,16 @@
   "subtitle": "wachten op, denken aan, zich ergeren aan; adjetivos como trots op; y erop dat, eraan om te",
   "content": "b2_04_fixed_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_05_La_formacion_de_palabras",
+  "file": "B2_05_La_formacion_de_palabras.pdf",
+  "level": "B2",
+  "number": 5,
+  "section": "Vocabulario",
+  "title": "La formación de palabras",
+  "subtitle": "-heid, -ing, -te, -baar, -loos, on-, los sustantivos compuestos en una sola palabra, y las letras de unión -s- y -en-",
+  "content": "b2_05_word_formation.json",
+  "exercise_count": 12
  }
 ]

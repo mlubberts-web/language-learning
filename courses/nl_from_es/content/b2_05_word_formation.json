@@ -1,0 +1,420 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Vocabulario",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "La formación de palabras",
+  "subtitle": "-heid, -ing, -te, -baar, -loos, on-, los sustantivos compuestos en una sola palabra, y las letras de unión -s- y -en-",
+  "footer": "Language Learning · B2 · Vocabulario · Formación de palabras",
+  "next": "Siguiente: B2 · pdf 6 — Adjetivos y adverbios a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar sustantivos a partir de adjetivos y verbos, y saber su artículo",
+    "formar adjetivos con <b>-baar, -loos, -ig, -lijk</b> y su contrario con <b>on-</b>",
+    "escribir los sustantivos compuestos en <b>una sola palabra</b>, con el artículo correcto",
+    "elegir las letras de unión <b>-s-</b> y <b>-en-</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Sustantivos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    4.6,
+    6.0,
+    3.2
+   ],
+   "head": [
+    "Terminación",
+    "A partir de",
+    "Ejemplos",
+    "Artículo"
+   ],
+   "rows": [
+    [
+     "-heid",
+     "adjetivo (-dad, -ud)",
+     "vrij → vrijheid, gezond → gezondheid",
+     "de"
+    ],
+    [
+     "-ing",
+     "verbo (-ción, -miento)",
+     "vergaderen → vergadering, oplossen → oplossing",
+     "de"
+    ],
+    [
+     "-te",
+     "adjetivo (-ura)",
+     "lang → lengte, breed → breedte, diep → diepte",
+     "de"
+    ],
+    [
+     "-schap",
+     "sustantivo, adjetivo",
+     "vriend → vriendschap, zwanger → zwangerschap",
+     "de (het landschap)"
+    ],
+    [
+     "-isme",
+     "préstamos (-ismo)",
+     "toerisme, realisme",
+     "het"
+    ],
+    [
+     "-er / -aar",
+     "verbo, persona (-ero, -dor)",
+     "bakken → bakker, leren → leraar",
+     "de"
+    ],
+    [
+     "-ster / -in / -es",
+     "persona femenina (-a, -esa)",
+     "schrijfster, vriendin, lerares",
+     "de"
+    ],
+    [
+     "-tje / -je",
+     "sustantivo, pequeño (-ito)",
+     "het huisje, het kopje",
+     "het"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "La terminación decide el artículo",
+   "text": "Muchas terminaciones llevan siempre el mismo artículo: <b>-heid, -ing, -te, -tie, -teit, -nis</b> casi siempre <b>de</b>; <b>-sel, -isme, -ment</b> y los diminutivos casi siempre <b>het</b>. Así, si conoces la terminación, conoces el artículo: <i>de gezondheid, de oplossing, het toerisme, het huisje</i>. Ayuda: muchas palabras en <b>-tie</b> y <b>-teit</b> son las españolas en <i>-ción</i> y <i>-dad</i> (<i>de situatie, de universiteit</i>)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Adjetivos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    5.4,
+    8.6
+   ],
+   "head": [
+    "Terminación",
+    "Significado",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "-baar",
+     "se puede hacer (-ble)",
+     "eetbaar, betaalbaar, bereikbaar"
+    ],
+    [
+     "-loos",
+     "sin (sin trabajo, sin sentido)",
+     "werkloos, zinloos, eindeloos"
+    ],
+    [
+     "-ig",
+     "que tiene, como (-oso, -ado)",
+     "zonnig, gezellig, nodig"
+    ],
+    [
+     "-lijk",
+     "a la manera de (-al, -oso)",
+     "vriendelijk, moeilijk, gevaarlijk"
+    ],
+    [
+     "-isch",
+     "préstamos (-ico)",
+     "logisch, praktisch, typisch"
+    ],
+    [
+     "-vol",
+     "lleno de (-oso, con)",
+     "zinvol, respectvol"
+    ],
+    [
+     "on-",
+     "no (in-, im-, des-)",
+     "onmogelijk, onbekend, ongezond"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Sustantivos compuestos"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés escribe los sustantivos compuestos en <b>una sola palabra</b>, por largos que sean: <i>ziekenhuis, boekenkast, voetbalwedstrijd, arbeidsongeschiktheidsverzekering</i>. La <b>última parte</b> decide el artículo y el significado: <i>de deur + <b>het</b> slot = <b>het</b> deurslot</i> (la cerradura de la puerta)."
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El español usa «de», el neerlandés una sola palabra",
+   "text": "El español dice <i>parada de autobús, partido de fútbol, estantería de libros</i>: primero lo principal, después <i>de</i> + lo demás. El neerlandés lo hace <b>al revés y en una sola palabra</b>: <b>bushalte</b> (bus + parada), <b>voetbalwedstrijd</b>, <b>boekenkast</b>. Lee los compuestos de atrás hacia delante: la última parte es la cosa, lo de delante dice de qué tipo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.4,
+    6.2
+   ],
+   "head": [
+    "Letra de unión",
+    "Ejemplos",
+    "Cuándo"
+   ],
+   "rows": [
+    [
+     "ninguna",
+     "bushalte, voetbal, tafelpoot",
+     "la mayoría de los compuestos"
+    ],
+    [
+     "-s-",
+     "stadsbus, regeringsleider, verjaardagsfeest",
+     "a menudo tras -ing, -heid, -schap y cuando se oye una s"
+    ],
+    [
+     "-en-",
+     "boekenkast, pannenkoek, ziekenhuis",
+     "cuando la primera parte tiene plural en -en y se oye una «e»"
+    ],
+    [
+     "-e-",
+     "paardebloem, hondehok (old spelling)",
+     "raro; la mayoría lleva ahora -en-"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Sustantivos compuestos",
+   "items": [
+    [
+     "het ziekenhuis",
+     "hospital"
+    ],
+    [
+     "de boekenkast",
+     "estantería, librería"
+    ],
+    [
+     "de bushalte",
+     "parada de autobús"
+    ],
+    [
+     "de voetbalwedstrijd",
+     "partido de fútbol"
+    ],
+    [
+     "het verjaardagsfeest",
+     "fiesta de cumpleaños"
+    ],
+    [
+     "de stadsbus",
+     "autobús urbano"
+    ],
+    [
+     "de pannenkoek",
+     "tortita, crepe"
+    ],
+    [
+     "het fietspad",
+     "carril bici"
+    ],
+    [
+     "de werkgever",
+     "empleador, empresa"
+    ],
+    [
+     "de zorgverzekering",
+     "seguro médico"
+    ],
+    [
+     "het stadhuis",
+     "ayuntamiento"
+    ],
+    [
+     "de huisarts",
+     "médico de cabecera"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "de haltebus",
+     "de bushalte",
+     "Una sola palabra, y al revés que en español: lo principal (halte) va al final."
+    ],
+    [
+     "het boekkast",
+     "de boekenkast",
+     "Unión con -en-; la última parte decide el artículo."
+    ],
+    [
+     "de vrijheidheid",
+     "de vrijheid",
+     "Solo un -heid."
+    ],
+    [
+     "het oplossing",
+     "de oplossing",
+     "Las palabras en -ing llevan de."
+    ],
+    [
+     "Het is ongemogelijk.",
+     "Het is onmogelijk.",
+     "on- + el adjetivo: onmogelijk."
+    ],
+    [
+     "de verjaardagfeest",
+     "het verjaardagsfeest",
+     "Unión con -s-; het feest."
+    ],
+    [
+     "het werk gever",
+     "de werkgever",
+     "Una sola palabra; de gever."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Forma la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Iedereen heeft recht op ______.",
+     "hint": "sustantivo de vrij",
+     "a": "vrijheid",
+     "full": "Iedereen heeft recht op vrijheid."
+    },
+    {
+     "q": "We hebben morgen een lange ______.",
+     "hint": "sustantivo de vergaderen",
+     "a": "vergadering",
+     "full": "We hebben morgen een lange vergadering."
+    },
+    {
+     "q": "Wat is de ______ van deze kamer?",
+     "hint": "sustantivo de lang",
+     "a": "lengte",
+     "full": "Wat is de lengte van deze kamer?"
+    },
+    {
+     "q": "Deze paddenstoelen zijn niet ______.",
+     "hint": "se puede comer",
+     "a": "eetbaar",
+     "full": "Deze paddenstoelen zijn niet eetbaar."
+    },
+    {
+     "q": "Hij is al een jaar ______.",
+     "hint": "sin trabajo",
+     "a": "werkloos",
+     "full": "Hij is al een jaar werkloos."
+    },
+    {
+     "q": "Dat is ______! Dat kan niet.",
+     "hint": "no es posible",
+     "a": "onmogelijk",
+     "full": "Dat is onmogelijk! Dat kan niet."
+    },
+    {
+     "q": "Mijn opa ligt in het ______.",
+     "hint": "hospital",
+     "a": "ziekenhuis",
+     "full": "Mijn opa ligt in het ziekenhuis."
+    },
+    {
+     "q": "Ik wacht bij de ______.",
+     "hint": "parada de autobús",
+     "a": "bushalte",
+     "full": "Ik wacht bij de bushalte."
+    },
+    {
+     "q": "Zet de boeken maar in de ______.",
+     "hint": "estantería",
+     "a": "boekenkast",
+     "full": "Zet de boeken maar in de boekenkast."
+    },
+    {
+     "q": "De vrouw in de winkel was heel ______.",
+     "hint": "adjetivo de vriend",
+     "a": "vriendelijk",
+     "full": "De vrouw in de winkel was heel vriendelijk."
+    },
+    {
+     "q": "Het is vandaag ______ en warm.",
+     "hint": "adjetivo de zon",
+     "a": "zonnig",
+     "full": "Het is vandaag zonnig en warm."
+    },
+    {
+     "q": "Zij is mijn beste ______.",
+     "hint": "amiga",
+     "a": "vriendin",
+     "full": "Zij is mijn beste vriendin."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "la parada de autobús",
+     "a": "de bushalte"
+    },
+    {
+     "q": "Es imposible.",
+     "a": "Het is onmogelijk."
+    },
+    {
+     "q": "Lleva un año en paro.",
+     "a": "Hij is al een jaar werkloos."
+    },
+    {
+     "q": "un partido de fútbol",
+     "a": "een voetbalwedstrijd"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
