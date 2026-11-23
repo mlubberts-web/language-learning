@@ -1,0 +1,425 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 7,
+  "total_in_level": 9,
+  "title": "Verbos modales y verbos separables",
+  "subtitle": "kunnen, moeten, willen y mogen con el infinitivo al final, y verbos como opbellen y meegaan",
+  "footer": "Language Learning · A1 · Verbos · Verbos modales y verbos separables",
+  "next": "Siguiente: A1 · pdf 8 — Los adjetivos"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar <b>kunnen, moeten, willen</b> y <b>mogen</b>, con el infinitivo al final",
+    "decir lo que no hace falta hacer con <b>niet hoeven te</b>",
+    "separar los verbos separables: <i>opbellen → Ik bel je op</i>",
+    "usar las dos cosas juntas: <i>Ik wil je opbellen</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los cuatro verbos modales"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos modales son irregulares, y el otro verbo va al <b>final de la frase</b> en infinitivo: <i>Ik <b>kan</b> morgen niet <b>komen</b>.</i> En español el infinitivo va justo después (<i>no puedo venir mañana</i>); en neerlandés se forma un 'paréntesis': el verbo conjugado en segundo lugar y el infinitivo al final."
+  },
+  {
+   "type": "conj",
+   "verb": "kunnen",
+   "meaning": "poder, saber (hacer algo)",
+   "label": "verbo modal",
+   "tense": "presente",
+   "forms": [
+    "kan",
+    "kunt / kan",
+    "kan",
+    "kunnen",
+    "kunnen",
+    "kunnen"
+   ],
+   "examples": [
+    [
+     "Ik kan goed zwemmen.",
+     "Sé nadar bien."
+    ],
+    [
+     "Kun je me helpen?",
+     "¿Me puedes ayudar?"
+    ],
+    [
+     "Zij kan niet komen.",
+     "Ella no puede venir."
+    ],
+    [
+     "We kunnen de bus nemen.",
+     "Podemos coger el autobús."
+    ],
+    [
+     "Kunnen jullie morgen?",
+     "¿Podéis mañana?"
+    ],
+    [
+     "Ze kunnen goed koken.",
+     "Saben cocinar bien."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "willen",
+   "meaning": "querer",
+   "label": "verbo modal",
+   "tense": "presente",
+   "forms": [
+    "wil",
+    "wilt / wil",
+    "wil",
+    "willen",
+    "willen",
+    "willen"
+   ],
+   "examples": [
+    [
+     "Ik wil naar huis.",
+     "Quiero irme a casa."
+    ],
+    [
+     "Wil je koffie?",
+     "¿Quieres café?"
+    ],
+    [
+     "Hij wil arts worden.",
+     "Quiere ser médico."
+    ],
+    [
+     "We willen een huis kopen.",
+     "Queremos comprar una casa."
+    ],
+    [
+     "Willen jullie iets drinken?",
+     "¿Queréis algo de beber?"
+    ],
+    [
+     "Ze willen niet weg.",
+     "No quieren irse."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    5.0,
+    5.0,
+    4.0
+   ],
+   "head": [
+    "Verbo",
+    "Formas",
+    "Significado",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "moeten",
+     "moet, moet, moet, moeten",
+     "tener que, deber",
+     "Ik moet werken."
+    ],
+    [
+     "mogen",
+     "mag, mag, mag, mogen",
+     "poder (permiso), estar permitido",
+     "Mag ik binnenkomen?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "kunnen y mogen, moeten y hoeven",
+   "bullets": [
+    "<b>poder</b> tiene dos traducciones: <b>kunnen</b> (ser capaz) y <b>mogen</b> (tener permiso): <i>Kun je zwemmen?</i> (¿sabes nadar?) frente a <i>Mag ik binnenkomen?</i> (¿puedo pasar?).",
+    "<b>Je moet niet roken</b> = no debes fumar.",
+    "<b>Je hoeft niet te komen</b> = no tienes que venir, no hace falta. Fíjate en el <b>te</b> después de hoeven.",
+    "<b>Je mag hier niet parkeren</b> = aquí no se puede aparcar (no está permitido)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Los verbos separables"
+  },
+  {
+   "type": "p",
+   "text": "Muchos verbos neerlandeses empiezan con una palabrita (un prefijo) como <b>op, mee, aan, uit, terug</b>: <i>opbellen</i> (llamar por teléfono), <i>meegaan</i> (ir con alguien). En una oración principal el prefijo se separa y va al <b>final</b>: <i>Ik <b>bel</b> je morgen <b>op</b>.</i> En infinitivo se queda unido: <i>Ik wil je morgen <b>opbellen</b>.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Verbo",
+    "Oración principal",
+    "Con un verbo modal"
+   ],
+   "rows": [
+    [
+     "opbellen",
+     "Ik bel je op.",
+     "Ik wil je opbellen."
+    ],
+    [
+     "meegaan",
+     "Ga je mee?",
+     "Wil je meegaan?"
+    ],
+    [
+     "opstaan",
+     "Ik sta om zeven uur op.",
+     "Ik moet om zeven uur opstaan."
+    ],
+    [
+     "aankomen",
+     "De trein komt om tien uur aan.",
+     "De trein kan te laat aankomen."
+    ],
+    [
+     "uitgaan",
+     "We gaan vanavond uit.",
+     "We willen vanavond uitgaan."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Un verbo en dos partes",
+   "text": "El español no tiene nada parecido, así que piensa en el verbo como dos piezas: la pieza principal va en segundo lugar y el prefijo al final, después de los complementos y de las palabras de tiempo: <i>Ik neem morgen mijn laptop <b>mee</b>.</i> El acento va en el prefijo: <b>OP</b>bellen, <b>MEE</b>gaan."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos separables frecuentes",
+   "items": [
+    [
+     "opbellen",
+     "llamar (por teléfono)"
+    ],
+    [
+     "meegaan",
+     "ir con, acompañar"
+    ],
+    [
+     "opstaan",
+     "levantarse"
+    ],
+    [
+     "aankomen",
+     "llegar"
+    ],
+    [
+     "uitgaan",
+     "salir (de noche)"
+    ],
+    [
+     "meenemen",
+     "llevarse, traer"
+    ],
+    [
+     "terugkomen",
+     "volver"
+    ],
+    [
+     "opruimen",
+     "ordenar, recoger"
+    ],
+    [
+     "schoonmaken",
+     "limpiar"
+    ],
+    [
+     "afspreken",
+     "quedar, acordar"
+    ],
+    [
+     "aanzetten",
+     "encender"
+    ],
+    [
+     "uitzetten",
+     "apagar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik kan komen niet morgen.",
+     "Ik kan morgen niet komen.",
+     "El infinitivo va al final."
+    ],
+    [
+     "Ik wil gaan naar huis.",
+     "Ik wil naar huis gaan.",
+     "El infinitivo va al final."
+    ],
+    [
+     "Ik opbel je morgen.",
+     "Ik bel je morgen op.",
+     "El prefijo se separa y va al final."
+    ],
+    [
+     "Ik bel op je morgen.",
+     "Ik bel je morgen op.",
+     "El prefijo va hasta el final."
+    ],
+    [
+     "Je moet niet komen, het is niet nodig.",
+     "Je hoeft niet te komen, het is niet nodig.",
+     "No hace falta: niet hoeven te."
+    ],
+    [
+     "Hij kunt zwemmen.",
+     "Hij kan zwemmen.",
+     "hij, zij, het: kan."
+    ],
+    [
+     "Ik wil mee gaan.",
+     "Ik wil meegaan.",
+     "El infinitivo es una sola palabra."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik ______ morgen niet komen.",
+     "hint": "kunnen",
+     "a": "kan",
+     "full": "Ik kan morgen niet komen."
+    },
+    {
+     "q": "______ je koffie?",
+     "hint": "willen, pregunta",
+     "a": "wil",
+     "full": "Wil je koffie?"
+    },
+    {
+     "q": "Hij ______ vandaag lang werken.",
+     "hint": "moeten",
+     "a": "moet",
+     "full": "Hij moet vandaag lang werken."
+    },
+    {
+     "q": "______ ik hier roken? Nee, dat mag niet.",
+     "hint": "mogen",
+     "a": "mag",
+     "full": "Mag ik hier roken? Nee, dat mag niet."
+    },
+    {
+     "q": "Je ______ niet te komen. Het is niet nodig.",
+     "hint": "no tener que",
+     "a": "hoeft",
+     "full": "Je hoeft niet te komen. Het is niet nodig."
+    },
+    {
+     "q": "Ik bel je morgen ______.",
+     "hint": "opbellen",
+     "a": "op",
+     "full": "Ik bel je morgen op."
+    },
+    {
+     "q": "Ga je ______ naar het feest?",
+     "hint": "meegaan",
+     "a": "mee",
+     "full": "Ga je mee naar het feest?"
+    },
+    {
+     "q": "Ik ______ elke dag om zeven uur op.",
+     "hint": "opstaan",
+     "a": "sta",
+     "full": "Ik sta elke dag om zeven uur op."
+    },
+    {
+     "q": "Wil je me morgen ______?",
+     "hint": "opbellen, infinitivo",
+     "a": "opbellen",
+     "full": "Wil je me morgen opbellen?"
+    },
+    {
+     "q": "De trein ______ om tien uur aan.",
+     "hint": "aankomen",
+     "a": "komt",
+     "full": "De trein komt om tien uur aan."
+    },
+    {
+     "q": "Wij ______ goed koken.",
+     "hint": "kunnen",
+     "a": "kunnen",
+     "full": "Wij kunnen goed koken."
+    },
+    {
+     "q": "Neem je paraplu ______. Het gaat regenen.",
+     "hint": "meenemen",
+     "a": "mee",
+     "full": "Neem je paraplu mee. Het gaat regenen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "No puedo venir mañana.",
+     "a": "Ik kan morgen niet komen."
+    },
+    {
+     "q": "No tienes que venir.",
+     "a": "Je hoeft niet te komen."
+    },
+    {
+     "q": "Te llamo mañana.",
+     "a": "Ik bel je morgen op."
+    },
+    {
+     "q": "¿Quieres venir con nosotros?",
+     "a": "Wil je meegaan?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
