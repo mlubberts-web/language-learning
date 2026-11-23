@@ -449,5 +449,27 @@
   "subtitle": "Never have I, not only ... but also, las oraciones escindidas y do para dar énfasis",
   "content": "c1_02_inversion_emphasis.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_03_Conectores_avanzados_y_estructura_del_texto",
+  "file": "C1_03_Conectores_avanzados_y_estructura_del_texto.pdf",
+  "level": "C1",
+  "number": 3,
+  "section": "Escritura",
+  "title": "Conectores avanzados y estructura del texto",
+  "subtitle": "nevertheless, whereas, provided that, la formulación prudente y la estructura de un texto",
+  "content": "c1_03_linking_discourse.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_04_La_nominalizacion_y_el_estilo_academico",
+  "file": "C1_04_La_nominalizacion_y_el_estilo_academico.pdf",
+  "level": "C1",
+  "number": 4,
+  "section": "Escritura",
+  "title": "La nominalización y el estilo académico",
+  "subtitle": "Sustantivos en lugar de verbos, el estilo impersonal y la voz pasiva para tomar distancia",
+  "content": "c1_04_nominalisation_academic.json",
+  "exercise_count": 10
  }
 ]

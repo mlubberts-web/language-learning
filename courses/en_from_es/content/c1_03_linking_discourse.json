@@ -1,0 +1,373 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Conectores avanzados y estructura del texto",
+  "subtitle": "nevertheless, whereas, provided that, la formulación prudente y la estructura de un texto",
+  "footer": "Language Learning · C1 · Escritura · Conectores y estructura del texto",
+  "next": "Siguiente: C1 · pdf 4 — La nominalización y el estilo académico"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "construir un razonamiento con conectores avanzados",
+    "expresar condiciones y concesiones en registro formal",
+    "formular con prudencia (<i>hedging</i>)",
+    "guiar al lector por un texto (<i>signposting</i>)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Contraste y concesión"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "nevertheless / nonetheless",
+     "The plan is risky. Nevertheless, we will go ahead.",
+     "sin embargo, aun así, no obstante"
+    ],
+    [
+     "whereas",
+     "Some prefer cities, whereas others like the countryside.",
+     "mientras que (contraste)"
+    ],
+    [
+     "even so",
+     "It was expensive. Even so, it was worth it.",
+     "aun así"
+    ],
+    [
+     "admittedly",
+     "Admittedly, the results are not perfect.",
+     "hay que reconocer que"
+    ],
+    [
+     "while / whilst",
+     "While I understand your point, I disagree.",
+     "aunque, si bien"
+    ],
+    [
+     "notwithstanding",
+     "Notwithstanding the costs, the project continued.",
+     "a pesar de (muy formal)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Causa, consecuencia y condición"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "consequently / as a result",
+     "Sales fell. Consequently, jobs were lost.",
+     "por consiguiente, en consecuencia"
+    ],
+    [
+     "owing to / due to",
+     "Owing to the strike, flights were cancelled.",
+     "debido a"
+    ],
+    [
+     "thus / hence",
+     "The data were incomplete; hence the delay.",
+     "por lo tanto, de ahí"
+    ],
+    [
+     "provided / providing that",
+     "You can go, provided that you finish first.",
+     "siempre que, con tal de que"
+    ],
+    [
+     "as long as",
+     "I'll help as long as you pay me.",
+     "mientras, siempre y cuando"
+    ],
+    [
+     "in case",
+     "Take an umbrella in case it rains.",
+     "por si"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "in case = por si, no 'en caso de que'",
+   "text": "<b>in case</b> = <i>por si</i> (una precaución): <i>Take a coat in case it gets cold</i> (llévate un abrigo por si hace frío). Para <i>en caso de que</i> o <i>si</i> se usa <b>if</b>: <i>If it gets cold, put on a coat.</i> Y <i>siempre que</i> en el sentido de condición es <b>provided that</b> o <b>as long as</b>, nunca <i>always that</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Formular con prudencia"
+  },
+  {
+   "type": "p",
+   "text": "En el inglés académico y profesional casi nunca se hacen afirmaciones absolutas. Se suavizan con el <i>hedging</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Hedging",
+   "items": [
+    [
+     "it seems that",
+     "parece que"
+    ],
+    [
+     "it appears that",
+     "al parecer"
+    ],
+    [
+     "tend to",
+     "tender a"
+    ],
+    [
+     "to some extent",
+     "en cierta medida"
+    ],
+    [
+     "arguably",
+     "se podría decir"
+    ],
+    [
+     "it could be argued that",
+     "cabría argumentar que"
+    ],
+    [
+     "presumably",
+     "presumiblemente"
+    ],
+    [
+     "in most cases",
+     "en la mayoría de los casos"
+    ],
+    [
+     "likely",
+     "probablemente"
+    ],
+    [
+     "relatively",
+     "relativamente"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Más suave de lo que crees",
+   "text": "<i>Esto está mal</i> o <i>Esto es incorrecto</i> suena a menudo demasiado duro en inglés. Mejor <b>This may not be entirely correct</b> o <b>I'm not sure this is quite right</b>. En una redacción: <b>This suggests that ...</b> en lugar de <i>This proves that ...</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Guiar al lector"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    12.6
+   ],
+   "head": [
+    "Función",
+    "Frases"
+   ],
+   "rows": [
+    [
+     "Introducir",
+     "<i>This essay will examine ... The aim of this section is to ...</i>"
+    ],
+    [
+     "Orden",
+     "<i>To begin with ... Turning now to ... Lastly ...</i>"
+    ],
+    [
+     "Explicar",
+     "<i>In other words ... That is to say ... To put it simply ...</i>"
+    ],
+    [
+     "Ejemplo",
+     "<i>For instance ... A case in point is ... This is illustrated by ...</i>"
+    ],
+    [
+     "Resumir",
+     "<i>To sum up ... In short ... All things considered ...</i>"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Nevertheless the rain, we went out.",
+     "Despite the rain, we went out.",
+     "nevertheless no va delante de un sustantivo."
+    ],
+    [
+     "Take an umbrella in case of it rains.",
+     "Take an umbrella in case it rains.",
+     "in case + frase."
+    ],
+    [
+     "Owing the strike, we stayed.",
+     "Owing to the strike, we stayed.",
+     "owing to."
+    ],
+    [
+     "You can borrow it provided you will return it.",
+     "You can borrow it provided you return it.",
+     "Después de provided: present simple."
+    ],
+    [
+     "This proves that everyone agrees.",
+     "This suggests that most people agree.",
+     "Formular con prudencia.",
+     "advice"
+    ],
+    [
+     "Whereas I agree, I have doubts.",
+     "While I agree, I have doubts.",
+     "Concesión: while, no whereas."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el conector correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The plan is expensive. ______, we will go ahead.",
+     "hint": "aun así, sin embargo",
+     "a": "Nevertheless",
+     "full": "The plan is expensive. Nevertheless, we will go ahead."
+    },
+    {
+     "q": "My brother loves sport, ______ I prefer reading.",
+     "hint": "mientras que (contraste)",
+     "a": "whereas",
+     "full": "My brother loves sport, whereas I prefer reading."
+    },
+    {
+     "q": "______ to the bad weather, the match was postponed.",
+     "hint": "debido a",
+     "a": "Owing",
+     "full": "Owing to the bad weather, the match was postponed."
+    },
+    {
+     "q": "You can use my car ______ that you drive carefully.",
+     "hint": "siempre que",
+     "a": "provided",
+     "full": "You can use my car provided that you drive carefully."
+    },
+    {
+     "q": "Take some money in ______ you need a taxi.",
+     "hint": "por si",
+     "a": "case",
+     "full": "Take some money in case you need a taxi."
+    },
+    {
+     "q": "Sales fell sharply. ______, the company cut jobs.",
+     "hint": "por consiguiente",
+     "a": "Consequently",
+     "full": "Sales fell sharply. Consequently, the company cut jobs."
+    },
+    {
+     "q": "______, the results are not perfect.",
+     "hint": "hay que reconocer",
+     "a": "Admittedly",
+     "full": "Admittedly, the results are not perfect."
+    },
+    {
+     "q": "Young people ______ to spend more time online.",
+     "hint": "tender a",
+     "a": "tend",
+     "full": "Young people tend to spend more time online."
+    },
+    {
+     "q": "In other ______, the project has failed.",
+     "hint": "en otras palabras",
+     "a": "words",
+     "full": "In other words, the project has failed."
+    },
+    {
+     "q": "All things ______, it was a successful year.",
+     "hint": "teniéndolo todo en cuenta",
+     "a": "considered",
+     "full": "All things considered, it was a successful year."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Llévate un abrigo por si hace frío.",
+     "a": "Take a coat in case it gets cold."
+    },
+    {
+     "q": "Parece que los precios están subiendo.",
+     "a": "It seems that prices are rising."
+    },
+    {
+     "q": "Puedes irte siempre que termines antes tu trabajo.",
+     "a": "You can go, provided that you finish your work first."
+    },
+    {
+     "q": "Teniéndolo todo en cuenta, fue un buen año.",
+     "a": "All things considered, it was a good year."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

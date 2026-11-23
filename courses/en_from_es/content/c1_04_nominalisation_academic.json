@@ -1,0 +1,321 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "La nominalización y el estilo académico",
+  "subtitle": "Sustantivos en lugar de verbos, el estilo impersonal y la voz pasiva para tomar distancia",
+  "footer": "Language Learning · C1 · Escritura · Nominalización",
+  "next": "Siguiente: C1 · pdf 5 — Las construcciones de participio y las oraciones reducidas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "convertir verbos y oraciones subordinadas en sustantivos",
+    "escribir de forma impersonal (<i>it is widely believed</i>)",
+    "leer y construir grupos nominales largos",
+    "sustituir palabras informales por formales"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Del verbo al sustantivo"
+  },
+  {
+   "type": "p",
+   "text": "El inglés académico y formal usa muchos <b>sustantivos</b> donde la lengua hablada usa verbos. El texto queda así más compacto e impersonal."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Con verbos (lengua hablada)",
+    "Con sustantivos (formal)"
+   ],
+   "rows": [
+    [
+     "Prices rose sharply, so people bought less.",
+     "The sharp rise in prices led to a fall in consumption."
+    ],
+    [
+     "We analysed the data and found that ...",
+     "Analysis of the data revealed that ..."
+    ],
+    [
+     "Because the government decided to raise taxes, ...",
+     "Following the government's decision to raise taxes, ..."
+    ],
+    [
+     "When the factory closed, many people lost their jobs.",
+     "The closure of the factory resulted in widespread job losses."
+    ],
+    [
+     "If we invest more, the economy will grow.",
+     "Greater investment will lead to economic growth."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Verbos útiles con las nominalizaciones",
+   "text": "<b>lead to, result in, cause, contribute to</b> (causa y efecto), <b>be due to, result from</b> (causa), <b>undergo, carry out, conduct</b> (realizar). <i>The study was conducted in 2020. The decline was due to a lack of funding.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. Escribir de forma impersonal"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Personal",
+    "Impersonal"
+   ],
+   "rows": [
+    [
+     "I think that ...",
+     "It could be argued that ..."
+    ],
+    [
+     "People believe that ...",
+     "It is widely believed that ..."
+    ],
+    [
+     "We can see that ...",
+     "It can be seen that ... / This shows that ..."
+    ],
+    [
+     "I will discuss ...",
+     "This essay discusses ..."
+    ],
+    [
+     "You need to remember that ...",
+     "It should be borne in mind that ..."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El 'se' impersonal",
+   "text": "El <i>se</i> del español (<i>Se puede ver que ...</i>, <i>Se considera que ...</i>) no tiene equivalente directo. Usa la pasiva o construcciones con <b>it</b>: <b>It can be seen that ...</b>, <b>It is considered that ...</b>, <b>As can be seen ...</b>. Y no uses <i>you</i> ni <i>we</i> para hablar en general en un texto académico."
+  },
+  {
+   "type": "h1",
+   "text": "3. El vocabulario formal"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras formales (entre paréntesis, la palabra informal)",
+   "items": [
+    [
+     "obtain",
+     "obtener (get)"
+    ],
+    [
+     "demonstrate",
+     "demostrar (show)"
+    ],
+    [
+     "discover",
+     "descubrir, averiguar (find out)"
+    ],
+    [
+     "increase",
+     "aumentar (go up)"
+    ],
+    [
+     "decrease",
+     "disminuir (go down)"
+    ],
+    [
+     "investigate",
+     "investigar (look into)"
+    ],
+    [
+     "assist",
+     "ayudar, asistir (help)"
+    ],
+    [
+     "require",
+     "requerir (need)"
+    ],
+    [
+     "commence",
+     "comenzar (start)"
+    ],
+    [
+     "attempt",
+     "intentar (try)"
+    ],
+    [
+     "a considerable amount of",
+     "una cantidad considerable (a lot of)"
+    ],
+    [
+     "approximately",
+     "aproximadamente (about)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Ventaja y peligro para el hispanohablante",
+   "text": "Las palabras formales inglesas vienen casi siempre del latín y se parecen al español (<i>obtain, demonstrate, require</i>), así que te resultan fáciles. El peligro es el contrario: frases larguísimas llenas de sustantivos, como en el español académico. El buen inglés académico es más directo: nominaliza lo importante y haz frases claras y cortas. Y en textos formales no uses formas cortas (it's, don't) ni signos de exclamación."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "The rise of prices caused that people bought less.",
+     "The rise in prices caused people to buy less.",
+     "a rise in; cause someone to."
+    ],
+    [
+     "It's clear that the data shows this.",
+     "It is clear that the data show this.",
+     "Formal: sin formas cortas; data suele ir en plural.",
+     "advice"
+    ],
+    [
+     "You can see that sales went up a lot.",
+     "It can be seen that sales increased considerably.",
+     "Impersonal y formal."
+    ],
+    [
+     "This research was done by us.",
+     "This research was conducted in 2020.",
+     "Verbo formal: conduct.",
+     "advice"
+    ],
+    [
+     "The decrease was because of a lack of money.",
+     "The decrease was due to a lack of funding.",
+     "Formal: due to, funding."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "There has been a sharp ______ in unemployment.",
+     "hint": "aumento (sustantivo)",
+     "a": "rise",
+     "full": "There has been a sharp rise in unemployment."
+    },
+    {
+     "q": "The ______ of the factory led to many job losses.",
+     "hint": "cierre (close)",
+     "a": "closure",
+     "full": "The closure of the factory led to many job losses."
+    },
+    {
+     "q": "It is widely ______ that exercise reduces stress.",
+     "hint": "believe",
+     "a": "believed",
+     "full": "It is widely believed that exercise reduces stress."
+    },
+    {
+     "q": "The study was ______ in three countries.",
+     "hint": "realizado (formal)",
+     "a": "conducted",
+     "full": "The study was conducted in three countries."
+    },
+    {
+     "q": "The delay was ______ to technical problems.",
+     "hint": "debido",
+     "a": "due",
+     "full": "The delay was due to technical problems."
+    },
+    {
+     "q": "Higher taxes may ______ in lower spending.",
+     "hint": "dar lugar a (result)",
+     "a": "result",
+     "full": "Higher taxes may result in lower spending."
+    },
+    {
+     "q": "The results ______ that the method works.",
+     "hint": "demostrar (formal)",
+     "a": "demonstrate",
+     "full": "The results demonstrate that the method works."
+    },
+    {
+     "q": "It could be ______ that the policy has failed.",
+     "hint": "argue",
+     "a": "argued",
+     "full": "It could be argued that the policy has failed."
+    },
+    {
+     "q": "The project will ______ in January.",
+     "hint": "comenzar (formal)",
+     "a": "commence",
+     "full": "The project will commence in January."
+    },
+    {
+     "q": "This job ______ a high level of English.",
+     "hint": "requerir (formal)",
+     "a": "requires",
+     "full": "This job requires a high level of English."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Se cree generalmente que fumar es perjudicial.",
+     "a": "It is widely believed that smoking is harmful."
+    },
+    {
+     "q": "El cierre de la fábrica provocó desempleo.",
+     "a": "The closure of the factory led to unemployment."
+    },
+    {
+     "q": "El estudio se realizó en 2020.",
+     "a": "The study was conducted in 2020."
+    },
+    {
+     "q": "El retraso se debió a problemas técnicos.",
+     "a": "The delay was due to technical problems."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
