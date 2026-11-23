@@ -1,0 +1,394 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Ortografía, puntuación, británico y americano",
+  "subtitle": "-ise o -ize, -our o -or, comas, apóstrofos, guiones y mayúsculas",
+  "footer": "Language Learning · C1 · Escritura · Ortografía y puntuación",
+  "next": "Siguiente: C1 · pdf 9 — El inglés en el mundo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer la diferencia entre la ortografía británica y la americana",
+    "usar las comas como en inglés (distinto del español)",
+    "usar bien el apóstrofo",
+    "escribir bien las palabras difíciles"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Británico y americano"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Patrón",
+    "Británico",
+    "Americano"
+   ],
+   "rows": [
+    [
+     "-our / -or",
+     "colour, favourite, neighbour",
+     "color, favorite, neighbor"
+    ],
+    [
+     "-re / -er",
+     "centre, theatre, metre",
+     "center, theater, meter"
+    ],
+    [
+     "-ise / -ize",
+     "realise, organise (también vale -ize)",
+     "realize, organize"
+    ],
+    [
+     "doble l",
+     "travelled, cancelled, traveller",
+     "traveled, canceled, traveler"
+    ],
+    [
+     "-ence / -ense",
+     "licence (sustantivo), defence",
+     "license, defense"
+    ],
+    [
+     "-ogue / -og",
+     "catalogue, dialogue",
+     "catalog, dialog"
+    ],
+    [
+     "otras palabras",
+     "grey, cheque, tyre, programme",
+     "gray, check, tire, program"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Elige un estilo",
+   "text": "Este curso usa el inglés británico, y en los ejercicios la ortografía americana se acepta con un aviso. En tus propios textos, elige un estilo y mantenlo. En británico <b>practice</b> es el sustantivo y <b>practise</b> el verbo; igual con <b>licence</b> y <b>license</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Las comas y las mayúsculas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Regla",
+    "Correcto",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "Después de una subordinada al principio",
+     "If it rains, we'll stay in.",
+     "Subordinada al final: normalmente sin coma"
+    ],
+    [
+     "Después de un conector al principio",
+     "However, the plan failed.",
+     ""
+    ],
+    [
+     "Alrededor de una oración explicativa",
+     "My sister, who lives in Leeds, is a nurse.",
+     "No en una especificativa"
+    ],
+    [
+     "Sin coma delante de that",
+     "I think that he's right.",
+     "Igual que en español: no se dice 'Creo, que ...'"
+    ],
+    [
+     "Sin coma entre dos oraciones principales sin conector",
+     "It was late; we went home. / It was late, so we went home.",
+     "No: It was late, we went home."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Comas y mayúsculas: dos trampas",
+   "text": "En español es frecuente unir dos frases con una coma (<i>Era tarde, nos fuimos a casa</i>). En inglés eso es un error, el <i>comma splice</i>: usa un punto, un punto y coma o un conector: <b>It was late, so we went home.</b> Y el inglés pone mayúscula donde el español no: en los días, los meses, los idiomas y las nacionalidades (<b>Monday, May, English, Spanish</b>), y en <b>I</b>. Tampoco existen los signos ¿ y ¡."
+  },
+  {
+   "type": "h1",
+   "text": "3. El apóstrofo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Correcto",
+    "Incorrecto"
+   ],
+   "rows": [
+    [
+     "Posesión, singular",
+     "the cat's bowl",
+     ""
+    ],
+    [
+     "Posesión, plural en -s",
+     "the students' books",
+     "the student's books (= un solo alumno)"
+    ],
+    [
+     "Forma corta",
+     "it's (= it is), don't",
+     ""
+    ],
+    [
+     "Posesivo",
+     "its, yours, hers, ours",
+     "it's tail, your's"
+    ],
+    [
+     "Plural normal",
+     "CDs, the 1990s, apples",
+     "CD's, apple's"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Palabras difíciles"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Mal escritas a menudo",
+   "items": [
+    [
+     "accommodation",
+     "alojamiento"
+    ],
+    [
+     "necessary",
+     "necesario"
+    ],
+    [
+     "definitely",
+     "sin duda, seguro"
+    ],
+    [
+     "separate",
+     "separado, aparte"
+    ],
+    [
+     "receive",
+     "recibir"
+    ],
+    [
+     "government",
+     "gobierno"
+    ],
+    [
+     "environment",
+     "medio ambiente"
+    ],
+    [
+     "recommend",
+     "recomendar"
+    ],
+    [
+     "embarrassed",
+     "avergonzado"
+    ],
+    [
+     "occurred",
+     "ocurrió, pasó"
+    ],
+    [
+     "beginning",
+     "principio"
+    ],
+    [
+     "successful",
+     "exitoso"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "i antes de e, salvo después de c",
+   "text": "Una vieja regla para recordar: <i>i before e, except after c</i>: <b>believe, piece</b>, pero <b>receive, ceiling</b>. Hay excepciones (<i>weird, their</i>), pero ayuda. Y cuidado con las letras dobles, que el español casi no tiene: <b>accommodation, necessary, address, professor</b> (una f, dos s), <b>recommend</b> (una c, dos m)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I think, that he is right.",
+     "I think that he is right.",
+     "Sin coma delante de that."
+    ],
+    [
+     "The dog wagged it's tail.",
+     "The dog wagged its tail.",
+     "Posesivo: its."
+    ],
+    [
+     "I bought three CD's.",
+     "I bought three CDs.",
+     "Plural sin apóstrofo."
+    ],
+    [
+     "The accomodation was cheap.",
+     "The accommodation was cheap.",
+     "Doble c y doble m."
+    ],
+    [
+     "It is definately true.",
+     "It is definitely true.",
+     "definitely: -ite-."
+    ],
+    [
+     "It was late, we went home.",
+     "It was late, so we went home.",
+     "Sin coma suelta entre dos oraciones principales."
+    ],
+    [
+     "We recieved your letter.",
+     "We received your letter.",
+     "e antes de i después de c."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Escribe la palabra con ortografía británica o completa con la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "My favourite ______ is blue.",
+     "hint": "color, británico",
+     "a": "colour",
+     "full": "My favourite colour is blue."
+    },
+    {
+     "q": "We met in the city ______.",
+     "hint": "centro, británico",
+     "a": "centre",
+     "full": "We met in the city centre."
+    },
+    {
+     "q": "They ______ around Europe last summer.",
+     "hint": "travel, británico",
+     "a": "travelled",
+     "full": "They travelled around Europe last summer."
+    },
+    {
+     "q": "The flight was ______ because of fog.",
+     "hint": "cancel, británico",
+     "a": "cancelled",
+     "full": "The flight was cancelled because of fog."
+    },
+    {
+     "q": "The cat licked ______ paws.",
+     "hint": "its o it's",
+     "a": "its",
+     "full": "The cat licked its paws."
+    },
+    {
+     "q": "______ going to rain later.",
+     "hint": "its o it's",
+     "a": "It's",
+     "full": "It's going to rain later."
+    },
+    {
+     "q": "The ______ coats are in the hall.",
+     "hint": "de los invitados",
+     "a": "guests'",
+     "full": "The guests' coats are in the hall."
+    },
+    {
+     "q": "Is it ______ to book in advance?",
+     "hint": "necesario",
+     "a": "necessary",
+     "full": "Is it necessary to book in advance?"
+    },
+    {
+     "q": "I would ______ this hotel.",
+     "hint": "recomendar",
+     "a": "recommend",
+     "full": "I would recommend this hotel."
+    },
+    {
+     "q": "You need a driving ______ to rent a car.",
+     "hint": "carné de conducir, sustantivo británico",
+     "a": "licence",
+     "full": "You need a driving licence to rent a car."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (ortografía británica):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Creo que tiene razón.",
+     "a": "I think that he is right."
+    },
+    {
+     "q": "El teatro está en el centro.",
+     "a": "The theatre is in the centre."
+    },
+    {
+     "q": "El perro movió la cola.",
+     "a": "The dog wagged its tail."
+    },
+    {
+     "q": "El alojamiento era muy barato.",
+     "a": "The accommodation was very cheap."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

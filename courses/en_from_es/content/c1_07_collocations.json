@@ -1,0 +1,418 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Vocabulario",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Colocaciones y expresiones fijas",
+  "subtitle": "strong, heavy y high; make, take y do a fondo; parejas fijas de palabras (binomials)",
+  "footer": "Language Learning · C1 · Vocabulario · Colocaciones",
+  "next": "Siguiente: C1 · pdf 8 — Ortografía, puntuación, británico y americano"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar combinaciones naturales de adjetivo y sustantivo",
+    "combinar bien los adverbios intensificadores (<i>deeply concerned, highly unlikely</i>)",
+    "reconocer y usar parejas fijas de palabras (<i>pros and cons</i>)",
+    "ampliar las colocaciones con make, take y do"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Adjetivo + sustantivo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.8,
+    6.6
+   ],
+   "head": [
+    "Palabra",
+    "Combinaciones",
+    "No"
+   ],
+   "rows": [
+    [
+     "strong",
+     "strong wind, strong coffee, strong accent, strong opinion",
+     "strong rain (heavy rain)"
+    ],
+    [
+     "heavy",
+     "heavy rain, heavy traffic, heavy smoker, heavy losses",
+     "heavy wind (strong wind)"
+    ],
+    [
+     "high",
+     "high price, high temperature, high standards, high risk",
+     "high rain"
+    ],
+    [
+     "deep",
+     "deep sleep, deep concern, deep regret",
+     ""
+    ],
+    [
+     "serious",
+     "serious illness, serious damage, serious problem",
+     ""
+    ],
+    [
+     "bitter",
+     "bitter disappointment, bitter cold, bitter end",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Lluvia fuerte = heavy rain",
+   "text": "El español dice <i>lluvia fuerte</i>, <i>mucho tráfico</i> y <i>un gran fumador</i>. El inglés dice <b>heavy rain</b>, <b>heavy traffic</b> y <b>a heavy smoker</b>. Traducir palabra por palabra (<i>strong rain, much traffic, a big smoker</i>) suena poco natural. En cambio, <i>viento fuerte</i> sí es <b>strong wind</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Adverbio + adjetivo"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Intensificadores fijos",
+   "items": [
+    [
+     "highly unlikely",
+     "muy poco probable"
+    ],
+    [
+     "deeply concerned",
+     "profundamente preocupado"
+    ],
+    [
+     "bitterly disappointed",
+     "amargamente decepcionado"
+    ],
+    [
+     "fully aware",
+     "plenamente consciente"
+    ],
+    [
+     "painfully slow",
+     "desesperadamente lento"
+    ],
+    [
+     "utterly ridiculous",
+     "totalmente ridículo"
+    ],
+    [
+     "widely known",
+     "ampliamente conocido"
+    ],
+    [
+     "perfectly normal",
+     "perfectamente normal"
+    ],
+    [
+     "strongly recommended",
+     "muy recomendable"
+    ],
+    [
+     "completely different",
+     "completamente distinto"
+    ],
+    [
+     "seriously injured",
+     "gravemente herido"
+    ],
+    [
+     "closely related",
+     "estrechamente relacionado"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. make, take y do"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "make",
+    "take",
+    "do"
+   ],
+   "rows": [
+    [
+     "make an effort",
+     "take a risk",
+     "do damage"
+    ],
+    [
+     "make a difference",
+     "take responsibility",
+     "do harm"
+    ],
+    [
+     "make progress",
+     "take part in",
+     "do someone good"
+    ],
+    [
+     "make sense",
+     "take advantage of",
+     "do without"
+    ],
+    [
+     "make a complaint",
+     "take into account",
+     "do your best"
+    ],
+    [
+     "make arrangements",
+     "take something for granted",
+     "do the right thing"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Parejas fijas de palabras"
+  },
+  {
+   "type": "p",
+   "text": "Algunas parejas de palabras tienen un <b>orden fijo</b> que no se puede invertir: <i>pros and cons</i>, nunca <i>cons and pros</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Binomials",
+   "items": [
+    [
+     "pros and cons",
+     "pros y contras"
+    ],
+    [
+     "sooner or later",
+     "tarde o temprano"
+    ],
+    [
+     "now and then",
+     "de vez en cuando"
+    ],
+    [
+     "safe and sound",
+     "sano y salvo"
+    ],
+    [
+     "peace and quiet",
+     "paz y tranquilidad"
+    ],
+    [
+     "sick and tired",
+     "harto"
+    ],
+    [
+     "trial and error",
+     "a base de prueba y error"
+    ],
+    [
+     "by and large",
+     "en general"
+    ],
+    [
+     "ups and downs",
+     "altibajos"
+    ],
+    [
+     "first and foremost",
+     "ante todo"
+    ],
+    [
+     "more or less",
+     "más o menos"
+    ],
+    [
+     "black and white",
+     "blanco y negro"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Apréndelas como un bloque",
+   "text": "A veces el orden es el contrario del español: <i>blanco y negro</i> = <b>black and white</b>, <i>tarde o temprano</i> = <b>sooner or later</b>, <i>ida y vuelta</i> = <b>back and forth</b> (o <b>return</b> para un billete). Invertirlas suena mal. Y ojo con <i>tener sentido</i> = <b>make sense</b>, <i>tener en cuenta</i> = <b>take into account</b>, <i>aprovechar</i> = <b>take advantage of</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "There was a hard wind.",
+     "There was a strong wind.",
+     "strong wind."
+    ],
+    [
+     "The traffic was very busy.",
+     "The traffic was very heavy.",
+     "heavy traffic."
+    ],
+    [
+     "It doesn't make sense to take a decision now.",
+     "It doesn't make sense to make a decision now.",
+     "Las dos valen; make a decision es más normal.",
+     "advice"
+    ],
+    [
+     "He did a big effort.",
+     "He made a big effort.",
+     "make an effort."
+    ],
+    [
+     "We should take in account the cost.",
+     "We should take the cost into account.",
+     "take into account."
+    ],
+    [
+     "It's highly unpossible.",
+     "It's highly unlikely.",
+     "highly unlikely."
+    ],
+    [
+     "I'm tired and sick of it.",
+     "I'm sick and tired of it.",
+     "Orden fijo: sick and tired."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We were stuck in ______ traffic for an hour.",
+     "hint": "mucho (tráfico)",
+     "a": "heavy",
+     "full": "We were stuck in heavy traffic for an hour."
+    },
+    {
+     "q": "She speaks English with a ______ French accent.",
+     "hint": "fuerte",
+     "a": "strong",
+     "full": "She speaks English with a strong French accent."
+    },
+    {
+     "q": "It is highly ______ that he will win.",
+     "hint": "poco probable",
+     "a": "unlikely",
+     "full": "It is highly unlikely that he will win."
+    },
+    {
+     "q": "I was bitterly ______ with the result.",
+     "hint": "decepcionado",
+     "a": "disappointed",
+     "full": "I was bitterly disappointed with the result."
+    },
+    {
+     "q": "You should ______ advantage of this offer.",
+     "hint": "make, take o do",
+     "a": "take",
+     "full": "You should take advantage of this offer."
+    },
+    {
+     "q": "His explanation doesn't ______ sense.",
+     "hint": "make, take o do",
+     "a": "make",
+     "full": "His explanation doesn't make sense."
+    },
+    {
+     "q": "A holiday would ______ you good.",
+     "hint": "make, take o do",
+     "a": "do",
+     "full": "A holiday would do you good."
+    },
+    {
+     "q": "Let's weigh up the pros and ______.",
+     "hint": "contras",
+     "a": "cons",
+     "full": "Let's weigh up the pros and cons."
+    },
+    {
+     "q": "The children came home safe and ______.",
+     "hint": "salvo",
+     "a": "sound",
+     "full": "The children came home safe and sound."
+    },
+    {
+     "q": "I'm sick and ______ of waiting.",
+     "hint": "harto",
+     "a": "tired",
+     "full": "I'm sick and tired of waiting."
+    },
+    {
+     "q": "We learnt by trial and ______.",
+     "hint": "prueba y error",
+     "a": "error",
+     "full": "We learnt by trial and error."
+    },
+    {
+     "q": "Two people were ______ injured in the crash.",
+     "hint": "gravemente",
+     "a": "seriously",
+     "full": "Two people were seriously injured in the crash."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hacía un viento fuerte.",
+     "a": "There was a strong wind."
+    },
+    {
+     "q": "Tarde o temprano se enterará.",
+     "a": "Sooner or later he will find out."
+    },
+    {
+     "q": "Tienes que tener en cuenta los gastos.",
+     "a": "You have to take the costs into account."
+    },
+    {
+     "q": "Él de verdad hizo un esfuerzo.",
+     "a": "He really made an effort."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

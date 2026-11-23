@@ -493,5 +493,27 @@
   "subtitle": "needn't have o didn't need to, may well, was to have, would para las costumbres, y be able to",
   "content": "c1_06_modals_depth.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_07_Colocaciones_y_expresiones_fijas",
+  "file": "C1_07_Colocaciones_y_expresiones_fijas.pdf",
+  "level": "C1",
+  "number": 7,
+  "section": "Vocabulario",
+  "title": "Colocaciones y expresiones fijas",
+  "subtitle": "strong, heavy y high; make, take y do a fondo; parejas fijas de palabras (binomials)",
+  "content": "c1_07_collocations.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "C1_08_Ortografia_puntuacion_britanico_y_americano",
+  "file": "C1_08_Ortografia_puntuacion_britanico_y_americano.pdf",
+  "level": "C1",
+  "number": 8,
+  "section": "Escritura",
+  "title": "Ortografía, puntuación, británico y americano",
+  "subtitle": "-ise o -ize, -our o -or, comas, apóstrofos, guiones y mayúsculas",
+  "content": "c1_08_spelling_punctuation.json",
+  "exercise_count": 10
  }
 ]
