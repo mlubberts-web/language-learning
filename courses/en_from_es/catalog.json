@@ -97,5 +97,49 @@
   "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, ir de compras, preguntar el camino y la clase",
   "content": "a1_09_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_01_Past_simple_verbos_regulares",
+  "file": "A2_01_Past_simple_verbos_regulares.pdf",
+  "level": "A2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Past simple: verbos regulares",
+  "subtitle": "La terminación -ed, su ortografía y sus tres pronunciaciones, y did en preguntas y negaciones",
+  "content": "a2_01_past_simple_regular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_02_Past_simple_verbos_irregulares",
+  "file": "A2_02_Past_simple_verbos_irregulares.pdf",
+  "level": "A2",
+  "number": 2,
+  "section": "Verbos",
+  "title": "Past simple: verbos irregulares",
+  "subtitle": "was y were, y los verbos irregulares más importantes en grupos para aprenderlos",
+  "content": "a2_02_past_simple_irregular.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_03_El_past_continuous",
+  "file": "A2_03_El_past_continuous.pdf",
+  "level": "A2",
+  "number": 3,
+  "section": "Verbos",
+  "title": "El past continuous",
+  "subtitle": "was / were + -ing: el fondo de una historia, y when y while",
+  "content": "a2_03_past_continuous.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "A2_04_El_present_perfect",
+  "file": "A2_04_El_present_perfect.pdf",
+  "level": "A2",
+  "number": 4,
+  "section": "Verbos",
+  "title": "El present perfect",
+  "subtitle": "have / has + participio: experiencias, ever y never, just, already y yet, for y since",
+  "content": "a2_04_present_perfect.json",
+  "exercise_count": 12
  }
 ]

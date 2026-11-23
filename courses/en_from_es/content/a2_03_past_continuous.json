@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "El past continuous",
+  "subtitle": "was / were + -ing: el fondo de una historia, y when y while",
+  "footer": "Language Learning · A2 · Verbos · Past continuous",
+  "next": "Siguiente: A2 · pdf 4 — El present perfect"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el past continuous con <b>was / were + -ing</b>",
+    "describir lo que estaba pasando en un momento del pasado",
+    "distinguir el fondo y el suceso de una historia",
+    "usar bien <b>when</b> y <b>while</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "conj",
+   "verb": "to read",
+   "meaning": "leer",
+   "label": "verbo regular",
+   "tense": "past continuous",
+   "forms": [
+    "was read*ing*",
+    "were read*ing*",
+    "was read*ing*",
+    "were read*ing*",
+    "were read*ing*",
+    "were read*ing*"
+   ],
+   "examples": [
+    [
+     "I was reading when you called.",
+     "Estaba leyendo cuando llamaste."
+    ],
+    [
+     "You were reading the paper.",
+     "Estabas leyendo el periódico."
+    ],
+    [
+     "She was reading in the garden.",
+     "Ella estaba leyendo en el jardín."
+    ],
+    [
+     "We were reading the same book.",
+     "Estábamos leyendo el mismo libro."
+    ],
+    [
+     "You were reading aloud.",
+     "Estabais leyendo en voz alta."
+    ],
+    [
+     "They were reading the menu.",
+     "Estaban leyendo la carta."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I was sleeping.",
+     "I wasn't sleeping.",
+     "Were you sleeping?"
+    ],
+    [
+     "It was raining.",
+     "It wasn't raining.",
+     "Was it raining?"
+    ],
+    [
+     "They were working.",
+     "They weren't working.",
+     "Were they working?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Cuándo se usa?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "En curso en un momento del pasado",
+     "At eight o'clock I was having dinner.",
+     "A las ocho estaba cenando."
+    ],
+    [
+     "El fondo de una historia",
+     "The sun was shining and birds were singing.",
+     "Brillaba el sol y cantaban los pájaros."
+    ],
+    [
+     "Interrumpido por algo",
+     "I was cooking when the phone rang.",
+     "Estaba cocinando cuando sonó el teléfono."
+    ],
+    [
+     "Dos cosas a la vez",
+     "While I was reading, he was watching TV.",
+     "Mientras yo leía, él veía la tele."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "estaba haciendo = was doing, pero el imperfecto no siempre",
+   "text": "<i>Estaba leyendo</i> es siempre <b>I was reading</b>. El imperfecto español también lo es cuando describe algo en curso: <i>Llovía</i> = <b>It was raining</b>. Pero el imperfecto de costumbre no: <i>De niño jugaba al fútbol</i> = <b>As a child I played football</b> (o <b>I used to play</b>, pdf 7), nunca <i>I was playing</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. when y while"
+  },
+  {
+   "type": "p",
+   "text": "La acción larga (el fondo) va en past continuous, el suceso corto que la interrumpe en past simple. <b>while</b> (mientras) suele ir con la acción larga, <b>when</b> (cuando) con la corta."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I was walking home when it started to rain.",
+     "Volvía a casa andando cuando empezó a llover."
+    ],
+    [
+     "While she was driving, her phone rang.",
+     "Mientras conducía, le sonó el teléfono."
+    ],
+    [
+     "When I arrived, they were having lunch.",
+     "Cuando llegué, estaban comiendo."
+    ],
+    [
+     "When I arrived, they had lunch.",
+     "Cuando llegué, se pusieron a comer."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Fíjate en la diferencia",
+   "text": "<i>When I arrived, they <b>were having</b> lunch</i>: ya estaban comiendo. <i>When I arrived, they <b>had</b> lunch</i>: empezaron a comer cuando llegué. La forma cambia el orden de los sucesos, igual que <i>comían</i> y <i>comieron</i> en español."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Sin -ing con los estados",
+   "text": "Como en presente: los verbos como know, like, want y need no llevan -ing. <i>I <b>knew</b> the answer</i> (sabía la respuesta), no <i>I was knowing</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I was sleep when you called.",
+     "I was sleeping when you called.",
+     "Después de was va la forma en -ing."
+    ],
+    [
+     "They was playing football.",
+     "They were playing football.",
+     "Con they: were."
+    ],
+    [
+     "While I watched TV, the lights went out.",
+     "While I was watching TV, the lights went out.",
+     "La acción larga: past continuous."
+    ],
+    [
+     "I was walking home when it was starting to rain.",
+     "I was walking home when it started to rain.",
+     "El suceso corto: past simple."
+    ],
+    [
+     "I was knowing her.",
+     "I knew her.",
+     "know no lleva -ing."
+    ],
+    [
+     "What did you do at ten o'clock last night? I slept.",
+     "What were you doing at ten o'clock last night? I was sleeping.",
+     "En curso en un momento: past continuous."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el past simple o el past continuous. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ a shower when the doorbell rang.",
+     "hint": "have",
+     "a": "was having",
+     "full": "I was having a shower when the doorbell rang."
+    },
+    {
+     "q": "It ______ when we left the house.",
+     "hint": "rain",
+     "a": "was raining",
+     "full": "It was raining when we left the house."
+    },
+    {
+     "q": "While they ______ dinner, the lights went out.",
+     "hint": "cook",
+     "a": "were cooking",
+     "full": "While they were cooking dinner, the lights went out."
+    },
+    {
+     "q": "She was driving when she ______ the accident.",
+     "hint": "see",
+     "a": "saw",
+     "full": "She was driving when she saw the accident."
+    },
+    {
+     "q": "What ______ you doing at nine o'clock?",
+     "hint": "to be",
+     "a": "were",
+     "full": "What were you doing at nine o'clock?"
+    },
+    {
+     "q": "We ______ sleeping. We were watching a film.",
+     "hint": "negación",
+     "a": "weren't",
+     "full": "We weren't sleeping. We were watching a film."
+    },
+    {
+     "q": "I ______ my wallet while I was shopping.",
+     "hint": "lose",
+     "a": "lost",
+     "full": "I lost my wallet while I was shopping."
+    },
+    {
+     "q": "The children ______ in the garden all afternoon.",
+     "hint": "play",
+     "a": "were playing",
+     "full": "The children were playing in the garden all afternoon."
+    },
+    {
+     "q": "______ he working when you called?",
+     "hint": "to be",
+     "a": "Was",
+     "full": "Was he working when you called?"
+    },
+    {
+     "q": "I ______ the answer.",
+     "hint": "know",
+     "a": "knew",
+     "full": "I knew the answer."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estaba leyendo cuando llamaste.",
+     "a": "I was reading when you called."
+    },
+    {
+     "q": "Estuvo lloviendo todo el día.",
+     "a": "It was raining all day."
+    },
+    {
+     "q": "A las ocho estaba cenando.",
+     "a": "At eight o'clock I was having dinner."
+    },
+    {
+     "q": "¿Qué estabas haciendo?",
+     "a": "What were you doing?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

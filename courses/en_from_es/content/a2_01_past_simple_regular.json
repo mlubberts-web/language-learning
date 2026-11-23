@@ -1,0 +1,514 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Past simple: verbos regulares",
+  "subtitle": "La terminación -ed, su ortografía y sus tres pronunciaciones, y did en preguntas y negaciones",
+  "footer": "Language Learning · A2 · Verbos · Past simple (regular)",
+  "next": "Siguiente: A2 · pdf 2 — Past simple: verbos irregulares"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el past simple de los verbos regulares con <b>-ed</b>",
+    "escribir bien la -ed y pronunciarla de tres maneras",
+    "hacer preguntas y negaciones con <b>did</b>",
+    "contar lo que hiciste ayer, la semana pasada o en 2020"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "El past simple (pasado) de un verbo regular se forma con <b>-ed</b>. Buena noticia: la forma es <b>igual para todas las personas</b>. Nada de seis terminaciones como en español: <i>trabajé, trabajaste, trabajó</i> = <b>worked</b>."
+  },
+  {
+   "type": "conj",
+   "verb": "to work",
+   "meaning": "trabajar",
+   "label": "verbo regular",
+   "tense": "past simple",
+   "forms": [
+    "work*ed*",
+    "work*ed*",
+    "work*ed*",
+    "work*ed*",
+    "work*ed*",
+    "work*ed*"
+   ],
+   "examples": [
+    [
+     "I worked late yesterday.",
+     "Ayer trabajé hasta tarde."
+    ],
+    [
+     "You worked very hard last year.",
+     "El año pasado trabajaste muchísimo."
+    ],
+    [
+     "She worked in Paris in 2019.",
+     "Ella trabajó en París en 2019."
+    ],
+    [
+     "We worked together for five years.",
+     "Trabajamos juntos cinco años."
+    ],
+    [
+     "You worked on Saturday.",
+     "Trabajasteis el sábado."
+    ],
+    [
+     "They worked at the same school.",
+     "Trabajaban en el mismo colegio."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Regla de ortografía",
+    "Ejemplos",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "normalmente + ed",
+     "work → worked, play → played",
+     ""
+    ],
+    [
+     "termina en -e: + d",
+     "live → lived, like → liked",
+     ""
+    ],
+    [
+     "consonante + y: -ied",
+     "study → studied, try → tried",
+     "pero play → played, stay → stayed"
+    ],
+    [
+     "vocal corta + una consonante: se dobla",
+     "stop → stopped, plan → planned",
+     "en británico también travel → travelled"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Tres pronunciaciones de -ed"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    6.0,
+    8.0
+   ],
+   "head": [
+    "Sonido",
+    "Después de",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "/t/",
+     "sonido sordo: p, k, f, s, sh, ch",
+     "stopped, worked, laughed, missed, washed, watched"
+    ],
+    [
+     "/d/",
+     "sonido sonoro y vocales",
+     "played, lived, opened, called, cleaned"
+    ],
+    [
+     "/ɪd/ (una sílaba más)",
+     "t o d",
+     "wanted, started, needed, decided"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "worked no tiene una sílaba más",
+   "text": "Los hispanohablantes suelen decir <i>work-ed</i>, leyendo la palabra como se escribe. Solo después de una t o una d se oye una sílaba más: <b>want-ed</b>, <b>need-ed</b>. <b>worked</b> suena como 'workt', <b>played</b> como 'pleid', <b>stopped</b> como 'stopt'. Y pronuncia la t o la d final: sin ella el verbo vuelve al presente."
+  },
+  {
+   "type": "h1",
+   "text": "3. Negaciones y preguntas con did"
+  },
+  {
+   "type": "p",
+   "text": "Igual que en el present simple, hace falta un verbo auxiliar, ahora <b>did</b> para todas las personas. El pasado está entonces en did; el verbo principal va sin -ed."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I watched the film.",
+     "I didn't watch the film.",
+     "Did you watch the film?"
+    ],
+    [
+     "She called her mum.",
+     "She didn't call her mum.",
+     "Did she call her mum?"
+    ],
+    [
+     "They stayed at home.",
+     "They didn't stay at home.",
+     "Did they stay at home?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "El pasado, una sola vez",
+   "text": "Después de <b>did</b> y <b>didn't</b> va el verbo sin nada: <b>Did you play?</b>, <b>I didn't play</b>. Nunca <i>Did you played?</i> ni <i>I didn't played</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Pregunta",
+    "Sí",
+    "No"
+   ],
+   "rows": [
+    [
+     "Did you enjoy it?",
+     "Yes, I did.",
+     "No, I didn't."
+    ],
+    [
+     "Did it rain?",
+     "Yes, it did.",
+     "No, it didn't."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Expresiones de tiempo del pasado"
+  },
+  {
+   "type": "verbpairs",
+   "title": "¿Cuándo?",
+   "items": [
+    [
+     "yesterday",
+     "ayer"
+    ],
+    [
+     "yesterday morning",
+     "ayer por la mañana"
+    ],
+    [
+     "last night",
+     "anoche"
+    ],
+    [
+     "last week",
+     "la semana pasada"
+    ],
+    [
+     "last year",
+     "el año pasado"
+    ],
+    [
+     "two days ago",
+     "hace dos días"
+    ],
+    [
+     "a long time ago",
+     "hace mucho tiempo"
+    ],
+    [
+     "in 2020",
+     "en 2020"
+    ],
+    [
+     "when I was a child",
+     "cuando era niño"
+    ],
+    [
+     "the day before yesterday",
+     "anteayer"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "'He trabajado' o 'trabajé': en inglés, past simple",
+   "text": "Con un tiempo terminado (yesterday, last week, ago) el inglés usa el <b>past simple</b>, igual que el español usa el indefinido: <i>Ayer trabajé</i> = <b>I worked yesterday</b>. Y aunque en España digas <i>esta mañana he trabajado</i>, si la mañana ya terminó el inglés dice <b>I worked this morning</b>. Nunca <i>I have worked yesterday</i>. Más sobre esto en el pdf 5."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "ago va detrás",
+   "text": "<b>ago</b> (hace) va detrás del tiempo, al revés que en español: <i>hace dos años</i> = <b>two years ago</b>, nunca <i>ago two years</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos regulares para practicar",
+   "items": [
+    [
+     "to arrive",
+     "llegar"
+    ],
+    [
+     "to ask",
+     "preguntar"
+    ],
+    [
+     "to call",
+     "llamar"
+    ],
+    [
+     "to clean",
+     "limpiar"
+    ],
+    [
+     "to decide",
+     "decidir"
+    ],
+    [
+     "to finish",
+     "terminar, acabar"
+    ],
+    [
+     "to happen",
+     "pasar, ocurrir"
+    ],
+    [
+     "to help",
+     "ayudar"
+    ],
+    [
+     "to listen",
+     "escuchar"
+    ],
+    [
+     "to move",
+     "mudarse, mover"
+    ],
+    [
+     "to open",
+     "abrir"
+    ],
+    [
+     "to visit",
+     "visitar"
+    ],
+    [
+     "to wait",
+     "esperar"
+    ],
+    [
+     "to walk",
+     "andar, caminar"
+    ],
+    [
+     "to want",
+     "querer"
+    ],
+    [
+     "to travel",
+     "viajar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I have visited Rome last year.",
+     "I visited Rome last year.",
+     "Un tiempo terminado: past simple."
+    ],
+    [
+     "Did you watched the match?",
+     "Did you watch the match?",
+     "Después de did va el verbo sin -ed."
+    ],
+    [
+     "She didn't called me.",
+     "She didn't call me.",
+     "Después de didn't va el verbo sin -ed."
+    ],
+    [
+     "He studyed English.",
+     "He studied English.",
+     "Consonante + y se convierte en -ied."
+    ],
+    [
+     "We stoped at a café.",
+     "We stopped at a café.",
+     "Vocal corta + una consonante: se dobla."
+    ],
+    [
+     "I watched TV ago two days.",
+     "I watched TV two days ago.",
+     "Hace es ago, detrás del tiempo."
+    ],
+    [
+     "Where you lived?",
+     "Where did you live?",
+     "Una pregunta lleva did."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el past simple. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We ______ our grandparents last weekend.",
+     "hint": "visit",
+     "a": "visited",
+     "full": "We visited our grandparents last weekend."
+    },
+    {
+     "q": "She ______ in London for two years.",
+     "hint": "live",
+     "a": "lived",
+     "full": "She lived in London for two years."
+    },
+    {
+     "q": "I ______ French at school.",
+     "hint": "study",
+     "a": "studied",
+     "full": "I studied French at school."
+    },
+    {
+     "q": "The bus ______ in front of the station.",
+     "hint": "stop",
+     "a": "stopped",
+     "full": "The bus stopped in front of the station."
+    },
+    {
+     "q": "______ you enjoy the concert?",
+     "hint": "pregunta",
+     "a": "Did",
+     "full": "Did you enjoy the concert?"
+    },
+    {
+     "q": "He ______ call me yesterday.",
+     "hint": "negación",
+     "a": "didn't",
+     "full": "He didn't call me yesterday."
+    },
+    {
+     "q": "Did it rain? Yes, it ______.",
+     "hint": "respuesta corta",
+     "a": "did",
+     "full": "Did it rain? Yes, it did."
+    },
+    {
+     "q": "They ______ to Spain in 2019.",
+     "hint": "travel, británico",
+     "a": "travelled",
+     "full": "They travelled to Spain in 2019."
+    },
+    {
+     "q": "I moved here three years ______.",
+     "hint": "hace",
+     "a": "ago",
+     "full": "I moved here three years ago."
+    },
+    {
+     "q": "What time did you ______?",
+     "hint": "arrive",
+     "a": "arrive",
+     "full": "What time did you arrive?"
+    },
+    {
+     "q": "We ______ for the bus for an hour.",
+     "hint": "wait",
+     "a": "waited",
+     "full": "We waited for the bus for an hour."
+    },
+    {
+     "q": "She ______ her exam last week.",
+     "hint": "pass",
+     "a": "passed",
+     "full": "She passed her exam last week."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ayer trabajé hasta tarde.",
+     "a": "I worked late yesterday."
+    },
+    {
+     "q": "¿Viste la película?",
+     "a": "Did you watch the film?"
+    },
+    {
+     "q": "Ella no me llamó.",
+     "a": "She didn't call me."
+    },
+    {
+     "q": "Nos mudamos hace dos años.",
+     "a": "We moved two years ago."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

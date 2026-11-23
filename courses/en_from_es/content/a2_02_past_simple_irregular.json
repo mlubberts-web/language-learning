@@ -1,0 +1,592 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "Past simple: verbos irregulares",
+  "subtitle": "was y were, y los verbos irregulares más importantes en grupos para aprenderlos",
+  "footer": "Language Learning · A2 · Verbos · Past simple (irregular)",
+  "next": "Siguiente: A2 · pdf 3 — El past continuous"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar <b>was</b> y <b>were</b>, también en preguntas y negaciones",
+    "el pasado de los sesenta verbos irregulares más usados",
+    "contar una historia corta sobre lo que hiciste"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. was y were"
+  },
+  {
+   "type": "conj",
+   "verb": "to be",
+   "meaning": "ser, estar",
+   "label": "verbo irregular",
+   "tense": "past simple",
+   "forms": [
+    "was",
+    "were",
+    "was",
+    "were",
+    "were",
+    "were"
+   ],
+   "examples": [
+    [
+     "I was tired yesterday.",
+     "Ayer estaba cansado."
+    ],
+    [
+     "You were right.",
+     "Tenías razón."
+    ],
+    [
+     "It was a great party.",
+     "Fue una fiesta estupenda."
+    ],
+    [
+     "We were at home.",
+     "Estábamos en casa."
+    ],
+    [
+     "You were very kind.",
+     "Fuisteis muy amables."
+    ],
+    [
+     "They were in Spain last month.",
+     "El mes pasado estuvieron en España."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Con was y were <b>no hace falta did</b>: <i>I <b>wasn't</b> at home. <b>Were</b> you late? Yes, I was.</i> Igual que con am, is y are. Y una sola forma sirve para fui, era, estuve y estaba: <b>I was</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "tener razón, tener hambre",
+   "text": "Como en presente, muchas expresiones con 'tener' van en inglés con to be: <i>Tenías razón</i> = <b>You were right</b>; <i>Tenía hambre</i> = <b>I was hungry</b>; <i>Teníamos frío</i> = <b>We were cold</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los verbos irregulares"
+  },
+  {
+   "type": "p",
+   "text": "Unos sesenta verbos frecuentes tienen un pasado propio. Pero hay un sistema: apréndelos en grupos que se parecen. La forma es otra vez igual para todas las personas, y las preguntas y negaciones van con did más el verbo sin nada: <i>I <b>went</b> home. Did you <b>go</b> home?</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    3.6,
+    6.2
+   ],
+   "head": [
+    "Infinitivo",
+    "Past simple",
+    "Español",
+    "Grupo"
+   ],
+   "rows": [
+    [
+     "go",
+     "went",
+     "ir",
+     "completamente distinto"
+    ],
+    [
+     "have",
+     "had",
+     "tener",
+     ""
+    ],
+    [
+     "do",
+     "did",
+     "hacer",
+     ""
+    ],
+    [
+     "make",
+     "made",
+     "hacer, fabricar",
+     ""
+    ],
+    [
+     "say",
+     "said",
+     "decir",
+     "se pronuncia 'sed'"
+    ],
+    [
+     "get",
+     "got",
+     "conseguir, recibir, ponerse",
+     ""
+    ],
+    [
+     "see",
+     "saw",
+     "ver",
+     ""
+    ],
+    [
+     "come",
+     "came",
+     "venir",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "La vocal cambia a o o a",
+   "items": [
+    [
+     "went",
+     "fui, fue (to go)"
+    ],
+    [
+     "came",
+     "vine, vino (to come)"
+    ],
+    [
+     "got",
+     "recibí, se puso (to get)"
+    ],
+    [
+     "saw",
+     "vi, vio (to see)"
+    ],
+    [
+     "gave",
+     "di, dio (to give)"
+    ],
+    [
+     "ate",
+     "comí, comió (to eat)"
+    ],
+    [
+     "drank",
+     "bebí, bebió (to drink)"
+    ],
+    [
+     "began",
+     "empecé, empezó (to begin)"
+    ],
+    [
+     "swam",
+     "nadé, nadó (to swim)"
+    ],
+    [
+     "sang",
+     "canté, cantó (to sing)"
+    ],
+    [
+     "ran",
+     "corrí, corrió (to run)"
+    ],
+    [
+     "sat",
+     "me senté, se sentó (to sit)"
+    ],
+    [
+     "wrote",
+     "escribí, escribió (to write)"
+    ],
+    [
+     "rode",
+     "monté, montó (bici o caballo, to ride)"
+    ],
+    [
+     "drove",
+     "conduje, condujo (to drive)"
+    ],
+    [
+     "spoke",
+     "hablé, habló (to speak)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Termina en -ought o -aught",
+   "items": [
+    [
+     "bought",
+     "compré, compró (to buy)"
+    ],
+    [
+     "brought",
+     "traje, trajo (to bring)"
+    ],
+    [
+     "thought",
+     "pensé, pensó (to think)"
+    ],
+    [
+     "fought",
+     "luché, luchó (to fight)"
+    ],
+    [
+     "caught",
+     "cogí, cogió, pillé (to catch)"
+    ],
+    [
+     "taught",
+     "enseñé, enseñó (to teach)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Termina en -t o -d",
+   "items": [
+    [
+     "felt",
+     "sentí, sintió (to feel)"
+    ],
+    [
+     "left",
+     "me fui, se fue, salí (to leave)"
+    ],
+    [
+     "kept",
+     "guardé, guardó (to keep)"
+    ],
+    [
+     "slept",
+     "dormí, durmió (to sleep)"
+    ],
+    [
+     "met",
+     "conocí, conoció, quedé con (to meet)"
+    ],
+    [
+     "sent",
+     "envié, envió, mandé (to send)"
+    ],
+    [
+     "spent",
+     "gasté, gastó, pasé (tiempo, to spend)"
+    ],
+    [
+     "lost",
+     "perdí, perdió (to lose)"
+    ],
+    [
+     "sold",
+     "vendí, vendió (to sell)"
+    ],
+    [
+     "told",
+     "conté, contó, dije (to tell)"
+    ],
+    [
+     "heard",
+     "oí, oyó (to hear)"
+    ],
+    [
+     "found",
+     "encontré, encontró (to find)"
+    ],
+    [
+     "paid",
+     "pagué, pagó (to pay)"
+    ],
+    [
+     "made",
+     "hice, hizo (to make)"
+    ],
+    [
+     "stood",
+     "estuve de pie (to stand)"
+    ],
+    [
+     "understood",
+     "entendí, entendió (to understand)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "No cambia",
+   "items": [
+    [
+     "put",
+     "puse, puso (to put)"
+    ],
+    [
+     "cut",
+     "corté, cortó (to cut)"
+    ],
+    [
+     "hit",
+     "golpeé, golpeó (to hit)"
+    ],
+    [
+     "let",
+     "dejé, dejó (permitir, to let)"
+    ],
+    [
+     "cost",
+     "costó (to cost)"
+    ],
+    [
+     "read",
+     "leí, leyó (to read, se pronuncia 'red')"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Otros importantes",
+   "items": [
+    [
+     "knew",
+     "supe, sabía, conocía (to know)"
+    ],
+    [
+     "grew",
+     "crecí, creció (to grow)"
+    ],
+    [
+     "flew",
+     "volé, voló (to fly)"
+    ],
+    [
+     "threw",
+     "tiré, tiró, lancé (to throw)"
+    ],
+    [
+     "took",
+     "cogí, cogió, tomé (to take)"
+    ],
+    [
+     "broke",
+     "rompí, rompió (to break)"
+    ],
+    [
+     "chose",
+     "elegí, eligió (to choose)"
+    ],
+    [
+     "forgot",
+     "olvidé, olvidó (to forget)"
+    ],
+    [
+     "fell",
+     "me caí, se cayó (to fall)"
+    ],
+    [
+     "became",
+     "me hice, se hizo, llegó a ser (to become)"
+    ],
+    [
+     "won",
+     "gané, ganó (to win)"
+    ],
+    [
+     "wore",
+     "llevé, llevaba puesto (ropa, to wear)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Así se aprenden",
+   "text": "Di siempre las tres formas en voz alta: <b>go – went – gone</b>, <b>see – saw – seen</b>. La tercera forma (el participio) la necesitarás en el pdf 4. En la lista 'Verbs in context' practicas las formas en frases."
+  },
+  {
+   "type": "h1",
+   "text": "3. Contar una historia"
+  },
+  {
+   "type": "p",
+   "text": "<i>Last Saturday I <b>got</b> up late. I <b>had</b> breakfast and then I <b>went</b> to the market. I <b>bought</b> some fruit and I <b>met</b> an old friend. We <b>drank</b> a coffee and we <b>spoke</b> for an hour. In the evening I <b>was</b> very tired, so I <b>went</b> to bed early.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "become y get = hacerse, ponerse",
+   "text": "El español tiene muchos verbos para un cambio: hacerse, ponerse, volverse, llegar a ser. El inglés usa sobre todo <b>become</b> y <b>get</b>: <i>She became a doctor</i> = Se hizo médica; <i>It got dark</i> = Se hizo de noche; <i>He got angry</i> = Se enfadó."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I goed to the cinema.",
+     "I went to the cinema.",
+     "go es irregular: went."
+    ],
+    [
+     "Did you saw him?",
+     "Did you see him?",
+     "Después de did va el verbo sin nada."
+    ],
+    [
+     "We was at home.",
+     "We were at home.",
+     "Con we, you y they: were."
+    ],
+    [
+     "Did you be at home?",
+     "Were you at home?",
+     "Con to be no se usa did."
+    ],
+    [
+     "She buyed a new car.",
+     "She bought a new car.",
+     "buy es irregular: bought."
+    ],
+    [
+     "I teached English.",
+     "I taught English.",
+     "teach es irregular: taught."
+    ],
+    [
+     "He didn't went to work.",
+     "He didn't go to work.",
+     "Después de didn't va el verbo sin nada."
+    ],
+    [
+     "I had right.",
+     "I was right.",
+     "Tener razón es be right."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el past simple. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We ______ to Paris last summer.",
+     "hint": "go",
+     "a": "went",
+     "full": "We went to Paris last summer."
+    },
+    {
+     "q": "I ______ very tired last night.",
+     "hint": "be",
+     "a": "was",
+     "full": "I was very tired last night."
+    },
+    {
+     "q": "They ______ at home on Sunday.",
+     "hint": "be",
+     "a": "were",
+     "full": "They were at home on Sunday."
+    },
+    {
+     "q": "She ______ a new phone yesterday.",
+     "hint": "buy",
+     "a": "bought",
+     "full": "She bought a new phone yesterday."
+    },
+    {
+     "q": "I ______ my keys at the station.",
+     "hint": "lose",
+     "a": "lost",
+     "full": "I lost my keys at the station."
+    },
+    {
+     "q": "He ______ me a nice story.",
+     "hint": "tell",
+     "a": "told",
+     "full": "He told me a nice story."
+    },
+    {
+     "q": "Did you ______ the news?",
+     "hint": "hear",
+     "a": "hear",
+     "full": "Did you hear the news?"
+    },
+    {
+     "q": "We ______ a lot of photos.",
+     "hint": "take",
+     "a": "took",
+     "full": "We took a lot of photos."
+    },
+    {
+     "q": "______ you at the party?",
+     "hint": "be, pregunta",
+     "a": "Were",
+     "full": "Were you at the party?"
+    },
+    {
+     "q": "It ______ dark at six.",
+     "hint": "get",
+     "a": "got",
+     "full": "It got dark at six."
+    },
+    {
+     "q": "I ______ that he was French.",
+     "hint": "think",
+     "a": "thought",
+     "full": "I thought that he was French."
+    },
+    {
+     "q": "She ______ a teacher in 2015.",
+     "hint": "become",
+     "a": "became",
+     "full": "She became a teacher in 2015."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ayer fui al mercado.",
+     "a": "I went to the market yesterday."
+    },
+    {
+     "q": "Tenías razón.",
+     "a": "You were right."
+    },
+    {
+     "q": "¿Cogisteis el autobús?",
+     "a": "Did you take the bus?"
+    },
+    {
+     "q": "Se hizo de noche.",
+     "a": "It got dark."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

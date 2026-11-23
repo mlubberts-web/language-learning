@@ -1,0 +1,453 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "El present perfect",
+  "subtitle": "have / has + participio: experiencias, ever y never, just, already y yet, for y since",
+  "footer": "Language Learning · A2 · Verbos · Present perfect",
+  "next": "Siguiente: A2 · pdf 5 — ¿Present perfect o past simple?"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el present perfect con <b>have / has + participio</b>",
+    "hablar de experiencias con <b>ever</b> y <b>never</b>",
+    "usar <b>just, already</b> y <b>yet</b>",
+    "decir cuánto tiempo dura algo con <b>for</b> y <b>since</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "El present perfect es <b>have</b> (o <b>has</b> con he, she, it) más el <b>participio</b> (past participle), como <i>he visto</i> en español. En los verbos regulares es la forma en -ed: <i>worked, played</i>. Los irregulares tienen una tercera forma propia: <i>go – went – <b>gone</b></i>."
+  },
+  {
+   "type": "conj",
+   "verb": "to see",
+   "meaning": "ver",
+   "label": "verbo irregular",
+   "tense": "present perfect",
+   "forms": [
+    "have seen",
+    "have seen",
+    "ha*s* seen",
+    "have seen",
+    "have seen",
+    "have seen"
+   ],
+   "examples": [
+    [
+     "I have seen that film twice.",
+     "He visto esa película dos veces."
+    ],
+    [
+     "Have you seen my keys?",
+     "¿Has visto mis llaves?"
+    ],
+    [
+     "She has never seen the sea.",
+     "Ella nunca ha visto el mar."
+    ],
+    [
+     "We have seen a lot of Spain.",
+     "Hemos visto mucho de España."
+    ],
+    [
+     "You have seen the new office.",
+     "Habéis visto la oficina nueva."
+    ],
+    [
+     "They haven't seen him yet.",
+     "Todavía no lo han visto."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.6,
+    3.6,
+    6.2
+   ],
+   "head": [
+    "Infinitivo",
+    "Past simple",
+    "Participio",
+    "Español"
+   ],
+   "rows": [
+    [
+     "be",
+     "was / were",
+     "been",
+     "ser, estar, sido, estado"
+    ],
+    [
+     "go",
+     "went",
+     "gone",
+     "ir, ido"
+    ],
+    [
+     "do",
+     "did",
+     "done",
+     "hacer, hecho"
+    ],
+    [
+     "see",
+     "saw",
+     "seen",
+     "ver, visto"
+    ],
+    [
+     "eat",
+     "ate",
+     "eaten",
+     "comer, comido"
+    ],
+    [
+     "write",
+     "wrote",
+     "written",
+     "escribir, escrito"
+    ],
+    [
+     "take",
+     "took",
+     "taken",
+     "coger, tomar, cogido"
+    ],
+    [
+     "speak",
+     "spoke",
+     "spoken",
+     "hablar, hablado"
+    ],
+    [
+     "buy",
+     "bought",
+     "bought",
+     "comprar, comprado"
+    ],
+    [
+     "make",
+     "made",
+     "made",
+     "hacer, hecho"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "have = haber, no tener",
+   "text": "Aquí <b>have</b> funciona como <i>haber</i>: <i>he ido</i> = <b>I have gone</b>, <i>ha venido</i> = <b>She has come</b>. Y como en español, el participio no cambia nunca. No confundas este have con <i>tener</i>: <i>I have seen it</i> es <i>lo he visto</i>, no <i>lo tengo visto</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿been o gone?",
+   "text": "<i>He has <b>gone</b> to Spain</i>: se ha ido y sigue allí. <i>He has <b>been</b> to Spain</i>: ha estado allí y ya ha vuelto."
+  },
+  {
+   "type": "h1",
+   "text": "2. Experiencias: ever y never"
+  },
+  {
+   "type": "p",
+   "text": "Con el present perfect cuentas lo que has hecho alguna vez en la vida, sin decir cuándo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Have you ever been to London?",
+     "¿Has estado alguna vez en Londres?"
+    ],
+    [
+     "Yes, I have. / No, I haven't.",
+     "Sí. / No."
+    ],
+    [
+     "I've never eaten sushi.",
+     "Nunca he comido sushi."
+    ],
+    [
+     "She has visited Spain three times.",
+     "Ella ha estado tres veces en España."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. just, already y yet"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "just",
+     "I've just finished.",
+     "Acabo de terminar."
+    ],
+    [
+     "already",
+     "She has already left.",
+     "Ya se ha ido."
+    ],
+    [
+     "yet (pregunta)",
+     "Have you eaten yet?",
+     "¿Ya has comido?"
+    ],
+    [
+     "yet (negación)",
+     "I haven't finished yet.",
+     "Todavía no he terminado."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "El lugar en la frase",
+   "text": "<b>just</b> y <b>already</b> van entre have y el participio: <i>I have <b>just</b> arrived.</i> (Acabo de llegar.) <b>yet</b> va al final: <i>Have you called her <b>yet</b>?</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. for y since"
+  },
+  {
+   "type": "p",
+   "text": "Para algo que empezó en el pasado y sigue ahora, se usa el present perfect con <b>for</b> (un periodo) o <b>since</b> (un punto de partida)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.0,
+    7.0
+   ],
+   "head": [
+    "",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "for",
+     "I've lived here for ten years.",
+     "Vivo aquí desde hace diez años."
+    ],
+    [
+     "since",
+     "I've lived here since 2015.",
+     "Vivo aquí desde 2015."
+    ],
+    [
+     "How long",
+     "How long have you known her?",
+     "¿Cuánto tiempo hace que la conoces?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Presente en español, present perfect en inglés",
+   "text": "<i>Vivo aquí desde hace diez años</i> y <i>Llevo diez años aquí</i> van en presente en español. El inglés usa el present perfect: <b>I have lived here for ten years</b>. <i>I live here since ten years</i> es incorrecto. Recuerda: <i>desde hace</i> = <b>for</b>, <i>desde</i> = <b>since</b>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I have went to the shop.",
+     "I have gone to the shop.",
+     "Después de have va el participio: gone, no went."
+    ],
+    [
+     "She have finished.",
+     "She has finished.",
+     "Con she: has."
+    ],
+    [
+     "I live here since 2010.",
+     "I have lived here since 2010.",
+     "Algo que sigue hasta ahora: present perfect."
+    ],
+    [
+     "I have lived here since ten years.",
+     "I have lived here for ten years.",
+     "Un periodo: for."
+    ],
+    [
+     "Have you ever went to Rome?",
+     "Have you ever been to Rome?",
+     "Después de have va el participio."
+    ],
+    [
+     "I haven't yet finished.",
+     "I haven't finished yet.",
+     "yet va al final."
+    ],
+    [
+     "I know her since years.",
+     "I have known her for years.",
+     "Present perfect con for."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el present perfect o con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ that film three times.",
+     "hint": "see",
+     "a": "have seen",
+     "full": "I have seen that film three times."
+    },
+    {
+     "q": "She ______ to Spain many times.",
+     "hint": "be",
+     "a": "has been",
+     "full": "She has been to Spain many times."
+    },
+    {
+     "q": "Have you ______ been to Scotland?",
+     "hint": "alguna vez",
+     "a": "ever",
+     "full": "Have you ever been to Scotland?"
+    },
+    {
+     "q": "We have ______ arrived. We're still taking our coats off.",
+     "hint": "acabar de",
+     "a": "just",
+     "full": "We have just arrived. We're still taking our coats off."
+    },
+    {
+     "q": "Have you finished your homework ______?",
+     "hint": "ya (pregunta)",
+     "a": "yet",
+     "full": "Have you finished your homework yet?"
+    },
+    {
+     "q": "I've lived in this town ______ 2018.",
+     "hint": "for o since",
+     "a": "since",
+     "full": "I've lived in this town since 2018."
+    },
+    {
+     "q": "They've been married ______ twenty years.",
+     "hint": "for o since",
+     "a": "for",
+     "full": "They've been married for twenty years."
+    },
+    {
+     "q": "He ______ eaten Indian food.",
+     "hint": "nunca",
+     "a": "has never",
+     "full": "He has never eaten Indian food."
+    },
+    {
+     "q": "I ______ my keys. I can't find them.",
+     "hint": "lose",
+     "a": "have lost",
+     "full": "I have lost my keys. I can't find them."
+    },
+    {
+     "q": "How long have you ______ her?",
+     "hint": "know",
+     "a": "known",
+     "full": "How long have you known her?"
+    },
+    {
+     "q": "She has ______ left. She went an hour ago.",
+     "hint": "ya",
+     "a": "already",
+     "full": "She has already left. She went an hour ago."
+    },
+    {
+     "q": "They ______ written the letter yet.",
+     "hint": "negación",
+     "a": "haven't",
+     "full": "They haven't written the letter yet."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Vivo aquí desde hace cinco años.",
+     "a": "I have lived here for five years."
+    },
+    {
+     "q": "¿Has estado alguna vez en Londres?",
+     "a": "Have you ever been to London?"
+    },
+    {
+     "q": "Nunca he comido sushi.",
+     "a": "I have never eaten sushi."
+    },
+    {
+     "q": "Ella acaba de llegar.",
+     "a": "She has just arrived."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
