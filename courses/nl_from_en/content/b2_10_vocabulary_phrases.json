@@ -1,0 +1,61 @@
+{
+ "meta": {"level": "B2", "section": "Vocabulary", "number": 10, "total_in_level": 10,
+  "title": "Vocabulary and phrases",
+  "subtitle": "Collocations, idioms, work and money, and the topics of the Staatsexamen NT2, Programma II",
+  "footer": "Language Learning · B2 · Vocabulary and phrases",
+  "next": "Next: C1 · pdf 1"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "How to use these lists", "bullets": [
+   "Learn words in combinations: not <i>besluit</i>, but <i>een besluit nemen</i>.",
+   "Cover one column and test yourself in both directions.",
+   "These words come up often in the Staatsexamen NT2, Programma II (B2)."]},
+  {"type": "h1", "text": "1. Collocations"},
+  {"type": "verbpairs", "title": "Verb + noun", "items": [
+   ["een besluit nemen", "to make a decision"], ["een foto maken", "to take a photo"], ["een afspraak maken", "to make an appointment"],
+   ["rekening houden met", "to take into account"], ["aandacht besteden aan", "to pay attention to"], ["een bijdrage leveren", "to make a contribution"],
+   ["kritiek leveren op", "to criticise"], ["een fout maken", "to make a mistake"], ["een examen afleggen", "to take an exam"],
+   ["een rol spelen", "to play a role"], ["een vraag stellen", "to ask a question"], ["vooruitgang boeken", "to make progress"]]},
+  {"type": "callout", "kind": "note", "title": "Different verbs from English", "text": "Dutch often uses a different verb: <i>make a decision</i> = <b>een besluit nemen</b> (take), <i>take a photo</i> = <b>een foto maken</b> (make), <i>ask a question</i> = <b>een vraag stellen</b> (put), <i>pay attention</i> = <b>aandacht besteden</b> (spend). Learn the combination as one unit."},
+  {"type": "h1", "text": "2. Idioms"},
+  {"type": "verbpairs", "title": "Common idioms", "items": [
+   ["met de deur in huis vallen", "to come straight to the point"], ["de kat uit de boom kijken", "to wait and see"],
+   ["het regent pijpenstelen", "it's raining cats and dogs"], ["over koetjes en kalfjes praten", "to make small talk"],
+   ["iets onder de knie hebben", "to have mastered something"], ["de kogel is door de kerk", "the decision has been made"],
+   ["een kat in de zak kopen", "to buy a pig in a poke"], ["nu komt de aap uit de mouw", "now the truth comes out"],
+   ["tussen de soep en de aardappels", "in between, quickly"], ["iemand een hart onder de riem steken", "to encourage someone"]]},
+  {"type": "callout", "kind": "tip", "title": "Animals and food", "text": "Dutch idioms are full of cats, monkeys, cows and soup. Many have no English equivalent, so learn the meaning, not the words. <i>Hij viel met de deur in huis</i> doesn't mean someone fell through a door: he came straight to the point, which the Dutch rather like."},
+  {"type": "h1", "text": "3. Work and money"},
+  {"type": "verbpairs", "title": "Work", "items": [
+   ["de werkgever", "employer"], ["de werknemer", "employee"], ["het contract", "contract"], ["vast werk", "a permanent job"],
+   ["ontslagen worden", "to be dismissed"], ["ontslag nemen", "to resign"], ["met pensioen gaan", "to retire"], ["de werkdruk", "workload"],
+   ["de promotie", "promotion"], ["de ondernemer", "entrepreneur"]]},
+  {"type": "verbpairs", "title": "Money", "items": [
+   ["het inkomen", "income"], ["de belasting", "tax"], ["de lening", "loan"], ["de hypotheek", "mortgage"],
+   ["de schuld", "debt"], ["lenen", "to borrow, to lend"], ["uitlenen", "to lend"], ["zich kunnen veroorloven", "to be able to afford"],
+   ["sparen", "to save"], ["de koopjes", "bargains"]]},
+  {"type": "callout", "kind": "warn", "title": "lenen and leren go both ways", "text": "<b>lenen</b> means both <i>borrow</i> and <i>lend</i>: <i>Mag ik je pen lenen?</i> (borrow) and <i>Kun je me je pen lenen?</i> (lend). <b>uitlenen</b> is only <i>lend</i>. In the same way, <b>leren</b> means <i>learn</i> and <i>teach</i>: <i>Ik leer Nederlands</i>, <i>Zij leert mij Nederlands</i>."},
+  {"type": "h1", "text": "4. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "We moeten vandaag een besluit ______.", "hint": "make a decision", "a": "nemen", "full": "We moeten vandaag een besluit nemen."},
+   {"q": "Mag ik een ______ stellen?", "hint": "question", "a": "vraag", "full": "Mag ik een vraag stellen?"},
+   {"q": "Je moet ______ houden met de kosten.", "hint": "take into account", "a": "rekening", "full": "Je moet rekening houden met de kosten."},
+   {"q": "Het regent ______. Neem een paraplu mee.", "hint": "cats and dogs", "a": "pijpenstelen", "full": "Het regent pijpenstelen. Neem een paraplu mee."},
+   {"q": "Na een jaar had ze het Nederlands goed onder de ______.", "hint": "mastered", "a": "knie", "full": "Na een jaar had ze het Nederlands goed onder de knie."},
+   {"q": "We kijken eerst de kat uit de ______.", "hint": "wait and see", "a": "boom", "full": "We kijken eerst de kat uit de boom."},
+   {"q": "Hij heeft vorige week ______ genomen.", "hint": "resigned", "a": "ontslag", "full": "Hij heeft vorige week ontslag genomen."},
+   {"q": "Mijn opa is met ______ gegaan.", "hint": "retired", "a": "pensioen", "full": "Mijn opa is met pensioen gegaan."},
+   {"q": "We kunnen ons geen nieuwe auto ______.", "hint": "afford", "a": "veroorloven", "full": "We kunnen ons geen nieuwe auto veroorloven."},
+   {"q": "Kun je me tien euro ______?", "hint": "lend", "a": "lenen", "full": "Kun je me tien euro lenen?"},
+   {"q": "Ze ______ me Nederlands.", "hint": "teaches", "a": "leert", "full": "Ze leert me Nederlands."},
+   {"q": "Hij viel meteen met de deur in ______.", "hint": "came straight to the point", "a": "huis", "full": "Hij viel meteen met de deur in huis."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "We have to make a decision.", "a": "We moeten een besluit nemen."},
+   {"q": "Can I borrow your pen?", "a": "Mag ik je pen lenen?"},
+   {"q": "It's raining cats and dogs.", "a": "Het regent pijpenstelen."},
+   {"q": "He resigned.", "a": "Hij heeft ontslag genomen."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

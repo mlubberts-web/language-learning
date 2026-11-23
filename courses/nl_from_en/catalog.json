@@ -416,5 +416,16 @@
   "subtitle": "Dutch in the Netherlands and in Belgium: words, pronunciation, ge and gij, and politeness",
   "content": "b2_09_netherlands_flanders.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_10_Vocabulary_and_phrases",
+  "file": "B2_10_Vocabulary_and_phrases.pdf",
+  "level": "B2",
+  "number": 10,
+  "section": "Vocabulary",
+  "title": "Vocabulary and phrases",
+  "subtitle": "Collocations, idioms, work and money, and the topics of the Staatsexamen NT2, Programma II",
+  "content": "b2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
