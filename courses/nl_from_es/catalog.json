@@ -196,5 +196,16 @@
   "subtitle": "Kom binnen, laten we gaan, zou je ... kunnen, y los suavizadores even, maar y eens",
   "content": "a2_09_imperative_requests.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_10_Vocabulario_y_expresiones",
+  "file": "A2_10_Vocabulario_y_expresiones.pdf",
+  "level": "A2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, el teléfono y el correo, y vivir en los Países Bajos",
+  "content": "a2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

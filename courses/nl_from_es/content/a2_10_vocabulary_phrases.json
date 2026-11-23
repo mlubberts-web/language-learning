@@ -1,0 +1,533 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, el teléfono y el correo, y vivir en los Países Bajos",
+  "footer": "Language Learning · A2 · Vocabulario y expresiones",
+  "next": "Siguiente: B1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Escribe frases con cada bloque en perfecto y en pasado simple (pdf 1 a 3).",
+    "Estas palabras aparecen mucho en el examen de integración (inburgeringsexamen) de nivel A2."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Los viajes"
+  },
+  {
+   "type": "verbpairs",
+   "title": "De viaje",
+   "items": [
+    [
+     "het kaartje",
+     "billete, entrada"
+    ],
+    [
+     "het retourtje",
+     "billete de ida y vuelta"
+    ],
+    [
+     "het perron",
+     "andén"
+    ],
+    [
+     "de vertraging",
+     "retraso"
+    ],
+    [
+     "de koffer",
+     "maleta"
+    ],
+    [
+     "het paspoort",
+     "pasaporte"
+    ],
+    [
+     "de ov-chipkaart",
+     "tarjeta de transporte público"
+    ],
+    [
+     "inchecken",
+     "fichar al entrar, facturar"
+    ],
+    [
+     "overstappen",
+     "hacer transbordo"
+    ],
+    [
+     "de trein missen",
+     "perder el tren"
+    ],
+    [
+     "de vakantie",
+     "vacaciones"
+    ],
+    [
+     "reserveren",
+     "reservar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Viajar en los Países Bajos",
+   "text": "En trenes, tranvías y autobuses tienes que <b>inchecken</b> y <b>uitchecken</b> (fichar al subir y al bajar) con tu tarjeta bancaria o una <b>ov-chipkaart</b>. <i>OV</i> significa <i>openbaar vervoer</i>, transporte público. <b>Overstappen</b> es hacer transbordo: <i>U moet in Utrecht overstappen.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. La salud"
+  },
+  {
+   "type": "verbpairs",
+   "title": "En el médico",
+   "items": [
+    [
+     "de huisarts",
+     "médico de cabecera"
+    ],
+    [
+     "de afspraak",
+     "cita"
+    ],
+    [
+     "de hoofdpijn",
+     "dolor de cabeza"
+    ],
+    [
+     "de buikpijn",
+     "dolor de barriga"
+    ],
+    [
+     "de keelpijn",
+     "dolor de garganta"
+    ],
+    [
+     "de griep",
+     "gripe"
+    ],
+    [
+     "de koorts",
+     "fiebre"
+    ],
+    [
+     "het medicijn",
+     "medicamento"
+    ],
+    [
+     "de apotheek",
+     "farmacia"
+    ],
+    [
+     "het recept",
+     "receta (médica o de cocina)"
+    ],
+    [
+     "ziek",
+     "enfermo"
+    ],
+    [
+     "beter worden",
+     "mejorarse"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.6,
+    6.0,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "Ik ben verkouden.",
+     "Estoy resfriado.",
+     "verkouden zijn: con zijn"
+    ],
+    [
+     "Ik heb hoofdpijn.",
+     "Me duele la cabeza.",
+     "sin artículo"
+    ],
+    [
+     "Mijn rug doet pijn.",
+     "Me duele la espalda.",
+     "pijn doen"
+    ],
+    [
+     "Ik voel me niet lekker.",
+     "No me encuentro bien.",
+     "zich voelen"
+    ],
+    [
+     "Ik wil graag een afspraak maken.",
+     "Quisiera pedir cita.",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El tiempo"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El tiempo",
+   "items": [
+    [
+     "zonnig",
+     "soleado"
+    ],
+    [
+     "bewolkt",
+     "nublado"
+    ],
+    [
+     "het regent",
+     "llueve"
+    ],
+    [
+     "het waait",
+     "hace viento"
+    ],
+    [
+     "het vriest",
+     "hiela"
+    ],
+    [
+     "het sneeuwt",
+     "nieva"
+    ],
+    [
+     "de bui",
+     "chaparrón"
+    ],
+    [
+     "het onweer",
+     "tormenta"
+    ],
+    [
+     "de graden",
+     "grados"
+    ],
+    [
+     "het weerbericht",
+     "pronóstico del tiempo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Het waait = hace viento",
+   "text": "En neerlandés el tiempo se dice casi siempre con un verbo: <b>het regent, het waait, het vriest, het sneeuwt</b>, siempre con <b>het</b> como sujeto (en español, solo <i>llueve</i>). Pregunta <b>Wat voor weer is het?</b> (¿Qué tiempo hace?) y oirás <i>Het is lekker weer</i> (hace buen tiempo) o <i>Het is hondenweer</i> (hace un tiempo de perros)."
+  },
+  {
+   "type": "h1",
+   "text": "4. El trabajo y el tiempo libre"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El trabajo",
+   "items": [
+    [
+     "de baan",
+     "trabajo, empleo"
+    ],
+    [
+     "de collega",
+     "compañero de trabajo"
+    ],
+    [
+     "de baas",
+     "jefe"
+    ],
+    [
+     "het salaris",
+     "sueldo"
+    ],
+    [
+     "de vergadering",
+     "reunión"
+    ],
+    [
+     "het kantoor",
+     "oficina"
+    ],
+    [
+     "fulltime",
+     "a jornada completa"
+    ],
+    [
+     "parttime",
+     "a media jornada"
+    ],
+    [
+     "solliciteren",
+     "solicitar un trabajo"
+    ],
+    [
+     "verdienen",
+     "ganar (dinero)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Tiempo libre",
+   "items": [
+    [
+     "de hobby",
+     "afición"
+    ],
+    [
+     "winkelen",
+     "ir de compras"
+    ],
+    [
+     "fietsen",
+     "ir en bici"
+    ],
+    [
+     "wandelen",
+     "pasear, dar un paseo"
+    ],
+    [
+     "voetballen",
+     "jugar al fútbol"
+    ],
+    [
+     "sporten",
+     "hacer deporte"
+    ],
+    [
+     "een film kijken",
+     "ver una película"
+    ],
+    [
+     "afspreken met vrienden",
+     "quedar con amigos"
+    ],
+    [
+     "thuisblijven",
+     "quedarse en casa"
+    ],
+    [
+     "uitgaan",
+     "salir"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. El teléfono, el correo y vivir en los Países Bajos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Al teléfono y por correo",
+   "items": [
+    [
+     "Met Anna.",
+     "Soy Anna. (al teléfono)"
+    ],
+    [
+     "Kan ik Tom spreken?",
+     "¿Puedo hablar con Tom?"
+    ],
+    [
+     "Een ogenblik, alstublieft.",
+     "Un momento, por favor."
+    ],
+    [
+     "Ik bel je terug.",
+     "Te devuelvo la llamada."
+    ],
+    [
+     "Beste meneer De Vries,",
+     "Estimado Sr. De Vries:"
+    ],
+    [
+     "Met vriendelijke groet,",
+     "Saludos cordiales,"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Met Anna = Soy Anna",
+   "text": "Los neerlandeses contestan al teléfono con <b>Met</b> + su nombre: <i>Met Anna</i> o <i>Met Anna de Vries</i>. Nunca <i>Ik ben Anna</i> ni un simple <i>¿Diga?</i>. En los correos, <b>Beste</b> sirve para cartas formales e informales; <b>Geachte</b> es muy formal."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vivir en los Países Bajos",
+   "items": [
+    [
+     "de gemeente",
+     "ayuntamiento"
+    ],
+    [
+     "zich inschrijven",
+     "empadronarse, inscribirse"
+    ],
+    [
+     "de huur",
+     "alquiler"
+    ],
+    [
+     "de verzekering",
+     "seguro"
+    ],
+    [
+     "de zorgverzekering",
+     "seguro médico"
+    ],
+    [
+     "de belasting",
+     "impuesto"
+    ],
+    [
+     "de buren",
+     "vecinos"
+    ],
+    [
+     "het afval",
+     "basura, residuos"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "U moet in Utrecht ______.",
+     "hint": "hacer transbordo",
+     "a": "overstappen",
+     "full": "U moet in Utrecht overstappen."
+    },
+    {
+     "q": "De trein heeft twintig minuten ______.",
+     "hint": "retraso",
+     "a": "vertraging",
+     "full": "De trein heeft twintig minuten vertraging."
+    },
+    {
+     "q": "Ik ben ______. Ik nies de hele dag.",
+     "hint": "resfriado",
+     "a": "verkouden",
+     "full": "Ik ben verkouden. Ik nies de hele dag."
+    },
+    {
+     "q": "Mijn rug doet ______.",
+     "hint": "duele",
+     "a": "pijn",
+     "full": "Mijn rug doet pijn."
+    },
+    {
+     "q": "Ik wil graag een ______ maken met de huisarts.",
+     "hint": "cita",
+     "a": "afspraak",
+     "full": "Ik wil graag een afspraak maken met de huisarts."
+    },
+    {
+     "q": "Wat voor ______ is het vandaag?",
+     "hint": "tiempo",
+     "a": "weer",
+     "full": "Wat voor weer is het vandaag?"
+    },
+    {
+     "q": "Het ______ hard. Neem een jas mee.",
+     "hint": "hace viento",
+     "a": "waait",
+     "full": "Het waait hard. Neem een jas mee."
+    },
+    {
+     "q": "Hij werkt ______: drie dagen per week.",
+     "hint": "a media jornada",
+     "a": "parttime",
+     "full": "Hij werkt parttime: drie dagen per week."
+    },
+    {
+     "q": "______ Anna, met wie spreek ik?",
+     "hint": "al teléfono",
+     "a": "met",
+     "full": "Met Anna, met wie spreek ik?"
+    },
+    {
+     "q": "Ik bel je straks ______.",
+     "hint": "de vuelta",
+     "a": "terug",
+     "full": "Ik bel je straks terug."
+    },
+    {
+     "q": "Je moet je inschrijven bij de ______.",
+     "hint": "ayuntamiento",
+     "a": "gemeente",
+     "full": "Je moet je inschrijven bij de gemeente."
+    },
+    {
+     "q": "Met vriendelijke ______,",
+     "hint": "saludos cordiales",
+     "a": "groet",
+     "full": "Met vriendelijke groet,"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy resfriado.",
+     "a": "Ik ben verkouden."
+    },
+    {
+     "q": "Soy Anna. (al teléfono)",
+     "a": "Met Anna."
+    },
+    {
+     "q": "Llueve.",
+     "a": "Het regent."
+    },
+    {
+     "q": "Me duele la espalda.",
+     "a": "Mijn rug doet pijn."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
