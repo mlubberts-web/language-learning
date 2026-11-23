@@ -328,5 +328,16 @@
   "subtitle": "The past perfect (had gedaan, was gegaan), and all past tenses together in one story",
   "content": "b2_01_tenses_story.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_02_er_2",
+  "file": "B2_02_er_2.pdf",
+  "level": "B2",
+  "number": 2,
+  "section": "Grammar",
+  "title": "er (2)",
+  "subtitle": "The uses of er together, er in questions, er with the passive, and where er goes in a long sentence",
+  "content": "b2_02_er_2.json",
+  "exercise_count": 12
  }
 ]
