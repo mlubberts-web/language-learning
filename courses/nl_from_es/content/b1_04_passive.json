@@ -1,0 +1,371 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "La voz pasiva",
+  "subtitle": "worden y zijn + participio, door, y la pasiva impersonal (Er wordt gedanst)",
+  "footer": "Language Learning · B1 · Gramática · La voz pasiva",
+  "next": "Siguiente: B1 · pdf 5 — El condicional"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar la pasiva con <b>worden</b> + participio",
+    "elegir entre <b>wordt gebouwd</b> e <b>is gebouwd</b>",
+    "decir quién lo hace con <b>door</b>",
+    "usar la pasiva impersonal: <i>Er wordt gedanst</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. worden + participio"
+  },
+  {
+   "type": "p",
+   "text": "La pasiva neerlandesa se forma con <b>worden</b> + participio al final: <i>Het huis <b>wordt</b> verkocht.</i> (Se vende la casa, la casa está en venta.) El pasado es <b>werd / werden</b>: <i>Het huis <b>werd</b> in 1900 <b>gebouwd</b>.</i> (La casa se construyó en 1900.)"
+  },
+  {
+   "type": "conj",
+   "verb": "worden",
+   "meaning": "ser (pasiva), hacerse, volverse",
+   "label": "verbo irregular",
+   "tense": "presente",
+   "forms": [
+    "word",
+    "wordt",
+    "wordt",
+    "worden",
+    "worden",
+    "worden"
+   ],
+   "examples": [
+    [
+     "Ik word morgen opgehaald.",
+     "Mañana me recogen."
+    ],
+    [
+     "Word je vaak gebeld?",
+     "¿Te llaman a menudo?"
+    ],
+    [
+     "Het huis wordt verkocht.",
+     "Se vende la casa."
+    ],
+    [
+     "We worden goed betaald.",
+     "Nos pagan bien."
+    ],
+    [
+     "Jullie worden verwacht.",
+     "Os esperan."
+    ],
+    [
+     "De ramen worden gewassen.",
+     "Están limpiando las ventanas."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿worden o zijn?"
+  },
+  {
+   "type": "p",
+   "text": "En el <b>perfecto</b>, la pasiva usa <b>zijn</b> + participio (sin <i>geworden</i>): <i>Het huis <b>is</b> verkocht.</i> Es el resultado: la casa está vendida. Piensa en <i>ser</i> y <i>estar</i>: <b>worden</b> es la acción (<i>se vende, es vendida</i>), <b>zijn</b> es el resultado (<i>está vendida</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Tiempo",
+    "Neerlandés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "presente",
+     "Het huis wordt verkocht.",
+     "Se vende la casa."
+    ],
+    [
+     "pasado simple",
+     "Het huis werd verkocht.",
+     "La casa se vendió."
+    ],
+    [
+     "perfecto",
+     "Het huis is verkocht.",
+     "La casa está vendida, se ha vendido."
+    ],
+    [
+     "pluscuamperfecto",
+     "Het huis was verkocht.",
+     "La casa se había vendido."
+    ],
+    [
+     "con un verbo modal",
+     "Het huis moet verkocht worden.",
+     "Hay que vender la casa."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "is verkocht = está vendido",
+   "text": "<b>is verkocht</b> significa que ya está vendido (resultado). Para algo general o en curso se usa <b>wordt verkocht</b>: <i>Dit product wordt overal verkocht</i> (este producto se vende en todas partes). Nunca <i>is geworden verkocht</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. door: ¿por quién?"
+  },
+  {
+   "type": "p",
+   "text": "Para decir quién lo hace se usa <b>door</b> (por): <i>Het boek is geschreven <b>door</b> Annie M.G. Schmidt.</i> A menudo no importa quién lo hace y se omite: <i>Mijn fiets is gestolen</i> (me han robado la bici)."
+  },
+  {
+   "type": "h1",
+   "text": "4. La pasiva impersonal: er wordt ..."
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés puede formar una pasiva sin sujeto para describir una actividad, como el <i>se</i> impersonal del español: <i><b>Er wordt</b> gedanst</i> (se baila, la gente está bailando). <i>Hier <b>wordt</b> niet gerookt</i> (aquí no se fuma). Empieza con <b>er</b> si no hay otra palabra delante."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.2,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "Er wordt gebeld.",
+     "Llaman a la puerta.",
+     "suena el timbre"
+    ],
+    [
+     "Er wordt veel gepraat over de verkiezingen.",
+     "Se habla mucho de las elecciones.",
+     ""
+    ],
+    [
+     "Er wordt gezegd dat hij rijk is.",
+     "Se dice que es rico.",
+     "formal"
+    ],
+    [
+     "Hier wordt Engels gesproken.",
+     "Aquí se habla inglés.",
+     "sin er si va otra palabra delante"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones pasivas frecuentes",
+   "items": [
+    [
+     "Het is verboden.",
+     "Está prohibido."
+    ],
+    [
+     "Je wordt verwacht.",
+     "Te esperan."
+    ],
+    [
+     "Er wordt gebeld.",
+     "Llaman a la puerta."
+    ],
+    [
+     "Hij is geboren in Leeds.",
+     "Nació en Leeds."
+    ],
+    [
+     "Het is gebouwd in 1900.",
+     "Se construyó en 1900."
+    ],
+    [
+     "Ik ben gestoken door een wesp.",
+     "Me ha picado una avispa."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Het huis is geworden verkocht.",
+     "Het huis is verkocht.",
+     "Pasiva en perfecto: zijn + participio, sin geworden."
+    ],
+    [
+     "Het boek is geschreven van Tolkien.",
+     "Het boek is geschreven door Tolkien.",
+     "Por: door."
+    ],
+    [
+     "Dit product is elke dag in de winkel verkocht.",
+     "Dit product wordt elke dag in de winkel verkocht.",
+     "Repetido o en curso: worden."
+    ],
+    [
+     "Ik werd geboren worden in 1990.",
+     "Ik ben in 1990 geboren.",
+     "geboren: zijn + participio."
+    ],
+    [
+     "Het moet worden gedaan morgen.",
+     "Het moet morgen gedaan worden.",
+     "Los verbos van al final."
+    ],
+    [
+     "Wordt gedanst.",
+     "Er wordt gedanst.",
+     "La pasiva impersonal empieza con er."
+    ],
+    [
+     "De ramen wordt gewassen.",
+     "De ramen worden gewassen.",
+     "Plural: worden."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Dit huis ______ volgende week verkocht.",
+     "hint": "worden",
+     "a": "wordt",
+     "full": "Dit huis wordt volgende week verkocht."
+    },
+    {
+     "q": "De brug ______ in 1890 gebouwd.",
+     "hint": "worden, pasado",
+     "a": "werd",
+     "full": "De brug werd in 1890 gebouwd."
+    },
+    {
+     "q": "Mijn fiets is ______.",
+     "hint": "stelen, participio",
+     "a": "gestolen",
+     "full": "Mijn fiets is gestolen."
+    },
+    {
+     "q": "Het boek is geschreven ______ een bekende schrijver.",
+     "hint": "por",
+     "a": "door",
+     "full": "Het boek is geschreven door een bekende schrijver."
+    },
+    {
+     "q": "______ wordt gebeld. Doe jij open?",
+     "hint": "impersonal",
+     "a": "er",
+     "full": "Er wordt gebeld. Doe jij open?"
+    },
+    {
+     "q": "Het formulier moet vandaag ingevuld ______.",
+     "hint": "pasiva con un modal",
+     "a": "worden",
+     "full": "Het formulier moet vandaag ingevuld worden."
+    },
+    {
+     "q": "Hier ______ niet gerookt.",
+     "hint": "worden",
+     "a": "wordt",
+     "full": "Hier wordt niet gerookt."
+    },
+    {
+     "q": "Ik ben in Manchester ______.",
+     "hint": "nacido",
+     "a": "geboren",
+     "full": "Ik ben in Manchester geboren."
+    },
+    {
+     "q": "De ramen ______ elke maand gewassen.",
+     "hint": "worden, plural",
+     "a": "worden",
+     "full": "De ramen worden elke maand gewassen."
+    },
+    {
+     "q": "De wedstrijd is ______ vanwege de regen.",
+     "hint": "afgelasten, participio",
+     "a": "afgelast",
+     "full": "De wedstrijd is afgelast vanwege de regen."
+    },
+    {
+     "q": "Er wordt ______ dat de prijzen stijgen.",
+     "hint": "zeggen, participio",
+     "a": "gezegd",
+     "full": "Er wordt gezegd dat de prijzen stijgen."
+    },
+    {
+     "q": "In België ______ Nederlands, Frans en Duits gesproken.",
+     "hint": "worden",
+     "a": "wordt",
+     "full": "In België wordt Nederlands, Frans en Duits gesproken."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Me han robado la bici.",
+     "a": "Mijn fiets is gestolen."
+    },
+    {
+     "q": "Se vende la casa.",
+     "a": "Het huis wordt verkocht."
+    },
+    {
+     "q": "El puente se construyó en 1890.",
+     "a": "De brug werd in 1890 gebouwd."
+    },
+    {
+     "q": "Llaman a la puerta.",
+     "a": "Er wordt gebeld."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
