@@ -1,0 +1,315 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "El orden de las palabras avanzado",
+  "subtitle": "La anteposición (fronting), la elipsis y la sustitución con so, not y do so",
+  "footer": "Language Learning · C2 · Gramática · Orden de las palabras",
+  "next": "Siguiente: C2 · pdf 3 — Las oraciones complejas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "poner un elemento de la frase al principio para dar énfasis o contraste",
+    "omitir palabras que ya se conocen",
+    "evitar la repetición con <b>so, not, do so, one</b>",
+    "usar con sutileza el lugar de los adverbios"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La anteposición (fronting)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Qué va delante",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "Complemento",
+     "That I can't accept.",
+     "contraste, énfasis"
+    ],
+    [
+     "Adjetivo + as / though",
+     "Tired as she was, she kept working.",
+     "= Although she was tired"
+    ],
+    [
+     "Lugar + inversión",
+     "In the corner stood an old piano.",
+     "literario, descriptivo"
+    ],
+    [
+     "So + adjetivo + inversión",
+     "So great was the noise that nobody slept.",
+     "muy enfático"
+    ],
+    [
+     "Such + be + inversión",
+     "Such was his anger that he left the room.",
+     "muy enfático"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "La inversión después de un lugar",
+   "text": "Con un complemento de lugar al principio, el inglés puede poner el verbo delante del sujeto, como el español: <i>En el rincón había un piano</i> = <b>In the corner stood a piano</b>. Pero solo con verbos como be, stand, lie, come y go, y el sujeto no puede ser un pronombre: <i>Here comes the bus</i>, pero <i>Here it comes</i>. Fuera de estos casos, el sujeto va siempre delante."
+  },
+  {
+   "type": "h1",
+   "text": "2. La elipsis"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Lo que se omite"
+   ],
+   "rows": [
+    [
+     "I'd like to help, but I can't.",
+     "help"
+    ],
+    [
+     "She said she would call, and she did.",
+     "call"
+    ],
+    [
+     "Have you finished? — Yes, I have.",
+     "finished"
+    ],
+    [
+     "I didn't want to go, but I had to.",
+     "go"
+    ],
+    [
+     "Tom likes jazz and Anna classical music.",
+     "likes"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "to se queda",
+   "text": "En la elipsis después de <b>want, would like, have, try, need</b> se mantiene <b>to</b>: <i>You can come if you want <b>to</b>.</i> El español lo omite: <i>si quieres</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. La sustitución"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "so",
+     "Is it going to rain? — I think so.",
+     "Creo que sí."
+    ],
+    [
+     "not",
+     "Is he coming? — I hope not.",
+     "Espero que no."
+    ],
+    [
+     "do so",
+     "He was asked to leave, and he did so.",
+     "y lo hizo"
+    ],
+    [
+     "one / ones",
+     "I don't like the red shirt; I prefer the blue one.",
+     "la azul"
+    ],
+    [
+     "the former / the latter",
+     "Tom and Ben are brothers; the former is a doctor.",
+     "el primero / el segundo, este / aquel"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Creo que sí = I think so",
+   "text": "<i>Creo que sí</i> = <b>I think so</b>, <i>creo que no</i> = <b>I don't think so</b> (o, formal, <i>I think not</i>), <i>espero que sí</i> = <b>I hope so</b>, <i>espero que no</i> = <b>I hope not</b>. Nunca <i>I think yes</i> ni <i>I think that yes</i>. Y el español omite el sustantivo (<i>prefiero la azul</i>), pero el inglés necesita <b>one</b>: <b>I prefer the blue one</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Will she come? — I think yes.",
+     "Will she come? — I think so.",
+     "Creo que sí = I think so."
+    ],
+    [
+     "Is it serious? — I hope no.",
+     "Is it serious? — I hope not.",
+     "Espero que no = I hope not."
+    ],
+    [
+     "You can come if you want.",
+     "You can come if you want to.",
+     "to se mantiene a menudo.",
+     "advice"
+    ],
+    [
+     "Here comes it.",
+     "Here it comes.",
+     "Con un pronombre no hay inversión."
+    ],
+    [
+     "Although tired as she was, she worked.",
+     "Tired as she was, she worked.",
+     "although y as no van juntos."
+    ],
+    [
+     "I prefer the blue.",
+     "I prefer the blue one.",
+     "one después de un adjetivo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Is the shop open on Sunday? — I think ______.",
+     "hint": "creo que sí",
+     "a": "so",
+     "full": "Is the shop open on Sunday? — I think so."
+    },
+    {
+     "q": "Will it rain tomorrow? — I hope ______.",
+     "hint": "espero que no",
+     "a": "not",
+     "full": "Will it rain tomorrow? — I hope not."
+    },
+    {
+     "q": "______ as he was, he still finished the race.",
+     "hint": "tired, delante",
+     "a": "Tired",
+     "full": "Tired as he was, he still finished the race."
+    },
+    {
+     "q": "So loud ______ the music that we couldn't talk.",
+     "hint": "be, inversión",
+     "a": "was",
+     "full": "So loud was the music that we couldn't talk."
+    },
+    {
+     "q": "In the middle of the room ______ a large table.",
+     "hint": "stand, inversión",
+     "a": "stood",
+     "full": "In the middle of the room stood a large table."
+    },
+    {
+     "q": "I wanted to call her, but I didn't have time ______.",
+     "hint": "elipsis",
+     "a": "to",
+     "full": "I wanted to call her, but I didn't have time to."
+    },
+    {
+     "q": "These shoes are too small. Have you got bigger ______?",
+     "hint": "sustitución, plural",
+     "a": "ones",
+     "full": "These shoes are too small. Have you got bigger ones?"
+    },
+    {
+     "q": "He promised to apologise, and he did ______.",
+     "hint": "sustitución",
+     "a": "so",
+     "full": "He promised to apologise, and he did so."
+    },
+    {
+     "q": "Such ______ the demand that tickets sold out in an hour.",
+     "hint": "be",
+     "a": "was",
+     "full": "Such was the demand that tickets sold out in an hour."
+    },
+    {
+     "q": "Have you seen the film? — Yes, I ______.",
+     "hint": "respuesta corta",
+     "a": "have",
+     "full": "Have you seen the film? — Yes, I have."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Creo que no.",
+     "a": "I don't think so."
+    },
+    {
+     "q": "Espero que no.",
+     "a": "I hope not."
+    },
+    {
+     "q": "En el rincón había un piano viejo.",
+     "a": "In the corner stood an old piano."
+    },
+    {
+     "q": "Puedes venir si quieres.",
+     "a": "You can come if you want to."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

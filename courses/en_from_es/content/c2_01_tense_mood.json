@@ -1,0 +1,306 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Matices finos de tiempo y modo",
+  "subtitle": "El subjuntivo (were, be), should para la sorpresa, el presente histórico y el pasado para la distancia",
+  "footer": "Language Learning · C2 · Verbos · Tiempo y modo",
+  "next": "Siguiente: C2 · pdf 2 — El orden de las palabras avanzado"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar el <b>subjuntivo</b> inglés (<i>I insist that he be present</i>)",
+    "usar <b>should</b> después de palabras de sorpresa e importancia",
+    "usar el presente histórico y el futuro en el pasado en las narraciones",
+    "conocer las expresiones fijas formales con subjuntivo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El subjuntivo"
+  },
+  {
+   "type": "p",
+   "text": "Después de verbos y expresiones de exigencia, recomendación y propuesta, el inglés formal usa el <b>verbo sin nada</b> para todas las personas, también con he, she e it, e incluso con be. Es un subjuntivo, pero mucho más sencillo que el español: una sola forma, sin tiempos."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.6,
+    5.4
+   ],
+   "head": [
+    "Después de",
+    "Ejemplo",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "insist / demand",
+     "They insisted that he leave immediately.",
+     "sin -s y sin pasado, aunque el español diga 'que se fuera'"
+    ],
+    [
+     "recommend / suggest",
+     "I recommend that she see a specialist.",
+     ""
+    ],
+    [
+     "it is essential / vital that",
+     "It is essential that everyone be on time.",
+     "be, no is"
+    ],
+    [
+     "negación",
+     "We suggest that he not travel alone.",
+     "not delante del verbo, sin do"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "En británico: a menudo should",
+   "text": "En inglés británico, en lugar del subjuntivo también se oye mucho <b>should</b>: <i>I suggest that he <b>should</b> leave.</i> O simplemente la forma normal: <i>I suggest that he leaves.</i> Las tres son correctas; el subjuntivo es la más formal. Lo que nunca vale es copiar el tiempo del español: <i>insistieron en que se fuera</i> = <b>they insisted that he leave</b>, nunca <i>that he left</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Expresiones fijas",
+    "Español"
+   ],
+   "rows": [
+    [
+     "God save the King.",
+     "Dios salve al rey."
+    ],
+    [
+     "Be that as it may, ...",
+     "Sea como sea, ..."
+    ],
+    [
+     "If need be, ...",
+     "Si hace falta, ..."
+    ],
+    [
+     "Come what may, ...",
+     "Pase lo que pase, ..."
+    ],
+    [
+     "So be it.",
+     "Así sea."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. should después de la sorpresa y la importancia"
+  },
+  {
+   "type": "p",
+   "text": "Después de expresiones como <b>it's strange / odd / surprising / a pity that</b> el inglés usa a menudo <b>should</b> para mostrar sorpresa o emoción, donde el español usa el subjuntivo: <i>It's strange that she <b>should</b> say that.</i> (Qué raro que diga eso.) <i>It's a pity that you <b>should</b> have to leave so soon.</i> (Es una pena que tengas que irte tan pronto.)"
+  },
+  {
+   "type": "h1",
+   "text": "3. Los tiempos en las narraciones y las noticias"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "Presente histórico",
+     "So I'm walking home, and this man comes up to me ...",
+     "contar con viveza"
+    ],
+    [
+     "Presente en los titulares",
+     "Minister resigns over scandal.",
+     "breve, actual"
+    ],
+    [
+     "Futuro en el pasado",
+     "He was to become the greatest painter of his age.",
+     "anticipo en una biografía"
+    ],
+    [
+     "would en una biografía",
+     "She would later describe it as her happiest year.",
+     "lo que pasaría después"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. El pasado para tomar distancia"
+  },
+  {
+   "type": "p",
+   "text": "Después de <b>it's time, I'd rather, as if, suppose, what if</b>, el pasado se refiere al presente o al futuro, como el imperfecto de subjuntivo español: <i>Suppose we <b>took</b> the train instead?</i> (¿Y si cogiéramos el tren?) <i>What if they <b>found</b> out?</i> (¿Y si se enteraran?)"
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I insist that he leaves at once.",
+     "I insist that he leave at once.",
+     "Formal: subjuntivo sin -s.",
+     "advice"
+    ],
+    [
+     "It is vital that everyone is there.",
+     "It is vital that everyone be there.",
+     "Formal: be.",
+     "advice"
+    ],
+    [
+     "We suggest that he doesn't travel alone.",
+     "We suggest that he not travel alone.",
+     "Subjuntivo: not sin do."
+    ],
+    [
+     "Be it as it may, we will continue.",
+     "Be that as it may, we will continue.",
+     "Expresión fija: Be that as it may."
+    ],
+    [
+     "Suppose we take the train instead? (muy hipotético)",
+     "Suppose we took the train instead?",
+     "El pasado lo hace más prudente.",
+     "advice"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The doctor recommended that she ______ more rest.",
+     "hint": "take, subjuntivo",
+     "a": "take",
+     "full": "The doctor recommended that she take more rest."
+    },
+    {
+     "q": "It is essential that the contract ______ signed today.",
+     "hint": "be, subjuntivo",
+     "a": "be",
+     "full": "It is essential that the contract be signed today."
+    },
+    {
+     "q": "They demanded that he ______ the money back.",
+     "hint": "pay, subjuntivo",
+     "a": "pay",
+     "full": "They demanded that he pay the money back."
+    },
+    {
+     "q": "We suggest that he ______ drive at night.",
+     "hint": "negación, subjuntivo",
+     "a": "not",
+     "full": "We suggest that he not drive at night."
+    },
+    {
+     "q": "______ that as it may, we must continue.",
+     "hint": "expresión fija",
+     "a": "Be",
+     "full": "Be that as it may, we must continue."
+    },
+    {
+     "q": "Come what ______, I will finish this book.",
+     "hint": "expresión fija",
+     "a": "may",
+     "full": "Come what may, I will finish this book."
+    },
+    {
+     "q": "It's odd that he ______ say such a thing.",
+     "hint": "sorpresa",
+     "a": "should",
+     "full": "It's odd that he should say such a thing."
+    },
+    {
+     "q": "She was ______ become one of the greatest writers of her time.",
+     "hint": "futuro en el pasado",
+     "a": "to",
+     "full": "She was to become one of the greatest writers of her time."
+    },
+    {
+     "q": "What if they ______ out the truth?",
+     "hint": "find, distancia",
+     "a": "found",
+     "full": "What if they found out the truth?"
+    },
+    {
+     "q": "If need ______, we can work at the weekend.",
+     "hint": "expresión fija",
+     "a": "be",
+     "full": "If need be, we can work at the weekend."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Sea como sea, seguimos.",
+     "a": "Be that as it may, we will continue."
+    },
+    {
+     "q": "Es esencial que todo el mundo llegue puntual. (formal)",
+     "a": "It is essential that everyone be on time."
+    },
+    {
+     "q": "Si hace falta, podemos trabajar mañana.",
+     "a": "If need be, we can work tomorrow."
+    },
+    {
+     "q": "Pase lo que pase, me quedo.",
+     "a": "Come what may, I will stay."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

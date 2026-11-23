@@ -537,5 +537,27 @@
   "subtitle": "Palabras abstractas y académicas, falsos amigos de nivel C1 y la paráfrasis",
   "content": "c1_10_vocabulary.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_01_Matices_finos_de_tiempo_y_modo",
+  "file": "C2_01_Matices_finos_de_tiempo_y_modo.pdf",
+  "level": "C2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Matices finos de tiempo y modo",
+  "subtitle": "El subjuntivo (were, be), should para la sorpresa, el presente histórico y el pasado para la distancia",
+  "content": "c2_01_tense_mood.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_02_El_orden_de_las_palabras_avanzado",
+  "file": "C2_02_El_orden_de_las_palabras_avanzado.pdf",
+  "level": "C2",
+  "number": 2,
+  "section": "Gramática",
+  "title": "El orden de las palabras avanzado",
+  "subtitle": "La anteposición (fronting), la elipsis y la sustitución con so, not y do so",
+  "content": "c2_02_word_order.json",
+  "exercise_count": 10
  }
 ]
