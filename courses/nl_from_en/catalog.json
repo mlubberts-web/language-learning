@@ -361,5 +361,16 @@
   "subtitle": "wachten op, denken aan, zich ergeren aan; adjectives like trots op; and erop dat, eraan om te",
   "content": "b2_04_fixed_prepositions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_05_Word_formation",
+  "file": "B2_05_Word_formation.pdf",
+  "level": "B2",
+  "number": 5,
+  "section": "Vocabulary",
+  "title": "Word formation",
+  "subtitle": "-heid, -ing, -te, -baar, -loos, on-, compound nouns written as one word, and the linking -s- and -en-",
+  "content": "b2_05_word_formation.json",
+  "exercise_count": 12
  }
 ]
