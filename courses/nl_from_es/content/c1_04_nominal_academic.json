@@ -1,0 +1,378 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "El estilo nominal y el neerlandés académico",
+  "subtitle": "La nominalización, las locuciones preposicionales formales, er is sprake van, el vocabulario formal y las tareas del CNaVT PAT",
+  "footer": "Language Learning · C1 · Escritura · Estilo nominal y neerlandés académico",
+  "next": "Siguiente: C1 · pdf 5 — Participios y oraciones abreviadas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "convertir verbos en sustantivos: <i>verbeteren → de verbetering, het verbeteren</i>",
+    "usar locuciones preposicionales formales (<i>met betrekking tot, in het kader van</i>)",
+    "escribir de forma impersonal con la pasiva y con <i>er is sprake van</i>",
+    "saber cuándo el estilo nominal resulta excesivo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Del verbo al sustantivo"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés formal, como el español formal, convierte las acciones en sustantivos. Hay dos maneras: un sustantivo en <b>-ing</b> (u otra terminación, a menudo como el español <i>-ción</i>) y el infinitivo usado como sustantivo con <b>het</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.4,
+    9.6
+   ],
+   "head": [
+    "Con verbos (hablado)",
+    "Con sustantivos (formal)"
+   ],
+   "rows": [
+    [
+     "De prijzen stegen, dus mensen kochten minder.",
+     "De stijging van de prijzen leidde tot een daling van de consumptie."
+    ],
+    [
+     "We hebben de gegevens geanalyseerd.",
+     "De analyse van de gegevens toonde aan dat ..."
+    ],
+    [
+     "Toen de fabriek sloot, verloren veel mensen hun baan.",
+     "De sluiting van de fabriek leidde tot veel banenverlies."
+    ],
+    [
+     "Als we meer investeren, groeit de economie.",
+     "Meer investeringen leiden tot economische groei."
+    ],
+    [
+     "Het is belangrijk dat je de regels naleeft.",
+     "Het naleven van de regels is van belang."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "het + infinitivo",
+   "text": "Cualquier verbo puede convertirse en sustantivo het: <b>het lezen, het naleven van de regels, het verbeteren van de kwaliteit</b>. El español también lo hace (<i>el leer</i>), pero prefiere un sustantivo: <i>la lectura, el cumplimiento de las normas, la mejora de la calidad</i>. El complemento va con <b>van</b>: <i>het schrijven <b>van</b> een verslag</i> (la redacción de un informe)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Locuciones preposicionales formales"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Locuciones formales",
+   "items": [
+    [
+     "met betrekking tot",
+     "con respecto a"
+    ],
+    [
+     "in het kader van",
+     "en el marco de"
+    ],
+    [
+     "ten aanzien van",
+     "en lo que respecta a"
+    ],
+    [
+     "naar aanleiding van",
+     "en relación con, a raíz de"
+    ],
+    [
+     "ten behoeve van",
+     "en beneficio de, a favor de"
+    ],
+    [
+     "op grond van",
+     "sobre la base de, a partir de"
+    ],
+    [
+     "ter gelegenheid van",
+     "con motivo de"
+    ],
+    [
+     "na afloop van",
+     "tras (la finalización de)"
+    ],
+    [
+     "in tegenstelling tot",
+     "a diferencia de"
+    ],
+    [
+     "ten gevolge van",
+     "como consecuencia de"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Escribir de forma impersonal"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.8,
+    4.8
+   ],
+   "head": [
+    "Personal",
+    "Impersonal",
+    "Estructura"
+   ],
+   "rows": [
+    [
+     "Ik denk dat ...",
+     "Men kan stellen dat ...",
+     "men"
+    ],
+    [
+     "We hebben onderzocht ...",
+     "Er is onderzoek gedaan naar ...",
+     "pasiva con er"
+    ],
+    [
+     "Je ziet dat ...",
+     "Hieruit blijkt dat ...",
+     "blijken"
+    ],
+    [
+     "Er is een probleem met ...",
+     "Er is sprake van een probleem met ...",
+     "er is sprake van"
+    ],
+    [
+     "We moeten onthouden dat ...",
+     "Er dient rekening te worden gehouden met ...",
+     "dienen te (deber formal)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "dienen te = deber, formal",
+   "text": "En el neerlandés oficial y académico, <b>dienen te</b> sustituye a <i>moeten</i>: <i>Het formulier <b>dient</b> vóór 1 mei <b>te</b> worden ingeleverd.</i> (El formulario debe entregarse antes del 1 de mayo.) Al hablar suena rígido."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Vocabulario formal (entre paréntesis, la palabra informal)",
+   "items": [
+    [
+     "verkrijgen (krijgen)",
+     "obtener"
+    ],
+    [
+     "aantonen (laten zien)",
+     "demostrar"
+    ],
+    [
+     "verrichten (doen)",
+     "llevar a cabo, realizar"
+    ],
+    [
+     "plaatsvinden (gebeuren)",
+     "tener lugar, celebrarse"
+    ],
+    [
+     "aanvangen (beginnen)",
+     "comenzar, iniciar"
+    ],
+    [
+     "beëindigen (stoppen)",
+     "finalizar, poner fin a"
+    ],
+    [
+     "verstrekken (geven)",
+     "proporcionar, facilitar"
+    ],
+    [
+     "betreffende (over)",
+     "relativo a, en cuanto a"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "No te pases",
+   "text": "Los asesores lingüísticos neerlandeses (como la <i>Taaladviesdienst</i>) advierten contra el exceso de estilo nominal: hace los textos lentos y vagos. Los hispanohablantes, acostumbrados a una prosa formal más larga, tienden a exagerarlo. El buen neerlandés académico combina las dos cosas: nominaliza los conceptos clave y mantén las frases activas y claras. El examen CNaVT PAT premia la claridad tanto como la formalidad."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "het lezen het boek",
+     "het lezen van het boek",
+     "Complemento tras het + infinitivo: van."
+    ],
+    [
+     "met betrekking van",
+     "met betrekking tot",
+     "Fija: met betrekking tot."
+    ],
+    [
+     "Er is sprake een probleem.",
+     "Er is sprake van een probleem.",
+     "Fija: er is sprake van."
+    ],
+    [
+     "Het formulier dient ingeleverd worden.",
+     "Het formulier dient te worden ingeleverd.",
+     "dienen + te."
+    ],
+    [
+     "in het kader de campagne",
+     "in het kader van de campagne",
+     "Fija: in het kader van."
+    ],
+    [
+     "De vergadering zal plaats vinden.",
+     "De vergadering zal plaatsvinden.",
+     "plaatsvinden se escribe junto."
+    ],
+    [
+     "Hieruit blijkt, dat de methode werkt.",
+     "Hieruit blijkt dat de methode werkt.",
+     "Sin coma antes de dat (tampoco antes de «que» en español)."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De ______ van de prijzen was groot.",
+     "hint": "sustantivo de stijgen",
+     "a": "stijging",
+     "full": "De stijging van de prijzen was groot."
+    },
+    {
+     "q": "Het ______ van de regels is verplicht.",
+     "hint": "naleven como sustantivo",
+     "a": "naleven",
+     "full": "Het naleven van de regels is verplicht."
+    },
+    {
+     "q": "Met betrekking ______ uw vraag kan ik het volgende zeggen.",
+     "hint": "con respecto a",
+     "a": "tot",
+     "full": "Met betrekking tot uw vraag kan ik het volgende zeggen."
+    },
+    {
+     "q": "In het ______ van het project zijn tien interviews gehouden.",
+     "hint": "en el marco de",
+     "a": "kader",
+     "full": "In het kader van het project zijn tien interviews gehouden."
+    },
+    {
+     "q": "Er is ______ van een ernstig probleem.",
+     "hint": "se trata de",
+     "a": "sprake",
+     "full": "Er is sprake van een ernstig probleem."
+    },
+    {
+     "q": "Hieruit ______ dat de aanpak werkt.",
+     "hint": "se desprende",
+     "a": "blijkt",
+     "full": "Hieruit blijkt dat de aanpak werkt."
+    },
+    {
+     "q": "Het formulier ______ vóór vrijdag te worden ingeleverd.",
+     "hint": "deber formal",
+     "a": "dient",
+     "full": "Het formulier dient vóór vrijdag te worden ingeleverd."
+    },
+    {
+     "q": "Het onderzoek ______ aan dat de methode effectief is.",
+     "hint": "demuestra",
+     "a": "toont",
+     "full": "Het onderzoek toont aan dat de methode effectief is."
+    },
+    {
+     "q": "De vergadering zal om tien uur ______.",
+     "hint": "tener lugar",
+     "a": "plaatsvinden",
+     "full": "De vergadering zal om tien uur plaatsvinden."
+    },
+    {
+     "q": "In tegenstelling ______ vorig jaar steeg de omzet.",
+     "hint": "a diferencia de",
+     "a": "tot",
+     "full": "In tegenstelling tot vorig jaar steeg de omzet."
+    },
+    {
+     "q": "Ten ______ van de storm werd de wedstrijd afgelast.",
+     "hint": "como consecuencia de",
+     "a": "gevolge",
+     "full": "Ten gevolge van de storm werd de wedstrijd afgelast."
+    },
+    {
+     "q": "Er is onderzoek gedaan ______ de oorzaken van stress.",
+     "hint": "sobre",
+     "a": "naar",
+     "full": "Er is onderzoek gedaan naar de oorzaken van stress."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "El cierre de la fábrica provocó desempleo.",
+     "a": "De sluiting van de fabriek leidde tot werkloosheid."
+    },
+    {
+     "q": "Con respecto a su pregunta ...",
+     "a": "Met betrekking tot uw vraag ..."
+    },
+    {
+     "q": "El formulario debe entregarse antes del viernes.",
+     "a": "Het formulier dient vóór vrijdag te worden ingeleverd."
+    },
+    {
+     "q": "De esto se desprende que el método funciona.",
+     "a": "Hieruit blijkt dat de methode werkt."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -460,5 +460,16 @@
   "subtitle": "desondanks, enerzijds ... anderzijds, mits, aangezien; la atenuación; y cómo guiar al lector por un texto",
   "content": "c1_03_linking_text_structure.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_04_El_estilo_nominal_y_el_neerlandes_academico",
+  "file": "C1_04_El_estilo_nominal_y_el_neerlandes_academico.pdf",
+  "level": "C1",
+  "number": 4,
+  "section": "Escritura",
+  "title": "El estilo nominal y el neerlandés académico",
+  "subtitle": "La nominalización, las locuciones preposicionales formales, er is sprake van, el vocabulario formal y las tareas del CNaVT PAT",
+  "content": "c1_04_nominal_academic.json",
+  "exercise_count": 12
  }
 ]
