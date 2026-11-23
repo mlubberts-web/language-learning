@@ -9,5 +9,16 @@
   "subtitle": "The alphabet, short and long vowels, the sounds English doesn't have, and the numbers to 100",
   "content": "a1_01_pronunciation_spelling.json",
   "exercise_count": 10
+ },
+ {
+  "id": "A1_02_zijn_and_hebben",
+  "file": "A1_02_zijn_and_hebben.pdf",
+  "level": "A1",
+  "number": 2,
+  "section": "Verbs",
+  "title": "zijn and hebben",
+  "subtitle": "to be and to have: introducing yourself, age, origin and job, questions and negatives",
+  "content": "a1_02_zijn_hebben.json",
+  "exercise_count": 12
  }
 ]
