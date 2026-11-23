@@ -163,5 +163,16 @@
   "subtitle": "zich, me and je: zich vervelen, zich herinneren, zich haasten and more",
   "content": "a2_06_reflexive_verbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_07_Prepositions",
+  "file": "A2_07_Prepositions.pdf",
+  "level": "A2",
+  "number": 7,
+  "section": "Grammar",
+  "title": "Prepositions",
+  "subtitle": "in, op, aan, bij and naar; prepositions of time and place; thuis and naar huis",
+  "content": "a2_07_prepositions.json",
+  "exercise_count": 12
  }
 ]
