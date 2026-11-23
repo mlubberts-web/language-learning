@@ -1,0 +1,72 @@
+{
+ "meta": {"level": "B2", "section": "Grammar", "number": 4, "total_in_level": 10,
+  "title": "Verbs with fixed prepositions",
+  "subtitle": "wachten op, denken aan, zich ergeren aan; adjectives like trots op; and erop dat, eraan om te",
+  "footer": "Language Learning · B2 · Grammar · Verbs with fixed prepositions",
+  "next": "Next: B2 · pdf 5 — Word formation"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "use forty common verbs and adjectives with their fixed preposition",
+   "avoid translating the English preposition word for word",
+   "connect a clause with <b>erop dat, eraan om te</b>",
+   "ask questions with <b>waarop, waaraan</b>"]},
+  {"type": "h1", "text": "1. Verbs with a fixed preposition"},
+  {"type": "verbpairs", "title": "Verbs", "items": [
+   ["wachten op", "to wait for"], ["denken aan", "to think of, about"], ["houden van", "to love, to like"],
+   ["rekenen op", "to count on"], ["zorgen voor", "to take care of"], ["geloven in", "to believe in"],
+   ["deelnemen aan", "to take part in"], ["bestaan uit", "to consist of"], ["afhangen van", "to depend on"],
+   ["klagen over", "to complain about"], ["twijfelen aan", "to doubt"], ["lijken op", "to look like, to resemble"],
+   ["genieten van", "to enjoy"], ["letten op", "to pay attention to"], ["reageren op", "to react to"],
+   ["slagen voor", "to pass (an exam)"]]},
+  {"type": "verbpairs", "title": "Reflexive verbs with a preposition", "items": [
+   ["zich ergeren aan", "to be annoyed by"], ["zich verheugen op", "to look forward to"], ["zich interesseren voor", "to be interested in"],
+   ["zich concentreren op", "to concentrate on"], ["zich voorbereiden op", "to prepare for"], ["zich schamen voor", "to be ashamed of"]]},
+  {"type": "callout", "kind": "note", "title": "Different from English", "text": "Many Dutch prepositions don't match the English ones: <i>depend <b>on</b></i> = afhangen <b>van</b>, <i>wait <b>for</b></i> = wachten <b>op</b>, <i>look forward <b>to</b></i> = zich verheugen <b>op</b>, <i>pass an exam</i> = slagen <b>voor</b> een examen. And some verbs have a preposition in only one language: <i>to doubt something</i> = twijfelen <b>aan</b> iets; <i>to enjoy</i> = genieten <b>van</b>."},
+  {"type": "h1", "text": "2. Adjectives with a fixed preposition"},
+  {"type": "verbpairs", "title": "Adjectives", "items": [
+   ["bang voor", "afraid of"], ["trots op", "proud of"], ["blij met", "happy with"], ["boos op", "angry with"],
+   ["jaloers op", "jealous of"], ["verliefd op", "in love with"], ["tevreden met", "satisfied with"], ["geïnteresseerd in", "interested in"],
+   ["goed in", "good at"], ["verantwoordelijk voor", "responsible for"], ["gewend aan", "used to"], ["klaar met", "finished with"]]},
+  {"type": "h1", "text": "3. With a clause: erop dat, eraan om te"},
+  {"type": "p", "text": "When the preposition is followed by a whole clause, Dutch puts <b>er + preposition</b> in the main clause and starts the clause with <b>dat</b> or <b>om te</b>. English uses <i>-ing</i> or nothing."},
+  {"type": "table", "style": "plain", "widths": [7.6, 6.4, 3.0], "head": ["Dutch", "English", "Pattern"], "rows": [
+   ["Ik verheug me erop dat je komt.", "I'm looking forward to your coming.", "erop dat"],
+   ["Ik verheug me erop om je te zien.", "I'm looking forward to seeing you.", "erop om te"],
+   ["Ik ben eraan gewend om vroeg op te staan.", "I'm used to getting up early.", "eraan om te"],
+   ["Het hangt ervan af of het regent.", "It depends on whether it rains.", "ervan of"],
+   ["Ik twijfel eraan of hij de waarheid spreekt.", "I doubt whether he's telling the truth.", "eraan of"]]},
+  {"type": "callout", "kind": "tip", "title": "Questions: waarop, waaraan", "text": "To ask about the object, use <b>waar + preposition</b>: <i><b>Waar</b> wacht je <b>op</b>?</i> (What are you waiting for?) <i><b>Waar</b> denk je <b>aan</b>?</i> For people: <i><b>Op wie</b> wacht je?</i> Note that waar and the preposition are usually split."},
+  {"type": "h1", "text": "4. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Het hangt af op het weer.", "Het hangt af van het weer.", "afhangen van."],
+   ["Ik verheug me naar de vakantie.", "Ik verheug me op de vakantie.", "zich verheugen op."],
+   ["Ik ben trots van mijn zoon.", "Ik ben trots op mijn zoon.", "trots op."],
+   ["Ik ben goed bij wiskunde.", "Ik ben goed in wiskunde.", "goed in."],
+   ["Ik ben gewend aan vroeg opstaan.", "Ik ben eraan gewend om vroeg op te staan.", "With a verb: eraan ... om te."],
+   ["Wat wacht je op?", "Waar wacht je op?", "Things: waar + preposition."],
+   ["Ik ben geslaagd mijn examen.", "Ik ben geslaagd voor mijn examen.", "slagen voor."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the preposition or the er-form. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Het hangt ______ het weer af.", "hint": "depend on", "a": "van", "full": "Het hangt van het weer af."},
+   {"q": "Ik verheug me ______ de zomer.", "hint": "look forward to", "a": "op", "full": "Ik verheug me op de zomer."},
+   {"q": "Zij is erg trots ______ haar dochter.", "hint": "proud of", "a": "op", "full": "Zij is erg trots op haar dochter."},
+   {"q": "Ik erger me ______ de herrie van de buren.", "hint": "annoyed by", "a": "aan", "full": "Ik erger me aan de herrie van de buren."},
+   {"q": "Wie zorgt ______ de kat als je weg bent?", "hint": "take care of", "a": "voor", "full": "Wie zorgt voor de kat als je weg bent?"},
+   {"q": "Hij lijkt ______ zijn vader.", "hint": "look like", "a": "op", "full": "Hij lijkt op zijn vader."},
+   {"q": "Het team bestaat ______ elf spelers.", "hint": "consist of", "a": "uit", "full": "Het team bestaat uit elf spelers."},
+   {"q": "Ik ben geslaagd ______ mijn rijexamen!", "hint": "pass", "a": "voor", "full": "Ik ben geslaagd voor mijn rijexamen!"},
+   {"q": "Ik ben ______ gewend om vroeg op te staan.", "hint": "er-form", "a": "eraan", "full": "Ik ben eraan gewend om vroeg op te staan."},
+   {"q": "______ denk je aan? Je bent zo stil.", "hint": "question, thing", "a": "waar", "full": "Waar denk je aan? Je bent zo stil."},
+   {"q": "Ik twijfel ______ of het een goed idee is.", "hint": "er-form, doubt", "a": "eraan", "full": "Ik twijfel eraan of het een goed idee is."},
+   {"q": "We hebben erg genoten ______ de vakantie.", "hint": "enjoy", "a": "van", "full": "We hebben erg genoten van de vakantie."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "It depends on the weather.", "a": "Het hangt van het weer af."},
+   {"q": "I'm looking forward to the holiday.", "a": "Ik verheug me op de vakantie."},
+   {"q": "I'm proud of you.", "a": "Ik ben trots op je."},
+   {"q": "What are you waiting for?", "a": "Waar wacht je op?"}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

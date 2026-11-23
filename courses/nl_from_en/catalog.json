@@ -350,5 +350,16 @@
   "subtitle": "even, maar, toch, wel, nou, eens, hoor, gewoon: small words that set the tone",
   "content": "b2_03_modal_particles.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_04_Verbs_with_fixed_prepositions",
+  "file": "B2_04_Verbs_with_fixed_prepositions.pdf",
+  "level": "B2",
+  "number": 4,
+  "section": "Grammar",
+  "title": "Verbs with fixed prepositions",
+  "subtitle": "wachten op, denken aan, zich ergeren aan; adjectives like trots op; and erop dat, eraan om te",
+  "content": "b2_04_fixed_prepositions.json",
+  "exercise_count": 12
  }
 ]
