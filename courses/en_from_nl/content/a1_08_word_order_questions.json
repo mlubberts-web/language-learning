@@ -1,0 +1,82 @@
+{"meta": {"level": "A1", "section": "Grammatica", "number": 8, "total_in_level": 9,
+ "title": "Woordvolgorde en vragen",
+ "subtitle": "Onderwerp, werkwoord, voorwerp; vraagwoorden; in, on en at voor tijd en plaats",
+ "footer": "Language Learning · A1 · Grammatica · Woordvolgorde en vragen",
+ "next": "Volgende: A1 · pdf 9 — Woordenschat en vaste uitdrukkingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "zinnen bouwen in de vaste Engelse volgorde: onderwerp, werkwoord, voorwerp",
+  "de Nederlandse inversie vermijden (<i>Gisteren zag ik</i> wordt <i>Yesterday I saw</i>)",
+  "vragen maken met vraagwoorden",
+  "kiezen tussen <b>in</b>, <b>on</b> en <b>at</b> voor tijd en plaats"]},
+
+ {"type": "h1", "text": "1. De vaste volgorde"},
+ {"type": "p", "text": "Een Engelse zin heeft bijna altijd dezelfde volgorde: <b>onderwerp – werkwoord – voorwerp – plaats – tijd</b>. Het onderwerp staat vóór het werkwoord, ook als de zin met iets anders begint."},
+ {"type": "table", "style": "plain", "widths": [3.0, 3.0, 3.6, 3.6, 3.8], "head": ["Onderwerp", "Werkwoord", "Voorwerp", "Plaats", "Tijd"], "rows": [
+  ["I", "play", "football", "in the park", "on Saturdays."],
+  ["She", "bought", "a car", "in Utrecht", "last week."],
+  ["We", "eat", "pizza", "at home", "every Friday."]]},
+ {"type": "callout", "kind": "dutch", "title": "Het grootste verschil: geen inversie", "text": "Het Nederlands zet het werkwoord op de tweede plaats: <i>Morgen <b>ga</b> ik naar Londen.</i> Het Engels niet: <b>Tomorrow I'm going</b> to London. Ook in bijzinnen staat het werkwoord niet achteraan: <i>... omdat ik moe <b>ben</b></i> = <b>... because I am tired</b>."},
+ {"type": "table", "style": "plain", "widths": [6.0, 5.6, 5.4], "head": ["Nederlands", "Fout (Nederlandse volgorde)", "Goed"], "rows": [
+  ["Gisteren zag ik hem.", "Yesterday saw I him.", "Yesterday I saw him."],
+  ["Ik spreek heel goed Engels.", "I speak very well English.", "I speak English very well."],
+  ["... omdat het regent.", "... because it rains is.", "... because it's raining."],
+  ["Hier woon ik.", "Here live I.", "I live here."]]},
+ {"type": "callout", "kind": "warn", "title": "Werkwoord en voorwerp blijven bij elkaar", "text": "Zet niets tussen het werkwoord en het voorwerp: <i>I like <b>very much</b> tea</i> is fout. Zeg <b>I like tea very much</b>. Zo ook <i>She speaks English well</i>, niet <i>She speaks well English</i>."},
+
+ {"type": "h1", "text": "2. Vragen"},
+ {"type": "p", "text": "Een vraag maak je met een hulpwerkwoord (<b>do, does, am, is, are, can</b> ...) vóór het onderwerp. Een vraagwoord komt daar nog vóór."},
+ {"type": "table", "style": "plain", "widths": [3.0, 3.0, 3.0, 4.0, 4.0], "head": ["Vraagwoord", "Hulpwerkwoord", "Onderwerp", "Werkwoord + rest", "Nederlands"], "rows": [
+  ["Where", "do", "you", "live?", "Waar woon je?"],
+  ["What", "does", "she", "do?", "Wat doet zij (voor werk)?"],
+  ["When", "are", "they", "coming?", "Wanneer komen ze?"],
+  ["How", "can", "I", "help you?", "Hoe kan ik je helpen?"],
+  ["Why", "is", "he", "late?", "Waarom is hij te laat?"]]},
+ {"type": "verbpairs", "title": "Vraagwoorden", "items": [
+  ["what", "wat"], ["who", "wie"], ["where", "waar"], ["when", "wanneer"], ["why", "waarom"],
+  ["how", "hoe"], ["which", "welke"], ["how much", "hoeveel (ontelbaar)"], ["how many", "hoeveel (telbaar)"],
+  ["how old", "hoe oud"], ["how often", "hoe vaak"], ["what time", "hoe laat"]]},
+ {"type": "callout", "kind": "tip", "title": "Who als onderwerp: geen do", "text": "Vraag je naar het onderwerp zelf, dan heb je geen do nodig: <b>Who lives here?</b> (Wie woont hier?), <b>What happened?</b> (Wat is er gebeurd?). Maar: <b>Who do you know here?</b> (Wie ken jij hier?)."},
+
+ {"type": "h1", "text": "3. in, on en at"},
+ {"type": "table", "style": "plain", "widths": [2.4, 7.2, 7.4], "head": ["", "Tijd", "Plaats"], "rows": [
+  ["at", "een tijdstip: at 7 o'clock, at night, at the weekend", "een punt: at home, at work, at school, at the station"],
+  ["on", "dagen en data: on Monday, on 5 May, on my birthday", "een oppervlak: on the table, on the wall, on the second floor"],
+  ["in", "langere periodes: in May, in 2024, in the summer, in the morning", "binnen iets: in the box, in London, in the kitchen, in bed"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands 'op', Engels vaak in of at", "text": "<i>op maandag</i> = <b>on Monday</b>, maar <i>op het werk</i> = <b>at work</b>, <i>op school</i> = <b>at school</b>, <i>op het platteland</i> = <b>in the country</b>, <i>op de foto</i> = <b>in the photo</b>. Leer de combinaties als geheel."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Yesterday saw I a film.", "Yesterday I saw a film.", "Het onderwerp staat vóór het werkwoord."],
+  ["I speak very well English.", "I speak English very well.", "Werkwoord en voorwerp blijven bij elkaar."],
+  ["Where you live?", "Where do you live?", "Een vraag met een gewoon werkwoord krijgt do."],
+  ["What does she wants?", "What does she want?", "Na does blijft het werkwoord kaal."],
+  ["Who does live here?", "Who lives here?", "Who als onderwerp: geen do."],
+  ["See you in Monday.", "See you on Monday.", "Dagen krijgen on."],
+  ["I'm on work.", "I'm at work.", "Op het werk = at work."],
+  ["How much people?", "How many people?", "Telbaar: how many."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "______ do you live? In Leiden.", "hint": "vraagwoord", "a": "Where", "full": "Where do you live? In Leiden."},
+  {"q": "What time ______ the film start?", "hint": "do of does", "a": "does", "full": "What time does the film start?"},
+  {"q": "______ old is your son?", "hint": "vraagwoord", "a": "How", "full": "How old is your son?"},
+  {"q": "______ brothers have you got?", "hint": "hoeveel", "a": "How many", "full": "How many brothers have you got?"},
+  {"q": "I start work ______ nine o'clock.", "hint": "in, on of at", "a": "at", "full": "I start work at nine o'clock."},
+  {"q": "My birthday is ______ June.", "hint": "in, on of at", "a": "in", "full": "My birthday is in June."},
+  {"q": "We have a meeting ______ Friday.", "hint": "in, on of at", "a": "on", "full": "We have a meeting on Friday."},
+  {"q": "She is ______ home today.", "hint": "in, on of at", "a": "at", "full": "She is at home today."},
+  {"q": "The picture is ______ the wall.", "hint": "in, on of at", "a": "on", "full": "The picture is on the wall."},
+  {"q": "______ is that man? He's my teacher.", "hint": "vraagwoord", "a": "Who", "full": "Who is that man? He's my teacher."},
+  {"q": "______ are you late? The bus didn't come.", "hint": "vraagwoord", "a": "Why", "full": "Why are you late? The bus didn't come."},
+  {"q": "Tomorrow ______ going to London.", "hint": "ik ga", "a": "I'm", "full": "Tomorrow I'm going to London."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Gisteren zag ik mijn zus.", "a": "Yesterday I saw my sister."},
+  {"q": "Zij spreekt heel goed Engels.", "a": "She speaks English very well."},
+  {"q": "Waar werk je?", "a": "Where do you work?"},
+  {"q": "Ik ben op mijn werk.", "a": "I'm at work."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

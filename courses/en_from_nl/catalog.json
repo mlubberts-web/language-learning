@@ -75,5 +75,27 @@
   "subtitle": "am / is / are + -ing: wat er nu gebeurt, tijdelijke situaties en het verschil met de present simple",
   "content": "a1_07_present_continuous.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_08_Woordvolgorde_en_vragen",
+  "file": "A1_08_Woordvolgorde_en_vragen.pdf",
+  "level": "A1",
+  "number": 8,
+  "section": "Grammatica",
+  "title": "Woordvolgorde en vragen",
+  "subtitle": "Onderwerp, werkwoord, voorwerp; vraagwoorden; in, on en at voor tijd en plaats",
+  "content": "a1_08_word_order_questions.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_09_Woordenschat_en_vaste_uitdrukkingen",
+  "file": "A1_09_Woordenschat_en_vaste_uitdrukkingen.pdf",
+  "level": "A1",
+  "number": 9,
+  "section": "Woordenschat",
+  "title": "Woordenschat en vaste uitdrukkingen",
+  "subtitle": "Groeten, familie, eten en drinken, tijd, dagen en maanden, winkelen, de weg vragen en de klas",
+  "content": "a1_09_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

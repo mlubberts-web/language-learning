@@ -1,0 +1,98 @@
+{"meta": {"level": "A1", "section": "Woordenschat", "number": 9, "total_in_level": 9,
+ "title": "Woordenschat en vaste uitdrukkingen",
+ "subtitle": "Groeten, familie, eten en drinken, tijd, dagen en maanden, winkelen, de weg vragen en de klas",
+ "footer": "Language Learning · A1 · Woordenschat en vaste uitdrukkingen",
+ "next": "Volgende: A2 · pdf 1"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Zo gebruik je deze lijsten", "bullets": [
+  "Dek één kolom af en overhoor jezelf in beide richtingen.",
+  "Zeg de woorden hardop: let op de th, de w en de eindklanken (pdf 1).",
+  "Maak bij elk blok drie eigen zinnen met de grammatica van A1."]},
+
+ {"type": "h1", "text": "1. Groeten en beleefdheid"},
+ {"type": "verbpairs", "title": "Groeten", "items": [
+  ["Hello. / Hi.", "Hallo."], ["Good morning.", "Goedemorgen."], ["Good afternoon.", "Goedemiddag."],
+  ["Good evening.", "Goedenavond."], ["Goodbye. / Bye.", "Tot ziens. / Doei."], ["See you later.", "Tot straks."],
+  ["Nice to meet you.", "Leuk je te ontmoeten."], ["How are you?", "Hoe gaat het?"],
+  ["I'm fine, thanks.", "Goed, dank je."], ["Good night.", "Welterusten."]]},
+ {"type": "verbpairs", "title": "Beleefdheid", "items": [
+  ["please", "alsjeblieft (bij een verzoek)"], ["thank you", "dank je"], ["You're welcome.", "Graag gedaan."],
+  ["Sorry.", "Sorry."], ["Excuse me.", "Pardon. (om iets te vragen)"], ["Pardon?", "Wat zei je?"],
+  ["Here you are.", "Alsjeblieft. (bij het geven)"], ["No problem.", "Geen probleem."]]},
+ {"type": "callout", "kind": "dutch", "title": "alsjeblieft = please of here you are", "text": "Het Nederlandse <i>alsjeblieft</i> heeft twee betekenissen. Bij een verzoek zeg je <b>please</b>: <i>A coffee, please.</i> Als je iets geeft, zeg je <b>here you are</b> (of <b>there you go</b>), nooit <i>please</i>."},
+
+ {"type": "h1", "text": "2. Familie"},
+ {"type": "verbpairs", "title": "Familie", "items": [
+  ["mother", "moeder"], ["father", "vader"], ["parents", "ouders"], ["brother", "broer"],
+  ["sister", "zus"], ["son", "zoon"], ["daughter", "dochter"], ["husband", "man (echtgenoot)"],
+  ["wife", "vrouw (echtgenote)"], ["grandmother", "oma"], ["grandfather", "opa"], ["uncle", "oom"],
+  ["aunt", "tante"], ["cousin", "neef, nicht (kind van oom of tante)"], ["nephew", "neef (kind van broer of zus)"], ["niece", "nicht (kind van broer of zus)"]]},
+ {"type": "callout", "kind": "dutch", "title": "Eén neef, drie Engelse woorden", "text": "Het Nederlandse <i>neef</i> en <i>nicht</i> zijn in het Engels twee verschillende families: het kind van je oom of tante is je <b>cousin</b> (voor jongens én meisjes), het kind van je broer of zus is je <b>nephew</b> of <b>niece</b>."},
+
+ {"type": "h1", "text": "3. Eten en drinken"},
+ {"type": "verbpairs", "title": "Eten en drinken", "items": [
+  ["bread", "brood"], ["cheese", "kaas"], ["egg", "ei"], ["meat", "vlees"], ["chicken", "kip"],
+  ["fish", "vis"], ["vegetables", "groente"], ["fruit", "fruit"], ["potato", "aardappel"], ["rice", "rijst"],
+  ["water", "water"], ["milk", "melk"], ["juice", "sap"], ["coffee", "koffie"], ["tea", "thee"], ["beer", "bier"]]},
+ {"type": "verbpairs", "title": "In een café of restaurant", "items": [
+  ["Can I have a coffee, please?", "Mag ik een koffie, alstublieft?"], ["The bill, please.", "De rekening, alstublieft."],
+  ["I'd like the fish.", "Ik wil graag de vis."], ["Is service included?", "Is de bediening inbegrepen?"],
+  ["Enjoy your meal.", "Eet smakelijk."], ["Cheers!", "Proost!"]]},
+
+ {"type": "h1", "text": "4. Tijd, dagen en maanden"},
+ {"type": "verbpairs", "title": "Dagen", "items": [
+  ["Monday", "maandag"], ["Tuesday", "dinsdag"], ["Wednesday", "woensdag"], ["Thursday", "donderdag"],
+  ["Friday", "vrijdag"], ["Saturday", "zaterdag"], ["Sunday", "zondag"], ["the weekend", "het weekend"]]},
+ {"type": "verbpairs", "title": "Maanden", "items": [
+  ["January", "januari"], ["February", "februari"], ["March", "maart"], ["April", "april"],
+  ["May", "mei"], ["June", "juni"], ["July", "juli"], ["August", "augustus"],
+  ["September", "september"], ["October", "oktober"], ["November", "november"], ["December", "december"]]},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.0, 7.0], "head": ["Klok", "Engels", "Let op"], "rows": [
+  ["7.00", "seven o'clock", "o'clock alleen bij hele uren"],
+  ["7.15", "quarter past seven", "past = over"],
+  ["7.30", "half past seven", "Nederlands 'half acht' is 7.30: in het Engels half past <b>seven</b>"],
+  ["7.45", "quarter to eight", "to = voor"],
+  ["7.20", "twenty past seven", ""],
+  ["7.50", "ten to eight", ""]]},
+ {"type": "callout", "kind": "dutch", "title": "half acht is half past seven", "text": "Pas op: het Nederlandse <i>half acht</i> is <b>half past seven</b> (7.30), niet half past eight. Het Engels telt vanaf het vorige uur. Zeg <b>What time is it?</b> om te vragen hoe laat het is."},
+
+ {"type": "h1", "text": "5. Winkelen en de weg vragen"},
+ {"type": "verbpairs", "title": "Winkelen", "items": [
+  ["How much is it?", "Hoeveel kost het?"], ["It's too expensive.", "Het is te duur."],
+  ["Can I pay by card?", "Kan ik pinnen?"], ["I'm just looking.", "Ik kijk alleen even."],
+  ["Have you got this in a smaller size?", "Heeft u dit in een kleinere maat?"], ["a receipt", "een bonnetje"]]},
+ {"type": "verbpairs", "title": "De weg vragen", "items": [
+  ["Excuse me, where is the station?", "Pardon, waar is het station?"], ["Go straight on.", "Ga rechtdoor."],
+  ["Turn left.", "Sla linksaf."], ["Turn right.", "Sla rechtsaf."], ["It's next to the bank.", "Het is naast de bank."],
+  ["It's opposite the church.", "Het is tegenover de kerk."], ["It's on the corner.", "Het is op de hoek."], ["Is it far?", "Is het ver?"]]},
+
+ {"type": "h1", "text": "6. In de les"},
+ {"type": "verbpairs", "title": "Handig in de les", "items": [
+  ["What does this word mean?", "Wat betekent dit woord?"], ["How do you say ... in English?", "Hoe zeg je ... in het Engels?"],
+  ["Can you speak more slowly, please?", "Kunt u langzamer praten, alstublieft?"], ["I don't understand.", "Ik begrijp het niet."],
+  ["Can you write it down?", "Kunt u het opschrijven?"], ["I don't know.", "Ik weet het niet."]]},
+
+ {"type": "h1", "text": "7. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "A coffee, ______.", "hint": "alsjeblieft (verzoek)", "a": "please", "full": "A coffee, please."},
+  {"q": "Here you ______. — Thank you.", "hint": "alsjeblieft (bij geven)", "a": "are", "full": "Here you are. — Thank you."},
+  {"q": "My mother's sister is my ______.", "hint": "familie", "a": "aunt", "full": "My mother's sister is my aunt."},
+  {"q": "My brother's son is my ______.", "hint": "familie", "a": "nephew", "full": "My brother's son is my nephew."},
+  {"q": "It's half past ______.", "hint": "het is half acht", "a": "seven", "full": "It's half past seven."},
+  {"q": "It's quarter ______ eight.", "hint": "kwart voor acht: past of to", "a": "to", "full": "It's quarter to eight."},
+  {"q": "The day after Tuesday is ______.", "hint": "woensdag", "a": "Wednesday", "full": "The day after Tuesday is Wednesday."},
+  {"q": "How much ______ it?", "hint": "to be", "a": "is", "full": "How much is it?"},
+  {"q": "Turn ______ at the church.", "hint": "linksaf", "a": "left", "full": "Turn left at the church."},
+  {"q": "What does this word ______?", "hint": "betekenen", "a": "mean", "full": "What does this word mean?"},
+  {"q": "Can I pay by ______?", "hint": "pinnen", "a": "card", "full": "Can I pay by card?"},
+  {"q": "Nice to ______ you.", "hint": "ontmoeten", "a": "meet", "full": "Nice to meet you."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hoeveel kost het?", "a": "How much is it?"},
+  {"q": "Ik begrijp het niet.", "a": "I don't understand."},
+  {"q": "Pardon, waar is het station?", "a": "Excuse me, where is the station?"},
+  {"q": "De rekening, alstublieft.", "a": "The bill, please."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
