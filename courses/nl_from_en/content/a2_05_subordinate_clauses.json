@@ -1,0 +1,73 @@
+{
+ "meta": {"level": "A2", "section": "Grammar", "number": 5, "total_in_level": 10,
+  "title": "Subordinate clauses",
+  "subtitle": "dat, omdat, als, toen and of: the verb goes to the end",
+  "footer": "Language Learning · A2 · Grammar · Subordinate clauses",
+  "next": "Next: A2 · pdf 6 — Reflexive verbs"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "link sentences with <b>dat, omdat, als, toen, of</b> and other conjunctions",
+   "put the verb at the <b>end</b> of a subordinate clause",
+   "start a sentence with a subordinate clause: <i>Als het regent, blijf ik thuis</i>",
+   "choose between <b>als, toen</b> and <b>wanneer</b>"]},
+  {"type": "h1", "text": "1. The verb at the end"},
+  {"type": "p", "text": "After a subordinating conjunction like <b>omdat</b> (because) or <b>dat</b> (that), all verbs go to the <b>end</b> of the clause. This is the third word-order rule of Dutch, after the verb in second place (A1 · pdf 5) and the infinitive at the end (A1 · pdf 7)."},
+  {"type": "table", "style": "plain", "widths": [5.8, 6.4, 4.8], "head": ["Main clause", "Subordinate clause", "English"], "rows": [
+   ["Ik blijf thuis,", "omdat ik ziek ben.", "because I'm ill."],
+   ["Ik denk", "dat hij morgen komt.", "that he's coming tomorrow."],
+   ["Ik weet niet", "of ze thuis is.", "whether she's at home."],
+   ["Ik blijf thuis,", "omdat ik moet werken.", "because I have to work."],
+   ["Hij zegt", "dat hij het gedaan heeft.", "that he has done it."]]},
+  {"type": "callout", "kind": "note", "title": "English keeps its order, Dutch doesn't", "text": "English says <i>because I am ill</i>, with the same order as a main clause. Dutch sends the verb to the end: <b>omdat ik ziek ben</b>. With two verbs, both go to the end: <i>omdat ik <b>moet werken</b></i>, <i>dat hij het <b>gedaan heeft</b></i> (or <i>heeft gedaan</i>: both orders are correct)."},
+  {"type": "h1", "text": "2. The conjunctions"},
+  {"type": "verbpairs", "title": "Subordinating conjunctions", "items": [
+   ["dat", "that"], ["omdat", "because"], ["als", "if, when (now or future)"], ["toen", "when (one time in the past)"],
+   ["of", "whether, if"], ["wanneer", "when, whenever"], ["terwijl", "while"], ["voordat", "before"],
+   ["nadat", "after"], ["zodat", "so that"], ["hoewel", "although"], ["totdat", "until"]]},
+  {"type": "table", "style": "plain", "widths": [3.0, 7.4, 6.6], "head": ["Word", "Use", "Example"], "rows": [
+   ["als", "if, or when (present and future)", "Als ik tijd heb, kom ik."],
+   ["toen", "when, one moment in the past", "Toen ik jong was, woonde ik in Leeds."],
+   ["wanneer", "when (question), whenever", "Wanneer kom je? Ik weet niet wanneer hij komt."],
+   ["of", "whether (indirect yes/no question)", "Ik weet niet of hij komt."]]},
+  {"type": "callout", "kind": "warn", "title": "omdat or want?", "text": "Both mean <i>because</i>. After <b>omdat</b> the verb goes to the end: <i>omdat ik moe <b>ben</b></i>. After <b>want</b> the normal word order stays: <i>want ik <b>ben</b> moe</i>. <b>want</b> can't start a sentence; <b>omdat</b> can."},
+  {"type": "h1", "text": "3. Starting with a subordinate clause"},
+  {"type": "p", "text": "A subordinate clause can come first. Then it counts as the <b>first element</b> of the sentence, so the verb of the main clause comes right after the comma: <i>Als het regent, <b>blijf</b> ik thuis.</i> You get verb – comma – verb."},
+  {"type": "table", "style": "plain", "widths": [7.4, 3.0, 6.6], "head": ["Subordinate clause (place 1)", "Verb (2)", "Rest"], "rows": [
+   ["Als het morgen regent,", "blijf", "ik thuis."],
+   ["Toen ik thuiskwam,", "was", "iedereen al weg."],
+   ["Omdat de trein laat was,", "kwam", "ik te laat."],
+   ["Hoewel het koud is,", "gaan", "we zwemmen."]]},
+  {"type": "h1", "text": "4. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["omdat ik ben ziek", "omdat ik ziek ben", "After omdat: the verb at the end."],
+   ["Ik denk dat hij komt morgen.", "Ik denk dat hij morgen komt.", "The verb at the end."],
+   ["Als het regent, ik blijf thuis.", "Als het regent, blijf ik thuis.", "After the subordinate clause: the verb."],
+   ["Als ik jong was, woonde ik in Leeds.", "Toen ik jong was, woonde ik in Leeds.", "One time in the past: toen."],
+   ["Ik weet niet als hij komt.", "Ik weet niet of hij komt.", "Whether: of."],
+   ["want ik moe ben", "want ik ben moe", "After want: normal word order."],
+   ["omdat ik moet werken vandaag", "omdat ik vandaag moet werken", "Both verbs at the end."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the right conjunction or put the verb in the right place. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Ik blijf thuis, omdat ik ziek ______.", "hint": "zijn", "a": "ben", "full": "Ik blijf thuis, omdat ik ziek ben."},
+   {"q": "Ik denk ______ hij gelijk heeft.", "hint": "that", "a": "dat", "full": "Ik denk dat hij gelijk heeft."},
+   {"q": "______ het regent, blijf ik binnen.", "hint": "if", "a": "als", "full": "Als het regent, blijf ik binnen."},
+   {"q": "______ ik klein was, woonde ik in Engeland.", "hint": "when, past", "a": "toen", "full": "Toen ik klein was, woonde ik in Engeland."},
+   {"q": "Weet jij ______ de winkel open is?", "hint": "whether", "a": "of", "full": "Weet jij of de winkel open is?"},
+   {"q": "Als ik tijd heb, ______ ik je.", "hint": "helpen", "a": "help", "full": "Als ik tijd heb, help ik je."},
+   {"q": "Ik kom niet, want ik ______ geen tijd.", "hint": "hebben", "a": "heb", "full": "Ik kom niet, want ik heb geen tijd."},
+   {"q": "Ze belde ______ ik aan het koken was.", "hint": "while", "a": "terwijl", "full": "Ze belde terwijl ik aan het koken was."},
+   {"q": "Ik weet niet ______ de film begint.", "hint": "when", "a": "wanneer", "full": "Ik weet niet wanneer de film begint."},
+   {"q": "______ het koud is, gaan we zwemmen.", "hint": "although", "a": "hoewel", "full": "Hoewel het koud is, gaan we zwemmen."},
+   {"q": "Hij zegt dat hij morgen niet kan ______.", "hint": "komen", "a": "komen", "full": "Hij zegt dat hij morgen niet kan komen."},
+   {"q": "Was je handen ______ je gaat eten.", "hint": "before", "a": "voordat", "full": "Was je handen voordat je gaat eten."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "I'm staying at home because I'm ill.", "a": "Ik blijf thuis omdat ik ziek ben."},
+   {"q": "I think that he's right.", "a": "Ik denk dat hij gelijk heeft."},
+   {"q": "If it rains, I'll stay at home.", "a": "Als het regent, blijf ik thuis."},
+   {"q": "I don't know whether she's coming.", "a": "Ik weet niet of ze komt."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

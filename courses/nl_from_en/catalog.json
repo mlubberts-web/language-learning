@@ -141,5 +141,16 @@
   "subtitle": "The present tense for the future, gaan + infinitive, zullen for promises and offers",
   "content": "a2_04_future_gaan.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_05_Subordinate_clauses",
+  "file": "A2_05_Subordinate_clauses.pdf",
+  "level": "A2",
+  "number": 5,
+  "section": "Grammar",
+  "title": "Subordinate clauses",
+  "subtitle": "dat, omdat, als, toen and of: the verb goes to the end",
+  "content": "a2_05_subordinate_clauses.json",
+  "exercise_count": 12
  }
 ]
