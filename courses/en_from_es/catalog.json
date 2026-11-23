@@ -361,5 +361,27 @@
   "subtitle": "it is said that, he is thought to, la pasiva con verbos modales e infinitivos",
   "content": "b2_04_advanced_passive.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_05_Los_phrasal_verbs",
+  "file": "B2_05_Los_phrasal_verbs.pdf",
+  "level": "B2",
+  "number": 5,
+  "section": "Vocabulario",
+  "title": "Los phrasal verbs",
+  "subtitle": "Phrasal verbs separables e inseparables, los de tres partes y los ochenta más útiles",
+  "content": "b2_05_phrasal_verbs.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_06_Las_preposiciones_y_las_preposiciones_fijas",
+  "file": "B2_06_Las_preposiciones_y_las_preposiciones_fijas.pdf",
+  "level": "B2",
+  "number": 6,
+  "section": "Gramática",
+  "title": "Las preposiciones y las preposiciones fijas",
+  "subtitle": "Verbos, adjetivos y sustantivos con una preposición fija, by y until, e in, on y at en detalle",
+  "content": "b2_06_prepositions.json",
+  "exercise_count": 12
  }
 ]

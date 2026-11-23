@@ -1,0 +1,480 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "Las preposiciones y las preposiciones fijas",
+  "subtitle": "Verbos, adjetivos y sustantivos con una preposición fija, by y until, e in, on y at en detalle",
+  "footer": "Language Learning · B2 · Gramática · Preposiciones",
+  "next": "Siguiente: B2 · pdf 7 — Los artículos y los determinantes"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar verbos, adjetivos y sustantivos con la preposición correcta",
+    "distinguir <b>by</b> y <b>until</b>, <b>for</b> y <b>during</b>",
+    "usar bien las combinaciones difíciles con <b>in, on</b> y <b>at</b>",
+    "evitar las preposiciones que los hispanohablantes traducen palabra por palabra"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbo + preposición"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos con una preposición fija",
+   "items": [
+    [
+     "depend on",
+     "depender de"
+    ],
+    [
+     "believe in",
+     "creer en"
+    ],
+    [
+     "consist of",
+     "consistir en, constar de"
+    ],
+    [
+     "apply for",
+     "solicitar (un trabajo)"
+    ],
+    [
+     "ask for",
+     "pedir"
+    ],
+    [
+     "wait for",
+     "esperar"
+    ],
+    [
+     "look at",
+     "mirar"
+    ],
+    [
+     "listen to",
+     "escuchar"
+    ],
+    [
+     "dream of",
+     "soñar con"
+    ],
+    [
+     "think about",
+     "pensar en"
+    ],
+    [
+     "insist on",
+     "insistir en"
+    ],
+    [
+     "succeed in",
+     "conseguir, lograr"
+    ],
+    [
+     "laugh at",
+     "reírse de"
+    ],
+    [
+     "apologise for",
+     "pedir perdón por"
+    ],
+    [
+     "agree with",
+     "estar de acuerdo con"
+    ],
+    [
+     "pay for",
+     "pagar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Traducir palabra por palabra suele salir mal",
+   "bullets": [
+    "<i>depender <b>de</b></i> = depend <b>on</b>, y <i>consistir <b>en</b></i> = consist <b>of</b> (nunca of / in)",
+    "<i>pensar <b>en</b></i> = think <b>about / of</b>, y <i>soñar <b>con</b></i> = dream <b>of / about</b> (nunca in / with)",
+    "<i>casarse <b>con</b></i> = marry someone (sin preposición) o get married <b>to</b>, nunca <i>marry with</i>",
+    "<i>esperar, escuchar, mirar, pedir, pagar</i> no llevan preposición en español, pero sí en inglés: wait <b>for</b>, listen <b>to</b>, look <b>at</b>, ask <b>for</b>, pay <b>for</b>",
+    "<i>llamar a alguien</i> = call someone, y <i>discutir sobre algo</i> = discuss something (sin to ni about)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Adjetivo + preposición"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivos con una preposición fija",
+   "items": [
+    [
+     "good at",
+     "bueno en, que se le da bien"
+    ],
+    [
+     "bad at",
+     "malo en, que se le da mal"
+    ],
+    [
+     "interested in",
+     "interesado en"
+    ],
+    [
+     "afraid of",
+     "que tiene miedo de"
+    ],
+    [
+     "proud of",
+     "orgulloso de"
+    ],
+    [
+     "tired of",
+     "harto de"
+    ],
+    [
+     "keen on",
+     "loco por, aficionado a"
+    ],
+    [
+     "married to",
+     "casado con"
+    ],
+    [
+     "responsible for",
+     "responsable de"
+    ],
+    [
+     "different from",
+     "distinto de"
+    ],
+    [
+     "similar to",
+     "parecido a"
+    ],
+    [
+     "angry with",
+     "enfadado con (persona)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Sustantivo + preposición"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.2,
+    6.4
+   ],
+   "head": [
+    "Combinación",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "a reason for",
+     "There's no reason for this.",
+     "una razón para, un motivo de"
+    ],
+    [
+     "an increase in",
+     "an increase in prices",
+     "un aumento de"
+    ],
+    [
+     "a solution to",
+     "a solution to the problem",
+     "una solución a, para"
+    ],
+    [
+     "an advantage of",
+     "the advantages of city life",
+     "una ventaja de"
+    ],
+    [
+     "a cause of",
+     "the main cause of the accident",
+     "una causa de"
+    ],
+    [
+     "damage to",
+     "damage to the car",
+     "daños en"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. by o until, for o during"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    6.4,
+    7.6
+   ],
+   "head": [
+    "Palabra",
+    "Significado",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "by",
+     "como muy tarde, no más tarde de",
+     "Please reply by Friday."
+    ],
+    [
+     "until / till",
+     "hasta (algo dura hasta ese momento)",
+     "I'll wait until six."
+    ],
+    [
+     "for",
+     "cuánto tiempo (un periodo)",
+     "I lived there for five years."
+    ],
+    [
+     "during",
+     "cuándo (dentro de un periodo)",
+     "I fell asleep during the film."
+    ],
+    [
+     "since",
+     "desde (un punto de partida)",
+     "I've been here since Monday."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "hasta = by o until; durante = for o during",
+   "text": "<i>Entrégalo hasta el viernes</i> es ambiguo. Si es una fecha límite, di <b>by Friday</b>. Si algo dura hasta el viernes, di <b>until Friday</b>: <i>The shop is closed until Friday.</i> Y <i>durante</i> puede ser <b>for</b> (cuánto tiempo: <i>for two hours</i>) o <b>during</b> (en qué momento: <i>during the film</i>), nunca <i>during two hours</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Combinaciones difíciles con in, on y at"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "in",
+    "on",
+    "at"
+   ],
+   "rows": [
+    [
+     "in the photo",
+     "on the bus / train / plane",
+     "at the weekend (Brits)"
+    ],
+    [
+     "in the street",
+     "on the radio / on TV",
+     "at night"
+    ],
+    [
+     "in time (a tiempo, sin llegar tarde)",
+     "on time (puntual, a la hora exacta)",
+     "at the end (al final de algo)"
+    ],
+    [
+     "in the end (al final, por fin)",
+     "on holiday",
+     "at the top / bottom"
+    ],
+    [
+     "in the car / taxi",
+     "on the internet",
+     "at the moment"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "It depends of the weather.",
+     "It depends on the weather.",
+     "depend on."
+    ],
+    [
+     "I am waiting the bus.",
+     "I'm waiting for the bus.",
+     "wait for."
+    ],
+    [
+     "She married with a doctor.",
+     "She married a doctor.",
+     "marry sin preposición."
+    ],
+    [
+     "We discussed about the problem.",
+     "We discussed the problem.",
+     "discuss sin about."
+    ],
+    [
+     "I'm good in maths.",
+     "I'm good at maths.",
+     "good at."
+    ],
+    [
+     "Send it until Monday.",
+     "Send it by Monday.",
+     "Como muy tarde: by."
+    ],
+    [
+     "I slept for the film.",
+     "I slept during the film.",
+     "Dentro de un periodo: during."
+    ],
+    [
+     "She's different than her sister.",
+     "She's different from her sister.",
+     "Británico: different from."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la preposición correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The price depends ______ the size.",
+     "hint": "preposición",
+     "a": "on",
+     "full": "The price depends on the size."
+    },
+    {
+     "q": "She's very interested ______ history.",
+     "hint": "preposición",
+     "a": "in",
+     "full": "She's very interested in history."
+    },
+    {
+     "q": "I'm not very good ______ cooking.",
+     "hint": "preposición",
+     "a": "at",
+     "full": "I'm not very good at cooking."
+    },
+    {
+     "q": "We're waiting ______ the results.",
+     "hint": "preposición",
+     "a": "for",
+     "full": "We're waiting for the results."
+    },
+    {
+     "q": "The team consists ______ eleven players.",
+     "hint": "preposición",
+     "a": "of",
+     "full": "The team consists of eleven players."
+    },
+    {
+     "q": "Please send your application ______ 30 June.",
+     "hint": "como muy tarde",
+     "a": "by",
+     "full": "Please send your application by 30 June."
+    },
+    {
+     "q": "The museum is closed ______ next week.",
+     "hint": "hasta",
+     "a": "until",
+     "full": "The museum is closed until next week."
+    },
+    {
+     "q": "He phoned me ______ the meeting.",
+     "hint": "durante",
+     "a": "during",
+     "full": "He phoned me during the meeting."
+    },
+    {
+     "q": "Is there a solution ______ this problem?",
+     "hint": "preposición",
+     "a": "to",
+     "full": "Is there a solution to this problem?"
+    },
+    {
+     "q": "She's afraid ______ spiders.",
+     "hint": "preposición",
+     "a": "of",
+     "full": "She's afraid of spiders."
+    },
+    {
+     "q": "There has been an increase ______ crime.",
+     "hint": "preposición",
+     "a": "in",
+     "full": "There has been an increase in crime."
+    },
+    {
+     "q": "I heard it ______ the radio.",
+     "hint": "in, on o at",
+     "a": "on",
+     "full": "I heard it on the radio."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Depende del tiempo.",
+     "a": "It depends on the weather."
+    },
+    {
+     "q": "Está casada con un médico.",
+     "a": "She is married to a doctor."
+    },
+    {
+     "q": "Envíalo como muy tarde el viernes.",
+     "a": "Send it by Friday."
+    },
+    {
+     "q": "Discutimos el problema.",
+     "a": "We discussed the problem."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

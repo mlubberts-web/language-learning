@@ -1,0 +1,469 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Vocabulario",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "Los phrasal verbs",
+  "subtitle": "Phrasal verbs separables e inseparables, los de tres partes y los ochenta más útiles",
+  "footer": "Language Learning · B2 · Vocabulario · Phrasal verbs",
+  "next": "Siguiente: B2 · pdf 6 — Las preposiciones y las preposiciones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar la diferencia entre phrasal verbs separables e inseparables",
+    "poner los pronombres en su sitio (<i>pick it up</i>)",
+    "usar phrasal verbs de tres partes (<i>look forward to, get on with</i>)",
+    "reconocer el significado de las partículas más frecuentes"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Separables o inseparables"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.4,
+    6.4
+   ],
+   "head": [
+    "Tipo",
+    "Ejemplo",
+    "Con it / him / them"
+   ],
+   "rows": [
+    [
+     "separable",
+     "Turn off the TV. / Turn the TV off.",
+     "Turn it off. (nunca turn off it)"
+    ],
+    [
+     "inseparable",
+     "I'm looking after my sister.",
+     "I'm looking after her."
+    ],
+    [
+     "sin complemento",
+     "The plane took off.",
+     "—"
+    ],
+    [
+     "de tres partes",
+     "I'm looking forward to the holiday.",
+     "I'm looking forward to it."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un verbo, no dos palabras",
+   "text": "El español no tiene phrasal verbs, así que la tentación es usar un verbo de origen latino: <i>posponer</i> = <i>postpone</i>, <i>cancelar</i> = <i>cancel</i>. Son correctos, pero suenan formales; al hablar los ingleses dicen <b>put off</b> y <b>call off</b>. Y recuerda: un pronombre <b>tiene</b> que ir en medio: <b>Turn it off</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Qué significan las partículas?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    6.0,
+    8.4
+   ],
+   "head": [
+    "Partícula",
+    "Significado",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "up",
+     "del todo, hacia arriba",
+     "eat up, use up, tidy up, give up, grow up"
+    ],
+    [
+     "down",
+     "menos, hacia abajo, por escrito",
+     "slow down, cut down on, write down, turn down"
+    ],
+    [
+     "out",
+     "hacia fuera, del todo, descubrir",
+     "find out, run out, work out, sort out, point out"
+    ],
+    [
+     "off",
+     "fuera, parar, salir",
+     "take off, set off, put off, call off, turn off"
+    ],
+    [
+     "on",
+     "seguir, puesto",
+     "carry on, go on, keep on, put on, get on"
+    ],
+    [
+     "back",
+     "de vuelta",
+     "call back, pay back, come back, get back"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El trabajo y la vida diaria"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El trabajo y los planes",
+   "items": [
+    [
+     "carry out",
+     "llevar a cabo"
+    ],
+    [
+     "set up",
+     "montar, fundar"
+    ],
+    [
+     "call off",
+     "suspender, cancelar"
+    ],
+    [
+     "put off",
+     "aplazar, posponer"
+    ],
+    [
+     "take on",
+     "asumir, contratar"
+    ],
+    [
+     "turn down",
+     "rechazar"
+    ],
+    [
+     "deal with",
+     "ocuparse de, encargarse de"
+    ],
+    [
+     "point out",
+     "señalar"
+    ],
+    [
+     "work out",
+     "calcular, resolver, hacer ejercicio"
+    ],
+    [
+     "sort out",
+     "arreglar, solucionar"
+    ],
+    [
+     "fill in",
+     "rellenar"
+    ],
+    [
+     "hand in",
+     "entregar"
+    ],
+    [
+     "back up",
+     "apoyar, hacer una copia de seguridad"
+    ],
+    [
+     "bring up",
+     "sacar un tema, criar"
+    ],
+    [
+     "come up with",
+     "idear, ocurrírsele a uno"
+    ],
+    [
+     "catch up with",
+     "ponerse al día"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Las personas y las relaciones",
+   "items": [
+    [
+     "get on with",
+     "llevarse bien con"
+    ],
+    [
+     "fall out with",
+     "pelearse con"
+    ],
+    [
+     "make up",
+     "hacer las paces"
+    ],
+    [
+     "break up",
+     "romper, separarse"
+    ],
+    [
+     "look up to",
+     "admirar"
+    ],
+    [
+     "look down on",
+     "despreciar, mirar por encima del hombro"
+    ],
+    [
+     "put up with",
+     "aguantar, soportar"
+    ],
+    [
+     "let down",
+     "decepcionar, fallar"
+    ],
+    [
+     "count on",
+     "contar con"
+    ],
+    [
+     "take after",
+     "parecerse a (un padre o una madre)"
+    ],
+    [
+     "grow up",
+     "crecer, criarse"
+    ],
+    [
+     "settle down",
+     "establecerse, sentar la cabeza"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los problemas y las situaciones",
+   "items": [
+    [
+     "break down",
+     "estropearse, venirse abajo"
+    ],
+    [
+     "run out of",
+     "quedarse sin"
+    ],
+    [
+     "get over",
+     "superar, recuperarse de"
+    ],
+    [
+     "go off",
+     "sonar (una alarma), estropearse (comida)"
+    ],
+    [
+     "turn up",
+     "aparecer, subir (el volumen)"
+    ],
+    [
+     "show up",
+     "presentarse, aparecer"
+    ],
+    [
+     "end up",
+     "acabar (en, haciendo)"
+    ],
+    [
+     "cut down on",
+     "reducir, consumir menos"
+    ],
+    [
+     "give in",
+     "ceder, rendirse"
+    ],
+    [
+     "look into",
+     "investigar"
+    ],
+    [
+     "stand out",
+     "destacar"
+    ],
+    [
+     "take up",
+     "empezar a practicar (una afición)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Un verbo, muchos significados",
+   "text": "<b>take off</b> = despegar, quitarse (ropa) y también tener éxito. <b>pick up</b> = coger, recoger a alguien y aprender un idioma sin estudiarlo. La frase decide el significado: lee siempre la frase entera."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Can you pick up it?",
+     "Can you pick it up?",
+     "Un pronombre va en medio."
+    ],
+    [
+     "I'm looking forward to see you.",
+     "I'm looking forward to seeing you.",
+     "to es una preposición: -ing."
+    ],
+    [
+     "They called the meeting out.",
+     "They called the meeting off.",
+     "Suspender un evento: call off."
+    ],
+    [
+     "I can't put up her behaviour.",
+     "I can't put up with her behaviour.",
+     "Aguantar: put up with."
+    ],
+    [
+     "We run out milk.",
+     "We've run out of milk.",
+     "run out of + sustantivo."
+    ],
+    [
+     "He took after the job.",
+     "He took on the job.",
+     "Asumir algo: take on."
+    ],
+    [
+     "I get on well her.",
+     "I get on well with her.",
+     "get on with + persona."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la partícula que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "The match was called ______ because of the rain.",
+     "hint": "suspendido",
+     "a": "off",
+     "full": "The match was called off because of the rain."
+    },
+    {
+     "q": "I can't come ______ with a good idea.",
+     "hint": "ocurrírsele a uno",
+     "a": "up",
+     "full": "I can't come up with a good idea."
+    },
+    {
+     "q": "She takes ______ her father. They're both very calm.",
+     "hint": "parecerse a",
+     "a": "after",
+     "full": "She takes after her father. They're both very calm."
+    },
+    {
+     "q": "We've run out ______ coffee.",
+     "hint": "preposición",
+     "a": "of",
+     "full": "We've run out of coffee."
+    },
+    {
+     "q": "It took him months to get ______ the flu.",
+     "hint": "recuperarse de",
+     "a": "over",
+     "full": "It took him months to get over the flu."
+    },
+    {
+     "q": "I don't know the answer. I'll look ______ it.",
+     "hint": "investigar",
+     "a": "into",
+     "full": "I don't know the answer. I'll look into it."
+    },
+    {
+     "q": "Don't put ______ until tomorrow what you can do today.",
+     "hint": "dejar para luego",
+     "a": "off",
+     "full": "Don't put off until tomorrow what you can do today."
+    },
+    {
+     "q": "She turned ______ the job because the salary was too low.",
+     "hint": "rechazar",
+     "a": "down",
+     "full": "She turned down the job because the salary was too low."
+    },
+    {
+     "q": "How do you put up ______ that noise?",
+     "hint": "aguantar",
+     "a": "with",
+     "full": "How do you put up with that noise?"
+    },
+    {
+     "q": "My car broke ______ on the motorway.",
+     "hint": "averiarse",
+     "a": "down",
+     "full": "My car broke down on the motorway."
+    },
+    {
+     "q": "You should cut down ______ sugar.",
+     "hint": "reducir",
+     "a": "on",
+     "full": "You should cut down on sugar."
+    },
+    {
+     "q": "We ended ______ staying at a small hotel.",
+     "hint": "acabar",
+     "a": "up",
+     "full": "We ended up staying at a small hotel."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Puedes cogerlo?",
+     "a": "Can you pick it up?"
+    },
+    {
+     "q": "Han suspendido la reunión.",
+     "a": "The meeting has been called off."
+    },
+    {
+     "q": "Me llevo bien con mi jefe.",
+     "a": "I get on well with my boss."
+    },
+    {
+     "q": "Él no se presentó.",
+     "a": "He didn't turn up."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
