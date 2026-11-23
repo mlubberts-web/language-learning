@@ -405,5 +405,16 @@
   "subtitle": "u and jij, formal and informal e-mails, fixed phrases, and the Staatsexamen writing tasks",
   "content": "b2_08_register_writing.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_09_The_Netherlands_and_Flanders",
+  "file": "B2_09_The_Netherlands_and_Flanders.pdf",
+  "level": "B2",
+  "number": 9,
+  "section": "Culture",
+  "title": "The Netherlands and Flanders",
+  "subtitle": "Dutch in the Netherlands and in Belgium: words, pronunciation, ge and gij, and politeness",
+  "content": "b2_09_netherlands_flanders.json",
+  "exercise_count": 10
  }
 ]
