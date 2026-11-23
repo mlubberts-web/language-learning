@@ -1,0 +1,93 @@
+{"meta": {"level": "A1", "section": "Grammatica", "number": 6, "total_in_level": 9,
+ "title": "Voornaamwoorden en bezit",
+ "subtitle": "I en me, my en mine, de 's van bezit, en whose",
+ "footer": "Language Learning · A1 · Grammatica · Voornaamwoorden en bezit",
+ "next": "Volgende: A1 · pdf 7 — De present continuous"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "kiezen tussen onderwerpsvormen (I, he) en voorwerpsvormen (me, him)",
+  "bezit uitdrukken met my, your, his ... en met mine, yours, his ...",
+  "de <b>'s</b> gebruiken: <i>Anna's bike</i>",
+  "vragen <b>whose</b> (van wie)"]},
+
+ {"type": "h1", "text": "1. Het overzicht"},
+ {"type": "table", "style": "plain", "widths": [3.4, 3.4, 3.4, 3.4, 3.4], "head": ["Onderwerp", "Voorwerp", "Bezittelijk + naamwoord", "Bezittelijk zonder naamwoord", "Nederlands"], "rows": [
+  ["I", "me", "my", "mine", "ik / mij / mijn"],
+  ["you", "you", "your", "yours", "jij, u / jou, u / jouw, uw"],
+  ["he", "him", "his", "his", "hij / hem / zijn"],
+  ["she", "her", "her", "hers", "zij / haar / haar"],
+  ["it", "it", "its", "—", "het / het / zijn, haar"],
+  ["we", "us", "our", "ours", "wij / ons / ons, onze"],
+  ["you", "you", "your", "yours", "jullie / jullie / jullie"],
+  ["they", "them", "their", "theirs", "zij / hen, hun / hun"]]},
+ {"type": "callout", "kind": "dutch", "title": "Geen 'ons' en 'onze', geen 'u' en 'jij'", "text": "Het Engels heeft maar één vorm waar het Nederlands er twee heeft: <b>our</b> = ons én onze, <b>your</b> = jouw, uw én jullie. <b>his</b> en <b>her</b> hangen af van de <i>bezitter</i>: <i>Anna and her brother</i>, <i>Tom and his sister</i>."},
+
+ {"type": "h1", "text": "2. Onderwerp of voorwerp?"},
+ {"type": "p", "text": "Het onderwerp doet iets: <b>She</b> calls <b>me</b>. Na een werkwoord en na een voorzetsel (with, for, to, about ...) gebruik je de voorwerpsvorm: <i>Call <b>him</b>. Come with <b>us</b>. This is for <b>them</b>.</i>"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Fout", "Goed", "Waarom"], "rows": [
+  ["Me and Tom are friends.", "Tom and I are friends.", "onderwerp: I; beleefd: de ander eerst"],
+  ["Between you and I.", "Between you and me.", "na een voorzetsel: me"],
+  ["Him is my brother.", "He is my brother.", "onderwerp: he"]]},
+ {"type": "callout", "kind": "tip", "title": "It's me.", "text": "Na <b>be</b> gebruik je in gewone spreektaal de voorwerpsvorm: <i>Who's there? — It's me.</i> (Ik ben het.)"},
+ {"type": "callout", "kind": "warn", "title": "it voor dingen en dieren", "text": "Voor een ding gebruik je altijd <b>it</b>, ook als het in het Nederlands 'hij' of 'die' is: <i>Waar is mijn sleutel? Hij ligt op tafel.</i> = <b>Where's my key? It's on the table.</b> Een huisdier mag he of she zijn."},
+
+ {"type": "h1", "text": "3. my of mine?"},
+ {"type": "p", "text": "<b>my, your, his ...</b> staan vóór een zelfstandig naamwoord: <i>my bike</i>. <b>mine, yours, his ...</b> staan op zichzelf: <i>This bike is <b>mine</b>.</i> (Deze fiets is van mij.)"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Met naamwoord", "Zonder naamwoord", "Nederlands"], "rows": [
+  ["It's my book.", "It's mine.", "Het is van mij."],
+  ["Is this your coat?", "Is this yours?", "Is deze van jou?"],
+  ["That's her phone.", "That's hers.", "Die is van haar."],
+  ["It's our house.", "It's ours.", "Het is van ons."],
+  ["They're their keys.", "They're theirs.", "Ze zijn van hen."]]},
+ {"type": "callout", "kind": "tip", "title": "its of it's?", "text": "<b>its</b> = zijn / haar (van een ding of dier): <i>The dog wants its food.</i> <b>it's</b> = it is: <i>It's cold.</i> Bezittelijke voornaamwoorden hebben nooit een apostrof: yours, hers, ours, theirs."},
+
+ {"type": "h1", "text": "4. De 's van bezit"},
+ {"type": "table", "style": "plain", "widths": [5.4, 5.6, 6.0], "head": ["Regel", "Voorbeeld", "Nederlands"], "rows": [
+  ["persoon + 's", "Anna's bike", "de fiets van Anna, Anna's fiets"],
+  ["meervoud op -s: alleen '", "my parents' house", "het huis van mijn ouders"],
+  ["onregelmatig meervoud + 's", "the children's toys", "het speelgoed van de kinderen"],
+  ["dingen: meestal of", "the end of the film", "het einde van de film"],
+  ["bij iemand thuis", "at Tom's", "bij Tom (thuis)"]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlands 'van', Engels 's", "text": "Het Nederlands zegt bij mensen meestal <i>de auto van mijn vader</i>. Het Engels zegt bijna altijd <b>my father's car</b>; <i>the car of my father</i> klinkt onnatuurlijk."},
+
+ {"type": "h1", "text": "5. whose"},
+ {"type": "p", "text": "<b>Whose</b> (van wie) vraagt naar de bezitter: <i>Whose bag is this? — It's Lisa's.</i> Let op: <b>whose</b> klinkt hetzelfde als <b>who's</b> (= who is)."},
+ {"type": "verbpairs", "title": "Handige zinnen", "items": [
+  ["Whose is this?", "Van wie is dit?"], ["It's mine.", "Het is van mij."], ["Is this yours?", "Is dit van jou?"],
+  ["a friend of mine", "een vriend van me"], ["on my own", "in mijn eentje"], ["Help yourself.", "Pak maar."]]},
+
+ {"type": "h1", "text": "6. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Where is my key? He is on the table.", "Where is my key? It is on the table.", "Voor een ding gebruik je it."],
+  ["Me and my sister live in Delft.", "My sister and I live in Delft.", "Onderwerp: I, en de ander eerst."],
+  ["Can you help I?", "Can you help me?", "Na een werkwoord: me."],
+  ["This bag is my.", "This bag is mine.", "Zonder naamwoord: mine."],
+  ["Anna and his brother", "Anna and her brother", "her hoort bij een vrouwelijke bezitter."],
+  ["the car of my father", "my father's car", "Bij personen: 's."],
+  ["The dog wants it's food.", "The dog wants its food.", "its zonder apostrof is bezittelijk."],
+  ["Is this your's?", "Is this yours?", "yours heeft geen apostrof."]]},
+
+ {"type": "h1", "text": "7. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste voornaamwoord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Can you call ______ tomorrow?", "hint": "mij", "a": "me", "full": "Can you call me tomorrow?"},
+  {"q": "Tom lives with ______ parents.", "hint": "zijn", "a": "his", "full": "Tom lives with his parents."},
+  {"q": "Lisa and ______ husband are teachers.", "hint": "haar", "a": "her", "full": "Lisa and her husband are teachers."},
+  {"q": "This coffee is for ______.", "hint": "hen", "a": "them", "full": "This coffee is for them."},
+  {"q": "Is this bag ______?", "hint": "van jou", "a": "yours", "full": "Is this bag yours?"},
+  {"q": "That house is ______.", "hint": "van ons", "a": "ours", "full": "That house is ours."},
+  {"q": "Where's my phone? ______ is in your bag.", "hint": "hij (een ding)", "a": "It", "full": "Where's my phone? It is in your bag."},
+  {"q": "______ bike is this?", "hint": "van wie", "a": "Whose", "full": "Whose bike is this?"},
+  {"q": "This is my ______ car.", "hint": "van mijn broer: brother", "a": "brother's", "full": "This is my brother's car."},
+  {"q": "The cat is eating ______ food.", "hint": "zijn (een dier)", "a": "its", "full": "The cat is eating its food."},
+  {"q": "We love ______ new flat.", "hint": "ons", "a": "our", "full": "We love our new flat."},
+  {"q": "My sister and ______ are twins.", "hint": "ik", "a": "I", "full": "My sister and I are twins."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Deze jas is van mij.", "a": "This coat is mine."},
+  {"q": "De auto van mijn vader is nieuw.", "a": "My father's car is new."},
+  {"q": "Van wie is deze tas?", "a": "Whose bag is this?"},
+  {"q": "Kun je hem helpen?", "a": "Can you help him?"}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

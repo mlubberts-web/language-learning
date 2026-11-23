@@ -42,5 +42,38 @@
   "subtitle": "Bezit, beschrijven wat er is, en zeggen wat je kunt of mag",
   "content": "a1_04_have_got_there_is_can.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_05_Zelfstandige_naamwoorden_lidwoorden_en_bijvoeglijke_naamwoorden",
+  "file": "A1_05_Zelfstandige_naamwoorden_lidwoorden_en_bijvoeglijke_naamwoorden.pdf",
+  "level": "A1",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Zelfstandige naamwoorden, lidwoorden en bijvoeglijke naamwoorden",
+  "subtitle": "Meervoud, a / an / the, de plaats van het bijvoeglijk naamwoord, en this, that, these en those",
+  "content": "a1_05_nouns_articles_adjectives.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_06_Voornaamwoorden_en_bezit",
+  "file": "A1_06_Voornaamwoorden_en_bezit.pdf",
+  "level": "A1",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "Voornaamwoorden en bezit",
+  "subtitle": "I en me, my en mine, de 's van bezit, en whose",
+  "content": "a1_06_pronouns_possessives.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_07_De_present_continuous",
+  "file": "A1_07_De_present_continuous.pdf",
+  "level": "A1",
+  "number": 7,
+  "section": "Werkwoorden",
+  "title": "De present continuous",
+  "subtitle": "am / is / are + -ing: wat er nu gebeurt, tijdelijke situaties en het verschil met de present simple",
+  "content": "a1_07_present_continuous.json",
+  "exercise_count": 12
  }
 ]

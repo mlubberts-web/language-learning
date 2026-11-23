@@ -1,0 +1,82 @@
+{"meta": {"level": "A1", "section": "Werkwoorden", "number": 7, "total_in_level": 9,
+ "title": "De present continuous",
+ "subtitle": "am / is / are + -ing: wat er nu gebeurt, tijdelijke situaties en het verschil met de present simple",
+ "footer": "Language Learning · A1 · Werkwoorden · Present continuous",
+ "next": "Volgende: A1 · pdf 8 — Woordvolgorde en vragen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de present continuous vormen met <b>am / is / are + -ing</b>",
+  "de -ing-vorm goed spellen",
+  "zeggen wat er nu gebeurt en wat tijdelijk is",
+  "kiezen tussen de present simple en de present continuous"]},
+
+ {"type": "h1", "text": "1. De vorm"},
+ {"type": "p", "text": "De present continuous maak je met de vorm van <b>to be</b> plus het werkwoord met <b>-ing</b>. Het Nederlands heeft iets vergelijkbaars: <i>ik ben aan het werken</i>. Maar het Engels gebruikt deze vorm veel vaker."},
+ {"type": "conj", "verb": "to work", "meaning": "werken", "label": "regelmatig werkwoord", "tense": "present continuous",
+  "forms": ["am work*ing*", "are work*ing*", "is work*ing*", "are work*ing*", "are work*ing*", "are work*ing*"],
+  "examples": [["I'm working now.", "Ik ben nu aan het werken."], ["You're working too hard.", "Je werkt te hard."], ["She's working from home today.", "Zij werkt vandaag thuis."], ["We're working on a new project.", "We werken aan een nieuw project."], ["You're working late tonight.", "Jullie werken vanavond lang door."], ["They're working in the garden.", "Zij zijn in de tuin aan het werk."]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Bevestigend", "Ontkenning", "Vraag"], "rows": [
+  ["I'm reading.", "I'm not reading.", "Am I reading?"],
+  ["You're sleeping.", "You aren't sleeping.", "Are you sleeping?"],
+  ["He's cooking.", "He isn't cooking.", "Is he cooking?"],
+  ["They're waiting.", "They aren't waiting.", "Are they waiting?"]]},
+ {"type": "table", "style": "plain", "widths": [6.0, 5.4, 5.6], "head": ["Spellingregel voor -ing", "Voorbeelden", "Opmerking"], "rows": [
+  ["meestal + ing", "read → reading, go → going", ""],
+  ["stomme -e valt weg", "make → making, write → writing", "maar see → seeing"],
+  ["korte klinker + één medeklinker: dubbel", "sit → sitting, run → running, swim → swimming", "beklemtoonde laatste lettergreep"],
+  ["-ie wordt -y", "lie → lying, die → dying", ""]]},
+
+ {"type": "h1", "text": "2. Wanneer gebruik je hem?"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Gebruik", "Voorbeeld", "Nederlands"], "rows": [
+  ["Nu, op dit moment", "Look! It's raining.", "Kijk! Het regent."],
+  ["In deze periode (tijdelijk)", "I'm staying with a friend this week.", "Ik logeer deze week bij een vriend."],
+  ["Veranderingen", "The weather is getting better.", "Het weer wordt beter."],
+  ["Afspraken in de toekomst", "I'm meeting Tom tomorrow.", "Ik zie Tom morgen."]]},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlands gebruikt één vorm, het Engels twee", "text": "<i>Wat doe je?</i> kan in het Engels twee dingen zijn: <b>What do you do?</b> (wat is je beroep?) en <b>What are you doing?</b> (waar ben je nu mee bezig?). Gebruik de -ing-vorm voor alles wat nu of tijdelijk aan de gang is."},
+
+ {"type": "h1", "text": "3. Simple of continuous?"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Present simple", "Present continuous", "Verschil"], "rows": [
+  ["I work in Utrecht.", "I'm working in Utrecht this month.", "altijd / tijdelijk"],
+  ["She drinks tea.", "She's drinking tea.", "gewoonte / nu"],
+  ["It rains a lot here.", "It's raining.", "algemeen / op dit moment"],
+  ["What do you do?", "What are you doing?", "beroep / bezigheid nu"]]},
+ {"type": "verbpairs", "title": "Woorden die bij de continuous horen", "items": [
+  ["now", "nu"], ["right now", "op dit moment"], ["at the moment", "op het moment"],
+  ["today", "vandaag"], ["this week", "deze week"], ["at present", "momenteel"], ["Look!", "Kijk!"], ["Listen!", "Luister!"]]},
+ {"type": "callout", "kind": "warn", "title": "Werkwoorden zonder -ing", "text": "Werkwoorden die een toestand uitdrukken, krijgen bijna nooit -ing: <b>know, like, love, want, need, understand, believe, own</b>. Dus <i>I <b>know</b> him</i>, niet <i>I'm knowing him</i>; <i>I <b>want</b> a coffee</i>, niet <i>I'm wanting</i>."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I working now.", "I am working now.", "Je hebt am / is / are nodig."],
+  ["She is work.", "She is working.", "Na is komt de -ing-vorm."],
+  ["Look, it rains!", "Look, it's raining!", "Wat nu gebeurt: continuous."],
+  ["I'm knowing the answer.", "I know the answer.", "know krijgt geen -ing."],
+  ["He is siting there.", "He is sitting there.", "Korte klinker: de t verdubbelt."],
+  ["They are writeing.", "They are writing.", "De stomme -e valt weg."],
+  ["What do you do now?", "What are you doing now?", "Bezigheid op dit moment: continuous."],
+  ["I'm wanting a coffee.", "I want a coffee.", "want krijgt geen -ing."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de present simple of de present continuous in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Be quiet! The baby ______.", "hint": "sleep", "a": "is sleeping", "full": "Be quiet! The baby is sleeping."},
+  {"q": "I ______ a book at the moment.", "hint": "read", "a": "am reading", "full": "I am reading a book at the moment."},
+  {"q": "She ______ in a hospital.", "hint": "work, haar beroep", "a": "works", "full": "She works in a hospital."},
+  {"q": "Look! It ______.", "hint": "snow", "a": "is snowing", "full": "Look! It is snowing."},
+  {"q": "______ you listening to me?", "hint": "to be", "a": "Are", "full": "Are you listening to me?"},
+  {"q": "We ______ TV now. We're cooking.", "hint": "watch, ontkenning", "a": "aren't watching", "full": "We aren't watching TV now. We're cooking."},
+  {"q": "He usually ______ to work.", "hint": "walk", "a": "walks", "full": "He usually walks to work."},
+  {"q": "They ______ in the pool right now.", "hint": "swim", "a": "are swimming", "full": "They are swimming in the pool right now."},
+  {"q": "I ______ what you mean.", "hint": "understand", "a": "understand", "full": "I understand what you mean."},
+  {"q": "What ______ you doing?", "hint": "to be", "a": "are", "full": "What are you doing?"},
+  {"q": "My sister ______ with us this week.", "hint": "stay", "a": "is staying", "full": "My sister is staying with us this week."},
+  {"q": "She ______ a letter.", "hint": "write, nu", "a": "is writing", "full": "She is writing a letter."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Het regent.", "a": "It's raining."},
+  {"q": "Wat ben je aan het doen?", "a": "What are you doing?"},
+  {"q": "Ik logeer deze week bij een vriend.", "a": "I'm staying with a friend this week."},
+  {"q": "Hij werkt in een ziekenhuis.", "a": "He works in a hospital."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

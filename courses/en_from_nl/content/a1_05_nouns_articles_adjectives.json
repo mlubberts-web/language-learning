@@ -1,0 +1,91 @@
+{"meta": {"level": "A1", "section": "Grammatica", "number": 5, "total_in_level": 9,
+ "title": "Zelfstandige naamwoorden, lidwoorden en bijvoeglijke naamwoorden",
+ "subtitle": "Meervoud, a / an / the, de plaats van het bijvoeglijk naamwoord, en this, that, these en those",
+ "footer": "Language Learning · A1 · Grammatica · Naamwoorden en lidwoorden",
+ "next": "Volgende: A1 · pdf 6 — Voornaamwoorden en bezit"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het meervoud van zelfstandige naamwoorden maken, ook de onregelmatige",
+  "kiezen tussen <b>a</b>, <b>an</b>, <b>the</b> en geen lidwoord",
+  "bijvoeglijke naamwoorden goed gebruiken (ze veranderen nooit)",
+  "<b>this, that, these</b> en <b>those</b> gebruiken"]},
+
+ {"type": "h1", "text": "1. Het meervoud"},
+ {"type": "table", "style": "plain", "widths": [5.4, 5.6, 6.0], "head": ["Regel", "Voorbeelden", "Opmerking"], "rows": [
+  ["meestal + s", "book → books, car → cars", ""],
+  ["na s, ss, sh, ch, x: + es", "bus → buses, glass → glasses, box → boxes", "een extra lettergreep: box-es"],
+  ["medeklinker + y: -ies", "city → cities, baby → babies", "maar day → days, boy → boys"],
+  ["-f / -fe: -ves", "knife → knives, wife → wives, leaf → leaves", "maar roof → roofs"],
+  ["sommige op -o: + es", "potato → potatoes, tomato → tomatoes", "maar photo → photos, piano → pianos"]]},
+ {"type": "verbpairs", "title": "Onregelmatig meervoud", "items": [
+  ["man / men", "man / mannen"], ["woman / women", "vrouw / vrouwen"], ["child / children", "kind / kinderen"],
+  ["person / people", "persoon / mensen"], ["foot / feet", "voet / voeten"], ["tooth / teeth", "tand / tanden"],
+  ["mouse / mice", "muis / muizen"], ["sheep / sheep", "schaap / schapen"], ["fish / fish", "vis / vissen"]]},
+ {"type": "callout", "kind": "warn", "title": "people is meervoud", "text": "<b>people</b> (mensen) is meervoud: <i>People <b>are</b> friendly here.</i> Ook <b>police</b> en <b>clothes</b> zijn meervoud: <i>The police are here. My clothes are wet.</i> Maar <b>news</b> is enkelvoud: <i>The news <b>is</b> good.</i>"},
+
+ {"type": "h1", "text": "2. a, an en the"},
+ {"type": "p", "text": "Het Engels heeft geen de en het, geen geslacht. Er is maar één bepaald lidwoord, <b>the</b>, en één onbepaald lidwoord: <b>a</b>, of <b>an</b> voor een klinker<i>klank</i>."},
+ {"type": "table", "style": "plain", "widths": [3.8, 6.6, 6.6], "head": ["Lidwoord", "Wanneer", "Voorbeelden"], "rows": [
+  ["a", "voor een medeklinkerklank", "a book, a car, a university (joe-klank), a European city"],
+  ["an", "voor een klinkerklank", "an apple, an egg, an hour (stomme h), an umbrella"],
+  ["the", "iets bekends of het enige dat er is", "the sun, the station, the book on the table"],
+  ["geen lidwoord", "algemeen, meervoud of ontelbaar", "I like dogs. Milk is healthy."]]},
+ {"type": "callout", "kind": "tip", "title": "Het gaat om de klank, niet om de letter", "text": "<b>a</b> university (je zegt joe-niversity) maar <b>an</b> umbrella; <b>an</b> hour (de h is stom) maar <b>a</b> house. Luister naar het begin van het woord."},
+ {"type": "callout", "kind": "dutch", "title": "Waar Nederlanders een lidwoord vergeten of te veel gebruiken", "bullets": [
+  "<b>Beroep</b>: <i>Ik ben arts</i> = <b>I'm a doctor</b> (met a).",
+  "<b>Algemeen</b>: <i>Het leven is mooi</i> = <b>Life is beautiful</b> (zonder the).",
+  "<b>Maaltijden en vakken</b>: <i>na het ontbijt, ik studeer wiskunde</i> = <b>after breakfast</b>, <b>I study maths</b>.",
+  "<b>Plekken</b>: <i>naar school, naar bed, naar huis</i> = <b>to school, to bed, home</b>."]},
+
+ {"type": "h1", "text": "3. Bijvoeglijke naamwoorden"},
+ {"type": "p", "text": "Een bijvoeglijk naamwoord staat <b>vóór</b> het zelfstandig naamwoord, net als in het Nederlands. Het verandert <b>nooit</b>: geen -e, geen meervoud. <i>a big house, big houses, the big house.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Geen -e erachter", "text": "Het Nederlands zegt <i>een grote stad, het grote huis</i>. Het Engels zegt altijd <b>big</b>: <i>a big city, the big house, big cities</i>. Ook geen -s in het meervoud: <i>red cars</i>, nooit <i>reds cars</i>."},
+ {"type": "verbpairs", "title": "Veelgebruikte bijvoeglijke naamwoorden", "items": [
+  ["big", "groot"], ["small", "klein"], ["old", "oud"], ["new", "nieuw"], ["young", "jong"],
+  ["good", "goed"], ["bad", "slecht"], ["cheap", "goedkoop"], ["expensive", "duur"],
+  ["beautiful", "mooi"], ["ugly", "lelijk"], ["easy", "makkelijk"], ["difficult", "moeilijk"],
+  ["hot", "heet, warm"], ["cold", "koud"], ["tall", "lang (persoon)"], ["long", "lang (ding)"], ["short", "kort, klein"]]},
+ {"type": "callout", "kind": "warn", "title": "tall of long?", "text": "Voor mensen en gebouwen gebruik je <b>tall</b>: <i>He's very tall. A tall building.</i> Voor afstanden, tijd en dingen <b>long</b>: <i>a long road, a long film</i>. Het Nederlandse 'lang' zijn er dus twee."},
+
+ {"type": "h1", "text": "4. this, that, these, those"},
+ {"type": "table", "style": "plain", "widths": [4.0, 4.0, 4.0, 5.0], "head": ["", "Enkelvoud", "Meervoud", "Nederlands"], "rows": [
+  ["dichtbij", "this", "these", "dit / deze"],
+  ["veraf", "that", "those", "dat / die"]]},
+ {"type": "p", "text": "<i>This is my brother.</i> — Dit is mijn broer.<br/><i>These shoes are new.</i> — Deze schoenen zijn nieuw.<br/><i>Is that your car?</i> — Is dat jouw auto?<br/><i>Those people are from Spain.</i> — Die mensen komen uit Spanje."},
+ {"type": "callout", "kind": "dutch", "title": "Dit zijn ... = These are ...", "text": "Het Nederlands zegt <i>Dit zijn mijn kinderen</i> met 'dit'. In het Engels past het woord zich aan het meervoud aan: <b>These are my children</b>, niet <i>This are</i>."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I have two childs.", "I have two children.", "child heeft een onregelmatig meervoud."],
+  ["The people is nice.", "The people are nice.", "people is meervoud."],
+  ["She is nurse.", "She is a nurse.", "Een beroep krijgt a of an."],
+  ["an university", "a university", "university begint met een joe-klank: a."],
+  ["The life is short.", "Life is short.", "Iets algemeens krijgt geen the."],
+  ["a bigge house", "a big house", "Een bijvoeglijk naamwoord krijgt nooit een -e."],
+  ["This are my keys.", "These are my keys.", "Meervoud: these."],
+  ["He is very long.", "He is very tall.", "Voor een persoon zeg je tall."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "I've got three ______.", "hint": "child, meervoud", "a": "children", "full": "I've got three children."},
+  {"q": "There are two ______ in the kitchen.", "hint": "knife, meervoud", "a": "knives", "full": "There are two knives in the kitchen."},
+  {"q": "We visited three ______.", "hint": "city, meervoud", "a": "cities", "full": "We visited three cities."},
+  {"q": "She eats ______ apple every day.", "hint": "a of an", "a": "an", "full": "She eats an apple every day."},
+  {"q": "He works at ______ university.", "hint": "a of an", "a": "a", "full": "He works at a university."},
+  {"q": "Can you close ______ door, please?", "hint": "lidwoord", "a": "the", "full": "Can you close the door, please?"},
+  {"q": "My father is ______ engineer.", "hint": "a of an", "a": "an", "full": "My father is an engineer."},
+  {"q": "______ are my parents.", "hint": "dit zijn", "a": "These", "full": "These are my parents."},
+  {"q": "Look at ______ birds over there.", "hint": "die, veraf", "a": "those", "full": "Look at those birds over there."},
+  {"q": "The ______ are very friendly here.", "hint": "person, meervoud", "a": "people", "full": "The people are very friendly here."},
+  {"q": "My brother is very ______.", "hint": "lang (persoon)", "a": "tall", "full": "My brother is very tall."},
+  {"q": "It's a very ______ car.", "hint": "duur", "a": "expensive", "full": "It's a very expensive car."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Mijn moeder is lerares.", "a": "My mother is a teacher."},
+  {"q": "Deze schoenen zijn nieuw.", "a": "These shoes are new."},
+  {"q": "Het leven is mooi.", "a": "Life is beautiful."},
+  {"q": "Ik heb twee kinderen.", "a": "I have two children."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
