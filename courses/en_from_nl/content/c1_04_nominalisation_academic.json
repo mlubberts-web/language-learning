@@ -30,11 +30,11 @@
  {"type": "callout", "kind": "dutch", "title": "Nederlands 'men' en 'je'", "text": "Het Nederlandse <i>men</i> of <i>je</i> (<i>Je ziet dat ...</i>) werkt niet in een Engels academisch stuk. Gebruik de lijdende vorm of <b>it</b>-constructies: <b>It is clear that ...</b>, <b>As can be seen ...</b>"},
 
  {"type": "h1", "text": "3. Formele woordkeus"},
- {"type": "verbpairs", "title": "Informeel → formeel", "items": [
-  ["get → obtain", "verkrijgen"], ["show → demonstrate", "aantonen"], ["find out → discover", "ontdekken"],
-  ["go up → increase", "stijgen"], ["go down → decrease", "dalen"], ["look into → investigate", "onderzoeken"],
-  ["help → assist", "assisteren"], ["need → require", "vereisen"], ["start → commence", "aanvangen"],
-  ["try → attempt", "pogen"], ["a lot of → a considerable amount of", "een aanzienlijke hoeveelheid"], ["about → approximately", "ongeveer"]]},
+ {"type": "verbpairs", "title": "Formele woorden (tussen haakjes het informele woord)", "items": [
+  ["obtain", "verkrijgen (get)"], ["demonstrate", "aantonen (show)"], ["discover", "ontdekken (find out)"],
+  ["increase", "stijgen (go up)"], ["decrease", "dalen (go down)"], ["investigate", "onderzoeken (look into)"],
+  ["assist", "assisteren, helpen (help)"], ["require", "vereisen (need)"], ["commence", "aanvangen (start)"],
+  ["attempt", "pogen (try)"], ["a considerable amount of", "een aanzienlijke hoeveelheid (a lot of)"], ["approximately", "ongeveer (about)"]]},
  {"type": "callout", "kind": "warn", "title": "Niet overdrijven", "text": "Een tekst vol zware zelfstandige naamwoorden is moeilijk te lezen. Goed academisch Engels mengt de stijlen: nominaliseer wat belangrijk is, en houd zinnen helder. Vermijd ook in formele teksten korte vormen (it's, don't) en uitroeptekens."},
 
  {"type": "h1", "text": "4. Veelgemaakte fouten"},
