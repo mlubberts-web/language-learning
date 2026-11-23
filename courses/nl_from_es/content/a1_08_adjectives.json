@@ -1,0 +1,436 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 8,
+  "total_in_level": 9,
+  "title": "Los adjetivos",
+  "subtitle": "Cuándo lleva -e un adjetivo, los cambios de ortografía y lo básico de la comparación",
+  "footer": "Language Learning · A1 · Gramática · Los adjetivos",
+  "next": "Siguiente: A1 · pdf 9 — Vocabulario y expresiones"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decidir cuándo lleva <b>-e</b> un adjetivo: <i>een groot huis, het grote huis</i>",
+    "escribir el adjetivo con -e (<i>dik → dikke, lief → lieve</i>)",
+    "comparar con <b>-er ... dan</b> y <b>het -st</b>",
+    "usar los adjetivos más frecuentes"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿Con -e o sin -e?"
+  },
+  {
+   "type": "p",
+   "text": "Primero, el orden: en neerlandés el adjetivo va <b>delante</b> del sustantivo, al revés que en español: <i>una casa grande</i> = <b>een groot huis</b>. Detrás del verbo (<i>Het huis is groot</i>) el adjetivo nunca cambia. Delante de un sustantivo suele llevar <b>-e</b>: <i>de grote stad, de grote huizen</i>. Hay una excepción: <b>sin -e</b> con una <b>palabra het</b> en singular después de <b>een</b>, <b>geen</b> o sin artículo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.2,
+    6.2
+   ],
+   "head": [
+    "",
+    "palabra de",
+    "palabra het"
+   ],
+   "rows": [
+    [
+     "tras de / het / deze / dit / mijn",
+     "de grote stad",
+     "het grote huis"
+    ],
+    [
+     "tras een / geen",
+     "een grote stad",
+     "een groot huis"
+    ],
+    [
+     "sin artículo",
+     "grote steden",
+     "lekker brood"
+    ],
+    [
+     "plural (siempre -e)",
+     "de grote steden",
+     "de grote huizen"
+    ],
+    [
+     "tras el verbo (nunca -e)",
+     "De stad is groot.",
+     "Het huis is groot."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Solo una casilla va sin -e",
+   "text": "Recuerda la excepción, no la regla: <b>een + palabra het</b> (y una palabra het sin artículo) → sin -e: <i>een <b>klein</b> kind, een <b>mooi</b> huis, <b>koud</b> water</i>. En todos los demás casos, delante de un sustantivo: -e. La concordancia española (masculino, femenino, plural) no sirve aquí: lo que cuenta es el artículo."
+  },
+  {
+   "type": "h1",
+   "text": "2. La ortografía con -e"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.2,
+    6.4
+   ],
+   "head": [
+    "Regla",
+    "Ejemplo",
+    "Más ejemplos"
+   ],
+   "rows": [
+    [
+     "vocal larga: una letra",
+     "groot → grote",
+     "laag → lage, duur → dure"
+    ],
+    [
+     "vocal corta: consonante doble",
+     "dik → dikke",
+     "wit → witte, snel → snelle"
+    ],
+    [
+     "la f se convierte en v",
+     "lief → lieve",
+     "doof → dove"
+    ],
+    [
+     "la s se convierte en z",
+     "grijs → grijze",
+     "boos → boze, pero: vies → vieze"
+    ],
+    [
+     "sin -e: adjetivos en -en",
+     "open, gesloten",
+     "de open deur, de gouden ring"
+    ],
+    [
+     "sin -e: materiales en -en",
+     "houten, wollen",
+     "de houten tafel"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivos frecuentes",
+   "items": [
+    [
+     "groot",
+     "grande"
+    ],
+    [
+     "klein",
+     "pequeño"
+    ],
+    [
+     "oud",
+     "viejo"
+    ],
+    [
+     "nieuw",
+     "nuevo"
+    ],
+    [
+     "jong",
+     "joven"
+    ],
+    [
+     "goed",
+     "bueno"
+    ],
+    [
+     "slecht",
+     "malo"
+    ],
+    [
+     "goedkoop",
+     "barato"
+    ],
+    [
+     "duur",
+     "caro"
+    ],
+    [
+     "mooi",
+     "bonito"
+    ],
+    [
+     "lelijk",
+     "feo"
+    ],
+    [
+     "makkelijk",
+     "fácil"
+    ],
+    [
+     "moeilijk",
+     "difícil"
+    ],
+    [
+     "warm",
+     "caliente, cálido"
+    ],
+    [
+     "koud",
+     "frío"
+    ],
+    [
+     "lang",
+     "largo, alto (persona)"
+    ],
+    [
+     "kort",
+     "corto, bajo"
+    ],
+    [
+     "lekker",
+     "rico, delicioso"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "lekker: una palabra para muchas cosas",
+   "text": "<b>lekker</b> se usa para la comida rica (<i>Het eten is lekker</i>), pero también para el buen tiempo, una sensación agradable o la comodidad: <i>lekker weer, lekker slapen, Lekker!</i> Es una de las palabras más neerlandesas que hay."
+  },
+  {
+   "type": "h1",
+   "text": "3. Comparar"
+  },
+  {
+   "type": "p",
+   "text": "Añade <b>-er</b> para comparar (<i>groter</i>) y <b>-st</b> para el superlativo (<i>het grootst</i>). <i>que</i> es <b>dan</b>: <i>Londen is groter dan Amsterdam.</i> El neerlandés no usa <i>meer</i> como el español <i>más</i>: <i>más difícil</i> = <b>moeilijker</b>, nunca <i>meer moeilijk</i>. Las reglas de la -e siguen valiendo: <i>een grotere stad, de grootste stad</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    4.4,
+    3.8
+   ],
+   "head": [
+    "Adjetivo",
+    "Comparativo",
+    "Superlativo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "groot",
+     "groter",
+     "het grootst",
+     "grande"
+    ],
+    [
+     "duur",
+     "duurder",
+     "het duurst",
+     "caro (tras r: -der)"
+    ],
+    [
+     "moeilijk",
+     "moeilijker",
+     "het moeilijkst",
+     "difícil"
+    ],
+    [
+     "goed",
+     "beter",
+     "het best",
+     "bueno, mejor, el mejor"
+    ],
+    [
+     "veel",
+     "meer",
+     "het meest",
+     "mucho, más, el que más"
+    ],
+    [
+     "graag",
+     "liever",
+     "het liefst",
+     "con gusto: gustar, preferir"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "een grote huis",
+     "een groot huis",
+     "een + palabra het: sin -e."
+    ],
+    [
+     "de groot stad",
+     "de grote stad",
+     "Tras de: -e."
+    ],
+    [
+     "Het huis is grote.",
+     "Het huis is groot.",
+     "Tras el verbo: nunca -e."
+    ],
+    [
+     "de dike man",
+     "de dikke man",
+     "Vocal corta: consonante doble."
+    ],
+    [
+     "de liefe hond",
+     "de lieve hond",
+     "La f se convierte en v."
+    ],
+    [
+     "Hij is meer groot dan ik.",
+     "Hij is groter dan ik.",
+     "Comparativo: -er, no meer."
+    ],
+    [
+     "groter als",
+     "groter dan",
+     "Que es dan."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta del adjetivo. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Wij wonen in een ______ huis.",
+     "hint": "groot",
+     "a": "groot",
+     "full": "Wij wonen in een groot huis."
+    },
+    {
+     "q": "Het ______ huis is van mijn oom.",
+     "hint": "groot",
+     "a": "grote",
+     "full": "Het grote huis is van mijn oom."
+    },
+    {
+     "q": "Ik heb een ______ fiets.",
+     "hint": "nieuw, de fiets",
+     "a": "nieuwe",
+     "full": "Ik heb een nieuwe fiets."
+    },
+    {
+     "q": "Mijn koffie is ______.",
+     "hint": "koud",
+     "a": "koud",
+     "full": "Mijn koffie is koud."
+    },
+    {
+     "q": "Hij draagt een ______ jas.",
+     "hint": "wit, de jas",
+     "a": "witte",
+     "full": "Hij draagt een witte jas."
+    },
+    {
+     "q": "Wat een ______ hond!",
+     "hint": "lief, de hond",
+     "a": "lieve",
+     "full": "Wat een lieve hond!"
+    },
+    {
+     "q": "Dit is een ______ boek.",
+     "hint": "goed, het boek",
+     "a": "goed",
+     "full": "Dit is een goed boek."
+    },
+    {
+     "q": "Londen is ______ dan Amsterdam.",
+     "hint": "groot, comparativo",
+     "a": "groter",
+     "full": "Londen is groter dan Amsterdam."
+    },
+    {
+     "q": "Dit is de ______ stad van Nederland.",
+     "hint": "oud, superlativo",
+     "a": "oudste",
+     "full": "Dit is de oudste stad van Nederland."
+    },
+    {
+     "q": "Thee vind ik ______ dan koffie.",
+     "hint": "lekker, comparativo",
+     "a": "lekkerder",
+     "full": "Thee vind ik lekkerder dan koffie."
+    },
+    {
+     "q": "Ik drink ______ thee dan koffie.",
+     "hint": "graag, comparativo",
+     "a": "liever",
+     "full": "Ik drink liever thee dan koffie."
+    },
+    {
+     "q": "Het is een ______ vraag.",
+     "hint": "moeilijk, de vraag",
+     "a": "moeilijke",
+     "full": "Het is een moeilijke vraag."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Vivimos en una casa grande.",
+     "a": "We wonen in een groot huis."
+    },
+    {
+     "q": "El coche nuevo es caro.",
+     "a": "De nieuwe auto is duur."
+    },
+    {
+     "q": "Londres es más grande que Ámsterdam.",
+     "a": "Londen is groter dan Amsterdam."
+    },
+    {
+     "q": "Prefiero el té.",
+     "a": "Ik drink liever thee."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
