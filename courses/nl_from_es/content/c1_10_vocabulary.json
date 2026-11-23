@@ -1,0 +1,390 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario",
+  "subtitle": "Palabras abstractas y académicas, falsos amigos de nivel C1 y la paráfrasis",
+  "footer": "Language Learning · C1 · Vocabulario",
+  "next": "Siguiente: C2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende los sustantivos con de o het y los verbos con una frase de ejemplo.",
+    "Tapa una columna y ponte a prueba en las dos direcciones.",
+    "Estas palabras salen a menudo en el CNaVT C1 (PAT) y en el Staatsexamen NT2 C1."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Sustantivos abstractos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Sociedad y pensamiento",
+   "items": [
+    [
+     "het bewustzijn",
+     "conciencia"
+    ],
+    [
+     "de ongelijkheid",
+     "desigualdad"
+    ],
+    [
+     "de duurzaamheid",
+     "sostenibilidad"
+    ],
+    [
+     "de aanpak",
+     "enfoque, planteamiento"
+    ],
+    [
+     "de veronderstelling",
+     "suposición, supuesto"
+    ],
+    [
+     "de uitkomst",
+     "resultado"
+    ],
+    [
+     "de kwestie",
+     "cuestión, asunto"
+    ],
+    [
+     "de tendens",
+     "tendencia"
+    ],
+    [
+     "de invloed",
+     "influencia"
+    ],
+    [
+     "het bewijs",
+     "prueba, pruebas"
+    ],
+    [
+     "het standpunt",
+     "punto de vista, postura"
+    ],
+    [
+     "het gevolg",
+     "consecuencia"
+    ],
+    [
+     "het kader",
+     "marco"
+    ],
+    [
+     "de bedreiging",
+     "amenaza"
+    ],
+    [
+     "de uitdaging",
+     "reto, desafío"
+    ],
+    [
+     "de doorbraak",
+     "avance, gran logro"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Verbos académicos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos para el análisis",
+   "items": [
+    [
+     "beoordelen",
+     "evaluar, valorar"
+    ],
+    [
+     "benadrukken",
+     "subrayar, recalcar"
+    ],
+    [
+     "ondermijnen",
+     "socavar"
+    ],
+    [
+     "versterken",
+     "reforzar"
+    ],
+    [
+     "aanpakken",
+     "abordar, afrontar"
+    ],
+    [
+     "belichten",
+     "destacar, poner de relieve"
+    ],
+    [
+     "erkennen",
+     "reconocer"
+    ],
+    [
+     "impliceren",
+     "implicar, dar a entender"
+    ],
+    [
+     "schetsen",
+     "esbozar, describir a grandes rasgos"
+    ],
+    [
+     "rechtvaardigen",
+     "justificar"
+    ],
+    [
+     "bevorderen",
+     "fomentar, promover"
+    ],
+    [
+     "belemmeren",
+     "obstaculizar, dificultar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Falsos amigos de nivel C1"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.2,
+    8.2
+   ],
+   "head": [
+    "Neerlandés",
+    "Significa",
+    "Cuidado"
+   ],
+   "rows": [
+    [
+     "consequent",
+     "coherente, consecuente",
+     "aquí sí coincide con «consecuente»"
+    ],
+    [
+     "sympathiek",
+     "simpático, agradable",
+     "coincide; «compasivo» = meelevend"
+    ],
+    [
+     "genant",
+     "embarazoso, que da vergüenza",
+     "«embarazada» = zwanger"
+    ],
+    [
+     "controleren",
+     "comprobar, revisar",
+     "«controlar» (dominar) = beheersen, besturen"
+    ],
+    [
+     "ordinair",
+     "vulgar, ordinario",
+     "«normal, corriente» = gewoon"
+    ],
+    [
+     "deftig",
+     "elegante, distinguido",
+     "no tiene que ver con «diestro» (= handig)"
+    ],
+    [
+     "solliciteren",
+     "presentarse a un empleo",
+     "«solicitar» otra cosa = aanvragen"
+    ],
+    [
+     "kritisch",
+     "crítico (que juzga)",
+     "situación crítica = ernstig, kritiek"
+    ],
+    [
+     "de agenda",
+     "agenda (los dos sentidos)",
+     "coincide"
+    ],
+    [
+     "het argument",
+     "argumento, razón",
+     "argumento de una película = de verhaallijn, het plot"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "genant no es embarazada",
+   "text": "<b>genant</b> significa <i>embarazoso, que da vergüenza</i>: <i>Wat genant!</i> (¡Qué vergüenza!). <i>Embarazada</i> es <b>zwanger</b>. <b>ordinair</b> es un insulto (<i>vulgar, ordinario, hortera</i>); para <i>normal</i> o <i>corriente</i> se dice <b>gewoon</b>: <i>een gewone dag</i>. Y <b>solliciteren</b> es solo presentarse a un puesto de trabajo; <i>solicitar</i> un permiso o una beca es <b>aanvragen</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. La paráfrasis"
+  },
+  {
+   "type": "p",
+   "text": "En el CNaVT y en la escritura académica tienes que saber decir lo mismo con otras palabras. Técnicas habituales: un sinónimo, una nominalización, la pasiva u otra estructura."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.2,
+    8.8
+   ],
+   "head": [
+    "Original",
+    "Paráfrasis"
+   ],
+   "rows": [
+    [
+     "Het is mogelijk dat hij ontslag neemt.",
+     "Hij zou wel eens ontslag kunnen nemen."
+    ],
+    [
+     "Zij kon het niet afmaken.",
+     "Het lukte haar niet om het af te maken."
+    ],
+    [
+     "Men zegt dat hij erg rijk is.",
+     "Hij zou erg rijk zijn."
+    ],
+    [
+     "Ik heb er spijt van dat ik niet harder gestudeerd heb.",
+     "Had ik maar harder gestudeerd."
+    ],
+    [
+     "De vergadering ging niet door vanwege de staking.",
+     "Door de staking werd de vergadering afgelast."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Er is geen ______ dat het medicijn werkt.",
+     "hint": "prueba",
+     "a": "bewijs",
+     "full": "Er is geen bewijs dat het medicijn werkt."
+    },
+    {
+     "q": "We hebben een nieuwe ______ nodig voor dit probleem.",
+     "hint": "enfoque",
+     "a": "aanpak",
+     "full": "We hebben een nieuwe aanpak nodig voor dit probleem."
+    },
+    {
+     "q": "Het rapport ______ de noodzaak van meer geld.",
+     "hint": "subraya",
+     "a": "benadrukt",
+     "full": "Het rapport benadrukt de noodzaak van meer geld."
+    },
+    {
+     "q": "De regering moet de werkloosheid ______.",
+     "hint": "abordar",
+     "a": "aanpakken",
+     "full": "De regering moet de werkloosheid aanpakken."
+    },
+    {
+     "q": "Sociale media hebben veel ______ op de politiek.",
+     "hint": "influencia",
+     "a": "invloed",
+     "full": "Sociale media hebben veel invloed op de politiek."
+    },
+    {
+     "q": "Hij is heel ______: hij doet altijd wat hij zegt.",
+     "hint": "consecuente",
+     "a": "consequent",
+     "full": "Hij is heel consequent: hij doet altijd wat hij zegt."
+    },
+    {
+     "q": "Wat een ______ man! Ik mag hem graag.",
+     "hint": "simpático",
+     "a": "sympathieke",
+     "full": "Wat een sympathieke man! Ik mag hem graag."
+    },
+    {
+     "q": "Het was heel ______: ik viel op het podium.",
+     "hint": "embarazoso",
+     "a": "genant",
+     "full": "Het was heel genant: ik viel op het podium."
+    },
+    {
+     "q": "Kun je even ______ of de deur dicht is?",
+     "hint": "comprobar",
+     "a": "controleren",
+     "full": "Kun je even controleren of de deur dicht is?"
+    },
+    {
+     "q": "Klimaatverandering is een grote ______ voor de natuur.",
+     "hint": "amenaza",
+     "a": "bedreiging",
+     "full": "Klimaatverandering is een grote bedreiging voor de natuur."
+    },
+    {
+     "q": "Hij zou erg rijk ______.",
+     "hint": "paráfrasis: men zegt dat",
+     "a": "zijn",
+     "full": "Hij zou erg rijk zijn."
+    },
+    {
+     "q": "Het was een gewone dag, niets ______.",
+     "hint": "especial",
+     "a": "bijzonders",
+     "full": "Het was een gewone dag, niets bijzonders."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hay muchas pruebas.",
+     "a": "Er is veel bewijs."
+    },
+    {
+     "q": "Tenemos que abordar este problema.",
+     "a": "We moeten dit probleem aanpakken."
+    },
+    {
+     "q": "Fue muy embarazoso.",
+     "a": "Het was heel genant."
+    },
+    {
+     "q": "Dicen que es muy rico.",
+     "a": "Hij zou erg rijk zijn."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
