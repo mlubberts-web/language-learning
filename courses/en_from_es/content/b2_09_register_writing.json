@@ -1,0 +1,345 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Escritura",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "El registro y la escritura",
+  "subtitle": "Inglés formal e informal, correos, redacciones, reseñas e informes para el B2 First",
+  "footer": "Language Learning · B2 · Escritura · Registro y escritura",
+  "next": "Siguiente: B2 · pdf 10 — Vocabulario y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar la diferencia entre el inglés formal y el informal",
+    "escribir un correo formal y uno informal",
+    "estructurar una redacción con una opinión clara",
+    "escribir una reseña y un informe como en el examen B2 First"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Formal e informal"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Informal",
+    "Formal",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Thanks for your email.",
+     "Thank you for your email.",
+     "Gracias por tu correo."
+    ],
+    [
+     "I want to ask about ...",
+     "I would like to enquire about ...",
+     "Quería pedir información sobre ..."
+    ],
+    [
+     "Can you send me ...?",
+     "I would be grateful if you could send me ...",
+     "¿Podría enviarme ...?"
+    ],
+    [
+     "get",
+     "receive / obtain",
+     "recibir, obtener"
+    ],
+    [
+     "need",
+     "require",
+     "necesitar, requerir"
+    ],
+    [
+     "sorry",
+     "I apologise for",
+     "disculpas por, lamento"
+    ],
+    [
+     "Write soon!",
+     "I look forward to hearing from you.",
+     "Quedo a la espera de su respuesta."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Frases cortas y peticiones suaves",
+   "text": "El español formal admite frases largas y fórmulas como <i>Quedo a la espera de sus noticias</i> o <i>Sin otro particular</i>. En inglés eso suena raro: usa frases más cortas y fórmulas fijas como <b>I look forward to hearing from you</b>, nunca <i>Waiting for your answer</i>. Y suaviza las peticiones: <b>Could you possibly ...?</b>, <b>I would be grateful if ...</b>, <b>I was wondering if ...</b>, nunca <i>I want that you send me</i>. En textos formales no uses formas cortas (I'm, don't)."
+  },
+  {
+   "type": "h1",
+   "text": "2. Correos y cartas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    6.4,
+    6.8
+   ],
+   "head": [
+    "Parte",
+    "Formal",
+    "Informal"
+   ],
+   "rows": [
+    [
+     "Saludo",
+     "Dear Mr Jones, / Dear Sir or Madam,",
+     "Hi Tom, / Dear Anna,"
+    ],
+    [
+     "Apertura",
+     "I am writing to complain about ...",
+     "It was great to hear from you!"
+    ],
+    [
+     "Petición",
+     "I would be grateful if you could ...",
+     "Could you ...?"
+    ],
+    [
+     "Cierre",
+     "I look forward to hearing from you.",
+     "Write soon! / See you soon!"
+    ],
+    [
+     "Despedida",
+     "Yours sincerely, (con nombre) / Yours faithfully, (con Dear Sir or Madam)",
+     "Best wishes, / Love, / Cheers,"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿Yours sincerely o Yours faithfully?",
+   "text": "En inglés británico, si empiezas con el nombre (<i>Dear Mr Jones</i>), terminas con <b>Yours sincerely</b>. Si empiezas con <i>Dear Sir or Madam</i>, terminas con <b>Yours faithfully</b>. <b>Kind regards</b> vale para los dos y es lo normal en los correos. Y después del saludo va una coma, no dos puntos: <i>Dear Mr Jones,</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Una redacción"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    13.4
+   ],
+   "head": [
+    "Parte",
+    "Contenido y frases"
+   ],
+   "rows": [
+    [
+     "Introducción",
+     "El tema y tu postura. <i>Nowadays, more and more people ... In this essay I will argue that ...</i>"
+    ],
+    [
+     "Argumento 1",
+     "<i>Firstly, ... For example, ... This means that ...</i>"
+    ],
+    [
+     "Argumento 2",
+     "<i>Secondly, ... In addition, ... Furthermore, ...</i>"
+    ],
+    [
+     "Contraargumento",
+     "<i>On the other hand, some people believe that ... However, ...</i>"
+    ],
+    [
+     "Conclusión",
+     "<i>In conclusion, ... Overall, I believe that ...</i>"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Reseña e informe"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    13.4
+   ],
+   "head": [
+    "Tipo",
+    "Frases útiles"
+   ],
+   "rows": [
+    [
+     "Reseña (review)",
+     "<i>The film is set in ... The plot centres on ... What I liked most was ... The only drawback is ... I would highly recommend it to ...</i>"
+    ],
+    [
+     "Informe (report)",
+     "<i>The aim of this report is to ... Most students said that ... It was found that ... I would recommend that ...</i> Usa títulos y un tono formal."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Dear Sir or Madam, ... Yours sincerely,",
+     "Dear Sir or Madam, ... Yours faithfully,",
+     "Con Dear Sir or Madam: Yours faithfully."
+    ],
+    [
+     "I want that you send me the form.",
+     "I would be grateful if you could send me the form.",
+     "Petición formal, sin want that."
+    ],
+    [
+     "I look forward to hear from you.",
+     "I look forward to hearing from you.",
+     "look forward to + -ing."
+    ],
+    [
+     "Hello Mr Jones,",
+     "Dear Mr Jones,",
+     "Saludo formal: Dear."
+    ],
+    [
+     "In my opinion I think that it is good.",
+     "In my opinion, it is good.",
+     "In my opinion y I think dicen lo mismo."
+    ],
+    [
+     "Firstly ... Secondly ... Thirdly ... Lastly in conclusion ...",
+     "Firstly ... Secondly ... Finally ... In conclusion ...",
+     "Elige una sola palabra para cerrar.",
+     "advice"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I am writing to ______ about the delay of my order.",
+     "hint": "quejarse",
+     "a": "complain",
+     "full": "I am writing to complain about the delay of my order."
+    },
+    {
+     "q": "I would be ______ if you could send me a brochure.",
+     "hint": "agradecido",
+     "a": "grateful",
+     "full": "I would be grateful if you could send me a brochure."
+    },
+    {
+     "q": "I look forward to ______ from you.",
+     "hint": "hear",
+     "a": "hearing",
+     "full": "I look forward to hearing from you."
+    },
+    {
+     "q": "Dear Sir or Madam, ... Yours ______,",
+     "hint": "despedida",
+     "a": "faithfully",
+     "full": "Dear Sir or Madam, ... Yours faithfully,"
+    },
+    {
+     "q": "Dear Ms Brown, ... Yours ______,",
+     "hint": "despedida",
+     "a": "sincerely",
+     "full": "Dear Ms Brown, ... Yours sincerely,"
+    },
+    {
+     "q": "I would like to ______ about your summer courses.",
+     "hint": "pedir información (formal)",
+     "a": "enquire",
+     "full": "I would like to enquire about your summer courses."
+    },
+    {
+     "q": "On the other ______, some people disagree.",
+     "hint": "por otro lado",
+     "a": "hand",
+     "full": "On the other hand, some people disagree."
+    },
+    {
+     "q": "In ______, I believe the benefits are greater.",
+     "hint": "en conclusión",
+     "a": "conclusion",
+     "full": "In conclusion, I believe the benefits are greater."
+    },
+    {
+     "q": "The ______ of this report is to suggest improvements.",
+     "hint": "objetivo",
+     "a": "aim",
+     "full": "The aim of this report is to suggest improvements."
+    },
+    {
+     "q": "I would highly ______ this book to teenagers.",
+     "hint": "recomendar",
+     "a": "recommend",
+     "full": "I would highly recommend this book to teenagers."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Le escribo para quejarme del retraso.",
+     "a": "I am writing to complain about the delay."
+    },
+    {
+     "q": "Le agradecería que me enviara un folleto.",
+     "a": "I would be grateful if you could send me a brochure."
+    },
+    {
+     "q": "Quedo a la espera de su respuesta.",
+     "a": "I look forward to hearing from you."
+    },
+    {
+     "q": "El objetivo de este informe es proponer mejoras.",
+     "a": "The aim of this report is to suggest improvements."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

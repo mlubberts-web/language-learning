@@ -1,0 +1,472 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Colocaciones, expresiones, el trabajo y el dinero, y falsos amigos para hispanohablantes",
+  "footer": "Language Learning · B2 · Vocabulario y expresiones fijas",
+  "next": "Siguiente: C1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende las palabras en combinaciones: no <i>decision</i>, sino <i>make a decision</i>.",
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Estas palabras aparecen mucho en el examen B2 First de Cambridge."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Colocaciones"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbo + sustantivo",
+   "items": [
+    [
+     "take a photo",
+     "hacer una foto"
+    ],
+    [
+     "take a decision",
+     "tomar una decisión"
+    ],
+    [
+     "pay attention",
+     "prestar atención"
+    ],
+    [
+     "make progress",
+     "hacer progresos"
+    ],
+    [
+     "do research",
+     "investigar, hacer una investigación"
+    ],
+    [
+     "keep a promise",
+     "cumplir una promesa"
+    ],
+    [
+     "break a promise",
+     "romper una promesa"
+    ],
+    [
+     "save time",
+     "ahorrar tiempo"
+    ],
+    [
+     "waste time",
+     "perder el tiempo"
+    ],
+    [
+     "meet a deadline",
+     "cumplir un plazo"
+    ],
+    [
+     "raise a question",
+     "plantear una pregunta"
+    ],
+    [
+     "reach an agreement",
+     "llegar a un acuerdo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivo + sustantivo",
+   "items": [
+    [
+     "heavy rain",
+     "lluvia intensa"
+    ],
+    [
+     "strong coffee",
+     "café cargado"
+    ],
+    [
+     "high temperature",
+     "temperatura alta"
+    ],
+    [
+     "a big mistake",
+     "un error grave"
+    ],
+    [
+     "a close friend",
+     "un buen amigo"
+    ],
+    [
+     "a heavy smoker",
+     "un fumador empedernido"
+    ],
+    [
+     "bitterly cold",
+     "helado, muy frío"
+    ],
+    [
+     "highly recommended",
+     "muy recomendable"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Hacer una foto = take a photo",
+   "text": "Muchas combinaciones españolas llevan en inglés otro verbo: <i>hacer una foto</i> = <b>take a photo</b>, <i>tomar una decisión</i> = <b>make a decision</b>, <i>hacer un examen</i> = <b>take / sit an exam</b>, <i>prestar atención</i> = <b>pay attention</b>, <i>dar un paseo</i> = <b>go for a walk</b>, <i>tener lugar</i> = <b>take place</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Expresiones"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones frecuentes",
+   "items": [
+    [
+     "a piece of cake",
+     "pan comido"
+    ],
+    [
+     "break the ice",
+     "romper el hielo"
+    ],
+    [
+     "under the weather",
+     "pachucho, malito"
+    ],
+    [
+     "once in a blue moon",
+     "de higos a brevas, muy de vez en cuando"
+    ],
+    [
+     "hit the nail on the head",
+     "dar en el clavo"
+    ],
+    [
+     "cost an arm and a leg",
+     "costar un ojo de la cara"
+    ],
+    [
+     "on the same page",
+     "en la misma onda"
+    ],
+    [
+     "get the hang of it",
+     "cogerle el truco"
+    ],
+    [
+     "let the cat out of the bag",
+     "meter la pata"
+    ],
+    [
+     "the last straw",
+     "la gota que colma el vaso"
+    ],
+    [
+     "over the moon",
+     "loco de contento"
+    ],
+    [
+     "in hot water",
+     "en apuros"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. El trabajo y el dinero"
+  },
+  {
+   "type": "verbpairs",
+   "title": "El trabajo",
+   "items": [
+    [
+     "employer",
+     "empresario, empleador"
+    ],
+    [
+     "employee",
+     "empleado, trabajador"
+    ],
+    [
+     "career",
+     "carrera profesional"
+    ],
+    [
+     "promotion",
+     "ascenso"
+    ],
+    [
+     "to be fired / sacked",
+     "ser despedido"
+    ],
+    [
+     "to resign",
+     "dimitir, dejar el trabajo"
+    ],
+    [
+     "to retire",
+     "jubilarse"
+    ],
+    [
+     "workload",
+     "carga de trabajo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "El dinero",
+   "items": [
+    [
+     "income",
+     "ingresos"
+    ],
+    [
+     "salary",
+     "sueldo"
+    ],
+    [
+     "tax",
+     "impuesto"
+    ],
+    [
+     "loan",
+     "préstamo"
+    ],
+    [
+     "mortgage",
+     "hipoteca"
+    ],
+    [
+     "debt",
+     "deuda"
+    ],
+    [
+     "to borrow",
+     "pedir prestado"
+    ],
+    [
+     "to lend",
+     "prestar, dejar"
+    ],
+    [
+     "to afford",
+     "poder permitirse"
+    ],
+    [
+     "to save up",
+     "ahorrar"
+    ],
+    [
+     "bargain",
+     "ganga, chollo"
+    ],
+    [
+     "refund",
+     "reembolso, devolución"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿borrow o lend?",
+   "text": "<b>borrow</b> = pedir prestado: <i>Can I borrow your pen?</i> (¿Me dejas tu boli?). <b>lend</b> = prestar, dejar: <i>Can you lend me your pen?</i> Ojo: <i>¿Me prestas ...?</i> es <b>Can you lend me ...?</b>, nunca <i>Can you borrow me ...?</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. Falsos amigos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    5.4,
+    8.0
+   ],
+   "head": [
+    "Inglés",
+    "Significa",
+    "No confundir con"
+   ],
+   "rows": [
+    [
+     "actual",
+     "real, verdadero",
+     "actual = current"
+    ],
+    [
+     "eventually",
+     "al final, finalmente",
+     "eventualmente = possibly"
+    ],
+    [
+     "sensible",
+     "sensato",
+     "sensible = sensitive"
+    ],
+    [
+     "assist",
+     "ayudar",
+     "asistir (a clase) = attend"
+    ],
+    [
+     "realise",
+     "darse cuenta",
+     "realizar = carry out"
+    ],
+    [
+     "career",
+     "carrera profesional",
+     "carrera (universitaria) = degree"
+    ],
+    [
+     "exit",
+     "salida",
+     "éxito = success"
+    ],
+    [
+     "carpet",
+     "moqueta, alfombra",
+     "carpeta = folder"
+    ],
+    [
+     "attend",
+     "asistir a",
+     "atender = serve, deal with"
+    ],
+    [
+     "constipated",
+     "estreñido",
+     "constipado = have a cold"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Can I ______ a photo of you?",
+     "hint": "hacer",
+     "a": "take",
+     "full": "Can I take a photo of you?"
+    },
+    {
+     "q": "Please pay ______ to the instructions.",
+     "hint": "atención",
+     "a": "attention",
+     "full": "Please pay attention to the instructions."
+    },
+    {
+     "q": "We worked all night to ______ the deadline.",
+     "hint": "cumplir",
+     "a": "meet",
+     "full": "We worked all night to meet the deadline."
+    },
+    {
+     "q": "Can you ______ me some money?",
+     "hint": "prestar",
+     "a": "lend",
+     "full": "Can you lend me some money?"
+    },
+    {
+     "q": "Can I ______ your umbrella?",
+     "hint": "pedir prestado",
+     "a": "borrow",
+     "full": "Can I borrow your umbrella?"
+    },
+    {
+     "q": "I can't ______ a new car this year.",
+     "hint": "permitirse",
+     "a": "afford",
+     "full": "I can't afford a new car this year."
+    },
+    {
+     "q": "The exam was a piece of ______.",
+     "hint": "pan comido",
+     "a": "cake",
+     "full": "The exam was a piece of cake."
+    },
+    {
+     "q": "She was over the ______ when she got the job.",
+     "hint": "loca de contenta",
+     "a": "moon",
+     "full": "She was over the moon when she got the job."
+    },
+    {
+     "q": "It was a long journey, but we ______ arrived.",
+     "hint": "al final",
+     "a": "eventually",
+     "full": "It was a long journey, but we eventually arrived."
+    },
+    {
+     "q": "That's a very ______ idea. Let's do it.",
+     "hint": "sensata",
+     "a": "sensible",
+     "full": "That's a very sensible idea. Let's do it."
+    },
+    {
+     "q": "We were stuck in a traffic ______ for an hour.",
+     "hint": "atasco",
+     "a": "jam",
+     "full": "We were stuck in a traffic jam for an hour."
+    },
+    {
+     "q": "He was ______ after twenty years at the company.",
+     "hint": "fire, despedido",
+     "a": "fired",
+     "full": "He was fired after twenty years at the company."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Me dejas tu boli?",
+     "a": "Can I borrow your pen?"
+    },
+    {
+     "q": "Estuvimos una hora en un atasco.",
+     "a": "We were in a traffic jam for an hour."
+    },
+    {
+     "q": "Al final encontramos el hotel.",
+     "a": "Eventually we found the hotel."
+    },
+    {
+     "q": "¿Nos puedes hacer una foto?",
+     "a": "Can you take a photo of us?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

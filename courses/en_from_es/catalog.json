@@ -405,5 +405,27 @@
   "subtitle": "Prefijos y sufijos, familias de palabras de verbo, sustantivo y adjetivo",
   "content": "b2_08_word_formation.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_09_El_registro_y_la_escritura",
+  "file": "B2_09_El_registro_y_la_escritura.pdf",
+  "level": "B2",
+  "number": 9,
+  "section": "Escritura",
+  "title": "El registro y la escritura",
+  "subtitle": "Inglés formal e informal, correos, redacciones, reseñas e informes para el B2 First",
+  "content": "b2_09_register_writing.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_10_Vocabulario_y_expresiones_fijas",
+  "file": "B2_10_Vocabulario_y_expresiones_fijas.pdf",
+  "level": "B2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Colocaciones, expresiones, el trabajo y el dinero, y falsos amigos para hispanohablantes",
+  "content": "b2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
