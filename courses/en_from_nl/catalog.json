@@ -482,5 +482,27 @@
   "subtitle": "having finished, given that, the man sitting there, en het hangende deelwoord",
   "content": "c1_05_participle_clauses.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_06_Modale_werkwoorden_in_de_diepte",
+  "file": "C1_06_Modale_werkwoorden_in_de_diepte.pdf",
+  "level": "C1",
+  "number": 6,
+  "section": "Werkwoorden",
+  "title": "Modale werkwoorden in de diepte",
+  "subtitle": "needn't have of didn't need to, may well, was to have, would voor gewoontes, en be able to",
+  "content": "c1_06_modals_depth.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_07_Collocaties_en_vaste_uitdrukkingen",
+  "file": "C1_07_Collocaties_en_vaste_uitdrukkingen.pdf",
+  "level": "C1",
+  "number": 7,
+  "section": "Woordenschat",
+  "title": "Collocaties en vaste uitdrukkingen",
+  "subtitle": "strong, heavy en high; make, take en do in de diepte; vaste woordparen (binomials)",
+  "content": "c1_07_collocations.json",
+  "exercise_count": 12
  }
 ]

@@ -1,0 +1,73 @@
+{"meta": {"level": "C1", "section": "Werkwoorden", "number": 6, "total_in_level": 10,
+ "title": "Modale werkwoorden in de diepte",
+ "subtitle": "needn't have of didn't need to, may well, was to have, would voor gewoontes, en be able to",
+ "footer": "Language Learning · C1 · Werkwoorden · Modale werkwoorden",
+ "next": "Volgende: C1 · pdf 7 — Collocaties en vaste uitdrukkingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het verschil kennen tussen <b>needn't have done</b> en <b>didn't need to do</b>",
+  "waarschijnlijkheid nuanceren met <b>may well, might just, could easily</b>",
+  "plannen in het verleden uitdrukken met <b>was to</b> en <b>was supposed to</b>",
+  "<b>would</b> en <b>will</b> gebruiken voor gewoontes en eigenschappen"]},
+
+ {"type": "h1", "text": "1. needn't have of didn't need to?"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Vorm", "Voorbeeld", "Betekenis"], "rows": [
+  ["needn't have + deelwoord", "You needn't have brought a present.", "je hebt het gedaan, maar het was niet nodig"],
+  ["didn't need to + werkwoord", "I didn't need to buy a ticket. (so I didn't)", "het was niet nodig (en meestal niet gedaan)"],
+  ["didn't have to", "We didn't have to queue.", "het was niet verplicht"]]},
+ {"type": "callout", "kind": "dutch", "title": "Dat had je niet hoeven doen", "text": "<i>Dat had je niet hoeven doen</i> (je deed het wel) = <b>You needn't have done that</b>. <i>Ik hoefde niet te betalen</i> = <b>I didn't need to pay / I didn't have to pay</b>."},
+
+ {"type": "h1", "text": "2. Nuances van waarschijnlijkheid"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["may / might well", "She may well be right.", "Ze heeft heel goed mogelijk gelijk."],
+  ["might just", "We might just catch the train if we run.", "We halen de trein misschien nog net."],
+  ["could easily", "It could easily take a week.", "Het kan best een week duren."],
+  ["is bound to", "He's bound to find out.", "Hij komt er zeker achter."],
+  ["may as well / might as well", "We might as well go home.", "We kunnen net zo goed naar huis gaan."],
+  ["can't possibly", "You can't possibly be serious.", "Dat meen je toch niet."]]},
+
+ {"type": "h1", "text": "3. Plannen en verwachtingen in het verleden"},
+ {"type": "table", "style": "plain", "widths": [4.6, 6.4, 6.0], "head": ["Vorm", "Voorbeeld", "Nederlands"], "rows": [
+  ["was / were to", "She was to become famous.", "Zij zou later beroemd worden."],
+  ["was to have + deelwoord", "The meeting was to have taken place today.", "De vergadering zou vandaag plaatsvinden (maar niet)."],
+  ["was supposed to", "You were supposed to call me!", "Je zou me bellen!"],
+  ["be meant to", "This film is meant to be good.", "Deze film schijnt goed te zijn."]]},
+
+ {"type": "h1", "text": "4. would en will voor gewoontes"},
+ {"type": "p", "text": "<b>would</b> beschrijft herhaalde handelingen in het verleden (pdf B2 · 1). <b>will</b> kan een typische eigenschap of gewoonte in het heden uitdrukken: <i>She'll sit there for hours, just reading.</i> Met klemtoon op will of would klinkt het geïrriteerd: <i>He <b>will</b> leave the door open!</i> (Hij laat ook altijd de deur open!)"},
+
+ {"type": "h1", "text": "5. can of be able to?"},
+ {"type": "p", "text": "<b>can</b> heeft geen infinitief of voltooide vorm. Gebruik dan <b>be able to</b>: <i>I'd like to <b>be able to</b> speak Chinese. I haven't <b>been able to</b> sleep.</i> Voor één gelukte prestatie in het verleden gebruik je <b>was able to / managed to</b>, niet could: <i>After hours, we <b>managed to</b> open the door.</i>"},
+ {"type": "callout", "kind": "dutch", "title": "Het lukte ons = we managed to", "text": "<i>Het lukte me om de trein te halen</i> = <b>I managed to catch the train</b> of <b>I was able to catch the train</b>. <i>I could catch the train</i> klinkt alsof je het in het algemeen kon."},
+
+ {"type": "h1", "text": "6. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["You needn't to bring anything.", "You needn't bring anything.", "needn't zonder to."],
+  ["I will can help you tomorrow.", "I will be able to help you tomorrow.", "Na will: be able to."],
+  ["After hours, we could open the door.", "After hours, we managed to open the door.", "Eén gelukte prestatie: managed to."],
+  ["You were suppose to call me.", "You were supposed to call me.", "supposed met -d."],
+  ["I haven't could sleep.", "I haven't been able to sleep.", "Voltooide vorm: been able to."],
+  ["It might well to rain.", "It might well rain.", "Na might well: kaal werkwoord."]]},
+
+ {"type": "h1", "text": "7. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "You ______ have cooked. I'd already eaten.", "hint": "niet hoeven, wel gedaan", "a": "needn't", "full": "You needn't have cooked. I'd already eaten."},
+  {"q": "I didn't ______ to wait. The bus came at once.", "hint": "need", "a": "need", "full": "I didn't need to wait. The bus came at once."},
+  {"q": "She may ______ be right about that.", "hint": "heel goed mogelijk", "a": "well", "full": "She may well be right about that."},
+  {"q": "There's nothing on TV. We might as ______ go to bed.", "hint": "net zo goed", "a": "well", "full": "There's nothing on TV. We might as well go to bed."},
+  {"q": "You were ______ to be here at nine!", "hint": "zou", "a": "supposed", "full": "You were supposed to be here at nine!"},
+  {"q": "This restaurant is ______ to be excellent.", "hint": "schijnt (mean)", "a": "meant", "full": "This restaurant is meant to be excellent."},
+  {"q": "I haven't ______ able to contact him.", "hint": "be", "a": "been", "full": "I haven't been able to contact him."},
+  {"q": "After three attempts, she ______ to pass her driving test.", "hint": "lukken", "a": "managed", "full": "After three attempts, she managed to pass her driving test."},
+  {"q": "The wedding was ______ have taken place in June.", "hint": "zou (maar niet)", "a": "to", "full": "The wedding was to have taken place in June."},
+  {"q": "He's ______ to find out sooner or later.", "hint": "zeker", "a": "bound", "full": "He's bound to find out sooner or later."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Dat had je niet hoeven doen.", "a": "You needn't have done that."},
+  {"q": "Je zou me bellen!", "a": "You were supposed to call me!"},
+  {"q": "Het lukte me om de trein te halen.", "a": "I managed to catch the train."},
+  {"q": "We kunnen net zo goed naar huis gaan.", "a": "We might as well go home."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

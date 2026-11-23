@@ -1,0 +1,80 @@
+{"meta": {"level": "C1", "section": "Woordenschat", "number": 7, "total_in_level": 10,
+ "title": "Collocaties en vaste uitdrukkingen",
+ "subtitle": "strong, heavy en high; make, take en do in de diepte; vaste woordparen (binomials)",
+ "footer": "Language Learning · C1 · Woordenschat · Collocaties",
+ "next": "Volgende: C1 · pdf 8 — Spelling, leestekens, Brits en Amerikaans"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "natuurlijke combinaties van bijvoeglijk en zelfstandig naamwoord gebruiken",
+  "versterkende bijwoorden goed combineren (<i>deeply concerned, highly unlikely</i>)",
+  "vaste woordparen herkennen en gebruiken (<i>pros and cons</i>)",
+  "de collocaties met make, take en do uitbreiden"]},
+
+ {"type": "h1", "text": "1. Bijvoeglijk + zelfstandig naamwoord"},
+ {"type": "table", "style": "plain", "widths": [3.6, 6.8, 6.6], "head": ["Woord", "Combinaties", "Niet"], "rows": [
+  ["strong", "strong wind, strong coffee, strong accent, strong opinion", "strong rain (heavy rain)"],
+  ["heavy", "heavy rain, heavy traffic, heavy smoker, heavy losses", "heavy wind (strong wind)"],
+  ["high", "high price, high temperature, high standards, high risk", "high rain"],
+  ["deep", "deep sleep, deep concern, deep regret", ""],
+  ["serious", "serious illness, serious damage, serious problem", ""],
+  ["bitter", "bitter disappointment, bitter cold, bitter end", ""]]},
+ {"type": "callout", "kind": "dutch", "title": "Zware regen, harde wind", "text": "Het Nederlands zegt <i>harde wind</i>, <i>zware regen</i> en <i>druk verkeer</i>. Het Engels: <b>strong wind</b>, <b>heavy rain</b>, <b>heavy traffic</b>. Letterlijk vertalen (<i>hard wind, busy traffic</i>) klinkt onnatuurlijk."},
+
+ {"type": "h1", "text": "2. Bijwoord + bijvoeglijk naamwoord"},
+ {"type": "verbpairs", "title": "Vaste versterkers", "items": [
+  ["highly unlikely", "hoogst onwaarschijnlijk"], ["deeply concerned", "diep bezorgd"], ["bitterly disappointed", "bitter teleurgesteld"],
+  ["fully aware", "zich volledig bewust"], ["painfully slow", "tergend langzaam"], ["utterly ridiculous", "volkomen belachelijk"],
+  ["widely known", "algemeen bekend"], ["perfectly normal", "volkomen normaal"], ["strongly recommended", "sterk aanbevolen"],
+  ["completely different", "totaal anders"], ["seriously injured", "ernstig gewond"], ["closely related", "nauw verwant"]]},
+
+ {"type": "h1", "text": "3. make, take en do"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["make", "take", "do"], "rows": [
+  ["make an effort", "take a risk", "do damage"],
+  ["make a difference", "take responsibility", "do harm"],
+  ["make progress", "take part in", "do someone good"],
+  ["make sense", "take advantage of", "do without"],
+  ["make a complaint", "take into account", "do your best"],
+  ["make arrangements", "take something for granted", "do the right thing"]]},
+
+ {"type": "h1", "text": "4. Vaste woordparen"},
+ {"type": "p", "text": "Sommige woordparen hebben een <b>vaste volgorde</b>, die je niet kunt omdraaien: <i>pros and cons</i>, nooit <i>cons and pros</i>."},
+ {"type": "verbpairs", "title": "Binomials", "items": [
+  ["pros and cons", "voors en tegens"], ["sooner or later", "vroeg of laat"], ["now and then", "af en toe"], ["safe and sound", "veilig en wel"],
+  ["peace and quiet", "rust en stilte"], ["sick and tired", "spuugzat"], ["trial and error", "vallen en opstaan"], ["by and large", "over het algemeen"],
+  ["ups and downs", "ups en downs"], ["first and foremost", "eerst en vooral"], ["more or less", "min of meer"], ["black and white", "zwart-wit"]]},
+ {"type": "callout", "kind": "tip", "title": "Andere volgorde dan in het Nederlands", "text": "Let op paren die in het Nederlands omgekeerd zijn: <i>zwart-wit</i> = <b>black and white</b> (gelijk), maar <i>vroeg of laat</i> = <b>sooner or later</b>, <i>heen en weer</i> = <b>back and forth</b>, <i>dames en heren</i> = <b>ladies and gentlemen</b>."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["There was a hard wind.", "There was a strong wind.", "strong wind."],
+  ["The traffic was very busy.", "The traffic was very heavy.", "heavy traffic."],
+  ["It doesn't make sense to take a decision now.", "It doesn't make sense to make a decision now.", "Beide kan; make a decision is gewoner.", "advice"],
+  ["He did a big effort.", "He made a big effort.", "make an effort."],
+  ["We should take in account the cost.", "We should take the cost into account.", "take into account."],
+  ["It's highly unpossible.", "It's highly unlikely.", "highly unlikely."],
+  ["I'm tired and sick of it.", "I'm sick and tired of it.", "Vaste volgorde: sick and tired."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "We were stuck in ______ traffic for an hour.", "hint": "druk", "a": "heavy", "full": "We were stuck in heavy traffic for an hour."},
+  {"q": "She speaks English with a ______ French accent.", "hint": "sterk", "a": "strong", "full": "She speaks English with a strong French accent."},
+  {"q": "It is highly ______ that he will win.", "hint": "onwaarschijnlijk", "a": "unlikely", "full": "It is highly unlikely that he will win."},
+  {"q": "I was bitterly ______ with the result.", "hint": "teleurgesteld", "a": "disappointed", "full": "I was bitterly disappointed with the result."},
+  {"q": "You should ______ advantage of this offer.", "hint": "make, take of do", "a": "take", "full": "You should take advantage of this offer."},
+  {"q": "His explanation doesn't ______ sense.", "hint": "make, take of do", "a": "make", "full": "His explanation doesn't make sense."},
+  {"q": "A holiday would ______ you good.", "hint": "make, take of do", "a": "do", "full": "A holiday would do you good."},
+  {"q": "Let's weigh up the pros and ______.", "hint": "tegens", "a": "cons", "full": "Let's weigh up the pros and cons."},
+  {"q": "The children came home safe and ______.", "hint": "wel", "a": "sound", "full": "The children came home safe and sound."},
+  {"q": "I'm sick and ______ of waiting.", "hint": "spuugzat", "a": "tired", "full": "I'm sick and tired of waiting."},
+  {"q": "We learnt by trial and ______.", "hint": "vallen en opstaan", "a": "error", "full": "We learnt by trial and error."},
+  {"q": "Two people were ______ injured in the crash.", "hint": "ernstig", "a": "seriously", "full": "Two people were seriously injured in the crash."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Er stond een harde wind.", "a": "There was a strong wind."},
+  {"q": "Vroeg of laat komt hij erachter.", "a": "Sooner or later he will find out."},
+  {"q": "Je moet rekening houden met de kosten.", "a": "You have to take the costs into account."},
+  {"q": "Hij deed echt zijn best.", "a": "He really made an effort."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
