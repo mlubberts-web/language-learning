@@ -416,5 +416,16 @@
   "subtitle": "El neerlandés de los Países Bajos y de Bélgica: palabras, pronunciación, ge y gij, y cortesía",
   "content": "b2_09_netherlands_flanders.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_10_Vocabulario_y_expresiones",
+  "file": "B2_10_Vocabulario_y_expresiones.pdf",
+  "level": "B2",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Colocaciones, modismos, trabajo y dinero, y los temas del Staatsexamen NT2, Programa II",
+  "content": "b2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

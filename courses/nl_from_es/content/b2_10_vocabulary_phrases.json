@@ -1,0 +1,362 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones",
+  "subtitle": "Colocaciones, modismos, trabajo y dinero, y los temas del Staatsexamen NT2, Programa II",
+  "footer": "Language Learning · B2 · Vocabulario y expresiones",
+  "next": "Siguiente: C1 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende las palabras en combinaciones: no <i>besluit</i>, sino <i>een besluit nemen</i>.",
+    "Tapa una columna y ponte a prueba en las dos direcciones.",
+    "Estas palabras salen a menudo en el Staatsexamen NT2, Programa II (B2)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Colocaciones"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbo + sustantivo",
+   "items": [
+    [
+     "een besluit nemen",
+     "tomar una decisión"
+    ],
+    [
+     "een foto maken",
+     "hacer una foto"
+    ],
+    [
+     "een afspraak maken",
+     "pedir cita, quedar"
+    ],
+    [
+     "rekening houden met",
+     "tener en cuenta"
+    ],
+    [
+     "aandacht besteden aan",
+     "prestar atención a"
+    ],
+    [
+     "een bijdrage leveren",
+     "contribuir, aportar"
+    ],
+    [
+     "kritiek leveren op",
+     "criticar"
+    ],
+    [
+     "een fout maken",
+     "cometer un error"
+    ],
+    [
+     "een examen afleggen",
+     "hacer un examen"
+    ],
+    [
+     "een rol spelen",
+     "desempeñar un papel"
+    ],
+    [
+     "een vraag stellen",
+     "hacer una pregunta"
+    ],
+    [
+     "vooruitgang boeken",
+     "hacer progresos"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Verbos distintos del español",
+   "text": "A veces el verbo coincide: <i>tomar una decisión</i> = <b>een besluit nemen</b>, <i>hacer una foto</i> = <b>een foto maken</b>. Pero a menudo no: <i>hacer una pregunta</i> = <b>een vraag stellen</b> (poner), <i>prestar atención</i> = <b>aandacht besteden</b> (gastar), <i>cometer un error</i> = <b>een fout maken</b> (hacer). Aprende la combinación como un bloque."
+  },
+  {
+   "type": "h1",
+   "text": "2. Modismos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Modismos frecuentes",
+   "items": [
+    [
+     "met de deur in huis vallen",
+     "ir al grano"
+    ],
+    [
+     "de kat uit de boom kijken",
+     "esperar a ver qué pasa"
+    ],
+    [
+     "het regent pijpenstelen",
+     "llover a cántaros"
+    ],
+    [
+     "over koetjes en kalfjes praten",
+     "charlar de cosas sin importancia"
+    ],
+    [
+     "iets onder de knie hebben",
+     "dominar algo"
+    ],
+    [
+     "de kogel is door de kerk",
+     "la suerte está echada"
+    ],
+    [
+     "een kat in de zak kopen",
+     "dar gato por liebre, comprar a ciegas"
+    ],
+    [
+     "nu komt de aap uit de mouw",
+     "ahora sale la verdad a la luz"
+    ],
+    [
+     "tussen de soep en de aardappels",
+     "entretanto, de paso, rápidamente"
+    ],
+    [
+     "iemand een hart onder de riem steken",
+     "animar a alguien"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Animales y comida",
+   "text": "Los modismos neerlandeses están llenos de gatos, monos, vacas y sopa. Muchos no tienen equivalente en español, así que aprende el significado, no las palabras. <i>Hij viel met de deur in huis</i> no significa que alguien se cayera por una puerta: fue directo al grano, algo que a los neerlandeses les gusta bastante."
+  },
+  {
+   "type": "h1",
+   "text": "3. Trabajo y dinero"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Trabajo",
+   "items": [
+    [
+     "de werkgever",
+     "empleador, empresa"
+    ],
+    [
+     "de werknemer",
+     "empleado, trabajador"
+    ],
+    [
+     "het contract",
+     "contrato"
+    ],
+    [
+     "vast werk",
+     "un contrato indefinido"
+    ],
+    [
+     "ontslagen worden",
+     "ser despedido"
+    ],
+    [
+     "ontslag nemen",
+     "dimitir, renunciar"
+    ],
+    [
+     "met pensioen gaan",
+     "jubilarse"
+    ],
+    [
+     "de werkdruk",
+     "carga de trabajo"
+    ],
+    [
+     "de promotie",
+     "ascenso"
+    ],
+    [
+     "de ondernemer",
+     "empresario, emprendedor"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Dinero",
+   "items": [
+    [
+     "het inkomen",
+     "ingresos"
+    ],
+    [
+     "de belasting",
+     "impuesto"
+    ],
+    [
+     "de lening",
+     "préstamo"
+    ],
+    [
+     "de hypotheek",
+     "hipoteca"
+    ],
+    [
+     "de schuld",
+     "deuda"
+    ],
+    [
+     "lenen",
+     "pedir prestado, prestar"
+    ],
+    [
+     "uitlenen",
+     "prestar"
+    ],
+    [
+     "zich kunnen veroorloven",
+     "poder permitirse"
+    ],
+    [
+     "sparen",
+     "ahorrar"
+    ],
+    [
+     "de koopjes",
+     "gangas, chollos"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "lenen y leren van en las dos direcciones",
+   "text": "<b>lenen</b> significa a la vez <i>pedir prestado</i> y <i>prestar</i>: <i>Mag ik je pen lenen?</i> (¿me dejas tu bolígrafo?) y <i>Kun je me je pen lenen?</i> (¿me prestas tu bolígrafo?). <b>uitlenen</b> es solo <i>prestar</i>. Del mismo modo, <b>leren</b> significa <i>aprender</i> y <i>enseñar</i>: <i>Ik leer Nederlands</i> (aprendo neerlandés), <i>Zij leert mij Nederlands</i> (ella me enseña neerlandés)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "We moeten vandaag een besluit ______.",
+     "hint": "tomar una decisión",
+     "a": "nemen",
+     "full": "We moeten vandaag een besluit nemen."
+    },
+    {
+     "q": "Mag ik een ______ stellen?",
+     "hint": "pregunta",
+     "a": "vraag",
+     "full": "Mag ik een vraag stellen?"
+    },
+    {
+     "q": "Je moet ______ houden met de kosten.",
+     "hint": "tener en cuenta",
+     "a": "rekening",
+     "full": "Je moet rekening houden met de kosten."
+    },
+    {
+     "q": "Het regent ______. Neem een paraplu mee.",
+     "hint": "a cántaros",
+     "a": "pijpenstelen",
+     "full": "Het regent pijpenstelen. Neem een paraplu mee."
+    },
+    {
+     "q": "Na een jaar had ze het Nederlands goed onder de ______.",
+     "hint": "dominar",
+     "a": "knie",
+     "full": "Na een jaar had ze het Nederlands goed onder de knie."
+    },
+    {
+     "q": "We kijken eerst de kat uit de ______.",
+     "hint": "esperar a ver",
+     "a": "boom",
+     "full": "We kijken eerst de kat uit de boom."
+    },
+    {
+     "q": "Hij heeft vorige week ______ genomen.",
+     "hint": "dimitió",
+     "a": "ontslag",
+     "full": "Hij heeft vorige week ontslag genomen."
+    },
+    {
+     "q": "Mijn opa is met ______ gegaan.",
+     "hint": "jubilado",
+     "a": "pensioen",
+     "full": "Mijn opa is met pensioen gegaan."
+    },
+    {
+     "q": "We kunnen ons geen nieuwe auto ______.",
+     "hint": "permitirse",
+     "a": "veroorloven",
+     "full": "We kunnen ons geen nieuwe auto veroorloven."
+    },
+    {
+     "q": "Kun je me tien euro ______?",
+     "hint": "prestar",
+     "a": "lenen",
+     "full": "Kun je me tien euro lenen?"
+    },
+    {
+     "q": "Ze ______ me Nederlands.",
+     "hint": "enseña",
+     "a": "leert",
+     "full": "Ze leert me Nederlands."
+    },
+    {
+     "q": "Hij viel meteen met de deur in ______.",
+     "hint": "fue directo al grano",
+     "a": "huis",
+     "full": "Hij viel meteen met de deur in huis."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Tenemos que tomar una decisión.",
+     "a": "We moeten een besluit nemen."
+    },
+    {
+     "q": "¿Me dejas tu bolígrafo?",
+     "a": "Mag ik je pen lenen?"
+    },
+    {
+     "q": "Llueve a cántaros.",
+     "a": "Het regent pijpenstelen."
+    },
+    {
+     "q": "Dimitió.",
+     "a": "Hij heeft ontslag genomen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
