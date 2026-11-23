@@ -1,0 +1,332 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Escritura",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "La escritura formal y profesional",
+  "subtitle": "Informes, propuestas y cartas; formulaciones comerciales y jurídicas",
+  "footer": "Language Learning · C2 · Escritura · Formal y profesional",
+  "next": "Siguiente: C2 · pdf 7 — Expresiones, argot y lengua coloquial"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "estructurar un informe y una propuesta",
+    "usar formulaciones profesionales para peticiones, reclamaciones y respuestas",
+    "reconocer el lenguaje jurídico y oficial",
+    "elegir el tono: formal, neutro o cordial y profesional"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Un informe o una propuesta"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    13.2
+   ],
+   "head": [
+    "Parte",
+    "Frases útiles"
+   ],
+   "rows": [
+    [
+     "Objetivo",
+     "<i>The purpose of this report is to ... This proposal outlines ...</i>"
+    ],
+    [
+     "Antecedentes",
+     "<i>Following the recent ..., it has become clear that ...</i>"
+    ],
+    [
+     "Resultados",
+     "<i>It was found that ... The majority of respondents indicated that ... A significant proportion ...</i>"
+    ],
+    [
+     "Recomendaciones",
+     "<i>It is recommended that ... We propose that ... It would be advisable to ...</i>"
+    ],
+    [
+     "Conclusión",
+     "<i>In light of the above, ... To conclude, ...</i>"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Sin demasiado 'yo' y 'nosotros'",
+   "text": "En los informes en español es normal <i>hemos analizado</i> o <i>se ha analizado</i>. En inglés formal se prefiere la pasiva o un sujeto impersonal: <b>The survey showed that ...</b>, <b>It was found that ...</b>, y frases más cortas que en español."
+  },
+  {
+   "type": "h1",
+   "text": "2. Formulaciones profesionales"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    7.6,
+    5.4
+   ],
+   "head": [
+    "Función",
+    "Formulación",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Referirse a algo",
+     "With reference to your letter of 3 May, ...",
+     "En relación con su carta del 3 de mayo, ..."
+    ],
+    [
+     "Petición",
+     "We would appreciate it if you could ...",
+     "Le agradeceríamos que ..."
+    ],
+    [
+     "Adjunto",
+     "Please find attached ...",
+     "Le adjunto ..."
+    ],
+    [
+     "Disculpas",
+     "We apologise for any inconvenience caused.",
+     "Disculpe las molestias."
+    ],
+    [
+     "Confirmación",
+     "I am writing to confirm ...",
+     "Por la presente le confirmo ..."
+    ],
+    [
+     "Pesar",
+     "We regret to inform you that ...",
+     "Lamentamos comunicarle que ..."
+    ],
+    [
+     "Cierre",
+     "Please do not hesitate to contact me.",
+     "No dude en ponerse en contacto conmigo."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Please find attached",
+   "text": "Una fórmula fija: <b>Please find attached the invoice</b> o <b>I attach the invoice</b> (le adjunto la factura). Evita el anticuado <i>Attached please find</i>. <i>En el archivo adjunto</i> = <b>attached</b>, no <i>in the attachment</i>. Y <i>Sin otro particular, le saluda atentamente</i> no se traduce: basta con <b>Yours sincerely</b> o <b>Kind regards</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. El lenguaje oficial y jurídico"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras formales",
+   "items": [
+    [
+     "hereby",
+     "por la presente"
+    ],
+    [
+     "thereof",
+     "del mismo, de ello"
+    ],
+    [
+     "whereas",
+     "considerando que"
+    ],
+    [
+     "pursuant to",
+     "en virtud de, conforme a"
+    ],
+    [
+     "in accordance with",
+     "de acuerdo con"
+    ],
+    [
+     "notwithstanding",
+     "no obstante lo dispuesto"
+    ],
+    [
+     "the undersigned",
+     "el abajo firmante"
+    ],
+    [
+     "subject to",
+     "sujeto a"
+    ],
+    [
+     "null and void",
+     "nulo"
+    ],
+    [
+     "terms and conditions",
+     "condiciones generales"
+    ],
+    [
+     "liable for",
+     "responsable de"
+    ],
+    [
+     "to comply with",
+     "cumplir (con)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "In the attachment you find the invoice.",
+     "Please find attached the invoice.",
+     "Fórmula fija."
+    ],
+    [
+     "Referring to your letter, we want to say ...",
+     "With reference to your letter, we would like to inform you ...",
+     "Formal y completo.",
+     "advice"
+    ],
+    [
+     "We apologise for the inconvenience it gave.",
+     "We apologise for any inconvenience caused.",
+     "Fórmula fija."
+    ],
+    [
+     "Don't hesitate to contact me.",
+     "Please do not hesitate to contact me.",
+     "Formal: please, y sin formas cortas."
+    ],
+    [
+     "The company must comply to the rules.",
+     "The company must comply with the rules.",
+     "comply with."
+    ],
+    [
+     "We are responsible of the damage.",
+     "We are liable for the damage.",
+     "liable for."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "With ______ to your email of 12 March, ...",
+     "hint": "referencia",
+     "a": "reference",
+     "full": "With reference to your email of 12 March, ..."
+    },
+    {
+     "q": "Please find ______ a copy of the contract.",
+     "hint": "adjunto",
+     "a": "attached",
+     "full": "Please find attached a copy of the contract."
+    },
+    {
+     "q": "We ______ any inconvenience this may cause.",
+     "hint": "pedir disculpas",
+     "a": "apologise for",
+     "full": "We apologise for any inconvenience this may cause."
+    },
+    {
+     "q": "We ______ to inform you that your application was unsuccessful.",
+     "hint": "lamentamos",
+     "a": "regret",
+     "full": "We regret to inform you that your application was unsuccessful."
+    },
+    {
+     "q": "Please do not ______ to contact me.",
+     "hint": "dudar",
+     "a": "hesitate",
+     "full": "Please do not hesitate to contact me."
+    },
+    {
+     "q": "The purpose of this report is to ______ the results of the survey.",
+     "hint": "presentar",
+     "a": "present",
+     "full": "The purpose of this report is to present the results of the survey."
+    },
+    {
+     "q": "It is ______ that the company hire more staff.",
+     "hint": "recomendado",
+     "a": "recommended",
+     "full": "It is recommended that the company hire more staff."
+    },
+    {
+     "q": "All products must comply ______ EU regulations.",
+     "hint": "preposición",
+     "a": "with",
+     "full": "All products must comply with EU regulations."
+    },
+    {
+     "q": "The offer is ______ to availability.",
+     "hint": "sujeto a",
+     "a": "subject",
+     "full": "The offer is subject to availability."
+    },
+    {
+     "q": "The company is not ______ for any loss or damage.",
+     "hint": "responsable",
+     "a": "liable",
+     "full": "The company is not liable for any loss or damage."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Le adjunto la factura.",
+     "a": "Please find attached the invoice."
+    },
+    {
+     "q": "Disculpe las molestias.",
+     "a": "We apologise for any inconvenience caused."
+    },
+    {
+     "q": "No dude en ponerse en contacto conmigo.",
+     "a": "Please do not hesitate to contact me."
+    },
+    {
+     "q": "La oferta está sujeta a disponibilidad.",
+     "a": "The offer is subject to availability."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

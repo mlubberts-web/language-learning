@@ -1,0 +1,327 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Estilo",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "La retórica y el estilo",
+  "subtitle": "Figuras retóricas, ironía, understatement, eufemismos y recursos retóricos en la argumentación",
+  "footer": "Language Learning · C2 · Estilo · Retórica",
+  "next": "Siguiente: C2 · pdf 6 — La escritura formal y profesional"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar las principales figuras retóricas en inglés",
+    "entender la ironía y el understatement, tan típicos del inglés británico",
+    "reconocer los eufemismos",
+    "usar recursos retóricos en un discurso o una argumentación"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Las figuras retóricas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    7.0,
+    6.0
+   ],
+   "head": [
+    "Figura",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "metaphor",
+     "Time is money.",
+     "metáfora"
+    ],
+    [
+     "simile",
+     "She sings like an angel. He's as cold as ice.",
+     "comparación, símil (like, as ... as)"
+    ],
+    [
+     "hyperbole",
+     "I've told you a million times.",
+     "hipérbole, exageración"
+    ],
+    [
+     "alliteration",
+     "Peter Piper picked a peck of pickled peppers.",
+     "aliteración (mismo sonido inicial)"
+    ],
+    [
+     "personification",
+     "The wind howled all night.",
+     "personificación"
+    ],
+    [
+     "oxymoron",
+     "a deafening silence, bitter sweet",
+     "oxímoron (palabras contradictorias)"
+    ],
+    [
+     "rhetorical question",
+     "Who doesn't want to be happy?",
+     "pregunta retórica"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Understatement e ironía"
+  },
+  {
+   "type": "p",
+   "text": "Los británicos dicen a menudo <b>menos</b> de lo que quieren decir, o <b>lo contrario</b>. Aprende a reconocer el tono, porque el español tiende más bien a exagerar:"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    7.0,
+    10.0
+   ],
+   "head": [
+    "Lo que se dice",
+    "Lo que se quiere decir"
+   ],
+   "rows": [
+    [
+     "It was a bit of a disaster.",
+     "Fue un desastre total."
+    ],
+    [
+     "I'm not entirely convinced.",
+     "No me lo creo en absoluto."
+    ],
+    [
+     "He's not the brightest.",
+     "Es bastante tonto."
+    ],
+    [
+     "Lovely weather! (bajo una lluvia torrencial)",
+     "Qué tiempo más asqueroso. (ironía)"
+    ],
+    [
+     "That went well. (después de un fracaso)",
+     "Ha salido fatal."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "La litotes: not bad = bueno",
+   "text": "La <b>litotes</b> dice algo positivo negando lo contrario: <i>not bad</i> (bueno), <i>not uncommon</i> (bastante frecuente), <i>not without risk</i> (arriesgado). El español también la tiene (<i>no está nada mal</i>), pero los británicos la usan muchísimo más. Y cuidado con la exageración española: <i>es lo mejor del mundo</i> o <i>me muero de hambre</i> suenan muy fuertes en inglés."
+  },
+  {
+   "type": "h1",
+   "text": "3. Los eufemismos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Eufemismos",
+   "items": [
+    [
+     "to pass away",
+     "fallecer"
+    ],
+    [
+     "to let someone go",
+     "despedir a alguien"
+    ],
+    [
+     "between jobs",
+     "en paro, sin trabajo"
+    ],
+    [
+     "senior citizen",
+     "persona mayor"
+    ],
+    [
+     "economical with the truth",
+     "mentir, faltar a la verdad"
+    ],
+    [
+     "to powder your nose",
+     "ir al servicio"
+    ],
+    [
+     "a little worse for wear",
+     "bebido, con mala cara"
+    ],
+    [
+     "downsizing",
+     "reducción de plantilla, despidos"
+    ],
+    [
+     "collateral damage",
+     "víctimas civiles"
+    ],
+    [
+     "in a delicate condition",
+     "embarazada (anticuado)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Recursos retóricos en una argumentación"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    7.6,
+    5.0
+   ],
+   "head": [
+    "Recurso",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "rule of three",
+     "We will fight for freedom, for justice and for equality.",
+     "ritmo, fácil de recordar"
+    ],
+    [
+     "anaphora",
+     "We shall fight on the beaches, we shall fight on the landing grounds ...",
+     "repetición al principio (anáfora)"
+    ],
+    [
+     "antithesis",
+     "Ask not what your country can do for you; ask what you can do for your country.",
+     "contraste (antítesis)"
+    ],
+    [
+     "direct address",
+     "You might ask yourself why this matters.",
+     "implica al oyente"
+    ],
+    [
+     "concession",
+     "Admittedly, there are risks. But ...",
+     "da credibilidad"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "\"She sings like an angel\" is a ______.",
+     "hint": "símil",
+     "a": "simile",
+     "full": "\"She sings like an angel\" is a simile."
+    },
+    {
+     "q": "\"Time is money\" is a ______.",
+     "hint": "metáfora",
+     "a": "metaphor",
+     "full": "\"Time is money\" is a metaphor."
+    },
+    {
+     "q": "\"I've told you a million times\" is an example of ______.",
+     "hint": "exageración",
+     "a": "hyperbole",
+     "full": "\"I've told you a million times\" is an example of hyperbole."
+    },
+    {
+     "q": "My grandfather passed ______ last year.",
+     "hint": "fallecer",
+     "a": "away",
+     "full": "My grandfather passed away last year."
+    },
+    {
+     "q": "The company had to let fifty people ______.",
+     "hint": "despedir",
+     "a": "go",
+     "full": "The company had to let fifty people go."
+    },
+    {
+     "q": "The film wasn't ______ at all. I really enjoyed it.",
+     "hint": "malo (litotes)",
+     "a": "bad",
+     "full": "The film wasn't bad at all. I really enjoyed it."
+    },
+    {
+     "q": "He was rather economical with the ______.",
+     "hint": "verdad",
+     "a": "truth",
+     "full": "He was rather economical with the truth."
+    },
+    {
+     "q": "The wind ______ all night.",
+     "hint": "aulló (personificación), howl",
+     "a": "howled",
+     "full": "The wind howled all night."
+    },
+    {
+     "q": "There was a deafening ______ after the announcement.",
+     "hint": "silencio (oxímoron)",
+     "a": "silence",
+     "full": "There was a deafening silence after the announcement."
+    },
+    {
+     "q": "______, there are risks. But the benefits are greater.",
+     "hint": "hay que reconocer",
+     "a": "Admittedly",
+     "full": "Admittedly, there are risks. But the benefits are greater."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Él falleció el año pasado. (eufemismo)",
+     "a": "He passed away last year."
+    },
+    {
+     "q": "No estuvo nada mal. (litotes, quiere decir: bien)",
+     "a": "It wasn't bad."
+    },
+    {
+     "q": "El tiempo es oro.",
+     "a": "Time is money."
+    },
+    {
+     "q": "Te lo he dicho mil veces.",
+     "a": "I've told you a thousand times."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

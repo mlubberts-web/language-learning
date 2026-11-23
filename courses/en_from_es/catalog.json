@@ -581,5 +581,27 @@
   "subtitle": "Verbo + complemento + infinitivo o -ing, y verbos para contar lo que alguien dijo (accuse of, urge to)",
   "content": "c2_04_verb_patterns.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_05_La_retorica_y_el_estilo",
+  "file": "C2_05_La_retorica_y_el_estilo.pdf",
+  "level": "C2",
+  "number": 5,
+  "section": "Estilo",
+  "title": "La retórica y el estilo",
+  "subtitle": "Figuras retóricas, ironía, understatement, eufemismos y recursos retóricos en la argumentación",
+  "content": "c2_05_rhetoric_style.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_06_La_escritura_formal_y_profesional",
+  "file": "C2_06_La_escritura_formal_y_profesional.pdf",
+  "level": "C2",
+  "number": 6,
+  "section": "Escritura",
+  "title": "La escritura formal y profesional",
+  "subtitle": "Informes, propuestas y cartas; formulaciones comerciales y jurídicas",
+  "content": "c2_06_formal_writing.json",
+  "exercise_count": 10
  }
 ]
