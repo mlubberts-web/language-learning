@@ -20,5 +20,49 @@
   "subtitle": "am, is y are: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
   "content": "a1_02_to_be.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_03_El_present_simple",
+  "file": "A1_03_El_present_simple.pdf",
+  "level": "A1",
+  "number": 3,
+  "section": "Verbos",
+  "title": "El present simple",
+  "subtitle": "Costumbres y hechos: la -s con he, she e it, y do y does en preguntas y negaciones",
+  "content": "a1_03_present_simple.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_04_have_got_there_is_y_can",
+  "file": "A1_04_have_got_there_is_y_can.pdf",
+  "level": "A1",
+  "number": 4,
+  "section": "Verbos",
+  "title": "have got, there is y can",
+  "subtitle": "La posesión, describir lo que hay, y decir lo que sabes o puedes hacer",
+  "content": "a1_04_have_got_there_is_can.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_05_Sustantivos_articulos_y_adjetivos",
+  "file": "A1_05_Sustantivos_articulos_y_adjetivos.pdf",
+  "level": "A1",
+  "number": 5,
+  "section": "Gramática",
+  "title": "Sustantivos, artículos y adjetivos",
+  "subtitle": "El plural, a / an / the, el lugar del adjetivo, y this, that, these y those",
+  "content": "a1_05_nouns_articles_adjectives.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_06_Pronombres_y_posesivos",
+  "file": "A1_06_Pronombres_y_posesivos.pdf",
+  "level": "A1",
+  "number": 6,
+  "section": "Gramática",
+  "title": "Pronombres y posesivos",
+  "subtitle": "I y me, my y mine, la 's de posesión, y whose",
+  "content": "a1_06_pronouns_possessives.json",
+  "exercise_count": 12
  }
 ]

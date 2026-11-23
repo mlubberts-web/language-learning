@@ -1,0 +1,506 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 4,
+  "total_in_level": 9,
+  "title": "have got, there is y can",
+  "subtitle": "La posesión, describir lo que hay, y decir lo que sabes o puedes hacer",
+  "footer": "Language Learning · A1 · Verbos · have got, there is, can",
+  "next": "Siguiente: A1 · pdf 5 — Sustantivos, artículos y adjetivos"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decir lo que tienes con <b>have</b> y <b>have got</b>",
+    "describir lo que hay en un sitio con <b>there is</b> y <b>there are</b>",
+    "contar lo que sabes hacer y pedir permiso con <b>can</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. have y have got"
+  },
+  {
+   "type": "p",
+   "text": "Para la posesión, la familia y los rasgos, el inglés tiene dos formas que significan lo mismo. <b>have got</b> es típicamente británico y muy normal al hablar; <b>have</b> se usa en todas partes, y en pasado solo existe <i>had</i>."
+  },
+  {
+   "type": "conj",
+   "verb": "to have",
+   "meaning": "tener",
+   "label": "verbo irregular",
+   "tense": "present simple",
+   "forms": [
+    "have",
+    "have",
+    "ha*s*",
+    "have",
+    "have",
+    "have"
+   ],
+   "examples": [
+    [
+     "I have two brothers.",
+     "Tengo dos hermanos."
+    ],
+    [
+     "You have a nice flat.",
+     "Tienes un piso muy bonito."
+    ],
+    [
+     "She has blue eyes.",
+     "Ella tiene los ojos azules."
+    ],
+    [
+     "We have a dog.",
+     "Tenemos un perro."
+    ],
+    [
+     "You have a lot of books.",
+     "Tenéis muchos libros."
+    ],
+    [
+     "They have three children.",
+     "Ellos tienen tres hijos."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "have got",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I've got a car.",
+     "I haven't got a car.",
+     "Have you got a car?"
+    ],
+    [
+     "She's got a cold.",
+     "She hasn't got a cold.",
+     "Has she got a cold?"
+    ],
+    [
+     "They've got time.",
+     "They haven't got time.",
+     "Have they got time?"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "have (con do)",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I have a car.",
+     "I don't have a car.",
+     "Do you have a car?"
+    ],
+    [
+     "She has a cold.",
+     "She doesn't have a cold.",
+     "Does she have a cold?"
+    ],
+    [
+     "They have time.",
+     "They don't have time.",
+     "Do they have time?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "No los mezcles",
+   "text": "Elige una forma por frase: <b>Have you got ...?</b> o <b>Do you have ...?</b> Nunca <i>Do you have got</i>, ni tampoco <i>I don't have got</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "'Tener' en español, no siempre have en inglés",
+   "bullets": [
+    "<i>Tengo hambre / sed / frío</i> = <b>I'm hungry / thirsty / cold</b> (to be, pdf 2).",
+    "<i>Tengo 20 años</i> = <b>I'm 20</b>, no <i>I have 20 years</i>.",
+    "Para comidas y actividades se usa have sin got: <b>have breakfast</b> (desayunar), <b>have a shower</b> (ducharse), <b>have a good time</b> (pasarlo bien)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. there is y there are"
+  },
+  {
+   "type": "p",
+   "text": "Con <b>there is</b> (singular) y <b>there are</b> (plural) dices que algo está en un sitio. Es el <i>hay</i> del español, pero el inglés distingue entre singular y plural."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "There's a bank near here.",
+     "There isn't a bank near here.",
+     "Is there a bank near here?"
+    ],
+    [
+     "There are two bedrooms.",
+     "There aren't any bedrooms upstairs.",
+     "Are there any shops?"
+    ],
+    [
+     "There's some milk in the fridge.",
+     "There isn't any milk.",
+     "Is there any milk?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "hay = there is o there are",
+   "text": "En español <i>hay</i> sirve para todo: <i>hay un libro</i>, <i>hay dos libros</i>. En inglés tienes que elegir: <b>There's a book on the table</b>, pero <b>There are two books on the table</b>. Y nunca <i>It has a book</i> ni <i>Has a book</i> para decir 'hay'."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "some y any",
+   "text": "En frases afirmativas se usa <b>some</b> (algo de, unos), en negaciones y preguntas <b>any</b>: <i>There are some apples.</i> — <i>There aren't any apples.</i> — <i>Are there any apples?</i> Más en A2 · pdf 8."
+  },
+  {
+   "type": "verbpairs",
+   "title": "En casa y en la ciudad",
+   "items": [
+    [
+     "kitchen",
+     "cocina"
+    ],
+    [
+     "bathroom",
+     "cuarto de baño"
+    ],
+    [
+     "bedroom",
+     "dormitorio"
+    ],
+    [
+     "living room",
+     "salón"
+    ],
+    [
+     "garden",
+     "jardín"
+    ],
+    [
+     "supermarket",
+     "supermercado"
+    ],
+    [
+     "chemist's",
+     "farmacia"
+    ],
+    [
+     "post office",
+     "oficina de correos, Correos"
+    ],
+    [
+     "bus stop",
+     "parada de autobús"
+    ],
+    [
+     "car park",
+     "aparcamiento, parking"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. can y can't"
+  },
+  {
+   "type": "p",
+   "text": "<b>can</b> (poder, saber hacer) es un verbo auxiliar. Tiene la misma forma para todas las personas, así que no lleva -s con he, she e it, y va seguido del verbo sin <i>to</i>. Las preguntas y las negaciones se hacen sin do."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    6.0,
+    6.8
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Saber hacer algo (capacidad)",
+     "She can swim. I can't drive.",
+     "Ella sabe nadar. Yo no sé conducir."
+    ],
+    [
+     "Poder (permiso)",
+     "Can I open the window?",
+     "¿Puedo abrir la ventana?"
+    ],
+    [
+     "Petición",
+     "Can you help me, please?",
+     "¿Me puedes ayudar, por favor?"
+    ],
+    [
+     "Posibilidad",
+     "You can take the bus.",
+     "Puedes coger el autobús."
+    ],
+    [
+     "Respuesta corta",
+     "Can you cook? Yes, I can. / No, I can't.",
+     "¿Sabes cocinar? Sí. / No."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "sé nadar = I can swim",
+   "text": "Para una habilidad el español usa <i>saber</i>, pero el inglés usa <b>can</b>: <i>Sé nadar</i> = <b>I can swim</b>, nunca <i>I know swim</i>. La negación larga es <b>cannot</b>, en una sola palabra; la corta es <b>can't</b>. En inglés británico can't suena como <i>caant</i> con una a larga, y can como <i>ken</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Cosas que sabes hacer",
+   "items": [
+    [
+     "to swim",
+     "nadar"
+    ],
+    [
+     "to drive",
+     "conducir"
+    ],
+    [
+     "to cook",
+     "cocinar"
+    ],
+    [
+     "to sing",
+     "cantar"
+    ],
+    [
+     "to dance",
+     "bailar"
+    ],
+    [
+     "to ride a bike",
+     "montar en bici"
+    ],
+    [
+     "to play the guitar",
+     "tocar la guitarra"
+    ],
+    [
+     "to speak English",
+     "hablar inglés"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "She have a sister.",
+     "She has a sister.",
+     "Con he, she e it es has."
+    ],
+    [
+     "Do you have got a pen?",
+     "Have you got a pen?",
+     "Elige have got o do you have, no las dos."
+    ],
+    [
+     "It is a bank near here.",
+     "There is a bank near here.",
+     "Algo que hay en un sitio: there is."
+    ],
+    [
+     "There is two cats.",
+     "There are two cats.",
+     "En plural: there are."
+    ],
+    [
+     "He cans swim.",
+     "He can swim.",
+     "can nunca lleva -s."
+    ],
+    [
+     "I can to drive.",
+     "I can drive.",
+     "Después de can no va to."
+    ],
+    [
+     "Do you can help me?",
+     "Can you help me?",
+     "can forma la pregunta él solo, sin do."
+    ],
+    [
+     "I have hunger.",
+     "I'm hungry.",
+     "Tener hambre es be hungry."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "My brother ______ two children.",
+     "hint": "have",
+     "a": "has",
+     "full": "My brother has two children."
+    },
+    {
+     "q": "______ you got a car?",
+     "hint": "have got",
+     "a": "Have",
+     "full": "Have you got a car?"
+    },
+    {
+     "q": "She ______ got a cold.",
+     "hint": "have got, negación",
+     "a": "hasn't",
+     "full": "She hasn't got a cold."
+    },
+    {
+     "q": "______ a supermarket near here?",
+     "hint": "is there o are there",
+     "a": "Is there",
+     "full": "Is there a supermarket near here?"
+    },
+    {
+     "q": "There ______ three bedrooms.",
+     "hint": "is o are",
+     "a": "are",
+     "full": "There are three bedrooms."
+    },
+    {
+     "q": "There isn't ______ milk.",
+     "hint": "some o any",
+     "a": "any",
+     "full": "There isn't any milk."
+    },
+    {
+     "q": "He ______ swim very well.",
+     "hint": "saber hacer",
+     "a": "can",
+     "full": "He can swim very well."
+    },
+    {
+     "q": "I ______ drive. I haven't got a licence.",
+     "hint": "no saber hacer",
+     "a": "can't",
+     "full": "I can't drive. I haven't got a licence."
+    },
+    {
+     "q": "______ I open the window?",
+     "hint": "poder, permiso",
+     "a": "Can",
+     "full": "Can I open the window?"
+    },
+    {
+     "q": "We ______ breakfast at eight.",
+     "hint": "have",
+     "a": "have",
+     "full": "We have breakfast at eight."
+    },
+    {
+     "q": "Can you cook? No, I ______.",
+     "hint": "respuesta corta",
+     "a": "can't",
+     "full": "Can you cook? No, I can't."
+    },
+    {
+     "q": "______ she have a job?",
+     "hint": "do o does",
+     "a": "Does",
+     "full": "Does she have a job?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hay un libro en la mesa.",
+     "a": "There is a book on the table."
+    },
+    {
+     "q": "¿Tienes un bolígrafo?",
+     "a": "Have you got a pen?"
+    },
+    {
+     "q": "Mi hermana sabe cantar muy bien.",
+     "a": "My sister can sing very well."
+    },
+    {
+     "q": "¿Hay tiendas por aquí cerca?",
+     "a": "Are there any shops near here?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

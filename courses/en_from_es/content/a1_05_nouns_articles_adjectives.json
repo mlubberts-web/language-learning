@@ -1,0 +1,486 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 5,
+  "total_in_level": 9,
+  "title": "Sustantivos, artículos y adjetivos",
+  "subtitle": "El plural, a / an / the, el lugar del adjetivo, y this, that, these y those",
+  "footer": "Language Learning · A1 · Gramática · Sustantivos y artículos",
+  "next": "Siguiente: A1 · pdf 6 — Pronombres y posesivos"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el plural de los sustantivos, también los irregulares",
+    "elegir entre <b>a</b>, <b>an</b>, <b>the</b> y ningún artículo",
+    "usar bien los adjetivos (delante del sustantivo, y nunca cambian)",
+    "usar <b>this, that, these</b> y <b>those</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El plural"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.6,
+    6.0
+   ],
+   "head": [
+    "Regla",
+    "Ejemplos",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "normalmente + s",
+     "book → books, car → cars",
+     ""
+    ],
+    [
+     "después de s, ss, sh, ch, x: + es",
+     "bus → buses, glass → glasses, box → boxes",
+     "una sílaba más: box-es"
+    ],
+    [
+     "consonante + y: -ies",
+     "city → cities, baby → babies",
+     "pero day → days, boy → boys"
+    ],
+    [
+     "-f / -fe: -ves",
+     "knife → knives, wife → wives, leaf → leaves",
+     "pero roof → roofs"
+    ],
+    [
+     "algunos en -o: + es",
+     "potato → potatoes, tomato → tomatoes",
+     "pero photo → photos, piano → pianos"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Plurales irregulares",
+   "items": [
+    [
+     "man / men",
+     "hombre / hombres"
+    ],
+    [
+     "woman / women",
+     "mujer / mujeres"
+    ],
+    [
+     "child / children",
+     "niño / niños"
+    ],
+    [
+     "person / people",
+     "persona / personas, gente"
+    ],
+    [
+     "foot / feet",
+     "pie / pies"
+    ],
+    [
+     "tooth / teeth",
+     "diente / dientes"
+    ],
+    [
+     "mouse / mice",
+     "ratón / ratones"
+    ],
+    [
+     "sheep / sheep",
+     "oveja / ovejas"
+    ],
+    [
+     "fish / fish",
+     "pez / peces, pescado"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "people es plural",
+   "text": "<b>people</b> (la gente, las personas) es plural, aunque <i>la gente</i> sea singular en español: <i>People <b>are</b> friendly here.</i> También <b>police</b> y <b>clothes</b> son plural: <i>The police are here. My clothes are wet.</i> Pero <b>news</b> es singular: <i>The news <b>is</b> good.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. a, an y the"
+  },
+  {
+   "type": "p",
+   "text": "El inglés no tiene género: no hay el / la ni un / una. Hay un solo artículo determinado, <b>the</b>, y un solo artículo indeterminado: <b>a</b>, o <b>an</b> delante de un <i>sonido</i> vocálico."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.8,
+    6.6,
+    6.6
+   ],
+   "head": [
+    "Artículo",
+    "Cuándo",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "a",
+     "delante de un sonido consonántico",
+     "a book, a car, a university (sonido 'iu'), a European city"
+    ],
+    [
+     "an",
+     "delante de un sonido vocálico",
+     "an apple, an egg, an hour (h muda), an umbrella"
+    ],
+    [
+     "the",
+     "algo conocido o lo único que hay",
+     "the sun, the station, the book on the table"
+    ],
+    [
+     "sin artículo",
+     "en general, plural o incontable",
+     "I like dogs. Milk is healthy."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cuenta el sonido, no la letra",
+   "text": "<b>a</b> university (se dice 'iu-niversity') pero <b>an</b> umbrella; <b>an</b> hour (la h es muda) pero <b>a</b> house. Escucha el principio de la palabra."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Dónde los hispanohablantes olvidan un artículo o ponen uno de más",
+   "bullets": [
+    "<b>Profesión</b>: <i>Soy médico</i> = <b>I'm a doctor</b> (con a).",
+    "<b>En general</b>: <i>La vida es bella</i> = <b>Life is beautiful</b>, y <i>Me gustan los perros</i> = <b>I like dogs</b> (sin the).",
+    "<b>Comidas y asignaturas</b>: <i>después del desayuno, estudio las matemáticas</i> = <b>after breakfast</b>, <b>I study maths</b>.",
+    "<b>Lugares</b>: <i>al colegio, a la cama, a casa</i> = <b>to school, to bed, home</b>."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Los adjetivos"
+  },
+  {
+   "type": "p",
+   "text": "En inglés el adjetivo va <b>delante</b> del sustantivo, al revés que en español: <i>una casa grande</i> = <b>a big house</b>. Y <b>nunca</b> cambia: ni masculino ni femenino, ni plural. <i>a big house, big houses, the big house.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Ni -s ni concordancia",
+   "text": "El español dice <i>coches rojos, casas rojas</i>. El inglés dice siempre <b>red</b>: <i>red cars, red houses</i>, nunca <i>reds cars</i>. Y el orden es fijo: <i>a red car</i>, nunca <i>a car red</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivos frecuentes",
+   "items": [
+    [
+     "big",
+     "grande"
+    ],
+    [
+     "small",
+     "pequeño"
+    ],
+    [
+     "old",
+     "viejo, antiguo"
+    ],
+    [
+     "new",
+     "nuevo"
+    ],
+    [
+     "young",
+     "joven"
+    ],
+    [
+     "good",
+     "bueno"
+    ],
+    [
+     "bad",
+     "malo"
+    ],
+    [
+     "cheap",
+     "barato"
+    ],
+    [
+     "expensive",
+     "caro"
+    ],
+    [
+     "beautiful",
+     "bonito, guapo"
+    ],
+    [
+     "ugly",
+     "feo"
+    ],
+    [
+     "easy",
+     "fácil"
+    ],
+    [
+     "difficult",
+     "difícil"
+    ],
+    [
+     "hot",
+     "caliente, que hace calor"
+    ],
+    [
+     "cold",
+     "frío"
+    ],
+    [
+     "tall",
+     "alto (persona)"
+    ],
+    [
+     "long",
+     "largo"
+    ],
+    [
+     "short",
+     "corto, bajo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿tall o long?",
+   "text": "Para personas y edificios se usa <b>tall</b> (alto): <i>He's very tall. A tall building.</i> Para distancias, tiempo y cosas, <b>long</b> (largo): <i>a long road, a long film</i>. Ojo: <i>long</i> nunca significa 'alto'."
+  },
+  {
+   "type": "h1",
+   "text": "4. this, that, these, those"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "",
+    "Singular",
+    "Plural",
+    "Español"
+   ],
+   "rows": [
+    [
+     "cerca",
+     "this",
+     "these",
+     "este, esta, esto / estos, estas"
+    ],
+    [
+     "lejos",
+     "that",
+     "those",
+     "ese, aquel / esos, aquellos"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>This is my brother.</i> — Este es mi hermano.<br/><i>These shoes are new.</i> — Estos zapatos son nuevos.<br/><i>Is that your car?</i> — ¿Ese es tu coche?<br/><i>Those people are from Spain.</i> — Esas personas son de España."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Estos son ... = These are ...",
+   "text": "En inglés la palabra cambia en plural, igual que en español: <b>These are my children</b> (estos son mis hijos), no <i>This are</i>. El inglés solo tiene dos distancias: <b>that</b> sirve para 'ese' y para 'aquel'."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I have two childs.",
+     "I have two children.",
+     "child tiene un plural irregular."
+    ],
+    [
+     "The people is nice.",
+     "The people are nice.",
+     "people es plural."
+    ],
+    [
+     "She is nurse.",
+     "She is a nurse.",
+     "Una profesión lleva a o an."
+    ],
+    [
+     "an university",
+     "a university",
+     "university empieza con el sonido 'iu': a."
+    ],
+    [
+     "The life is short.",
+     "Life is short.",
+     "Algo en general va sin the."
+    ],
+    [
+     "a house big",
+     "a big house",
+     "El adjetivo va delante del sustantivo."
+    ],
+    [
+     "This are my keys.",
+     "These are my keys.",
+     "En plural: these."
+    ],
+    [
+     "He is very long.",
+     "He is very tall.",
+     "Para una persona se dice tall."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I've got three ______.",
+     "hint": "child, plural",
+     "a": "children",
+     "full": "I've got three children."
+    },
+    {
+     "q": "There are two ______ in the kitchen.",
+     "hint": "knife, plural",
+     "a": "knives",
+     "full": "There are two knives in the kitchen."
+    },
+    {
+     "q": "We visited three ______.",
+     "hint": "city, plural",
+     "a": "cities",
+     "full": "We visited three cities."
+    },
+    {
+     "q": "She eats ______ apple every day.",
+     "hint": "a o an",
+     "a": "an",
+     "full": "She eats an apple every day."
+    },
+    {
+     "q": "He works at ______ university.",
+     "hint": "a o an",
+     "a": "a",
+     "full": "He works at a university."
+    },
+    {
+     "q": "Can you close ______ door, please?",
+     "hint": "artículo",
+     "a": "the",
+     "full": "Can you close the door, please?"
+    },
+    {
+     "q": "My father is ______ engineer.",
+     "hint": "a o an",
+     "a": "an",
+     "full": "My father is an engineer."
+    },
+    {
+     "q": "______ are my parents.",
+     "hint": "estos son",
+     "a": "These",
+     "full": "These are my parents."
+    },
+    {
+     "q": "Look at ______ birds over there.",
+     "hint": "esos, lejos",
+     "a": "those",
+     "full": "Look at those birds over there."
+    },
+    {
+     "q": "The ______ are very friendly here.",
+     "hint": "person, plural",
+     "a": "people",
+     "full": "The people are very friendly here."
+    },
+    {
+     "q": "My brother is very ______.",
+     "hint": "alto (persona)",
+     "a": "tall",
+     "full": "My brother is very tall."
+    },
+    {
+     "q": "It's a very ______ car.",
+     "hint": "caro",
+     "a": "expensive",
+     "full": "It's a very expensive car."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Mi madre es profesora.",
+     "a": "My mother is a teacher."
+    },
+    {
+     "q": "Estos zapatos son nuevos.",
+     "a": "These shoes are new."
+    },
+    {
+     "q": "La vida es bella.",
+     "a": "Life is beautiful."
+    },
+    {
+     "q": "Tengo dos hijos.",
+     "a": "I have two children."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,567 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 3,
+  "total_in_level": 9,
+  "title": "El present simple",
+  "subtitle": "Costumbres y hechos: la -s con he, she e it, y do y does en preguntas y negaciones",
+  "footer": "Language Learning · A1 · Verbos · Present simple",
+  "next": "Siguiente: A1 · pdf 4 — have got, there is y can"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "las formas del present simple, con la <b>-s</b> en he, she e it",
+    "hacer preguntas y negaciones con <b>do</b> y <b>does</b>",
+    "hablar de costumbres, rutinas y hechos",
+    "colocar bien palabras como always, often y never"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "El present simple es muy sencillo: usas el verbo entero sin <i>to</i>. Solo hay una excepción: con <b>he, she e it</b> se añade una <b>-s</b>. Es la única terminación, y por eso es fácil olvidarla: <i>she work</i> es el error más típico."
+  },
+  {
+   "type": "conj",
+   "verb": "to work",
+   "meaning": "trabajar",
+   "label": "verbo regular",
+   "tense": "present simple",
+   "forms": [
+    "work",
+    "work",
+    "work*s*",
+    "work",
+    "work",
+    "work"
+   ],
+   "examples": [
+    [
+     "I work in an office.",
+     "Trabajo en una oficina."
+    ],
+    [
+     "You work very hard.",
+     "Trabajas muchísimo."
+    ],
+    [
+     "She works at a school.",
+     "Ella trabaja en un colegio."
+    ],
+    [
+     "We work from home on Fridays.",
+     "Los viernes trabajamos en casa."
+    ],
+    [
+     "You work together.",
+     "Trabajáis juntos."
+    ],
+    [
+     "They work in London.",
+     "Ellos trabajan en Londres."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "to live",
+   "meaning": "vivir",
+   "label": "verbo regular",
+   "tense": "present simple",
+   "forms": [
+    "live",
+    "live",
+    "live*s*",
+    "live",
+    "live",
+    "live"
+   ],
+   "examples": [
+    [
+     "I live in Amsterdam.",
+     "Vivo en Ámsterdam."
+    ],
+    [
+     "Where do you live?",
+     "¿Dónde vives?"
+    ],
+    [
+     "He lives with his parents.",
+     "Él vive con sus padres."
+    ],
+    [
+     "We live near the sea.",
+     "Vivimos junto al mar."
+    ],
+    [
+     "You live in a big house.",
+     "Vivís en una casa grande."
+    ],
+    [
+     "They live in the city centre.",
+     "Ellos viven en el centro."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    4.0,
+    8.0
+   ],
+   "head": [
+    "Regla de ortografía para he / she / it",
+    "Ejemplo",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "normalmente + s",
+     "work → works, play → plays",
+     ""
+    ],
+    [
+     "después de s, sh, ch, x, o: + es",
+     "watch → watches, go → goes, do → does",
+     "en watches se oye una sílaba más"
+    ],
+    [
+     "consonante + y: la y se convierte en ies",
+     "study → studies, fly → flies",
+     "pero play → plays (vocal + y)"
+    ],
+    [
+     "irregular",
+     "have → has",
+     "be → is (pdf 2)"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Negar y preguntar con do y does"
+  },
+  {
+   "type": "p",
+   "text": "En inglés un verbo normal no se puede poner sin más en negativo ni en una pregunta. Hace falta un verbo auxiliar: <b>do</b>, o <b>does</b> con he, she e it. La -s pasa entonces a does, y el verbo principal se queda sin nada."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I work.",
+     "I don't work.",
+     "Do I work?"
+    ],
+    [
+     "You like tea.",
+     "You don't like tea.",
+     "Do you like tea?"
+    ],
+    [
+     "She plays tennis.",
+     "She doesn't play tennis.",
+     "Does she play tennis?"
+    ],
+    [
+     "We live here.",
+     "We don't live here.",
+     "Do we live here?"
+    ],
+    [
+     "They speak English.",
+     "They don't speak English.",
+     "Do they speak English?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Español: '¿Trabajas?' — inglés: 'Do you work?'",
+   "text": "En español una pregunta solo cambia la entonación: <i>¿Hablas inglés?</i> En inglés eso no basta con un verbo normal. Se pone <b>do</b> o <b>does</b> delante: <b>Do you speak English?</b> Lo mismo al negar: <i>No trabajo</i> = <b>I don't work</b>, nunca <i>I no work</i> ni <i>I work not</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Con una -s basta",
+   "text": "Con does la -s ya está en el verbo auxiliar. Así que <b>Does she work?</b> y <b>She doesn't work</b>, nunca <i>Does she works?</i> ni <i>She doesn't works</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Pregunta",
+    "Sí",
+    "No"
+   ],
+   "rows": [
+    [
+     "Do you like coffee?",
+     "Yes, I do.",
+     "No, I don't."
+    ],
+    [
+     "Does he drive?",
+     "Yes, he does.",
+     "No, he doesn't."
+    ],
+    [
+     "Do they live here?",
+     "Yes, they do.",
+     "No, they don't."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿Cuándo se usa el present simple?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Costumbres y rutinas",
+     "I get up at seven.",
+     "Me levanto a las siete."
+    ],
+    [
+     "Hechos",
+     "Water boils at 100 degrees.",
+     "El agua hierve a 100 grados. (en inglés sin the: water)"
+    ],
+    [
+     "Situaciones permanentes",
+     "She lives in Leiden.",
+     "Ella vive en Leiden."
+    ],
+    [
+     "Lo que piensas o sabes",
+     "I like jazz. I know him.",
+     "Me gusta el jazz. Lo conozco."
+    ],
+    [
+     "Horarios",
+     "The train leaves at 8.15.",
+     "El tren sale a las 8:15."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "No para lo que pasa ahora",
+   "text": "En español puedes decir <i>Leo mucho</i> y también <i>¿Qué lees?</i> para lo que haces en este momento. El inglés es más estricto: <b>I read a lot</b> (costumbre) frente a <b>I'm reading a book</b> (ahora, en este momento), como <i>estoy leyendo</i>. Esa segunda forma llega en el pdf 7."
+  },
+  {
+   "type": "h1",
+   "text": "4. ¿Con qué frecuencia?"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras de frecuencia",
+   "items": [
+    [
+     "always",
+     "siempre"
+    ],
+    [
+     "usually",
+     "normalmente, por lo general"
+    ],
+    [
+     "often",
+     "a menudo, con frecuencia"
+    ],
+    [
+     "sometimes",
+     "a veces"
+    ],
+    [
+     "rarely",
+     "pocas veces, rara vez"
+    ],
+    [
+     "never",
+     "nunca"
+    ],
+    [
+     "every day",
+     "todos los días, cada día"
+    ],
+    [
+     "once a week",
+     "una vez a la semana"
+    ],
+    [
+     "twice a month",
+     "dos veces al mes"
+    ],
+    [
+     "on Mondays",
+     "los lunes"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "El lugar en la frase",
+   "text": "Always, usually, often, sometimes y never van <b>delante</b> del verbo normal, pero <b>detrás</b> de am / is / are: <i>I <b>often</b> cook.</i> — <i>She is <b>often</b> late.</i> Expresiones como <i>every day</i> y <i>once a week</i> van al final: <i>I swim twice a week.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "No pongas often al principio como en español",
+   "text": "En español dices <i>A menudo cocino</i> o <i>Cocino a menudo</i>. El inglés dice <b>I often cook</b>: la palabra va entre el sujeto y el verbo. <i>I cook often</i> también se oye, pero <i>Often I cook</i> suena raro."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos frecuentes para las rutinas",
+   "items": [
+    [
+     "to get up",
+     "levantarse"
+    ],
+    [
+     "to have breakfast",
+     "desayunar"
+    ],
+    [
+     "to go to work",
+     "ir al trabajo"
+    ],
+    [
+     "to start",
+     "empezar, comenzar"
+    ],
+    [
+     "to finish",
+     "terminar, acabar"
+    ],
+    [
+     "to cook",
+     "cocinar"
+    ],
+    [
+     "to watch TV",
+     "ver la tele"
+    ],
+    [
+     "to go to bed",
+     "irse a la cama, acostarse"
+    ],
+    [
+     "to read",
+     "leer"
+    ],
+    [
+     "to study",
+     "estudiar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "She work in a bank.",
+     "She works in a bank.",
+     "Con he, she e it se añade una -s."
+    ],
+    [
+     "Work you on Sundays?",
+     "Do you work on Sundays?",
+     "Una pregunta con un verbo normal lleva do."
+    ],
+    [
+     "He don't like fish.",
+     "He doesn't like fish.",
+     "Con he, she e it es does."
+    ],
+    [
+     "Does she likes tea?",
+     "Does she like tea?",
+     "Después de does el verbo va sin -s."
+    ],
+    [
+     "I work not on Fridays.",
+     "I don't work on Fridays.",
+     "Para negar se usa don't."
+    ],
+    [
+     "He studys English.",
+     "He studies English.",
+     "Consonante + y se convierte en -ies."
+    ],
+    [
+     "I go always by bike.",
+     "I always go by bike.",
+     "always va delante del verbo."
+    ],
+    [
+     "She watchs TV.",
+     "She watches TV.",
+     "Después de ch va -es."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "My sister ______ in Rotterdam.",
+     "hint": "live",
+     "a": "lives",
+     "full": "My sister lives in Rotterdam."
+    },
+    {
+     "q": "I ______ coffee every morning.",
+     "hint": "drink",
+     "a": "drink",
+     "full": "I drink coffee every morning."
+    },
+    {
+     "q": "He ______ TV in the evening.",
+     "hint": "watch",
+     "a": "watches",
+     "full": "He watches TV in the evening."
+    },
+    {
+     "q": "______ you speak French?",
+     "hint": "do o does",
+     "a": "Do",
+     "full": "Do you speak French?"
+    },
+    {
+     "q": "______ she play the piano?",
+     "hint": "do o does",
+     "a": "Does",
+     "full": "Does she play the piano?"
+    },
+    {
+     "q": "We ______ work on Sundays.",
+     "hint": "negación",
+     "a": "don't",
+     "full": "We don't work on Sundays."
+    },
+    {
+     "q": "He ______ eat meat.",
+     "hint": "negación",
+     "a": "doesn't",
+     "full": "He doesn't eat meat."
+    },
+    {
+     "q": "She ______ English at university.",
+     "hint": "study",
+     "a": "studies",
+     "full": "She studies English at university."
+    },
+    {
+     "q": "The shop ______ at nine.",
+     "hint": "open",
+     "a": "opens",
+     "full": "The shop opens at nine."
+    },
+    {
+     "q": "Do you like tea? Yes, I ______.",
+     "hint": "respuesta corta",
+     "a": "do",
+     "full": "Do you like tea? Yes, I do."
+    },
+    {
+     "q": "I ______ go by bike.",
+     "hint": "siempre",
+     "a": "always",
+     "full": "I always go by bike."
+    },
+    {
+     "q": "My father ______ to work by train.",
+     "hint": "go",
+     "a": "goes",
+     "full": "My father goes to work by train."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Hablas inglés?",
+     "a": "Do you speak English?"
+    },
+    {
+     "q": "Ella vive en Utrecht.",
+     "a": "She lives in Utrecht."
+    },
+    {
+     "q": "Él no bebe café.",
+     "a": "He doesn't drink coffee."
+    },
+    {
+     "q": "Normalmente me levanto a las siete.",
+     "a": "I usually get up at seven."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

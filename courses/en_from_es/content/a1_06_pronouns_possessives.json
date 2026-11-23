@@ -1,0 +1,471 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 9,
+  "title": "Pronombres y posesivos",
+  "subtitle": "I y me, my y mine, la 's de posesión, y whose",
+  "footer": "Language Learning · A1 · Gramática · Pronombres y posesivos",
+  "next": "Siguiente: A1 · pdf 7 — El present continuous"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre las formas de sujeto (I, he) y de complemento (me, him)",
+    "expresar posesión con my, your, his ... y con mine, yours, his ...",
+    "usar la <b>'s</b>: <i>Anna's bike</i>",
+    "preguntar con <b>whose</b> (de quién)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La tabla"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    3.4,
+    3.4,
+    3.4,
+    3.4
+   ],
+   "head": [
+    "Sujeto",
+    "Complemento",
+    "Posesivo + sustantivo",
+    "Posesivo sin sustantivo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I",
+     "me",
+     "my",
+     "mine",
+     "yo / me, mí / mi / mío"
+    ],
+    [
+     "you",
+     "you",
+     "your",
+     "yours",
+     "tú, usted / te, ti, le / tu, su / tuyo, suyo"
+    ],
+    [
+     "he",
+     "him",
+     "his",
+     "his",
+     "él / lo, le / su / suyo"
+    ],
+    [
+     "she",
+     "her",
+     "her",
+     "hers",
+     "ella / la, le / su / suya"
+    ],
+    [
+     "it",
+     "it",
+     "its",
+     "—",
+     "ello (cosa, animal) / lo / su"
+    ],
+    [
+     "we",
+     "us",
+     "our",
+     "ours",
+     "nosotros / nos / nuestro / nuestro"
+    ],
+    [
+     "you",
+     "you",
+     "your",
+     "yours",
+     "vosotros, ustedes / os, les / vuestro, su / vuestro, suyo"
+    ],
+    [
+     "they",
+     "them",
+     "their",
+     "theirs",
+     "ellos, ellas / los, les / su / suyo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un 'su' español, cuatro palabras inglesas",
+   "text": "El español usa <i>su</i> para todo: <i>su coche</i> puede ser de él, de ella, de ellos o de usted. El inglés siempre dice de quién es: <b>his</b> (de él), <b>her</b> (de ella), <b>their</b> (de ellos), <b>your</b> (de usted). Y depende del <i>poseedor</i>, no de la cosa: <i>Anna and her brother</i>, <i>Tom and his sister</i>. Además, el posesivo no cambia en plural: <i>my friends</i>, nunca <i>mys friends</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Sujeto o complemento?"
+  },
+  {
+   "type": "p",
+   "text": "El sujeto hace algo: <b>She</b> calls <b>me</b>. Después de un verbo y de una preposición (with, for, to, about ...) se usa la forma de complemento: <i>Call <b>him</b>. Come with <b>us</b>. This is for <b>them</b>.</i> Y el sujeto nunca se omite: <i>She calls me</i>, no <i>Calls me</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Incorrecto",
+    "Correcto",
+    "Por qué"
+   ],
+   "rows": [
+    [
+     "Me and Tom are friends.",
+     "Tom and I are friends.",
+     "sujeto: I; por cortesía, el otro primero"
+    ],
+    [
+     "Between you and I.",
+     "Between you and me.",
+     "después de una preposición: me"
+    ],
+    [
+     "Him is my brother.",
+     "He is my brother.",
+     "sujeto: he"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "It's me.",
+   "text": "Después de <b>be</b>, en el habla normal se usa la forma de complemento: <i>Who's there? — It's me.</i> (Soy yo.)"
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "it para cosas y animales",
+   "text": "Para una cosa se usa siempre <b>it</b>, aunque en español sea masculina o femenina, y aunque en español no digas el pronombre: <i>¿Dónde está mi llave? Está en la mesa.</i> = <b>Where's my key? It's on the table.</b> Una mascota puede ser he o she."
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿my o mine?"
+  },
+  {
+   "type": "p",
+   "text": "<b>my, your, his ...</b> van delante de un sustantivo: <i>my bike</i>. <b>mine, yours, his ...</b> van solos: <i>This bike is <b>mine</b>.</i> (Esta bici es mía.)"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Con sustantivo",
+    "Sin sustantivo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "It's my book.",
+     "It's mine.",
+     "Es mío."
+    ],
+    [
+     "Is this your coat?",
+     "Is this yours?",
+     "¿Este es tuyo?"
+    ],
+    [
+     "That's her phone.",
+     "That's hers.",
+     "Ese es suyo (de ella)."
+    ],
+    [
+     "It's our house.",
+     "It's ours.",
+     "Es nuestra."
+    ],
+    [
+     "They're their keys.",
+     "They're theirs.",
+     "Son suyas (de ellos)."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿its o it's?",
+   "text": "<b>its</b> = su (de una cosa o un animal): <i>The dog wants its food.</i> <b>it's</b> = it is: <i>It's cold.</i> Los posesivos nunca llevan apóstrofo: yours, hers, ours, theirs."
+  },
+  {
+   "type": "h1",
+   "text": "4. La 's de posesión"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.6,
+    6.0
+   ],
+   "head": [
+    "Regla",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "persona + 's",
+     "Anna's bike",
+     "la bici de Anna"
+    ],
+    [
+     "plural en -s: solo '",
+     "my parents' house",
+     "la casa de mis padres"
+    ],
+    [
+     "plural irregular + 's",
+     "the children's toys",
+     "los juguetes de los niños"
+    ],
+    [
+     "cosas: normalmente of",
+     "the end of the film",
+     "el final de la película"
+    ],
+    [
+     "en casa de alguien",
+     "at Tom's",
+     "en casa de Tom"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "'de' en español, 's en inglés",
+   "text": "El español dice <i>el coche de mi padre</i>. El inglés, con personas, dice casi siempre <b>my father's car</b>: primero el poseedor, luego la cosa, y sin artículo. <i>The car of my father</i> suena muy poco natural."
+  },
+  {
+   "type": "h1",
+   "text": "5. whose"
+  },
+  {
+   "type": "p",
+   "text": "<b>Whose</b> (de quién) pregunta por el poseedor: <i>Whose bag is this? — It's Lisa's.</i> Ojo: <b>whose</b> suena igual que <b>who's</b> (= who is)."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Frases útiles",
+   "items": [
+    [
+     "Whose is this?",
+     "¿De quién es esto?"
+    ],
+    [
+     "It's mine.",
+     "Es mío."
+    ],
+    [
+     "Is this yours?",
+     "¿Esto es tuyo?"
+    ],
+    [
+     "a friend of mine",
+     "un amigo mío"
+    ],
+    [
+     "on my own",
+     "yo solo, por mi cuenta"
+    ],
+    [
+     "Help yourself.",
+     "sírvete, cógelo"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Where is my key? He is on the table.",
+     "Where is my key? It is on the table.",
+     "Para una cosa se usa it."
+    ],
+    [
+     "Me and my sister live in Delft.",
+     "My sister and I live in Delft.",
+     "Sujeto: I, y el otro primero."
+    ],
+    [
+     "Can you help I?",
+     "Can you help me?",
+     "Después de un verbo: me."
+    ],
+    [
+     "This bag is my.",
+     "This bag is mine.",
+     "Sin sustantivo: mine."
+    ],
+    [
+     "Anna and his brother",
+     "Anna and her brother",
+     "her va con una poseedora femenina."
+    ],
+    [
+     "the car of my father",
+     "my father's car",
+     "Con personas: 's."
+    ],
+    [
+     "The dog wants it's food.",
+     "The dog wants its food.",
+     "its sin apóstrofo es posesivo."
+    ],
+    [
+     "Is this your's?",
+     "Is this yours?",
+     "yours no lleva apóstrofo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el pronombre correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Can you call ______ tomorrow?",
+     "hint": "me",
+     "a": "me",
+     "full": "Can you call me tomorrow?"
+    },
+    {
+     "q": "Tom lives with ______ parents.",
+     "hint": "sus (de él)",
+     "a": "his",
+     "full": "Tom lives with his parents."
+    },
+    {
+     "q": "Lisa and ______ husband are teachers.",
+     "hint": "su (de ella)",
+     "a": "her",
+     "full": "Lisa and her husband are teachers."
+    },
+    {
+     "q": "This coffee is for ______.",
+     "hint": "ellos, complemento",
+     "a": "them",
+     "full": "This coffee is for them."
+    },
+    {
+     "q": "Is this bag ______?",
+     "hint": "tuyo",
+     "a": "yours",
+     "full": "Is this bag yours?"
+    },
+    {
+     "q": "That house is ______.",
+     "hint": "nuestra",
+     "a": "ours",
+     "full": "That house is ours."
+    },
+    {
+     "q": "Where's my phone? ______ is in your bag.",
+     "hint": "sujeto para una cosa",
+     "a": "It",
+     "full": "Where's my phone? It is in your bag."
+    },
+    {
+     "q": "______ bike is this?",
+     "hint": "de quién",
+     "a": "Whose",
+     "full": "Whose bike is this?"
+    },
+    {
+     "q": "This is my ______ car.",
+     "hint": "de mi hermano: brother",
+     "a": "brother's",
+     "full": "This is my brother's car."
+    },
+    {
+     "q": "The cat is eating ______ food.",
+     "hint": "su (de un animal)",
+     "a": "its",
+     "full": "The cat is eating its food."
+    },
+    {
+     "q": "We love ______ new flat.",
+     "hint": "nuestro",
+     "a": "our",
+     "full": "We love our new flat."
+    },
+    {
+     "q": "My sister and ______ are twins.",
+     "hint": "yo",
+     "a": "I",
+     "full": "My sister and I are twins."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Este abrigo es mío.",
+     "a": "This coat is mine."
+    },
+    {
+     "q": "El coche de mi padre es nuevo.",
+     "a": "My father's car is new."
+    },
+    {
+     "q": "¿De quién es este bolso?",
+     "a": "Whose bag is this?"
+    },
+    {
+     "q": "¿Puedes ayudarle?",
+     "a": "Can you help him?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
