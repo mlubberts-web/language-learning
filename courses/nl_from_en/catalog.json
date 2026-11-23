@@ -42,5 +42,16 @@
   "subtitle": "The two articles, plurals in -en and -s, and diminutives in -je",
   "content": "a1_04_de_het.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_05_Word_order_and_questions",
+  "file": "A1_05_Word_order_and_questions.pdf",
+  "level": "A1",
+  "number": 5,
+  "section": "Grammar",
+  "title": "Word order and questions",
+  "subtitle": "The verb in second place, inversion, question words, and where niet and geen go",
+  "content": "a1_05_word_order_questions.json",
+  "exercise_count": 12
  }
 ]
