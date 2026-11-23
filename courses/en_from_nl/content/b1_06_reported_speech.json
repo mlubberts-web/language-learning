@@ -1,0 +1,85 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 6, "total_in_level": 10,
+ "title": "De indirecte rede",
+ "subtitle": "said en told, de tijden een stap terug, en indirecte vragen en verzoeken",
+ "footer": "Language Learning · B1 · Grammatica · De indirecte rede",
+ "next": "Volgende: B1 · pdf 7 — Gerund of infinitief"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "navertellen wat iemand zei, met <b>say</b> en <b>tell</b>",
+  "de tijden een stap terugzetten",
+  "indirecte vragen maken met <b>if</b> en vraagwoorden, zonder do",
+  "verzoeken en opdrachten navertellen met <b>asked / told someone to</b>"]},
+
+ {"type": "h1", "text": "1. say of tell?"},
+ {"type": "table", "style": "plain", "widths": [3.0, 6.0, 8.0], "head": ["", "Regel", "Voorbeeld"], "rows": [
+  ["say", "zonder persoon, of met to + persoon", "She said (that) she was tired. She said to me that ..."],
+  ["tell", "altijd met een persoon direct erachter", "She told me (that) she was tired."],
+  ["tell", "vaste combinaties", "tell the truth, tell a lie, tell a story, tell the time"]]},
+ {"type": "callout", "kind": "dutch", "title": "Hij zei me = He told me", "text": "Het Nederlandse <i>zeggen</i> en <i>vertellen</i> passen niet precies op say en tell. Onthoud: als er direct een persoon volgt, gebruik je <b>tell</b>: <i>He told me</i>, nooit <i>He said me</i>."},
+
+ {"type": "h1", "text": "2. De tijden een stap terug"},
+ {"type": "p", "text": "Na een werkwoord in het verleden (said, told, asked) zet je de tijd meestal een stap terug. Ook voornaamwoorden en tijdwoorden veranderen."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Wat iemand zei", "Indirect", "Tijd"], "rows": [
+  ["\"I'm tired.\"", "She said she was tired.", "present → past"],
+  ["\"I'm working.\"", "He said he was working.", "present continuous → past continuous"],
+  ["\"I saw the film.\"", "She said she had seen the film.", "past → past perfect"],
+  ["\"I've finished.\"", "He said he had finished.", "present perfect → past perfect"],
+  ["\"I'll call you.\"", "She said she would call me.", "will → would"],
+  ["\"I can swim.\"", "He said he could swim.", "can → could"]]},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Direct", "Indirect", ""], "rows": [
+  ["today", "that day", ""],
+  ["tomorrow", "the next day", ""],
+  ["yesterday", "the day before", ""],
+  ["here", "there", ""],
+  ["this", "that", ""]]},
+ {"type": "callout", "kind": "tip", "title": "Wanneer niet terugzetten?", "text": "Is het nog steeds waar, dan mag de tijd blijven: <i>She said she <b>lives</b> in Leiden</i> (ze woont er nog). En na een werkwoord in de tegenwoordige tijd verandert er niets: <i>He says he's busy.</i>"},
+
+ {"type": "h1", "text": "3. Indirecte vragen"},
+ {"type": "p", "text": "In een indirecte vraag staat de gewone woordvolgorde (onderwerp – werkwoord), <b>zonder do, does of did</b> en zonder vraagteken. Ja/nee-vragen krijgen <b>if</b> of <b>whether</b>."},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Directe vraag", "Indirect", "Nederlands"], "rows": [
+  ["\"Where do you live?\"", "He asked me where I lived.", "Hij vroeg waar ik woonde."],
+  ["\"Are you hungry?\"", "She asked if I was hungry.", "Zij vroeg of ik honger had."],
+  ["\"What time is it?\"", "Can you tell me what time it is?", "Kunt u me zeggen hoe laat het is?"],
+  ["\"Did you see him?\"", "They asked whether I had seen him.", "Zij vroegen of ik hem had gezien."]]},
+ {"type": "callout", "kind": "dutch", "title": "of = if of whether", "text": "Het Nederlandse <i>of</i> in een indirecte vraag is <b>if</b> of <b>whether</b>, niet <i>or</i>: <i>Ik weet niet of hij komt</i> = <b>I don't know if he's coming</b>."},
+
+ {"type": "h1", "text": "4. Verzoeken en opdrachten"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["Direct", "Indirect", "Nederlands"], "rows": [
+  ["\"Please help me.\"", "She asked me to help her.", "Zij vroeg me haar te helpen."],
+  ["\"Sit down!\"", "He told us to sit down.", "Hij zei dat we moesten gaan zitten."],
+  ["\"Don't be late.\"", "My boss told me not to be late.", "Mijn baas zei dat ik niet te laat moest komen."]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["He said me that he was ill.", "He told me that he was ill.", "Met een persoon erachter: tell."],
+  ["She asked me where did I live.", "She asked me where I lived.", "Indirecte vraag: geen did, gewone volgorde."],
+  ["Can you tell me where is the station?", "Can you tell me where the station is?", "Indirecte vraag: onderwerp vóór het werkwoord."],
+  ["He told that he was tired.", "He said that he was tired.", "Zonder persoon: say."],
+  ["She asked me or I wanted tea.", "She asked me if I wanted tea.", "Of in een indirecte vraag: if."],
+  ["He told me don't touch it.", "He told me not to touch it.", "Een verbod navertellen: not to."],
+  ["She said she will come.", "She said she would come.", "will wordt would."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "She ______ me she was leaving.", "hint": "say of tell", "a": "told", "full": "She told me she was leaving."},
+  {"q": "He ______ that he didn't like fish.", "hint": "say of tell", "a": "said", "full": "He said that he didn't like fish."},
+  {"q": "\"I'm busy.\" — She said she ______ busy.", "hint": "tijd terug", "a": "was", "full": "\"I'm busy.\" — She said she was busy."},
+  {"q": "\"I'll help you.\" — He said he ______ help me.", "hint": "will terug", "a": "would", "full": "\"I'll help you.\" — He said he would help me."},
+  {"q": "\"I saw it.\" — She said she ______ seen it.", "hint": "past perfect", "a": "had", "full": "\"I saw it.\" — She said she had seen it."},
+  {"q": "He asked me ______ I was married.", "hint": "of", "a": "if", "full": "He asked me if I was married."},
+  {"q": "Can you tell me where the toilets ______?", "hint": "to be", "a": "are", "full": "Can you tell me where the toilets are?"},
+  {"q": "She asked me ______ close the window.", "hint": "verzoek", "a": "to", "full": "She asked me to close the window."},
+  {"q": "The doctor told me ______ to eat too much sugar.", "hint": "verbod", "a": "not", "full": "The doctor told me not to eat too much sugar."},
+  {"q": "\"I can drive.\" — He said he ______ drive.", "hint": "can terug", "a": "could", "full": "\"I can drive.\" — He said he could drive."},
+  {"q": "I don't know ______ she will come.", "hint": "of", "a": "if", "full": "I don't know if she will come."},
+  {"q": "Don't ______ lies!", "hint": "say of tell", "a": "tell", "full": "Don't tell lies!"}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hij zei dat hij moe was.", "a": "He said he was tired."},
+  {"q": "Zij vroeg me waar ik woonde.", "a": "She asked me where I lived."},
+  {"q": "Ik weet niet of hij komt.", "a": "I don't know if he's coming."},
+  {"q": "Mijn moeder vroeg me haar te helpen.", "a": "My mother asked me to help her."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

@@ -1,0 +1,75 @@
+{"meta": {"level": "B1", "section": "Grammatica", "number": 5, "total_in_level": 10,
+ "title": "Betrekkelijke bijzinnen",
+ "subtitle": "who, which, that, whose en where; beperkende en uitbreidende bijzinnen; het voornaamwoord weglaten",
+ "footer": "Language Learning · B1 · Grammatica · Betrekkelijke bijzinnen",
+ "next": "Volgende: B1 · pdf 6 — De indirecte rede"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "zinnen verbinden met <b>who, which, that, whose</b> en <b>where</b>",
+  "beperkende en uitbreidende bijzinnen onderscheiden, met de goede komma's",
+  "het betrekkelijk voornaamwoord weglaten waar dat mag",
+  "voorzetsels aan het eind van de bijzin plaatsen"]},
+
+ {"type": "h1", "text": "1. Welk woord?"},
+ {"type": "table", "style": "plain", "widths": [3.0, 5.0, 9.0], "head": ["Woord", "Voor", "Voorbeeld"], "rows": [
+  ["who", "mensen", "The woman who lives next door is a doctor."],
+  ["which", "dingen en dieren", "The book which I'm reading is great."],
+  ["that", "mensen en dingen (niet na een komma)", "The man that called you is here. The car that I bought is red."],
+  ["whose", "bezit (van wie, waarvan)", "That's the girl whose brother plays for Ajax."],
+  ["where", "plaatsen", "This is the hotel where we stayed."],
+  ["when", "tijd", "I remember the day when we met."]]},
+ {"type": "callout", "kind": "dutch", "title": "die en dat = who, which of that", "text": "Het Nederlands kiest tussen <i>die</i> en <i>dat</i> op grond van het woord (de of het). Het Engels kiest op grond van <b>mens of ding</b>: <i>de man die</i> = <b>the man who</b>, <i>het boek dat</i> = <b>the book which / that</b>. En <i>wat</i> na een hele zin is <b>which</b>: <i>Hij kwam te laat, wat me stoorde</i> = <b>He was late, which annoyed me</b>."},
+
+ {"type": "h1", "text": "2. Beperkend of uitbreidend?"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Beperkend (geen komma's)", "Uitbreidend (met komma's)"], "rows": [
+  ["My brother who lives in Spain is a chef. (ik heb meer broers)", "My brother, who lives in Spain, is a chef. (ik heb één broer)"],
+  ["The students who studied passed. (alleen zij)", "The students, who studied hard, all passed. (alle studenten)"],
+  ["that mag: The film that we saw was good.", "that mag niet: The film, which we saw last week, was good."]]},
+ {"type": "callout", "kind": "warn", "title": "Na een komma nooit that", "text": "In een uitbreidende bijzin (met komma's) gebruik je alleen <b>who</b> of <b>which</b>: <i>Amsterdam, <b>which</b> is the capital, ...</i>, nooit <i>Amsterdam, that is the capital</i>."},
+
+ {"type": "h1", "text": "3. Het voornaamwoord weglaten"},
+ {"type": "p", "text": "In een <b>beperkende</b> bijzin mag je who, which of that weglaten als het <b>lijdend voorwerp</b> is (er volgt een nieuw onderwerp). Dat doen Engelsen in spreektaal heel vaak."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Met", "Zonder"], "rows": [
+  ["The book that I read was boring.", "The book I read was boring."],
+  ["The people who we met were nice.", "The people we met were nice."],
+  ["The man who lives here is old.", "Niet weglaten: who is hier het onderwerp."]]},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlands laat nooit iets weg", "text": "<i>Het boek dat ik las</i> heeft altijd 'dat'. Engelsen zeggen meestal gewoon <b>the book I read</b>. Herken die zinnen als je leest: er lijkt een woord te ontbreken, maar dat klopt."},
+
+ {"type": "h1", "text": "4. Voorzetsels"},
+ {"type": "p", "text": "In gewoon Engels staat het voorzetsel aan het <b>eind</b> van de bijzin: <i>the girl I was talking <b>to</b></i>, <i>the house we live <b>in</b></i>, <i>the music I listen <b>to</b></i>. In formeel Engels staat het vooraan, met whom of which: <i>the person <b>to whom</b> I spoke</i>."},
+ {"type": "callout", "kind": "tip", "title": "what = the thing that", "text": "<b>what</b> betekent <i>datgene wat</i>: <i><b>What</b> I need is a holiday. I don't understand <b>what</b> you mean.</i> Na een zelfstandig naamwoord kan het niet: <i>the thing <b>that</b> I need</i>, niet <i>the thing what</i>."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["The man which called you is here.", "The man who called you is here.", "Voor mensen: who."],
+  ["My mother, that is a teacher, lives in Delft.", "My mother, who is a teacher, lives in Delft.", "Na een komma geen that."],
+  ["He was late, what annoyed me.", "He was late, which annoyed me.", "Na een hele zin: which."],
+  ["The girl who her father is a pilot.", "The girl whose father is a pilot.", "Bezit: whose."],
+  ["That's the shop where I bought it there.", "That's the shop where I bought it.", "where vervangt al 'daar'."],
+  ["Everything what he said was true.", "Everything that he said was true.", "Na everything: that."],
+  ["The man lives here is old.", "The man who lives here is old.", "who als onderwerp mag niet weg."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul who, which, that, whose, where of what in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The doctor ______ treated me was very kind.", "hint": "persoon (who of that; schrijf who)", "a": "who", "full": "The doctor who treated me was very kind."},
+  {"q": "Is this the bus ______ goes to the airport?", "hint": "ding (which of that; schrijf which)", "a": "which", "full": "Is this the bus which goes to the airport?"},
+  {"q": "That's the man ______ car was stolen.", "hint": "bezit", "a": "whose", "full": "That's the man whose car was stolen."},
+  {"q": "This is the café ______ we first met.", "hint": "plaats", "a": "where", "full": "This is the café where we first met."},
+  {"q": "London, ______ is the capital of the UK, is very expensive.", "hint": "na een komma", "a": "which", "full": "London, which is the capital of the UK, is very expensive."},
+  {"q": "She failed the exam, ______ surprised everyone.", "hint": "na een hele zin", "a": "which", "full": "She failed the exam, which surprised everyone."},
+  {"q": "I don't understand ______ you're saying.", "hint": "datgene wat", "a": "what", "full": "I don't understand what you're saying."},
+  {"q": "My sister, ______ lives in Canada, is visiting us.", "hint": "persoon, na een komma", "a": "who", "full": "My sister, who lives in Canada, is visiting us."},
+  {"q": "The music I listen ______ is mostly jazz.", "hint": "voorzetsel", "a": "to", "full": "The music I listen to is mostly jazz."},
+  {"q": "All ______ you need is love.", "hint": "na all", "a": "that", "full": "All that you need is love."},
+  {"q": "The student ______ phone rang had to leave.", "hint": "bezit", "a": "whose", "full": "The student whose phone rang had to leave."},
+  {"q": "That was the year ______ I finished school.", "hint": "tijd", "a": "when", "full": "That was the year when I finished school."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "De vrouw die naast ons woont is arts.", "a": "The woman who lives next to us is a doctor."},
+  {"q": "Dit is het hotel waar we logeerden.", "a": "This is the hotel where we stayed."},
+  {"q": "Hij kwam te laat, wat me stoorde.", "a": "He was late, which annoyed me."},
+  {"q": "Het meisje met wie ik praatte is Spaans.", "a": "The girl I was talking to is Spanish."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

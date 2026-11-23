@@ -251,5 +251,27 @@
   "subtitle": "be + voltooid deelwoord in alle tijden, by, en get something done",
   "content": "b1_04_passive.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_05_Betrekkelijke_bijzinnen",
+  "file": "B1_05_Betrekkelijke_bijzinnen.pdf",
+  "level": "B1",
+  "number": 5,
+  "section": "Grammatica",
+  "title": "Betrekkelijke bijzinnen",
+  "subtitle": "who, which, that, whose en where; beperkende en uitbreidende bijzinnen; het voornaamwoord weglaten",
+  "content": "b1_05_relative_clauses.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_06_De_indirecte_rede",
+  "file": "B1_06_De_indirecte_rede.pdf",
+  "level": "B1",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "De indirecte rede",
+  "subtitle": "said en told, de tijden een stap terug, en indirecte vragen en verzoeken",
+  "content": "b1_06_reported_speech.json",
+  "exercise_count": 12
  }
 ]
