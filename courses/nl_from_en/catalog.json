@@ -240,5 +240,16 @@
   "subtitle": "die and dat, wat after alles and iets, met wie, and waar + preposition (waarover, waarmee)",
   "content": "b1_03_relative_clauses.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_04_The_passive",
+  "file": "B1_04_The_passive.pdf",
+  "level": "B1",
+  "number": 4,
+  "section": "Grammar",
+  "title": "The passive",
+  "subtitle": "worden and zijn + participle, door, and the impersonal passive (Er wordt gedanst)",
+  "content": "b1_04_passive.json",
+  "exercise_count": 12
  }
 ]
