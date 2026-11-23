@@ -493,5 +493,16 @@
   "subtitle": "El subjuntivo (Leve de koning, Het zij zo), los antiguos casos (ten slotte, ter plaatse) y wiens, wier, diens",
   "content": "c1_06_fixed_formal_forms.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_07_Colocaciones_y_expresiones_fijas",
+  "file": "C1_07_Colocaciones_y_expresiones_fijas.pdf",
+  "level": "C1",
+  "number": 7,
+  "section": "Vocabulario",
+  "title": "Colocaciones y expresiones fijas",
+  "subtitle": "een poging doen, een conclusie trekken; intensificadores como doodmoe e ijskoud; y parejas de palabras como af en toe",
+  "content": "c1_07_collocations.json",
+  "exercise_count": 12
  }
 ]

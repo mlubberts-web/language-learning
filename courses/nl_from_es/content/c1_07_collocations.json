@@ -1,0 +1,385 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Vocabulario",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Colocaciones y expresiones fijas",
+  "subtitle": "een poging doen, een conclusie trekken; intensificadores como doodmoe e ijskoud; y parejas de palabras como af en toe",
+  "footer": "Language Learning · C1 · Vocabulario · Colocaciones",
+  "next": "Siguiente: C1 · pdf 8 — Ortografía y puntuación"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar combinaciones naturales de verbo + sustantivo (<i>een conclusie trekken</i>)",
+    "usar los intensificadores neerlandeses (<i>doodmoe, ijskoud, spiksplinternieuw</i>)",
+    "usar parejas fijas de palabras en el orden correcto (<i>af en toe, heen en weer</i>)",
+    "sonar más natural y preciso en el nivel C1"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbo + sustantivo"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbo + sustantivo",
+   "items": [
+    [
+     "een poging doen",
+     "hacer un intento, intentarlo"
+    ],
+    [
+     "een voorstel doen",
+     "hacer una propuesta"
+    ],
+    [
+     "een bezoek brengen",
+     "hacer una visita"
+    ],
+    [
+     "een conclusie trekken",
+     "sacar una conclusión"
+    ],
+    [
+     "kritiek uiten",
+     "expresar críticas"
+    ],
+    [
+     "schade aanrichten",
+     "causar daños"
+    ],
+    [
+     "een rol spelen",
+     "desempeñar un papel"
+    ],
+    [
+     "in aanmerking komen voor",
+     "tener derecho a, optar a"
+    ],
+    [
+     "de aandacht trekken",
+     "llamar la atención"
+    ],
+    [
+     "een belofte nakomen",
+     "cumplir una promesa"
+    ],
+    [
+     "een beslissing nemen",
+     "tomar una decisión"
+    ],
+    [
+     "een vraag beantwoorden",
+     "responder a una pregunta"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "doen, nemen, maken, brengen",
+   "text": "El español usa sobre todo <i>hacer</i> y <i>tomar</i>; el neerlandés reparte las combinaciones entre más verbos: <b>een poging doen</b> (hacer un intento), <b>een beslissing nemen</b> (tomar una decisión), <b>een foto maken</b> (hacer una foto), <b>een bezoek brengen</b> (hacer una visita, literalmente «llevar»), <b>een conclusie trekken</b> (sacar, literalmente «tirar de»). Traducir el verbo español suele salir mal."
+  },
+  {
+   "type": "h1",
+   "text": "2. Intensificadores"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés puede intensificar un adjetivo con una primera parte fija, donde el español usa <i>-ísimo</i> o <i>muy</i>. Cada adjetivo tiene la suya: no se pueden intercambiar. Son muy frecuentes al hablar y hacen que tu neerlandés suene natural."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Adjetivos intensificados",
+   "items": [
+    [
+     "doodmoe",
+     "muerto de cansancio, agotado"
+    ],
+    [
+     "ijskoud",
+     "helado, heladísimo"
+    ],
+    [
+     "snoeiheet",
+     "ardiendo, hace un calor tremendo"
+    ],
+    [
+     "kurkdroog",
+     "secísimo, seco como una pasa"
+    ],
+    [
+     "stokoud",
+     "viejísimo"
+    ],
+    [
+     "spiksplinternieuw",
+     "nuevo de trinca, flamante"
+    ],
+    [
+     "oersaai",
+     "aburridísimo"
+    ],
+    [
+     "beresterk",
+     "fortísimo"
+    ],
+    [
+     "bloedheet",
+     "hace un calor sofocante"
+    ],
+    [
+     "kerngezond",
+     "sanísimo, sano como una manzana"
+    ],
+    [
+     "doodsimpel",
+     "facilísimo, pan comido"
+    ],
+    [
+     "peperduur",
+     "carísimo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "En una sola palabra",
+   "text": "Estos intensificadores se escriben en una sola palabra, como todos los compuestos: <b>ijskoud, doodmoe, peperduur</b>. Y no suelen llevar <i>heel</i> ni <i>erg</i> (como no se dice <i>muy carísimo</i>): no <i>heel ijskoud</i>, sino simplemente <b>ijskoud</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Parejas de palabras"
+  },
+  {
+   "type": "p",
+   "text": "Algunas parejas de palabras tienen un orden fijo que no se puede invertir, como el español <i>ida y vuelta</i>. A veces el orden neerlandés es el contrario del español."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Parejas fijas",
+   "items": [
+    [
+     "af en toe",
+     "de vez en cuando"
+    ],
+    [
+     "zo nu en dan",
+     "de cuando en cuando"
+    ],
+    [
+     "heen en weer",
+     "de un lado para otro"
+    ],
+    [
+     "op en neer",
+     "arriba y abajo"
+    ],
+    [
+     "vroeg of laat",
+     "tarde o temprano"
+    ],
+    [
+     "min of meer",
+     "más o menos"
+    ],
+    [
+     "hier en daar",
+     "aquí y allá"
+    ],
+    [
+     "kort en goed",
+     "en resumen"
+    ],
+    [
+     "voor- en nadelen",
+     "ventajas e inconvenientes, pros y contras"
+    ],
+    [
+     "kant-en-klaar",
+     "listo para usar, precocinado"
+    ],
+    [
+     "zwart-wit",
+     "blanco y negro"
+    ],
+    [
+     "dag en nacht",
+     "día y noche"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "El orden puede ser el contrario",
+   "text": "<i>tarde o temprano</i> es <b>vroeg of laat</b> (literalmente: temprano o tarde). <i>blanco y negro</i> es <b>zwart-wit</b> (negro-blanco). <i>de un lado para otro</i> es <b>heen en weer</b> (ida y vuelta). Aprende cada pareja como un bloque."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "een poging maken",
+     "een poging doen",
+     "un intento: doen."
+    ],
+    [
+     "een conclusie halen",
+     "een conclusie trekken",
+     "sacar una conclusión: een conclusie trekken."
+    ],
+    [
+     "kritiek maken",
+     "kritiek uiten",
+     "hacer críticas: kritiek uiten (o kritiek leveren)."
+    ],
+    [
+     "heel ijskoud",
+     "ijskoud",
+     "Sin heel delante de un intensificador."
+    ],
+    [
+     "weer en heen",
+     "heen en weer",
+     "Orden fijo: heen en weer."
+    ],
+    [
+     "laat of vroeg",
+     "vroeg of laat",
+     "Orden fijo: vroeg of laat (tarde o temprano)."
+    ],
+    [
+     "ijs koud",
+     "ijskoud",
+     "Una sola palabra."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Hij deed een laatste ______ om haar te overtuigen.",
+     "hint": "intento",
+     "a": "poging",
+     "full": "Hij deed een laatste poging om haar te overtuigen."
+    },
+    {
+     "q": "Welke conclusie kunnen we hieruit ______?",
+     "hint": "sacar",
+     "a": "trekken",
+     "full": "Welke conclusie kunnen we hieruit trekken?"
+    },
+    {
+     "q": "De storm heeft veel schade ______.",
+     "hint": "causado",
+     "a": "aangericht",
+     "full": "De storm heeft veel schade aangericht."
+    },
+    {
+     "q": "Na twaalf uur werken was ik ______.",
+     "hint": "agotado",
+     "a": "doodmoe",
+     "full": "Na twaalf uur werken was ik doodmoe."
+    },
+    {
+     "q": "Het water in de zee was ______.",
+     "hint": "heladísima",
+     "a": "ijskoud",
+     "full": "Het water in de zee was ijskoud."
+    },
+    {
+     "q": "Die auto is ______: hij kost een fortuin.",
+     "hint": "carísimo",
+     "a": "peperduur",
+     "full": "Die auto is peperduur: hij kost een fortuin."
+    },
+    {
+     "q": "Ik zie hem af en ______.",
+     "hint": "de vez en cuando",
+     "a": "toe",
+     "full": "Ik zie hem af en toe."
+    },
+    {
+     "q": "Hij liep zenuwachtig heen en ______.",
+     "hint": "de un lado para otro",
+     "a": "weer",
+     "full": "Hij liep zenuwachtig heen en weer."
+    },
+    {
+     "q": "Vroeg of ______ komt hij erachter.",
+     "hint": "tarde o temprano",
+     "a": "laat",
+     "full": "Vroeg of laat komt hij erachter."
+    },
+    {
+     "q": "We hebben alle voor- en ______ besproken.",
+     "hint": "inconvenientes",
+     "a": "nadelen",
+     "full": "We hebben alle voor- en nadelen besproken."
+    },
+    {
+     "q": "Je komt in ______ voor een subsidie.",
+     "hint": "tener derecho",
+     "a": "aanmerking",
+     "full": "Je komt in aanmerking voor een subsidie."
+    },
+    {
+     "q": "Ze heeft haar belofte ______.",
+     "hint": "cumplido",
+     "a": "nagekomen",
+     "full": "Ze heeft haar belofte nagekomen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Hizo un intento.",
+     "a": "Hij deed een poging."
+    },
+    {
+     "q": "Estaba muerto de cansancio.",
+     "a": "Ik was doodmoe."
+    },
+    {
+     "q": "Tarde o temprano se enterará.",
+     "a": "Vroeg of laat komt hij erachter."
+    },
+    {
+     "q": "de vez en cuando",
+     "a": "af en toe"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
