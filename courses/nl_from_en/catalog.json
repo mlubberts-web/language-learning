@@ -317,5 +317,16 @@
   "subtitle": "Giving your opinion, everyday expressions, false friends, and Staatsexamen B1 topics",
   "content": "b1_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_01_Tenses_in_a_story",
+  "file": "B2_01_Tenses_in_a_story.pdf",
+  "level": "B2",
+  "number": 1,
+  "section": "Verbs",
+  "title": "Tenses in a story",
+  "subtitle": "The past perfect (had gedaan, was gegaan), and all past tenses together in one story",
+  "content": "b2_01_tenses_story.json",
+  "exercise_count": 10
  }
 ]

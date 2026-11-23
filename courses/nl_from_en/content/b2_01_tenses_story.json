@@ -1,0 +1,63 @@
+{
+ "meta": {"level": "B2", "section": "Verbs", "number": 1, "total_in_level": 10,
+  "title": "Tenses in a story",
+  "subtitle": "The past perfect (had gedaan, was gegaan), and all past tenses together in one story",
+  "footer": "Language Learning · B2 · Verbs · Tenses in a story",
+  "next": "Next: B2 · pdf 2 — er (2)"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "make the <b>past perfect</b> with <b>had</b> or <b>was</b> + participle",
+   "show which event came first",
+   "tell a story with the simple past, the perfect and the past perfect together",
+   "look forward from the past with <b>zou</b> and <b>ging</b>"]},
+  {"type": "h1", "text": "1. The past perfect"},
+  {"type": "p", "text": "The past perfect (<i>voltooid verleden tijd</i>) is the simple past of <b>hebben</b> or <b>zijn</b> + participle: <i>Ik <b>had</b> het al <b>gezien</b>. Hij <b>was</b> al <b>vertrokken</b>.</i> The choice between hebben and zijn is the same as in the perfect (A2 · pdf 2)."},
+  {"type": "conj", "verb": "vertrekken", "meaning": "to leave", "label": "strong verb", "tense": "past perfect",
+   "forms": ["was *vertrokken*", "was *vertrokken*", "was *vertrokken*", "waren *vertrokken*", "waren *vertrokken*", "waren *vertrokken*"],
+   "examples": [["Ik was al vertrokken toen ze belde.", "I had already left when she called."], ["Was je al vertrokken?", "Had you already left?"], ["De trein was net vertrokken.", "The train had just left."], ["We waren om acht uur vertrokken.", "We had left at eight."], ["Jullie waren al vertrokken.", "You had already left."], ["Ze waren nog niet vertrokken.", "They hadn't left yet."]]},
+  {"type": "table", "style": "plain", "widths": [6.6, 6.0, 4.4], "head": ["Dutch", "English", "Order"], "rows": [
+   ["Toen ik aankwam, was de film al begonnen.", "When I arrived, the film had already started.", "film first"],
+   ["Toen ik aankwam, begon de film.", "When I arrived, the film started.", "me first"],
+   ["Ze was zenuwachtig, want ze had nog nooit gevlogen.", "She was nervous, because she'd never flown before.", "never before that"],
+   ["Nadat we hadden gegeten, gingen we wandelen.", "After we'd eaten, we went for a walk.", "eating first"]]},
+  {"type": "h1", "text": "2. All past tenses in one story"},
+  {"type": "table", "style": "plain", "widths": [4.4, 6.4, 6.2], "head": ["Tense", "Function", "Example"], "rows": [
+   ["simple past", "the events, one after another; background", "Ik deed de deur open en zag een man."],
+   ["was aan het + infinitive", "what was going on", "Het was aan het regenen."],
+   ["past perfect", "what had happened before", "Iemand had het raam gebroken."],
+   ["zou / ging + infinitive", "what was going to happen", "Ik zou die avond vertrekken."],
+   ["perfect", "the news, in conversation; the summary", "Gisteren heb ik iets geks meegemaakt."]]},
+  {"type": "p", "text": "<i>Gisteren <b>heb</b> ik iets geks <b>meegemaakt</b>. Ik <b>was</b> net thuis en het <b>was aan het regenen</b>. Toen ik de deur <b>opendeed</b>, <b>zag</b> ik dat iemand het raam <b>had gebroken</b>. Ik <b>zou</b> die avond met vrienden uit eten <b>gaan</b>, maar ik <b>belde</b> eerst de politie.</i>"},
+  {"type": "callout", "kind": "note", "title": "Perfect to start, simple past to tell", "text": "In conversation the Dutch often open with the perfect (<i>Heb je gehoord wat er gebeurd is?</i>) and then switch to the simple past for the details (<i>Hij reed door rood en ...</i>). English does something similar with <i>Have you heard ...? He drove through a red light ...</i>"},
+  {"type": "h1", "text": "3. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Toen ik aankwam, de film was al begonnen.", "Toen ik aankwam, was de film al begonnen.", "After the toen-clause: the verb first."],
+   ["Hij had al vertrokken.", "Hij was al vertrokken.", "vertrekken takes zijn."],
+   ["Ik was het boek al gelezen.", "Ik had het boek al gelezen.", "lezen takes hebben."],
+   ["Nadat we aten, we gingen wandelen.", "Nadat we hadden gegeten, gingen we wandelen.", "Earlier event: past perfect; then inversion."],
+   ["Ik ging die avond vertrekken, maar ...", "Ik zou die avond vertrekken, maar ...", "A plan in the past: zou.", "advice"],
+   ["Het regende aan het.", "Het was aan het regenen.", "was aan het + infinitive."],
+   ["Ze had nooit gevlogen geweest.", "Ze had nog nooit gevlogen.", "Past perfect: had + participle."]]},
+  {"type": "h1", "text": "4. Self-check"},
+  {"type": "p", "text": "Fill in the right form. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Toen ik op het station kwam, ______ de trein al vertrokken.", "hint": "zijn, past", "a": "was", "full": "Toen ik op het station kwam, was de trein al vertrokken."},
+   {"q": "Ik ______ het boek al gelezen.", "hint": "hebben, past", "a": "had", "full": "Ik had het boek al gelezen."},
+   {"q": "Ze was zenuwachtig, want ze had nog nooit ______.", "hint": "vliegen, participle", "a": "gevlogen", "full": "Ze was zenuwachtig, want ze had nog nooit gevlogen."},
+   {"q": "Nadat we ______ gegeten, gingen we wandelen.", "hint": "hebben, past", "a": "hadden", "full": "Nadat we hadden gegeten, gingen we wandelen."},
+   {"q": "Het was aan het ______ toen ik thuiskwam.", "hint": "sneeuwen", "a": "sneeuwen", "full": "Het was aan het sneeuwen toen ik thuiskwam."},
+   {"q": "Ik ______ die avond vertrekken, maar ik werd ziek.", "hint": "plan in the past", "a": "zou", "full": "Ik zou die avond vertrekken, maar ik werd ziek."},
+   {"q": "Hij kon niet betalen, want hij had zijn portemonnee ______.", "hint": "verliezen, participle", "a": "verloren", "full": "Hij kon niet betalen, want hij had zijn portemonnee verloren."},
+   {"q": "Toen we aankwamen, ______ iedereen al weg.", "hint": "zijn, past", "a": "was", "full": "Toen we aankwamen, was iedereen al weg."},
+   {"q": "Ze ______ al twee uur gewacht toen de dokter kwam.", "hint": "hebben, past, they", "a": "hadden", "full": "Ze hadden al twee uur gewacht toen de dokter kwam."},
+   {"q": "Gisteren ______ ik iets geks meegemaakt.", "hint": "hebben, perfect", "a": "heb", "full": "Gisteren heb ik iets geks meegemaakt."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "When I arrived, the film had already started.", "a": "Toen ik aankwam, was de film al begonnen."},
+   {"q": "I had already read the book.", "a": "Ik had het boek al gelezen."},
+   {"q": "It was raining.", "a": "Het was aan het regenen."},
+   {"q": "I was going to leave that evening.", "a": "Ik zou die avond vertrekken."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
