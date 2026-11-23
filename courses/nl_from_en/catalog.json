@@ -537,5 +537,16 @@
   "subtitle": "Abstract and academic words, false friends at C1, and paraphrasing",
   "content": "c1_10_vocabulary.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C2_01_Fine_points_of_grammar",
+  "file": "C2_01_Fine_points_of_grammar.pdf",
+  "level": "C2",
+  "number": 1,
+  "section": "Verbs",
+  "title": "Fine points of grammar",
+  "subtitle": "Rare and mixed strong verbs, the double infinitive in depth, and verbs with both hebben and zijn",
+  "content": "c2_01_fine_points_grammar.json",
+  "exercise_count": 12
  }
 ]
