@@ -1,0 +1,79 @@
+{"meta": {"level": "C1", "section": "Schrijven", "number": 8, "total_in_level": 10,
+ "title": "Spelling, leestekens, Brits en Amerikaans",
+ "subtitle": "-ise of -ize, -our of -or, komma's, apostrofs, koppeltekens en hoofdletters",
+ "footer": "Language Learning · C1 · Schrijven · Spelling en leestekens",
+ "next": "Volgende: C1 · pdf 9 — Engels in de wereld"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het verschil tussen Britse en Amerikaanse spelling herkennen",
+  "komma's gebruiken zoals in het Engels (anders dan in het Nederlands)",
+  "de apostrof correct gebruiken",
+  "lastige woorden goed spellen"]},
+
+ {"type": "h1", "text": "1. Brits en Amerikaans"},
+ {"type": "table", "style": "plain", "widths": [4.0, 6.4, 6.6], "head": ["Patroon", "Brits", "Amerikaans"], "rows": [
+  ["-our / -or", "colour, favourite, neighbour", "color, favorite, neighbor"],
+  ["-re / -er", "centre, theatre, metre", "center, theater, meter"],
+  ["-ise / -ize", "realise, organise (ook -ize mag)", "realize, organize"],
+  ["dubbele l", "travelled, cancelled, traveller", "traveled, canceled, traveler"],
+  ["-ence / -ense", "licence (zelfst. nw.), defence", "license, defense"],
+  ["-ogue / -og", "catalogue, dialogue", "catalog, dialog"],
+  ["andere woorden", "grey, cheque, tyre, programme", "gray, check, tire, program"]]},
+ {"type": "callout", "kind": "tip", "title": "Kies één stijl", "text": "Deze cursus gebruikt Brits Engels, en in de oefeningen wordt Amerikaanse spelling goedgekeurd met een waarschuwing. In je eigen teksten: kies één stijl en houd die vol. In Brits Engels is <b>practice</b> het zelfstandig naamwoord en <b>practise</b> het werkwoord; zo ook <b>licence</b> en <b>license</b>."},
+
+ {"type": "h1", "text": "2. Komma's"},
+ {"type": "table", "style": "plain", "widths": [6.0, 5.6, 5.4], "head": ["Regel", "Goed", "Let op"], "rows": [
+  ["Na een bijzin vooraan", "If it rains, we'll stay in.", "Bijzin achteraan: meestal geen komma"],
+  ["Na een verbindingswoord vooraan", "However, the plan failed.", ""],
+  ["Rond een uitbreidende bijzin", "My sister, who lives in Leeds, is a nurse.", "Niet bij een beperkende bijzin"],
+  ["Geen komma voor that", "I think that he's right.", "Nederlands: Ik denk, dat ... (fout in het Engels)"],
+  ["Geen komma tussen twee hoofdzinnen zonder verbindingswoord", "It was late; we went home. / It was late, so we went home.", "Niet: It was late, we went home."]]},
+ {"type": "callout", "kind": "dutch", "title": "Minder komma's dan je denkt", "text": "Nederlanders zetten vaak een komma voor <i>dat</i> of tussen onderwerp en werkwoord. In het Engels is dat fout: <b>I know that you're busy</b>, zonder komma. En twee losse hoofdzinnen verbind je niet met alleen een komma (de zogenaamde <i>comma splice</i>)."},
+
+ {"type": "h1", "text": "3. De apostrof"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["Gebruik", "Goed", "Fout"], "rows": [
+  ["Bezit enkelvoud", "the cat's bowl", ""],
+  ["Bezit meervoud op -s", "the students' books", "the student's books (= één student)"],
+  ["Korte vorm", "it's (= it is), don't", ""],
+  ["Bezittelijk voornaamwoord", "its, yours, hers, ours", "it's tail, your's"],
+  ["Gewoon meervoud", "CDs, the 1990s, apples", "CD's, apple's"]]},
+
+ {"type": "h1", "text": "4. Lastige woorden"},
+ {"type": "verbpairs", "title": "Vaak verkeerd gespeld", "items": [
+  ["accommodation", "accommodatie, onderdak"], ["necessary", "nodig"], ["definitely", "zeker"], ["separate", "apart"],
+  ["receive", "ontvangen"], ["government", "regering"], ["environment", "milieu"], ["recommend", "aanraden"],
+  ["embarrassed", "in verlegenheid"], ["occurred", "gebeurde"], ["beginning", "begin"], ["successful", "succesvol"]]},
+ {"type": "callout", "kind": "tip", "title": "i voor e, behalve na c", "text": "Een oud geheugensteuntje: <i>i before e, except after c</i>: <b>believe, piece</b>, maar <b>receive, ceiling</b>. Er zijn uitzonderingen (<i>weird, their</i>), maar het helpt vaak."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["I think, that he is right.", "I think that he is right.", "Geen komma voor that."],
+  ["The dog wagged it's tail.", "The dog wagged its tail.", "Bezittelijk: its."],
+  ["I bought three CD's.", "I bought three CDs.", "Meervoud zonder apostrof."],
+  ["The accomodation was cheap.", "The accommodation was cheap.", "Dubbele c en dubbele m."],
+  ["It is definately true.", "It is definitely true.", "definitely: -ite-."],
+  ["It was late, we went home.", "It was late, so we went home.", "Geen losse komma tussen twee hoofdzinnen."],
+  ["We recieved your letter.", "We received your letter.", "e voor i na c."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Schrijf het woord in Britse spelling, of vul het juiste woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "My favourite ______ is blue.", "hint": "kleur, Brits", "a": "colour", "full": "My favourite colour is blue."},
+  {"q": "We met in the city ______.", "hint": "centrum, Brits", "a": "centre", "full": "We met in the city centre."},
+  {"q": "They ______ around Europe last summer.", "hint": "travel, Brits", "a": "travelled", "full": "They travelled around Europe last summer."},
+  {"q": "The flight was ______ because of fog.", "hint": "cancel, Brits", "a": "cancelled", "full": "The flight was cancelled because of fog."},
+  {"q": "The cat licked ______ paws.", "hint": "its of it's", "a": "its", "full": "The cat licked its paws."},
+  {"q": "______ going to rain later.", "hint": "its of it's", "a": "It's", "full": "It's going to rain later."},
+  {"q": "The ______ coats are in the hall.", "hint": "van de gasten", "a": "guests'", "full": "The guests' coats are in the hall."},
+  {"q": "Is it ______ to book in advance?", "hint": "nodig", "a": "necessary", "full": "Is it necessary to book in advance?"},
+  {"q": "I would ______ this hotel.", "hint": "aanraden", "a": "recommend", "full": "I would recommend this hotel."},
+  {"q": "You need a driving ______ to rent a car.", "hint": "rijbewijs, Brits zelfst. nw.", "a": "licence", "full": "You need a driving licence to rent a car."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (Britse spelling):</b>"},
+ {"type": "translations", "items": [
+  {"q": "Ik denk dat hij gelijk heeft.", "a": "I think that he is right."},
+  {"q": "Het theater is in het centrum.", "a": "The theatre is in the centre."},
+  {"q": "De hond kwispelde met zijn staart.", "a": "The dog wagged its tail."},
+  {"q": "Het onderdak was erg goedkoop.", "a": "The accommodation was very cheap."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

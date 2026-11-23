@@ -42,7 +42,7 @@
   ["pros and cons", "voors en tegens"], ["sooner or later", "vroeg of laat"], ["now and then", "af en toe"], ["safe and sound", "veilig en wel"],
   ["peace and quiet", "rust en stilte"], ["sick and tired", "spuugzat"], ["trial and error", "vallen en opstaan"], ["by and large", "over het algemeen"],
   ["ups and downs", "ups en downs"], ["first and foremost", "eerst en vooral"], ["more or less", "min of meer"], ["black and white", "zwart-wit"]]},
- {"type": "callout", "kind": "tip", "title": "Andere volgorde dan in het Nederlands", "text": "Let op paren die in het Nederlands omgekeerd zijn: <i>zwart-wit</i> = <b>black and white</b> (gelijk), maar <i>vroeg of laat</i> = <b>sooner or later</b>, <i>heen en weer</i> = <b>back and forth</b>, <i>dames en heren</i> = <b>ladies and gentlemen</b>."},
+ {"type": "callout", "kind": "tip", "title": "Leer ze als één blok", "text": "Omdraaien klinkt fout, ook als het Nederlands een ander paar gebruikt: <i>heen en weer</i> = <b>back and forth</b>, <i>rust en vrede</i> = <b>peace and quiet</b>, <i>min of meer</i> = <b>more or less</b>."},
 
  {"type": "h1", "text": "5. Veelgemaakte fouten"},
  {"type": "mistakes", "rows": [
