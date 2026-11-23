@@ -1,0 +1,309 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Gramática",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "El orden complejo",
+  "subtitle": "El centro de la frase: pronombres, tiempo, modo y lugar; anteponer para dar énfasis; y complementos tras los verbos",
+  "footer": "Language Learning · C1 · Gramática · El orden complejo",
+  "next": "Siguiente: C1 · pdf 3 — Conectores avanzados y estructura del texto"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "ordenar bien todo lo que va entre las dos posiciones del verbo",
+    "poner <b>niet</b> en su sitio en las frases largas",
+    "empezar una frase con algo que no sea el sujeto, para dar énfasis",
+    "colocar un complemento con preposición después de los verbos del final"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El campo central"
+  },
+  {
+   "type": "p",
+   "text": "Entre el verbo conjugado (posición 2) y los verbos del final está el <b>campo central</b>. Su orden habitual: <b>pronombres → er → tiempo → niet → modo → lugar → los demás complementos</b>. La regla práctica para los adverbios es <b>tiempo – modo – lugar</b> (en neerlandés: <i>tijd, manier, plaats</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.6,
+    2.6,
+    2.4,
+    2.6,
+    2.6,
+    2.6,
+    1.6
+   ],
+   "head": [
+    "Posición 1",
+    "Verbo",
+    "Pronombre",
+    "Tiempo",
+    "Modo",
+    "Lugar",
+    "Final"
+   ],
+   "rows": [
+    [
+     "Ik",
+     "heb",
+     "het",
+     "gisteren",
+     "snel",
+     "in de trein",
+     "gelezen."
+    ],
+    [
+     "Hij",
+     "is",
+     "—",
+     "vorige week",
+     "met de auto",
+     "naar Parijs",
+     "gereden."
+    ],
+    [
+     "We",
+     "hebben",
+     "hem",
+     "nooit",
+     "alleen",
+     "thuis",
+     "gelaten."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El tiempo antes que el lugar",
+   "text": "El español suele poner el lugar antes que el tiempo: <i>Fui a París la semana pasada</i>. El neerlandés pone el tiempo antes que el lugar: <b>Ik ben vorige week naar Parijs gegaan.</b> Y los pronombres cortos van pronto, justo después del verbo (no delante, como el <i>lo</i> español): <i>Ik heb <b>het</b> gisteren ...</i>, no <i>Ik heb gisteren het ...</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Dónde va niet?"
+  },
+  {
+   "type": "p",
+   "text": "La negación de la frase <b>niet</b> va después de los pronombres, de er y de las expresiones de tiempo, pero antes del modo, del lugar y de los verbos del final: <i>Ik heb het gisteren <b>niet</b> gezien. Hij is vorige week <b>niet</b> naar Parijs gegaan.</i> Para negar una sola parte, pon niet justo delante: <i>Ik heb <b>niet het boek</b> gelezen, maar de film gezien</i> (no he leído el libro, sino que he visto la película)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Anteponer para dar énfasis"
+  },
+  {
+   "type": "p",
+   "text": "Casi cualquier cosa puede ir en la posición 1 para darle énfasis o unirla con la frase anterior; el sujeto va entonces detrás del verbo. Es muy frecuente en neerlandés. El español también antepone mucho (<i>ese libro no lo he leído nunca</i>), pero repite el objeto con <i>lo</i>; el neerlandés no."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    7.0,
+    5.8
+   ],
+   "head": [
+    "En la posición 1",
+    "Ejemplo",
+    "Efecto"
+   ],
+   "rows": [
+    [
+     "complemento",
+     "Dat boek heb ik nooit gelezen.",
+     "contraste: ese libro"
+    ],
+    [
+     "tiempo",
+     "Gisteren is hij vertrokken.",
+     "neutro, muy frecuente"
+    ],
+    [
+     "lugar",
+     "In Amsterdam woont mijn zus.",
+     "une con Ámsterdam"
+    ],
+    [
+     "participio",
+     "Gezien heb ik hem niet, maar wel gehoord.",
+     "contraste fuerte"
+    ],
+    [
+     "adjetivo",
+     "Duur is het wel, maar het is goed.",
+     "concesión"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Complementos tras los verbos"
+  },
+  {
+   "type": "p",
+   "text": "Un complemento con preposición puede ir <b>después</b> de los verbos del final, sobre todo si es largo: <i>Ik heb lang gewacht <b>op de bus</b>.</i> <i>Hij heeft niets gezegd <b>over zijn plannen voor volgend jaar</b>.</i> Así las frases largas se siguen mejor. Los complementos sin preposición no pueden ir ahí."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "het antes del complemento indirecto",
+   "text": "Con dos complementos, el orden normal es indirecto + directo: <i>Ik heb <b>mijn moeder een boek</b> gegeven.</i> Pero el pronombre <b>het</b> va primero: <i>Ik heb <b>het haar</b> gegeven</i> (se lo di a ella). Al revés que en español, donde <i>se</i> va antes que <i>lo</i>. Más en C2 · pdf 2."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik ben naar Parijs vorige week gegaan.",
+     "Ik ben vorige week naar Parijs gegaan.",
+     "El tiempo antes que el lugar."
+    ],
+    [
+     "Ik heb gisteren het gelezen.",
+     "Ik heb het gisteren gelezen.",
+     "Los pronombres cortos van pronto."
+    ],
+    [
+     "Ik heb niet het gisteren gezien.",
+     "Ik heb het gisteren niet gezien.",
+     "niet después de los pronombres y del tiempo."
+    ],
+    [
+     "Dat boek ik heb nooit gelezen.",
+     "Dat boek heb ik nooit gelezen.",
+     "Tras la parte antepuesta: el verbo."
+    ],
+    [
+     "Ik heb gegeven het haar.",
+     "Ik heb het haar gegeven.",
+     "Los complementos antes del participio."
+    ],
+    [
+     "Ik heb gewacht een uur.",
+     "Ik heb een uur gewacht.",
+     "Solo los complementos con preposición pueden ir tras los verbos."
+    ],
+    [
+     "Dat boek heb ik het nooit gelezen.",
+     "Dat boek heb ik nooit gelezen.",
+     "Sin pronombre de más: el objeto no se repite como en «ese libro no lo he leído»."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta en su sitio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb ______ gisteren gelezen.",
+     "hint": "lo",
+     "a": "het",
+     "full": "Ik heb het gisteren gelezen."
+    },
+    {
+     "q": "We zijn ______ naar Gent gefietst.",
+     "hint": "ayer",
+     "a": "gisteren",
+     "full": "We zijn gisteren naar Gent gefietst."
+    },
+    {
+     "q": "Ik heb hem vorige week ______ gezien.",
+     "hint": "no",
+     "a": "niet",
+     "full": "Ik heb hem vorige week niet gezien."
+    },
+    {
+     "q": "Dat boek ______ ik nooit gelezen.",
+     "hint": "hebben",
+     "a": "heb",
+     "full": "Dat boek heb ik nooit gelezen."
+    },
+    {
+     "q": "In Gent ______ mijn broer.",
+     "hint": "wonen",
+     "a": "woont",
+     "full": "In Gent woont mijn broer."
+    },
+    {
+     "q": "Ik heb het ______ gegeven.",
+     "hint": "a ella",
+     "a": "haar",
+     "full": "Ik heb het haar gegeven."
+    },
+    {
+     "q": "Ik heb lang gewacht ______ de bus.",
+     "hint": "a",
+     "a": "op",
+     "full": "Ik heb lang gewacht op de bus."
+    },
+    {
+     "q": "Hij is vorig jaar met de trein ______ Rome gereisd.",
+     "hint": "a",
+     "a": "naar",
+     "full": "Hij is vorig jaar met de trein naar Rome gereisd."
+    },
+    {
+     "q": "Gezien heb ik hem ______, maar wel gehoord.",
+     "hint": "no",
+     "a": "niet",
+     "full": "Gezien heb ik hem niet, maar wel gehoord."
+    },
+    {
+     "q": "Duur ______ het wel, maar het is heel goed.",
+     "hint": "zijn",
+     "a": "is",
+     "full": "Duur is het wel, maar het is heel goed."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Fui a París la semana pasada.",
+     "a": "Ik ben vorige week naar Parijs gegaan."
+    },
+    {
+     "q": "Ayer no lo vi.",
+     "a": "Ik heb hem gisteren niet gezien."
+    },
+    {
+     "q": "Nunca he leído ese libro.",
+     "a": "Dat boek heb ik nooit gelezen."
+    },
+    {
+     "q": "Se lo di a ella.",
+     "a": "Ik heb het haar gegeven."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
