@@ -1,0 +1,491 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 3,
+  "total_in_level": 9,
+  "title": "El presente",
+  "subtitle": "Raíz + t, los cambios de ortografía, jij detrás del verbo, y un solo tiempo para 'trabajo' y 'estoy trabajando'",
+  "footer": "Language Learning · A1 · Verbos · El presente",
+  "next": "Siguiente: A1 · pdf 4 — de y het"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "encontrar la <b>raíz</b> de un verbo y formar todo el presente",
+    "aplicar los cambios de ortografía (<i>maken → maak, leven → leef</i>)",
+    "hacer preguntas de sí o no con el verbo delante (<i>Werk je hier?</i>)",
+    "hablar de rutinas y de lo que pasa ahora"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "Toma el infinitivo (<i>werken</i>) y quita <b>-en</b>: esa es la <b>raíz</b> (<i>werk</i>). La raíz es la forma de <b>ik</b>; añade <b>-t</b> para <b>jij, u, hij, zij, het</b>; y usa el infinitivo entero para todo el plural. Eso es todo: tres formas, frente a las seis del español."
+  },
+  {
+   "type": "conj",
+   "verb": "werken",
+   "meaning": "trabajar",
+   "label": "verbo regular",
+   "tense": "presente",
+   "forms": [
+    "werk",
+    "werk*t*",
+    "werk*t*",
+    "werk*en*",
+    "werk*en*",
+    "werk*en*"
+   ],
+   "examples": [
+    [
+     "Ik werk in een kantoor.",
+     "Trabajo en una oficina."
+    ],
+    [
+     "Jij werkt heel hard.",
+     "Trabajas muchísimo."
+    ],
+    [
+     "Zij werkt bij een school.",
+     "Ella trabaja en un colegio."
+    ],
+    [
+     "Op vrijdag werken we thuis.",
+     "Los viernes trabajamos en casa."
+    ],
+    [
+     "Jullie werken samen.",
+     "Trabajáis juntos."
+    ],
+    [
+     "Zij werken in Amsterdam.",
+     "Ellos trabajan en Ámsterdam."
+    ]
+   ]
+  },
+  {
+   "type": "conj",
+   "verb": "wonen",
+   "meaning": "vivir (en un lugar)",
+   "label": "verbo regular",
+   "tense": "presente",
+   "forms": [
+    "woon",
+    "woon*t*",
+    "woon*t*",
+    "won*en*",
+    "won*en*",
+    "won*en*"
+   ],
+   "examples": [
+    [
+     "Ik woon in Leiden.",
+     "Vivo en Leiden."
+    ],
+    [
+     "Waar woon jij?",
+     "¿Dónde vives?"
+    ],
+    [
+     "Hij woont bij zijn ouders.",
+     "Él vive con sus padres."
+    ],
+    [
+     "We wonen bij de zee.",
+     "Vivimos junto al mar."
+    ],
+    [
+     "Jullie wonen in een groot huis.",
+     "Vivís en una casa grande."
+    ],
+    [
+     "Zij wonen in het centrum.",
+     "Ellos viven en el centro."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. La ortografía de la raíz"
+  },
+  {
+   "type": "p",
+   "text": "La raíz sigue la regla del pdf 1: una vocal larga necesita dos letras en una sílaba cerrada, una consonante doble se queda en una al final, y ninguna palabra termina en v o z."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    5.0,
+    6.8
+   ],
+   "head": [
+    "Regla",
+    "Infinitivo → raíz",
+    "Más ejemplos"
+   ],
+   "rows": [
+    [
+     "vocal larga: se dobla",
+     "maken → maak",
+     "slapen → slaap, lopen → loop, horen → hoor"
+    ],
+    [
+     "consonante doble: una sola",
+     "zitten → zit",
+     "bakken → bak, liggen → lig, stoppen → stop"
+    ],
+    [
+     "la v se convierte en f",
+     "leven → leef",
+     "geven → geef, schrijven → schrijf"
+    ],
+    [
+     "la z se convierte en s",
+     "lezen → lees",
+     "reizen → reis, kiezen → kies"
+    ],
+    [
+     "raíz en t: sin t de más",
+     "zitten → hij zit",
+     "eten → hij eet, praten → hij praat"
+    ],
+    [
+     "raíz en d: + t",
+     "worden → hij wordt",
+     "rijden → hij rijdt, vinden → hij vindt"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "gaan, staan, doen, slaan, zien",
+   "text": "Estos verbos cortos tienen una raíz de una sílaba: <b>ik ga, jij gaat, wij gaan</b>; <b>ik sta</b>; <b>ik doe</b>; <b>ik sla</b>; <b>ik zie</b>. Y <b>komen</b> tiene <b>ik kom, jij komt</b> (con una o, contra la regla)."
+  },
+  {
+   "type": "h1",
+   "text": "3. Preguntas: el verbo delante"
+  },
+  {
+   "type": "p",
+   "text": "En español basta con la entonación (<i>¿Trabajas aquí?</i>). En neerlandés hay que poner el verbo delante: <b>Werk je hier?</b> Con una palabra interrogativa, el verbo va justo después: <b>Waar woon je?</b> (¿Dónde vives?)"
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Werk jij? — la t desaparece detrás del verbo",
+   "text": "Cuando <b>jij / je</b> va detrás del verbo, la -t desaparece: <i>Jij werkt</i>, pero <b>Werk jij?</b> y <b>Wat drink je?</b> Solo pasa con jij y je, no con u ni con hij: <i>Werkt u hier? Werkt hij hier?</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmación",
+    "Pregunta",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Jij spreekt Spaans.",
+     "Spreek jij Spaans?",
+     "¿Hablas español?"
+    ],
+    [
+     "Hij woont hier.",
+     "Woont hij hier?",
+     "¿Vive él aquí?"
+    ],
+    [
+     "Jullie werken samen.",
+     "Werken jullie samen?",
+     "¿Trabajáis juntos?"
+    ],
+    [
+     "U komt uit Spanje.",
+     "Komt u uit Spanje?",
+     "¿Es usted de España?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Un solo tiempo para 'trabajo' y 'estoy trabajando'"
+  },
+  {
+   "type": "p",
+   "text": "El presente neerlandés sirve para los dos presentes del español: <i>Ik lees</i> = leo y estoy leyendo. Para subrayar que algo pasa justo ahora, usa <b>zijn aan het + infinitivo</b>, el equivalente de <i>estar + gerundio</i>: <b>Ik ben aan het koken</b> (estoy cocinando)."
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "No traduzcas 'estoy trabajando' palabra por palabra",
+   "text": "Nunca digas <i>Ik ben werkend</i>. Di <b>Ik werk</b> o, para ahora mismo, <b>Ik ben aan het werken</b>. El neerlandés también usa el presente para el futuro, como el español: <i>Morgen werk ik thuis</i> (mañana trabajo en casa)."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos cotidianos",
+   "items": [
+    [
+     "werken",
+     "trabajar"
+    ],
+    [
+     "wonen",
+     "vivir"
+    ],
+    [
+     "spreken",
+     "hablar"
+    ],
+    [
+     "drinken",
+     "beber"
+    ],
+    [
+     "eten",
+     "comer"
+    ],
+    [
+     "slapen",
+     "dormir"
+    ],
+    [
+     "lezen",
+     "leer"
+    ],
+    [
+     "schrijven",
+     "escribir"
+    ],
+    [
+     "koken",
+     "cocinar"
+    ],
+    [
+     "gaan",
+     "ir"
+    ],
+    [
+     "komen",
+     "venir"
+    ],
+    [
+     "kijken",
+     "mirar, ver"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "¿Con qué frecuencia?",
+   "items": [
+    [
+     "altijd",
+     "siempre"
+    ],
+    [
+     "meestal",
+     "normalmente"
+    ],
+    [
+     "vaak",
+     "a menudo"
+    ],
+    [
+     "soms",
+     "a veces"
+    ],
+    [
+     "nooit",
+     "nunca"
+    ],
+    [
+     "elke dag",
+     "todos los días"
+    ],
+    [
+     "'s ochtends",
+     "por la mañana"
+    ],
+    [
+     "'s avonds",
+     "por la noche, por la tarde"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Werkt jij hier?",
+     "Werk jij hier?",
+     "Detrás del verbo, jij pierde la -t."
+    ],
+    [
+     "Ik maakt een fout.",
+     "Ik maak een fout.",
+     "ik: solo la raíz."
+    ],
+    [
+     "Ik leev in Utrecht.",
+     "Ik leef in Utrecht.",
+     "Ninguna palabra termina en v."
+    ],
+    [
+     "Ik mak koffie.",
+     "Ik maak koffie.",
+     "Sílaba cerrada: vocal larga con dos letras."
+    ],
+    [
+     "Hij zitt op de bank.",
+     "Hij zit op de bank.",
+     "Raíz en t: sin t de más."
+    ],
+    [
+     "Doe je spreek Engels?",
+     "Spreek je Engels?",
+     "Pregunta: el verbo delante."
+    ],
+    [
+     "Ik ben werken.",
+     "Ik werk.",
+     "Estoy trabajando = ik werk."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el presente. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Mijn zus ______ in Rotterdam.",
+     "hint": "wonen",
+     "a": "woont",
+     "full": "Mijn zus woont in Rotterdam."
+    },
+    {
+     "q": "Ik ______ elke ochtend koffie.",
+     "hint": "drinken",
+     "a": "drink",
+     "full": "Ik drink elke ochtend koffie."
+    },
+    {
+     "q": "Hij ______ een boek.",
+     "hint": "lezen",
+     "a": "leest",
+     "full": "Hij leest een boek."
+    },
+    {
+     "q": "______ je Nederlands?",
+     "hint": "spreken, pregunta",
+     "a": "spreek",
+     "full": "Spreek je Nederlands?"
+    },
+    {
+     "q": "Wij ______ om zeven uur.",
+     "hint": "eten",
+     "a": "eten",
+     "full": "Wij eten om zeven uur."
+    },
+    {
+     "q": "Ik ______ naar mijn werk.",
+     "hint": "gaan",
+     "a": "ga",
+     "full": "Ik ga naar mijn werk."
+    },
+    {
+     "q": "Zij ______ een brief.",
+     "hint": "schrijven, ella",
+     "a": "schrijft",
+     "full": "Zij schrijft een brief."
+    },
+    {
+     "q": "De baby ______ veel.",
+     "hint": "slapen",
+     "a": "slaapt",
+     "full": "De baby slaapt veel."
+    },
+    {
+     "q": "Hij ______ op een stoel.",
+     "hint": "zitten",
+     "a": "zit",
+     "full": "Hij zit op een stoel."
+    },
+    {
+     "q": "Ik ben aan het ______.",
+     "hint": "cocinar, ahora mismo",
+     "a": "koken",
+     "full": "Ik ben aan het koken."
+    },
+    {
+     "q": "______ u uit Engeland?",
+     "hint": "komen, pregunta",
+     "a": "komt",
+     "full": "Komt u uit Engeland?"
+    },
+    {
+     "q": "Ik ga ______ naar de film.",
+     "hint": "nunca",
+     "a": "nooit",
+     "full": "Ik ga nooit naar de film."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Hablas inglés?",
+     "a": "Spreek je Engels?"
+    },
+    {
+     "q": "Ella vive en Utrecht.",
+     "a": "Zij woont in Utrecht."
+    },
+    {
+     "q": "Él no bebe café.",
+     "a": "Hij drinkt geen koffie."
+    },
+    {
+     "q": "Normalmente me levanto a las siete.",
+     "a": "Ik sta meestal om zeven uur op."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

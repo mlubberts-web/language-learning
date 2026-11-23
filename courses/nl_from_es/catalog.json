@@ -20,5 +20,16 @@
   "subtitle": "ser, estar y tener: presentarse, la edad, el origen y la profesión, preguntas y negaciones",
   "content": "a1_02_zijn_hebben.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_03_El_presente",
+  "file": "A1_03_El_presente.pdf",
+  "level": "A1",
+  "number": 3,
+  "section": "Verbos",
+  "title": "El presente",
+  "subtitle": "Raíz + t, los cambios de ortografía, jij detrás del verbo, y un solo tiempo para 'trabajo' y 'estoy trabajando'",
+  "content": "a1_03_present_tense.json",
+  "exercise_count": 12
  }
 ]
