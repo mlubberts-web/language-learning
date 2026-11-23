@@ -1,0 +1,432 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "El futuro",
+  "subtitle": "will, going to, el present continuous para los planes acordados y shall para ofrecer",
+  "footer": "Language Learning · A2 · Verbos · El futuro",
+  "next": "Siguiente: A2 · pdf 7 — El imperativo y los verbos modales"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hacer predicciones, promesas y decisiones rápidas con <b>will</b>",
+    "expresar planes y expectativas con <b>going to</b>",
+    "hablar de planes acordados con el <b>present continuous</b>",
+    "ofrecer o proponer algo con <b>shall</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. will"
+  },
+  {
+   "type": "p",
+   "text": "<b>will</b> + el verbo sin nada, igual para todas las personas. La forma corta es <b>'ll</b>, la negación <b>won't</b> (= will not). Es el futuro español: <i>ayudaré</i> = <b>I'll help</b>."
+  },
+  {
+   "type": "conj",
+   "verb": "to help",
+   "meaning": "ayudar",
+   "label": "verbo regular",
+   "tense": "will future",
+   "forms": [
+    "will help",
+    "will help",
+    "will help",
+    "will help",
+    "will help",
+    "will help"
+   ],
+   "examples": [
+    [
+     "I'll help you with your bags.",
+     "Te ayudo con las bolsas."
+    ],
+    [
+     "You'll help me, won't you?",
+     "Me ayudarás, ¿verdad?"
+    ],
+    [
+     "She'll help us tomorrow.",
+     "Ella nos ayudará mañana."
+    ],
+    [
+     "We'll help with the cooking.",
+     "Ayudaremos a cocinar."
+    ],
+    [
+     "You'll help each other.",
+     "Os ayudaréis el uno al otro."
+    ],
+    [
+     "They won't help us.",
+     "No nos ayudarán."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Predicción",
+     "It will rain tomorrow.",
+     "Mañana lloverá."
+    ],
+    [
+     "Promesa",
+     "I'll call you tonight.",
+     "Te llamo esta noche."
+    ],
+    [
+     "Decisión en el momento",
+     "It's cold. I'll close the window.",
+     "Hace frío. Cierro la ventana."
+    ],
+    [
+     "Ofrecimiento",
+     "I'll carry that for you.",
+     "Ya te llevo yo eso."
+    ],
+    [
+     "Negativa",
+     "The car won't start.",
+     "El coche no quiere arrancar."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Te llamo luego = I'll call you later",
+   "text": "Para promesas, ofrecimientos y decisiones del momento, el español usa mucho el presente: <i>Te llamo luego</i>, <i>Ya lo hago yo</i>, <i>Cierro la ventana</i>. El inglés usa <b>will</b>: <b>I'll call you later</b>, <b>I'll do it</b>, <b>I'll close the window</b>. <i>I call you later</i> es incorrecto."
+  },
+  {
+   "type": "h1",
+   "text": "2. going to"
+  },
+  {
+   "type": "p",
+   "text": "<b>am / is / are going to</b> + el verbo sin nada es el <i>ir a</i> del español. Se usa para un <b>plan</b> ya decidido, y para una <b>predicción</b> basada en lo que ves ahora."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Plan",
+     "I'm going to learn Spanish next year.",
+     "El año que viene voy a aprender español."
+    ],
+    [
+     "Plan",
+     "We're going to paint the kitchen.",
+     "Vamos a pintar la cocina."
+    ],
+    [
+     "Lo que ves ahora",
+     "Look at those clouds! It's going to rain.",
+     "¡Mira esas nubes! Va a llover."
+    ],
+    [
+     "Negación y pregunta",
+     "Are you going to tell him? No, I'm not going to tell him.",
+     "¿Se lo vas a decir? No."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿will o going to?",
+   "text": "Si lo decides ahora, en este momento: <b>will</b>. <i>The phone's ringing. — I'll answer it.</i> Si ya lo habías decidido: <b>going to</b>. <i>Why did you buy paint? — I'm going to paint my room.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Planes acordados: el present continuous"
+  },
+  {
+   "type": "p",
+   "text": "Para un plan fijo, con hora y lugar, se usa el <b>present continuous</b>: <i>I'm meeting Sarah at six. We're flying to Rome on Friday. What are you doing tonight?</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Mañana trabajo = I'm working tomorrow",
+   "text": "El español usa el presente para el futuro: <i>Mañana trabajo.</i> En inglés no se puede con el present simple (salvo con los horarios: <i>The train leaves at six</i>). Di <b>I'm working tomorrow</b> o <b>I'll be working tomorrow</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. shall para ofrecer y proponer"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Shall I open the window?",
+     "¿Abro la ventana?"
+    ],
+    [
+     "Shall we go for a walk?",
+     "¿Vamos a dar un paseo?"
+    ],
+    [
+     "What shall we do tonight?",
+     "¿Qué hacemos esta noche?"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones de tiempo del futuro",
+   "items": [
+    [
+     "tomorrow",
+     "mañana"
+    ],
+    [
+     "the day after tomorrow",
+     "pasado mañana"
+    ],
+    [
+     "next week",
+     "la semana que viene"
+    ],
+    [
+     "next year",
+     "el año que viene"
+    ],
+    [
+     "in two weeks",
+     "dentro de dos semanas"
+    ],
+    [
+     "soon",
+     "pronto"
+    ],
+    [
+     "later",
+     "más tarde, luego"
+    ],
+    [
+     "tonight",
+     "esta noche"
+    ],
+    [
+     "one day",
+     "algún día"
+    ],
+    [
+     "in the future",
+     "en el futuro"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "in two weeks = dentro de dos semanas",
+   "text": "<i>Dentro de</i> en el tiempo es <b>in</b>: <i>dentro de una hora</i> = <b>in an hour</b>, <i>dentro de dos semanas</i> = <b>in two weeks</b>. Nunca <i>inside two weeks</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I will to call you.",
+     "I will call you.",
+     "Después de will no va to."
+    ],
+    [
+     "She wills come.",
+     "She will come.",
+     "will nunca lleva -s."
+    ],
+    [
+     "I call you later.",
+     "I will call you later.",
+     "Una promesa: will, no el presente."
+    ],
+    [
+     "Tomorrow I work in Delft.",
+     "Tomorrow I'm working in Delft.",
+     "Un plan acordado: present continuous."
+    ],
+    [
+     "I'm hungry. I make a sandwich.",
+     "I'm hungry. I'll make a sandwich.",
+     "Una decisión del momento: will."
+    ],
+    [
+     "See you inside a week.",
+     "See you in a week.",
+     "Dentro de, en el tiempo = in."
+    ],
+    [
+     "We going to buy a car.",
+     "We are going to buy a car.",
+     "going to necesita am / is / are."
+    ],
+    [
+     "Will I open the door?",
+     "Shall I open the door?",
+     "Un ofrecimiento con I o we: shall."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con will, going to o el present continuous. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "It's hot in here. I ______ open the window.",
+     "hint": "decisión en el momento",
+     "a": "'ll",
+     "full": "It's hot in here. I'll open the window."
+    },
+    {
+     "q": "I'm ______ to visit my aunt next month.",
+     "hint": "plan",
+     "a": "going",
+     "full": "I'm going to visit my aunt next month."
+    },
+    {
+     "q": "Look at the sky! It's going ______ snow.",
+     "hint": "lo que ves ahora",
+     "a": "to",
+     "full": "Look at the sky! It's going to snow."
+    },
+    {
+     "q": "We ______ Tom at seven tonight.",
+     "hint": "meet, plan acordado",
+     "a": "are meeting",
+     "full": "We are meeting Tom at seven tonight."
+    },
+    {
+     "q": "______ we go to the cinema?",
+     "hint": "propuesta",
+     "a": "Shall",
+     "full": "Shall we go to the cinema?"
+    },
+    {
+     "q": "I promise I ______ tell anyone.",
+     "hint": "will, negación",
+     "a": "won't",
+     "full": "I promise I won't tell anyone."
+    },
+    {
+     "q": "What ______ you doing this weekend?",
+     "hint": "plan acordado",
+     "a": "are",
+     "full": "What are you doing this weekend?"
+    },
+    {
+     "q": "I think Spain ______ win the match.",
+     "hint": "predicción",
+     "a": "will",
+     "full": "I think Spain will win the match."
+    },
+    {
+     "q": "See you ______ two weeks.",
+     "hint": "dentro de",
+     "a": "in",
+     "full": "See you in two weeks."
+    },
+    {
+     "q": "The train ______ at half past eight tomorrow.",
+     "hint": "leave, horario",
+     "a": "leaves",
+     "full": "The train leaves at half past eight tomorrow."
+    },
+    {
+     "q": "She ______ going to study medicine.",
+     "hint": "to be",
+     "a": "is",
+     "full": "She is going to study medicine."
+    },
+    {
+     "q": "______ I carry your bag?",
+     "hint": "ofrecimiento",
+     "a": "Shall",
+     "full": "Shall I carry your bag?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Te llamaré esta noche.",
+     "a": "I'll call you tonight."
+    },
+    {
+     "q": "¿Damos un paseo?",
+     "a": "Shall we go for a walk?"
+    },
+    {
+     "q": "El año que viene vamos a comprar una casa.",
+     "a": "We are going to buy a house next year."
+    },
+    {
+     "q": "Mañana he quedado con Sarah a las seis.",
+     "a": "I'm meeting Sarah at six tomorrow."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

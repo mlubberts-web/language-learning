@@ -141,5 +141,60 @@
   "subtitle": "have / has + participio: experiencias, ever y never, just, already y yet, for y since",
   "content": "a2_04_present_perfect.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_05_Present_perfect_o_past_simple",
+  "file": "A2_05_Present_perfect_o_past_simple.pdf",
+  "level": "A2",
+  "number": 5,
+  "section": "Verbos",
+  "title": "¿Present perfect o past simple?",
+  "subtitle": "Tiempo terminado o tiempo hasta ahora: parecido al español de España, con algunas trampas",
+  "content": "a2_05_perfect_or_past.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_06_El_futuro",
+  "file": "A2_06_El_futuro.pdf",
+  "level": "A2",
+  "number": 6,
+  "section": "Verbos",
+  "title": "El futuro",
+  "subtitle": "will, going to, el present continuous para los planes acordados y shall para ofrecer",
+  "content": "a2_06_future.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_07_El_imperativo_y_los_verbos_modales",
+  "file": "A2_07_El_imperativo_y_los_verbos_modales.pdf",
+  "level": "A2",
+  "number": 7,
+  "section": "Verbos",
+  "title": "El imperativo y los verbos modales",
+  "subtitle": "Dar órdenes, y can, could, must, have to, should y may",
+  "content": "a2_07_imperative_modals.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_08_Contables_e_incontables",
+  "file": "A2_08_Contables_e_incontables.pdf",
+  "level": "A2",
+  "number": 8,
+  "section": "Gramática",
+  "title": "Contables e incontables",
+  "subtitle": "some y any, much y many, a lot of, a few y a little, too y enough",
+  "content": "a2_08_countables_quantity.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_09_Comparar_y_las_preposiciones",
+  "file": "A2_09_Comparar_y_las_preposiciones.pdf",
+  "level": "A2",
+  "number": 9,
+  "section": "Gramática",
+  "title": "Comparar y las preposiciones",
+  "subtitle": "-er y more, the -est y the most, as ... as, y las preposiciones de movimiento",
+  "content": "a2_09_comparatives_prepositions.json",
+  "exercise_count": 12
  }
 ]

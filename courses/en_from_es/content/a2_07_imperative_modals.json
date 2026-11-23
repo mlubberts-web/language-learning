@@ -1,0 +1,358 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "El imperativo y los verbos modales",
+  "subtitle": "Dar órdenes, y can, could, must, have to, should y may",
+  "footer": "Language Learning · A2 · Verbos · Imperativo y verbos modales",
+  "next": "Siguiente: A2 · pdf 8 — Contables e incontables"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "dar órdenes, instrucciones y avisos",
+    "pedir algo con educación con <b>could</b> y <b>can</b>",
+    "expresar obligación con <b>must</b> y <b>have to</b>, y conocer la diferencia entre <b>mustn't</b> y <b>don't have to</b>",
+    "dar consejos con <b>should</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El imperativo"
+  },
+  {
+   "type": "p",
+   "text": "El imperativo es el verbo sin nada y sin sujeto, igual para tú, usted, vosotros y ustedes: <b>Sit down. Close the door. Be careful!</b> Para negar se pone <b>Don't</b> delante: <b>Don't worry. Don't be late.</b> Con <b>Let's</b> propones algo al grupo: <b>Let's go!</b> (¡Vamos!)"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "please lo hace educado",
+   "text": "Un imperativo inglés suena brusco enseguida. En España <i>Ponme un café</i> es normal; en inglés <i>Give me a coffee</i> suena muy mal. Añade <b>please</b> o usa una pregunta: <i>Could I have a coffee, please?</i> o <i>Could you close the door, please?</i> es mucho más amable que <i>Close the door.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. Los verbos modales: las reglas"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Sin -s con he, she e it: <i>She <b>can</b> swim</i>, <i>He <b>must</b> go</i>.",
+    "Después va el verbo sin nada, sin to: <i>You <b>should</b> rest</i>, no <i>should to rest</i>.",
+    "Preguntas y negaciones sin do: <i><b>Can</b> you help? You <b>shouldn't</b> smoke.</i>",
+    "Excepción: <b>have to</b> funciona como un verbo normal, con do y con -s."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Resumen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    5.0,
+    8.6
+   ],
+   "head": [
+    "Verbo",
+    "Significado",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "can",
+     "poder, saber hacer",
+     "I can drive. Can I sit here?"
+    ],
+    [
+     "could",
+     "podía, pude; petición educada",
+     "I could swim when I was five. Could you help me?"
+    ],
+    [
+     "may",
+     "poder (formal); puede que",
+     "May I come in? It may rain."
+    ],
+    [
+     "must",
+     "deber, tener que (lo piensas tú)",
+     "I must call my mother."
+    ],
+    [
+     "have to",
+     "tener que (una norma o una situación)",
+     "I have to wear a uniform at work."
+    ],
+    [
+     "mustn't",
+     "no deber, estar prohibido",
+     "You mustn't park here."
+    ],
+    [
+     "don't have to",
+     "no tener que, no hacer falta",
+     "You don't have to come."
+    ],
+    [
+     "should",
+     "deberías (consejo)",
+     "You should see a doctor."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "mustn't no es 'no hace falta'",
+   "text": "<b>You mustn't go</b> = no debes ir, no puedes ir. <b>You don't have to go</b> = no tienes que ir, no hace falta (pero puedes). Por suerte funciona como en español: <i>no tienes que</i> = <b>don't have to</b>, <i>no debes</i> = <b>mustn't</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "had to en el pasado",
+   "text": "must no tiene pasado. Usa <b>had to</b>: <i>I had to work late yesterday</i> (ayer tuve que trabajar hasta tarde). Con can: <b>could</b> o <b>was able to</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "have to",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I have to go.",
+     "I don't have to go.",
+     "Do I have to go?"
+    ],
+    [
+     "She has to work.",
+     "She doesn't have to work.",
+     "Does she have to work?"
+    ],
+    [
+     "We had to wait.",
+     "We didn't have to wait.",
+     "Did you have to wait?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Peticiones educadas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Can you pass the salt?",
+     "¿Me pasas la sal?"
+    ],
+    [
+     "Could you speak more slowly, please?",
+     "¿Podría hablar más despacio, por favor?"
+    ],
+    [
+     "Could I have the bill, please?",
+     "¿Me trae la cuenta, por favor?"
+    ],
+    [
+     "May I use your phone?",
+     "¿Puedo usar su teléfono?"
+    ],
+    [
+     "Would you like some tea?",
+     "¿Quiere un té?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "She cans speak French.",
+     "She can speak French.",
+     "Los verbos modales no llevan -s."
+    ],
+    [
+     "You should to rest.",
+     "You should rest.",
+     "Después de should no va to."
+    ],
+    [
+     "Do you can swim?",
+     "Can you swim?",
+     "Un verbo modal forma la pregunta él solo."
+    ],
+    [
+     "I must work yesterday.",
+     "I had to work yesterday.",
+     "En pasado: had to."
+    ],
+    [
+     "She have to leave.",
+     "She has to leave.",
+     "have to lleva -s: has to."
+    ],
+    [
+     "Not touch that!",
+     "Don't touch that!",
+     "Una prohibición empieza con Don't."
+    ],
+    [
+     "You don't must smoke here.",
+     "You mustn't smoke here.",
+     "Estar prohibido: mustn't."
+    ],
+    [
+     "Do you like a drink?",
+     "Would you like a drink?",
+     "Para ofrecer algo: Would you like, no Do you like."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el verbo modal o la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "You look ill. You ______ see a doctor.",
+     "hint": "consejo",
+     "a": "should",
+     "full": "You look ill. You should see a doctor."
+    },
+    {
+     "q": "______ you open the window, please?",
+     "hint": "petición educada",
+     "a": "Could",
+     "full": "Could you open the window, please?"
+    },
+    {
+     "q": "You ______ smoke in the hospital.",
+     "hint": "prohibido",
+     "a": "mustn't",
+     "full": "You mustn't smoke in the hospital."
+    },
+    {
+     "q": "It's Sunday. You ______ get up early.",
+     "hint": "no hace falta",
+     "a": "don't have to",
+     "full": "It's Sunday. You don't have to get up early."
+    },
+    {
+     "q": "She ______ wear a uniform at work.",
+     "hint": "have to",
+     "a": "has to",
+     "full": "She has to wear a uniform at work."
+    },
+    {
+     "q": "Yesterday I ______ wait for an hour.",
+     "hint": "tener que, pasado",
+     "a": "had to",
+     "full": "Yesterday I had to wait for an hour."
+    },
+    {
+     "q": "______ worry. It's not a problem.",
+     "hint": "negación",
+     "a": "Don't",
+     "full": "Don't worry. It's not a problem."
+    },
+    {
+     "q": "______ go to the beach!",
+     "hint": "vamos a",
+     "a": "Let's",
+     "full": "Let's go to the beach!"
+    },
+    {
+     "q": "When I was young I ______ run very fast.",
+     "hint": "podía",
+     "a": "could",
+     "full": "When I was young I could run very fast."
+    },
+    {
+     "q": "______ I come in?",
+     "hint": "poder, formal",
+     "a": "May",
+     "full": "May I come in?"
+    },
+    {
+     "q": "Do I ______ to pay now?",
+     "hint": "have to",
+     "a": "have",
+     "full": "Do I have to pay now?"
+    },
+    {
+     "q": "______ you like a cup of tea?",
+     "hint": "ofrecer",
+     "a": "Would",
+     "full": "Would you like a cup of tea?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "No tienes que venir.",
+     "a": "You don't have to come."
+    },
+    {
+     "q": "No debes aparcar aquí.",
+     "a": "You mustn't park here."
+    },
+    {
+     "q": "¿Podría ayudarme?",
+     "a": "Could you help me?"
+    },
+    {
+     "q": "Ayer tuve que trabajar hasta tarde.",
+     "a": "I had to work late yesterday."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

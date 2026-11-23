@@ -1,0 +1,451 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Gramática",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Contables e incontables",
+  "subtitle": "some y any, much y many, a lot of, a few y a little, too y enough",
+  "footer": "Language Learning · A2 · Gramática · Contables e incontables",
+  "next": "Siguiente: A2 · pdf 9 — Comparar y las preposiciones"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer los sustantivos contables e incontables",
+    "usar bien <b>some</b> y <b>any</b>",
+    "expresar cantidades con <b>much, many, a lot of, a few, a little</b>",
+    "usar <b>too</b> y <b>enough</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿Contable o incontable?"
+  },
+  {
+   "type": "p",
+   "text": "Las palabras <b>contables</b> tienen plural: <i>an apple, two apples</i>. Las <b>incontables</b> no: <i>water, money, information</i>. No llevan a ni an, ni -s, y el verbo va en singular."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Incontables en inglés, contables en español",
+   "items": [
+    [
+     "information",
+     "información, informaciones"
+    ],
+    [
+     "advice",
+     "consejo, consejos"
+    ],
+    [
+     "news",
+     "noticia, noticias"
+    ],
+    [
+     "furniture",
+     "mueble, muebles"
+    ],
+    [
+     "luggage",
+     "equipaje"
+    ],
+    [
+     "homework",
+     "deberes"
+    ],
+    [
+     "research",
+     "investigación"
+    ],
+    [
+     "equipment",
+     "equipo, aparatos"
+    ],
+    [
+     "work",
+     "trabajo"
+    ],
+    [
+     "travel",
+     "viajes"
+    ],
+    [
+     "bread",
+     "pan"
+    ],
+    [
+     "hair",
+     "pelo (de la cabeza)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un consejo = a piece of advice",
+   "text": "Para una unidad de algo incontable se dice <b>a piece of</b>: <i>a piece of advice</i> (un consejo), <i>a piece of furniture</i> (un mueble), <i>a piece of news</i> (una noticia). Y además: <i>Your hair <b>is</b> long</i> (tienes el pelo largo); <i>The news <b>is</b> good</i> (las noticias son buenas); <i>I need some information</i>, nunca <i>informations</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Cantidades de algo incontable",
+   "items": [
+    [
+     "a cup of tea",
+     "una taza de té"
+    ],
+    [
+     "a glass of water",
+     "un vaso de agua"
+    ],
+    [
+     "a bottle of wine",
+     "una botella de vino"
+    ],
+    [
+     "a slice of bread",
+     "una rebanada de pan"
+    ],
+    [
+     "a piece of cake",
+     "un trozo de tarta"
+    ],
+    [
+     "a bar of chocolate",
+     "una tableta de chocolate"
+    ],
+    [
+     "a kilo of potatoes",
+     "un kilo de patatas"
+    ],
+    [
+     "a loaf of bread",
+     "una barra de pan"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. some y any"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.6,
+    6.8
+   ],
+   "head": [
+    "",
+    "Uso",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "some",
+     "frases afirmativas",
+     "There is some milk. I've got some friends here."
+    ],
+    [
+     "some",
+     "ofrecer y pedir algo",
+     "Would you like some tea? Can I have some water?"
+    ],
+    [
+     "any",
+     "negaciones",
+     "There isn't any milk. I haven't got any money."
+    ],
+    [
+     "any",
+     "preguntas normales",
+     "Are there any shops near here?"
+    ],
+    [
+     "no",
+     "= not any",
+     "There's no milk. = There isn't any milk."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "something, anything, nothing",
+   "text": "La misma regla vale para <b>something / anything / nothing</b>, <b>somebody / anybody / nobody</b> y <b>somewhere / anywhere / nowhere</b>: <i>I didn't see anything. Is anybody there? There's nobody here.</i> Ojo: el inglés no tiene doble negación: <i>No vi nada</i> = <b>I didn't see anything</b> o <b>I saw nothing</b>, nunca <i>I didn't see nothing</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. much, many, a lot of"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.0,
+    4.0,
+    5.0
+   ],
+   "head": [
+    "",
+    "Contable",
+    "Incontable",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "mucho (pregunta, negación)",
+     "many",
+     "much",
+     "How many people? Not much time."
+    ],
+    [
+     "mucho (afirmativa)",
+     "a lot of",
+     "a lot of",
+     "a lot of friends, a lot of money"
+    ],
+    [
+     "unos pocos / un poco",
+     "a few",
+     "a little",
+     "a few days, a little sugar"
+    ],
+    [
+     "poco",
+     "few",
+     "little",
+     "few people, little time"
+    ],
+    [
+     "¿cuánto?",
+     "How many ...?",
+     "How much ...?",
+     "How many eggs? How much milk?"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "How much is it? — ¿Cuánto cuesta?",
+   "text": "Con los precios se usa siempre <b>How much</b>, aunque cuentes euros: <i>How much is it? How much does it cost?</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. too y enough"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.0,
+    6.0
+   ],
+   "head": [
+    "",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "too + adjetivo",
+     "It's too expensive.",
+     "Es demasiado caro."
+    ],
+    [
+     "too much / too many",
+     "There's too much sugar. There are too many cars.",
+     "Tiene demasiado azúcar. Hay demasiados coches."
+    ],
+    [
+     "adjetivo + enough",
+     "He isn't old enough.",
+     "No tiene edad suficiente."
+    ],
+    [
+     "enough + sustantivo",
+     "We haven't got enough time.",
+     "No tenemos tiempo suficiente."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "too es demasiado, no muy; enough va detrás del adjetivo",
+   "text": "<b>too</b> significa <i>demasiado</i>, con un sentido negativo: <i>It's too hot</i> = hace demasiado calor (es un problema). Para <i>muy</i> se dice <b>very</b>: <i>It's very nice</i>, nunca <i>It's too nice</i>. Y <b>enough</b> va <b>detrás</b> de un adjetivo (<i>big enough</i> = lo bastante grande), pero <b>delante</b> de un sustantivo (<i>enough money</i> = dinero suficiente)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Can you give me an advice?",
+     "Can you give me some advice?",
+     "advice es incontable."
+    ],
+    [
+     "I need some informations.",
+     "I need some information.",
+     "information no tiene plural."
+    ],
+    [
+     "The news are bad.",
+     "The news is bad.",
+     "news es singular."
+    ],
+    [
+     "There isn't some milk.",
+     "There isn't any milk.",
+     "Una negación: any."
+    ],
+    [
+     "How much people came?",
+     "How many people came?",
+     "Contable: many."
+    ],
+    [
+     "I have much friends.",
+     "I have a lot of friends.",
+     "En una frase afirmativa: a lot of."
+    ],
+    [
+     "It's enough big.",
+     "It's big enough.",
+     "enough va detrás del adjetivo."
+    ],
+    [
+     "My luggages are heavy.",
+     "My luggage is heavy.",
+     "luggage es incontable."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Would you like ______ coffee?",
+     "hint": "some o any",
+     "a": "some",
+     "full": "Would you like some coffee?"
+    },
+    {
+     "q": "We haven't got ______ bread.",
+     "hint": "some o any",
+     "a": "any",
+     "full": "We haven't got any bread."
+    },
+    {
+     "q": "How ______ sugar do you want?",
+     "hint": "much o many",
+     "a": "much",
+     "full": "How much sugar do you want?"
+    },
+    {
+     "q": "How ______ brothers have you got?",
+     "hint": "much o many",
+     "a": "many",
+     "full": "How many brothers have you got?"
+    },
+    {
+     "q": "I've got ______ questions.",
+     "hint": "unas cuantas",
+     "a": "a few",
+     "full": "I've got a few questions."
+    },
+    {
+     "q": "Can I have ______ milk in my tea?",
+     "hint": "un poco",
+     "a": "a little",
+     "full": "Can I have a little milk in my tea?"
+    },
+    {
+     "q": "This bag is ______ heavy. I can't carry it.",
+     "hint": "demasiado",
+     "a": "too",
+     "full": "This bag is too heavy. I can't carry it."
+    },
+    {
+     "q": "He isn't old ______ to drive.",
+     "hint": "suficiente",
+     "a": "enough",
+     "full": "He isn't old enough to drive."
+    },
+    {
+     "q": "She gave me a good piece of ______.",
+     "hint": "consejo",
+     "a": "advice",
+     "full": "She gave me a good piece of advice."
+    },
+    {
+     "q": "Is there ______ in the fridge?",
+     "hint": "algo (pregunta)",
+     "a": "anything",
+     "full": "Is there anything in the fridge?"
+    },
+    {
+     "q": "The news ______ very good today.",
+     "hint": "to be",
+     "a": "is",
+     "full": "The news is very good today."
+    },
+    {
+     "q": "There were ______ many people at the party.",
+     "hint": "demasiado",
+     "a": "too",
+     "full": "There were too many people at the party."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Me puedes dar algún consejo?",
+     "a": "Can you give me some advice?"
+    },
+    {
+     "q": "¿Cuánto cuesta?",
+     "a": "How much is it?"
+    },
+    {
+     "q": "No tenemos tiempo suficiente.",
+     "a": "We haven't got enough time."
+    },
+    {
+     "q": "Es demasiado caro.",
+     "a": "It's too expensive."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

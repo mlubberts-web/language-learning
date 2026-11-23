@@ -1,0 +1,398 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Gramática",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Comparar y las preposiciones",
+  "subtitle": "-er y more, the -est y the most, as ... as, y las preposiciones de movimiento",
+  "footer": "Language Learning · A2 · Gramática · Comparar y preposiciones",
+  "next": "Siguiente: A2 · pdf 10 — Vocabulario y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el comparativo con <b>-er</b> o <b>more</b>",
+    "formar el superlativo con <b>the -est</b> o <b>the most</b>",
+    "decir que dos cosas son iguales con <b>as ... as</b>",
+    "describir movimientos con into, out of, across, through y otras preposiciones"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El comparativo y el superlativo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    3.8,
+    3.8,
+    4.0
+   ],
+   "head": [
+    "Tipo de adjetivo",
+    "Base",
+    "Comparativo",
+    "Superlativo"
+   ],
+   "rows": [
+    [
+     "una sílaba",
+     "cheap",
+     "cheaper",
+     "the cheapest"
+    ],
+    [
+     "termina en -e",
+     "nice",
+     "nicer",
+     "the nicest"
+    ],
+    [
+     "vocal corta + consonante",
+     "big",
+     "bigger",
+     "the biggest"
+    ],
+    [
+     "dos sílabas en -y",
+     "easy",
+     "easier",
+     "the easiest"
+    ],
+    [
+     "dos o más sílabas",
+     "expensive",
+     "more expensive",
+     "the most expensive"
+    ],
+    [
+     "irregular",
+     "good",
+     "better",
+     "the best"
+    ],
+    [
+     "irregular",
+     "bad",
+     "worse",
+     "the worst"
+    ],
+    [
+     "irregular",
+     "far",
+     "further",
+     "the furthest"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>London is <b>bigger than</b> Amsterdam.</i> — Londres es más grande que Ámsterdam.<br/><i>This is <b>the most beautiful</b> beach in Spain.</i> — Esta es la playa más bonita de España.<br/><i>He's <b>the best</b> player <b>in</b> the team.</i> — Es el mejor jugador del equipo."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "más grande = bigger; de Europa = in Europe",
+   "bullets": [
+    "<i>más grande que</i> = <b>bigger than</b>, no <i>more big</i>. Las palabras cortas llevan -er; solo las largas llevan more. Y <i>que</i> es <b>than</b>, no <i>that</i> ni <i>then</i>.",
+    "Después de un superlativo con un lugar o un grupo: <b>in</b>, no of. <i>la montaña más alta de Europa</i> = <b>the highest mountain in Europe</b>.",
+    "Nada de formas dobles: <i>more bigger</i> y <i>most cheapest</i> son incorrectos."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Igual y distinto"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Tom is as tall as his father.",
+     "Tom es tan alto como su padre."
+    ],
+    [
+     "This film isn't as good as the book.",
+     "Esta película no es tan buena como el libro."
+    ],
+    [
+     "My car is the same as yours.",
+     "Mi coche es igual que el tuyo."
+    ],
+    [
+     "She's different from her sister.",
+     "Ella es distinta de su hermana."
+    ],
+    [
+     "It's getting colder and colder.",
+     "Cada vez hace más frío."
+    ],
+    [
+     "The sooner, the better.",
+     "Cuanto antes, mejor."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Las preposiciones de movimiento"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    6.6,
+    6.8
+   ],
+   "head": [
+    "Preposición",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "into",
+     "She went into the shop.",
+     "Entró en la tienda."
+    ],
+    [
+     "out of",
+     "He came out of the house.",
+     "Salió de la casa."
+    ],
+    [
+     "up / down",
+     "We walked up the hill and down again.",
+     "Subimos la colina y volvimos a bajar."
+    ],
+    [
+     "across",
+     "Walk across the bridge.",
+     "Cruza el puente."
+    ],
+    [
+     "through",
+     "The train goes through a tunnel.",
+     "El tren pasa por un túnel."
+    ],
+    [
+     "along",
+     "We walked along the river.",
+     "Paseamos a lo largo del río."
+    ],
+    [
+     "past",
+     "Go past the church.",
+     "Pasa por delante de la iglesia."
+    ],
+    [
+     "towards",
+     "He ran towards me.",
+     "Corrió hacia mí."
+    ],
+    [
+     "over",
+     "The plane flew over the city.",
+     "El avión sobrevoló la ciudad."
+    ],
+    [
+     "round / around",
+     "We walked round the lake.",
+     "Dimos la vuelta al lago."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "El verbo dice cómo, la preposición dice adónde",
+   "text": "El español pone la dirección en el verbo: <i>entrar, salir, subir, bajar, cruzar</i>. El inglés la pone en la preposición, y el verbo dice cómo te mueves: <i>entró corriendo en la tienda</i> = <b>she ran into the shop</b>, <i>cruzamos la calle andando</i> = <b>we walked across the street</b>, <i>subió la montaña</i> = <b>he climbed up the mountain</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "go to, pero arrive in / at",
+   "text": "Movimiento hacia un lugar: <b>go to</b> school, <b>come to</b> the party. Pero llegar es <b>arrive in</b> (ciudad, país) o <b>arrive at</b> (edificio, estación): <i>We arrived in London at six. We arrived at the hotel.</i> Nunca <i>arrive to</i>, aunque en español digas <i>llegar a</i>. Y <b>go home</b> sin to."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "She is more tall than me.",
+     "She is taller than me.",
+     "Los adjetivos cortos llevan -er."
+    ],
+    [
+     "This is more better.",
+     "This is better.",
+     "No hay comparativo doble."
+    ],
+    [
+     "It's bigger then my house.",
+     "It's bigger than my house.",
+     "Para comparar: than."
+    ],
+    [
+     "the highest mountain of Europe",
+     "the highest mountain in Europe",
+     "Un lugar después de un superlativo: in."
+    ],
+    [
+     "He is as tall like his brother.",
+     "He is as tall as his brother.",
+     "as ... as."
+    ],
+    [
+     "We arrived to Madrid at nine.",
+     "We arrived in Madrid at nine.",
+     "Arrive in con una ciudad."
+    ],
+    [
+     "I'm going to home.",
+     "I'm going home.",
+     "home sin to."
+    ],
+    [
+     "the most cheapest flight",
+     "the cheapest flight",
+     "No hay superlativo doble."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma o la preposición correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "A car is ______ than a bike.",
+     "hint": "fast",
+     "a": "faster",
+     "full": "A car is faster than a bike."
+    },
+    {
+     "q": "This hotel is ______ than the other one.",
+     "hint": "expensive",
+     "a": "more expensive",
+     "full": "This hotel is more expensive than the other one."
+    },
+    {
+     "q": "It was the ______ day of my life.",
+     "hint": "good",
+     "a": "best",
+     "full": "It was the best day of my life."
+    },
+    {
+     "q": "Today is ______ than yesterday.",
+     "hint": "hot",
+     "a": "hotter",
+     "full": "Today is hotter than yesterday."
+    },
+    {
+     "q": "My exam was ______ than I expected.",
+     "hint": "bad",
+     "a": "worse",
+     "full": "My exam was worse than I expected."
+    },
+    {
+     "q": "He's the ______ student in the class.",
+     "hint": "clever",
+     "a": "cleverest",
+     "full": "He's the cleverest student in the class."
+    },
+    {
+     "q": "My bag isn't ______ heavy as yours.",
+     "hint": "tan",
+     "a": "as",
+     "full": "My bag isn't as heavy as yours."
+    },
+    {
+     "q": "She ran ______ the shop to buy milk.",
+     "hint": "entrar en la tienda",
+     "a": "into",
+     "full": "She ran into the shop to buy milk."
+    },
+    {
+     "q": "Walk ______ the bridge and turn left.",
+     "hint": "cruzar el puente",
+     "a": "across",
+     "full": "Walk across the bridge and turn left."
+    },
+    {
+     "q": "We arrived ______ the station at ten.",
+     "hint": "llegar a un edificio",
+     "a": "at",
+     "full": "We arrived at the station at ten."
+    },
+    {
+     "q": "The train went ______ a long tunnel.",
+     "hint": "por, a través de",
+     "a": "through",
+     "full": "The train went through a long tunnel."
+    },
+    {
+     "q": "It's the ______ beautiful city in Italy.",
+     "hint": "superlativo",
+     "a": "most",
+     "full": "It's the most beautiful city in Italy."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Londres es más grande que Ámsterdam.",
+     "a": "London is bigger than Amsterdam."
+    },
+    {
+     "q": "Él es tan alto como su padre.",
+     "a": "He is as tall as his father."
+    },
+    {
+     "q": "Ella entró en la tienda.",
+     "a": "She walked into the shop."
+    },
+    {
+     "q": "Es la montaña más alta de Europa.",
+     "a": "It is the highest mountain in Europe."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

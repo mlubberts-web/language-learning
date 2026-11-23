@@ -1,0 +1,342 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 5,
+  "total_in_level": 10,
+  "title": "¿Present perfect o past simple?",
+  "subtitle": "Tiempo terminado o tiempo hasta ahora: parecido al español de España, con algunas trampas",
+  "footer": "Language Learning · A2 · Verbos · Present perfect o past simple",
+  "next": "Siguiente: A2 · pdf 6 — El futuro"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre el present perfect y el past simple",
+    "reconocer las expresiones de tiempo de cada tiempo verbal",
+    "mantener una conversación que empieza con una experiencia y sigue con detalles"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La regla principal"
+  },
+  {
+   "type": "p",
+   "text": "En España la regla se parece mucho a la del español: <i>hoy he visto</i> frente a <i>ayer vi</i>. La pregunta es siempre: <b>¿el tiempo ha terminado, o llega hasta ahora?</b> El inglés es más estricto que el español: en cuanto hay un momento concreto del pasado, se usa el past simple."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Past simple: tiempo terminado",
+    "Present perfect: tiempo hasta ahora"
+   ],
+   "rows": [
+    [
+     "I saw her yesterday.",
+     "I have seen her today."
+    ],
+    [
+     "We went to Italy last year.",
+     "We have been to Italy twice."
+    ],
+    [
+     "She lived in Paris from 2010 to 2015.",
+     "She has lived in Paris since 2015."
+    ],
+    [
+     "Did you call him this morning? (ya es por la tarde)",
+     "Have you called him this morning? (todavía es por la mañana)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Ayer, a las tres, cuándo = past simple",
+   "text": "En cuanto se nombra un momento del pasado (yesterday, last week, in 2019, ago, when I was young, What time ...?), se usa el <b>past simple</b>: <i>Lo vi ayer</i> = <b>I saw him yesterday</b>. <i>I have seen him yesterday</i> es siempre incorrecto. Y aunque en España digas <i>he llegado a las ocho</i> o <i>esta mañana he ido al médico</i>, con una hora concreta o una mañana ya terminada el inglés dice <b>I arrived at eight</b>, <b>I went to the doctor this morning</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Expresiones de tiempo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Past simple",
+    "Present perfect"
+   ],
+   "rows": [
+    [
+     "yesterday, last week, last year",
+     "ever, never, before"
+    ],
+    [
+     "two days ago, an hour ago",
+     "just, already, yet"
+    ],
+    [
+     "in 2020, in May, on Monday",
+     "so far, up to now, recently"
+    ],
+    [
+     "when I was a child",
+     "for (hasta ahora), since"
+    ],
+    [
+     "What time ...? When ...?",
+     "today, this week (aún no han terminado)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "When ...? siempre con el past simple",
+   "text": "Una pregunta con <b>When</b> o <b>What time</b> pregunta por un momento: <b>When did you arrive?</b>, nunca <i>When have you arrived?</i>, aunque en España se diga <i>¿Cuándo has llegado?</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. De la noticia a los detalles"
+  },
+  {
+   "type": "p",
+   "text": "En una conversación se suele empezar con el present perfect (la noticia, la experiencia) y se pasa al past simple en cuanto das detalles: cuándo, dónde, cómo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Have you ever been to New York?",
+     "¿Has estado alguna vez en Nueva York?"
+    ],
+    [
+     "Yes, I have. I went there in 2019.",
+     "Sí. Fui en 2019."
+    ],
+    [
+     "Did you like it?",
+     "¿Te gustó?"
+    ],
+    [
+     "Yes, it was fantastic. We stayed for a week.",
+     "Sí, fue fantástico. Nos quedamos una semana."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Las noticias en la radio",
+   "text": "Las noticias también empiezan a menudo con el present perfect y siguen en past simple: <i>A plane <b>has crashed</b> in France. It <b>left</b> Paris at 10 in the morning.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "4. for en los dos tiempos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "I have worked here for five years.",
+     "Trabajo aquí desde hace cinco años (y sigo)."
+    ],
+    [
+     "I worked there for five years.",
+     "Trabajé allí cinco años (ya no)."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I have seen him yesterday.",
+     "I saw him yesterday.",
+     "yesterday ha terminado: past simple."
+    ],
+    [
+     "When have you arrived?",
+     "When did you arrive?",
+     "When pregunta por un momento: past simple."
+    ],
+    [
+     "Did you ever eat snails?",
+     "Have you ever eaten snails?",
+     "Una experiencia hasta ahora: present perfect."
+    ],
+    [
+     "I have been to Rome in 2018.",
+     "I went to Rome in 2018.",
+     "Un año concreto: past simple."
+    ],
+    [
+     "She works here since May.",
+     "She has worked here since May.",
+     "since: present perfect."
+    ],
+    [
+     "I didn't finish yet.",
+     "I haven't finished yet.",
+     "yet: present perfect."
+    ],
+    [
+     "We have moved two years ago.",
+     "We moved two years ago.",
+     "ago: past simple."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Elige el present perfect o el past simple. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ him at the station yesterday.",
+     "hint": "see",
+     "a": "saw",
+     "full": "I saw him at the station yesterday."
+    },
+    {
+     "q": "______ you ever ______ to Ireland?",
+     "hint": "be",
+     "a": "Have, been",
+     "full": "Have you ever been to Ireland?"
+    },
+    {
+     "q": "We ______ to Greece last summer.",
+     "hint": "go",
+     "a": "went",
+     "full": "We went to Greece last summer."
+    },
+    {
+     "q": "She ______ in this company since 2020.",
+     "hint": "work",
+     "a": "has worked",
+     "full": "She has worked in this company since 2020."
+    },
+    {
+     "q": "When ______ you ______ your car?",
+     "hint": "buy",
+     "a": "did, buy",
+     "full": "When did you buy your car?"
+    },
+    {
+     "q": "I ______ my homework yet.",
+     "hint": "finish, negación",
+     "a": "haven't finished",
+     "full": "I haven't finished my homework yet."
+    },
+    {
+     "q": "They ______ two hours ago.",
+     "hint": "leave",
+     "a": "left",
+     "full": "They left two hours ago."
+    },
+    {
+     "q": "I ______ never ______ a horse.",
+     "hint": "ride",
+     "a": "have, ridden",
+     "full": "I have never ridden a horse."
+    },
+    {
+     "q": "He ______ in Berlin from 2010 to 2014.",
+     "hint": "live",
+     "a": "lived",
+     "full": "He lived in Berlin from 2010 to 2014."
+    },
+    {
+     "q": "Look! I ______ my finger.",
+     "hint": "cut, acaba de pasar",
+     "a": "have cut",
+     "full": "Look! I have cut my finger."
+    },
+    {
+     "q": "What time ______ the film start?",
+     "hint": "past simple",
+     "a": "did",
+     "full": "What time did the film start?"
+    },
+    {
+     "q": "I ______ three cups of coffee today.",
+     "hint": "drink, el día no ha terminado",
+     "a": "have drunk",
+     "full": "I have drunk three cups of coffee today."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Lo vi ayer.",
+     "a": "I saw him yesterday."
+    },
+    {
+     "q": "¿Cuándo llegaste?",
+     "a": "When did you arrive?"
+    },
+    {
+     "q": "Nunca he subido a un avión.",
+     "a": "I have never been on a plane."
+    },
+    {
+     "q": "Ella trabaja aquí desde mayo.",
+     "a": "She has worked here since May."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
