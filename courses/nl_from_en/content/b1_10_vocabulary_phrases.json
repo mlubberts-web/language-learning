@@ -1,0 +1,68 @@
+{
+ "meta": {"level": "B1", "section": "Vocabulary", "number": 10, "total_in_level": 10,
+  "title": "Vocabulary and phrases",
+  "subtitle": "Giving your opinion, everyday expressions, false friends, and Staatsexamen B1 topics",
+  "footer": "Language Learning · B1 · Vocabulary and phrases",
+  "next": "Next: B2 · pdf 1"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "How to use these lists", "bullets": [
+   "Learn the expressions as whole phrases, not word by word.",
+   "Cover one column and test yourself in both directions.",
+   "These words come up often in the Staatsexamen NT2, Programma I (B1)."]},
+  {"type": "h1", "text": "1. Giving your opinion"},
+  {"type": "verbpairs", "title": "Opinions and reactions", "items": [
+   ["Ik vind dat ...", "I think that ..."], ["Volgens mij ...", "In my opinion ..."], ["Ik ben het met je eens.", "I agree with you."],
+   ["Ik ben het niet met je eens.", "I don't agree with you."], ["Dat klopt.", "That's right."], ["Dat klopt niet.", "That's not right."],
+   ["Daar heb je gelijk in.", "You're right about that."], ["Ik twijfel.", "I'm not sure."], ["Het hangt ervan af.", "It depends."],
+   ["Wat vind jij ervan?", "What do you think of it?"]]},
+  {"type": "callout", "kind": "note", "title": "vinden, denken, geloven", "text": "For an opinion Dutch uses <b>vinden</b>: <i>Ik vind het een goed plan</i> (I think it's a good plan), <i>Hoe vind je mijn jas?</i> (What do you think of my coat?). <b>denken</b> is for what you expect or suppose: <i>Ik denk dat het gaat regenen.</i> <b>geloven</b> = believe."},
+  {"type": "h1", "text": "2. Very Dutch expressions"},
+  {"type": "verbpairs", "title": "Everyday expressions", "items": [
+   ["gezellig", "cosy, sociable, fun"], ["Lekker!", "Nice! Great!"], ["Wat jammer.", "What a pity."], ["Prima.", "Fine."],
+   ["Het maakt niet uit.", "It doesn't matter."], ["Geen idee.", "No idea."], ["Dat valt mee.", "It's not as bad as expected."],
+   ["Dat valt tegen.", "It's disappointing."], ["Doe maar gewoon.", "Just act normal."], ["Even kijken.", "Let me see."],
+   ["Succes!", "Good luck!"], ["Sterkte!", "Hang in there! (in difficult times)"]]},
+  {"type": "callout", "kind": "tip", "title": "gezellig", "text": "<b>gezellig</b> has no English translation. It is the warm, relaxed feeling of being together: a café, a birthday, a chat with friends. <i>Het was heel gezellig!</i> is the best compliment after a party."},
+  {"type": "h1", "text": "3. False friends"},
+  {"type": "table", "style": "plain", "widths": [3.6, 5.6, 7.8], "head": ["Dutch", "Means", "Not"], "rows": [
+   ["eventueel", "possibly, if necessary", "eventually = uiteindelijk"],
+   ["actueel", "current, topical", "actual = werkelijk"],
+   ["brutaal", "cheeky, rude", "brutal = wreed"],
+   ["slim", "clever", "slim = slank"],
+   ["bellen", "to call, to phone", "bell = de bel"],
+   ["raar", "strange, weird", "rare = zeldzaam"],
+   ["hard", "loud, fast (also hard)", "Praat niet zo hard. = Don't talk so loud."],
+   ["durven", "to dare", "not to last"],
+   ["kind", "child", "kind = aardig"],
+   ["arm", "poor (and arm)", "Ze zijn erg arm. = They're very poor."]]},
+  {"type": "h1", "text": "4. Work, education and society"},
+  {"type": "verbpairs", "title": "Staatsexamen B1 topics", "items": [
+   ["de opleiding", "education, training"], ["het diploma", "diploma, certificate"], ["de cursus", "course"],
+   ["de werkgever", "employer"], ["de werknemer", "employee"], ["de uitkering", "benefit (money)"],
+   ["het milieu", "environment"], ["de gezondheid", "health"], ["de buurt", "neighbourhood"],
+   ["de vrijwilliger", "volunteer"], ["het nieuws", "news"], ["de maatschappij", "society"]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Ik ______ het een goed idee.", "hint": "think (opinion)", "a": "vind", "full": "Ik vind het een goed idee."},
+   {"q": "Ik ben het niet met je ______.", "hint": "agree", "a": "eens", "full": "Ik ben het niet met je eens."},
+   {"q": "______ mij is dat niet waar.", "hint": "in my opinion", "a": "volgens", "full": "Volgens mij is dat niet waar."},
+   {"q": "Het feest was heel ______.", "hint": "cosy, fun", "a": "gezellig", "full": "Het feest was heel gezellig."},
+   {"q": "Het examen was niet zo moeilijk. Het viel ______.", "hint": "not as bad as expected", "a": "mee", "full": "Het examen was niet zo moeilijk. Het viel mee."},
+   {"q": "Wat ______ dat je niet kunt komen.", "hint": "pity", "a": "jammer", "full": "Wat jammer dat je niet kunt komen."},
+   {"q": "Koffie of thee? Het maakt niet ______.", "hint": "it doesn't matter", "a": "uit", "full": "Koffie of thee? Het maakt niet uit."},
+   {"q": "Hij is heel ______: hij heeft altijd goede cijfers.", "hint": "clever", "a": "slim", "full": "Hij is heel slim: hij heeft altijd goede cijfers."},
+   {"q": "Ik bel je ______ morgen nog even.", "hint": "possibly", "a": "eventueel", "full": "Ik bel je eventueel morgen nog even."},
+   {"q": "Praat niet zo ______, de baby slaapt.", "hint": "loud", "a": "hard", "full": "Praat niet zo hard, de baby slaapt."},
+   {"q": "Morgen heb je je examen? ______!", "hint": "good luck", "a": "succes", "full": "Morgen heb je je examen? Succes!"},
+   {"q": "Dat ______. Het is precies tien euro.", "hint": "that's right", "a": "klopt", "full": "Dat klopt. Het is precies tien euro."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "I don't agree with you.", "a": "Ik ben het niet met je eens."},
+   {"q": "It doesn't matter.", "a": "Het maakt niet uit."},
+   {"q": "What do you think of it?", "a": "Wat vind jij ervan?"},
+   {"q": "It depends.", "a": "Het hangt ervan af."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
