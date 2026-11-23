@@ -1,0 +1,73 @@
+{
+ "meta": {"level": "C2", "section": "Grammar", "number": 3, "total_in_level": 10,
+  "title": "Complex sentences",
+  "subtitle": "Stacked clauses, hoe ... ook and wat ... ook, al and ook al, nu, naarmate, zonder dat, and keeping long sentences clear",
+  "footer": "Language Learning · C2 · Grammar · Complex sentences",
+  "next": "Next: C2 · pdf 4 — Verb patterns in depth"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "stack subordinate clauses without losing the thread",
+   "use <b>hoe ... ook, wat ... ook, waar ... ook</b> (however, whatever, wherever)",
+   "use concessive <b>al</b> and <b>ook al</b>, with their special word order",
+   "use <b>nu, naarmate, zonder dat, in plaats van dat</b>"]},
+  {"type": "h1", "text": "1. Stacked clauses"},
+  {"type": "p", "text": "Each subordinate clause sends its own verbs to its own end: <i>Ik denk <b>dat</b> hij zei <b>dat</b> hij morgen <b>zou komen</b>.</i> Read and write one clause at a time. With more than two levels, consider splitting the sentence: Dutch readers dislike very long chains."},
+  {"type": "h1", "text": "2. hoe ... ook, wat ... ook"},
+  {"type": "p", "text": "For <i>however, whatever, wherever, whoever</i>, Dutch uses the question word + <b>ook</b> in a subordinate clause (verb at the end). The main clause after it keeps its <b>normal order</b>, without inversion."},
+  {"type": "table", "style": "plain", "widths": [7.6, 5.4, 4.0], "head": ["Dutch", "English", "Note"], "rows": [
+   ["Hoe hard ik ook werk, het is nooit genoeg.", "However hard I work, it's never enough.", "no inversion after"],
+   ["Wat je ook doet, vertel het haar niet.", "Whatever you do, don't tell her.", ""],
+   ["Waar je ook gaat, je vindt toeristen.", "Wherever you go, you'll find tourists.", ""],
+   ["Wie er ook wint, het wordt spannend.", "Whoever wins, it'll be exciting.", "wie er ook"],
+   ["Hoe dan ook, we gaan door.", "Anyway, we're going on.", "fixed: hoe dan ook"]]},
+  {"type": "h1", "text": "3. al and ook al: even though"},
+  {"type": "p", "text": "Concessive <b>al</b> (even though, even if) has a special word order: the verb comes <b>right after al</b>, and the main clause keeps normal order: <i><b>Al regent</b> het, we gaan toch.</i> <b>ook al</b> works the same way and is more common in speech: <i><b>Ook al regent</b> het, we gaan toch.</i>"},
+  {"type": "table", "style": "plain", "widths": [7.4, 5.8, 3.8], "head": ["Dutch", "English", "Word order"], "rows": [
+   ["Al is hij rijk, hij is niet gelukkig.", "Even though he's rich, he isn't happy.", "al + verb"],
+   ["Ook al is hij rijk, hij is niet gelukkig.", "the same", "ook al + verb"],
+   ["Hij is niet gelukkig, ook al is hij rijk.", "He isn't happy, even though he's rich.", ""],
+   ["Hoewel hij rijk is, is hij niet gelukkig.", "Although he's rich, he isn't happy.", "hoewel: inversion after"]]},
+  {"type": "callout", "kind": "note", "title": "Two exceptions to verb second", "text": "After a <b>hoe ... ook</b>, <b>wat ... ook</b> or <b>al</b> clause, the main clause does <b>not</b> invert: <i>Wat je ook doet, <b>je</b> moet het goed doen.</i> After every other subordinate clause, it does: <i>Hoewel het regent, <b>gaan</b> we.</i>"},
+  {"type": "h1", "text": "4. More subordinating words"},
+  {"type": "verbpairs", "title": "Subordinating words at C2", "items": [
+   ["nu", "now that"], ["naarmate", "as (the more ...)"], ["zonder dat", "without (someone) ..."],
+   ["in plaats van dat", "instead of (someone) ..."], ["ofschoon", "although (formal)"], ["zolang", "as long as"],
+   ["voor zover", "as far as"], ["opdat", "so that (formal)"], ["indien", "if (formal)"], ["tenzij", "unless"]]},
+  {"type": "table", "style": "plain", "widths": [7.6, 6.0, 3.4], "head": ["Dutch", "English", "Word"], "rows": [
+   ["Nu je er toch bent, kun je helpen.", "Now that you're here, you can help.", "nu"],
+   ["Naarmate je ouder wordt, ga je anders denken.", "As you get older, you think differently.", "naarmate"],
+   ["Hij vertrok zonder dat iemand het merkte.", "He left without anyone noticing.", "zonder dat"],
+   ["Voor zover ik weet, komt hij niet.", "As far as I know, he isn't coming.", "voor zover"],
+   ["Indien u vragen hebt, kunt u bellen.", "Should you have any questions, please call.", "indien"]]},
+  {"type": "h1", "text": "5. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Wat je ook doet, moet je het goed doen.", "Wat je ook doet, je moet het goed doen.", "After wat ... ook: no inversion."],
+   ["Al het regent, we gaan toch.", "Al regent het, we gaan toch.", "After al: the verb comes first."],
+   ["Hoe hard ik werk ook, het is niet genoeg.", "Hoe hard ik ook werk, het is niet genoeg.", "ook before the verb."],
+   ["Nu dat je er bent, kun je helpen.", "Nu je er bent, kun je helpen.", "Now that: nu, without dat."],
+   ["Hij vertrok zonder iemand het merkte.", "Hij vertrok zonder dat iemand het merkte.", "With a new subject: zonder dat."],
+   ["Hoe dan ook we gaan door.", "Hoe dan ook, we gaan door.", "Comma after hoe dan ook.", "advice"],
+   ["Voor zover ik weet hij komt niet.", "Voor zover ik weet, komt hij niet.", "After voor zover: inversion."]]},
+  {"type": "h1", "text": "6. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Hoe hard ik ______ werk, het is nooit genoeg.", "hint": "however", "a": "ook", "full": "Hoe hard ik ook werk, het is nooit genoeg."},
+   {"q": "______ je ook doet, vertel het niet aan je moeder.", "hint": "whatever", "a": "wat", "full": "Wat je ook doet, vertel het niet aan je moeder."},
+   {"q": "______ regent het, we gaan toch wandelen.", "hint": "even though", "a": "al", "full": "Al regent het, we gaan toch wandelen."},
+   {"q": "Hoe dan ______, we moeten een besluit nemen.", "hint": "anyway", "a": "ook", "full": "Hoe dan ook, we moeten een besluit nemen."},
+   {"q": "______ je er toch bent, kun je me helpen.", "hint": "now that", "a": "nu", "full": "Nu je er toch bent, kun je me helpen."},
+   {"q": "______ je ouder wordt, word je wijzer.", "hint": "as (the more)", "a": "naarmate", "full": "Naarmate je ouder wordt, word je wijzer."},
+   {"q": "Hij vertrok zonder ______ iemand het merkte.", "hint": "without anyone", "a": "dat", "full": "Hij vertrok zonder dat iemand het merkte."},
+   {"q": "Voor ______ ik weet, is de winkel open.", "hint": "as far as", "a": "zover", "full": "Voor zover ik weet, is de winkel open."},
+   {"q": "______ u vragen hebt, kunt u ons bellen.", "hint": "if, formal", "a": "indien", "full": "Indien u vragen hebt, kunt u ons bellen."},
+   {"q": "Wie er ook ______, het wordt een spannende wedstrijd.", "hint": "winnen", "a": "wint", "full": "Wie er ook wint, het wordt een spannende wedstrijd."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "Whatever you do, don't tell her.", "a": "Wat je ook doet, vertel het haar niet."},
+   {"q": "Even though it's raining, we're going.", "a": "Al regent het, we gaan toch."},
+   {"q": "Now that you're here, you can help.", "a": "Nu je er bent, kun je helpen."},
+   {"q": "As far as I know, he isn't coming.", "a": "Voor zover ik weet, komt hij niet."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

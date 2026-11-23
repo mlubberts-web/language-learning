@@ -559,5 +559,16 @@
   "subtitle": "The order of pronouns (Ik heb het hem gegeven), red and green clusters, and clauses after the verbs",
   "content": "c2_02_advanced_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_03_Complex_sentences",
+  "file": "C2_03_Complex_sentences.pdf",
+  "level": "C2",
+  "number": 3,
+  "section": "Grammar",
+  "title": "Complex sentences",
+  "subtitle": "Stacked clauses, hoe ... ook and wat ... ook, al and ook al, nu, naarmate, zonder dat, and keeping long sentences clear",
+  "content": "c2_03_complex_sentences.json",
+  "exercise_count": 10
  }
 ]
