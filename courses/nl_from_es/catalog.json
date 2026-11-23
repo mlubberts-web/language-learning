@@ -449,5 +449,16 @@
   "subtitle": "El centro de la frase: pronombres, tiempo, modo y lugar; anteponer para dar énfasis; y complementos tras los verbos",
   "content": "c1_02_complex_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_03_Conectores_avanzados_y_estructura_del_texto",
+  "file": "C1_03_Conectores_avanzados_y_estructura_del_texto.pdf",
+  "level": "C1",
+  "number": 3,
+  "section": "Escritura",
+  "title": "Conectores avanzados y estructura del texto",
+  "subtitle": "desondanks, enerzijds ... anderzijds, mits, aangezien; la atenuación; y cómo guiar al lector por un texto",
+  "content": "c1_03_linking_text_structure.json",
+  "exercise_count": 12
  }
 ]

@@ -1,0 +1,403 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Conectores avanzados y estructura del texto",
+  "subtitle": "desondanks, enerzijds ... anderzijds, mits, aangezien; la atenuación; y cómo guiar al lector por un texto",
+  "footer": "Language Learning · C1 · Escritura · Conectores y estructura del texto",
+  "next": "Siguiente: C1 · pdf 4 — El estilo nominal y el neerlandés académico"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "construir una argumentación con conectores formales y su orden",
+    "usar parejas como <b>enerzijds ... anderzijds, zowel ... als, noch ... noch</b>",
+    "expresar condiciones y concesiones de forma culta (<b>mits, tenzij, aangezien</b>)",
+    "escribir con prudencia (<i>atenuación</i>) y guiar al lector"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Conectores formales"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    3.4,
+    6.2,
+    3.4
+   ],
+   "head": [
+    "Palabra",
+    "Grupo",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "desondanks / niettemin",
+     "adverbio (inversión)",
+     "Het plan is duur. Desondanks gaan we door.",
+     "no obstante, aun así"
+    ],
+    [
+     "derhalve / dientengevolge",
+     "adverbio (inversión)",
+     "De cijfers zijn slecht; derhalve stoppen we.",
+     "por consiguiente, por tanto"
+    ],
+    [
+     "aangezien",
+     "subordinante",
+     "Aangezien het laat is, gaan we.",
+     "puesto que, ya que"
+    ],
+    [
+     "mits",
+     "subordinante",
+     "Je mag gaan, mits je op tijd terug bent.",
+     "siempre que, con tal de que"
+    ],
+    [
+     "tenzij",
+     "subordinante",
+     "We gaan, tenzij het regent.",
+     "a menos que"
+    ],
+    [
+     "doordat",
+     "subordinante",
+     "Doordat het stormde, viel de stroom uit.",
+     "debido a que (causa)"
+    ],
+    [
+     "zodoende",
+     "adverbio (inversión)",
+     "Zodoende kwam hij te laat.",
+     "así, de ese modo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El orden sigue decidiendo",
+   "text": "Como en B1 (pdf 9): tras un adverbio como <b>desondanks, derhalve, zodoende</b> hay inversión (<i>Desondanks <b>gaan</b> we door</i>); tras una palabra subordinante como <b>aangezien, mits, tenzij</b> el verbo va al final (<i>mits je op tijd terug <b>bent</b></i>). Ojo: tras <i>siempre que</i> y <i>a menos que</i> el español pide subjuntivo; el neerlandés usa el presente normal. Los textos formales están llenos de estas palabras; revisa cada frase."
+  },
+  {
+   "type": "h1",
+   "text": "2. Conectores en pareja"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    7.4,
+    4.6
+   ],
+   "head": [
+    "Pareja",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "enerzijds ... anderzijds",
+     "Enerzijds is het goedkoop, anderzijds is het lelijk.",
+     "por un lado ... por otro"
+    ],
+    [
+     "zowel ... als",
+     "Zowel studenten als docenten waren tevreden.",
+     "tanto ... como"
+    ],
+    [
+     "noch ... noch",
+     "Hij sprak noch Engels noch Frans.",
+     "ni ... ni"
+    ],
+    [
+     "niet alleen ... maar ook",
+     "Het is niet alleen duur, maar ook slecht.",
+     "no solo ... sino también"
+    ],
+    [
+     "hetzij ... hetzij / ofwel ... ofwel",
+     "U kunt betalen hetzij contant, hetzij per pin.",
+     "o bien ... o bien"
+    ],
+    [
+     "hoe ... hoe / des te",
+     "Hoe meer je oefent, des te beter.",
+     "cuanto más ..., mejor"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. La atenuación: escribir con prudencia"
+  },
+  {
+   "type": "p",
+   "text": "En el neerlandés académico y profesional, como en español, las afirmaciones se suavizan. El neerlandés tiene su propio repertorio de palabras para ello."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Atenuación",
+   "items": [
+    [
+     "het lijkt erop dat",
+     "parece que"
+    ],
+    [
+     "blijkbaar",
+     "por lo visto, al parecer"
+    ],
+    [
+     "vermoedelijk",
+     "presumiblemente"
+    ],
+    [
+     "wellicht",
+     "quizá, posiblemente"
+    ],
+    [
+     "in zekere zin",
+     "en cierto sentido, hasta cierto punto"
+    ],
+    [
+     "enigszins",
+     "algo, un tanto"
+    ],
+    [
+     "in de meeste gevallen",
+     "en la mayoría de los casos"
+    ],
+    [
+     "men zou kunnen stellen dat",
+     "se podría argumentar que"
+    ],
+    [
+     "het is aannemelijk dat",
+     "es verosímil que"
+    ],
+    [
+     "relatief",
+     "relativamente"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Franqueza neerlandesa y prudencia académica",
+   "text": "El neerlandés hablado es directo, pero el neerlandés académico escrito es igual de prudente que el español: <i>Dit <b>suggereert</b> dat ...</i> (esto sugiere que) mejor que <i>Dit bewijst dat ...</i> (esto demuestra que). Usa <b>lijken</b> y <b>blijken</b>: <i>Het <b>lijkt</b> te werken</i> (parece funcionar), <i>Het <b>blijkt</b> te werken</i> (resulta que funciona)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Guiar al lector"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    13.4
+   ],
+   "head": [
+    "Función",
+    "Expresiones"
+   ],
+   "rows": [
+    [
+     "Presentar",
+     "<i>In deze tekst bespreek ik ... Het doel van dit verslag is ...</i>"
+    ],
+    [
+     "Ordenar",
+     "<i>Allereerst ... Vervolgens ... Daarnaast ... Ten slotte ...</i>"
+    ],
+    [
+     "Explicar",
+     "<i>Met andere woorden ... Dat wil zeggen ... Oftewel ...</i>"
+    ],
+    [
+     "Ejemplificar",
+     "<i>Zo ... Ter illustratie ... Een voorbeeld hiervan is ...</i>"
+    ],
+    [
+     "Concluir",
+     "<i>Kortom ... Samenvattend ... Al met al ...</i>"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Desondanks we gaan door.",
+     "Desondanks gaan we door.",
+     "Tras desondanks: inversión."
+    ],
+    [
+     "mits je bent op tijd terug",
+     "mits je op tijd terug bent",
+     "Tras mits: verbo al final."
+    ],
+    [
+     "Zowel studenten en docenten waren tevreden.",
+     "Zowel studenten als docenten waren tevreden.",
+     "zowel ... als."
+    ],
+    [
+     "Hij sprak niet noch Engels noch Frans.",
+     "Hij sprak noch Engels noch Frans.",
+     "noch ... noch ya niega: sin niet (en español: no ... ni ... ni)."
+    ],
+    [
+     "Hoe meer je oefent, hoe beter je wordt het.",
+     "Hoe meer je oefent, hoe beter je wordt.",
+     "hoe ... hoe: el verbo al final de las dos partes."
+    ],
+    [
+     "Aangezien het is laat, gaan we.",
+     "Aangezien het laat is, gaan we.",
+     "Tras aangezien: verbo al final."
+    ],
+    [
+     "Het blijkt dat werkt.",
+     "Het blijkt te werken.",
+     "blijken te + infinitivo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el conector correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Het plan is riskant. ______ gaan we door.",
+     "hint": "no obstante",
+     "a": "desondanks",
+     "full": "Het plan is riskant. Desondanks gaan we door."
+    },
+    {
+     "q": "Je mag de auto lenen, ______ je voorzichtig rijdt.",
+     "hint": "siempre que",
+     "a": "mits",
+     "full": "Je mag de auto lenen, mits je voorzichtig rijdt."
+    },
+    {
+     "q": "______ het al laat is, stoppen we.",
+     "hint": "puesto que",
+     "a": "aangezien",
+     "full": "Aangezien het al laat is, stoppen we."
+    },
+    {
+     "q": "______ is het goedkoop, anderzijds is de kwaliteit slecht.",
+     "hint": "por un lado",
+     "a": "enerzijds",
+     "full": "Enerzijds is het goedkoop, anderzijds is de kwaliteit slecht."
+    },
+    {
+     "q": "Zowel de leraren ______ de ouders waren tevreden.",
+     "hint": "tanto ... como",
+     "a": "als",
+     "full": "Zowel de leraren als de ouders waren tevreden."
+    },
+    {
+     "q": "Hij had ______ tijd noch geld.",
+     "hint": "ni",
+     "a": "noch",
+     "full": "Hij had noch tijd noch geld."
+    },
+    {
+     "q": "Het ______ erop dat de prijzen stijgen.",
+     "hint": "parece",
+     "a": "lijkt",
+     "full": "Het lijkt erop dat de prijzen stijgen."
+    },
+    {
+     "q": "De methode ______ goed te werken.",
+     "hint": "resulta",
+     "a": "blijkt",
+     "full": "De methode blijkt goed te werken."
+    },
+    {
+     "q": "______ de storm viel de stroom uit.",
+     "hint": "debido a, causa",
+     "a": "door",
+     "full": "Door de storm viel de stroom uit."
+    },
+    {
+     "q": "Met andere ______: het project is mislukt.",
+     "hint": "en otras palabras",
+     "a": "woorden",
+     "full": "Met andere woorden: het project is mislukt."
+    },
+    {
+     "q": "______, het was een geslaagd jaar.",
+     "hint": "en resumen",
+     "a": "kortom",
+     "full": "Kortom, het was een geslaagd jaar."
+    },
+    {
+     "q": "Hoe meer je leest, des ______ groter je woordenschat.",
+     "hint": "cuanto más ... más",
+     "a": "te",
+     "full": "Hoe meer je leest, des te groter je woordenschat."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "No obstante, seguiremos adelante.",
+     "a": "Desondanks gaan we door."
+    },
+    {
+     "q": "Puedes ir, siempre que vuelvas a tiempo.",
+     "a": "Je mag gaan, mits je op tijd terug bent."
+    },
+    {
+     "q": "Tanto los estudiantes como los profesores estaban satisfechos.",
+     "a": "Zowel studenten als docenten waren tevreden."
+    },
+    {
+     "q": "Parece que los precios están subiendo.",
+     "a": "Het lijkt erop dat de prijzen stijgen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
