@@ -1,0 +1,70 @@
+{
+ "meta": {"level": "C1", "section": "Grammar", "number": 6, "total_in_level": 10,
+  "title": "Fixed formal forms",
+  "subtitle": "The subjunctive (Leve de koning, Het zij zo), old case forms (ten slotte, ter plaatse) and wiens, wier, diens",
+  "footer": "Language Learning · C1 · Grammar · Fixed formal forms",
+  "next": "Next: C1 · pdf 7 — Collocations and fixed expressions"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "recognise and use the old subjunctive in fixed phrases (<i>Leve de koning!</i>)",
+   "use the old case forms in <b>ten, ter</b> and <b>des</b>",
+   "use <b>wiens, wier</b> and <b>diens</b> in formal writing",
+   "understand these forms in official texts and literature"]},
+  {"type": "h1", "text": "1. The subjunctive"},
+  {"type": "p", "text": "Modern Dutch no longer has a living subjunctive, but it survives in fixed phrases, wishes and instructions. The form is the stem + <b>-e</b>: <i>leve, zij, moge, kome, neme</i>. English has similar fixed forms: <i>Long live the King, So be it, God save the Queen</i>."},
+  {"type": "table", "style": "plain", "widths": [6.2, 5.8, 5.0], "head": ["Dutch", "English", "Use"], "rows": [
+   ["Leve de koning!", "Long live the King!", "celebration"],
+   ["Lang leve de liefde!", "Long live love!", "celebration"],
+   ["Het zij zo.", "So be it.", "acceptance"],
+   ["God zegene u.", "God bless you.", "religious"],
+   ["Moge het je goed gaan.", "May all go well with you.", "wish, very formal"],
+   ["Men neme 200 gram bloem.", "Take 200 grams of flour.", "old recipes"],
+   ["Zij het ...", "albeit ...", "concession: Hij won, zij het nipt."]]},
+  {"type": "callout", "kind": "tip", "title": "zij het = albeit", "text": "<b>zij het</b> is the most useful of these forms in modern writing: <i>De resultaten zijn positief, <b>zij het</b> minder goed dan verwacht.</i> (The results are positive, albeit less good than expected.)"},
+  {"type": "h1", "text": "2. Old case forms"},
+  {"type": "p", "text": "Old Dutch had cases like German. They live on in fixed phrases with <b>ten</b> (= te + den), <b>ter</b> (= te + der) and <b>des</b>. Use them as whole expressions; don't make new ones."},
+  {"type": "verbpairs", "title": "Fixed phrases with old cases", "items": [
+   ["ten slotte", "finally"], ["ten eerste", "firstly"], ["ten minste", "at least"], ["ten behoeve van", "for the benefit of"],
+   ["ter plaatse", "on the spot"], ["ter wille van", "for the sake of"], ["ter informatie", "for your information"], ["ter gelegenheid van", "on the occasion of"],
+   ["des te beter", "all the better"], ["'s morgens", "in the morning"], ["te allen tijde", "at all times"], ["ten tijde van", "at the time of"]]},
+  {"type": "callout", "kind": "note", "title": "ten slotte or tenslotte?", "text": "<b>ten slotte</b> (two words) means <i>finally, lastly</i>: <i>Ten slotte wil ik iedereen bedanken.</i> <b>tenslotte</b> (one word) means <i>after all</i>: <i>Hij is tenslotte mijn broer.</i> The same pair: <b>ten minste</b> (at least, a number) and <b>tenminste</b> (at least, a correction)."},
+  {"type": "h1", "text": "3. wiens, wier, diens"},
+  {"type": "p", "text": "In formal writing, <b>wiens</b> (of whom, male) and <b>wier</b> (of whom, female or plural) replace <i>van wie</i> in relative clauses: <i>de man <b>wiens</b> auto gestolen is</i>, <i>de vrouw <b>wier</b> zoon arts is</i>. <b>diens</b> means <i>his</i> referring to the last-mentioned man, to avoid confusion: <i>Jan sprak met Piet en <b>diens</b> vrouw</i> (Piet's wife, not Jan's)."},
+  {"type": "table", "style": "plain", "widths": [6.4, 6.0, 4.6], "head": ["Formal", "Everyday", "English"], "rows": [
+   ["de man wiens auto gestolen is", "de man van wie de auto gestolen is", "the man whose car"],
+   ["de vrouw wier zoon arts is", "de vrouw van wie de zoon arts is", "the woman whose son"],
+   ["de buren wier hond blaft", "de buren van wie de hond blaft", "the neighbours whose dog"],
+   ["Jan en diens vrouw", "Jan en zijn vrouw", "Jan and his wife"]]},
+  {"type": "h1", "text": "4. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Lang leeft de koning!", "Lang leve de koning!", "Fixed subjunctive: leve."],
+   ["Het is zo zijn.", "Het zij zo.", "Fixed phrase: het zij zo."],
+   ["Tenslotte wil ik iedereen bedanken.", "Ten slotte wil ik iedereen bedanken.", "Finally: ten slotte, two words."],
+   ["de vrouw wiens zoon arts is", "de vrouw wier zoon arts is", "Female: wier."],
+   ["de man die zijn auto gestolen is", "de man wiens auto gestolen is", "Whose: wiens or van wie."],
+   ["ter plaats", "ter plaatse", "Fixed: ter plaatse."]
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Lang ______ de koningin!", "hint": "long live", "a": "leve", "full": "Lang leve de koningin!"},
+   {"q": "Het ______ zo. We kunnen er niets aan doen.", "hint": "so be it", "a": "zij", "full": "Het zij zo. We kunnen er niets aan doen."},
+   {"q": "Het project was een succes, ______ het met enige vertraging.", "hint": "albeit", "a": "zij", "full": "Het project was een succes, zij het met enige vertraging."},
+   {"q": "Ten ______ wil ik iedereen bedanken.", "hint": "finally", "a": "slotte", "full": "Ten slotte wil ik iedereen bedanken."},
+   {"q": "Hij is ______ mijn broer, dus ik help hem.", "hint": "after all", "a": "tenslotte", "full": "Hij is tenslotte mijn broer, dus ik help hem."},
+   {"q": "De politie was snel ter ______.", "hint": "on the spot", "a": "plaatse", "full": "De politie was snel ter plaatse."},
+   {"q": "Kom je ook? Des te ______!", "hint": "all the better", "a": "beter", "full": "Kom je ook? Des te beter!"},
+   {"q": "Dat is de man ______ hond altijd blaft.", "hint": "whose, male", "a": "wiens", "full": "Dat is de man wiens hond altijd blaft."},
+   {"q": "De schrijfster, ______ boek een prijs won, gaf een lezing.", "hint": "whose, female", "a": "wier", "full": "De schrijfster, wier boek een prijs won, gaf een lezing."},
+   {"q": "U moet uw paspoort te allen ______ bij u hebben.", "hint": "at all times", "a": "tijde", "full": "U moet uw paspoort te allen tijde bij u hebben."},
+   {"q": "Ter ______ stuur ik u het verslag.", "hint": "for your information", "a": "informatie", "full": "Ter informatie stuur ik u het verslag."},
+   {"q": "Ze deed het ter ______ van haar kinderen.", "hint": "for the sake of", "a": "wille", "full": "Ze deed het ter wille van haar kinderen."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "Long live the King!", "a": "Leve de koning!"},
+   {"q": "So be it.", "a": "Het zij zo."},
+   {"q": "Finally, I'd like to thank everyone.", "a": "Ten slotte wil ik iedereen bedanken."},
+   {"q": "He is my brother, after all.", "a": "Hij is tenslotte mijn broer."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

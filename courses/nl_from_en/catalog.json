@@ -482,5 +482,16 @@
   "subtitle": "lopend and de huilende baby, al lachend, de gestolen fiets, and when to use a clause instead of -ing",
   "content": "c1_05_participles.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_06_Fixed_formal_forms",
+  "file": "C1_06_Fixed_formal_forms.pdf",
+  "level": "C1",
+  "number": 6,
+  "section": "Grammar",
+  "title": "Fixed formal forms",
+  "subtitle": "The subjunctive (Leve de koning, Het zij zo), old case forms (ten slotte, ter plaatse) and wiens, wier, diens",
+  "content": "c1_06_fixed_formal_forms.json",
+  "exercise_count": 12
  }
 ]
