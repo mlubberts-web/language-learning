@@ -1,0 +1,87 @@
+{"meta": {"level": "A2", "section": "Grammatica", "number": 9, "total_in_level": 10,
+ "title": "Vergelijken en voorzetsels",
+ "subtitle": "-er en more, the -est en the most, as ... as, en voorzetsels van beweging",
+ "footer": "Language Learning · A2 · Grammatica · Vergelijken en voorzetsels",
+ "next": "Volgende: A2 · pdf 10 — Woordenschat en vaste uitdrukkingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de vergrotende trap maken met <b>-er</b> of <b>more</b>",
+  "de overtreffende trap maken met <b>the -est</b> of <b>the most</b>",
+  "zeggen dat twee dingen gelijk zijn met <b>as ... as</b>",
+  "beweging beschrijven met into, out of, across, through en andere voorzetsels"]},
+
+ {"type": "h1", "text": "1. De vergrotende en overtreffende trap"},
+ {"type": "table", "style": "plain", "widths": [5.4, 3.8, 3.8, 4.0], "head": ["Soort bijvoeglijk naamwoord", "Basis", "Vergrotend", "Overtreffend"], "rows": [
+  ["één lettergreep", "cheap", "cheaper", "the cheapest"],
+  ["eindigt op -e", "nice", "nicer", "the nicest"],
+  ["korte klinker + medeklinker", "big", "bigger", "the biggest"],
+  ["twee lettergrepen op -y", "easy", "easier", "the easiest"],
+  ["twee of meer lettergrepen", "expensive", "more expensive", "the most expensive"],
+  ["onregelmatig", "good", "better", "the best"],
+  ["onregelmatig", "bad", "worse", "the worst"],
+  ["onregelmatig", "far", "further", "the furthest"]]},
+ {"type": "p", "text": "<i>London is <b>bigger than</b> Amsterdam.</i> — Londen is groter dan Amsterdam.<br/><i>This is <b>the most beautiful</b> beach in Spain.</i> — Dit is het mooiste strand van Spanje.<br/><i>He's <b>the best</b> player <b>in</b> the team.</i> — Hij is de beste speler van het team."},
+ {"type": "callout", "kind": "dutch", "title": "than, niet then; in, niet of", "bullets": [
+  "<i>groter dan</i> = <b>bigger than</b>. <b>then</b> (dan, daarna) is een ander woord.",
+  "Na een overtreffende trap met een plaats of groep: <b>in</b>. <i>de hoogste berg van Europa</i> = <b>the highest mountain in Europe</b>.",
+  "Geen dubbele vorm: <i>more bigger</i> en <i>most cheapest</i> zijn fout."]},
+
+ {"type": "h1", "text": "2. Gelijk en niet gelijk"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["Tom is as tall as his father.", "Tom is net zo lang als zijn vader."],
+  ["This film isn't as good as the book.", "Deze film is niet zo goed als het boek."],
+  ["My car is the same as yours.", "Mijn auto is dezelfde als die van jou."],
+  ["She's different from her sister.", "Zij is anders dan haar zus."],
+  ["It's getting colder and colder.", "Het wordt steeds kouder."],
+  ["The sooner, the better.", "Hoe eerder, hoe beter."]]},
+
+ {"type": "h1", "text": "3. Voorzetsels van beweging"},
+ {"type": "table", "style": "plain", "widths": [3.6, 6.6, 6.8], "head": ["Voorzetsel", "Voorbeeld", "Nederlands"], "rows": [
+  ["into", "She went into the shop.", "Zij ging de winkel in."],
+  ["out of", "He came out of the house.", "Hij kwam het huis uit."],
+  ["up / down", "We walked up the hill and down again.", "We liepen de heuvel op en weer af."],
+  ["across", "Walk across the bridge.", "Loop de brug over."],
+  ["through", "The train goes through a tunnel.", "De trein gaat door een tunnel."],
+  ["along", "We walked along the river.", "We liepen langs de rivier."],
+  ["past", "Go past the church.", "Loop langs de kerk (voorbij de kerk)."],
+  ["towards", "He ran towards me.", "Hij rende naar me toe."],
+  ["over", "The plane flew over the city.", "Het vliegtuig vloog over de stad."],
+  ["round / around", "We walked round the lake.", "We liepen om het meer heen."]]},
+ {"type": "callout", "kind": "dutch", "title": "Het Nederlandse achterzetsel", "text": "Het Nederlands zet het voorzetsel vaak achteraan: <i>de winkel <b>in</b></i>, <i>de berg <b>op</b></i>, <i>de straat <b>over</b></i>. In het Engels staat het altijd vooraan: <b>into the shop</b>, <b>up the mountain</b>, <b>across the street</b>."},
+ {"type": "callout", "kind": "warn", "title": "go to, maar arrive in / at", "text": "Beweging naar een plaats: <b>go to</b> school, <b>come to</b> the party. Maar aankomen is <b>arrive in</b> (stad, land) of <b>arrive at</b> (gebouw, station): <i>We arrived in London at six. We arrived at the hotel.</i> Nooit <i>arrive to</i>. En <b>go home</b> zonder to."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["She is more tall than me.", "She is taller than me.", "Korte bijvoeglijke naamwoorden krijgen -er."],
+  ["This is more better.", "This is better.", "Geen dubbele vergrotende trap."],
+  ["It's bigger then my house.", "It's bigger than my house.", "Vergelijken: than."],
+  ["the highest mountain of Europe", "the highest mountain in Europe", "Een plaats na een overtreffende trap: in."],
+  ["He is as tall like his brother.", "He is as tall as his brother.", "as ... as."],
+  ["We arrived to Madrid at nine.", "We arrived in Madrid at nine.", "Arrive in een stad."],
+  ["I'm going to home.", "I'm going home.", "home zonder to."],
+  ["the most cheapest flight", "the cheapest flight", "Geen dubbele overtreffende trap."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul de juiste vorm of het juiste voorzetsel in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "A car is ______ than a bike.", "hint": "fast", "a": "faster", "full": "A car is faster than a bike."},
+  {"q": "This hotel is ______ than the other one.", "hint": "expensive", "a": "more expensive", "full": "This hotel is more expensive than the other one."},
+  {"q": "It was the ______ day of my life.", "hint": "good", "a": "best", "full": "It was the best day of my life."},
+  {"q": "Today is ______ than yesterday.", "hint": "hot", "a": "hotter", "full": "Today is hotter than yesterday."},
+  {"q": "My exam was ______ than I expected.", "hint": "bad", "a": "worse", "full": "My exam was worse than I expected."},
+  {"q": "He's the ______ student in the class.", "hint": "clever", "a": "cleverest", "full": "He's the cleverest student in the class."},
+  {"q": "My bag isn't ______ heavy as yours.", "hint": "net zo", "a": "as", "full": "My bag isn't as heavy as yours."},
+  {"q": "She ran ______ the shop to buy milk.", "hint": "de winkel in", "a": "into", "full": "She ran into the shop to buy milk."},
+  {"q": "Walk ______ the bridge and turn left.", "hint": "de brug over", "a": "across", "full": "Walk across the bridge and turn left."},
+  {"q": "We arrived ______ the station at ten.", "hint": "aankomen bij een gebouw", "a": "at", "full": "We arrived at the station at ten."},
+  {"q": "The train went ______ a long tunnel.", "hint": "door", "a": "through", "full": "The train went through a long tunnel."},
+  {"q": "It's the ______ beautiful city in Italy.", "hint": "overtreffende trap", "a": "most", "full": "It's the most beautiful city in Italy."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Londen is groter dan Amsterdam.", "a": "London is bigger than Amsterdam."},
+  {"q": "Hij is net zo lang als zijn vader.", "a": "He is as tall as his father."},
+  {"q": "Zij liep de winkel in.", "a": "She walked into the shop."},
+  {"q": "Het is de hoogste berg van Europa.", "a": "It is the highest mountain in Europe."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

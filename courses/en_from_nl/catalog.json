@@ -174,5 +174,27 @@
   "subtitle": "Opdrachten geven, en can, could, must, have to, should en may",
   "content": "a2_07_imperative_modals.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_08_Telbaar_en_ontelbaar",
+  "file": "A2_08_Telbaar_en_ontelbaar.pdf",
+  "level": "A2",
+  "number": 8,
+  "section": "Grammatica",
+  "title": "Telbaar en ontelbaar",
+  "subtitle": "some en any, much en many, a lot of, a few en a little, too en enough",
+  "content": "a2_08_countables_quantity.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A2_09_Vergelijken_en_voorzetsels",
+  "file": "A2_09_Vergelijken_en_voorzetsels.pdf",
+  "level": "A2",
+  "number": 9,
+  "section": "Grammatica",
+  "title": "Vergelijken en voorzetsels",
+  "subtitle": "-er en more, the -est en the most, as ... as, en voorzetsels van beweging",
+  "content": "a2_09_comparatives_prepositions.json",
+  "exercise_count": 12
  }
 ]

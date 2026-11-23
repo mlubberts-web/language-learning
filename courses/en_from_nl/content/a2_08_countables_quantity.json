@@ -1,0 +1,85 @@
+{"meta": {"level": "A2", "section": "Grammatica", "number": 8, "total_in_level": 10,
+ "title": "Telbaar en ontelbaar",
+ "subtitle": "some en any, much en many, a lot of, a few en a little, too en enough",
+ "footer": "Language Learning · A2 · Grammatica · Telbaar en ontelbaar",
+ "next": "Volgende: A2 · pdf 9 — Vergelijken en voorzetsels"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "telbare en ontelbare zelfstandige naamwoorden herkennen",
+  "<b>some</b> en <b>any</b> goed gebruiken",
+  "hoeveelheden aangeven met <b>much, many, a lot of, a few, a little</b>",
+  "<b>too</b> en <b>enough</b> gebruiken"]},
+
+ {"type": "h1", "text": "1. Telbaar of ontelbaar?"},
+ {"type": "p", "text": "<b>Telbare</b> woorden hebben een meervoud: <i>an apple, two apples</i>. <b>Ontelbare</b> woorden niet: <i>water, money, information</i>. Ze krijgen geen a of an en geen -s, en het werkwoord staat in het enkelvoud."},
+ {"type": "verbpairs", "title": "Ontelbaar in het Engels, telbaar in het Nederlands", "items": [
+  ["information", "informatie, inlichtingen"], ["advice", "advies, raad"], ["news", "nieuws"], ["furniture", "meubels"],
+  ["luggage", "bagage"], ["homework", "huiswerk"], ["research", "onderzoek"], ["equipment", "apparatuur"],
+  ["work", "werk"], ["travel", "reizen"], ["bread", "brood"], ["hair", "haar (op je hoofd)"]]},
+ {"type": "callout", "kind": "dutch", "title": "Een advies = a piece of advice", "text": "Voor één exemplaar van iets ontelbaars zeg je <b>a piece of</b>: <i>a piece of advice</i> (een advies), <i>a piece of furniture</i> (een meubel), <i>a piece of information</i>. Ook: <i>Your hair <b>is</b> long</i>; <i>The news <b>is</b> good</i>; <i>I need some information</i>, nooit <i>informations</i>."},
+ {"type": "verbpairs", "title": "Hoeveelheden van iets ontelbaars", "items": [
+  ["a cup of tea", "een kopje thee"], ["a glass of water", "een glas water"], ["a bottle of wine", "een fles wijn"],
+  ["a slice of bread", "een snee brood"], ["a piece of cake", "een stuk taart"], ["a bar of chocolate", "een reep chocola"],
+  ["a kilo of potatoes", "een kilo aardappels"], ["a loaf of bread", "een brood"]]},
+
+ {"type": "h1", "text": "2. some en any"},
+ {"type": "table", "style": "plain", "widths": [3.6, 6.6, 6.8], "head": ["", "Gebruik", "Voorbeeld"], "rows": [
+  ["some", "bevestigende zinnen", "There is some milk. I've got some friends here."],
+  ["some", "aanbieden en vragen om iets", "Would you like some tea? Can I have some water?"],
+  ["any", "ontkenningen", "There isn't any milk. I haven't got any money."],
+  ["any", "gewone vragen", "Are there any shops near here?"],
+  ["no", "= not any", "There's no milk. = There isn't any milk."]]},
+ {"type": "callout", "kind": "tip", "title": "something, anything, nothing", "text": "Dezelfde regel geldt voor <b>something / anything / nothing</b>, <b>somebody / anybody / nobody</b> en <b>somewhere / anywhere / nowhere</b>: <i>I didn't see anything. Is anybody there? There's nobody here.</i>"},
+
+ {"type": "h1", "text": "3. much, many, a lot of"},
+ {"type": "table", "style": "plain", "widths": [4.0, 4.0, 4.0, 5.0], "head": ["", "Telbaar", "Ontelbaar", "Voorbeeld"], "rows": [
+  ["veel (vraag, ontkenning)", "many", "much", "How many people? Not much time."],
+  ["veel (bevestigend)", "a lot of", "a lot of", "a lot of friends, a lot of money"],
+  ["een paar / een beetje", "a few", "a little", "a few days, a little sugar"],
+  ["weinig", "few", "little", "few people, little time"],
+  ["hoeveel?", "How many ...?", "How much ...?", "How many eggs? How much milk?"]]},
+ {"type": "callout", "kind": "dutch", "title": "How much is it? — Hoeveel kost het?", "text": "Bij prijzen gebruik je altijd <b>How much</b>, ook al tel je euro's: <i>How much is it? How much does it cost?</i>"},
+
+ {"type": "h1", "text": "4. too en enough"},
+ {"type": "table", "style": "plain", "widths": [5.0, 6.0, 6.0], "head": ["", "Voorbeeld", "Nederlands"], "rows": [
+  ["too + bijv. nw.", "It's too expensive.", "Het is te duur."],
+  ["too much / too many", "There's too much sugar. There are too many cars.", "Er zit te veel suiker in. Er zijn te veel auto's."],
+  ["bijv. nw. + enough", "He isn't old enough.", "Hij is niet oud genoeg."],
+  ["enough + zelfst. nw.", "We haven't got enough time.", "We hebben niet genoeg tijd."]]},
+ {"type": "callout", "kind": "warn", "title": "enough achter een bijvoeglijk naamwoord", "text": "<b>enough</b> staat <b>na</b> een bijvoeglijk naamwoord (<i>big enough</i>), maar <b>vóór</b> een zelfstandig naamwoord (<i>enough money</i>). Precies zoals het Nederlandse <i>groot genoeg</i> en <i>genoeg geld</i>."},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Can you give me an advice?", "Can you give me some advice?", "advice is ontelbaar."],
+  ["I need some informations.", "I need some information.", "information heeft geen meervoud."],
+  ["The news are bad.", "The news is bad.", "news is enkelvoud."],
+  ["There isn't some milk.", "There isn't any milk.", "Een ontkenning: any."],
+  ["How much people came?", "How many people came?", "Telbaar: many."],
+  ["I have much friends.", "I have a lot of friends.", "In een bevestigende zin: a lot of."],
+  ["It's enough big.", "It's big enough.", "enough na een bijvoeglijk naamwoord."],
+  ["My luggages are heavy.", "My luggage is heavy.", "luggage is ontelbaar."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "Would you like ______ coffee?", "hint": "some of any", "a": "some", "full": "Would you like some coffee?"},
+  {"q": "We haven't got ______ bread.", "hint": "some of any", "a": "any", "full": "We haven't got any bread."},
+  {"q": "How ______ sugar do you want?", "hint": "much of many", "a": "much", "full": "How much sugar do you want?"},
+  {"q": "How ______ brothers have you got?", "hint": "much of many", "a": "many", "full": "How many brothers have you got?"},
+  {"q": "I've got ______ questions.", "hint": "een paar", "a": "a few", "full": "I've got a few questions."},
+  {"q": "Can I have ______ milk in my tea?", "hint": "een beetje", "a": "a little", "full": "Can I have a little milk in my tea?"},
+  {"q": "This bag is ______ heavy. I can't carry it.", "hint": "te", "a": "too", "full": "This bag is too heavy. I can't carry it."},
+  {"q": "He isn't old ______ to drive.", "hint": "genoeg", "a": "enough", "full": "He isn't old enough to drive."},
+  {"q": "She gave me a good piece of ______.", "hint": "advies", "a": "advice", "full": "She gave me a good piece of advice."},
+  {"q": "Is there ______ in the fridge?", "hint": "iets (vraag)", "a": "anything", "full": "Is there anything in the fridge?"},
+  {"q": "The news ______ very good today.", "hint": "to be", "a": "is", "full": "The news is very good today."},
+  {"q": "There were ______ many people at the party.", "hint": "te", "a": "too", "full": "There were too many people at the party."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Kun je me wat advies geven?", "a": "Can you give me some advice?"},
+  {"q": "Hoeveel kost het?", "a": "How much is it?"},
+  {"q": "We hebben niet genoeg tijd.", "a": "We haven't got enough time."},
+  {"q": "Het is te duur.", "a": "It's too expensive."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
