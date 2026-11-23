@@ -53,5 +53,16 @@
   "subtitle": "El verbo en segundo lugar, la inversión, las palabras interrogativas, y dónde van niet y geen",
   "content": "a1_05_word_order_questions.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_06_Pronombres_y_posesivos",
+  "file": "A1_06_Pronombres_y_posesivos.pdf",
+  "level": "A1",
+  "number": 6,
+  "section": "Gramática",
+  "title": "Pronombres y posesivos",
+  "subtitle": "me, hem y haar; mijn, jouw, ons y onze; van mij; y hij para las cosas",
+  "content": "a1_06_pronouns_possessives.json",
+  "exercise_count": 12
  }
 ]

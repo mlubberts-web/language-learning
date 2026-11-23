@@ -1,0 +1,432 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 6,
+  "total_in_level": 9,
+  "title": "Pronombres y posesivos",
+  "subtitle": "me, hem y haar; mijn, jouw, ons y onze; van mij; y hij para las cosas",
+  "footer": "Language Learning · A1 · Gramática · Pronombres y posesivos",
+  "next": "Siguiente: A1 · pdf 7 — Verbos modales y verbos separables"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar los pronombres de complemento (<i>Ik zie hem</i>)",
+    "decir de quién es algo con <b>mijn, jouw, zijn, haar, ons, onze</b>",
+    "decir <i>es mío</i>: <b>Het is van mij</b>",
+    "referirte a las cosas con <b>hij</b> y <b>het</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La tabla"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    3.4,
+    4.0,
+    4.0,
+    2.4
+   ],
+   "head": [
+    "Sujeto",
+    "Complemento",
+    "Posesivo",
+    "Átono",
+    "Español"
+   ],
+   "rows": [
+    [
+     "ik",
+     "mij / me",
+     "mijn",
+     "m'n",
+     "yo, me, mi"
+    ],
+    [
+     "jij / je",
+     "jou / je",
+     "jouw",
+     "je",
+     "tú, te, tu"
+    ],
+    [
+     "u",
+     "u",
+     "uw",
+     "uw",
+     "usted, le, su"
+    ],
+    [
+     "hij",
+     "hem",
+     "zijn",
+     "z'n",
+     "él, lo, le, su (de él)"
+    ],
+    [
+     "zij / ze",
+     "haar",
+     "haar",
+     "d'r",
+     "ella, la, le, su (de ella)"
+    ],
+    [
+     "het",
+     "het",
+     "zijn",
+     "z'n",
+     "ello, lo, su (de una cosa)"
+    ],
+    [
+     "wij / we",
+     "ons",
+     "ons / onze",
+     "—",
+     "nosotros, nos, nuestro"
+    ],
+    [
+     "jullie",
+     "jullie",
+     "jullie",
+     "je",
+     "vosotros, os, vuestro"
+    ],
+    [
+     "zij / ze",
+     "hen / hun / ze",
+     "hun",
+     "d'r",
+     "ellos, los, les, su (de ellos)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "¿ons u onze?",
+   "text": "<b>ons</b> va con una palabra het en singular: <i>ons huis</i>. <b>onze</b> va con las palabras de y con todos los plurales: <i>onze auto, onze kinderen, onze huizen</i>. Los demás posesivos tienen una sola forma."
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Un 'su' español, cuatro palabras",
+   "text": "El español usa <i>su</i> para todo: <i>su coche</i>. El neerlandés siempre dice de quién: <b>zijn</b> (de él), <b>haar</b> (de ella), <b>hun</b> (de ellos), <b>uw</b> (de usted). Para <i>los, les</i> (ellos) hay tres palabras: <b>hen</b> (tras preposición), <b>hun</b> (complemento indirecto) y <b>ze</b>; al hablar, <b>ze</b> sirve casi siempre."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los pronombres de complemento"
+  },
+  {
+   "type": "p",
+   "text": "Los pronombres de complemento van detrás del verbo, no delante como en español (<i>te llamo</i>): <i>Ik bel <b>je</b> morgen</i> (te llamo mañana). <i>Kom je met <b>ons</b> mee? Dit is voor <b>haar</b>.</i> Usa la forma tónica para dar énfasis: <i>Ik bel <b>jou</b>, niet hem.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    6.0,
+    5.0
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "Ken je hem?",
+     "¿Lo conoces?",
+     ""
+    ],
+    [
+     "Ik help je.",
+     "Te ayudo.",
+     "je = jou átono"
+    ],
+    [
+     "Bel me morgen.",
+     "Llámame mañana.",
+     "me = mij átono"
+    ],
+    [
+     "Is dit voor mij?",
+     "¿Esto es para mí?",
+     "tras preposición: tónico"
+    ],
+    [
+     "Ik zie ze vaak.",
+     "Los veo a menudo.",
+     "ze = ellos, los"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. hij y het para las cosas"
+  },
+  {
+   "type": "p",
+   "text": "Una cosa que es una <b>palabra de</b> es <b>hij</b> (y <b>hem</b> como complemento); una <b>palabra het</b> es <b>het</b>. El género español no ayuda: <i>la llave</i> es femenina, pero <i>de sleutel</i> es hij."
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Waar is de sleutel? Hij ligt op tafel.",
+   "text": "El español no necesita pronombre: <i>¿Dónde está la llave? Está en la mesa.</i> El neerlandés sí: <b>Hij ligt op tafel</b>, porque es <i>de sleutel</i>. Y <i>¿Es bueno el libro? Sí, es estupendo</i> es <b>Is het boek goed? Ja, het is geweldig</b>, porque es <i>het boek</i>. Otra razón para aprender el artículo."
+  },
+  {
+   "type": "h1",
+   "text": "4. Mío, tuyo: van mij"
+  },
+  {
+   "type": "p",
+   "text": "Para <i>mío, tuyo, suyo</i> el neerlandés usa normalmente <b>van</b> + pronombre: <i>Die fiets is <b>van mij</b></i> (esa bici es mía), igual que <i>de mí</i>. Existe también una forma con artículo (<i>de mijne, het mijne</i>), pero es más formal."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.8,
+    5.6,
+    5.6
+   ],
+   "head": [
+    "Con sustantivo",
+    "Sin sustantivo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Het is mijn boek.",
+     "Het is van mij.",
+     "Es mío."
+    ],
+    [
+     "Is dit jouw jas?",
+     "Is deze van jou?",
+     "¿Este es tuyo?"
+    ],
+    [
+     "Dat is haar telefoon.",
+     "Die is van haar.",
+     "Ese es suyo (de ella)."
+    ],
+    [
+     "Het is ons huis.",
+     "Het is van ons.",
+     "Es nuestro."
+    ],
+    [
+     "Het zijn hun sleutels.",
+     "Ze zijn van hen.",
+     "Son suyos (de ellos)."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Anna's fiets o de fiets van Anna",
+   "text": "Con nombres se añade <b>-s</b>, sin apóstrofo: <b>Toms fiets, Peters huis</b>. Solo tras una vocal aparece el apóstrofo, para mantener larga la vocal: <b>Anna's fiets</b>. Al hablar, <b>de fiets van Anna</b> (la bici de Anna) es igual de normal."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Frases útiles",
+   "items": [
+    [
+     "Van wie is dit?",
+     "¿De quién es esto?"
+    ],
+    [
+     "Het is van mij.",
+     "Es mío."
+    ],
+    [
+     "Is dit van jou?",
+     "¿Es tuyo?"
+    ],
+    [
+     "een vriend van me",
+     "un amigo mío"
+    ],
+    [
+     "in m'n eentje",
+     "yo solo, por mi cuenta"
+    ],
+    [
+     "Pak maar.",
+     "sírvete, coge"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Waar is de sleutel? Het ligt op tafel.",
+     "Waar is de sleutel? Hij ligt op tafel.",
+     "de sleutel es una palabra de: hij."
+    ],
+    [
+     "Ons auto is nieuw.",
+     "Onze auto is nieuw.",
+     "Palabra de: onze."
+    ],
+    [
+     "Onze huis is groot.",
+     "Ons huis is groot.",
+     "Palabra het en singular: ons."
+    ],
+    [
+     "Ik zie hij.",
+     "Ik zie hem.",
+     "Complemento: hem."
+    ],
+    [
+     "Het boek is mijn.",
+     "Het boek is van mij.",
+     "Sin sustantivo: van mij."
+    ],
+    [
+     "Is dit voor ik?",
+     "Is dit voor mij?",
+     "Tras preposición: mij."
+    ],
+    [
+     "Tom's fiets",
+     "Toms fiets",
+     "Sin apóstrofo tras consonante."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el pronombre o el posesivo correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Kun je ______ morgen bellen?",
+     "hint": "me",
+     "a": "me",
+     "full": "Kun je me morgen bellen?"
+    },
+    {
+     "q": "Tom woont bij ______ ouders.",
+     "hint": "su (de él)",
+     "a": "zijn",
+     "full": "Tom woont bij zijn ouders."
+    },
+    {
+     "q": "Lisa en ______ man zijn leraren.",
+     "hint": "su (de ella)",
+     "a": "haar",
+     "full": "Lisa en haar man zijn leraren."
+    },
+    {
+     "q": "Dit cadeau is voor ______.",
+     "hint": "ellos, tras preposición",
+     "a": "hen",
+     "full": "Dit cadeau is voor hen."
+    },
+    {
+     "q": "Is deze tas van ______?",
+     "hint": "tuyo, informal",
+     "a": "jou",
+     "full": "Is deze tas van jou?"
+    },
+    {
+     "q": "Dat is ______ huis.",
+     "hint": "nuestro, palabra het",
+     "a": "ons",
+     "full": "Dat is ons huis."
+    },
+    {
+     "q": "______ kinderen zijn op school.",
+     "hint": "nuestros, plural",
+     "a": "onze",
+     "full": "Onze kinderen zijn op school."
+    },
+    {
+     "q": "Waar is mijn telefoon? ______ ligt in je tas.",
+     "hint": "lo, de telefoon",
+     "a": "hij",
+     "full": "Waar is mijn telefoon? Hij ligt in je tas."
+    },
+    {
+     "q": "Ken je ______? Ja, hij is mijn buurman.",
+     "hint": "a él",
+     "a": "hem",
+     "full": "Ken je hem? Ja, hij is mijn buurman."
+    },
+    {
+     "q": "______ is deze jas? Van mij.",
+     "hint": "de quién",
+     "a": "van wie",
+     "full": "Van wie is deze jas? Van mij."
+    },
+    {
+     "q": "Wij houden van ______ nieuwe appartement.",
+     "hint": "nuestro, palabra het",
+     "a": "ons",
+     "full": "Wij houden van ons nieuwe appartement."
+    },
+    {
+     "q": "Mag ik ______ pen lenen?",
+     "hint": "su (de usted)",
+     "a": "uw",
+     "full": "Mag ik uw pen lenen?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Este abrigo es mío.",
+     "a": "Deze jas is van mij."
+    },
+    {
+     "q": "Nuestro coche es nuevo.",
+     "a": "Onze auto is nieuw."
+    },
+    {
+     "q": "¿Dónde está mi llave? Está en la mesa.",
+     "a": "Waar is mijn sleutel? Hij ligt op tafel."
+    },
+    {
+     "q": "¿Puedes ayudarle?",
+     "a": "Kun je hem helpen?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
