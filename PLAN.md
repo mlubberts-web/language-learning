@@ -137,7 +137,7 @@ Choices made (Menno can overrule any of them):
 - [x] 5.3 A2 units (10 units; 2,180 questions in the course so far)
 - [x] 5.4 B1 units (10 units; 2,890 questions in the course so far)
 - [x] 5.5 B2 units (10 units; 3,670 questions in the course so far)
-- [ ] 5.6 C1 units
+- [x] 5.6 C1 units (10 units; 4,497 questions in the course so far)
 - [ ] 5.7 C2 units
 - [ ] 5.8 Verbs in context (strong verbs, perfect with hebben/zijn) and themed lists.
 - [ ] 5.9 Model exams: official NT2 and CNaVT practice exams.
