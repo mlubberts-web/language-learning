@@ -559,5 +559,27 @@
   "subtitle": "La anteposición (fronting), la elipsis y la sustitución con so, not y do so",
   "content": "c2_02_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_03_Las_oraciones_complejas",
+  "file": "C2_03_Las_oraciones_complejas.pdf",
+  "level": "C2",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Las oraciones complejas",
+  "subtitle": "Las subordinadas a fondo, las construcciones absolutas, whatever y however, y cómo mantener claras las frases largas",
+  "content": "c2_03_complex_sentences.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_04_Los_patrones_verbales_a_fondo",
+  "file": "C2_04_Los_patrones_verbales_a_fondo.pdf",
+  "level": "C2",
+  "number": 4,
+  "section": "Gramática",
+  "title": "Los patrones verbales a fondo",
+  "subtitle": "Verbo + complemento + infinitivo o -ing, y verbos para contar lo que alguien dijo (accuse of, urge to)",
+  "content": "c2_04_verb_patterns.json",
+  "exercise_count": 10
  }
 ]

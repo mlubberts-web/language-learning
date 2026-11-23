@@ -1,0 +1,319 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Las oraciones complejas",
+  "subtitle": "Las subordinadas a fondo, las construcciones absolutas, whatever y however, y cómo mantener claras las frases largas",
+  "footer": "Language Learning · C2 · Gramática · Oraciones complejas",
+  "next": "Siguiente: C2 · pdf 4 — Los patrones verbales a fondo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "construir frases con varias subordinadas sin que pierdan claridad",
+    "usar construcciones absolutas (<i>The work done, we went home.</i>)",
+    "usar <b>whatever, whoever, however, wherever</b>",
+    "expresar concesión con <b>much as, however much, be that as it may</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Las construcciones absolutas"
+  },
+  {
+   "type": "p",
+   "text": "Una construcción absoluta (<i>absolute construction</i>) tiene su propio sujeto y un participio, como en español <i>Terminado el trabajo, nos fuimos a casa</i>. Son formales y literarias."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "The work done, we went home.",
+     "Terminado el trabajo, nos fuimos a casa."
+    ],
+    [
+     "Weather permitting, the match will be played.",
+     "Si el tiempo lo permite, se jugará el partido."
+    ],
+    [
+     "All things considered, it was a success.",
+     "Teniéndolo todo en cuenta, fue un éxito."
+    ],
+    [
+     "He sat there, his eyes closed.",
+     "Estaba allí sentado, con los ojos cerrados."
+    ],
+    [
+     "There being no further questions, the meeting ended.",
+     "Al no haber más preguntas, se levantó la sesión."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. whatever, whoever, however, wherever"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    7.0,
+    6.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "whatever",
+     "Whatever you decide, I'll support you.",
+     "Decidas lo que decidas, ..."
+    ],
+    [
+     "whoever",
+     "Whoever wins, it will be a great game.",
+     "Gane quien gane, ..."
+    ],
+    [
+     "however + adjetivo",
+     "However hard I try, I can't do it.",
+     "Por mucho que me esfuerce, ..."
+    ],
+    [
+     "wherever",
+     "Wherever you go, you'll find tourists.",
+     "Vayas donde vayas, ..."
+    ],
+    [
+     "whenever",
+     "Call me whenever you like.",
+     "Llámame cuando quieras."
+    ],
+    [
+     "no matter what / how",
+     "No matter what happens, stay calm.",
+     "Pase lo que pase, ..."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Decidas lo que decidas = whatever you decide",
+   "text": "El español repite el verbo en subjuntivo: <i>decidas lo que decidas</i>, <i>vayas donde vayas</i>, <i>gane quien gane</i>. El inglés usa una sola palabra y el presente normal: <b>whatever you decide</b>, <b>wherever you go</b>, <b>whoever wins</b>. Después de however el adjetivo va justo detrás: <b>however hard</b> (por mucho que), <b>however much</b> (por mucho que, cueste lo que cueste)."
+  },
+  {
+   "type": "h1",
+   "text": "3. La concesión"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    6.6,
+    6.0
+   ],
+   "head": [
+    "Estructura",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "much as",
+     "Much as I like him, I can't trust him.",
+     "Por mucho que me caiga bien, ..."
+    ],
+    [
+     "however much",
+     "However much it costs, we'll buy it.",
+     "Cueste lo que cueste, ..."
+    ],
+    [
+     "try as I might",
+     "Try as I might, I couldn't open it.",
+     "Por más que lo intenté, ..."
+    ],
+    [
+     "for all",
+     "For all his money, he isn't happy.",
+     "A pesar de todo su dinero, ..."
+    ],
+    [
+     "be that as it may",
+     "Be that as it may, we must decide.",
+     "Sea como sea, ..."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Mantener claras las frases largas"
+  },
+  {
+   "type": "bullets",
+   "items": [
+    "Pon el sujeto y el verbo cerca; los añadidos largos, mejor al final.",
+    "No uses más de dos subordinadas en una frase; si no, mejor dos frases. El inglés tolera mucho menos que el español las frases muy largas.",
+    "Repite el sujeto si la frase es larga: <i>The committee, which met three times last month, has decided ...</i>",
+    "Usa comas alrededor de las partes explicativas, y ninguna alrededor de las especificativas (B1 · pdf 5)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "However I try hard, I can't do it.",
+     "However hard I try, I can't do it.",
+     "however + adjetivo justo detrás."
+    ],
+    [
+     "What you decide, I'll help you.",
+     "Whatever you decide, I'll help you.",
+     "Decidas lo que decidas = whatever you decide."
+    ],
+    [
+     "Much as I like him, but I can't trust him.",
+     "Much as I like him, I can't trust him.",
+     "much as y but no van juntos."
+    ],
+    [
+     "The work was done, we went home.",
+     "The work done, we went home.",
+     "Construcción absoluta: participio sin was."
+    ],
+    [
+     "Who wins, it will be exciting.",
+     "Whoever wins, it will be exciting.",
+     "Gane quien gane = whoever wins."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ you do, don't tell her.",
+     "hint": "hagas lo que hagas",
+     "a": "Whatever",
+     "full": "Whatever you do, don't tell her."
+    },
+    {
+     "q": "______ hard I work, I never finish on time.",
+     "hint": "por mucho que",
+     "a": "However",
+     "full": "However hard I work, I never finish on time."
+    },
+    {
+     "q": "______ you go, I'll follow you.",
+     "hint": "vayas donde vayas",
+     "a": "Wherever",
+     "full": "Wherever you go, I'll follow you."
+    },
+    {
+     "q": "______ wins the election will face a difficult task.",
+     "hint": "gane quien gane",
+     "a": "Whoever",
+     "full": "Whoever wins the election will face a difficult task."
+    },
+    {
+     "q": "______ as I like her, I don't agree with her.",
+     "hint": "por mucho que",
+     "a": "Much",
+     "full": "Much as I like her, I don't agree with her."
+    },
+    {
+     "q": "Weather ______, we'll have a barbecue.",
+     "hint": "permit",
+     "a": "permitting",
+     "full": "Weather permitting, we'll have a barbecue."
+    },
+    {
+     "q": "The decision ______, we went out to celebrate.",
+     "hint": "make, participio",
+     "a": "made",
+     "full": "The decision made, we went out to celebrate."
+    },
+    {
+     "q": "For ______ his talent, he never became famous.",
+     "hint": "a pesar de todo",
+     "a": "all",
+     "full": "For all his talent, he never became famous."
+    },
+    {
+     "q": "No ______ what happens, stay calm.",
+     "hint": "pase lo que pase",
+     "a": "matter",
+     "full": "No matter what happens, stay calm."
+    },
+    {
+     "q": "Try as I ______, I couldn't remember her name.",
+     "hint": "por más que lo intenté",
+     "a": "might",
+     "full": "Try as I might, I couldn't remember her name."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Decidas lo que decidas, te apoyo.",
+     "a": "Whatever you decide, I'll support you."
+    },
+    {
+     "q": "Por mucho que lo intente, no lo consigo.",
+     "a": "However hard I try, I can't do it."
+    },
+    {
+     "q": "Si el tiempo lo permite, saldremos a navegar.",
+     "a": "Weather permitting, we'll go sailing."
+    },
+    {
+     "q": "A pesar de todo su dinero, no es feliz.",
+     "a": "For all his money, he isn't happy."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

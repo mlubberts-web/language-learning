@@ -1,0 +1,352 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Los patrones verbales a fondo",
+  "subtitle": "Verbo + complemento + infinitivo o -ing, y verbos para contar lo que alguien dijo (accuse of, urge to)",
+  "footer": "Language Learning · C2 · Gramática · Patrones verbales",
+  "next": "Siguiente: C2 · pdf 5 — La retórica y el estilo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar verbos con un complemento y un infinitivo o una forma en -ing",
+    "elegir verbos precisos para contar lo que alguien dijo (<i>accuse, urge, deny</i>)",
+    "usar bien los patrones de <b>suggest, recommend, insist</b>",
+    "usar los verbos de percepción (<i>I saw him leave / leaving</i>)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos para contar lo que alguien dijo"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    7.0,
+    5.4
+   ],
+   "head": [
+    "Patrón",
+    "Ejemplo",
+    "Verbos"
+   ],
+   "rows": [
+    [
+     "+ to + verbo",
+     "He refused to help.",
+     "agree, offer, promise, threaten, refuse"
+    ],
+    [
+     "+ complemento + to",
+     "She urged me to apply.",
+     "advise, encourage, warn, persuade, remind, urge"
+    ],
+    [
+     "+ -ing",
+     "He denied taking the money.",
+     "admit, deny, suggest, recommend"
+    ],
+    [
+     "+ preposición + -ing",
+     "They accused him of lying.",
+     "accuse of, blame for, apologise for, insist on"
+    ],
+    [
+     "+ that",
+     "She explained that she was ill.",
+     "explain, claim, admit, point out, insist"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Verbos precisos en lugar de say",
+   "text": "En lugar de repetir siempre <i>he said</i>, en el nivel C2 se usa el verbo que expresa la intención: <i>\"I'll do it\"</i> → <b>He promised to do it</b>; <i>\"You stole it!\"</i> → <b>She accused him of stealing it</b>; <i>\"Don't touch it\"</i> → <b>He warned me not to touch it</b>. Y nunca <i>que</i> + subjuntivo: <i>me animó a que lo solicitara</i> = <b>she urged me to apply</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. suggest, recommend e insist"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Correcto",
+    "Incorrecto"
+   ],
+   "rows": [
+    [
+     "She suggested going to the cinema.",
+     "She suggested to go to the cinema."
+    ],
+    [
+     "She suggested that we (should) go.",
+     "She suggested us to go."
+    ],
+    [
+     "I recommend booking early.",
+     "I recommend you to book early. (mejor evitarlo)"
+    ],
+    [
+     "He insisted on paying.",
+     "He insisted to pay."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "suggest nunca con complemento + to",
+   "text": "<b>suggest</b> nunca tiene el patrón <i>suggest someone to do</i>. Usa <b>suggest doing</b> o <b>suggest that someone (should) do</b>. <i>Sugirió que fuéramos</i> = <b>She suggested going</b> o <b>She suggested that we (should) go</b>, nunca <i>She suggested us to go</i>. Y <i>insistir en pagar</i> = <b>insist on paying</b>, no <i>insist in</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Los verbos de percepción"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "I saw him cross the road.",
+     "vi la acción entera"
+    ],
+    [
+     "I saw him crossing the road.",
+     "vi una parte, estaba cruzando"
+    ],
+    [
+     "We heard her sing.",
+     "la canción entera"
+    ],
+    [
+     "We heard her singing.",
+     "estaba cantando"
+    ],
+    [
+     "He was seen to leave. (pasiva: con to)",
+     "se le vio salir"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Otros patrones"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbo + complemento + preposición",
+   "items": [
+    [
+     "accuse someone of",
+     "acusar a alguien de"
+    ],
+    [
+     "blame someone for",
+     "culpar a alguien de"
+    ],
+    [
+     "congratulate someone on",
+     "felicitar a alguien por"
+    ],
+    [
+     "prevent someone from",
+     "impedir que alguien haga algo"
+    ],
+    [
+     "remind someone of",
+     "recordar a alguien a (algo o alguien)"
+    ],
+    [
+     "thank someone for",
+     "dar las gracias a alguien por"
+    ],
+    [
+     "warn someone about",
+     "advertir a alguien de"
+    ],
+    [
+     "discourage someone from",
+     "disuadir a alguien de"
+    ],
+    [
+     "protect someone from",
+     "proteger a alguien de"
+    ],
+    [
+     "suspect someone of",
+     "sospechar de alguien por"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "She suggested me to apply.",
+     "She suggested that I apply.",
+     "suggest sin complemento + to."
+    ],
+    [
+     "He denied to take the money.",
+     "He denied taking the money.",
+     "deny + -ing."
+    ],
+    [
+     "They accused him for lying.",
+     "They accused him of lying.",
+     "accuse of."
+    ],
+    [
+     "He insisted to pay the bill.",
+     "He insisted on paying the bill.",
+     "insist on + -ing."
+    ],
+    [
+     "The rain prevented us to go out.",
+     "The rain prevented us from going out.",
+     "prevent from + -ing."
+    ],
+    [
+     "She congratulated me for my exam.",
+     "She congratulated me on my exam.",
+     "congratulate on."
+    ],
+    [
+     "He was seen leave the building.",
+     "He was seen to leave the building.",
+     "Pasiva: seen to."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra o la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "He denied ______ the window.",
+     "hint": "break",
+     "a": "breaking",
+     "full": "He denied breaking the window."
+    },
+    {
+     "q": "She persuaded me ______ the job.",
+     "hint": "take",
+     "a": "to take",
+     "full": "She persuaded me to take the job."
+    },
+    {
+     "q": "They accused her ______ cheating.",
+     "hint": "preposición",
+     "a": "of",
+     "full": "They accused her of cheating."
+    },
+    {
+     "q": "I suggest ______ a taxi.",
+     "hint": "take",
+     "a": "taking",
+     "full": "I suggest taking a taxi."
+    },
+    {
+     "q": "He insisted ______ carrying my bags.",
+     "hint": "preposición",
+     "a": "on",
+     "full": "He insisted on carrying my bags."
+    },
+    {
+     "q": "The fog prevented the plane ______ landing.",
+     "hint": "preposición",
+     "a": "from",
+     "full": "The fog prevented the plane from landing."
+    },
+    {
+     "q": "She warned us not ______ swim there.",
+     "hint": "to",
+     "a": "to",
+     "full": "She warned us not to swim there."
+    },
+    {
+     "q": "We congratulated them ______ their wedding.",
+     "hint": "preposición",
+     "a": "on",
+     "full": "We congratulated them on their wedding."
+    },
+    {
+     "q": "I heard someone ______ my name, but nobody was there.",
+     "hint": "call, acción entera",
+     "a": "call",
+     "full": "I heard someone call my name, but nobody was there."
+    },
+    {
+     "q": "The suspect was seen ______ the bank.",
+     "hint": "pasiva: to + enter",
+     "a": "to enter",
+     "full": "The suspect was seen to enter the bank."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Él propuso ir a dar un paseo.",
+     "a": "He suggested going for a walk."
+    },
+    {
+     "q": "Lo acusaron de mentir.",
+     "a": "They accused him of lying."
+    },
+    {
+     "q": "La lluvia nos impidió jugar fuera.",
+     "a": "The rain prevented us from playing outside."
+    },
+    {
+     "q": "Ella me convenció para que me quedara.",
+     "a": "She persuaded me to stay."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
