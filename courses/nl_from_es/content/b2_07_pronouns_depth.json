@@ -1,0 +1,343 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Gramática",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Los pronombres a fondo",
+  "subtitle": "het, dit y dat como sujeto, die y dat solos, elkaar, zichzelf, y men, je y ze",
+  "footer": "Language Learning · B2 · Gramática · Los pronombres a fondo",
+  "next": "Siguiente: B2 · pdf 8 — Registro y escritura"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decir <i>estos son mis hijos</i>: <b>Dit zijn mijn kinderen</b>",
+    "usar <b>die</b> y <b>dat</b> sin sustantivo",
+    "usar <b>elkaar</b> y <b>zichzelf</b>",
+    "hablar de la gente en general con <b>je, men</b> y <b>ze</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. het, dit, dat + zijn"
+  },
+  {
+   "type": "p",
+   "text": "Para presentar o señalar algo, el neerlandés usa <b>het, dit</b> o <b>dat</b> como sujeto, sea cual sea el género o el número del sustantivo: <i>Het is mijn broer</i> (es mi hermano). <i>Dat is een goed idee</i> (es una buena idea). El español no pone sujeto, pero el neerlandés lo necesita. Con un sustantivo plural el verbo va en plural, pero el pronombre no cambia: <b>Dit zijn</b> mijn kinderen, <b>Het zijn</b> goede vrienden."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    6.0,
+    4.6
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Dit is mijn zus.",
+     "Esta es mi hermana.",
+     "de zus, pero dit"
+    ],
+    [
+     "Dit zijn mijn kinderen.",
+     "Estos son mis hijos.",
+     "no deze zijn"
+    ],
+    [
+     "Dat zijn mooie schoenen.",
+     "Esos son unos zapatos bonitos.",
+     "no die zijn"
+    ],
+    [
+     "Het zijn studenten.",
+     "Son estudiantes.",
+     "het + zijn"
+    ],
+    [
+     "Wie is dat? Het is de postbode.",
+     "¿Quién es? Es el cartero.",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "No: Deze zijn mijn kinderen",
+   "text": "El español dice <i>estos son</i>, así que los hispanohablantes dicen <i>Deze zijn mijn kinderen</i>. En neerlandés el pronombre que presenta es siempre <b>dit / dat / het</b>: <b>Dit zijn mijn kinderen</b>. Usa <b>deze / die</b> solo delante de un sustantivo (<i>deze kinderen</i>) o cuando se refiere a un sustantivo concreto ya mencionado."
+  },
+  {
+   "type": "h1",
+   "text": "2. die y dat solos"
+  },
+  {
+   "type": "p",
+   "text": "Sin sustantivo, <b>die</b> y <b>dat</b> suelen sustituir a un sustantivo ya mencionado, como <i>ese</i> o <i>el mío</i>: <i>Welke jas is van jou? <b>Die</b> is van mij</i> (de jas: ¿qué abrigo es el tuyo? Ese es mío). <i>Waar is het boek? <b>Dat</b> ligt op tafel.</i> Al hablar, <b>die</b> también se usa para personas: <i><b>Die</b> weet het ook niet</i> (él tampoco lo sabe)."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "dat para frases enteras",
+   "text": "Para una idea o una frase entera, usa <b>dat</b>: <i>Hij is ziek. — <b>Dat</b> wist ik niet.</i> (No lo sabía.) <i><b>Dat</b> is waar</i> (es verdad). <i><b>Dat</b> klopt</i> (es correcto). Donde el español usa <i>lo</i> o nada, el neerlandés prefiere <b>dat</b> al principio."
+  },
+  {
+   "type": "h1",
+   "text": "3. elkaar y zichzelf"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    6.6,
+    5.4
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "elkaar",
+     "Ze kennen elkaar al jaren.",
+     "el uno al otro, se (recíproco)"
+    ],
+    [
+     "met elkaar",
+     "We werken met elkaar samen.",
+     "entre sí, juntos"
+    ],
+    [
+     "zichzelf",
+     "Hij praat tegen zichzelf.",
+     "sí mismo (énfasis)"
+    ],
+    [
+     "mezelf / jezelf",
+     "Ik heb het zelf gemaakt. Ken jezelf.",
+     "yo mismo, tú mismo"
+    ],
+    [
+     "zelf",
+     "Doe het zelf!",
+     "tú mismo, por tu cuenta"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La gente en general: je, men, ze"
+  },
+  {
+   "type": "p",
+   "text": "El español usa el <i>se</i> impersonal (<i>se dice</i>), el <i>tú</i> genérico o la tercera persona del plural (<i>dicen que</i>). El neerlandés tiene <b>je</b> (lo más frecuente al hablar), <b>men</b> (formal, escrito), <b>ze</b> (ellos, a menudo las autoridades) y la pasiva. Ojo: el <i>se</i> recíproco (<i>se conocen</i>) es <b>elkaar</b>, no zich."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    7.6,
+    6.4
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "je",
+     "In Nederland moet je overal fietsen.",
+     "En los Países Bajos tienes que ir en bici a todas partes."
+    ],
+    [
+     "men",
+     "Men zegt dat het gaat regenen.",
+     "Se dice que va a llover."
+    ],
+    [
+     "ze",
+     "Ze gaan de weg verbreden.",
+     "Van a ensanchar la carretera."
+    ],
+    [
+     "pasiva",
+     "Er wordt gezegd dat ...",
+     "Se dice que ..."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Deze zijn mijn kinderen.",
+     "Dit zijn mijn kinderen.",
+     "Para presentar: dit zijn."
+    ],
+    [
+     "Die zijn mooie schoenen.",
+     "Dat zijn mooie schoenen.",
+     "Para presentar: dat zijn."
+    ],
+    [
+     "Is een goed idee.",
+     "Dat is een goed idee.",
+     "Es una buena idea: el neerlandés necesita sujeto, dat is."
+    ],
+    [
+     "Ze kennen zich al jaren.",
+     "Ze kennen elkaar al jaren.",
+     "Recíproco: elkaar."
+    ],
+    [
+     "Ik heb het mijzelf gemaakt.",
+     "Ik heb het zelf gemaakt.",
+     "Por tu cuenta: zelf."
+    ],
+    [
+     "Het wist ik niet.",
+     "Dat wist ik niet.",
+     "Al principio, refiriéndose a lo dicho: dat."
+    ],
+    [
+     "Welke jas is van jou? Het is van mij.",
+     "Welke jas is van jou? Die is van mij.",
+     "Se refiere a de jas: die."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el pronombre correcto. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ zijn mijn ouders.",
+     "hint": "estos son",
+     "a": "dit",
+     "full": "Dit zijn mijn ouders."
+    },
+    {
+     "q": "Wie is die vrouw? ______ is mijn lerares.",
+     "hint": "es",
+     "a": "het",
+     "full": "Wie is die vrouw? Het is mijn lerares."
+    },
+    {
+     "q": "Hij gaat verhuizen. — ______ wist ik niet!",
+     "hint": "eso, idea",
+     "a": "dat",
+     "full": "Hij gaat verhuizen. — Dat wist ik niet!"
+    },
+    {
+     "q": "Welke fiets is van jou? ______ is van mij.",
+     "hint": "de fiets",
+     "a": "die",
+     "full": "Welke fiets is van jou? Die is van mij."
+    },
+    {
+     "q": "Waar is het boek? ______ ligt op tafel.",
+     "hint": "het boek",
+     "a": "dat",
+     "full": "Waar is het boek? Dat ligt op tafel."
+    },
+    {
+     "q": "Ze zien ______ elke dag.",
+     "hint": "el uno al otro",
+     "a": "elkaar",
+     "full": "Ze zien elkaar elke dag."
+    },
+    {
+     "q": "Hij praat vaak tegen ______.",
+     "hint": "sí mismo",
+     "a": "zichzelf",
+     "full": "Hij praat vaak tegen zichzelf."
+    },
+    {
+     "q": "Ik heb de taart ______ gebakken.",
+     "hint": "yo mismo",
+     "a": "zelf",
+     "full": "Ik heb de taart zelf gebakken."
+    },
+    {
+     "q": "In Amsterdam moet ______ goed op fietsers letten.",
+     "hint": "tú, en general",
+     "a": "je",
+     "full": "In Amsterdam moet je goed op fietsers letten."
+    },
+    {
+     "q": "______ zegt dat de prijzen gaan stijgen.",
+     "hint": "se, formal",
+     "a": "men",
+     "full": "Men zegt dat de prijzen gaan stijgen."
+    },
+    {
+     "q": "______ zijn mooie foto's!",
+     "hint": "esas son",
+     "a": "dat",
+     "full": "Dat zijn mooie foto's!"
+    },
+    {
+     "q": "______ klopt. Je hebt gelijk.",
+     "hint": "es correcto",
+     "a": "dat",
+     "full": "Dat klopt. Je hebt gelijk."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estos son mis hijos.",
+     "a": "Dit zijn mijn kinderen."
+    },
+    {
+     "q": "No lo sabía.",
+     "a": "Dat wist ik niet."
+    },
+    {
+     "q": "Se conocen desde hace años.",
+     "a": "Ze kennen elkaar al jaren."
+    },
+    {
+     "q": "Lo hice yo mismo.",
+     "a": "Ik heb het zelf gemaakt."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

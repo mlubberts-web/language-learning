@@ -383,5 +383,16 @@
   "subtitle": "La -e tras geen, elk y zo'n; iets nieuws; expresiones fijas sin -e; y adverbios sin -mente",
   "content": "b2_06_adjectives_adverbs.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_07_Los_pronombres_a_fondo",
+  "file": "B2_07_Los_pronombres_a_fondo.pdf",
+  "level": "B2",
+  "number": 7,
+  "section": "Gramática",
+  "title": "Los pronombres a fondo",
+  "subtitle": "het, dit y dat como sujeto, die y dat solos, elkaar, zichzelf, y men, je y ze",
+  "content": "b2_07_pronouns_depth.json",
+  "exercise_count": 12
  }
 ]
