@@ -108,5 +108,16 @@
   "subtitle": "hebben + ge-...-t or -d, 't kofschip, and the participle at the end",
   "content": "a2_01_perfect_weak.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_02_The_perfect_tense_strong_verbs",
+  "file": "A2_02_The_perfect_tense_strong_verbs.pdf",
+  "level": "A2",
+  "number": 2,
+  "section": "Verbs",
+  "title": "The perfect tense: strong verbs",
+  "subtitle": "The most common strong verbs, and when to use zijn instead of hebben",
+  "content": "a2_02_perfect_strong.json",
+  "exercise_count": 12
  }
 ]
