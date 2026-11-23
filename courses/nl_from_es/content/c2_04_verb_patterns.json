@@ -1,0 +1,359 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Gramática",
+  "number": 4,
+  "total_in_level": 10,
+  "title": "Los patrones verbales a fondo",
+  "subtitle": "Verbos para contar lo dicho (beschuldigen van, aanraden om te), laten y doen, y los verbos de percepción",
+  "footer": "Language Learning · C2 · Gramática · Patrones verbales",
+  "next": "Siguiente: C2 · pdf 5 — Retórica y estilo"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "contar lo dicho con precisión con <b>beschuldigen van, aanraden om te, ontkennen</b> y otros",
+    "usar <b>laten</b> para <i>dejar, hacer</i> y <i>mandar hacer algo</i>",
+    "usar <b>doen</b> como causativo en expresiones fijas",
+    "usar <b>zien, horen, voelen</b> + infinitivo"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Verbos para contar lo dicho"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    7.2,
+    4.6
+   ],
+   "head": [
+    "Verbo y estructura",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "beschuldigen van",
+     "Ze beschuldigden hem van diefstal.",
+     "acusar de"
+    ],
+    [
+     "aanraden (om) te",
+     "Ik raad je aan om vroeg te boeken.",
+     "aconsejar que"
+    ],
+    [
+     "waarschuwen voor / dat",
+     "Hij waarschuwde ons voor de storm.",
+     "advertir de / que"
+    ],
+    [
+     "ontkennen (dat)",
+     "Hij ontkende het geld te hebben gestolen.",
+     "negar"
+    ],
+    [
+     "toegeven (dat)",
+     "Ze gaf toe dat ze gelogen had.",
+     "admitir, reconocer"
+    ],
+    [
+     "overhalen om te",
+     "Ik heb haar overgehaald om te blijven.",
+     "convencer para que"
+    ],
+    [
+     "verbieden te",
+     "De dokter verbood hem te roken.",
+     "prohibir"
+    ],
+    [
+     "dwingen (om) te",
+     "Niemand dwingt je om mee te gaan.",
+     "obligar a"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Verbos precisos en lugar de zeggen",
+   "text": "En el nivel C2, usa el verbo que muestra la intención: <i>«Lo hago yo»</i> → <b>Hij beloofde het te doen</b> (prometió hacerlo); <i>«¡Tú lo has robado!»</i> → <b>Ze beschuldigde hem van diefstal</b> (lo acusó de robo); <i>«No lo toques»</i> → <b>Hij waarschuwde me het niet aan te raken</b> (me advirtió que no lo tocara). Fíjate en que el español usa <i>que</i> + subjuntivo donde el neerlandés usa <i>te</i> + infinitivo."
+  },
+  {
+   "type": "h1",
+   "text": "2. laten"
+  },
+  {
+   "type": "p",
+   "text": "<b>laten</b> + infinitivo (sin te) tiene tres significados: <b>dejar, permitir</b> (<i>Laat hem maar slapen</i>, déjalo dormir), <b>hacer que alguien haga algo</b> (<i>Hij liet me een uur wachten</i>, me hizo esperar una hora) y <b>mandar hacer algo</b> (<i>Ik laat mijn auto repareren</i>, llevo el coche a arreglar). En el perfecto sigue siendo infinitivo: <i>Ik heb mijn auto laten repareren.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.6,
+    6.0,
+    4.4
+   ],
+   "head": [
+    "Neerlandés",
+    "Español",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "Laat me met rust.",
+     "Déjame en paz.",
+     "fija"
+    ],
+    [
+     "Mijn ouders lieten me laat opblijven.",
+     "Mis padres me dejaban quedarme despierto hasta tarde.",
+     "dejar"
+    ],
+    [
+     "Hij liet ons een uur wachten.",
+     "Nos hizo esperar una hora.",
+     "hacer"
+    ],
+    [
+     "Ik heb mijn haar laten knippen.",
+     "Me he cortado el pelo (en la peluquería).",
+     "mandar hacer"
+    ],
+    [
+     "Hij liet zich niet overtuigen.",
+     "No se dejó convencer.",
+     "zich laten (dejarse)"
+    ],
+    [
+     "Laten we beginnen.",
+     "Empecemos.",
+     "propuesta"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. doen como causativo"
+  },
+  {
+   "type": "p",
+   "text": "En expresiones fijas y formales, <b>doen</b> + infinitivo significa <i>hacer, provocar</i>: <i>Dat <b>doet</b> me <b>denken</b> aan mijn jeugd</i> (eso me recuerda a mi infancia). <i>Het nieuws <b>deed</b> hem <b>schrikken</b></i> (la noticia le dio un susto)."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones fijas con doen",
+   "items": [
+    [
+     "doen denken aan",
+     "recordar a"
+    ],
+    [
+     "iemand doen schrikken",
+     "dar un susto a alguien"
+    ],
+    [
+     "van zich doen spreken",
+     "hacerse un nombre"
+    ],
+    [
+     "iemand pijn doen",
+     "hacer daño a alguien"
+    ],
+    [
+     "er niet toe doen",
+     "no importar"
+    ],
+    [
+     "moeite doen",
+     "esforzarse"
+    ],
+    [
+     "alsof doen",
+     "fingir, hacer como si"
+    ],
+    [
+     "het rustig aan doen",
+     "tomárselo con calma"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. zien, horen, voelen + infinitivo"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos de percepción llevan infinitivo sin te, como en español: <i>Ik <b>zag</b> hem <b>vallen</b></i> (lo vi caer). <i>Ik <b>hoorde</b> haar <b>zingen</b></i> (la oí cantar). <i>Ik <b>voelde</b> de grond <b>trillen</b></i> (sentí temblar el suelo). En el perfecto forman un doble infinitivo: <i>Ik heb hem zien vallen.</i> Para subrayar que estaba ocurriendo, usa <b>aan het</b>: <i>Ik zag hem aan het werk</i> (lo vi trabajando)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ze beschuldigden hem voor diefstal.",
+     "Ze beschuldigden hem van diefstal.",
+     "beschuldigen van."
+    ],
+    [
+     "Ik raad je aan vroeg boeken.",
+     "Ik raad je aan om vroeg te boeken.",
+     "aanraden (om) te."
+    ],
+    [
+     "Ik heb mijn auto gelaten repareren.",
+     "Ik heb mijn auto laten repareren.",
+     "laten: doble infinitivo."
+    ],
+    [
+     "Ik zag hem te vallen.",
+     "Ik zag hem vallen.",
+     "Verbos de percepción: sin te."
+    ],
+    [
+     "Dat doet me herinneren aan mijn jeugd.",
+     "Dat doet me denken aan mijn jeugd.",
+     "Fija: doen denken aan."
+    ],
+    [
+     "Ik heb bij de kapper mijn haar geknipt.",
+     "Ik heb bij de kapper mijn haar laten knippen.",
+     "«Me he cortado el pelo» en la peluquería: laten knippen."
+    ],
+    [
+     "Hij ontkende dat hij heeft het gestolen.",
+     "Hij ontkende dat hij het gestolen had.",
+     "Verbos al final; pluscuamperfecto."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ze beschuldigden hem ______ fraude.",
+     "hint": "acusar de",
+     "a": "van",
+     "full": "Ze beschuldigden hem van fraude."
+    },
+    {
+     "q": "Ik raad je aan om vroeg ______ boeken.",
+     "hint": "te",
+     "a": "te",
+     "full": "Ik raad je aan om vroeg te boeken."
+    },
+    {
+     "q": "Hij waarschuwde ons ______ de gladheid.",
+     "hint": "advertir de",
+     "a": "voor",
+     "full": "Hij waarschuwde ons voor de gladheid."
+    },
+    {
+     "q": "Ze gaf ______ dat ze een fout had gemaakt.",
+     "hint": "admitió",
+     "a": "toe",
+     "full": "Ze gaf toe dat ze een fout had gemaakt."
+    },
+    {
+     "q": "Ik heb mijn fiets ______ repareren.",
+     "hint": "mandar hacer",
+     "a": "laten",
+     "full": "Ik heb mijn fiets laten repareren."
+    },
+    {
+     "q": "______ me met rust!",
+     "hint": "déjame en paz",
+     "a": "laat",
+     "full": "Laat me met rust!"
+    },
+    {
+     "q": "Die geur doet me ______ aan Italië.",
+     "hint": "recuerda",
+     "a": "denken",
+     "full": "Die geur doet me denken aan Italië."
+    },
+    {
+     "q": "Ik zag het vliegtuig ______.",
+     "hint": "landen",
+     "a": "landen",
+     "full": "Ik zag het vliegtuig landen."
+    },
+    {
+     "q": "Hij deed alsof hij me niet ______.",
+     "hint": "zien, pasado",
+     "a": "zag",
+     "full": "Hij deed alsof hij me niet zag."
+    },
+    {
+     "q": "Ik heb haar overgehaald ______ te blijven.",
+     "hint": "om",
+     "a": "om",
+     "full": "Ik heb haar overgehaald om te blijven."
+    },
+    {
+     "q": "Hij liet zich niet ______.",
+     "hint": "overtuigen",
+     "a": "overtuigen",
+     "full": "Hij liet zich niet overtuigen."
+    },
+    {
+     "q": "Dat doet er niet ______.",
+     "hint": "no importa",
+     "a": "toe",
+     "full": "Dat doet er niet toe."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Lo acusaron de robo.",
+     "a": "Ze beschuldigden hem van diefstal."
+    },
+    {
+     "q": "Me he cortado el pelo (en la peluquería).",
+     "a": "Ik heb mijn haar laten knippen."
+    },
+    {
+     "q": "Eso me recuerda a mi infancia.",
+     "a": "Dat doet me denken aan mijn jeugd."
+    },
+    {
+     "q": "Lo vi caer.",
+     "a": "Ik zag hem vallen."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

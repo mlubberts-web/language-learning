@@ -570,5 +570,16 @@
   "subtitle": "Subordinadas encadenadas, hoe ... ook y wat ... ook, al y ook al, nu, naarmate, zonder dat, y cómo mantener claras las frases largas",
   "content": "c2_03_complex_sentences.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_04_Los_patrones_verbales_a_fondo",
+  "file": "C2_04_Los_patrones_verbales_a_fondo.pdf",
+  "level": "C2",
+  "number": 4,
+  "section": "Gramática",
+  "title": "Los patrones verbales a fondo",
+  "subtitle": "Verbos para contar lo dicho (beschuldigen van, aanraden om te), laten y doen, y los verbos de percepción",
+  "content": "c2_04_verb_patterns.json",
+  "exercise_count": 12
  }
 ]
