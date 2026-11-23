@@ -306,5 +306,16 @@
   "subtitle": "although, however, because of, so that, in order to, while y más: unir frases e ideas",
   "content": "b1_09_linking_words.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_10_Vocabulario_y_expresiones_fijas",
+  "file": "B1_10_Vocabulario_y_expresiones_fijas.pdf",
+  "level": "B1",
+  "number": 10,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Phrasal verbs básicos, make o do, los muchos significados de get, la educación, los medios y el medio ambiente",
+  "content": "b1_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

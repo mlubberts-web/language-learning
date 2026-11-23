@@ -1,0 +1,451 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Vocabulario",
+  "number": 10,
+  "total_in_level": 10,
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Phrasal verbs básicos, make o do, los muchos significados de get, la educación, los medios y el medio ambiente",
+  "footer": "Language Learning · B1 · Vocabulario y expresiones fijas",
+  "next": "Siguiente: B2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Aprende los phrasal verbs siempre en una frase, no sueltos.",
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Estas palabras aparecen mucho en el examen B1 Preliminary de Cambridge."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Phrasal verbs básicos"
+  },
+  {
+   "type": "p",
+   "text": "Un <b>phrasal verb</b> es un verbo con una preposición o un adverbio que juntos tienen un significado propio: <i>give up</i> (dejar, rendirse), <i>look after</i> (cuidar). El español no tiene nada parecido, así que apréndelos como palabras nuevas: <i>look</i> es mirar, pero <i>look for</i> es buscar."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Phrasal verbs frecuentes",
+   "items": [
+    [
+     "get up",
+     "levantarse"
+    ],
+    [
+     "wake up",
+     "despertarse"
+    ],
+    [
+     "look for",
+     "buscar"
+    ],
+    [
+     "look after",
+     "cuidar (de)"
+    ],
+    [
+     "find out",
+     "averiguar, enterarse"
+    ],
+    [
+     "give up",
+     "dejar (de), rendirse"
+    ],
+    [
+     "turn on",
+     "encender"
+    ],
+    [
+     "turn off",
+     "apagar"
+    ],
+    [
+     "put on",
+     "ponerse (ropa)"
+    ],
+    [
+     "take off",
+     "quitarse (ropa), despegar"
+    ],
+    [
+     "pick up",
+     "coger, recoger"
+    ],
+    [
+     "fill in",
+     "rellenar"
+    ],
+    [
+     "go out",
+     "salir"
+    ],
+    [
+     "come back",
+     "volver"
+    ],
+    [
+     "break down",
+     "estropearse, averiarse"
+    ],
+    [
+     "run out of",
+     "quedarse sin"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "¿Dónde va el complemento?",
+   "text": "Con muchos phrasal verbs el complemento puede ir en medio o al final: <i>Turn off the light / Turn the light off.</i> Si el complemento es un pronombre (it, them), tiene que ir en medio: <b>Turn it off</b>, nunca <i>Turn off it</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿make o do?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "make (hacer, crear algo nuevo)",
+    "do (hacer, actividades y tareas)"
+   ],
+   "rows": [
+    [
+     "make a cake, make dinner",
+     "do the shopping, do the washing-up"
+    ],
+    [
+     "make a mistake",
+     "do your homework"
+    ],
+    [
+     "make a decision",
+     "do a course, do an exam"
+    ],
+    [
+     "make money",
+     "do business"
+    ],
+    [
+     "make a phone call",
+     "do someone a favour"
+    ],
+    [
+     "make friends, make a noise",
+     "do your best, do sport"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "hacer = make o do",
+   "text": "El español usa <i>hacer</i> para todo, el inglés no. Aprende las combinaciones de la tabla como fijas. Y ojo: <i>tomar una decisión</i> es <b>make a decision</b>, no <i>take</i>; <i>hacer un examen</i> es <b>do / take an exam</b>; <i>aprobar</i> es <b>pass</b> y <i>suspender</i> es <b>fail</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. get"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.4,
+    6.6
+   ],
+   "head": [
+    "Significado",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "recibir",
+     "I got a letter.",
+     "Recibí una carta."
+    ],
+    [
+     "traer, comprar",
+     "Can you get some bread?",
+     "¿Puedes comprar pan?"
+    ],
+    [
+     "ponerse, hacerse",
+     "It's getting dark.",
+     "Se está haciendo de noche."
+    ],
+    [
+     "llegar",
+     "We got home at ten.",
+     "Llegamos a casa a las diez."
+    ],
+    [
+     "entender, pillar",
+     "I don't get it.",
+     "No lo pillo."
+    ],
+    [
+     "coger (transporte)",
+     "Let's get a taxi.",
+     "Cojamos un taxi."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La educación, los medios y el medio ambiente"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La educación",
+   "items": [
+    [
+     "subject",
+     "asignatura"
+    ],
+    [
+     "degree",
+     "título"
+    ],
+    [
+     "course",
+     "curso"
+    ],
+    [
+     "lecture",
+     "clase (en la universidad), conferencia"
+    ],
+    [
+     "to revise",
+     "estudiar para un examen"
+    ],
+    [
+     "to pass an exam",
+     "aprobar un examen"
+    ],
+    [
+     "to fail an exam",
+     "suspender un examen"
+    ],
+    [
+     "mark",
+     "nota"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los medios",
+   "items": [
+    [
+     "the news",
+     "las noticias"
+    ],
+    [
+     "newspaper",
+     "periódico"
+    ],
+    [
+     "headline",
+     "titular"
+    ],
+    [
+     "article",
+     "artículo"
+    ],
+    [
+     "advert",
+     "anuncio, publicidad"
+    ],
+    [
+     "social media",
+     "redes sociales"
+    ],
+    [
+     "to post",
+     "publicar, colgar"
+    ],
+    [
+     "to share",
+     "compartir"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "El medio ambiente",
+   "items": [
+    [
+     "environment",
+     "medio ambiente"
+    ],
+    [
+     "pollution",
+     "contaminación"
+    ],
+    [
+     "climate change",
+     "cambio climático"
+    ],
+    [
+     "rubbish",
+     "basura, residuos"
+    ],
+    [
+     "to recycle",
+     "reciclar"
+    ],
+    [
+     "renewable energy",
+     "energía renovable"
+    ],
+    [
+     "to waste",
+     "desperdiciar, malgastar"
+    ],
+    [
+     "to protect",
+     "proteger"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Falsos amigos",
+   "bullets": [
+    "<b>eventually</b> = al final, finalmente, no <i>eventualmente</i> (eso es <b>possibly</b>).",
+    "<b>actually</b> = en realidad, no <i>actualmente</i> (eso es <b>currently</b> o <b>nowadays</b>).",
+    "<b>lecture</b> = clase, conferencia, no <i>lectura</i> (eso es <b>reading</b>); <b>library</b> = biblioteca, no <i>librería</i> (eso es <b>bookshop</b>).",
+    "<b>embarrassed</b> = avergonzado, no <i>embarazada</i> (eso es <b>pregnant</b>)."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Can you look ______ my cat while I'm away?",
+     "hint": "cuidar",
+     "a": "after",
+     "full": "Can you look after my cat while I'm away?"
+    },
+    {
+     "q": "I'm looking ______ my glasses. Have you seen them?",
+     "hint": "buscar",
+     "a": "for",
+     "full": "I'm looking for my glasses. Have you seen them?"
+    },
+    {
+     "q": "It's cold. Put ______ your coat.",
+     "hint": "ponerse",
+     "a": "on",
+     "full": "It's cold. Put on your coat."
+    },
+    {
+     "q": "The light is on. Can you turn it ______?",
+     "hint": "apagar",
+     "a": "off",
+     "full": "The light is on. Can you turn it off?"
+    },
+    {
+     "q": "We've run out ______ milk.",
+     "hint": "preposición",
+     "a": "of",
+     "full": "We've run out of milk."
+    },
+    {
+     "q": "Everybody ______ mistakes.",
+     "hint": "make o do",
+     "a": "makes",
+     "full": "Everybody makes mistakes."
+    },
+    {
+     "q": "I have to ______ my homework tonight.",
+     "hint": "make o do",
+     "a": "do",
+     "full": "I have to do my homework tonight."
+    },
+    {
+     "q": "We need to ______ a decision today.",
+     "hint": "make o do",
+     "a": "make",
+     "full": "We need to make a decision today."
+    },
+    {
+     "q": "It's ______ cold. Let's go inside.",
+     "hint": "get, ponerse",
+     "a": "getting",
+     "full": "It's getting cold. Let's go inside."
+    },
+    {
+     "q": "She passed all her ______ at school.",
+     "hint": "exámenes",
+     "a": "exams",
+     "full": "She passed all her exams at school."
+    },
+    {
+     "q": "We should ______ plastic bottles.",
+     "hint": "reciclar",
+     "a": "recycle",
+     "full": "We should recycle plastic bottles."
+    },
+    {
+     "q": "After three hours we ______ found the hotel.",
+     "hint": "al final",
+     "a": "eventually",
+     "full": "After three hours we eventually found the hotel."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Dejé de fumar.",
+     "a": "I gave up smoking."
+    },
+    {
+     "q": "Todo el mundo comete errores.",
+     "a": "Everybody makes mistakes."
+    },
+    {
+     "q": "Se está haciendo de noche.",
+     "a": "It's getting dark."
+    },
+    {
+     "q": "No lo pillo.",
+     "a": "I don't get it."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
