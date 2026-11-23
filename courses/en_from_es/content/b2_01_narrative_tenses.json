@@ -1,0 +1,307 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "Los tiempos narrativos",
+  "subtitle": "Todos los tiempos del pasado en una historia, used to y would, y be used to",
+  "footer": "Language Learning · B2 · Verbos · Tiempos narrativos",
+  "next": "Siguiente: B2 · pdf 2 — Las formas del futuro"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "contar una historia con el past simple, el past continuous, el past perfect y el past perfect continuous",
+    "describir costumbres del pasado con <b>used to</b> y <b>would</b>",
+    "distinguir <b>used to do</b>, <b>be used to doing</b> y <b>get used to doing</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Cuatro tiempos en una historia"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    5.0,
+    7.6
+   ],
+   "head": [
+    "Tiempo",
+    "Función",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "past simple",
+     "los sucesos, en orden",
+     "I opened the door and saw a man."
+    ],
+    [
+     "past continuous",
+     "el fondo, lo que estaba pasando",
+     "It was raining and the wind was blowing."
+    ],
+    [
+     "past perfect",
+     "lo que ya había pasado antes",
+     "Someone had broken the window."
+    ],
+    [
+     "past perfect continuous",
+     "cuánto tiempo llevaba pasando algo",
+     "He had been waiting for hours."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<i>It <b>was getting</b> dark when I <b>arrived</b> at the station. I <b>had been travelling</b> all day and I was exhausted. When I <b>looked</b> for my ticket, I <b>realised</b> that I <b>had left</b> it on the train.</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Del español al inglés",
+   "text": "En una historia, el <b>indefinido</b> (<i>abrí, vi</i>) es el <b>past simple</b>; el <b>imperfecto</b> que describe el fondo (<i>llovía, estaba lloviendo</i>) es el <b>past continuous</b>; el <b>pluscuamperfecto</b> (<i>había roto</i>) es el <b>past perfect</b>; y <i>llevaba horas esperando</i> es el <b>past perfect continuous</b>. Pero el imperfecto de estados (<i>estaba cansado, tenía hambre</i>) va en past simple: <b>I was tired</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. used to y would"
+  },
+  {
+   "type": "p",
+   "text": "Para costumbres y estados del pasado que ya no existen, se usa <b>used to</b> + verbo, como <i>solía</i> o el imperfecto: <i>vivía en Sevilla</i> = <b>I used to live in Seville</b>. Para <i>acciones</i> repetidas (no estados) también vale <b>would</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I used to live in Utrecht.",
+     "Antes vivía en Utrecht."
+    ],
+    [
+     "She didn't use to like coffee.",
+     "Antes no le gustaba el café."
+    ],
+    [
+     "Did you use to play football?",
+     "¿Jugabas al fútbol de pequeño?"
+    ],
+    [
+     "Every summer we would go camping.",
+     "Todos los veranos íbamos de camping."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "would no sirve para los estados",
+   "text": "<i>I <b>used to</b> have long hair</i> está bien, <i>I would have long hair</i> no: tener, vivir, gustar y ser son estados. Y después de did y didn't se escribe <b>use to</b>, sin d. Ojo también: <b>used to</b> solo existe en pasado; para el presente, <i>suelo levantarme</i> es <b>I usually get up</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. be used to y get used to"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Significado"
+   ],
+   "rows": [
+    [
+     "used to + verbo",
+     "I used to drive on the right.",
+     "antes lo hacía"
+    ],
+    [
+     "be used to + -ing",
+     "I'm used to driving on the left now.",
+     "estoy acostumbrado"
+    ],
+    [
+     "get used to + -ing",
+     "I'm getting used to the cold.",
+     "me estoy acostumbrando"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "estar acostumbrado a = be used to + -ing",
+   "text": "Después de <b>be used to</b> y <b>get used to</b>, <i>to</i> es una preposición, así que va seguido de <b>-ing</b> o de un sustantivo: <i>I'm used to <b>getting up</b> early. I'm used to <b>the noise</b>.</i> Nunca <i>I'm used to get up</i>, aunque en español digas <i>acostumbrado a levantarme</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yesterday I have lost my keys.",
+     "Yesterday I lost my keys.",
+     "Un momento terminado: past simple."
+    ],
+    [
+     "When I arrived, the film already started.",
+     "When I arrived, the film had already started.",
+     "Lo que ya había pasado: past perfect."
+    ],
+    [
+     "I would have a dog when I was young.",
+     "I used to have a dog when I was young.",
+     "Un estado: used to."
+    ],
+    [
+     "Did you used to live here?",
+     "Did you use to live here?",
+     "Después de did: use to."
+    ],
+    [
+     "I'm used to get up early.",
+     "I'm used to getting up early.",
+     "be used to + -ing."
+    ],
+    [
+     "I use to play tennis as a child.",
+     "I used to play tennis as a child.",
+     "Antes, en el pasado: used to."
+    ],
+    [
+     "She was living here for ten years when she moved.",
+     "She had been living here for ten years when she moved.",
+     "Cuánto tiempo llevaba antes de un momento: had been + -ing."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "While I ______ dinner, the phone rang.",
+     "hint": "cook",
+     "a": "was cooking",
+     "full": "While I was cooking dinner, the phone rang."
+    },
+    {
+     "q": "When we got to the cinema, the film ______.",
+     "hint": "start, ya antes",
+     "a": "had started",
+     "full": "When we got to the cinema, the film had started."
+    },
+    {
+     "q": "He was tired because he ______ all night.",
+     "hint": "work, cuánto tiempo",
+     "a": "had been working",
+     "full": "He was tired because he had been working all night."
+    },
+    {
+     "q": "I ______ to live in a small village.",
+     "hint": "antes",
+     "a": "used",
+     "full": "I used to live in a small village."
+    },
+    {
+     "q": "Did you ______ to have long hair?",
+     "hint": "use",
+     "a": "use",
+     "full": "Did you use to have long hair?"
+    },
+    {
+     "q": "Every Sunday my grandfather ______ take us to the park.",
+     "hint": "acción repetida",
+     "a": "would",
+     "full": "Every Sunday my grandfather would take us to the park."
+    },
+    {
+     "q": "I'm not used to ______ on the left.",
+     "hint": "drive",
+     "a": "driving",
+     "full": "I'm not used to driving on the left."
+    },
+    {
+     "q": "You'll soon get used to ______ in a big city.",
+     "hint": "live",
+     "a": "living",
+     "full": "You'll soon get used to living in a big city."
+    },
+    {
+     "q": "She ______ her keys, so she couldn't get in.",
+     "hint": "lose, ya antes",
+     "a": "had lost",
+     "full": "She had lost her keys, so she couldn't get in."
+    },
+    {
+     "q": "The sun ______ and the birds were singing.",
+     "hint": "shine, fondo",
+     "a": "was shining",
+     "full": "The sun was shining and the birds were singing."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Antes vivía en Utrecht.",
+     "a": "I used to live in Utrecht."
+    },
+    {
+     "q": "Estoy acostumbrado a levantarme temprano.",
+     "a": "I'm used to getting up early."
+    },
+    {
+     "q": "Ayer perdí el bolso.",
+     "a": "Yesterday I lost my bag."
+    },
+    {
+     "q": "Cuando llegué, él ya se había ido.",
+     "a": "When I arrived, he had already left."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

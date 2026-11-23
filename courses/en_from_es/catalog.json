@@ -317,5 +317,27 @@
   "subtitle": "Phrasal verbs básicos, make o do, los muchos significados de get, la educación, los medios y el medio ambiente",
   "content": "b1_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_01_Los_tiempos_narrativos",
+  "file": "B2_01_Los_tiempos_narrativos.pdf",
+  "level": "B2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "Los tiempos narrativos",
+  "subtitle": "Todos los tiempos del pasado en una historia, used to y would, y be used to",
+  "content": "b2_01_narrative_tenses.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B2_02_Las_formas_del_futuro",
+  "file": "B2_02_Las_formas_del_futuro.pdf",
+  "level": "B2",
+  "number": 2,
+  "section": "Verbos",
+  "title": "Las formas del futuro",
+  "subtitle": "future continuous, future perfect, be about to, be due to y el futuro en el pasado",
+  "content": "b2_02_future_forms.json",
+  "exercise_count": 10
  }
 ]

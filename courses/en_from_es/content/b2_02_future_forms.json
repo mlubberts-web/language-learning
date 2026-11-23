@@ -1,0 +1,326 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "Las formas del futuro",
+  "subtitle": "future continuous, future perfect, be about to, be due to y el futuro en el pasado",
+  "footer": "Language Learning · B2 · Verbos · El futuro",
+  "next": "Siguiente: B2 · pdf 3 — Las condicionales 3 y mixtas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "decir lo que estará pasando en un momento del futuro (<b>will be doing</b>)",
+    "decir lo que ya estará terminado para entonces (<b>will have done</b>)",
+    "usar <b>be about to, be due to, be likely to</b>",
+    "elegir la forma de futuro más adecuada"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Resumen de las formas del futuro"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.0,
+    6.4
+   ],
+   "head": [
+    "Forma",
+    "Uso",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "will",
+     "predicción, decisión del momento, promesa",
+     "I think it'll rain. I'll help you."
+    ],
+    [
+     "going to",
+     "plan, predicción basada en el presente",
+     "I'm going to move. Look, it's going to fall!"
+    ],
+    [
+     "present continuous",
+     "plan acordado",
+     "I'm meeting the boss at ten."
+    ],
+    [
+     "present simple",
+     "horario, programa",
+     "The plane lands at quarter past six."
+    ],
+    [
+     "will be + -ing",
+     "en curso en un momento del futuro",
+     "This time tomorrow I'll be lying on the beach."
+    ],
+    [
+     "will have + participio",
+     "terminado antes de un momento del futuro",
+     "By Friday I'll have finished the report."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Future continuous y future perfect"
+  },
+  {
+   "type": "conj",
+   "verb": "to finish",
+   "meaning": "terminar",
+   "label": "verbo regular",
+   "tense": "future perfect",
+   "forms": [
+    "will have finished",
+    "will have finished",
+    "will have finished",
+    "will have finished",
+    "will have finished",
+    "will have finished"
+   ],
+   "examples": [
+    [
+     "I'll have finished by six.",
+     "A las seis habré terminado."
+    ],
+    [
+     "Will you have finished by Monday?",
+     "¿Habrás terminado el lunes?"
+    ],
+    [
+     "She'll have finished her degree by June.",
+     "En junio habrá terminado la carrera."
+    ],
+    [
+     "We'll have finished the house by spring.",
+     "En primavera habrán terminado la casa."
+    ],
+    [
+     "You'll have finished the course by then.",
+     "Para entonces habréis terminado el curso."
+    ],
+    [
+     "They won't have finished before Christmas.",
+     "No habrán terminado antes de Navidad."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "El <b>future continuous</b> es el <i>estaré haciendo</i> del español: <i>Don't call at eight; I'll be having dinner.</i> (No llames a las ocho; estaré cenando.) También sirve como pregunta educada sobre planes: <i>Will you be using the car tonight?</i> (¿Vas a necesitar el coche esta noche?)"
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "by = para, como muy tarde",
+   "text": "Con el future perfect va a menudo <b>by</b>: <i>by Friday</i> = para el viernes, <i>by the time you arrive</i> = para cuando llegues. No uses <i>until</i> ni <i>for</i>: <i>Lo tendré terminado para el viernes</i> = <b>I'll have finished it by Friday</b>, nunca <i>until Friday</i>. Y después de <i>para cuando</i>, present simple: <i>by the time you <b>arrive</b></i>, no <i>will arrive</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Otras formas de futuro"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Forma",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "be about to",
+     "Hurry up, the train is about to leave.",
+     "El tren está a punto de salir."
+    ],
+    [
+     "be due to",
+     "The meeting is due to start at nine.",
+     "Está previsto que la reunión empiece a las nueve."
+    ],
+    [
+     "be likely to",
+     "Prices are likely to rise.",
+     "Es probable que suban los precios."
+    ],
+    [
+     "be bound to",
+     "You're bound to pass. You've worked so hard.",
+     "Seguro que apruebas."
+    ],
+    [
+     "be on the point of",
+     "She was on the point of leaving.",
+     "Estaba a punto de irse."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. El futuro en el pasado"
+  },
+  {
+   "type": "p",
+   "text": "Para mirar al futuro desde el pasado se usa <b>was going to</b> y <b>would</b>: <i>I <b>was going to</b> call you, but I forgot.</i> (Iba a llamarte, pero se me olvidó.) <i>She knew she <b>would</b> miss him.</i> (Sabía que lo echaría de menos.)"
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "At ten tomorrow I will lie on the beach.",
+     "At ten tomorrow I will be lying on the beach.",
+     "En curso en un momento: will be + -ing."
+    ],
+    [
+     "I will finish it until Friday.",
+     "I will have finished it by Friday.",
+     "Como muy tarde: by, con el future perfect."
+    ],
+    [
+     "The train is about leaving.",
+     "The train is about to leave.",
+     "be about to + verbo."
+    ],
+    [
+     "When I will arrive, I'll call you.",
+     "When I arrive, I'll call you.",
+     "Después de when: present simple."
+    ],
+    [
+     "I wanted to call you, but I forgot it.",
+     "I was going to call you, but I forgot.",
+     "Un plan en el pasado: was going to."
+    ],
+    [
+     "Prices are likely rise.",
+     "Prices are likely to rise.",
+     "be likely to + verbo."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma de futuro correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "This time next week I ______ in Spain.",
+     "hint": "ski, en curso",
+     "a": "will be skiing",
+     "full": "This time next week I will be skiing in Spain."
+    },
+    {
+     "q": "By 2030 they ______ the new bridge.",
+     "hint": "build, terminado",
+     "a": "will have built",
+     "full": "By 2030 they will have built the new bridge."
+    },
+    {
+     "q": "Quick, the film is ______ to start!",
+     "hint": "a punto de",
+     "a": "about",
+     "full": "Quick, the film is about to start!"
+    },
+    {
+     "q": "The plane is ______ to land at six.",
+     "hint": "según lo previsto",
+     "a": "due",
+     "full": "The plane is due to land at six."
+    },
+    {
+     "q": "I'll have finished the report ______ Monday.",
+     "hint": "como muy tarde, para",
+     "a": "by",
+     "full": "I'll have finished the report by Monday."
+    },
+    {
+     "q": "Don't phone at seven. I ______ dinner.",
+     "hint": "have, en curso",
+     "a": "will be having",
+     "full": "Don't phone at seven. I will be having dinner."
+    },
+    {
+     "q": "I ______ going to visit you, but my car broke down.",
+     "hint": "was o were",
+     "a": "was",
+     "full": "I was going to visit you, but my car broke down."
+    },
+    {
+     "q": "She's very talented. She's ______ to win.",
+     "hint": "seguro que",
+     "a": "bound",
+     "full": "She's very talented. She's bound to win."
+    },
+    {
+     "q": "By the time you get home, I ______ to bed.",
+     "hint": "go, terminado",
+     "a": "will have gone",
+     "full": "By the time you get home, I will have gone to bed."
+    },
+    {
+     "q": "______ you be using the car this evening?",
+     "hint": "pregunta educada",
+     "a": "Will",
+     "full": "Will you be using the car this evening?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Para el viernes habré terminado el informe.",
+     "a": "I'll have finished the report by Friday."
+    },
+    {
+     "q": "Mañana a estas horas estaré tumbado en la playa.",
+     "a": "This time tomorrow I'll be lying on the beach."
+    },
+    {
+     "q": "El tren está a punto de salir.",
+     "a": "The train is about to leave."
+    },
+    {
+     "q": "Iba a llamarte.",
+     "a": "I was going to call you."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
