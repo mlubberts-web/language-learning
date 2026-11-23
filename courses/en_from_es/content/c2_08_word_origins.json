@@ -1,0 +1,323 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "El origen de las palabras",
+  "subtitle": "Las capas germánica y latina, palabras españolas en inglés, y familias de palabras",
+  "footer": "Language Learning · C2 · Vocabulario · El origen de las palabras",
+  "next": "Siguiente: C2 · pdf 9 — El vocabulario especializado"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "reconocer y usar la diferencia entre palabras germánicas y latinas",
+    "reconocer palabras españolas en inglés",
+    "descifrar palabras desconocidas a través de sus raíces",
+    "elegir el registro adecuado con tus palabras"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Dos capas: germánica y latina"
+  },
+  {
+   "type": "p",
+   "text": "El inglés es una lengua germánica, como el alemán y el neerlandés, pero después de 1066 llegaron miles de palabras francesas y latinas. Por eso a menudo hay dos palabras para lo mismo: una corta y cotidiana <b>germánica</b> y otra más larga y formal <b>latina</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Germánica (cotidiana)",
+    "Latina / francesa (formal)",
+    "Español"
+   ],
+   "rows": [
+    [
+     "ask",
+     "enquire, request",
+     "preguntar, pedir"
+    ],
+    [
+     "buy",
+     "purchase",
+     "comprar"
+    ],
+    [
+     "help",
+     "assist",
+     "ayudar"
+    ],
+    [
+     "begin",
+     "commence",
+     "empezar, comenzar"
+    ],
+    [
+     "end",
+     "terminate, conclude",
+     "terminar, concluir"
+    ],
+    [
+     "freedom",
+     "liberty",
+     "libertad"
+    ],
+    [
+     "deep",
+     "profound",
+     "profundo"
+    ],
+    [
+     "house",
+     "residence",
+     "casa, residencia"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Una ventaja y una trampa para los hispanohablantes",
+   "text": "Las palabras latinas te resultan fáciles: <i>commence</i> (comenzar), <i>residence</i> (residencia), <i>profound</i> (profundo), <i>liberty</i> (libertad). Por eso los hispanohablantes tienden a usarlas siempre, y su inglés suena demasiado formal: <i>I will commence</i> en lugar de <i>I'll start</i>. Al hablar, elige las palabras germánicas cortas: <b>ask, buy, help, start, end</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Palabras españolas en inglés"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Del español",
+   "items": [
+    [
+     "mosquito",
+     "mosquito"
+    ],
+    [
+     "patio",
+     "patio"
+    ],
+    [
+     "plaza",
+     "plaza (mayor)"
+    ],
+    [
+     "siesta",
+     "siesta"
+    ],
+    [
+     "tornado",
+     "tornado"
+    ],
+    [
+     "canyon",
+     "cañón (de un río)"
+    ],
+    [
+     "ranch",
+     "rancho"
+    ],
+    [
+     "alligator",
+     "caimán (de 'el lagarto')"
+    ],
+    [
+     "cockroach",
+     "cucaracha"
+    ],
+    [
+     "guerrilla",
+     "guerrilla"
+    ],
+    [
+     "embargo",
+     "embargo"
+    ],
+    [
+     "armada",
+     "armada (flota)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Del Nuevo Mundo y del mar",
+   "text": "Muchas de estas palabras entraron en el inglés a partir del siglo XVI, por el contacto con España en el mar y en América: <i>armada, embargo, mosquito</i> y, en el oeste de Estados Unidos, <i>ranch, canyon, rodeo</i>. Ojo con la pronunciación: en inglés suenan muy distintas (<i>patio</i> = 'pátiou', <i>canyon</i> = 'kánien')."
+  },
+  {
+   "type": "h1",
+   "text": "3. Raíces latinas y griegas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.2,
+    4.4,
+    9.4
+   ],
+   "head": [
+    "Raíz",
+    "Significado",
+    "Ejemplos"
+   ],
+   "rows": [
+    [
+     "dict",
+     "decir",
+     "dictate, predict, contradict"
+    ],
+    [
+     "port",
+     "llevar",
+     "transport, export, portable"
+    ],
+    [
+     "scrib / script",
+     "escribir",
+     "describe, manuscript, prescription"
+    ],
+    [
+     "spect",
+     "mirar",
+     "inspect, spectator, perspective"
+    ],
+    [
+     "bene",
+     "bien, bueno",
+     "benefit, beneficial, benevolent"
+    ],
+    [
+     "chron",
+     "tiempo",
+     "chronic, chronology, synchronise"
+    ],
+    [
+     "phil",
+     "amar",
+     "philosophy, philanthropist"
+    ],
+    [
+     "graph",
+     "escribir",
+     "photograph, biography, autograph"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra formal (latina). Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "You can ______ tickets online.",
+     "hint": "formal por buy",
+     "a": "purchase",
+     "full": "You can purchase tickets online."
+    },
+    {
+     "q": "The ceremony will ______ at ten.",
+     "hint": "formal por begin",
+     "a": "commence",
+     "full": "The ceremony will commence at ten."
+    },
+    {
+     "q": "Staff will ______ you with your luggage.",
+     "hint": "formal por help",
+     "a": "assist",
+     "full": "Staff will assist you with your luggage."
+    },
+    {
+     "q": "I would like to ______ about your prices.",
+     "hint": "formal por ask",
+     "a": "enquire",
+     "full": "I would like to enquire about your prices."
+    },
+    {
+     "q": "The war had a ______ effect on the country.",
+     "hint": "formal por deep",
+     "a": "profound",
+     "full": "The war had a profound effect on the country."
+    },
+    {
+     "q": "The doctor gave me a ______ for antibiotics.",
+     "hint": "scrib / script",
+     "a": "prescription",
+     "full": "The doctor gave me a prescription for antibiotics."
+    },
+    {
+     "q": "Nobody can ______ the future.",
+     "hint": "dict: predecir",
+     "a": "predict",
+     "full": "Nobody can predict the future."
+    },
+    {
+     "q": "Regular exercise is ______ for your health.",
+     "hint": "bene: bueno",
+     "a": "beneficial",
+     "full": "Regular exercise is beneficial for your health."
+    },
+    {
+     "q": "We had lunch on the ______ in the sun.",
+     "hint": "del español: patio",
+     "a": "patio",
+     "full": "We had lunch on the patio in the sun."
+    },
+    {
+     "q": "He suffers from a ______ illness.",
+     "hint": "chron: crónico",
+     "a": "chronic",
+     "full": "He suffers from a chronic illness."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Puede comprar las entradas por internet.",
+     "a": "You can purchase tickets online."
+    },
+    {
+     "q": "La reunión comienza a las nueve.",
+     "a": "The meeting will commence at nine."
+    },
+    {
+     "q": "El ejercicio es bueno para la salud.",
+     "a": "Exercise is beneficial for your health."
+    },
+    {
+     "q": "Nadie puede predecir el futuro.",
+     "a": "Nobody can predict the future."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

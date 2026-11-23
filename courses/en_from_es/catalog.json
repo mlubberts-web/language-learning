@@ -603,5 +603,27 @@
   "subtitle": "Informes, propuestas y cartas; formulaciones comerciales y jurídicas",
   "content": "c2_06_formal_writing.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_07_Expresiones_argot_y_lengua_coloquial",
+  "file": "C2_07_Expresiones_argot_y_lengua_coloquial.pdf",
+  "level": "C2",
+  "number": 7,
+  "section": "Vocabulario",
+  "title": "Expresiones, argot y lengua coloquial",
+  "subtitle": "El inglés coloquial británico, modismos, muletillas y registros informales",
+  "content": "c2_07_idioms_slang.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_08_El_origen_de_las_palabras",
+  "file": "C2_08_El_origen_de_las_palabras.pdf",
+  "level": "C2",
+  "number": 8,
+  "section": "Vocabulario",
+  "title": "El origen de las palabras",
+  "subtitle": "Las capas germánica y latina, palabras españolas en inglés, y familias de palabras",
+  "content": "c2_08_word_origins.json",
+  "exercise_count": 10
  }
 ]

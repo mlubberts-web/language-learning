@@ -1,0 +1,372 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 7,
+  "total_in_level": 10,
+  "title": "Expresiones, argot y lengua coloquial",
+  "subtitle": "El inglés coloquial británico, modismos, muletillas y registros informales",
+  "footer": "Language Learning · C2 · Vocabulario · Lengua coloquial",
+  "next": "Siguiente: C2 · pdf 8 — El origen de las palabras"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "entender el inglés coloquial y el argot británicos más frecuentes",
+    "usar los modismos en el momento adecuado",
+    "reconocer las muletillas y las palabras de la conversación",
+    "pasar del registro informal al neutro"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Ojo:</b> estas palabras sobre todo tienes que <b>reconocerlas</b>. Úsalas solo con gente a la que conoces bien; en un examen o en un texto formal no tienen cabida."
+  },
+  {
+   "type": "h1",
+   "text": "1. El inglés coloquial británico"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras que se oyen en todas partes",
+   "items": [
+    [
+     "mate",
+     "colega, tío"
+    ],
+    [
+     "cheers",
+     "gracias, salud, chao"
+    ],
+    [
+     "brilliant",
+     "genial"
+    ],
+    [
+     "knackered",
+     "hecho polvo"
+    ],
+    [
+     "gutted",
+     "muy decepcionado, chafado"
+    ],
+    [
+     "chuffed",
+     "contento, orgulloso"
+    ],
+    [
+     "skint",
+     "sin blanca, pelado"
+    ],
+    [
+     "dodgy",
+     "turbio, de poca confianza"
+    ],
+    [
+     "to fancy",
+     "apetecer, gustar"
+    ],
+    [
+     "a quid",
+     "una libra"
+    ],
+    [
+     "a cuppa",
+     "una taza de té"
+    ],
+    [
+     "to have a go",
+     "intentarlo"
+    ],
+    [
+     "rubbish",
+     "basura, tonterías"
+    ],
+    [
+     "loo",
+     "váter"
+    ],
+    [
+     "bloke",
+     "tío, tipo"
+    ],
+    [
+     "to reckon",
+     "creer, pensar"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Cheers significa tres cosas",
+   "text": "Un británico dice <b>cheers</b> al brindar (¡salud!), al dar las gracias (<i>Cheers, mate!</i>) y a veces al despedirse. Y <b>brilliant</b> en la lengua coloquial significa simplemente <i>genial</i>, no siempre <i>brillante</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Los modismos"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Modismos frecuentes",
+   "items": [
+    [
+     "to beat around the bush",
+     "andarse por las ramas"
+    ],
+    [
+     "to bite the bullet",
+     "hacer de tripas corazón"
+    ],
+    [
+     "to call it a day",
+     "dejarlo por hoy"
+    ],
+    [
+     "to cut corners",
+     "hacer las cosas a medias, chapucear"
+    ],
+    [
+     "to get cold feet",
+     "echarse atrás en el último momento"
+    ],
+    [
+     "to pull someone's leg",
+     "tomar el pelo a alguien"
+    ],
+    [
+     "to sit on the fence",
+     "nadar entre dos aguas"
+    ],
+    [
+     "to spill the beans",
+     "irse de la lengua"
+    ],
+    [
+     "the ball is in your court",
+     "ahora te toca a ti"
+    ],
+    [
+     "a blessing in disguise",
+     "no hay mal que por bien no venga"
+    ],
+    [
+     "to go the extra mile",
+     "ir más allá, hacer un esfuerzo extra"
+    ],
+    [
+     "to miss the boat",
+     "perder el tren"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Modismos parecidos y engañosos",
+   "text": "Algunos modismos son iguales en español: <i>to break the ice</i> (romper el hielo), <i>to miss the boat</i> (perder el tren, aunque en inglés es un barco). Otros solo se parecen. Antes de traducir literalmente un modismo español, comprueba siempre que existe: <i>tomar el pelo</i> es <b>to pull someone's leg</b>, no <i>to take the hair</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Muletillas y palabras de la conversación"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.0,
+    7.0
+   ],
+   "head": [
+    "Palabra",
+    "Función",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "like",
+     "duda, cita (como 'en plan')",
+     "And she was like, \"No way!\""
+    ],
+    [
+     "you know",
+     "contacto con el oyente (como '¿sabes?')",
+     "It's, you know, a bit complicated."
+    ],
+    [
+     "I mean",
+     "explicación, corrección (como 'o sea')",
+     "It's cheap. I mean, not really cheap, but okay."
+    ],
+    [
+     "sort of / kind of",
+     "vaguedad (como 'más o menos')",
+     "I sort of agree."
+    ],
+    [
+     "anyway",
+     "volver al tema (como 'bueno, pues')",
+     "Anyway, as I was saying ..."
+    ],
+    [
+     "right",
+     "empezar, confirmar (como 'bueno', 'vale')",
+     "Right, let's get started."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Informal y neutro"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Informal",
+    "Neutro",
+    "Español"
+   ],
+   "rows": [
+    [
+     "I'm knackered.",
+     "I'm very tired.",
+     "Estoy hecho polvo."
+    ],
+    [
+     "I'm skint.",
+     "I haven't got any money.",
+     "Estoy sin blanca."
+    ],
+    [
+     "That's rubbish.",
+     "That's not true / not good.",
+     "Eso son tonterías."
+    ],
+    [
+     "Do you fancy a pint?",
+     "Would you like a drink?",
+     "¿Te apetece una caña?"
+    ],
+    [
+     "I reckon he's right.",
+     "I think he's right.",
+     "Creo que tiene razón."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I worked twelve hours today. I'm absolutely ______.",
+     "hint": "hecho polvo",
+     "a": "knackered",
+     "full": "I worked twelve hours today. I'm absolutely knackered."
+    },
+    {
+     "q": "She was ______ when she didn't get the job.",
+     "hint": "muy decepcionada",
+     "a": "gutted",
+     "full": "She was gutted when she didn't get the job."
+    },
+    {
+     "q": "Do you ______ a cup of tea?",
+     "hint": "apetecer",
+     "a": "fancy",
+     "full": "Do you fancy a cup of tea?"
+    },
+    {
+     "q": "Stop beating around the ______ and tell me.",
+     "hint": "andarse por las ramas",
+     "a": "bush",
+     "full": "Stop beating around the bush and tell me."
+    },
+    {
+     "q": "It's late. Let's call it a ______.",
+     "hint": "dejarlo por hoy",
+     "a": "day",
+     "full": "It's late. Let's call it a day."
+    },
+    {
+     "q": "Who spilled the ______ about the party?",
+     "hint": "irse de la lengua",
+     "a": "beans",
+     "full": "Who spilled the beans about the party?"
+    },
+    {
+     "q": "I've made my offer. The ball is in your ______.",
+     "hint": "te toca",
+     "a": "court",
+     "full": "I've made my offer. The ball is in your court."
+    },
+    {
+     "q": "He got cold ______ the day before the wedding.",
+     "hint": "echarse atrás",
+     "a": "feet",
+     "full": "He got cold feet the day before the wedding."
+    },
+    {
+     "q": "Losing that job was a blessing in ______.",
+     "hint": "no hay mal que por bien no venga",
+     "a": "disguise",
+     "full": "Losing that job was a blessing in disguise."
+    },
+    {
+     "q": "I ______ it'll rain later.",
+     "hint": "creer (coloquial)",
+     "a": "reckon",
+     "full": "I reckon it'll rain later."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés (coloquial):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Estoy sin blanca.",
+     "a": "I'm skint."
+    },
+    {
+     "q": "Dejémoslo por hoy.",
+     "a": "Let's call it a day."
+    },
+    {
+     "q": "¡Me estás tomando el pelo!",
+     "a": "You're pulling my leg!"
+    },
+    {
+     "q": "¿Te apetece una taza de té?",
+     "a": "Do you fancy a cup of tea?"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
