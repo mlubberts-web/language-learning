@@ -493,5 +493,16 @@
   "subtitle": "The subjunctive (Leve de koning, Het zij zo), old case forms (ten slotte, ter plaatse) and wiens, wier, diens",
   "content": "c1_06_fixed_formal_forms.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_07_Collocations_and_fixed_expressions",
+  "file": "C1_07_Collocations_and_fixed_expressions.pdf",
+  "level": "C1",
+  "number": 7,
+  "section": "Vocabulary",
+  "title": "Collocations and fixed expressions",
+  "subtitle": "een poging doen, een conclusie trekken; strengtheners like doodmoe and ijskoud; and word pairs like af en toe",
+  "content": "c1_07_collocations.json",
+  "exercise_count": 12
  }
 ]

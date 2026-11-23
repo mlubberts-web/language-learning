@@ -1,0 +1,68 @@
+{
+ "meta": {"level": "C1", "section": "Vocabulary", "number": 7, "total_in_level": 10,
+  "title": "Collocations and fixed expressions",
+  "subtitle": "een poging doen, een conclusie trekken; strengtheners like doodmoe and ijskoud; and word pairs like af en toe",
+  "footer": "Language Learning · C1 · Vocabulary · Collocations",
+  "next": "Next: C1 · pdf 8 — Spelling and punctuation"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "use natural verb + noun combinations (<i>een conclusie trekken</i>)",
+   "use the Dutch strengtheners (<i>doodmoe, ijskoud, spiksplinternieuw</i>)",
+   "use fixed word pairs in the right order (<i>af en toe, heen en weer</i>)",
+   "sound more natural and precise at C1 level"]},
+  {"type": "h1", "text": "1. Verb + noun"},
+  {"type": "verbpairs", "title": "Verb + noun", "items": [
+   ["een poging doen", "to make an attempt"], ["een voorstel doen", "to make a proposal"], ["een bezoek brengen", "to pay a visit"],
+   ["een conclusie trekken", "to draw a conclusion"], ["kritiek uiten", "to voice criticism"], ["schade aanrichten", "to cause damage"],
+   ["een rol spelen", "to play a role"], ["in aanmerking komen voor", "to be eligible for"], ["de aandacht trekken", "to attract attention"],
+   ["een belofte nakomen", "to keep a promise"], ["een beslissing nemen", "to make a decision"], ["een vraag beantwoorden", "to answer a question"]]},
+  {"type": "callout", "kind": "note", "title": "doen, nemen, maken, brengen", "text": "English uses <i>make</i> and <i>take</i> for most combinations; Dutch spreads them over more verbs: <b>een poging doen</b> (make an attempt), <b>een besluit nemen</b> (make a decision), <b>een foto maken</b> (take a photo), <b>een bezoek brengen</b> (pay a visit), <b>een conclusie trekken</b> (draw). Translating the English verb is often wrong."},
+  {"type": "h1", "text": "2. Strengtheners"},
+  {"type": "p", "text": "Dutch can strengthen an adjective with a fixed first part. Each adjective has its own: you can't swap them. They are very common in speech and make your Dutch sound natural."},
+  {"type": "verbpairs", "title": "Strengthened adjectives", "items": [
+   ["doodmoe", "dead tired"], ["ijskoud", "ice-cold"], ["snoeiheet", "boiling hot"], ["kurkdroog", "bone-dry"],
+   ["stokoud", "ancient, very old"], ["spiksplinternieuw", "brand new"], ["oersaai", "deadly boring"], ["beresterk", "incredibly strong"],
+   ["bloedheet", "sweltering"], ["kerngezond", "perfectly healthy"], ["doodsimpel", "dead easy"], ["peperduur", "very expensive"]]},
+  {"type": "callout", "kind": "tip", "title": "Written as one word", "text": "These strengtheners are written as one word, like all compounds: <b>ijskoud, doodmoe, peperduur</b>. And they don't usually take <i>heel</i> or <i>erg</i>: not <i>heel ijskoud</i>, but simply <b>ijskoud</b>."},
+  {"type": "h1", "text": "3. Word pairs"},
+  {"type": "p", "text": "Some word pairs have a fixed order that can't be reversed, like English <i>ups and downs</i>. Sometimes the Dutch order is the opposite of the English one."},
+  {"type": "verbpairs", "title": "Fixed word pairs", "items": [
+   ["af en toe", "now and then"], ["zo nu en dan", "every now and then"], ["heen en weer", "back and forth"],
+   ["op en neer", "up and down"], ["vroeg of laat", "sooner or later"], ["min of meer", "more or less"],
+   ["hier en daar", "here and there"], ["kort en goed", "in short"], ["voor- en nadelen", "pros and cons"],
+   ["kant-en-klaar", "ready-made"], ["zwart-wit", "black and white"], ["dag en nacht", "day and night"]]},
+  {"type": "callout", "kind": "warn", "title": "The order can be the opposite", "text": "<i>back and forth</i> is <b>heen en weer</b> (literally: there and back). <i>sooner or later</i> is <b>vroeg of laat</b> (early or late). <i>pros and cons</i> is <b>voor- en nadelen</b> (advantages and disadvantages). Learn each pair as one block."},
+  {"type": "h1", "text": "4. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["een poging maken", "een poging doen", "an attempt: doen."],
+   ["een conclusie maken", "een conclusie trekken", "a conclusion: trekken."],
+   ["een bezoek betalen", "een bezoek brengen", "pay a visit: een bezoek brengen."],
+   ["heel ijskoud", "ijskoud", "No heel before a strengthener."],
+   ["weer en heen", "heen en weer", "Fixed order: heen en weer."],
+   ["laat of vroeg", "vroeg of laat", "Fixed order: vroeg of laat."],
+   ["ijs koud", "ijskoud", "One word."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Hij deed een laatste ______ om haar te overtuigen.", "hint": "attempt", "a": "poging", "full": "Hij deed een laatste poging om haar te overtuigen."},
+   {"q": "Welke conclusie kunnen we hieruit ______?", "hint": "draw", "a": "trekken", "full": "Welke conclusie kunnen we hieruit trekken?"},
+   {"q": "De storm heeft veel schade ______.", "hint": "caused", "a": "aangericht", "full": "De storm heeft veel schade aangericht."},
+   {"q": "Na twaalf uur werken was ik ______.", "hint": "dead tired", "a": "doodmoe", "full": "Na twaalf uur werken was ik doodmoe."},
+   {"q": "Het water in de zee was ______.", "hint": "ice-cold", "a": "ijskoud", "full": "Het water in de zee was ijskoud."},
+   {"q": "Die auto is ______: hij kost een fortuin.", "hint": "very expensive", "a": "peperduur", "full": "Die auto is peperduur: hij kost een fortuin."},
+   {"q": "Ik zie hem af en ______.", "hint": "now and then", "a": "toe", "full": "Ik zie hem af en toe."},
+   {"q": "Hij liep zenuwachtig heen en ______.", "hint": "back and forth", "a": "weer", "full": "Hij liep zenuwachtig heen en weer."},
+   {"q": "Vroeg of ______ komt hij erachter.", "hint": "sooner or later", "a": "laat", "full": "Vroeg of laat komt hij erachter."},
+   {"q": "We hebben alle voor- en ______ besproken.", "hint": "cons", "a": "nadelen", "full": "We hebben alle voor- en nadelen besproken."},
+   {"q": "Je komt in ______ voor een subsidie.", "hint": "eligible", "a": "aanmerking", "full": "Je komt in aanmerking voor een subsidie."},
+   {"q": "Ze heeft haar belofte ______.", "hint": "kept", "a": "nagekomen", "full": "Ze heeft haar belofte nagekomen."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "He made an attempt.", "a": "Hij deed een poging."},
+   {"q": "I was dead tired.", "a": "Ik was doodmoe."},
+   {"q": "Sooner or later he'll find out.", "a": "Vroeg of laat komt hij erachter."},
+   {"q": "now and then", "a": "af en toe"}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
