@@ -1,0 +1,79 @@
+{"meta": {"level": "B2", "section": "Woordenschat", "number": 5, "total_in_level": 10,
+ "title": "Phrasal verbs",
+ "subtitle": "Scheidbare en onscheidbare phrasal verbs, drieledige werkwoorden en de tachtig nuttigste",
+ "footer": "Language Learning · B2 · Woordenschat · Phrasal verbs",
+ "next": "Volgende: B2 · pdf 6 — Voorzetsels en vaste voorzetsels"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "het verschil tussen scheidbare en onscheidbare phrasal verbs gebruiken",
+  "voornaamwoorden op de goede plek zetten (<i>pick it up</i>)",
+  "drieledige phrasal verbs gebruiken (<i>look forward to, get on with</i>)",
+  "de betekenis van veelvoorkomende partikels herkennen"]},
+
+ {"type": "h1", "text": "1. Scheidbaar of onscheidbaar"},
+ {"type": "table", "style": "plain", "widths": [4.2, 6.4, 6.4], "head": ["Soort", "Voorbeeld", "Met it / him / them"], "rows": [
+  ["scheidbaar", "Turn off the TV. / Turn the TV off.", "Turn it off. (nooit turn off it)"],
+  ["onscheidbaar", "I'm looking after my sister.", "I'm looking after her."],
+  ["zonder voorwerp", "The plane took off.", "—"],
+  ["drieledig", "I'm looking forward to the holiday.", "I'm looking forward to it."]]},
+ {"type": "callout", "kind": "dutch", "title": "Net als scheidbare werkwoorden", "text": "Het Nederlands kent scheidbare werkwoorden: <i>Ik zet de tv uit</i>. Het Engels werkt deels hetzelfde: <b>I turn the TV off</b>. Het grote verschil: een voornaamwoord <b>moet</b> in het midden: <b>Turn it off</b>."},
+
+ {"type": "h1", "text": "2. Wat betekenen de partikels?"},
+ {"type": "table", "style": "plain", "widths": [2.6, 6.0, 8.4], "head": ["Partikel", "Betekenis", "Voorbeelden"], "rows": [
+  ["up", "helemaal, af, omhoog", "eat up, use up, tidy up, give up, grow up"],
+  ["down", "minder, omlaag, op papier", "slow down, cut down on, write down, turn down"],
+  ["out", "eruit, helemaal, ontdekken", "find out, run out, work out, sort out, point out"],
+  ["off", "weg, stoppen, vertrekken", "take off, set off, put off, call off, turn off"],
+  ["on", "doorgaan, aan", "carry on, go on, keep on, put on, get on"],
+  ["back", "terug", "call back, pay back, come back, get back"]]},
+
+ {"type": "h1", "text": "3. Werk en dagelijks leven"},
+ {"type": "verbpairs", "title": "Werk en plannen", "items": [
+  ["carry out", "uitvoeren"], ["set up", "opzetten, oprichten"], ["call off", "afgelasten"], ["put off", "uitstellen"],
+  ["take on", "aannemen, op zich nemen"], ["turn down", "afwijzen"], ["deal with", "afhandelen, omgaan met"], ["point out", "erop wijzen"],
+  ["work out", "uitrekenen, oplossen, sporten"], ["sort out", "regelen, oplossen"], ["fill in", "invullen"], ["hand in", "inleveren"],
+  ["back up", "steunen, een back-up maken"], ["bring up", "ter sprake brengen, opvoeden"], ["come up with", "bedenken"], ["catch up with", "inhalen, bijpraten"]]},
+ {"type": "verbpairs", "title": "Mensen en relaties", "items": [
+  ["get on with", "goed overweg kunnen met"], ["fall out with", "ruzie krijgen met"], ["make up", "het goedmaken"], ["break up", "uit elkaar gaan"],
+  ["look up to", "opkijken naar"], ["look down on", "neerkijken op"], ["put up with", "verdragen, pikken"], ["let down", "teleurstellen"],
+  ["count on", "rekenen op"], ["take after", "lijken op (ouder)"], ["grow up", "opgroeien"], ["settle down", "zich settelen"]]},
+ {"type": "verbpairs", "title": "Problemen en situaties", "items": [
+  ["break down", "kapotgaan, instorten"], ["run out of", "zonder komen te zitten"], ["get over", "over iets heen komen"], ["go off", "afgaan (alarm), bederven"],
+  ["turn up", "komen opdagen, harder zetten"], ["show up", "komen opdagen"], ["end up", "uiteindelijk belanden"], ["cut down on", "minderen met"],
+  ["give in", "toegeven"], ["look into", "onderzoeken"], ["stand out", "opvallen"], ["take up", "beginnen met (hobby)"]]},
+ {"type": "callout", "kind": "warn", "title": "Eén werkwoord, veel betekenissen", "text": "<b>take off</b> = opstijgen, uittrekken én een succes worden. <b>pick up</b> = oppakken, ophalen, een taal oppikken. De zin bepaalt de betekenis: lees altijd de hele zin."},
+
+ {"type": "h1", "text": "4. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["Can you pick up it?", "Can you pick it up?", "Een voornaamwoord staat in het midden."],
+  ["I'm looking forward to see you.", "I'm looking forward to seeing you.", "to is een voorzetsel: -ing."],
+  ["They called the meeting out.", "They called the meeting off.", "Afgelasten: call off."],
+  ["I can't put up her behaviour.", "I can't put up with her behaviour.", "Verdragen: put up with."],
+  ["We run out milk.", "We've run out of milk.", "run out of + naamwoord."],
+  ["He took after the job.", "He took on the job.", "Op zich nemen: take on."],
+  ["I get on well her.", "I get on well with her.", "get on with + persoon."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende partikel in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The match was called ______ because of the rain.", "hint": "afgelast", "a": "off", "full": "The match was called off because of the rain."},
+  {"q": "I can't come ______ with a good idea.", "hint": "bedenken", "a": "up", "full": "I can't come up with a good idea."},
+  {"q": "She takes ______ her father. They're both very calm.", "hint": "lijken op", "a": "after", "full": "She takes after her father. They're both very calm."},
+  {"q": "We've run out ______ coffee.", "hint": "voorzetsel", "a": "of", "full": "We've run out of coffee."},
+  {"q": "It took him months to get ______ the flu.", "hint": "over iets heen komen", "a": "over", "full": "It took him months to get over the flu."},
+  {"q": "I don't know the answer. I'll look ______ it.", "hint": "onderzoeken", "a": "into", "full": "I don't know the answer. I'll look into it."},
+  {"q": "Don't put ______ until tomorrow what you can do today.", "hint": "uitstellen", "a": "off", "full": "Don't put off until tomorrow what you can do today."},
+  {"q": "She turned ______ the job because the salary was too low.", "hint": "afwijzen", "a": "down", "full": "She turned down the job because the salary was too low."},
+  {"q": "How do you put up ______ that noise?", "hint": "verdragen", "a": "with", "full": "How do you put up with that noise?"},
+  {"q": "My car broke ______ on the motorway.", "hint": "kapotgaan", "a": "down", "full": "My car broke down on the motorway."},
+  {"q": "You should cut down ______ sugar.", "hint": "minderen met", "a": "on", "full": "You should cut down on sugar."},
+  {"q": "We ended ______ staying at a small hotel.", "hint": "uiteindelijk", "a": "up", "full": "We ended up staying at a small hotel."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Kun je het oppakken?", "a": "Can you pick it up?"},
+  {"q": "De vergadering is afgelast.", "a": "The meeting has been called off."},
+  {"q": "Ik kan goed met mijn baas overweg.", "a": "I get on well with my boss."},
+  {"q": "Hij kwam niet opdagen.", "a": "He didn't turn up."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

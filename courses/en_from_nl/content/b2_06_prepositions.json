@@ -1,0 +1,92 @@
+{"meta": {"level": "B2", "section": "Grammatica", "number": 6, "total_in_level": 10,
+ "title": "Voorzetsels en vaste voorzetsels",
+ "subtitle": "Werkwoord, bijvoeglijk en zelfstandig naamwoord met een vast voorzetsel, by en until, en in, on en at in detail",
+ "footer": "Language Learning · B2 · Grammatica · Voorzetsels",
+ "next": "Volgende: B2 · pdf 7 — Lidwoorden en bepalingen"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "werkwoorden, bijvoeglijke en zelfstandige naamwoorden met het goede voorzetsel gebruiken",
+  "<b>by</b> en <b>until</b>, <b>for</b> en <b>during</b> onderscheiden",
+  "lastige combinaties met <b>in, on</b> en <b>at</b> goed gebruiken",
+  "de voorzetsels vermijden die Nederlanders letterlijk vertalen"]},
+
+ {"type": "h1", "text": "1. Werkwoord + voorzetsel"},
+ {"type": "verbpairs", "title": "Werkwoorden met een vast voorzetsel", "items": [
+  ["depend on", "afhangen van"], ["believe in", "geloven in"], ["consist of", "bestaan uit"], ["apply for", "solliciteren naar"],
+  ["ask for", "vragen om"], ["wait for", "wachten op"], ["look at", "kijken naar"], ["listen to", "luisteren naar"],
+  ["dream of", "dromen van"], ["think about", "denken aan, nadenken over"], ["insist on", "aandringen op"], ["succeed in", "slagen in"],
+  ["laugh at", "lachen om"], ["apologise for", "zich verontschuldigen voor"], ["agree with", "het eens zijn met"], ["pay for", "betalen voor"]]},
+ {"type": "callout", "kind": "dutch", "title": "Letterlijk vertalen gaat vaak mis", "bullets": [
+  "<i>afhangen <b>van</b></i> = depend <b>on</b> (niet of)",
+  "<i>wachten <b>op</b></i> = wait <b>for</b> (niet on)",
+  "<i>trouwen <b>met</b></i> = marry someone (zonder voorzetsel) of get married <b>to</b>",
+  "<i>bellen</i> = call / phone someone (zonder voorzetsel)",
+  "<i>discussiëren over</i> = discuss something (zonder about)"]},
+
+ {"type": "h1", "text": "2. Bijvoeglijk naamwoord + voorzetsel"},
+ {"type": "verbpairs", "title": "Bijvoeglijke naamwoorden met een vast voorzetsel", "items": [
+  ["good at", "goed in"], ["bad at", "slecht in"], ["interested in", "geïnteresseerd in"], ["afraid of", "bang voor"],
+  ["proud of", "trots op"], ["tired of", "moe van, beu"], ["keen on", "dol op"], ["married to", "getrouwd met"],
+  ["responsible for", "verantwoordelijk voor"], ["different from", "anders dan"], ["similar to", "vergelijkbaar met"], ["angry with", "boos op (persoon)"]]},
+
+ {"type": "h1", "text": "3. Zelfstandig naamwoord + voorzetsel"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.2, 6.4], "head": ["Combinatie", "Voorbeeld", "Nederlands"], "rows": [
+  ["a reason for", "There's no reason for this.", "een reden voor"],
+  ["an increase in", "an increase in prices", "een stijging van"],
+  ["a solution to", "a solution to the problem", "een oplossing voor"],
+  ["an advantage of", "the advantages of city life", "een voordeel van"],
+  ["a cause of", "the main cause of the accident", "een oorzaak van"],
+  ["damage to", "damage to the car", "schade aan"]]},
+
+ {"type": "h1", "text": "4. by of until, for of during"},
+ {"type": "table", "style": "plain", "widths": [3.0, 6.4, 7.6], "head": ["Woord", "Betekenis", "Voorbeeld"], "rows": [
+  ["by", "uiterlijk op, niet later dan", "Please reply by Friday."],
+  ["until / till", "tot (iets duurt tot dat moment)", "I'll wait until six."],
+  ["for", "hoe lang (een periode)", "I lived there for five years."],
+  ["during", "wanneer (binnen een periode)", "I fell asleep during the film."],
+  ["since", "sinds (een beginpunt)", "I've been here since Monday."]]},
+ {"type": "callout", "kind": "warn", "title": "tot = by of until", "text": "<i>Lever het in tot vrijdag</i> is dubbelzinnig in het Nederlands. Bedoel je een deadline, zeg dan <b>by Friday</b>. Duurt iets tot vrijdag, zeg dan <b>until Friday</b>: <i>The shop is closed until Friday.</i>"},
+
+ {"type": "h1", "text": "5. Lastige combinaties met in, on en at"},
+ {"type": "table", "style": "plain", "widths": [5.6, 5.6, 5.8], "head": ["in", "on", "at"], "rows": [
+  ["in the photo", "on the bus / train / plane", "at the weekend (Brits)"],
+  ["in the street", "on the radio / on TV", "at night"],
+  ["in time (op tijd, niet te laat)", "on time (precies op tijd)", "at the end (op het laatst)"],
+  ["in the end (uiteindelijk)", "on holiday", "at the top / bottom"],
+  ["in the car / taxi", "on the internet", "at the moment"]]},
+
+ {"type": "h1", "text": "6. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["It depends of the weather.", "It depends on the weather.", "depend on."],
+  ["I'm waiting on the bus.", "I'm waiting for the bus.", "wait for."],
+  ["She married with a doctor.", "She married a doctor.", "marry zonder voorzetsel."],
+  ["We discussed about the problem.", "We discussed the problem.", "discuss zonder about."],
+  ["I'm good in maths.", "I'm good at maths.", "good at."],
+  ["Send it until Monday.", "Send it by Monday.", "Uiterlijk: by."],
+  ["I slept for the film.", "I slept during the film.", "Binnen een periode: during."],
+  ["She's different than her sister.", "She's different from her sister.", "Brits: different from."]]},
+
+ {"type": "h1", "text": "7. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste voorzetsel in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "The price depends ______ the size.", "hint": "voorzetsel", "a": "on", "full": "The price depends on the size."},
+  {"q": "She's very interested ______ history.", "hint": "voorzetsel", "a": "in", "full": "She's very interested in history."},
+  {"q": "I'm not very good ______ cooking.", "hint": "voorzetsel", "a": "at", "full": "I'm not very good at cooking."},
+  {"q": "We're waiting ______ the results.", "hint": "voorzetsel", "a": "for", "full": "We're waiting for the results."},
+  {"q": "The team consists ______ eleven players.", "hint": "voorzetsel", "a": "of", "full": "The team consists of eleven players."},
+  {"q": "Please send your application ______ 30 June.", "hint": "uiterlijk", "a": "by", "full": "Please send your application by 30 June."},
+  {"q": "The museum is closed ______ next week.", "hint": "tot", "a": "until", "full": "The museum is closed until next week."},
+  {"q": "He phoned me ______ the meeting.", "hint": "tijdens", "a": "during", "full": "He phoned me during the meeting."},
+  {"q": "Is there a solution ______ this problem?", "hint": "voorzetsel", "a": "to", "full": "Is there a solution to this problem?"},
+  {"q": "She's afraid ______ spiders.", "hint": "voorzetsel", "a": "of", "full": "She's afraid of spiders."},
+  {"q": "There has been an increase ______ crime.", "hint": "voorzetsel", "a": "in", "full": "There has been an increase in crime."},
+  {"q": "I heard it ______ the radio.", "hint": "in, on of at", "a": "on", "full": "I heard it on the radio."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Het hangt van het weer af.", "a": "It depends on the weather."},
+  {"q": "Zij is getrouwd met een arts.", "a": "She is married to a doctor."},
+  {"q": "Stuur het uiterlijk vrijdag.", "a": "Send it by Friday."},
+  {"q": "We hebben het probleem besproken.", "a": "We discussed the problem."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

@@ -361,5 +361,27 @@
   "subtitle": "it is said that, he is thought to, de lijdende vorm met modale werkwoorden en infinitieven",
   "content": "b2_04_advanced_passive.json",
   "exercise_count": 10
+ },
+ {
+  "id": "B2_05_Phrasal_verbs",
+  "file": "B2_05_Phrasal_verbs.pdf",
+  "level": "B2",
+  "number": 5,
+  "section": "Woordenschat",
+  "title": "Phrasal verbs",
+  "subtitle": "Scheidbare en onscheidbare phrasal verbs, drieledige werkwoorden en de tachtig nuttigste",
+  "content": "b2_05_phrasal_verbs.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B2_06_Voorzetsels_en_vaste_voorzetsels",
+  "file": "B2_06_Voorzetsels_en_vaste_voorzetsels.pdf",
+  "level": "B2",
+  "number": 6,
+  "section": "Grammatica",
+  "title": "Voorzetsels en vaste voorzetsels",
+  "subtitle": "Werkwoord, bijvoeglijk en zelfstandig naamwoord met een vast voorzetsel, by en until, en in, on en at in detail",
+  "content": "b2_06_prepositions.json",
+  "exercise_count": 12
  }
 ]
