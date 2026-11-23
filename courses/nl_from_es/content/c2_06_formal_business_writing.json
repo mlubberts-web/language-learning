@@ -1,0 +1,336 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Escritura",
+  "number": 6,
+  "total_in_level": 10,
+  "title": "La escritura formal y comercial",
+  "subtitle": "Informes y propuestas, fórmulas comerciales, mocht u ..., el neerlandés oficial y jurídico, y el lenguaje claro",
+  "footer": "Language Learning · C2 · Escritura · Escritura formal y comercial",
+  "next": "Siguiente: C2 · pdf 7 — Modismos, argot y neerlandés hablado"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "estructurar un informe o una propuesta",
+    "usar las fórmulas fijas de las cartas comerciales (<i>Wij betreuren het ...</i>)",
+    "usar la condición con <b>mocht</b>: <i>Mocht u vragen hebben, ...</i>",
+    "leer el neerlandés oficial y jurídico, y reescribirlo en lenguaje claro"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Informes y propuestas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    13.4
+   ],
+   "head": [
+    "Parte",
+    "Expresiones útiles"
+   ],
+   "rows": [
+    [
+     "Objetivo",
+     "<i>Dit rapport heeft tot doel ... In dit voorstel wordt beschreven ...</i>"
+    ],
+    [
+     "Antecedentes",
+     "<i>Naar aanleiding van ... is gebleken dat ...</i>"
+    ],
+    [
+     "Resultados",
+     "<i>Uit het onderzoek blijkt dat ... Een ruime meerderheid gaf aan dat ...</i>"
+    ],
+    [
+     "Recomendaciones",
+     "<i>Wij adviseren om ... Het verdient aanbeveling om ...</i>"
+    ],
+    [
+     "Conclusión",
+     "<i>Op grond van het voorgaande ... Concluderend kan worden gesteld dat ...</i>"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Fórmulas comerciales"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    7.6,
+    5.8
+   ],
+   "head": [
+    "Función",
+    "Fórmula",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Referencia",
+     "Naar aanleiding van uw brief van 3 mei ...",
+     "En relación con su carta del 3 de mayo ..."
+    ],
+    [
+     "Petición",
+     "Wij verzoeken u vriendelijk ...",
+     "Le rogamos que ..."
+    ],
+    [
+     "Adjunto",
+     "Bijgaand treft u ... aan.",
+     "Le adjuntamos ..."
+    ],
+    [
+     "Disculpa",
+     "Onze excuses voor het ongemak.",
+     "Disculpe las molestias."
+    ],
+    [
+     "Malas noticias",
+     "Wij betreuren het u te moeten meedelen dat ...",
+     "Lamentamos comunicarle que ..."
+    ],
+    [
+     "Ofrecer ayuda",
+     "Mocht u nog vragen hebben, dan kunt u contact met ons opnemen.",
+     "Si tuviera cualquier duda, no dude en ponerse en contacto con nosotros."
+    ],
+    [
+     "Cierre",
+     "Wij vertrouwen erop u hiermee voldoende te hebben geïnformeerd.",
+     "Esperamos haberle informado debidamente."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Mocht u ... = Si tuviera ...",
+   "text": "Una condición formal empieza con <b>mocht</b> + sujeto, con el verbo al final: <i><b>Mocht</b> u vragen <b>hebben</b>, dan ...</i> (si tuviera alguna pregunta ..., en caso de que tenga alguna duda ...). La oración principal suele empezar con <b>dan</b>. Donde el español usa subjuntivo (<i>si tuviera, en caso de que tenga</i>), el neerlandés usa esta construcción con mocht, muy frecuente en cartas y correos."
+  },
+  {
+   "type": "h1",
+   "text": "3. El neerlandés oficial y jurídico"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras oficiales",
+   "items": [
+    [
+     "hierbij",
+     "por la presente"
+    ],
+    [
+     "bijgaand",
+     "adjunto"
+    ],
+    [
+     "onderhavig",
+     "el presente (documento)"
+    ],
+    [
+     "voornoemd",
+     "el citado, el mencionado"
+    ],
+    [
+     "desgewenst",
+     "si así lo desea"
+    ],
+    [
+     "ingevolge",
+     "de conformidad con"
+    ],
+    [
+     "krachtens",
+     "en virtud de"
+    ],
+    [
+     "met inachtneming van",
+     "teniendo en cuenta"
+    ],
+    [
+     "behoudens",
+     "salvo, sin perjuicio de"
+    ],
+    [
+     "nietig",
+     "nulo y sin efecto"
+    ],
+    [
+     "de algemene voorwaarden",
+     "condiciones generales"
+    ],
+    [
+     "aansprakelijk voor",
+     "responsable de (legalmente)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Lenguaje claro: Direct Duidelijk",
+   "text": "El Gobierno neerlandés y muchas empresas intentan escribir hoy en lenguaje claro (<b>begrijpelijke taal</b>, campaña <i>Direct Duidelijk</i>), algo que también se promueve en España. <i>Wij verzoeken u vriendelijk bijgaand formulier te retourneren</i> pasa a ser <i>Wilt u het formulier terugsturen?</i> En el nivel C2 deberías saber leer lo primero y escribir lo segundo."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Mocht u vragen heeft, ...",
+     "Mocht u vragen hebben, ...",
+     "Tras mocht: el infinitivo al final."
+    ],
+    [
+     "Als u mocht vragen hebben, dan ...",
+     "Mocht u vragen hebben, dan ...",
+     "Condición formal: empieza con mocht."
+    ],
+    [
+     "Bijgaand vindt u treft aan ...",
+     "Bijgaand treft u ... aan.",
+     "Fija: bijgaand treft u ... aan."
+    ],
+    [
+     "Wij betreuren u te meedelen ...",
+     "Wij betreuren het u te moeten meedelen ...",
+     "Fórmula fija con het y moeten."
+    ],
+    [
+     "Naar aanleiding uw brief ...",
+     "Naar aanleiding van uw brief ...",
+     "naar aanleiding van."
+    ],
+    [
+     "aansprakelijk van schade",
+     "aansprakelijk voor schade",
+     "aansprakelijk voor (no «de» como en «responsable de»)."
+    ],
+    [
+     "met inachtneming de regels",
+     "met inachtneming van de regels",
+     "met inachtneming van."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ u nog vragen hebben, dan kunt u ons bellen.",
+     "hint": "si tuviera",
+     "a": "mocht",
+     "full": "Mocht u nog vragen hebben, dan kunt u ons bellen."
+    },
+    {
+     "q": "Bijgaand ______ u het contract aan.",
+     "hint": "encontrará",
+     "a": "treft",
+     "full": "Bijgaand treft u het contract aan."
+    },
+    {
+     "q": "Wij ______ het u te moeten meedelen dat uw aanvraag is afgewezen.",
+     "hint": "lamentamos",
+     "a": "betreuren",
+     "full": "Wij betreuren het u te moeten meedelen dat uw aanvraag is afgewezen."
+    },
+    {
+     "q": "Wij verzoeken u ______ het formulier te ondertekenen.",
+     "hint": "amablemente",
+     "a": "vriendelijk",
+     "full": "Wij verzoeken u vriendelijk het formulier te ondertekenen."
+    },
+    {
+     "q": "Het ______ aanbeveling om eerst een proef te doen.",
+     "hint": "se recomienda",
+     "a": "verdient",
+     "full": "Het verdient aanbeveling om eerst een proef te doen."
+    },
+    {
+     "q": "Uit het onderzoek ______ dat de klanten tevreden zijn.",
+     "hint": "se desprende",
+     "a": "blijkt",
+     "full": "Uit het onderzoek blijkt dat de klanten tevreden zijn."
+    },
+    {
+     "q": "De verkoper is niet ______ voor schade.",
+     "hint": "responsable",
+     "a": "aansprakelijk",
+     "full": "De verkoper is niet aansprakelijk voor schade."
+    },
+    {
+     "q": "Op onze diensten zijn de algemene ______ van toepassing.",
+     "hint": "condiciones generales",
+     "a": "voorwaarden",
+     "full": "Op onze diensten zijn de algemene voorwaarden van toepassing."
+    },
+    {
+     "q": "______ kunnen wij u een afspraak aanbieden.",
+     "hint": "si así lo desea",
+     "a": "desgewenst",
+     "full": "Desgewenst kunnen wij u een afspraak aanbieden."
+    },
+    {
+     "q": "Het contract is ______ als het niet ondertekend is.",
+     "hint": "nulo",
+     "a": "nietig",
+     "full": "Het contract is nietig als het niet ondertekend is."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Si tuviera alguna pregunta, póngase en contacto con nosotros.",
+     "a": "Mocht u vragen hebben, dan kunt u contact met ons opnemen."
+    },
+    {
+     "q": "Le adjuntamos la factura.",
+     "a": "Bijgaand treft u de factuur aan."
+    },
+    {
+     "q": "Lamentamos comunicarle que ...",
+     "a": "Wij betreuren het u te moeten meedelen dat ..."
+    },
+    {
+     "q": "Disculpe las molestias.",
+     "a": "Onze excuses voor het ongemak."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -592,5 +592,16 @@
   "subtitle": "Figuras retóricas, ironía y lítote, eufemismos, aliteración, y la retórica en discursos y ensayos",
   "content": "c2_05_rhetoric_style.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_06_La_escritura_formal_y_comercial",
+  "file": "C2_06_La_escritura_formal_y_comercial.pdf",
+  "level": "C2",
+  "number": 6,
+  "section": "Escritura",
+  "title": "La escritura formal y comercial",
+  "subtitle": "Informes y propuestas, fórmulas comerciales, mocht u ..., el neerlandés oficial y jurídico, y el lenguaje claro",
+  "content": "c2_06_formal_business_writing.json",
+  "exercise_count": 10
  }
 ]
