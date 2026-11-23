@@ -196,5 +196,16 @@
   "subtitle": "Kom binnen, laten we gaan, zou je ... kunnen, and the softeners even, maar and eens",
   "content": "a2_09_imperative_requests.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_10_Vocabulary_and_phrases",
+  "file": "A2_10_Vocabulary_and_phrases.pdf",
+  "level": "A2",
+  "number": 10,
+  "section": "Vocabulary",
+  "title": "Vocabulary and phrases",
+  "subtitle": "Travel, health, the weather, work, free time, the phone and e-mail, and living in the Netherlands",
+  "content": "a2_10_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]

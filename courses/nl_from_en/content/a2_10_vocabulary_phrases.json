@@ -1,0 +1,76 @@
+{
+ "meta": {"level": "A2", "section": "Vocabulary", "number": 10, "total_in_level": 10,
+  "title": "Vocabulary and phrases",
+  "subtitle": "Travel, health, the weather, work, free time, the phone and e-mail, and living in the Netherlands",
+  "footer": "Language Learning · A2 · Vocabulary and phrases",
+  "next": "Next: B1 · pdf 1"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "How to use these lists", "bullets": [
+   "Cover one column and test yourself in both directions.",
+   "Make sentences with each block in the perfect and the simple past (pdf 1 to 3).",
+   "These words come up often in the integration exam (inburgeringsexamen) at A2."]},
+  {"type": "h1", "text": "1. Travel"},
+  {"type": "verbpairs", "title": "On the way", "items": [
+   ["het kaartje", "ticket"], ["het retourtje", "return ticket"], ["het perron", "platform"], ["de vertraging", "delay"],
+   ["de koffer", "suitcase"], ["het paspoort", "passport"], ["de ov-chipkaart", "public transport card"], ["inchecken", "to check in"],
+   ["overstappen", "to change (trains)"], ["de trein missen", "to miss the train"], ["de vakantie", "holiday"], ["reserveren", "to book"]]},
+  {"type": "callout", "kind": "note", "title": "Travelling in the Netherlands", "text": "On trains, trams and buses you <b>check in</b> and <b>check out</b> with your bank card or an <b>ov-chipkaart</b>. <i>OV</i> stands for <i>openbaar vervoer</i>, public transport. <b>Overstappen</b> means changing trains: <i>U moet in Utrecht overstappen.</i>"},
+  {"type": "h1", "text": "2. Health"},
+  {"type": "verbpairs", "title": "At the doctor's", "items": [
+   ["de huisarts", "GP, family doctor"], ["de afspraak", "appointment"], ["de hoofdpijn", "headache"], ["de buikpijn", "stomach ache"],
+   ["de keelpijn", "sore throat"], ["de griep", "flu"], ["de koorts", "fever, temperature"], ["het medicijn", "medicine"],
+   ["de apotheek", "pharmacy"], ["het recept", "prescription, recipe"], ["ziek", "ill, sick"], ["beter worden", "to get better"]]},
+  {"type": "table", "style": "plain", "widths": [6.6, 6.0, 4.4], "head": ["Dutch", "English", "Note"], "rows": [
+   ["Ik ben verkouden.", "I've got a cold.", "no 'have' in Dutch"],
+   ["Ik heb hoofdpijn.", "I've got a headache.", "no article"],
+   ["Mijn rug doet pijn.", "My back hurts.", "pijn doen"],
+   ["Ik voel me niet lekker.", "I don't feel well.", "zich voelen"],
+   ["Ik wil graag een afspraak maken.", "I'd like to make an appointment.", ""]]},
+  {"type": "h1", "text": "3. The weather"},
+  {"type": "verbpairs", "title": "The weather", "items": [
+   ["zonnig", "sunny"], ["bewolkt", "cloudy"], ["het regent", "it's raining"], ["het waait", "it's windy"],
+   ["het vriest", "it's freezing"], ["het sneeuwt", "it's snowing"], ["de bui", "shower"], ["het onweer", "thunderstorm"],
+   ["de graden", "degrees"], ["het weerbericht", "weather forecast"]]},
+  {"type": "callout", "kind": "tip", "title": "Het waait = it's windy", "text": "Dutch weather is mostly verbs: <b>het regent, het waait, het vriest, het sneeuwt</b>. Ask <b>Wat voor weer is het?</b> (What's the weather like?) and you will hear <i>Het is lekker weer</i> (nice weather) or <i>Het is hondenweer</i> (awful weather)."},
+  {"type": "h1", "text": "4. Work and free time"},
+  {"type": "verbpairs", "title": "Work", "items": [
+   ["de baan", "job"], ["de collega", "colleague"], ["de baas", "boss"], ["het salaris", "salary"],
+   ["de vergadering", "meeting"], ["het kantoor", "office"], ["fulltime", "full-time"], ["parttime", "part-time"],
+   ["solliciteren", "to apply for a job"], ["verdienen", "to earn"]]},
+  {"type": "verbpairs", "title": "Free time", "items": [
+   ["de hobby", "hobby"], ["winkelen", "to go shopping"], ["fietsen", "to cycle"], ["wandelen", "to walk, to go for a walk"],
+   ["voetballen", "to play football"], ["sporten", "to do sport"], ["een film kijken", "to watch a film"], ["afspreken met vrienden", "to meet up with friends"],
+   ["thuisblijven", "to stay at home"], ["uitgaan", "to go out"]]},
+  {"type": "h1", "text": "5. The phone, e-mail and living in the Netherlands"},
+  {"type": "verbpairs", "title": "On the phone and by e-mail", "items": [
+   ["Met Anna.", "Anna speaking."], ["Kan ik Tom spreken?", "Can I speak to Tom?"], ["Een ogenblik, alstublieft.", "One moment, please."],
+   ["Ik bel je terug.", "I'll call you back."], ["Beste meneer De Vries,", "Dear Mr De Vries,"], ["Met vriendelijke groet,", "Kind regards,"]]},
+  {"type": "callout", "kind": "note", "title": "Met Anna = Anna speaking", "text": "The Dutch answer the phone with <b>Met</b> + their name: <i>Met Anna</i> or <i>Met Anna de Vries</i>. Never <i>Ik ben Anna</i> or just <i>Hallo</i>. In e-mails, <b>Beste</b> is normal for both formal and informal letters; <b>Geachte</b> is very formal."},
+  {"type": "verbpairs", "title": "Living in the Netherlands", "items": [
+   ["de gemeente", "town council, municipality"], ["zich inschrijven", "to register"], ["de huur", "rent"], ["de verzekering", "insurance"],
+   ["de zorgverzekering", "health insurance"], ["de belasting", "tax"], ["de buren", "neighbours"], ["het afval", "rubbish, waste"]]},
+  {"type": "h1", "text": "6. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "U moet in Utrecht ______.", "hint": "change trains", "a": "overstappen", "full": "U moet in Utrecht overstappen."},
+   {"q": "De trein heeft twintig minuten ______.", "hint": "delay", "a": "vertraging", "full": "De trein heeft twintig minuten vertraging."},
+   {"q": "Ik ben ______. Ik nies de hele dag.", "hint": "have a cold", "a": "verkouden", "full": "Ik ben verkouden. Ik nies de hele dag."},
+   {"q": "Mijn rug doet ______.", "hint": "hurts", "a": "pijn", "full": "Mijn rug doet pijn."},
+   {"q": "Ik wil graag een ______ maken met de huisarts.", "hint": "appointment", "a": "afspraak", "full": "Ik wil graag een afspraak maken met de huisarts."},
+   {"q": "Wat voor ______ is het vandaag?", "hint": "weather", "a": "weer", "full": "Wat voor weer is het vandaag?"},
+   {"q": "Het ______ hard. Neem een jas mee.", "hint": "it's windy", "a": "waait", "full": "Het waait hard. Neem een jas mee."},
+   {"q": "Hij werkt ______: drie dagen per week.", "hint": "part-time", "a": "parttime", "full": "Hij werkt parttime: drie dagen per week."},
+   {"q": "______ Anna, met wie spreek ik?", "hint": "on the phone", "a": "met", "full": "Met Anna, met wie spreek ik?"},
+   {"q": "Ik bel je straks ______.", "hint": "back", "a": "terug", "full": "Ik bel je straks terug."},
+   {"q": "Je moet je inschrijven bij de ______.", "hint": "municipality", "a": "gemeente", "full": "Je moet je inschrijven bij de gemeente."},
+   {"q": "Met vriendelijke ______,", "hint": "kind regards", "a": "groet", "full": "Met vriendelijke groet,"}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "I've got a cold.", "a": "Ik ben verkouden."},
+   {"q": "Anna speaking.", "a": "Met Anna."},
+   {"q": "It's raining.", "a": "Het regent."},
+   {"q": "My back hurts.", "a": "Mijn rug doet pijn."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
