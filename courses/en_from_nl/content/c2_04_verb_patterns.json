@@ -1,0 +1,76 @@
+{"meta": {"level": "C2", "section": "Grammatica", "number": 4, "total_in_level": 10,
+ "title": "Werkwoordpatronen in de diepte",
+ "subtitle": "Werkwoord + voorwerp + infinitief of -ing, en werkwoorden om iets na te vertellen (accuse of, urge to)",
+ "footer": "Language Learning · C2 · Grammatica · Werkwoordpatronen",
+ "next": "Volgende: C2 · pdf 5 — Retoriek en stijl"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "werkwoorden met een voorwerp en een infinitief of -ing-vorm gebruiken",
+  "precieze werkwoorden kiezen om iets na te vertellen (<i>accuse, urge, deny</i>)",
+  "de patronen van <b>suggest, recommend, insist</b> correct gebruiken",
+  "waarnemingswerkwoorden gebruiken (<i>I saw him leave / leaving</i>)"]},
+
+ {"type": "h1", "text": "1. Werkwoorden om iets na te vertellen"},
+ {"type": "table", "style": "plain", "widths": [4.6, 7.0, 5.4], "head": ["Patroon", "Voorbeeld", "Werkwoorden"], "rows": [
+  ["+ to + werkwoord", "He refused to help.", "agree, offer, promise, threaten, refuse"],
+  ["+ voorwerp + to", "She urged me to apply.", "advise, encourage, warn, persuade, remind, urge"],
+  ["+ -ing", "He denied taking the money.", "admit, deny, suggest, recommend"],
+  ["+ voorzetsel + -ing", "They accused him of lying.", "accuse of, blame for, apologise for, insist on"],
+  ["+ that", "She explained that she was ill.", "explain, claim, admit, point out, insist"]]},
+ {"type": "callout", "kind": "dutch", "title": "Precieze werkwoorden in plaats van say", "text": "In plaats van steeds <i>he said</i> gebruik je op C2-niveau het werkwoord dat de bedoeling weergeeft: <i>\"I'll do it\"</i> → <b>He promised to do it</b>; <i>\"You stole it!\"</i> → <b>She accused him of stealing it</b>; <i>\"Don't touch it\"</i> → <b>He warned me not to touch it</b>."},
+
+ {"type": "h1", "text": "2. suggest, recommend en insist"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Goed", "Fout"], "rows": [
+  ["She suggested going to the cinema.", "She suggested to go to the cinema."],
+  ["She suggested that we (should) go.", "She suggested us to go."],
+  ["I recommend booking early.", "I recommend you to book early. (vermijden)"],
+  ["He insisted on paying.", "He insisted to pay."]]},
+ {"type": "callout", "kind": "warn", "title": "suggest nooit met voorwerp + to", "text": "<b>suggest</b> heeft nooit het patroon <i>suggest someone to do</i>. Gebruik <b>suggest doing</b> of <b>suggest that someone (should) do</b>. Het Nederlandse <i>Hij stelde voor om te gaan</i> = <b>He suggested going</b>."},
+
+ {"type": "h1", "text": "3. Waarnemingswerkwoorden"},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Betekenis"], "rows": [
+  ["I saw him cross the road.", "ik zag de hele handeling"],
+  ["I saw him crossing the road.", "ik zag een deel ervan, hij was bezig"],
+  ["We heard her sing.", "het hele lied"],
+  ["We heard her singing.", "ze was aan het zingen"],
+  ["He was seen to leave. (lijdend: met to)", "men zag hem vertrekken"]]},
+
+ {"type": "h1", "text": "4. Andere patronen"},
+ {"type": "verbpairs", "title": "Werkwoord + voorwerp + voorzetsel", "items": [
+  ["accuse someone of", "iemand beschuldigen van"], ["blame someone for", "iemand de schuld geven van"], ["congratulate someone on", "iemand feliciteren met"],
+  ["prevent someone from", "iemand verhinderen te"], ["remind someone of", "iemand doen denken aan"], ["thank someone for", "iemand bedanken voor"],
+  ["warn someone about", "iemand waarschuwen voor"], ["discourage someone from", "iemand ontmoedigen te"], ["protect someone from", "iemand beschermen tegen"],
+  ["suspect someone of", "iemand verdenken van"]]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["She suggested me to apply.", "She suggested that I apply.", "suggest zonder voorwerp + to."],
+  ["He denied to take the money.", "He denied taking the money.", "deny + -ing."],
+  ["They accused him for lying.", "They accused him of lying.", "accuse of."],
+  ["He insisted to pay the bill.", "He insisted on paying the bill.", "insist on + -ing."],
+  ["The rain prevented us to go out.", "The rain prevented us from going out.", "prevent from + -ing."],
+  ["She congratulated me for my exam.", "She congratulated me on my exam.", "congratulate on."],
+  ["He was seen leave the building.", "He was seen to leave the building.", "Lijdende vorm: seen to."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het juiste woord of de juiste vorm in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "He denied ______ the window.", "hint": "break", "a": "breaking", "full": "He denied breaking the window."},
+  {"q": "She persuaded me ______ the job.", "hint": "take", "a": "to take", "full": "She persuaded me to take the job."},
+  {"q": "They accused her ______ cheating.", "hint": "voorzetsel", "a": "of", "full": "They accused her of cheating."},
+  {"q": "I suggest ______ a taxi.", "hint": "take", "a": "taking", "full": "I suggest taking a taxi."},
+  {"q": "He insisted ______ carrying my bags.", "hint": "voorzetsel", "a": "on", "full": "He insisted on carrying my bags."},
+  {"q": "The fog prevented the plane ______ landing.", "hint": "voorzetsel", "a": "from", "full": "The fog prevented the plane from landing."},
+  {"q": "She warned us not ______ swim there.", "hint": "to", "a": "to", "full": "She warned us not to swim there."},
+  {"q": "We congratulated them ______ their wedding.", "hint": "voorzetsel", "a": "on", "full": "We congratulated them on their wedding."},
+  {"q": "I heard someone ______ my name, but nobody was there.", "hint": "call, hele handeling", "a": "call", "full": "I heard someone call my name, but nobody was there."},
+  {"q": "The suspect was seen ______ the bank.", "hint": "lijdend: to + enter", "a": "to enter", "full": "The suspect was seen to enter the bank."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Hij stelde voor om te gaan wandelen.", "a": "He suggested going for a walk."},
+  {"q": "Ze beschuldigden hem van liegen.", "a": "They accused him of lying."},
+  {"q": "De regen verhinderde ons om buiten te spelen.", "a": "The rain prevented us from playing outside."},
+  {"q": "Zij haalde me over om te blijven.", "a": "She persuaded me to stay."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

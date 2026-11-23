@@ -1,0 +1,76 @@
+{"meta": {"level": "C2", "section": "Grammatica", "number": 3, "total_in_level": 10,
+ "title": "Complexe zinnen",
+ "subtitle": "Bijzinnen in de diepte, losse constructies, whatever en however, en lange zinnen helder houden",
+ "footer": "Language Learning · C2 · Grammatica · Complexe zinnen",
+ "next": "Volgende: C2 · pdf 4 — Werkwoordpatronen in de diepte"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "zinnen bouwen met meerdere bijzinnen, zonder dat ze onduidelijk worden",
+  "losse constructies gebruiken (<i>The work done, we went home.</i>)",
+  "<b>whatever, whoever, however, wherever</b> gebruiken",
+  "toegeving uitdrukken met <b>much as, however much, be that as it may</b>"]},
+
+ {"type": "h1", "text": "1. Losse constructies"},
+ {"type": "p", "text": "Een losse constructie (<i>absolute construction</i>) heeft een eigen onderwerp en een deelwoord. Ze zijn formeel en literair."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Engels", "Nederlands"], "rows": [
+  ["The work done, we went home.", "Toen het werk af was, gingen we naar huis."],
+  ["Weather permitting, the match will be played.", "Als het weer het toelaat, wordt de wedstrijd gespeeld."],
+  ["All things considered, it was a success.", "Alles bij elkaar genomen was het een succes."],
+  ["He sat there, his eyes closed.", "Hij zat daar met gesloten ogen."],
+  ["There being no further questions, the meeting ended.", "Omdat er geen vragen meer waren, werd de vergadering gesloten."]]},
+
+ {"type": "h1", "text": "2. whatever, whoever, however, wherever"},
+ {"type": "table", "style": "plain", "widths": [4.0, 7.0, 6.0], "head": ["Woord", "Voorbeeld", "Nederlands"], "rows": [
+  ["whatever", "Whatever you decide, I'll support you.", "Wat je ook besluit, ..."],
+  ["whoever", "Whoever wins, it will be a great game.", "Wie er ook wint, ..."],
+  ["however + bijv. nw.", "However hard I try, I can't do it.", "Hoe hard ik het ook probeer, ..."],
+  ["wherever", "Wherever you go, you'll find tourists.", "Waar je ook heen gaat, ..."],
+  ["whenever", "Call me whenever you like.", "Bel me wanneer je maar wilt."],
+  ["no matter what / how", "No matter what happens, stay calm.", "Wat er ook gebeurt, ..."]]},
+ {"type": "callout", "kind": "dutch", "title": "Wat ... ook = whatever", "text": "Het Nederlandse patroon <i>wat ... ook</i>, <i>hoe ... ook</i>, <i>waar ... ook</i> is in het Engels één woord: <b>whatever, however, wherever</b>. Na however staat het bijvoeglijk naamwoord direct: <b>however hard</b>, <b>however much</b>."},
+
+ {"type": "h1", "text": "3. Toegeving"},
+ {"type": "table", "style": "plain", "widths": [4.4, 6.6, 6.0], "head": ["Structuur", "Voorbeeld", "Nederlands"], "rows": [
+  ["much as", "Much as I like him, I can't trust him.", "Hoe graag ik hem ook mag, ..."],
+  ["however much", "However much it costs, we'll buy it.", "Hoeveel het ook kost, ..."],
+  ["try as I might", "Try as I might, I couldn't open it.", "Hoe ik het ook probeerde, ..."],
+  ["for all", "For all his money, he isn't happy.", "Ondanks al zijn geld ..."],
+  ["be that as it may", "Be that as it may, we must decide.", "Hoe het ook zij, ..."]]},
+
+ {"type": "h1", "text": "4. Lange zinnen helder houden"},
+ {"type": "bullets", "items": [
+  "Zet het onderwerp en het werkwoord dicht bij elkaar; lange toevoegingen liever achteraan.",
+  "Gebruik niet meer dan twee bijzinnen in één zin; anders liever twee zinnen.",
+  "Herhaal het onderwerp als de zin lang is: <i>The committee, which met three times last month, has decided ...</i>",
+  "Gebruik komma's rond uitbreidende delen, en geen komma's rond beperkende delen (B1 · pdf 5)."]},
+
+ {"type": "h1", "text": "5. Veelgemaakte fouten"},
+ {"type": "mistakes", "rows": [
+  ["However I try hard, I can't do it.", "However hard I try, I can't do it.", "however + bijv. nw. direct erachter."],
+  ["What you decide, I'll help you.", "Whatever you decide, I'll help you.", "Wat ... ook = whatever."],
+  ["Much as I like him, but I can't trust him.", "Much as I like him, I can't trust him.", "much as en but niet samen."],
+  ["The work was done, we went home.", "The work done, we went home.", "Losse constructie: deelwoord zonder was."],
+  ["Who wins, it will be exciting.", "Whoever wins, it will be exciting.", "Wie ... ook = whoever."]]},
+
+ {"type": "h1", "text": "6. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "______ you do, don't tell her.", "hint": "wat ... ook", "a": "Whatever", "full": "Whatever you do, don't tell her."},
+  {"q": "______ hard I work, I never finish on time.", "hint": "hoe ... ook", "a": "However", "full": "However hard I work, I never finish on time."},
+  {"q": "______ you go, I'll follow you.", "hint": "waar ... ook", "a": "Wherever", "full": "Wherever you go, I'll follow you."},
+  {"q": "______ wins the election will face a difficult task.", "hint": "wie ... ook", "a": "Whoever", "full": "Whoever wins the election will face a difficult task."},
+  {"q": "______ as I like her, I don't agree with her.", "hint": "hoe graag ... ook", "a": "Much", "full": "Much as I like her, I don't agree with her."},
+  {"q": "Weather ______, we'll have a barbecue.", "hint": "permit", "a": "permitting", "full": "Weather permitting, we'll have a barbecue."},
+  {"q": "The decision ______, we went out to celebrate.", "hint": "make, deelwoord", "a": "made", "full": "The decision made, we went out to celebrate."},
+  {"q": "For ______ his talent, he never became famous.", "hint": "ondanks al", "a": "all", "full": "For all his talent, he never became famous."},
+  {"q": "No ______ what happens, stay calm.", "hint": "wat er ook", "a": "matter", "full": "No matter what happens, stay calm."},
+  {"q": "Try as I ______, I couldn't remember her name.", "hint": "hoe ik het ook probeerde", "a": "might", "full": "Try as I might, I couldn't remember her name."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Wat je ook besluit, ik steun je.", "a": "Whatever you decide, I'll support you."},
+  {"q": "Hoe hard ik het ook probeer, het lukt me niet.", "a": "However hard I try, I can't do it."},
+  {"q": "Als het weer het toelaat, gaan we zeilen.", "a": "Weather permitting, we'll go sailing."},
+  {"q": "Ondanks al zijn geld is hij niet gelukkig.", "a": "For all his money, he isn't happy."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

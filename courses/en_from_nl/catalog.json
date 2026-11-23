@@ -559,5 +559,27 @@
   "subtitle": "Vooropplaatsing (fronting), weglating (ellipsis) en vervanging met so, not en do so",
   "content": "c2_02_word_order.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_03_Complexe_zinnen",
+  "file": "C2_03_Complexe_zinnen.pdf",
+  "level": "C2",
+  "number": 3,
+  "section": "Grammatica",
+  "title": "Complexe zinnen",
+  "subtitle": "Bijzinnen in de diepte, losse constructies, whatever en however, en lange zinnen helder houden",
+  "content": "c2_03_complex_sentences.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C2_04_Werkwoordpatronen_in_de_diepte",
+  "file": "C2_04_Werkwoordpatronen_in_de_diepte.pdf",
+  "level": "C2",
+  "number": 4,
+  "section": "Grammatica",
+  "title": "Werkwoordpatronen in de diepte",
+  "subtitle": "Werkwoord + voorwerp + infinitief of -ing, en werkwoorden om iets na te vertellen (accuse of, urge to)",
+  "content": "c2_04_verb_patterns.json",
+  "exercise_count": 10
  }
 ]
