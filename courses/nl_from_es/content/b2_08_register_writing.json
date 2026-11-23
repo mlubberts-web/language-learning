@@ -1,0 +1,381 @@
+{
+ "meta": {
+  "level": "B2",
+  "section": "Escritura",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Registro y escritura",
+  "subtitle": "u y jij, correos formales e informales, expresiones fijas y las tareas de escritura del Staatsexamen",
+  "footer": "Language Learning · B2 · Escritura · Registro y escritura",
+  "next": "Siguiente: B2 · pdf 9 — Los Países Bajos y Flandes"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre <b>u</b> y <b>jij</b> por escrito",
+    "escribir un correo formal y uno informal con el saludo y la despedida correctos",
+    "usar las expresiones fijas del neerlandés de empresa",
+    "abordar las tareas de escritura del Staatsexamen NT2"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Formal e informal"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    6.4,
+    5.2
+   ],
+   "head": [
+    "Informal",
+    "Formal",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Bedankt voor je mail.",
+     "Hartelijk dank voor uw e-mail.",
+     "Gracias por su correo."
+    ],
+    [
+     "Ik wil graag weten ...",
+     "Ik zou graag willen weten ...",
+     "Me gustaría saber ..."
+    ],
+    [
+     "Kun je ... sturen?",
+     "Zou u ... kunnen sturen?",
+     "¿Podría enviar ...?"
+    ],
+    [
+     "krijgen",
+     "ontvangen",
+     "recibir"
+    ],
+    [
+     "kopen",
+     "aanschaffen",
+     "comprar, adquirir"
+    ],
+    [
+     "vragen",
+     "verzoeken",
+     "solicitar"
+    ],
+    [
+     "sorry",
+     "excuses voor het ongemak",
+     "disculpe las molestias"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El neerlandés escrito es breve y directo",
+   "text": "Un correo de empresa neerlandés va al grano enseguida: una línea de contexto y luego la pregunta. Las introducciones largas y muy corteses, habituales en español, suenan raras. Muchas empresas e incluso la administración escriben hoy a sus clientes con <b>je</b>, igual que en España se tutea cada vez más. Ante la duda, sigue el estilo de quien te escribió y usa <b>u</b> en el primer contacto."
+  },
+  {
+   "type": "h1",
+   "text": "2. Correos y cartas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    7.0,
+    6.4
+   ],
+   "head": [
+    "Parte",
+    "Formal",
+    "Informal"
+   ],
+   "rows": [
+    [
+     "Saludo",
+     "Geachte heer De Vries, / Geachte mevrouw Jansen,",
+     "Hoi Sam, / Beste Anna,"
+    ],
+    [
+     "Neutro",
+     "Beste meneer De Vries, / Beste mevrouw Jansen,",
+     "(Beste también sirve para compañeros)"
+    ],
+    [
+     "Motivo",
+     "Naar aanleiding van uw brief van 3 mei ...",
+     "Ik schrijf je omdat ..."
+    ],
+    [
+     "Adjunto",
+     "In de bijlage vindt u ...",
+     "Ik stuur je ... mee."
+    ],
+    [
+     "Frase final",
+     "Ik hoor graag van u.",
+     "Laat je snel wat horen?"
+    ],
+    [
+     "Despedida",
+     "Met vriendelijke groet, (muy formal: Hoogachtend,)",
+     "Groetjes, / Groet, / Liefs, (amigos íntimos)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Mayúsculas tras el saludo y en los apellidos",
+   "text": "Tras <i>Geachte heer De Vries,</i> la primera frase empieza en una línea nueva con <b>mayúscula</b>, como siempre (en español, tras los dos puntos de <i>Estimado señor:</i>, también). Y el apellido con <i>de</i> o <i>van</i> lleva mayúscula tras un tratamiento o solo: <i>meneer <b>De</b> Vries</i>, pero <i>Jan <b>de</b> Vries</i>."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones fijas del neerlandés de empresa",
+   "items": [
+    [
+     "Naar aanleiding van ...",
+     "En relación con ..., Con motivo de ..."
+    ],
+    [
+     "Hierbij stuur ik u ...",
+     "Le adjunto ..."
+    ],
+    [
+     "In de bijlage vindt u ...",
+     "Encontrará adjunto ..."
+    ],
+    [
+     "Bij voorbaat dank.",
+     "Gracias de antemano."
+    ],
+    [
+     "Ik hoor graag van u.",
+     "Quedo a la espera de su respuesta."
+    ],
+    [
+     "Excuses voor het ongemak.",
+     "Disculpe las molestias."
+    ],
+    [
+     "Met vriendelijke groet,",
+     "Un cordial saludo,"
+    ],
+    [
+     "Zou u zo vriendelijk willen zijn ...",
+     "¿Sería tan amable de ...?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Las tareas de escritura del Staatsexamen"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    12.0
+   ],
+   "head": [
+    "Tarea",
+    "Consejos"
+   ],
+   "rows": [
+    [
+     "Rellenar un formulario",
+     "Respuestas cortas, frases completas donde se pidan; revisa las fechas y la ortografía."
+    ],
+    [
+     "Un correo (queja, petición, reacción)",
+     "Saludo, motivo, pregunta o petición, frase final, despedida. Responde a todos los puntos de la tarea."
+    ],
+    [
+     "Un texto corto (opinión, descripción)",
+     "Introducción, dos o tres párrafos con conectores (B1 · pdf 9) y una conclusión."
+    ],
+    [
+     "Resumen",
+     "Solo las ideas principales, con tus propias palabras, sin opinión."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Usa conectores y varía las frases",
+   "text": "Los examinadores buscan un texto bien unido: <b>ten eerste, daarnaast, bovendien, aan de andere kant, kortom</b>. Combina oraciones principales y subordinadas (<i>omdat, hoewel, zodat</i>) y revisa el orden de las palabras de cada frase. No escribas frases tan largas como en español: dos frases cortas suelen ser mejor que una muy larga."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Geachte meneer De Vries,",
+     "Geachte heer De Vries,",
+     "Formal: Geachte heer.",
+     "consejo"
+    ],
+    [
+     "Lieve meneer Jansen,",
+     "Beste meneer Jansen,",
+     "Lieve (querido) es solo para la familia y los amigos íntimos."
+    ],
+    [
+     "Met vriendelijke groeten, Hoogachtend,",
+     "Met vriendelijke groet,",
+     "Una sola despedida."
+    ],
+    [
+     "In de bijlage vind u de factuur.",
+     "In de bijlage vindt u de factuur.",
+     "u + verbo: raíz + t."
+    ],
+    [
+     "Ik hoor graag van jou, Hoogachtend",
+     "Ik hoor graag van u. Hoogachtend,",
+     "No mezcles u y jij."
+    ],
+    [
+     "Naar aanleiding uw brief",
+     "Naar aanleiding van uw brief",
+     "Expresión fija: naar aanleiding van."
+    ],
+    [
+     "Ik verzoek u om mij te sturen het formulier.",
+     "Ik verzoek u mij het formulier te sturen.",
+     "El infinitivo va al final."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ heer Bakker,",
+     "hint": "saludo formal",
+     "a": "geachte",
+     "full": "Geachte heer Bakker,"
+    },
+    {
+     "q": "Naar ______ van uw e-mail van 12 maart ...",
+     "hint": "en relación con",
+     "a": "aanleiding",
+     "full": "Naar aanleiding van uw e-mail van 12 maart ..."
+    },
+    {
+     "q": "In de bijlage ______ u het contract.",
+     "hint": "vinden, u",
+     "a": "vindt",
+     "full": "In de bijlage vindt u het contract."
+    },
+    {
+     "q": "Ik zou graag willen ______ wanneer de cursus begint.",
+     "hint": "saber",
+     "a": "weten",
+     "full": "Ik zou graag willen weten wanneer de cursus begint."
+    },
+    {
+     "q": "Excuses voor het ______.",
+     "hint": "molestias",
+     "a": "ongemak",
+     "full": "Excuses voor het ongemak."
+    },
+    {
+     "q": "Bij ______ dank.",
+     "hint": "de antemano",
+     "a": "voorbaat",
+     "full": "Bij voorbaat dank."
+    },
+    {
+     "q": "Ik hoor graag ______ u.",
+     "hint": "de",
+     "a": "van",
+     "full": "Ik hoor graag van u."
+    },
+    {
+     "q": "Met vriendelijke ______,",
+     "hint": "un cordial saludo",
+     "a": "groet",
+     "full": "Met vriendelijke groet,"
+    },
+    {
+     "q": "Wij hebben uw bestelling in goede orde ______.",
+     "hint": "recibir, formal",
+     "a": "ontvangen",
+     "full": "Wij hebben uw bestelling in goede orde ontvangen."
+    },
+    {
+     "q": "______ stuur ik u mijn cv.",
+     "hint": "por la presente, adjunto",
+     "a": "hierbij",
+     "full": "Hierbij stuur ik u mijn cv."
+    },
+    {
+     "q": "Zou u zo ______ willen zijn mij terug te bellen?",
+     "hint": "amable",
+     "a": "vriendelijk",
+     "full": "Zou u zo vriendelijk willen zijn mij terug te bellen?"
+    },
+    {
+     "q": "______ eerste is het te duur, en bovendien is het lelijk.",
+     "hint": "en primer lugar",
+     "a": "ten",
+     "full": "Ten eerste is het te duur, en bovendien is het lelijk."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés (formal):</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Gracias por su correo.",
+     "a": "Hartelijk dank voor uw e-mail."
+    },
+    {
+     "q": "Encontrará adjunta la factura.",
+     "a": "In de bijlage vindt u de factuur."
+    },
+    {
+     "q": "Quedo a la espera de su respuesta.",
+     "a": "Ik hoor graag van u."
+    },
+    {
+     "q": "Disculpe las molestias.",
+     "a": "Excuses voor het ongemak."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

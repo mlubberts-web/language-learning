@@ -394,5 +394,16 @@
   "subtitle": "het, dit y dat como sujeto, die y dat solos, elkaar, zichzelf, y men, je y ze",
   "content": "b2_07_pronouns_depth.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B2_08_Registro_y_escritura",
+  "file": "B2_08_Registro_y_escritura.pdf",
+  "level": "B2",
+  "number": 8,
+  "section": "Escritura",
+  "title": "Registro y escritura",
+  "subtitle": "u y jij, correos formales e informales, expresiones fijas y las tareas de escritura del Staatsexamen",
+  "content": "b2_08_register_writing.json",
+  "exercise_count": 12
  }
 ]
