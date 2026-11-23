@@ -1,0 +1,441 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Verbos",
+  "number": 7,
+  "total_in_level": 9,
+  "title": "El present continuous",
+  "subtitle": "am / is / are + -ing: lo que pasa ahora, las situaciones temporales y la diferencia con el present simple",
+  "footer": "Language Learning · A1 · Verbos · Present continuous",
+  "next": "Siguiente: A1 · pdf 8 — El orden de las palabras y las preguntas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el present continuous con <b>am / is / are + -ing</b>",
+    "escribir bien la forma en -ing",
+    "decir lo que está pasando ahora y lo que es temporal",
+    "elegir entre el present simple y el present continuous"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "p",
+   "text": "El present continuous se forma con <b>to be</b> más el verbo con <b>-ing</b>. Es casi igual que <i>estar + gerundio</i> en español: <i>estoy trabajando</i> = <b>I'm working</b>. Pero el inglés lo usa más, y es obligatorio para lo que pasa en este momento."
+  },
+  {
+   "type": "conj",
+   "verb": "to work",
+   "meaning": "trabajar",
+   "label": "verbo regular",
+   "tense": "present continuous",
+   "forms": [
+    "am work*ing*",
+    "are work*ing*",
+    "is work*ing*",
+    "are work*ing*",
+    "are work*ing*",
+    "are work*ing*"
+   ],
+   "examples": [
+    [
+     "I'm working now.",
+     "Ahora estoy trabajando."
+    ],
+    [
+     "You're working too hard.",
+     "Estás trabajando demasiado."
+    ],
+    [
+     "She's working from home today.",
+     "Ella trabaja hoy desde casa."
+    ],
+    [
+     "We're working on a new project.",
+     "Estamos trabajando en un proyecto nuevo."
+    ],
+    [
+     "You're working late tonight.",
+     "Esta noche os quedáis trabajando hasta tarde."
+    ],
+    [
+     "They're working in the garden.",
+     "Están trabajando en el jardín."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I'm reading.",
+     "I'm not reading.",
+     "Am I reading?"
+    ],
+    [
+     "You're sleeping.",
+     "You aren't sleeping.",
+     "Are you sleeping?"
+    ],
+    [
+     "He's cooking.",
+     "He isn't cooking.",
+     "Is he cooking?"
+    ],
+    [
+     "They're waiting.",
+     "They aren't waiting.",
+     "Are they waiting?"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.4,
+    5.6
+   ],
+   "head": [
+    "Regla de ortografía para -ing",
+    "Ejemplos",
+    "Observación"
+   ],
+   "rows": [
+    [
+     "normalmente + ing",
+     "read → reading, go → going",
+     ""
+    ],
+    [
+     "la -e muda desaparece",
+     "make → making, write → writing",
+     "pero see → seeing"
+    ],
+    [
+     "vocal corta + una consonante: se dobla",
+     "sit → sitting, run → running, swim → swimming",
+     "última sílaba acentuada"
+    ],
+    [
+     "-ie se convierte en -y",
+     "lie → lying, die → dying",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Cuándo se usa?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Ahora, en este momento",
+     "Look! It's raining.",
+     "¡Mira! Está lloviendo."
+    ],
+    [
+     "En esta época (temporal)",
+     "I'm staying with a friend this week.",
+     "Esta semana me quedo en casa de un amigo."
+    ],
+    [
+     "Cambios",
+     "The weather is getting better.",
+     "El tiempo está mejorando."
+    ],
+    [
+     "Planes ya acordados",
+     "I'm meeting Tom tomorrow.",
+     "Mañana he quedado con Tom."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "En español puedes elegir, en inglés no",
+   "text": "En español puedes decir <i>¿Qué haces?</i> o <i>¿Qué estás haciendo?</i> para ahora. En inglés no: <b>What do you do?</b> pregunta por tu profesión, y <b>What are you doing?</b> por lo que haces ahora. Y para un plan ya acordado el español usa el presente (<i>Mañana veo a Tom</i>), pero el inglés usa la forma en -ing: <b>I'm meeting Tom tomorrow</b>."
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿Simple o continuous?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Present simple",
+    "Present continuous",
+    "Diferencia"
+   ],
+   "rows": [
+    [
+     "I work in Utrecht.",
+     "I'm working in Utrecht this month.",
+     "siempre / temporal"
+    ],
+    [
+     "She drinks tea.",
+     "She's drinking tea.",
+     "costumbre / ahora"
+    ],
+    [
+     "It rains a lot here.",
+     "It's raining.",
+     "en general / en este momento"
+    ],
+    [
+     "What do you do?",
+     "What are you doing?",
+     "profesión / actividad ahora"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras que van con el continuous",
+   "items": [
+    [
+     "now",
+     "ahora"
+    ],
+    [
+     "right now",
+     "en este momento"
+    ],
+    [
+     "at the moment",
+     "en este momento, ahora mismo"
+    ],
+    [
+     "today",
+     "hoy"
+    ],
+    [
+     "this week",
+     "esta semana"
+    ],
+    [
+     "at present",
+     "actualmente"
+    ],
+    [
+     "Look!",
+     "¡Mira!"
+    ],
+    [
+     "Listen!",
+     "¡Escucha!"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Verbos sin -ing",
+   "text": "Los verbos que expresan un estado casi nunca llevan -ing: <b>know, like, love, want, need, understand, believe, own</b>. Así que <i>I <b>know</b> him</i>, no <i>I'm knowing him</i>; <i>I <b>want</b> a coffee</i>, no <i>I'm wanting</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I working now.",
+     "I am working now.",
+     "Hace falta am / is / are."
+    ],
+    [
+     "She is work.",
+     "She is working.",
+     "Después de is va la forma en -ing."
+    ],
+    [
+     "Look, it rains!",
+     "Look, it's raining!",
+     "Lo que pasa ahora: continuous."
+    ],
+    [
+     "I'm knowing the answer.",
+     "I know the answer.",
+     "know no lleva -ing."
+    ],
+    [
+     "He is siting there.",
+     "He is sitting there.",
+     "Vocal corta: la t se dobla."
+    ],
+    [
+     "They are writeing.",
+     "They are writing.",
+     "La -e muda desaparece."
+    ],
+    [
+     "What do you do now?",
+     "What are you doing now?",
+     "Lo que haces en este momento: continuous."
+    ],
+    [
+     "I'm wanting a coffee.",
+     "I want a coffee.",
+     "want no lleva -ing."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el present simple o el present continuous. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Be quiet! The baby ______.",
+     "hint": "sleep",
+     "a": "is sleeping",
+     "full": "Be quiet! The baby is sleeping."
+    },
+    {
+     "q": "I ______ a book at the moment.",
+     "hint": "read",
+     "a": "am reading",
+     "full": "I am reading a book at the moment."
+    },
+    {
+     "q": "She ______ in a hospital.",
+     "hint": "work, su profesión",
+     "a": "works",
+     "full": "She works in a hospital."
+    },
+    {
+     "q": "Look! It ______.",
+     "hint": "snow",
+     "a": "is snowing",
+     "full": "Look! It is snowing."
+    },
+    {
+     "q": "______ you listening to me?",
+     "hint": "to be",
+     "a": "Are",
+     "full": "Are you listening to me?"
+    },
+    {
+     "q": "We ______ TV now. We're cooking.",
+     "hint": "watch, negación",
+     "a": "aren't watching",
+     "full": "We aren't watching TV now. We're cooking."
+    },
+    {
+     "q": "He usually ______ to work.",
+     "hint": "walk",
+     "a": "walks",
+     "full": "He usually walks to work."
+    },
+    {
+     "q": "They ______ in the pool right now.",
+     "hint": "swim",
+     "a": "are swimming",
+     "full": "They are swimming in the pool right now."
+    },
+    {
+     "q": "I ______ what you mean.",
+     "hint": "understand",
+     "a": "understand",
+     "full": "I understand what you mean."
+    },
+    {
+     "q": "What ______ you doing?",
+     "hint": "to be",
+     "a": "are",
+     "full": "What are you doing?"
+    },
+    {
+     "q": "My sister ______ with us this week.",
+     "hint": "stay",
+     "a": "is staying",
+     "full": "My sister is staying with us this week."
+    },
+    {
+     "q": "She ______ a letter.",
+     "hint": "write, ahora",
+     "a": "is writing",
+     "full": "She is writing a letter."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Está lloviendo.",
+     "a": "It's raining."
+    },
+    {
+     "q": "¿Qué estás haciendo?",
+     "a": "What are you doing?"
+    },
+    {
+     "q": "Esta semana me quedo en casa de un amigo.",
+     "a": "I'm staying with a friend this week."
+    },
+    {
+     "q": "Él trabaja en un hospital.",
+     "a": "He works in a hospital."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

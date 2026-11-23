@@ -1,0 +1,451 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Gramática",
+  "number": 8,
+  "total_in_level": 9,
+  "title": "El orden de las palabras y las preguntas",
+  "subtitle": "Sujeto, verbo, complemento; las palabras interrogativas; in, on y at para el tiempo y el lugar",
+  "footer": "Language Learning · A1 · Gramática · Orden de las palabras y preguntas",
+  "next": "Siguiente: A1 · pdf 9 — Vocabulario y expresiones fijas"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "construir frases en el orden fijo del inglés: sujeto, verbo, complemento",
+    "no olvidar el sujeto ni ponerlo detrás del verbo (<i>Ha llegado Ana</i> es <i>Ana has arrived</i>)",
+    "hacer preguntas con palabras interrogativas",
+    "elegir entre <b>in</b>, <b>on</b> y <b>at</b> para el tiempo y el lugar"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El orden fijo"
+  },
+  {
+   "type": "p",
+   "text": "Una frase inglesa casi siempre tiene el mismo orden: <b>sujeto – verbo – complemento – lugar – tiempo</b>. El sujeto va delante del verbo, aunque la frase empiece por otra cosa."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    3.0,
+    3.6,
+    3.6,
+    3.8
+   ],
+   "head": [
+    "Sujeto",
+    "Verbo",
+    "Complemento",
+    "Lugar",
+    "Tiempo"
+   ],
+   "rows": [
+    [
+     "I",
+     "play",
+     "football",
+     "in the park",
+     "on Saturdays."
+    ],
+    [
+     "She",
+     "bought",
+     "a car",
+     "in Utrecht",
+     "last week."
+    ],
+    [
+     "We",
+     "eat",
+     "pizza",
+     "at home",
+     "every Friday."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "La gran diferencia: el sujeto, siempre y delante",
+   "text": "En español el orden es libre y el sujeto se puede omitir o poner detrás: <i>Mañana voy a Londres</i>, <i>Ha llegado tu hermano</i>. En inglés el sujeto es obligatorio y va delante del verbo: <b>Tomorrow I'm going</b> to London, <b>Your brother has arrived</b>. Incluso con el tiempo: <i>llueve</i> = <b>it's raining</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.0,
+    5.6,
+    5.4
+   ],
+   "head": [
+    "Español",
+    "Incorrecto (orden español)",
+    "Correcto"
+   ],
+   "rows": [
+    [
+     "Ayer lo vi.",
+     "Yesterday saw him.",
+     "Yesterday I saw him."
+    ],
+    [
+     "Hablo muy bien inglés.",
+     "I speak very well English.",
+     "I speak English very well."
+    ],
+    [
+     "... porque llueve.",
+     "... because rains.",
+     "... because it's raining."
+    ],
+    [
+     "Aquí vivo yo.",
+     "Here live I.",
+     "I live here."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "El verbo y el complemento van juntos",
+   "text": "No pongas nada entre el verbo y el complemento: <i>I like <b>very much</b> tea</i> es incorrecto. Di <b>I like tea very much</b>. Igualmente <i>She speaks English well</i>, no <i>She speaks well English</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. Las preguntas"
+  },
+  {
+   "type": "p",
+   "text": "Una pregunta se hace con un verbo auxiliar (<b>do, does, am, is, are, can</b> ...) delante del sujeto. La palabra interrogativa va todavía antes."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.0,
+    3.0,
+    3.0,
+    4.0,
+    4.0
+   ],
+   "head": [
+    "Palabra interrogativa",
+    "Auxiliar",
+    "Sujeto",
+    "Verbo + resto",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Where",
+     "do",
+     "you",
+     "live?",
+     "¿Dónde vives?"
+    ],
+    [
+     "What",
+     "does",
+     "she",
+     "do?",
+     "¿A qué se dedica ella?"
+    ],
+    [
+     "When",
+     "are",
+     "they",
+     "coming?",
+     "¿Cuándo vienen?"
+    ],
+    [
+     "How",
+     "can",
+     "I",
+     "help you?",
+     "¿Cómo puedo ayudarte?"
+    ],
+    [
+     "Why",
+     "is",
+     "he",
+     "late?",
+     "¿Por qué llega tarde?"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Palabras interrogativas",
+   "items": [
+    [
+     "what",
+     "qué"
+    ],
+    [
+     "who",
+     "quién"
+    ],
+    [
+     "where",
+     "dónde"
+    ],
+    [
+     "when",
+     "cuándo"
+    ],
+    [
+     "why",
+     "por qué"
+    ],
+    [
+     "how",
+     "cómo"
+    ],
+    [
+     "which",
+     "cuál"
+    ],
+    [
+     "how much",
+     "cuánto (incontable)"
+    ],
+    [
+     "how many",
+     "cuántos (contable)"
+    ],
+    [
+     "how old",
+     "cuántos años"
+    ],
+    [
+     "how often",
+     "con qué frecuencia"
+    ],
+    [
+     "what time",
+     "a qué hora"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Who como sujeto: sin do",
+   "text": "Si preguntas por el sujeto mismo, no hace falta do: <b>Who lives here?</b> (¿Quién vive aquí?), <b>What happened?</b> (¿Qué ha pasado?). Pero: <b>Who do you know here?</b> (¿A quién conoces aquí?)."
+  },
+  {
+   "type": "h1",
+   "text": "3. in, on y at"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    2.4,
+    7.2,
+    7.4
+   ],
+   "head": [
+    "",
+    "Tiempo",
+    "Lugar"
+   ],
+   "rows": [
+    [
+     "at",
+     "una hora: at 7 o'clock, at night, at the weekend",
+     "un punto: at home, at work, at school, at the station"
+    ],
+    [
+     "on",
+     "días y fechas: on Monday, on 5 May, on my birthday",
+     "una superficie: on the table, on the wall, on the second floor"
+    ],
+    [
+     "in",
+     "periodos más largos: in May, in 2024, in the summer, in the morning",
+     "dentro de algo: in the box, in London, in the kitchen, in bed"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un 'en' español, tres palabras inglesas",
+   "text": "El español dice <i>en</i> casi siempre, y nada con los días: <i>el lunes</i> = <b>on Monday</b>, <i>en el trabajo</i> = <b>at work</b>, <i>en la mesa</i> = <b>on the table</b>, <i>en la caja</i> = <b>in the box</b>, <i>en la foto</i> = <b>in the photo</b>, <i>por la mañana</i> = <b>in the morning</b>. Aprende las combinaciones enteras."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Yesterday saw a film.",
+     "Yesterday I saw a film.",
+     "El sujeto es obligatorio y va delante del verbo."
+    ],
+    [
+     "I speak very well English.",
+     "I speak English very well.",
+     "El verbo y el complemento van juntos."
+    ],
+    [
+     "Where you live?",
+     "Where do you live?",
+     "Una pregunta con un verbo normal lleva do."
+    ],
+    [
+     "What does she wants?",
+     "What does she want?",
+     "Después de does el verbo va sin -s."
+    ],
+    [
+     "Who does live here?",
+     "Who lives here?",
+     "Who como sujeto: sin do."
+    ],
+    [
+     "See you in Monday.",
+     "See you on Monday.",
+     "Los días llevan on."
+    ],
+    [
+     "I am in the work.",
+     "I'm at work.",
+     "En el trabajo = at work."
+    ],
+    [
+     "How much people?",
+     "How many people?",
+     "Contable: how many."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "______ do you live? In Leiden.",
+     "hint": "palabra interrogativa",
+     "a": "Where",
+     "full": "Where do you live? In Leiden."
+    },
+    {
+     "q": "What time ______ the film start?",
+     "hint": "do o does",
+     "a": "does",
+     "full": "What time does the film start?"
+    },
+    {
+     "q": "______ old is your son?",
+     "hint": "palabra interrogativa",
+     "a": "How",
+     "full": "How old is your son?"
+    },
+    {
+     "q": "______ brothers have you got?",
+     "hint": "cuántos",
+     "a": "How many",
+     "full": "How many brothers have you got?"
+    },
+    {
+     "q": "I start work ______ nine o'clock.",
+     "hint": "in, on o at",
+     "a": "at",
+     "full": "I start work at nine o'clock."
+    },
+    {
+     "q": "My birthday is ______ June.",
+     "hint": "in, on o at",
+     "a": "in",
+     "full": "My birthday is in June."
+    },
+    {
+     "q": "We have a meeting ______ Friday.",
+     "hint": "in, on o at",
+     "a": "on",
+     "full": "We have a meeting on Friday."
+    },
+    {
+     "q": "She is ______ home today.",
+     "hint": "in, on o at",
+     "a": "at",
+     "full": "She is at home today."
+    },
+    {
+     "q": "The picture is ______ the wall.",
+     "hint": "in, on o at",
+     "a": "on",
+     "full": "The picture is on the wall."
+    },
+    {
+     "q": "______ is that man? He's my teacher.",
+     "hint": "palabra interrogativa",
+     "a": "Who",
+     "full": "Who is that man? He's my teacher."
+    },
+    {
+     "q": "______ are you late? The bus didn't come.",
+     "hint": "palabra interrogativa",
+     "a": "Why",
+     "full": "Why are you late? The bus didn't come."
+    },
+    {
+     "q": "Tomorrow ______ going to London.",
+     "hint": "yo voy",
+     "a": "I'm",
+     "full": "Tomorrow I'm going to London."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ayer vi a mi hermana.",
+     "a": "Yesterday I saw my sister."
+    },
+    {
+     "q": "Ella habla inglés muy bien.",
+     "a": "She speaks English very well."
+    },
+    {
+     "q": "¿Dónde trabajas?",
+     "a": "Where do you work?"
+    },
+    {
+     "q": "Estoy en el trabajo.",
+     "a": "I'm at work."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "meta": {
+  "level": "A1",
+  "section": "Vocabulario",
+  "number": 9,
+  "total_in_level": 9,
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, ir de compras, preguntar el camino y la clase",
+  "footer": "Language Learning · A1 · Vocabulario y expresiones fijas",
+  "next": "Siguiente: A2 · pdf 1"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Cómo usar estas listas",
+   "bullets": [
+    "Tapa una columna y ponte a prueba en los dos sentidos.",
+    "Di las palabras en voz alta: cuidado con la v, la sh y los finales de palabra (pdf 1).",
+    "Escribe tres frases propias por bloque con la gramática de A1."
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Saludos y cortesía"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Saludos",
+   "items": [
+    [
+     "Hello. / Hi.",
+     "Hola."
+    ],
+    [
+     "Good morning.",
+     "Buenos días."
+    ],
+    [
+     "Good afternoon.",
+     "Buenas tardes."
+    ],
+    [
+     "Good evening.",
+     "Buenas tardes, buenas noches (al llegar)"
+    ],
+    [
+     "Goodbye. / Bye.",
+     "Adiós. / Hasta luego."
+    ],
+    [
+     "See you later.",
+     "Hasta luego. / Hasta ahora."
+    ],
+    [
+     "Nice to meet you.",
+     "Encantado de conocerte."
+    ],
+    [
+     "How are you?",
+     "¿Qué tal? / ¿Cómo estás?"
+    ],
+    [
+     "I'm fine, thanks.",
+     "Bien, gracias."
+    ],
+    [
+     "Good night.",
+     "Buenas noches. (al irse a dormir)"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Cortesía",
+   "items": [
+    [
+     "please",
+     "por favor (al pedir algo)"
+    ],
+    [
+     "thank you",
+     "gracias"
+    ],
+    [
+     "You're welcome.",
+     "De nada."
+    ],
+    [
+     "Sorry.",
+     "Perdón. / Lo siento."
+    ],
+    [
+     "Excuse me.",
+     "Perdone. / Disculpe. (para preguntar algo)"
+    ],
+    [
+     "Pardon?",
+     "¿Cómo dices? / ¿Qué has dicho?"
+    ],
+    [
+     "Here you are.",
+     "Toma. / Aquí tienes. (al dar algo)"
+    ],
+    [
+     "No problem.",
+     "No hay problema."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "por favor o here you are",
+   "text": "Al pedir algo se dice <b>please</b>: <i>A coffee, please.</i> Al dar algo, como el español <i>toma</i> o <i>aquí tienes</i>, se dice <b>here you are</b> (o <b>there you go</b>), nunca <i>please</i>. Y ojo: en inglés <i>please</i> se usa mucho más que <i>por favor</i>; sin él una petición suena brusca."
+  },
+  {
+   "type": "h1",
+   "text": "2. La familia"
+  },
+  {
+   "type": "verbpairs",
+   "title": "La familia",
+   "items": [
+    [
+     "mother",
+     "madre"
+    ],
+    [
+     "father",
+     "padre"
+    ],
+    [
+     "parents",
+     "padres"
+    ],
+    [
+     "brother",
+     "hermano"
+    ],
+    [
+     "sister",
+     "hermana"
+    ],
+    [
+     "son",
+     "hijo"
+    ],
+    [
+     "daughter",
+     "hija"
+    ],
+    [
+     "husband",
+     "marido"
+    ],
+    [
+     "wife",
+     "mujer, esposa"
+    ],
+    [
+     "grandmother",
+     "abuela"
+    ],
+    [
+     "grandfather",
+     "abuelo"
+    ],
+    [
+     "uncle",
+     "tío"
+    ],
+    [
+     "aunt",
+     "tía"
+    ],
+    [
+     "cousin",
+     "primo, prima"
+    ],
+    [
+     "nephew",
+     "sobrino"
+    ],
+    [
+     "niece",
+     "sobrina"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "parents no son los parientes",
+   "text": "<b>parents</b> son solo el padre y la madre; los parientes son <b>relatives</b>. Y el plural masculino del español no existe en inglés: <i>mis hermanos</i> (chicos y chicas) = <b>my brothers and sisters</b>, <i>mis hijos</i> = <b>my children</b>. <b>cousin</b> vale para primo y prima."
+  },
+  {
+   "type": "h1",
+   "text": "3. Comer y beber"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Comer y beber",
+   "items": [
+    [
+     "bread",
+     "pan"
+    ],
+    [
+     "cheese",
+     "queso"
+    ],
+    [
+     "egg",
+     "huevo"
+    ],
+    [
+     "meat",
+     "carne"
+    ],
+    [
+     "chicken",
+     "pollo"
+    ],
+    [
+     "fish",
+     "pescado"
+    ],
+    [
+     "vegetables",
+     "verdura"
+    ],
+    [
+     "fruit",
+     "fruta"
+    ],
+    [
+     "potato",
+     "patata"
+    ],
+    [
+     "rice",
+     "arroz"
+    ],
+    [
+     "water",
+     "agua"
+    ],
+    [
+     "milk",
+     "leche"
+    ],
+    [
+     "juice",
+     "zumo"
+    ],
+    [
+     "coffee",
+     "café"
+    ],
+    [
+     "tea",
+     "té"
+    ],
+    [
+     "beer",
+     "cerveza"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "En un bar o restaurante",
+   "items": [
+    [
+     "Can I have a coffee, please?",
+     "¿Me pone un café, por favor?"
+    ],
+    [
+     "The bill, please.",
+     "La cuenta, por favor."
+    ],
+    [
+     "I'd like the fish.",
+     "Quiero el pescado, por favor."
+    ],
+    [
+     "Is service included?",
+     "¿Está incluido el servicio?"
+    ],
+    [
+     "Enjoy your meal.",
+     "Que aproveche."
+    ],
+    [
+     "Cheers!",
+     "¡Salud!"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. La hora, los días y los meses"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los días",
+   "items": [
+    [
+     "Monday",
+     "lunes"
+    ],
+    [
+     "Tuesday",
+     "martes"
+    ],
+    [
+     "Wednesday",
+     "miércoles"
+    ],
+    [
+     "Thursday",
+     "jueves"
+    ],
+    [
+     "Friday",
+     "viernes"
+    ],
+    [
+     "Saturday",
+     "sábado"
+    ],
+    [
+     "Sunday",
+     "domingo"
+    ],
+    [
+     "the weekend",
+     "el fin de semana"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Los meses",
+   "items": [
+    [
+     "January",
+     "enero"
+    ],
+    [
+     "February",
+     "febrero"
+    ],
+    [
+     "March",
+     "marzo"
+    ],
+    [
+     "April",
+     "abril"
+    ],
+    [
+     "May",
+     "mayo"
+    ],
+    [
+     "June",
+     "junio"
+    ],
+    [
+     "July",
+     "julio"
+    ],
+    [
+     "August",
+     "agosto"
+    ],
+    [
+     "September",
+     "septiembre"
+    ],
+    [
+     "October",
+     "octubre"
+    ],
+    [
+     "November",
+     "noviembre"
+    ],
+    [
+     "December",
+     "diciembre"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    6.0,
+    7.0
+   ],
+   "head": [
+    "Reloj",
+    "Inglés",
+    "Ojo"
+   ],
+   "rows": [
+    [
+     "7.00",
+     "seven o'clock",
+     "o'clock solo con las horas en punto"
+    ],
+    [
+     "7.15",
+     "quarter past seven",
+     "past = y"
+    ],
+    [
+     "7.30",
+     "half past seven",
+     "las siete y media: half past <b>seven</b>"
+    ],
+    [
+     "7.45",
+     "quarter to eight",
+     "to = menos"
+    ],
+    [
+     "7.20",
+     "twenty past seven",
+     ""
+    ],
+    [
+     "7.50",
+     "ten to eight",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Primero los minutos, luego la hora",
+   "text": "El español dice primero la hora: <i>las siete y cuarto</i>. El inglés dice primero los minutos: <b>quarter past seven</b>, <b>ten to eight</b> (las ocho menos diez). Y sin artículo: <i>son las siete</i> = <b>it's seven o'clock</b>. Para preguntar la hora, di <b>What time is it?</b>"
+  },
+  {
+   "type": "h1",
+   "text": "5. De compras y preguntando el camino"
+  },
+  {
+   "type": "verbpairs",
+   "title": "De compras",
+   "items": [
+    [
+     "How much is it?",
+     "¿Cuánto cuesta?"
+    ],
+    [
+     "It's too expensive.",
+     "Es demasiado caro."
+    ],
+    [
+     "Can I pay by card?",
+     "¿Puedo pagar con tarjeta?"
+    ],
+    [
+     "I'm just looking.",
+     "Solo estoy mirando."
+    ],
+    [
+     "Have you got this in a smaller size?",
+     "¿Lo tiene en una talla más pequeña?"
+    ],
+    [
+     "a receipt",
+     "un tique, un recibo"
+    ]
+   ]
+  },
+  {
+   "type": "verbpairs",
+   "title": "Preguntar el camino",
+   "items": [
+    [
+     "Excuse me, where is the station?",
+     "Perdone, ¿dónde está la estación?"
+    ],
+    [
+     "Go straight on.",
+     "Siga todo recto."
+    ],
+    [
+     "Turn left.",
+     "Gire a la izquierda."
+    ],
+    [
+     "Turn right.",
+     "Gire a la derecha."
+    ],
+    [
+     "It's next to the bank.",
+     "Está al lado del banco."
+    ],
+    [
+     "It's opposite the church.",
+     "Está enfrente de la iglesia."
+    ],
+    [
+     "It's on the corner.",
+     "Está en la esquina."
+    ],
+    [
+     "Is it far?",
+     "¿Está lejos?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. En clase"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Útil en clase",
+   "items": [
+    [
+     "What does this word mean?",
+     "¿Qué significa esta palabra?"
+    ],
+    [
+     "How do you say ... in English?",
+     "¿Cómo se dice ... en inglés?"
+    ],
+    [
+     "Can you speak more slowly, please?",
+     "¿Puede hablar más despacio, por favor?"
+    ],
+    [
+     "I don't understand.",
+     "No lo entiendo."
+    ],
+    [
+     "Can you write it down?",
+     "¿Puede escribirlo?"
+    ],
+    [
+     "I don't know.",
+     "No lo sé."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "7. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "A coffee, ______.",
+     "hint": "por favor (al pedir)",
+     "a": "please",
+     "full": "A coffee, please."
+    },
+    {
+     "q": "Here you ______. — Thank you.",
+     "hint": "aquí tienes (al dar)",
+     "a": "are",
+     "full": "Here you are. — Thank you."
+    },
+    {
+     "q": "My mother's sister is my ______.",
+     "hint": "familia",
+     "a": "aunt",
+     "full": "My mother's sister is my aunt."
+    },
+    {
+     "q": "My brother's son is my ______.",
+     "hint": "familia",
+     "a": "nephew",
+     "full": "My brother's son is my nephew."
+    },
+    {
+     "q": "It's half past ______.",
+     "hint": "son las siete y media",
+     "a": "seven",
+     "full": "It's half past seven."
+    },
+    {
+     "q": "It's quarter ______ eight.",
+     "hint": "las ocho menos cuarto: past o to",
+     "a": "to",
+     "full": "It's quarter to eight."
+    },
+    {
+     "q": "The day after Tuesday is ______.",
+     "hint": "miércoles",
+     "a": "Wednesday",
+     "full": "The day after Tuesday is Wednesday."
+    },
+    {
+     "q": "How much ______ it?",
+     "hint": "to be",
+     "a": "is",
+     "full": "How much is it?"
+    },
+    {
+     "q": "Turn ______ at the church.",
+     "hint": "a la izquierda",
+     "a": "left",
+     "full": "Turn left at the church."
+    },
+    {
+     "q": "What does this word ______?",
+     "hint": "significar",
+     "a": "mean",
+     "full": "What does this word mean?"
+    },
+    {
+     "q": "Can I pay by ______?",
+     "hint": "tarjeta",
+     "a": "card",
+     "full": "Can I pay by card?"
+    },
+    {
+     "q": "Nice to ______ you.",
+     "hint": "conocer",
+     "a": "meet",
+     "full": "Nice to meet you."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "¿Cuánto cuesta?",
+     "a": "How much is it?"
+    },
+    {
+     "q": "No lo entiendo.",
+     "a": "I don't understand."
+    },
+    {
+     "q": "Perdone, ¿dónde está la estación?",
+     "a": "Excuse me, where is the station?"
+    },
+    {
+     "q": "La cuenta, por favor.",
+     "a": "The bill, please."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

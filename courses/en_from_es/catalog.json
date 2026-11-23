@@ -64,5 +64,38 @@
   "subtitle": "I y me, my y mine, la 's de posesión, y whose",
   "content": "a1_06_pronouns_possessives.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A1_07_El_present_continuous",
+  "file": "A1_07_El_present_continuous.pdf",
+  "level": "A1",
+  "number": 7,
+  "section": "Verbos",
+  "title": "El present continuous",
+  "subtitle": "am / is / are + -ing: lo que pasa ahora, las situaciones temporales y la diferencia con el present simple",
+  "content": "a1_07_present_continuous.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_08_El_orden_de_las_palabras_y_las_preguntas",
+  "file": "A1_08_El_orden_de_las_palabras_y_las_preguntas.pdf",
+  "level": "A1",
+  "number": 8,
+  "section": "Gramática",
+  "title": "El orden de las palabras y las preguntas",
+  "subtitle": "Sujeto, verbo, complemento; las palabras interrogativas; in, on y at para el tiempo y el lugar",
+  "content": "a1_08_word_order_questions.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "A1_09_Vocabulario_y_expresiones_fijas",
+  "file": "A1_09_Vocabulario_y_expresiones_fijas.pdf",
+  "level": "A1",
+  "number": 9,
+  "section": "Vocabulario",
+  "title": "Vocabulario y expresiones fijas",
+  "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, ir de compras, preguntar el camino y la clase",
+  "content": "a1_09_vocabulary_phrases.json",
+  "exercise_count": 12
  }
 ]
