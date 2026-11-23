@@ -97,5 +97,16 @@
   "subtitle": "Saludos, la familia, comer y beber, la hora, los días y los meses, de compras, preguntar el camino y la clase",
   "content": "a1_09_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "A2_01_El_perfecto_verbos_debiles",
+  "file": "A2_01_El_perfecto_verbos_debiles.pdf",
+  "level": "A2",
+  "number": 1,
+  "section": "Verbos",
+  "title": "El perfecto: verbos débiles",
+  "subtitle": "hebben + ge-...-t o -d, 't kofschip, y el participio al final",
+  "content": "a2_01_perfect_weak.json",
+  "exercise_count": 12
  }
 ]

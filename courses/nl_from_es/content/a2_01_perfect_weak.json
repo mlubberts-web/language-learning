@@ -1,0 +1,431 @@
+{
+ "meta": {
+  "level": "A2",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "El perfecto: verbos débiles",
+  "subtitle": "hebben + ge-...-t o -d, 't kofschip, y el participio al final",
+  "footer": "Language Learning · A2 · Verbos · El perfecto: verbos débiles",
+  "next": "Siguiente: A2 · pdf 2 — El perfecto: verbos fuertes"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hablar del pasado con el <b>perfecto</b>: <i>Ik heb gewerkt</i>",
+    "formar el participio de los verbos débiles con <b>ge-...-t</b> o <b>ge-...-d</b>",
+    "elegir entre t y d con <b>'t kofschip</b>",
+    "poner el participio al final de la frase"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. El perfecto"
+  },
+  {
+   "type": "p",
+   "text": "Al hablar, los neerlandeses cuentan el pasado sobre todo con el <b>perfecto</b> (<i>voltooid tegenwoordige tijd</i>): una forma de <b>hebben</b> + el <b>participio</b> al final de la frase. <i>Ik <b>heb</b> gisteren hard <b>gewerkt</b>.</i> Casi todos los verbos son <b>débiles</b> (regulares): su participio es <b>ge</b> + raíz + <b>t</b> o <b>d</b>."
+  },
+  {
+   "type": "conj",
+   "verb": "werken",
+   "meaning": "trabajar",
+   "label": "verbo débil",
+   "tense": "perfecto",
+   "forms": [
+    "heb *gewerkt*",
+    "hebt *gewerkt*",
+    "heeft *gewerkt*",
+    "hebben *gewerkt*",
+    "hebben *gewerkt*",
+    "hebben *gewerkt*"
+   ],
+   "examples": [
+    [
+     "Ik heb gisteren lang gewerkt.",
+     "Ayer trabajé hasta tarde."
+    ],
+    [
+     "Heb je vandaag thuis gewerkt?",
+     "¿Has trabajado hoy en casa?"
+    ],
+    [
+     "Zij heeft in Parijs gewerkt.",
+     "Ella trabajó en París."
+    ],
+    [
+     "We hebben samen gewerkt.",
+     "Trabajamos juntos."
+    ],
+    [
+     "Jullie hebben hard gewerkt.",
+     "Habéis trabajado mucho."
+    ],
+    [
+     "Ze hebben de hele dag gewerkt.",
+     "Trabajaron todo el día."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Un tiempo para 'trabajé' y 'he trabajado'",
+   "text": "En España se distingue <i>ayer trabajé</i> y <i>hoy he trabajado</i>. Al hablar, el neerlandés usa el perfecto para los dos: <b>Ik heb gisteren gewerkt</b> es totalmente correcto, incluso con <i>gisteren</i> (ayer). Y <i>llevo años viviendo aquí</i> es <b>Ik woon hier al jaren</b>, en presente (pdf 3). Ojo también al orden: en español <i>he trabajado</i> va junto; en neerlandés el participio va al final."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿t o d? 't kofschip"
+  },
+  {
+   "type": "p",
+   "text": "Mira la última letra de la <b>raíz</b> (el infinitivo sin -en). Si es una de las consonantes de <b>'t kofschip</b> (t, k, f, s, ch, p), el participio termina en <b>-t</b>. Si no, en <b>-d</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    3.4,
+    4.4,
+    5.6
+   ],
+   "head": [
+    "Infinitivo",
+    "Raíz",
+    "Participio",
+    "Por qué"
+   ],
+   "rows": [
+    [
+     "werken",
+     "werk",
+     "gewerkt",
+     "la k está en 't kofschip"
+    ],
+    [
+     "maken",
+     "maak",
+     "gemaakt",
+     "k"
+    ],
+    [
+     "fietsen",
+     "fiets",
+     "gefietst",
+     "s"
+    ],
+    [
+     "wonen",
+     "woon",
+     "gewoond",
+     "la n no está en 't kofschip"
+    ],
+    [
+     "spelen",
+     "speel",
+     "gespeeld",
+     "l"
+    ],
+    [
+     "leven",
+     "leef",
+     "geleefd",
+     "mira el infinitivo: v, así que d"
+    ],
+    [
+     "reizen",
+     "reis",
+     "gereisd",
+     "infinitivo con z, así que d"
+    ],
+    [
+     "praten",
+     "praat",
+     "gepraat",
+     "la raíz ya termina en t: sin t de más"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "leven, reizen: fíjate en la v y la z",
+   "text": "<b>leven</b> tiene la raíz <i>leef</i>, pero la f viene de una v, y la v no está en 't kofschip: <b>geleefd</b>. Lo mismo con la z: <b>reizen → gereisd</b>, <b>verhuizen → verhuisd</b>. Y una raíz que ya termina en t o d no recibe nada más: <i>praten → gepraat</i>, <i>branden → gebrand</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. Sin ge-"
+  },
+  {
+   "type": "p",
+   "text": "Los verbos que empiezan por un prefijo átono <b>be-, ge-, her-, ont-, ver-</b> no llevan ge-: <i>betalen → betaald, vertellen → verteld, herhalen → herhaald</i>. Los verbos separables ponen <b>ge</b> entre el prefijo y el verbo: <i>opbellen → op<b>ge</b>beld, schoonmaken → schoon<b>ge</b>maakt</i>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    4.4,
+    8.4
+   ],
+   "head": [
+    "Infinitivo",
+    "Participio",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "betalen",
+     "betaald",
+     "Ik heb de rekening betaald."
+    ],
+    [
+     "vertellen",
+     "verteld",
+     "Hij heeft een verhaal verteld."
+    ],
+    [
+     "opbellen",
+     "opgebeld",
+     "Ik heb mijn moeder opgebeld."
+    ],
+    [
+     "schoonmaken",
+     "schoongemaakt",
+     "We hebben het huis schoongemaakt."
+    ],
+    [
+     "studeren",
+     "gestudeerd",
+     "Zij heeft in Leiden gestudeerd."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. El orden: el participio al final"
+  },
+  {
+   "type": "p",
+   "text": "La forma de hebben va en segundo lugar, y el participio va al <b>final del todo</b>, tras los complementos y las palabras de tiempo: <i>Ik <b>heb</b> gisteren met mijn zus naar een film <b>gekeken</b>.</i> En una pregunta: <i><b>Heb</b> je de film <b>gezien</b>?</i>"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Verbos débiles para practicar",
+   "items": [
+    [
+     "werken – gewerkt",
+     "trabajar"
+    ],
+    [
+     "maken – gemaakt",
+     "hacer"
+    ],
+    [
+     "wonen – gewoond",
+     "vivir"
+    ],
+    [
+     "spelen – gespeeld",
+     "jugar"
+    ],
+    [
+     "koken – gekookt",
+     "cocinar"
+    ],
+    [
+     "fietsen – gefietst",
+     "ir en bici"
+    ],
+    [
+     "luisteren – geluisterd",
+     "escuchar"
+    ],
+    [
+     "wachten – gewacht",
+     "esperar"
+    ],
+    [
+     "betalen – betaald",
+     "pagar"
+    ],
+    [
+     "vertellen – verteld",
+     "contar"
+    ],
+    [
+     "reizen – gereisd",
+     "viajar"
+    ],
+    [
+     "leren – geleerd",
+     "aprender, enseñar"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Ik heb gewerkt gisteren.",
+     "Ik heb gisteren gewerkt.",
+     "El participio va al final."
+    ],
+    [
+     "Ik heb gewoont in Utrecht.",
+     "Ik heb in Utrecht gewoond.",
+     "La n no está en 't kofschip: -d."
+    ],
+    [
+     "Hij heeft gemaakd een taart.",
+     "Hij heeft een taart gemaakt.",
+     "La k está en 't kofschip: -t."
+    ],
+    [
+     "Ik heb gebetaald.",
+     "Ik heb betaald.",
+     "Los verbos con be- no llevan ge-."
+    ],
+    [
+     "Ik heb geopbeld.",
+     "Ik heb opgebeld.",
+     "Separable: ge en medio."
+    ],
+    [
+     "Ik heb geleeft in Londen.",
+     "Ik heb in Londen geleefd.",
+     "Fíjate en la v de leven: -d."
+    ],
+    [
+     "Ik werkte hier sinds vijf jaar.",
+     "Ik werk hier al vijf jaar.",
+     "Sigue siendo verdad: presente con al."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el participio. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb gisteren hard ______.",
+     "hint": "werken",
+     "a": "gewerkt",
+     "full": "Ik heb gisteren hard gewerkt."
+    },
+    {
+     "q": "We hebben tien jaar in Leiden ______.",
+     "hint": "wonen",
+     "a": "gewoond",
+     "full": "We hebben tien jaar in Leiden gewoond."
+    },
+    {
+     "q": "Heb je de rekening al ______?",
+     "hint": "betalen",
+     "a": "betaald",
+     "full": "Heb je de rekening al betaald?"
+    },
+    {
+     "q": "Zij heeft een lekkere taart ______.",
+     "hint": "maken",
+     "a": "gemaakt",
+     "full": "Zij heeft een lekkere taart gemaakt."
+    },
+    {
+     "q": "De kinderen hebben buiten ______.",
+     "hint": "spelen",
+     "a": "gespeeld",
+     "full": "De kinderen hebben buiten gespeeld."
+    },
+    {
+     "q": "Ik heb mijn moeder ______.",
+     "hint": "opbellen",
+     "a": "opgebeld",
+     "full": "Ik heb mijn moeder opgebeld."
+    },
+    {
+     "q": "Hij heeft veel ______ door Azië.",
+     "hint": "reizen",
+     "a": "gereisd",
+     "full": "Hij heeft veel gereisd door Azië."
+    },
+    {
+     "q": "We hebben een uur op de bus ______.",
+     "hint": "wachten",
+     "a": "gewacht",
+     "full": "We hebben een uur op de bus gewacht."
+    },
+    {
+     "q": "Wie heeft dit ______?",
+     "hint": "vertellen",
+     "a": "verteld",
+     "full": "Wie heeft dit verteld?"
+    },
+    {
+     "q": "______ je goed geslapen?",
+     "hint": "hebben, pregunta",
+     "a": "heb",
+     "full": "Heb je goed geslapen?"
+    },
+    {
+     "q": "Mijn vader heeft vandaag ______.",
+     "hint": "koken",
+     "a": "gekookt",
+     "full": "Mijn vader heeft vandaag gekookt."
+    },
+    {
+     "q": "We hebben het huis ______.",
+     "hint": "schoonmaken",
+     "a": "schoongemaakt",
+     "full": "We hebben het huis schoongemaakt."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Ayer trabajé hasta tarde.",
+     "a": "Ik heb gisteren lang gewerkt."
+    },
+    {
+     "q": "¿Has pagado?",
+     "a": "Heb je betaald?"
+    },
+    {
+     "q": "Ella ha llamado a su madre.",
+     "a": "Zij heeft haar moeder opgebeld."
+    },
+    {
+     "q": "Vivimos en Leiden.",
+     "a": "We hebben in Leiden gewoond."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
