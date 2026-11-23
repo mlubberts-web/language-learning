@@ -1,0 +1,340 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Las oraciones de relativo",
+  "subtitle": "die y dat, wat tras alles e iets, met wie, y waar + preposición (waarover, waarmee)",
+  "footer": "Language Learning · B1 · Gramática · Oraciones de relativo",
+  "next": "Siguiente: B1 · pdf 4 — La voz pasiva"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "elegir entre <b>die</b> y <b>dat</b> mirando el artículo",
+    "usar <b>wat</b> tras <i>alles, iets, niets</i> y tras una frase entera",
+    "usar <b>wie</b> tras una preposición para personas (<i>de man met wie</i>)",
+    "usar <b>waar + preposición</b> para cosas (<i>het huis waarin</i>)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. ¿die o dat?"
+  },
+  {
+   "type": "p",
+   "text": "El español usa <i>que</i> para todo. El neerlandés elige el relativo según el <b>artículo</b> del sustantivo: <b>die</b> para las palabras de y todos los plurales, <b>dat</b> para las palabras het en singular. El verbo va al <b>final</b> de la oración de relativo."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.6,
+    8.0,
+    5.4
+   ],
+   "head": [
+    "Sustantivo",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "palabra de",
+     "De man die naast ons woont, is arts.",
+     "El hombre que vive al lado"
+    ],
+    [
+     "palabra de (cosa)",
+     "De fiets die ik gekocht heb, is rood.",
+     "La bici que he comprado"
+    ],
+    [
+     "palabra het",
+     "Het huis dat we huren, is oud.",
+     "La casa que alquilamos"
+    ],
+    [
+     "palabra het (persona)",
+     "Het meisje dat daar staat, is mijn zus.",
+     "La chica que está allí"
+    ],
+    [
+     "plural",
+     "De boeken die ik lees, zijn spannend.",
+     "Los libros que leo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Que = die o dat",
+   "text": "No importa si es persona o cosa: lo que cuenta es el artículo: <i>het meisje <b>dat</b></i> (una persona, pero palabra het), <i>de tafel <b>die</b></i> (una cosa, pero palabra de). Y como en español, el relativo nunca se omite: <i>el libro que leí</i> = <b>het boek dat ik las</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. wat"
+  },
+  {
+   "type": "p",
+   "text": "Usa <b>wat</b> (lo que) tras <b>alles, iets, niets, veel, weinig</b>, tras <b>het enige</b> y los superlativos (<i>het mooiste wat</i>), y cuando el relativo se refiere a una <b>frase entera</b>: <i>Hij kwam te laat, <b>wat</b> ik vervelend vond</i> (llegó tarde, lo que me pareció molesto)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.0,
+    7.6,
+    4.4
+   ],
+   "head": [
+    "Tras",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "alles",
+     "Alles wat hij zegt, is waar.",
+     "todo lo que dice"
+    ],
+    [
+     "iets / niets",
+     "Ik heb iets gezien wat ik niet begrijp.",
+     "algo que"
+    ],
+    [
+     "het enige",
+     "Het enige wat ik wil, is rust.",
+     "lo único que"
+    ],
+    [
+     "una frase entera",
+     "Ze belde niet, wat ik raar vond.",
+     "lo que me pareció raro"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Tras una preposición"
+  },
+  {
+   "type": "p",
+   "text": "Tras una preposición, usa <b>wie</b> para personas, como el español: <i>de vrouw <b>met wie</b> ik werk</i> (la mujer con quien trabajo). Para cosas, usa <b>waar + preposición</b> en una palabra: <i>de pen <b>waarmee</b> ik schrijf</i> (el boli con el que escribo), <i>het huis <b>waarin</b> ik woon</i>. Como con er (pdf 2), <b>met</b> se convierte en <b>mee</b>."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.2,
+    7.0,
+    4.8
+   ],
+   "head": [
+    "Estructura",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "preposición + wie (personas)",
+     "Dat is de man met wie ik praatte.",
+     "el hombre con quien hablaba"
+    ],
+    [
+     "waarover (cosas)",
+     "Het boek waarover ik vertelde, is uit.",
+     "el libro del que te hablé"
+    ],
+    [
+     "waarmee",
+     "De pen waarmee ik schrijf, is leeg.",
+     "el boli con el que escribo"
+    ],
+    [
+     "waarop",
+     "De bus waarop ik wacht, is laat.",
+     "el autobús que estoy esperando"
+    ],
+    [
+     "waar (lugar)",
+     "Het dorp waar ik woon, is klein.",
+     "el pueblo donde vivo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Con cosas, nunca met die ni met wat",
+   "text": "El español dice <i>el boli con el que escribo</i>. En neerlandés, con cosas no se dice <i>met die</i> ni <i>met wat</i>, sino <b>waarmee</b>: <b>de pen waarmee ik schrijf</b>. Al hablar, waar y la preposición pueden separarse: <i>de bus waar ik op wacht</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "het huis die ik huur",
+     "het huis dat ik huur",
+     "Palabra het: dat."
+    ],
+    [
+     "de man dat daar staat",
+     "de man die daar staat",
+     "Palabra de: die."
+    ],
+    [
+     "het boek ik lees",
+     "het boek dat ik lees",
+     "El relativo no se puede omitir."
+    ],
+    [
+     "alles dat hij zegt",
+     "alles wat hij zegt",
+     "Tras alles: wat.",
+     "advice"
+    ],
+    [
+     "de pen met die ik schrijf",
+     "de pen waarmee ik schrijf",
+     "Cosa tras una preposición: waar + preposición."
+    ],
+    [
+     "de vrouw met wat ik werk",
+     "de vrouw met wie ik werk",
+     "Persona tras una preposición: wie."
+    ],
+    [
+     "de man die woont naast ons",
+     "de man die naast ons woont",
+     "El verbo va al final."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con die, dat, wat, wie o una forma con waar. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De vrouw ______ naast ons woont, is arts.",
+     "hint": "de vrouw",
+     "a": "die",
+     "full": "De vrouw die naast ons woont, is arts."
+    },
+    {
+     "q": "Het huis ______ we gekocht hebben, is oud.",
+     "hint": "het huis",
+     "a": "dat",
+     "full": "Het huis dat we gekocht hebben, is oud."
+    },
+    {
+     "q": "De boeken ______ ik lees, zijn in het Nederlands.",
+     "hint": "plural",
+     "a": "die",
+     "full": "De boeken die ik lees, zijn in het Nederlands."
+    },
+    {
+     "q": "Het meisje ______ daar zit, is mijn nicht.",
+     "hint": "het meisje",
+     "a": "dat",
+     "full": "Het meisje dat daar zit, is mijn nicht."
+    },
+    {
+     "q": "Alles ______ je zegt, is waar.",
+     "hint": "tras alles",
+     "a": "wat",
+     "full": "Alles wat je zegt, is waar."
+    },
+    {
+     "q": "Hij kwam te laat, ______ ik vervelend vond.",
+     "hint": "frase entera",
+     "a": "wat",
+     "full": "Hij kwam te laat, wat ik vervelend vond."
+    },
+    {
+     "q": "Dat is de collega met ______ ik samenwerk.",
+     "hint": "persona tras met",
+     "a": "wie",
+     "full": "Dat is de collega met wie ik samenwerk."
+    },
+    {
+     "q": "Het mes ______ ik brood snijd, is bot.",
+     "hint": "con el que",
+     "a": "waarmee",
+     "full": "Het mes waarmee ik brood snijd, is bot."
+    },
+    {
+     "q": "Dat is het onderwerp ______ we gisteren praatten.",
+     "hint": "del que",
+     "a": "waarover",
+     "full": "Dat is het onderwerp waarover we gisteren praatten."
+    },
+    {
+     "q": "De stad ______ ik geboren ben, is Leeds.",
+     "hint": "donde",
+     "a": "waar",
+     "full": "De stad waar ik geboren ben, is Leeds."
+    },
+    {
+     "q": "Het enige ______ ik wil, is slapen.",
+     "hint": "tras het enige",
+     "a": "wat",
+     "full": "Het enige wat ik wil, is slapen."
+    },
+    {
+     "q": "De trein ______ ik wacht, heeft vertraging.",
+     "hint": "que espero, wachten op",
+     "a": "waarop",
+     "full": "De trein waarop ik wacht, heeft vertraging."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "La mujer que vive al lado es médica.",
+     "a": "De vrouw die naast ons woont, is arts."
+    },
+    {
+     "q": "La casa que alquilamos es vieja.",
+     "a": "Het huis dat we huren, is oud."
+    },
+    {
+     "q": "Todo lo que dice es verdad.",
+     "a": "Alles wat hij zegt, is waar."
+    },
+    {
+     "q": "El hombre con quien hablaba es español.",
+     "a": "De man met wie ik praatte, is Spaans."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

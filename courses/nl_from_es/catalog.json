@@ -229,5 +229,16 @@
   "subtitle": "er is, er como lugar, er con números, y er + preposición (erop, ermee, erover)",
   "content": "b1_02_er.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_03_Las_oraciones_de_relativo",
+  "file": "B1_03_Las_oraciones_de_relativo.pdf",
+  "level": "B1",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Las oraciones de relativo",
+  "subtitle": "die y dat, wat tras alles e iets, met wie, y waar + preposición (waarover, waarmee)",
+  "content": "b1_03_relative_clauses.json",
+  "exercise_count": 12
  }
 ]
