@@ -1,0 +1,382 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "El origen de las palabras",
+  "subtitle": "Raíces germánicas compartidas con el inglés, préstamos franceses, palabras inglesas en neerlandés, y palabras neerlandesas en inglés y en español",
+  "footer": "Language Learning · C2 · Vocabulario · El origen de las palabras",
+  "next": "Siguiente: C2 · pdf 9 — Vocabulario especializado"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "usar las raíces germánicas que comparten el neerlandés y el inglés para adivinar palabras",
+    "reconocer los préstamos franceses y su pronunciación",
+    "conjugar verbos ingleses en neerlandés (<i>downloaden → gedownload</i>)",
+    "saber qué palabras inglesas y españolas vienen del neerlandés"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Raíces germánicas compartidas"
+  },
+  {
+   "type": "p",
+   "text": "El neerlandés y el inglés son parientes cercanos: los dos son lenguas germánicas occidentales. Muchas palabras básicas comparten raíz, a menudo con cambios de sonido regulares. Si sabes inglés, conocerlos te ayuda a adivinar palabras nuevas."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.4,
+    4.4,
+    8.2
+   ],
+   "head": [
+    "Neerlandés",
+    "Inglés",
+    "Patrón"
+   ],
+   "rows": [
+    [
+     "huis, muis, uit",
+     "house, mouse, out",
+     "ui = ou"
+    ],
+    [
+     "water, beter, dat",
+     "water, better, that",
+     "t = t, d = th"
+    ],
+    [
+     "dik, drie, denken",
+     "thick, three, think",
+     "d = th"
+    ],
+    [
+     "brood, boot, groot",
+     "bread, boat, great",
+     "o larga = ea, oa"
+    ],
+    [
+     "zee, zien, zout",
+     "sea, see, salt",
+     "z = s"
+    ],
+    [
+     "dag, weg, zeggen",
+     "day, way, say",
+     "g = y"
+    ],
+    [
+     "schip, school, schoen",
+     "ship, school, shoe",
+     "sch = sh / sk"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. Préstamos franceses"
+  },
+  {
+   "type": "p",
+   "text": "Desde la Edad Media hasta el siglo XIX, el francés fue la lengua de la cultura y de la élite. Miles de palabras francesas entraron en el neerlandés, a menudo con la ortografía y la pronunciación francesas (acento en la última sílaba). Para un hispanohablante son fáciles: muchas se parecen al español."
+  },
+  {
+   "type": "verbpairs",
+   "title": "Préstamos franceses",
+   "items": [
+    [
+     "het bureau",
+     "escritorio, oficina"
+    ],
+    [
+     "het cadeau",
+     "regalo"
+    ],
+    [
+     "het trottoir",
+     "acera"
+    ],
+    [
+     "het plafond",
+     "techo"
+    ],
+    [
+     "de paraplu",
+     "paraguas"
+    ],
+    [
+     "de portemonnee",
+     "monedero, cartera"
+    ],
+    [
+     "het horloge",
+     "reloj"
+    ],
+    [
+     "de jus",
+     "salsa de carne, jugo"
+    ],
+    [
+     "het niveau",
+     "nivel"
+    ],
+    [
+     "de garage",
+     "garaje"
+    ],
+    [
+     "de enquête",
+     "encuesta"
+    ],
+    [
+     "het restaurant",
+     "restaurante"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Palabras inglesas en neerlandés"
+  },
+  {
+   "type": "p",
+   "text": "Hoy el inglés es la principal fuente de palabras nuevas: <i>laptop, meeting, deadline, weekend, cool</i>. Los verbos ingleses reciben terminaciones neerlandesas y siguen las reglas neerlandesas, y 't kofschip se aplica según el <b>sonido</b> de la raíz inglesa: <i>downloaden → ik download, gedownload</i>; <i>updaten → geüpdatet</i>; <i>chillen → gechilld</i>. El español hace algo parecido (<i>chatear, guglear</i>)."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.0,
+    4.2,
+    4.6,
+    4.2
+   ],
+   "head": [
+    "Infinitivo",
+    "ik",
+    "Participio",
+    "Español"
+   ],
+   "rows": [
+    [
+     "downloaden",
+     "ik download",
+     "gedownload",
+     "descargar"
+    ],
+    [
+     "updaten",
+     "ik update",
+     "geüpdatet",
+     "actualizar"
+    ],
+    [
+     "googelen",
+     "ik googel",
+     "gegoogeld",
+     "buscar en Google"
+    ],
+    [
+     "mailen",
+     "ik mail",
+     "gemaild",
+     "mandar un correo"
+    ],
+    [
+     "skypen",
+     "ik skype",
+     "geskypet",
+     "hacer una videollamada"
+    ],
+    [
+     "chillen",
+     "ik chill",
+     "gechilld",
+     "relajarse"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "geüpdatet: raro, pero correcto",
+   "text": "La raíz de <i>updaten</i> es <i>updat</i>, que se pronuncia con t, así que el participio termina en -t con una -e- en medio: <b>geüpdatet</b>. La diéresis indica que <i>ge</i> y <i>up</i> son sílabas distintas. Estas formas parecen extrañas, pero siguen la ortografía oficial."
+  },
+  {
+   "type": "h1",
+   "text": "4. Palabras neerlandesas en inglés y en español"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Del neerlandés al inglés (y al español)",
+   "items": [
+    [
+     "het jacht",
+     "yate (inglés: yacht)"
+    ],
+    [
+     "de schipper",
+     "patrón de barco (inglés: skipper)"
+    ],
+    [
+     "het koekje",
+     "galleta (inglés: cookie)"
+    ],
+    [
+     "de baas",
+     "jefe (inglés: boss)"
+    ],
+    [
+     "het landschap",
+     "paisaje (inglés: landscape)"
+    ],
+    [
+     "de ezel",
+     "caballete (literalmente: burro)"
+    ],
+    [
+     "de brandewijn",
+     "brandy"
+    ],
+    [
+     "het dek",
+     "cubierta (inglés: deck)"
+    ],
+    [
+     "de schets",
+     "boceto (inglés: sketch)"
+    ],
+    [
+     "snoepen",
+     "fisgonear (inglés: to snoop; originalmente: comer dulces a escondidas)"
+    ],
+    [
+     "de koolsla",
+     "ensalada de col (inglés: coleslaw)"
+    ],
+    [
+     "Sinterklaas",
+     "Papá Noel (inglés: Santa Claus)"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Del mar, de Nueva Ámsterdam y de Flandes",
+   "text": "Muchas de estas palabras son del siglo XVII, cuando los neerlandeses dominaban la navegación (<i>yacht, skipper, deck</i>) y la pintura (<i>landscape, easel, sketch</i>). <i>Cookie, boss</i> y <i>Santa Claus</i> llegaron al inglés americano a través de Nueva Ámsterdam, la actual Nueva York. El español también tiene palabras de origen neerlandés, de la época de los Países Bajos españoles: <i>dique</i> (dijk) y <i>escaparate</i> (del antiguo <i>schaprade</i>, armario)."
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Ik heb het bestand ______.",
+     "hint": "downloaden, participio",
+     "a": "gedownload",
+     "full": "Ik heb het bestand gedownload."
+    },
+    {
+     "q": "Heb je de app al ______?",
+     "hint": "updaten, participio",
+     "a": "geüpdatet",
+     "full": "Heb je de app al geüpdatet?"
+    },
+    {
+     "q": "Ik heb zijn naam even ______.",
+     "hint": "googelen, participio",
+     "a": "gegoogeld",
+     "full": "Ik heb zijn naam even gegoogeld."
+    },
+    {
+     "q": "Neem je ______ mee, het gaat regenen.",
+     "hint": "paraguas",
+     "a": "paraplu",
+     "full": "Neem je paraplu mee, het gaat regenen."
+    },
+    {
+     "q": "Ik heb een ______ voor je verjaardag.",
+     "hint": "regalo",
+     "a": "cadeau",
+     "full": "Ik heb een cadeau voor je verjaardag."
+    },
+    {
+     "q": "Mijn ______ zit in mijn jaszak.",
+     "hint": "cartera",
+     "a": "portemonnee",
+     "full": "Mijn portemonnee zit in mijn jaszak."
+    },
+    {
+     "q": "Wat is je ______ Nederlands? B2 of C1?",
+     "hint": "nivel",
+     "a": "niveau",
+     "full": "Wat is je niveau Nederlands? B2 of C1?"
+    },
+    {
+     "q": "Het Engelse woord yacht komt van het Nederlandse woord ______.",
+     "hint": "del neerlandés",
+     "a": "jacht",
+     "full": "Het Engelse woord yacht komt van het Nederlandse woord jacht."
+    },
+    {
+     "q": "De schilder zette zijn doek op de ______.",
+     "hint": "caballete",
+     "a": "ezel",
+     "full": "De schilder zette zijn doek op de ezel."
+    },
+    {
+     "q": "Ik heb gisteren de hele dag ______.",
+     "hint": "chillen, participio",
+     "a": "gechilld",
+     "full": "Ik heb gisteren de hele dag gechilld."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "He descargado el archivo.",
+     "a": "Ik heb het bestand gedownload."
+    },
+    {
+     "q": "¿Has actualizado la aplicación?",
+     "a": "Heb je de app geüpdatet?"
+    },
+    {
+     "q": "un regalo",
+     "a": "een cadeau"
+    },
+    {
+     "q": "el techo",
+     "a": "het plafond"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
