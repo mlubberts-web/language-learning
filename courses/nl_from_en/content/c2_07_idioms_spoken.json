@@ -1,0 +1,63 @@
+{
+ "meta": {"level": "C2", "section": "Vocabulary", "number": 7, "total_in_level": 10,
+  "title": "Idioms, slang and spoken Dutch",
+  "subtitle": "Spoken words like joh and zeg, informal and youth language, idioms and sayings",
+  "footer": "Language Learning · C2 · Vocabulary · Spoken Dutch",
+  "next": "Next: C2 · pdf 8 — Word origins"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "understand the small words of spoken Dutch: <b>joh, zeg, hè, nou</b>",
+   "recognise informal and youth language",
+   "use common idioms in the right situation",
+   "understand well-known Dutch sayings"]},
+  {"type": "p", "text": "<b>Note:</b> you mainly need to <b>recognise</b> the words in sections 1 and 2. Use them only with people you know well; they don't belong in an exam or a formal text."},
+  {"type": "h1", "text": "1. The small words of speech"},
+  {"type": "table", "style": "plain", "widths": [2.6, 6.4, 8.0], "head": ["Word", "Function", "Example"], "rows": [
+   ["joh", "friendly or surprised address (like 'mate')", "Joh, wat leuk je te zien! Ach joh, het geeft niet."],
+   ["zeg", "attention, surprise or irritation", "Zeg, heb jij mijn pen? Nou zeg!"],
+   ["hè", "tag question, or a sigh", "Mooi weer, hè? Hè, eindelijk weekend."],
+   ["nou", "well, so; impatience", "Nou, wat vind je ervan? Kom nou!"],
+   ["toch", "isn't it, aren't you", "Je komt toch?"],
+   ["effe", "spoken even (a moment)", "Wacht effe."]]},
+  {"type": "h1", "text": "2. Informal and youth language"},
+  {"type": "verbpairs", "title": "Informal words", "items": [
+   ["tof", "great, cool"], ["vet", "cool, awesome"], ["chill", "relaxed, nice"], ["Boeien!", "Who cares!"],
+   ["Echt wel.", "Definitely."], ["Mwah.", "Meh, so-so."], ["Dikke doei!", "Bye! (very informal)"], ["Lekker bezig!", "Nice work! (also ironic)"],
+   ["sowieso", "anyway, definitely"], ["Hoezo?", "Why? How come?"], ["balen", "to be fed up"], ["gezeur", "moaning"]]},
+  {"type": "callout", "kind": "note", "title": "balen and baal je ervan?", "text": "<b>balen</b> (<i>Ik baal ervan</i> = I'm fed up with it, I'm gutted) is one of the most useful informal verbs. <b>Hoezo?</b> asks for a reason, often with surprise: <i>Je moet morgen werken. — Hoezo?</i> And <b>sowieso</b> means <i>anyway</i> or <i>definitely</i>: <i>Ik kom sowieso.</i>"},
+  {"type": "h1", "text": "3. Idioms"},
+  {"type": "verbpairs", "title": "Idioms at C2", "items": [
+   ["de kat de bel aanbinden", "to be the one to raise a difficult issue"], ["voor spek en bonen meedoen", "to take part without counting"],
+   ["de boot afhouden", "to keep putting something off"], ["iemand voor het blok zetten", "to force someone to decide"],
+   ["een appeltje met iemand te schillen hebben", "to have a bone to pick with someone"], ["met de handen in het haar zitten", "to be at one's wits' end"],
+   ["op je tenen lopen", "to push yourself to the limit"], ["de puntjes op de i zetten", "to put the finishing touches"],
+   ["een oogje dichtknijpen", "to turn a blind eye"], ["boter op je hoofd hebben", "to be guilty of the same thing"]]},
+  {"type": "h1", "text": "4. Sayings"},
+  {"type": "verbpairs", "title": "Well-known sayings", "items": [
+   ["Wie niet waagt, die niet wint.", "Nothing ventured, nothing gained."], ["Oost west, thuis best.", "There's no place like home."],
+   ["Beter laat dan nooit.", "Better late than never."], ["Haastige spoed is zelden goed.", "More haste, less speed."],
+   ["Wie A zegt, moet ook B zeggen.", "In for a penny, in for a pound."], ["Zo vader, zo zoon.", "Like father, like son."],
+   ["Geen gezeur, gewoon doen.", "No fuss, just do it."], ["Doe maar gewoon, dan doe je al gek genoeg.", "Just act normal, that's crazy enough."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "______, wat leuk je te zien!", "hint": "friendly address", "a": "joh", "full": "Joh, wat leuk je te zien!"},
+   {"q": "Mooi weer vandaag, ______?", "hint": "isn't it", "a": "hè", "full": "Mooi weer vandaag, hè?"},
+   {"q": "Ik ______ ervan dat ik niet mee kan.", "hint": "fed up", "a": "baal", "full": "Ik baal ervan dat ik niet mee kan."},
+   {"q": "Je moet morgen werken. — ______? Het is toch zondag?", "hint": "how come", "a": "hoezo", "full": "Je moet morgen werken. — Hoezo? Het is toch zondag?"},
+   {"q": "Wie durft de kat de ______ aan te binden?", "hint": "bell", "a": "bel", "full": "Wie durft de kat de bel aan te binden?"},
+   {"q": "Ik heb nog een appeltje met je te ______.", "hint": "peel", "a": "schillen", "full": "Ik heb nog een appeltje met je te schillen."},
+   {"q": "Hij zit met de handen in het ______.", "hint": "hair", "a": "haar", "full": "Hij zit met de handen in het haar."},
+   {"q": "We moeten nog even de puntjes op de ______ zetten.", "hint": "letter", "a": "i", "full": "We moeten nog even de puntjes op de i zetten."},
+   {"q": "Wie niet ______, die niet wint.", "hint": "dares", "a": "waagt", "full": "Wie niet waagt, die niet wint."},
+   {"q": "Oost west, thuis ______.", "hint": "best", "a": "best", "full": "Oost west, thuis best."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "Better late than never.", "a": "Beter laat dan nooit."},
+   {"q": "Like father, like son.", "a": "Zo vader, zo zoon."},
+   {"q": "I'm fed up with it.", "a": "Ik baal ervan."},
+   {"q": "There's no place like home.", "a": "Oost west, thuis best."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

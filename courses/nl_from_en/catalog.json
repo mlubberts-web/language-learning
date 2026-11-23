@@ -603,5 +603,16 @@
   "subtitle": "Reports and proposals, business phrases, mocht u ..., official and legal Dutch, and plain language",
   "content": "c2_06_formal_business_writing.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_07_Idioms_slang_and_spoken_Dutch",
+  "file": "C2_07_Idioms_slang_and_spoken_Dutch.pdf",
+  "level": "C2",
+  "number": 7,
+  "section": "Vocabulary",
+  "title": "Idioms, slang and spoken Dutch",
+  "subtitle": "Spoken words like joh and zeg, informal and youth language, idioms and sayings",
+  "content": "c2_07_idioms_spoken.json",
+  "exercise_count": 10
  }
 ]
