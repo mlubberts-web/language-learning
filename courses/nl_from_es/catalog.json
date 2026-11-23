@@ -625,5 +625,16 @@
   "subtitle": "Raíces germánicas compartidas con el inglés, préstamos franceses, palabras inglesas en neerlandés, y palabras neerlandesas en inglés y en español",
   "content": "c2_08_word_origins.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_09_Vocabulario_especializado",
+  "file": "C2_09_Vocabulario_especializado.pdf",
+  "level": "C2",
+  "number": 9,
+  "section": "Vocabulario",
+  "title": "Vocabulario especializado",
+  "subtitle": "Derecho, medicina, tecnología, economía y ciencia",
+  "content": "c2_09_specialist_vocabulary.json",
+  "exercise_count": 10
  }
 ]

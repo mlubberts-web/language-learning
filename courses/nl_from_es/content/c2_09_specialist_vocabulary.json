@@ -1,0 +1,406 @@
+{
+ "meta": {
+  "level": "C2",
+  "section": "Vocabulario",
+  "number": 9,
+  "total_in_level": 10,
+  "title": "Vocabulario especializado",
+  "subtitle": "Derecho, medicina, tecnología, economía y ciencia",
+  "footer": "Language Learning · C2 · Vocabulario · Vocabulario especializado",
+  "next": "Siguiente: C2 · pdf 10 — Expresiones de maestría"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "hablar y leer de derecho, salud, tecnología y economía",
+    "seguir textos especializados consultando menos el diccionario",
+    "evitar los falsos amigos del lenguaje especializado"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Derecho"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Derecho",
+   "items": [
+    [
+     "de rechtszaak",
+     "juicio, proceso"
+    ],
+    [
+     "de verdachte",
+     "sospechoso, acusado"
+    ],
+    [
+     "de eiser",
+     "demandante"
+    ],
+    [
+     "de rechter",
+     "juez"
+    ],
+    [
+     "de uitspraak",
+     "fallo, resolución"
+    ],
+    [
+     "het vonnis",
+     "sentencia"
+    ],
+    [
+     "het hoger beroep",
+     "recurso de apelación"
+    ],
+    [
+     "de advocaat",
+     "abogado"
+    ],
+    [
+     "de notaris",
+     "notario"
+    ],
+    [
+     "de getuige",
+     "testigo"
+    ],
+    [
+     "aanklagen",
+     "demandar, denunciar"
+    ],
+    [
+     "vrijspreken",
+     "absolver"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "Sin jurado en los Países Bajos",
+   "text": "Los tribunales neerlandeses no tienen jurado: decide un <b>rechter</b> (juez) o tres. El <b>notaris</b> tiene un papel parecido al del notario español: lo necesitas para comprar una casa, crear una empresa o hacer testamento. Y <b>advocaat</b> (abogado) es también un licor de huevo neerlandés."
+  },
+  {
+   "type": "h1",
+   "text": "2. Medicina"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Medicina",
+   "items": [
+    [
+     "de diagnose",
+     "diagnóstico"
+    ],
+    [
+     "het symptoom",
+     "síntoma"
+    ],
+    [
+     "de behandeling",
+     "tratamiento"
+    ],
+    [
+     "het recept",
+     "receta (médica y de cocina)"
+    ],
+    [
+     "de bijwerking",
+     "efecto secundario"
+    ],
+    [
+     "de huisarts",
+     "médico de cabecera"
+    ],
+    [
+     "de spoedeisende hulp",
+     "urgencias"
+    ],
+    [
+     "de operatie",
+     "operación"
+    ],
+    [
+     "herstellen",
+     "recuperarse"
+    ],
+    [
+     "chronisch",
+     "crónico"
+    ],
+    [
+     "besmettelijk",
+     "contagioso"
+    ],
+    [
+     "het vaccin",
+     "vacuna"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Tecnología"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Tecnología",
+   "items": [
+    [
+     "het algoritme",
+     "algoritmo"
+    ],
+    [
+     "de versleuteling",
+     "cifrado"
+    ],
+    [
+     "de bandbreedte",
+     "ancho de banda"
+    ],
+    [
+     "de kunstmatige intelligentie",
+     "inteligencia artificial"
+    ],
+    [
+     "het datalek",
+     "filtración de datos"
+    ],
+    [
+     "de cyberbeveiliging",
+     "ciberseguridad"
+    ],
+    [
+     "gebruiksvriendelijk",
+     "fácil de usar"
+    ],
+    [
+     "bijwerken",
+     "actualizar"
+    ],
+    [
+     "de opslag",
+     "almacenamiento"
+    ],
+    [
+     "het wachtwoord",
+     "contraseña"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. Economía"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Economía y finanzas",
+   "items": [
+    [
+     "het bbp",
+     "PIB"
+    ],
+    [
+     "de inflatie",
+     "inflación"
+    ],
+    [
+     "de recessie",
+     "recesión"
+    ],
+    [
+     "de rente",
+     "tipo de interés"
+    ],
+    [
+     "de aandeelhouder",
+     "accionista"
+    ],
+    [
+     "de omzet",
+     "volumen de negocio, facturación"
+    ],
+    [
+     "de winstmarge",
+     "margen de beneficio"
+    ],
+    [
+     "de beurs",
+     "bolsa"
+    ],
+    [
+     "het faillissement",
+     "quiebra"
+    ],
+    [
+     "investeren",
+     "invertir"
+    ],
+    [
+     "vraag en aanbod",
+     "la oferta y la demanda"
+    ],
+    [
+     "de koopkracht",
+     "poder adquisitivo"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "vraag en aanbod: al revés",
+   "text": "<i>La oferta y la demanda</i> es en neerlandés <b>vraag en aanbod</b>: la demanda va primero. Y <b>de beurs</b> significa a la vez <i>bolsa</i>, <i>beca</i> (<i>een studiebeurs</i>) y <i>feria comercial</i>."
+  },
+  {
+   "type": "h1",
+   "text": "5. Ciencia"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Ciencia",
+   "items": [
+    [
+     "de hypothese",
+     "hipótesis"
+    ],
+    [
+     "het experiment",
+     "experimento"
+    ],
+    [
+     "de gegevens",
+     "datos"
+    ],
+    [
+     "de steekproef",
+     "muestra"
+    ],
+    [
+     "de bevindingen",
+     "resultados, hallazgos"
+    ],
+    [
+     "de variabele",
+     "variable"
+    ],
+    [
+     "herhalen (een onderzoek)",
+     "replicar, reproducir"
+    ],
+    [
+     "de vakgenoten",
+     "colegas, pares"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la palabra que falta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "De ______ werd vrijgesproken.",
+     "hint": "sospechoso",
+     "a": "verdachte",
+     "full": "De verdachte werd vrijgesproken."
+    },
+    {
+     "q": "Hij gaat in hoger ______ tegen het vonnis.",
+     "hint": "apelación",
+     "a": "beroep",
+     "full": "Hij gaat in hoger beroep tegen het vonnis."
+    },
+    {
+     "q": "Voor de koop van een huis heb je een ______ nodig.",
+     "hint": "notario",
+     "a": "notaris",
+     "full": "Voor de koop van een huis heb je een notaris nodig."
+    },
+    {
+     "q": "De dokter gaf me een ______ voor pijnstillers.",
+     "hint": "receta",
+     "a": "recept",
+     "full": "De dokter gaf me een recept voor pijnstillers."
+    },
+    {
+     "q": "Hoofdpijn is een bekende ______ van dit medicijn.",
+     "hint": "efecto secundario",
+     "a": "bijwerking",
+     "full": "Hoofdpijn is een bekende bijwerking van dit medicijn."
+    },
+    {
+     "q": "Het bedrijf meldde vorige week een ______.",
+     "hint": "filtración de datos",
+     "a": "datalek",
+     "full": "Het bedrijf meldde vorige week een datalek."
+    },
+    {
+     "q": "De centrale bank heeft de ______ verhoogd.",
+     "hint": "tipo de interés",
+     "a": "rente",
+     "full": "De centrale bank heeft de rente verhoogd."
+    },
+    {
+     "q": "De prijzen worden bepaald door vraag en ______.",
+     "hint": "oferta",
+     "a": "aanbod",
+     "full": "De prijzen worden bepaald door vraag en aanbod."
+    },
+    {
+     "q": "De ______ van het bedrijf was tien miljoen euro.",
+     "hint": "facturación",
+     "a": "omzet",
+     "full": "De omzet van het bedrijf was tien miljoen euro."
+    },
+    {
+     "q": "De onderzoekers konden de resultaten niet ______.",
+     "hint": "replicar",
+     "a": "herhalen",
+     "full": "De onderzoekers konden de resultaten niet herhalen."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "El sospechoso fue absuelto.",
+     "a": "De verdachte werd vrijgesproken."
+    },
+    {
+     "q": "Tengo cita con mi médico de cabecera.",
+     "a": "Ik heb een afspraak bij de huisarts."
+    },
+    {
+     "q": "Los precios se determinan por la oferta y la demanda.",
+     "a": "De prijzen worden bepaald door vraag en aanbod."
+    },
+    {
+     "q": "La empresa quebró.",
+     "a": "Het bedrijf ging failliet."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
