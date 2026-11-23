@@ -1,0 +1,312 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Verbos",
+  "number": 2,
+  "total_in_level": 10,
+  "title": "El past perfect",
+  "subtitle": "had + participio: lo que ya había pasado antes de otro momento del pasado",
+  "footer": "Language Learning · B1 · Verbos · Past perfect",
+  "next": "Siguiente: B1 · pdf 3 — Las oraciones condicionales 0, 1 y 2"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el past perfect con <b>had + participio</b>",
+    "dejar claro qué suceso ocurrió primero",
+    "usar <b>by the time, already, before</b> y <b>after</b>",
+    "reconocer el past perfect continuous (<i>had been waiting</i>)"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "conj",
+   "verb": "to leave",
+   "meaning": "irse, salir",
+   "label": "verbo irregular",
+   "tense": "past perfect",
+   "forms": [
+    "had left",
+    "had left",
+    "had left",
+    "had left",
+    "had left",
+    "had left"
+   ],
+   "examples": [
+    [
+     "I had already left when she called.",
+     "Ya me había ido cuando llamó."
+    ],
+    [
+     "You had left your keys at home.",
+     "Te habías dejado las llaves en casa."
+    ],
+    [
+     "The train had left by the time we arrived.",
+     "El tren ya había salido cuando llegamos."
+    ],
+    [
+     "We had left before the rain started.",
+     "Nos habíamos ido antes de que empezara a llover."
+    ],
+    [
+     "You had left the door open.",
+     "Os habíais dejado la puerta abierta."
+    ],
+    [
+     "They hadn't left yet.",
+     "Todavía no se habían ido."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "El past perfect es siempre <b>had</b>, para todas las personas, como <i>había</i>. La forma corta es <b>'d</b>: <i>I'd seen, she'd gone</i>. La negación es <b>hadn't</b>."
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Cuándo se usa?"
+  },
+  {
+   "type": "p",
+   "text": "Cuentas el pasado en past simple. Si quieres mostrar que algo <b>ya había pasado antes</b>, usas el past perfect."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Inglés",
+    "Orden"
+   ],
+   "rows": [
+    [
+     "When I arrived, the film had started.",
+     "primero empezó la película, luego llegué yo"
+    ],
+    [
+     "When I arrived, the film started.",
+     "llegué, y entonces empezó la película"
+    ],
+    [
+     "She was nervous because she had never flown before.",
+     "nunca había volado antes de ese momento"
+    ],
+    [
+     "I didn't recognise him. He had grown a beard.",
+     "la barba ya estaba allí"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Como el pluscuamperfecto español",
+   "text": "Es el mismo tiempo que <i>había visto</i>: <i>Ya lo <b>había visto</b></i> = <b>I <b>had</b> already <b>seen</b> it</b>. Pero el inglés es más estricto: donde el español a veces se conforma con el indefinido (<i>Cuando llegué, la película ya empezó</i>), el inglés necesita el past perfect: <b>the film had already started</b>."
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "No hace falta si el orden ya está claro",
+   "text": "Después de <b>after</b> o <b>before</b> el orden ya está claro, así que también vale el past simple: <i>After she <b>finished</b> (o <b>had finished</b>) her work, she went home.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "3. Palabras que lo acompañan"
+  },
+  {
+   "type": "verbpairs",
+   "title": "Expresiones de tiempo",
+   "items": [
+    [
+     "already",
+     "ya"
+    ],
+    [
+     "by the time",
+     "para cuando, cuando"
+    ],
+    [
+     "before",
+     "antes, antes de que"
+    ],
+    [
+     "after",
+     "después de que"
+    ],
+    [
+     "never ... before",
+     "nunca antes"
+    ],
+    [
+     "just",
+     "acabar de, justo"
+    ],
+    [
+     "by then",
+     "para entonces"
+    ],
+    [
+     "as soon as",
+     "en cuanto, tan pronto como"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "4. El past perfect continuous"
+  },
+  {
+   "type": "p",
+   "text": "Con <b>had been + -ing</b> dices cuánto tiempo llevabas haciendo algo antes de un momento del pasado: <i>When the bus finally came, we <b>had been waiting</b> for an hour.</i> (Llevábamos una hora esperando.) <i>She was tired because she <b>had been working</b> all day.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "When we arrived, the train has left.",
+     "When we arrived, the train had left.",
+     "Antes de un momento del pasado: had."
+    ],
+    [
+     "He already went home when I arrived.",
+     "He had already gone home when I arrived.",
+     "El past perfect va siempre con had."
+    ],
+    [
+     "I didn't know her because I never met her before.",
+     "I didn't know her because I had never met her before.",
+     "Antes de ese momento: past perfect."
+    ],
+    [
+     "She had went to bed.",
+     "She had gone to bed.",
+     "Después de had va el participio."
+    ],
+    [
+     "We were waiting for an hour when the bus came.",
+     "We had been waiting for an hour when the bus came.",
+     "Cuánto tiempo llevabas: had been + -ing."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el past simple o el past perfect. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "When I got to the station, the train ______.",
+     "hint": "leave, ya antes",
+     "a": "had left",
+     "full": "When I got to the station, the train had left."
+    },
+    {
+     "q": "She ______ never seen snow before she moved to Canada.",
+     "hint": "have",
+     "a": "had",
+     "full": "She had never seen snow before she moved to Canada."
+    },
+    {
+     "q": "I didn't recognise him. He ______ a lot.",
+     "hint": "change",
+     "a": "had changed",
+     "full": "I didn't recognise him. He had changed a lot."
+    },
+    {
+     "q": "By the time we arrived, the party ______.",
+     "hint": "finish",
+     "a": "had finished",
+     "full": "By the time we arrived, the party had finished."
+    },
+    {
+     "q": "They ______ tired because they had walked all day.",
+     "hint": "be",
+     "a": "were",
+     "full": "They were tired because they had walked all day."
+    },
+    {
+     "q": "We ______ eaten, so we weren't hungry.",
+     "hint": "already",
+     "a": "had already",
+     "full": "We had already eaten, so we weren't hungry."
+    },
+    {
+     "q": "He couldn't pay because he ______ his wallet.",
+     "hint": "lose",
+     "a": "had lost",
+     "full": "He couldn't pay because he had lost his wallet."
+    },
+    {
+     "q": "We had ______ waiting for two hours when the doctor called us.",
+     "hint": "be",
+     "a": "been",
+     "full": "We had been waiting for two hours when the doctor called us."
+    },
+    {
+     "q": "I ______ seen the film, so I didn't go.",
+     "hint": "have, past perfect",
+     "a": "had",
+     "full": "I had seen the film, so I didn't go."
+    },
+    {
+     "q": "She told me she ______ in Spain before.",
+     "hint": "never, live",
+     "a": "had never lived",
+     "full": "She told me she had never lived in Spain before."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Cuando llegué, la película ya había empezado.",
+     "a": "When I arrived, the film had already started."
+    },
+    {
+     "q": "Él ya se había ido a casa.",
+     "a": "He had already gone home."
+    },
+    {
+     "q": "Nunca la había visto antes.",
+     "a": "I had never seen her before."
+    },
+    {
+     "q": "Llevábamos una hora esperando.",
+     "a": "We had been waiting for an hour."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

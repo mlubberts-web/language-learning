@@ -207,5 +207,38 @@
   "subtitle": "Los viajes, la salud, el tiempo, el trabajo, el tiempo libre, y frases para el teléfono y el correo electrónico",
   "content": "a2_10_vocabulary_phrases.json",
   "exercise_count": 12
+ },
+ {
+  "id": "B1_01_El_present_perfect_continuous",
+  "file": "B1_01_El_present_perfect_continuous.pdf",
+  "level": "B1",
+  "number": 1,
+  "section": "Verbos",
+  "title": "El present perfect continuous",
+  "subtitle": "have been + -ing: cuánto tiempo llevas haciendo algo, y la diferencia con el present perfect simple",
+  "content": "b1_01_present_perfect_continuous.json",
+  "exercise_count": 12
+ },
+ {
+  "id": "B1_02_El_past_perfect",
+  "file": "B1_02_El_past_perfect.pdf",
+  "level": "B1",
+  "number": 2,
+  "section": "Verbos",
+  "title": "El past perfect",
+  "subtitle": "had + participio: lo que ya había pasado antes de otro momento del pasado",
+  "content": "b1_02_past_perfect.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "B1_03_Las_oraciones_condicionales_0_1_y_2",
+  "file": "B1_03_Las_oraciones_condicionales_0_1_y_2.pdf",
+  "level": "B1",
+  "number": 3,
+  "section": "Gramática",
+  "title": "Las oraciones condicionales 0, 1 y 2",
+  "subtitle": "Hechos, posibilidades reales y situaciones imaginarias, con if, unless, when y would",
+  "content": "b1_03_conditionals.json",
+  "exercise_count": 12
  }
 ]

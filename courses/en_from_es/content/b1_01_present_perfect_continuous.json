@@ -1,0 +1,353 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Verbos",
+  "number": 1,
+  "total_in_level": 10,
+  "title": "El present perfect continuous",
+  "subtitle": "have been + -ing: cuánto tiempo llevas haciendo algo, y la diferencia con el present perfect simple",
+  "footer": "Language Learning · B1 · Verbos · Present perfect continuous",
+  "next": "Siguiente: B1 · pdf 2 — El past perfect"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "formar el present perfect continuous con <b>have / has been + -ing</b>",
+    "decir cuánto tiempo llevas haciendo algo, con <b>for, since</b> y <b>How long</b>",
+    "describir los efectos visibles de una actividad reciente",
+    "elegir entre <i>I've been reading</i> e <i>I've read</i>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. La forma"
+  },
+  {
+   "type": "conj",
+   "verb": "to wait",
+   "meaning": "esperar",
+   "label": "verbo regular",
+   "tense": "present perfect continuous",
+   "forms": [
+    "have been wait*ing*",
+    "have been wait*ing*",
+    "has been wait*ing*",
+    "have been wait*ing*",
+    "have been wait*ing*",
+    "have been wait*ing*"
+   ],
+   "examples": [
+    [
+     "I've been waiting for an hour.",
+     "Llevo una hora esperando."
+    ],
+    [
+     "Have you been waiting long?",
+     "¿Llevas mucho rato esperando?"
+    ],
+    [
+     "She's been waiting since nine.",
+     "Ella está esperando desde las nueve."
+    ],
+    [
+     "We've been waiting for the bus.",
+     "Llevamos un rato esperando el autobús."
+    ],
+    [
+     "You've been waiting patiently.",
+     "Habéis estado esperando con paciencia."
+    ],
+    [
+     "They've been waiting all day.",
+     "Llevan todo el día esperando."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Afirmativa",
+    "Negación",
+    "Pregunta"
+   ],
+   "rows": [
+    [
+     "I've been working.",
+     "I haven't been working.",
+     "Have you been working?"
+    ],
+    [
+     "She's been crying.",
+     "She hasn't been crying.",
+     "Has she been crying?"
+    ],
+    [
+     "They've been living here.",
+     "They haven't been living here.",
+     "How long have they been living here?"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "2. ¿Cuándo se usa?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    6.4,
+    6.0
+   ],
+   "head": [
+    "Uso",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "Algo que empezó hace un tiempo y sigue",
+     "I've been learning English for three years.",
+     "Llevo tres años estudiando inglés."
+    ],
+    [
+     "¿Cuánto tiempo?",
+     "How long have you been living here?",
+     "¿Cuánto tiempo llevas viviendo aquí?"
+    ],
+    [
+     "Efecto visible de algo reciente",
+     "Your eyes are red. Have you been crying?",
+     "Tienes los ojos rojos. ¿Has estado llorando?"
+    ],
+    [
+     "Actividad repetida hasta ahora",
+     "I've been calling you all morning.",
+     "Llevo toda la mañana intentando llamarte."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Llevo una hora esperando",
+   "text": "El español dice <i>Llevo una hora esperando</i>, <i>Hace una hora que espero</i> o <i>Espero desde hace una hora</i>. El inglés nunca usa el presente para esto. Di <b>I've been waiting for an hour</b>. <i>I'm waiting since an hour</i> o <i>I wait from one hour</i> son errores típicos de los hispanohablantes."
+  },
+  {
+   "type": "h1",
+   "text": "3. ¿Simple o continuous?"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    8.4,
+    8.6
+   ],
+   "head": [
+    "Present perfect simple",
+    "Present perfect continuous"
+   ],
+   "rows": [
+    [
+     "El resultado, la cantidad: I've read three books this month.",
+     "La actividad, la duración: I've been reading all afternoon."
+    ],
+    [
+     "Terminado: I've painted the kitchen. (ya está acabada)",
+     "En curso, quizá sin terminar: I've been painting the kitchen. (tengo pintura en las manos)"
+    ],
+    [
+     "Permanente: I've lived here all my life.",
+     "Temporal: I've been living with friends since May."
+    ],
+    [
+     "Con los estados: I've known him for years.",
+     "No con los estados: I've been knowing him (incorrecto)."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "How many / how much: simple",
+   "text": "Si preguntas por una cantidad, usa el simple: <i>How many cups of coffee <b>have</b> you <b>had</b>?</i> Si preguntas por la duración, el continuous: <i>How long <b>have</b> you <b>been</b> drinking coffee?</i>"
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "Verbos de estado",
+   "text": "<b>know, like, love, believe, own, be</b> y otros verbos de estado no van en continuous: <i>I've known her since school</i> (la conozco desde el colegio), <i>We've been married for ten years</i> (llevamos diez años casados)."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "I wait here since ten o'clock.",
+     "I've been waiting here since ten o'clock.",
+     "Algo en curso hasta ahora: present perfect continuous."
+    ],
+    [
+     "I'm learning English for two years.",
+     "I've been learning English for two years.",
+     "Duración hasta ahora: no el present continuous."
+    ],
+    [
+     "She has been knowing him for years.",
+     "She has known him for years.",
+     "know no va en continuous."
+    ],
+    [
+     "How long are you living here?",
+     "How long have you been living here?",
+     "Cuánto tiempo llevas: present perfect continuous."
+    ],
+    [
+     "I've been reading three books.",
+     "I've read three books.",
+     "Una cantidad: present perfect simple."
+    ],
+    [
+     "He has been work all day.",
+     "He has been working all day.",
+     "Después de been va la forma en -ing."
+    ],
+    [
+     "We have been waiting since two hours.",
+     "We have been waiting for two hours.",
+     "Un periodo: for."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con el present perfect simple o continuous. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "I ______ for you for twenty minutes!",
+     "hint": "wait",
+     "a": "have been waiting",
+     "full": "I have been waiting for you for twenty minutes!"
+    },
+    {
+     "q": "How long ______ you been learning English?",
+     "hint": "have o has",
+     "a": "have",
+     "full": "How long have you been learning English?"
+    },
+    {
+     "q": "She ______ all morning. She looks tired.",
+     "hint": "work",
+     "a": "has been working",
+     "full": "She has been working all morning. She looks tired."
+    },
+    {
+     "q": "I ______ four emails today.",
+     "hint": "write, cantidad",
+     "a": "have written",
+     "full": "I have written four emails today."
+    },
+    {
+     "q": "We ______ each other since we were children.",
+     "hint": "know",
+     "a": "have known",
+     "full": "We have known each other since we were children."
+    },
+    {
+     "q": "It ______ raining since this morning.",
+     "hint": "have been",
+     "a": "has been",
+     "full": "It has been raining since this morning."
+    },
+    {
+     "q": "Your hands are dirty. What have you ______ doing?",
+     "hint": "be",
+     "a": "been",
+     "full": "Your hands are dirty. What have you been doing?"
+    },
+    {
+     "q": "They ______ living in Leeds for six months.",
+     "hint": "have been",
+     "a": "have been",
+     "full": "They have been living in Leeds for six months."
+    },
+    {
+     "q": "I've been studying ______ 8 o'clock.",
+     "hint": "for o since",
+     "a": "since",
+     "full": "I've been studying since 8 o'clock."
+    },
+    {
+     "q": "He's been playing the guitar ______ ten years.",
+     "hint": "for o since",
+     "a": "for",
+     "full": "He's been playing the guitar for ten years."
+    },
+    {
+     "q": "How many cups of tea ______ you had today?",
+     "hint": "have o has",
+     "a": "have",
+     "full": "How many cups of tea have you had today?"
+    },
+    {
+     "q": "I ______ my keys. I can't find them anywhere.",
+     "hint": "lose",
+     "a": "have lost",
+     "full": "I have lost my keys. I can't find them anywhere."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Llevo una hora esperando.",
+     "a": "I've been waiting for an hour."
+    },
+    {
+     "q": "¿Cuánto tiempo llevas viviendo aquí?",
+     "a": "How long have you been living here?"
+    },
+    {
+     "q": "Lleva todo el día lloviendo.",
+     "a": "It has been raining all day."
+    },
+    {
+     "q": "La conozco desde hace diez años.",
+     "a": "I have known her for ten years."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}

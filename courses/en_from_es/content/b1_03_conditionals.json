@@ -1,0 +1,342 @@
+{
+ "meta": {
+  "level": "B1",
+  "section": "Gramática",
+  "number": 3,
+  "total_in_level": 10,
+  "title": "Las oraciones condicionales 0, 1 y 2",
+  "subtitle": "Hechos, posibilidades reales y situaciones imaginarias, con if, unless, when y would",
+  "footer": "Language Learning · B1 · Gramática · Oraciones condicionales",
+  "next": "Siguiente: B1 · pdf 4 — La voz pasiva"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "expresar hechos generales con la zero conditional",
+    "expresar posibilidades reales en el futuro con la first conditional",
+    "describir situaciones imaginarias con la second conditional",
+    "usar <b>unless</b>, <b>when</b> e <b>if I were you</b>"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. Tres tipos"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    4.6,
+    4.6,
+    4.4
+   ],
+   "head": [
+    "Tipo",
+    "Frase con if",
+    "Frase principal",
+    "Ejemplo"
+   ],
+   "rows": [
+    [
+     "Zero: siempre es verdad",
+     "if + present simple",
+     "present simple",
+     "If you heat ice, it melts."
+    ],
+    [
+     "First: posibilidad real",
+     "if + present simple",
+     "will + verbo",
+     "If it rains, I'll stay at home."
+    ],
+    [
+     "Second: imaginaria",
+     "if + past simple",
+     "would + verbo",
+     "If I had more money, I'd buy a boat."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Nunca will en la frase con if",
+   "text": "Igual que en español (<i>si llueve mañana</i>, nunca <i>si lloverá</i>), después de <b>if</b> nunca va will: <b>If it rains tomorrow, I'll stay at home</b>. Pero ojo con <b>when, as soon as, before, after, until</b>: donde el español usa el subjuntivo (<i>cuando llegue</i>, <i>en cuanto termine</i>), el inglés usa el present simple: <b>when I arrive</b>, nunca <i>when I will arrive</i>."
+  },
+  {
+   "type": "h1",
+   "text": "2. La first conditional"
+  },
+  {
+   "type": "p",
+   "text": "Para algo que puede pasar de verdad: <i>If you study, you'll pass. If we don't leave now, we'll miss the train. What will you do if she says no?</i> En lugar de will también puede ir un imperativo o un verbo modal: <i>If you see Tom, tell him to call me. If you're tired, you can go to bed.</i>"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    3.4,
+    6.6,
+    7.0
+   ],
+   "head": [
+    "Palabra",
+    "Ejemplo",
+    "Español"
+   ],
+   "rows": [
+    [
+     "unless",
+     "I won't go unless you come with me.",
+     "No iré a menos que vengas conmigo."
+    ],
+    [
+     "when",
+     "When I get home, I'll call you.",
+     "Cuando llegue a casa, te llamo. (pasará seguro)"
+    ],
+    [
+     "if",
+     "If I see him, I'll tell him.",
+     "Si lo veo, se lo digo. (quizá)"
+    ],
+    [
+     "as soon as",
+     "I'll text you as soon as I arrive.",
+     "Te escribo en cuanto llegue."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "warn",
+   "title": "si = if, cuando = when",
+   "text": "Como en español, <b>if</b> (si) es para lo que quizá pase y <b>when</b> (cuando) para lo que pasará seguro: <i>When I'm 18, I'll learn to drive</i>. Y <b>unless</b> ya es negativo: <i>a menos que vengas</i> = <b>unless you come</b>, nunca <i>unless you don't come</i>."
+  },
+  {
+   "type": "h1",
+   "text": "3. La second conditional"
+  },
+  {
+   "type": "p",
+   "text": "Para algo que no es verdad o es muy improbable: <i>If I won the lottery, I would travel the world.</i> (Probablemente no me tocará.) <i>If I lived in London, I'd go to the theatre every week.</i> (No vivo en Londres.) El past simple de la frase con if no habla del pasado: es el <i>si tuviera</i>, <i>si viviera</i> del español."
+  },
+  {
+   "type": "conj",
+   "verb": "to go",
+   "meaning": "ir",
+   "label": "con would",
+   "tense": "conditional",
+   "forms": [
+    "would go",
+    "would go",
+    "would go",
+    "would go",
+    "would go",
+    "would go"
+   ],
+   "examples": [
+    [
+     "I would go if I had time.",
+     "Iría si tuviera tiempo."
+    ],
+    [
+     "Would you go with me?",
+     "¿Vendrías conmigo?"
+    ],
+    [
+     "She would go by train.",
+     "Ella iría en tren."
+    ],
+    [
+     "We'd go more often if it were cheaper.",
+     "Iríamos más a menudo si fuera más barato."
+    ],
+    [
+     "You would go if you could.",
+     "Iríais si pudierais."
+    ],
+    [
+     "They wouldn't go without you.",
+     "No irían sin ti."
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "If I were you = yo que tú",
+   "text": "Para dar un consejo se dice <b>If I were you, I'd ...</b> (Yo que tú ..., Yo en tu lugar ...). En inglés cuidado se usa <b>were</b> para todas las personas: <i>If she were here ...</i> Al hablar también se oye <i>If I was</i>."
+  },
+  {
+   "type": "callout",
+   "kind": "dutch",
+   "title": "Un solo would",
+   "text": "El español pone el condicional solo en la frase principal (<i>Si tuviera dinero, viajaría</i>), y el inglés igual: <b>If I had money, I would travel.</b> Nunca <i>If I would have money</i>. Piensa: <i>si tuviera</i> = <b>if I had</b>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "If it will rain, we stay at home.",
+     "If it rains, we'll stay at home.",
+     "Nada de will después de if; will va en la frase principal."
+    ],
+    [
+     "If I would have time, I would help you.",
+     "If I had time, I would help you.",
+     "Nada de would en la frase con if."
+    ],
+    [
+     "I'll call you when I will arrive.",
+     "I'll call you when I arrive.",
+     "Después de when: present simple."
+    ],
+    [
+     "If I am you, I would go.",
+     "If I were you, I would go.",
+     "Un consejo: If I were you."
+    ],
+    [
+     "Unless you don't hurry, you'll miss the bus.",
+     "Unless you hurry, you'll miss the bus.",
+     "unless ya significa 'si no'."
+    ],
+    [
+     "If I'm 18, I'll get my licence.",
+     "When I'm 18, I'll get my licence.",
+     "Pasará seguro: when."
+    ],
+    [
+     "If you heat water to 100 degrees, it would boil.",
+     "If you heat water to 100 degrees, it boils.",
+     "Un hecho: zero conditional."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "5. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la forma correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "If it ______ tomorrow, we'll cancel the picnic.",
+     "hint": "rain",
+     "a": "rains",
+     "full": "If it rains tomorrow, we'll cancel the picnic."
+    },
+    {
+     "q": "If you mix red and blue, you ______ purple.",
+     "hint": "get, hecho",
+     "a": "get",
+     "full": "If you mix red and blue, you get purple."
+    },
+    {
+     "q": "If I ______ more time, I would learn the piano.",
+     "hint": "have",
+     "a": "had",
+     "full": "If I had more time, I would learn the piano."
+    },
+    {
+     "q": "If I were you, I ______ take the job.",
+     "hint": "condicional",
+     "a": "would",
+     "full": "If I were you, I would take the job."
+    },
+    {
+     "q": "We'll miss the train ______ we leave now.",
+     "hint": "a menos que",
+     "a": "unless",
+     "full": "We'll miss the train unless we leave now."
+    },
+    {
+     "q": "I'll phone you ______ I get home.",
+     "hint": "en cuanto",
+     "a": "as soon as",
+     "full": "I'll phone you as soon as I get home."
+    },
+    {
+     "q": "If she studies hard, she ______ pass.",
+     "hint": "will",
+     "a": "will",
+     "full": "If she studies hard, she will pass."
+    },
+    {
+     "q": "What ______ you do if you won the lottery?",
+     "hint": "condicional",
+     "a": "would",
+     "full": "What would you do if you won the lottery?"
+    },
+    {
+     "q": "If I ______ you, I'd see a doctor.",
+     "hint": "be",
+     "a": "were",
+     "full": "If I were you, I'd see a doctor."
+    },
+    {
+     "q": "If we lived by the sea, we ______ swim every day.",
+     "hint": "condicional",
+     "a": "would",
+     "full": "If we lived by the sea, we would swim every day."
+    },
+    {
+     "q": "______ I'm in London, I'll visit the British Museum.",
+     "hint": "cuando (seguro)",
+     "a": "When",
+     "full": "When I'm in London, I'll visit the British Museum."
+    },
+    {
+     "q": "If you're hungry, ______ yourself to some bread.",
+     "hint": "help, imperativo",
+     "a": "help",
+     "full": "If you're hungry, help yourself to some bread."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al inglés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Si llueve, me quedo en casa.",
+     "a": "If it rains, I'll stay at home."
+    },
+    {
+     "q": "Yo que tú, iría.",
+     "a": "If I were you, I would go."
+    },
+    {
+     "q": "Si tuviera más dinero, me compraría una casa.",
+     "a": "If I had more money, I would buy a house."
+    },
+    {
+     "q": "No iré a menos que vengas conmigo.",
+     "a": "I won't go unless you come with me."
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
