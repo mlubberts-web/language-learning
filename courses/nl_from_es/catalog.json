@@ -504,5 +504,16 @@
   "subtitle": "een poging doen, een conclusie trekken; intensificadores como doodmoe e ijskoud; y parejas de palabras como af en toe",
   "content": "c1_07_collocations.json",
   "exercise_count": 12
+ },
+ {
+  "id": "C1_08_Ortografia_y_puntuacion",
+  "file": "C1_08_Ortografia_y_puntuacion.pdf",
+  "level": "C1",
+  "number": 8,
+  "section": "Escritura",
+  "title": "Ortografía y puntuación",
+  "subtitle": "d o t en los verbos, compuestos y guiones, la diéresis, las mayúsculas y las comas neerlandesas",
+  "content": "c1_08_spelling_punctuation.json",
+  "exercise_count": 12
  }
 ]

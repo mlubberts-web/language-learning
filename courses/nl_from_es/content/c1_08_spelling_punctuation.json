@@ -1,0 +1,354 @@
+{
+ "meta": {
+  "level": "C1",
+  "section": "Escritura",
+  "number": 8,
+  "total_in_level": 10,
+  "title": "Ortografía y puntuación",
+  "subtitle": "d o t en los verbos, compuestos y guiones, la diéresis, las mayúsculas y las comas neerlandesas",
+  "footer": "Language Learning · C1 · Escritura · Ortografía y puntuación",
+  "next": "Siguiente: C1 · pdf 9 — El neerlandés en la sociedad"
+ },
+ "blocks": [
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "Después de este pdf sabrás",
+   "bullets": [
+    "escribir bien las formas verbales con <b>d, t</b> o <b>dt</b> (<i>hij wordt, word jij?</i>)",
+    "escribir los compuestos con o sin guion (<i>auto-ongeluk, zeeëgel</i>)",
+    "usar las mayúsculas a la manera neerlandesa",
+    "poner las comas como lo hacen los neerlandeses"
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "1. d, t o dt"
+  },
+  {
+   "type": "p",
+   "text": "En neerlandés la d al final de palabra se pronuncia t, así que <i>word</i> y <i>wordt</i> suenan igual. La ortografía sigue estrictamente las reglas gramaticales de A1 y A2. Los nativos también se equivocan; los examinadores lo notan enseguida."
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.6,
+    5.6,
+    5.8
+   ],
+   "head": [
+    "Regla",
+    "Ejemplo",
+    "Explicación"
+   ],
+   "rows": [
+    [
+     "ik: solo la raíz",
+     "ik word, ik vind",
+     "raíz de worden / vinden"
+    ],
+    [
+     "hij, zij, het, u: raíz + t",
+     "hij wordt, zij vindt",
+     "la raíz acaba en d, + t = dt"
+    ],
+    [
+     "jij detrás del verbo: sin t",
+     "Word jij? Vind je?",
+     "la t desaparece (A1 · pdf 3)"
+    ],
+    [
+     "jij delante del verbo: + t",
+     "Jij wordt, jij vindt",
+     "raíz + t"
+    ],
+    [
+     "participio: 't kofschip",
+     "gebeurd, verhuisd, gestopt",
+     "raíz gebeur → -d"
+    ],
+    [
+     "presente o participio",
+     "Het gebeurt vaak. / Het is gebeurd.",
+     "presente: t; participio: d"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "note",
+   "title": "El truco: cámbialo por lopen",
+   "text": "¿Dudas? Sustituye el verbo por <b>lopen</b> (cuya t se oye) o <b>werken</b>. <i>Hij (word/wordt) moe → Hij loop<b>t</b> moe → Hij word<b>t</b> moe.</i> <i>(Word/Wordt) jij moe? → Loop jij? → <b>Word</b> jij moe?</i> <i>Het is (gebeurt/gebeurd) → ¿Het is gelopen? Usa 't kofschip: gebeur → <b>gebeurd</b>.</i>"
+  },
+  {
+   "type": "h1",
+   "text": "2. Compuestos, guiones y diéresis"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    6.4,
+    5.6,
+    5.0
+   ],
+   "head": [
+    "Regla",
+    "Ejemplo",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "compuestos: una sola palabra",
+     "bushalte, voetbalwedstrijd",
+     "B2 · pdf 5"
+    ],
+    [
+     "guion cuando chocan las vocales",
+     "auto-ongeluk, zee-eend",
+     "a-o, e-e"
+    ],
+    [
+     "diéresis dentro de una palabra",
+     "zeeën, ruïne, beëindigen",
+     "empieza una sílaba nueva (no como en «pingüino»)"
+    ],
+    [
+     "guion con abreviaturas",
+     "tv-programma, e-mailadres",
+     "abreviatura en minúscula"
+    ],
+    [
+     "guion con nombres geográficos",
+     "Noord-Holland, Zuid-Afrika",
+     "punto cardinal + nombre"
+    ],
+    [
+     "guion en la coordinación",
+     "voor- en nadelen",
+     "se omite la parte común"
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "3. Las mayúsculas"
+  },
+  {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    5.4,
+    5.8,
+    5.8
+   ],
+   "head": [
+    "Mayúscula",
+    "Sin mayúscula",
+    "Nota"
+   ],
+   "rows": [
+    [
+     "Nederlands, Engels",
+     "maandag, januari",
+     "días y meses sin mayúscula, como en español"
+    ],
+    [
+     "Nederlander, Spanjaard",
+     "de lente, de zomer",
+     "estaciones: sin mayúscula"
+    ],
+    [
+     "de Tweede Wereldoorlog",
+     "de minister-president",
+     "cargos: sin mayúscula"
+    ],
+    [
+     "meneer De Vries (apellido solo)",
+     "Jan de Vries (con nombre de pila)",
+     "la regla del «de»"
+    ],
+    [
+     "het Groene Boekje",
+     "het groene boekje op mijn bureau",
+     "un nombre frente a una descripción"
+    ]
+   ]
+  },
+  {
+   "type": "callout",
+   "kind": "tip",
+   "title": "El Groene Boekje",
+   "text": "La ortografía oficial del neerlandés está fijada en la <b>Woordenlijst Nederlandse Taal</b>, conocida como <b>het Groene Boekje</b> (también en internet), algo así como la Ortografía de la RAE. La misma ortografía vale en los Países Bajos y en Flandes. Para dudas de estilo y gramática, usa las webs de <i>Taaladvies</i>."
+  },
+  {
+   "type": "h1",
+   "text": "4. Las comas"
+  },
+  {
+   "type": "p",
+   "text": "Igual que en español, no hay <b>coma antes de dat</b> (que), y normalmente tampoco antes de <i>omdat</i> al final de la frase. Pero el neerlandés pone a menudo una coma donde se encuentran <b>dos verbos</b>: <i>Wat hij zegt<b>,</b> klopt niet.</i> <i>Als je klaar bent<b>,</b> bel je me.</i> En español, esa primera coma (entre sujeto y verbo) sería un error; en neerlandés es normal."
+  },
+  {
+   "type": "h1",
+   "text": "5. Errores frecuentes"
+  },
+  {
+   "type": "mistakes",
+   "rows": [
+    [
+     "Hij word morgen dertig.",
+     "Hij wordt morgen dertig.",
+     "hij: raíz + t = dt."
+    ],
+    [
+     "Wordt jij morgen dertig?",
+     "Word jij morgen dertig?",
+     "jij detrás del verbo: sin t."
+    ],
+    [
+     "Wat is er gebeurt?",
+     "Wat is er gebeurd?",
+     "Participio: 't kofschip → d."
+    ],
+    [
+     "Het gebeurd vaak.",
+     "Het gebeurt vaak.",
+     "Presente: raíz + t."
+    ],
+    [
+     "het auto ongeluk",
+     "het auto-ongeluk",
+     "Choque de vocales: guion."
+    ],
+    [
+     "Ik spreek nederlands en spaans.",
+     "Ik spreek Nederlands en Spaans.",
+     "Idiomas y nacionalidades: con mayúscula, al contrario que en español."
+    ],
+    [
+     "Ik denk, dat hij komt.",
+     "Ik denk dat hij komt.",
+     "Sin coma antes de dat."
+    ]
+   ]
+  },
+  {
+   "type": "h1",
+   "text": "6. Autoevaluación"
+  },
+  {
+   "type": "p",
+   "text": "Completa con la ortografía correcta. Las respuestas están en la última página."
+  },
+  {
+   "type": "exercises",
+   "items": [
+    {
+     "q": "Hij ______ morgen veertig.",
+     "hint": "worden",
+     "a": "wordt",
+     "full": "Hij wordt morgen veertig."
+    },
+    {
+     "q": "______ jij ook zo moe van die vergadering?",
+     "hint": "worden, pregunta",
+     "a": "word",
+     "full": "Word jij ook zo moe van die vergadering?"
+    },
+    {
+     "q": "Ik ______ het een goed plan.",
+     "hint": "vinden",
+     "a": "vind",
+     "full": "Ik vind het een goed plan."
+    },
+    {
+     "q": "Wat ______ u van dit voorstel?",
+     "hint": "vinden, u",
+     "a": "vindt",
+     "full": "Wat vindt u van dit voorstel?"
+    },
+    {
+     "q": "Wat is er ______?",
+     "hint": "gebeuren, participio",
+     "a": "gebeurd",
+     "full": "Wat is er gebeurd?"
+    },
+    {
+     "q": "Dat ______ niet vaak.",
+     "hint": "gebeuren, presente",
+     "a": "gebeurt",
+     "full": "Dat gebeurt niet vaak."
+    },
+    {
+     "q": "Ze zijn vorig jaar ______.",
+     "hint": "verhuizen, participio",
+     "a": "verhuisd",
+     "full": "Ze zijn vorig jaar verhuisd."
+    },
+    {
+     "q": "Er was een ______ op de snelweg.",
+     "hint": "auto + ongeluk",
+     "a": "auto-ongeluk",
+     "full": "Er was een auto-ongeluk op de snelweg."
+    },
+    {
+     "q": "Ze zwommen in alle zeven ______.",
+     "hint": "plural de zee",
+     "a": "zeeën",
+     "full": "Ze zwommen in alle zeven zeeën."
+    },
+    {
+     "q": "Mijn favoriete ______ begint om acht uur.",
+     "hint": "tv + programma",
+     "a": "tv-programma",
+     "full": "Mijn favoriete tv-programma begint om acht uur."
+    },
+    {
+     "q": "De vergadering is op ______.",
+     "hint": "lunes",
+     "a": "maandag",
+     "full": "De vergadering is op maandag."
+    },
+    {
+     "q": "Hij ______ elke dag naar zijn werk.",
+     "hint": "rijden",
+     "a": "rijdt",
+     "full": "Hij rijdt elke dag naar zijn werk."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "<b>Traduce al neerlandés:</b>"
+  },
+  {
+   "type": "translations",
+   "items": [
+    {
+     "q": "Mañana cumple cuarenta años.",
+     "a": "Hij wordt morgen veertig."
+    },
+    {
+     "q": "¿Qué ha pasado?",
+     "a": "Wat is er gebeurd?"
+    },
+    {
+     "q": "No pasa a menudo.",
+     "a": "Het gebeurt niet vaak."
+    },
+    {
+     "q": "el lunes",
+     "a": "op maandag"
+    }
+   ]
+  },
+  {
+   "type": "pagebreak"
+  },
+  {
+   "type": "answers"
+  }
+ ]
+}
