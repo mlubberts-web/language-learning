@@ -515,5 +515,27 @@
   "subtitle": "-ise of -ize, -our of -or, komma's, apostrofs, koppeltekens en hoofdletters",
   "content": "c1_08_spelling_punctuation.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C1_09_Engels_in_de_wereld",
+  "file": "C1_09_Engels_in_de_wereld.pdf",
+  "level": "C1",
+  "number": 9,
+  "section": "Cultuur",
+  "title": "Engels in de wereld",
+  "subtitle": "Britse accenten, Amerikaans, Iers en Australisch Engels, woordverschillen en culturele gewoontes",
+  "content": "c1_09_english_world.json",
+  "exercise_count": 10
+ },
+ {
+  "id": "C1_10_Woordenschat",
+  "file": "C1_10_Woordenschat.pdf",
+  "level": "C1",
+  "number": 10,
+  "section": "Woordenschat",
+  "title": "Woordenschat",
+  "subtitle": "Abstracte en academische woorden, valse vrienden op C1-niveau en parafraseren",
+  "content": "c1_10_vocabulary.json",
+  "exercise_count": 10
  }
 ]

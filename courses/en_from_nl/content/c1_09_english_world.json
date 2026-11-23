@@ -1,0 +1,72 @@
+{"meta": {"level": "C1", "section": "Cultuur", "number": 9, "total_in_level": 10,
+ "title": "Engels in de wereld",
+ "subtitle": "Britse accenten, Amerikaans, Iers en Australisch Engels, woordverschillen en culturele gewoontes",
+ "footer": "Language Learning · C1 · Cultuur · Engels in de wereld",
+ "next": "Volgende: C1 · pdf 10 — Woordenschat"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Na deze pdf kun je", "bullets": [
+  "de belangrijkste varianten van het Engels herkennen",
+  "Britse en Amerikaanse woorden voor dezelfde dingen kennen",
+  "Britse beleefdheid en understatement begrijpen",
+  "begrijpen wat iemand bedoelt achter beleefde formuleringen"]},
+ {"type": "p", "text": "<b>Over deze cursus:</b> alle pdf's leren je <b>Brits Engels</b>. Deze pdf helpt je andere varianten te <b>begrijpen</b>; je hoeft ze niet zelf te gebruiken."},
+
+ {"type": "h1", "text": "1. Varianten van het Engels"},
+ {"type": "table", "style": "plain", "widths": [4.0, 7.0, 6.0], "head": ["Variant", "Kenmerken", "Voorbeeld"], "rows": [
+  ["Standaard Brits (RP)", "de 'BBC-uitspraak'; geen r aan het eind van een woord", "car klinkt als 'kaa'"],
+  ["Londen en het zuidoosten", "t wordt vaak een stemstop", "water klinkt als 'wo-uh'"],
+  ["Noord-Engeland", "korte a in bath en grass; u als in 'oe'", "bus klinkt als 'boes'"],
+  ["Schotland", "r wordt gerold; eigen woorden", "wee (klein), aye (ja), loch (meer)"],
+  ["Ierland", "zachte, melodieuze uitspraak; th als t", "three klinkt als 'tree'"],
+  ["Verenigde Staten", "r altijd hoorbaar; t tussen klinkers als d", "water klinkt als 'wadder'"],
+  ["Australië", "klinkers verschuiven; veel afkortingen", "arvo (afternoon), brekkie (breakfast)"]]},
+
+ {"type": "h1", "text": "2. Brits en Amerikaans: andere woorden"},
+ {"type": "table", "style": "plain", "widths": [4.6, 4.6, 7.8], "head": ["Brits", "Amerikaans", "Nederlands"], "rows": [
+  ["flat", "apartment", "appartement"],
+  ["lift", "elevator", "lift"],
+  ["mobile (phone)", "cell phone", "mobiele telefoon"],
+  ["holiday", "vacation", "vakantie"],
+  ["queue", "line", "rij"],
+  ["autumn", "fall", "herfst"],
+  ["biscuit", "cookie", "koekje"],
+  ["chips", "fries", "patat"],
+  ["crisps", "chips", "chips"],
+  ["motorway", "highway / freeway", "snelweg"],
+  ["petrol", "gas", "benzine"],
+  ["ground floor / first floor", "first floor / second floor", "begane grond / eerste verdieping"]]},
+ {"type": "callout", "kind": "warn", "title": "first floor", "text": "In Groot-Brittannië is de <b>ground floor</b> de begane grond en de <b>first floor</b> de eerste verdieping, net als in Nederland. In Amerika is de <b>first floor</b> de begane grond."},
+
+ {"type": "h1", "text": "3. Britse beleefdheid en understatement"},
+ {"type": "table", "style": "plain", "widths": [6.0, 11.0], "head": ["Wat iemand zegt", "Wat het vaak betekent"], "rows": [
+  ["That's an interesting idea.", "Dat vind ik geen goed idee."],
+  ["I'll bear it in mind.", "Ik ga er niets mee doen."],
+  ["Not bad at all.", "Heel goed."],
+  ["With all due respect, ...", "Ik ben het helemaal niet met je eens."],
+  ["I'm sure it's my fault.", "Het is jouw fout."],
+  ["Quite good.", "Redelijk, maar niet geweldig."],
+  ["Could we possibly ...?", "Ik wil echt dat we ..."]]},
+ {"type": "callout", "kind": "dutch", "title": "Nederlandse directheid", "text": "Engelsen vinden Nederlanders vaak erg direct. <i>Dat is een slecht plan</i> klinkt in het Engels bot. Een Britse spreker zegt eerder <b>I'm not sure that would work</b> of <b>Have you considered ...?</b> Omgekeerd: hoor je een Brit zeggen dat iets 'quite interesting' is, dan is hij misschien helemaal niet enthousiast."},
+
+ {"type": "h1", "text": "4. Zelftoets"},
+ {"type": "p", "text": "Vul het Britse woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "We live in a small ______ in London.", "hint": "appartement, Brits", "a": "flat", "full": "We live in a small flat in London."},
+  {"q": "Take the ______ to the fifth floor.", "hint": "lift, Brits", "a": "lift", "full": "Take the lift to the fifth floor."},
+  {"q": "There was a long ______ at the post office.", "hint": "rij, Brits", "a": "queue", "full": "There was a long queue at the post office."},
+  {"q": "Fish and ______ is a typical British dish.", "hint": "patat, Brits", "a": "chips", "full": "Fish and chips is a typical British dish."},
+  {"q": "I'd like a packet of ______, please.", "hint": "chips (zakje), Brits", "a": "crisps", "full": "I'd like a packet of crisps, please."},
+  {"q": "The leaves turn red in ______.", "hint": "herfst, Brits", "a": "autumn", "full": "The leaves turn red in autumn."},
+  {"q": "We need to stop for ______.", "hint": "benzine, Brits", "a": "petrol", "full": "We need to stop for petrol."},
+  {"q": "Where are you going on ______ this year?", "hint": "vakantie, Brits", "a": "holiday", "full": "Where are you going on holiday this year?"},
+  {"q": "Would you like a ______ with your tea?", "hint": "koekje, Brits", "a": "biscuit", "full": "Would you like a biscuit with your tea?"},
+  {"q": "My office is on the ______ floor, just above the entrance.", "hint": "eerste verdieping, Brits", "a": "first", "full": "My office is on the first floor, just above the entrance."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels (Brits):</b>"},
+ {"type": "translations", "items": [
+  {"q": "We wonen in een appartement.", "a": "We live in a flat."},
+  {"q": "Er stond een lange rij.", "a": "There was a long queue."},
+  {"q": "Neem de lift naar de eerste verdieping.", "a": "Take the lift to the first floor."},
+  {"q": "We moeten benzine tanken.", "a": "We need to get petrol."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}

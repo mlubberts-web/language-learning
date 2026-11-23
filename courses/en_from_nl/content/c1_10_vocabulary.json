@@ -1,0 +1,69 @@
+{"meta": {"level": "C1", "section": "Woordenschat", "number": 10, "total_in_level": 10,
+ "title": "Woordenschat",
+ "subtitle": "Abstracte en academische woorden, valse vrienden op C1-niveau en parafraseren",
+ "footer": "Language Learning · C1 · Woordenschat",
+ "next": "Volgende: C2 · pdf 1"},
+ "blocks": [
+ {"type": "callout", "kind": "tip", "title": "Zo gebruik je deze lijsten", "bullets": [
+  "Leer de woorden met hun vaste voorzetsel en een voorbeeldzin.",
+  "Dek één kolom af en overhoor jezelf in beide richtingen.",
+  "Deze woorden komen veel voor in het examen C1 Advanced van Cambridge."]},
+
+ {"type": "h1", "text": "1. Abstracte zelfstandige naamwoorden"},
+ {"type": "verbpairs", "title": "Samenleving en denken", "items": [
+  ["awareness", "bewustzijn"], ["inequality", "ongelijkheid"], ["sustainability", "duurzaamheid"], ["approach", "aanpak, benadering"],
+  ["assumption", "aanname"], ["outcome", "uitkomst, resultaat"], ["issue", "kwestie, probleem"], ["trend", "trend, tendens"],
+  ["impact", "invloed, effect"], ["evidence", "bewijs"], ["perspective", "standpunt, gezichtspunt"], ["consequence", "gevolg"],
+  ["framework", "kader"], ["threat", "bedreiging"], ["challenge", "uitdaging"], ["breakthrough", "doorbraak"]]},
+ {"type": "callout", "kind": "warn", "title": "evidence is ontelbaar", "text": "<b>evidence</b> heeft geen meervoud: <i>There is a lot of evidence</i>, niet <i>evidences</i>. Voor één bewijsstuk: <b>a piece of evidence</b>."},
+
+ {"type": "h1", "text": "2. Academische werkwoorden"},
+ {"type": "verbpairs", "title": "Werkwoorden voor analyse", "items": [
+  ["to assess", "beoordelen"], ["to emphasise", "benadrukken"], ["to undermine", "ondermijnen"], ["to enhance", "verbeteren, versterken"],
+  ["to tackle", "aanpakken"], ["to highlight", "benadrukken, laten zien"], ["to acknowledge", "erkennen"], ["to imply", "impliceren, suggereren"],
+  ["to outline", "schetsen, samenvatten"], ["to justify", "rechtvaardigen"], ["to foster", "bevorderen"], ["to hinder", "hinderen, belemmeren"]]},
+
+ {"type": "h1", "text": "3. Valse vrienden op C1-niveau"},
+ {"type": "table", "style": "plain", "widths": [3.6, 5.4, 8.0], "head": ["Engels", "Betekent", "Niet verwarren met"], "rows": [
+  ["consequent", "daaruit volgend", "consequent = consistent"],
+  ["genial", "vriendelijk, joviaal", "geniaal = brilliant"],
+  ["sympathetic", "meelevend", "sympathiek = nice, likeable"],
+  ["eventual", "uiteindelijk", "eventueel = possible"],
+  ["control", "beheersen, besturen", "controleren = check"],
+  ["argument", "ruzie; ook argument", "een argument geven = make a point"],
+  ["blank", "leeg, onbeschreven", "blank (huidskleur) = white"],
+  ["solicitor", "advocaat (Brits)", "solliciteren = apply for a job"],
+  ["agenda", "agenda (lijst met vergaderpunten)", "agenda (boekje) = diary"],
+  ["realise", "beseffen", "realiseren (bouwen) = carry out, build"]]},
+
+ {"type": "h1", "text": "4. Parafraseren"},
+ {"type": "p", "text": "In het examen C1 Advanced (en in academisch schrijven) moet je dezelfde betekenis met andere woorden kunnen uitdrukken."},
+ {"type": "table", "style": "plain", "widths": [8.4, 8.6], "head": ["Origineel", "Parafrase"], "rows": [
+  ["It's possible that he will resign.", "He may well resign."],
+  ["She was not able to finish.", "She didn't manage to finish."],
+  ["People say he's very rich.", "He is said to be very rich."],
+  ["I regret not studying harder.", "I wish I had studied harder."],
+  ["The meeting was cancelled because of the strike.", "The strike led to the cancellation of the meeting."]]},
+
+ {"type": "h1", "text": "5. Zelftoets"},
+ {"type": "p", "text": "Vul het ontbrekende woord in. De antwoorden staan op de laatste pagina."},
+ {"type": "exercises", "items": [
+  {"q": "There is no ______ that the drug works.", "hint": "bewijs", "a": "evidence", "full": "There is no evidence that the drug works."},
+  {"q": "We need a new ______ to the problem.", "hint": "aanpak", "a": "approach", "full": "We need a new approach to the problem."},
+  {"q": "The report ______ the need for more funding.", "hint": "benadrukt", "a": "highlights", "full": "The report highlights the need for more funding."},
+  {"q": "The government must ______ unemployment.", "hint": "aanpakken", "a": "tackle", "full": "The government must tackle unemployment."},
+  {"q": "Social media has had a huge ______ on politics.", "hint": "invloed", "a": "impact", "full": "Social media has had a huge impact on politics."},
+  {"q": "She was very ______ when I told her about my problems.", "hint": "meelevend", "a": "sympathetic", "full": "She was very sympathetic when I told her about my problems."},
+  {"q": "I didn't ______ how late it was.", "hint": "beseffen", "a": "realise", "full": "I didn't realise how late it was."},
+  {"q": "He ______ that he had made a mistake.", "hint": "erkennen, past", "a": "acknowledged", "full": "He acknowledged that he had made a mistake."},
+  {"q": "Climate change is a serious ______ to wildlife.", "hint": "bedreiging", "a": "threat", "full": "Climate change is a serious threat to wildlife."},
+  {"q": "He is said ______ be very rich.", "hint": "parafrase", "a": "to", "full": "He is said to be very rich."}]},
+ {"type": "p", "text": "<b>Vertaal in het Engels:</b>"},
+ {"type": "translations", "items": [
+  {"q": "Er is veel bewijs.", "a": "There is a lot of evidence."},
+  {"q": "We moeten dit probleem aanpakken.", "a": "We need to tackle this problem."},
+  {"q": "Ik besefte niet hoe laat het was.", "a": "I didn't realise how late it was."},
+  {"q": "Zij was heel meelevend.", "a": "She was very sympathetic."}]},
+ {"type": "pagebreak"},
+ {"type": "answers"}
+]}
