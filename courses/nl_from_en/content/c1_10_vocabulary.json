@@ -1,0 +1,68 @@
+{
+ "meta": {"level": "C1", "section": "Vocabulary", "number": 10, "total_in_level": 10,
+  "title": "Vocabulary",
+  "subtitle": "Abstract and academic words, false friends at C1, and paraphrasing",
+  "footer": "Language Learning · C1 · Vocabulary",
+  "next": "Next: C2 · pdf 1"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "How to use these lists", "bullets": [
+   "Learn the nouns with de or het and the verbs with an example sentence.",
+   "Cover one column and test yourself in both directions.",
+   "These words come up often in the CNaVT C1 (PAT) and the Staatsexamen NT2 C1."]},
+  {"type": "h1", "text": "1. Abstract nouns"},
+  {"type": "verbpairs", "title": "Society and thinking", "items": [
+   ["het bewustzijn", "awareness, consciousness"], ["de ongelijkheid", "inequality"], ["de duurzaamheid", "sustainability"],
+   ["de aanpak", "approach"], ["de veronderstelling", "assumption"], ["de uitkomst", "outcome"], ["de kwestie", "issue, question"],
+   ["de tendens", "trend, tendency"], ["de invloed", "influence"], ["het bewijs", "evidence, proof"], ["het standpunt", "point of view"],
+   ["het gevolg", "consequence"], ["het kader", "framework"], ["de bedreiging", "threat"], ["de uitdaging", "challenge"], ["de doorbraak", "breakthrough"]]},
+  {"type": "h1", "text": "2. Academic verbs"},
+  {"type": "verbpairs", "title": "Verbs for analysis", "items": [
+   ["beoordelen", "to assess"], ["benadrukken", "to emphasise"], ["ondermijnen", "to undermine"], ["versterken", "to strengthen"],
+   ["aanpakken", "to tackle"], ["belichten", "to highlight"], ["erkennen", "to acknowledge"], ["impliceren", "to imply"],
+   ["schetsen", "to outline"], ["rechtvaardigen", "to justify"], ["bevorderen", "to promote"], ["belemmeren", "to hinder"]]},
+  {"type": "h1", "text": "3. False friends at C1"},
+  {"type": "table", "style": "plain", "widths": [3.6, 5.2, 8.2], "head": ["Dutch", "Means", "Not"], "rows": [
+   ["consequent", "consistent", "consequent = daaruit volgend"],
+   ["sympathiek", "likeable, nice", "sympathetic = meelevend"],
+   ["genant", "embarrassing", "a gent = een heer"],
+   ["controleren", "to check", "to control = beheersen, besturen"],
+   ["ordinair", "vulgar, common", "ordinary = gewoon"],
+   ["deftig", "posh, distinguished", "deft = handig"],
+   ["solliciteren", "to apply for a job", "solicitor = advocaat"],
+   ["kritisch", "critical (judging)", "critical (serious) = ernstig, kritiek"],
+   ["de agenda", "diary, also agenda", "both meanings exist"],
+   ["het argument", "argument, reason", "argument (quarrel) = de ruzie"]]},
+  {"type": "callout", "kind": "note", "title": "ordinair is not ordinary", "text": "Calling something <b>ordinair</b> is an insult: it means <i>vulgar, cheap, common</i>. For <i>ordinary</i>, say <b>gewoon</b>: <i>een gewone dag</i>. And <b>sympathiek</b> is a compliment (<i>a likeable man</i>), while <i>sympathetic</i> is <b>meelevend</b> or <b>begripvol</b>."},
+  {"type": "h1", "text": "4. Paraphrasing"},
+  {"type": "p", "text": "In the CNaVT and in academic writing you must be able to say the same thing in other words. Common techniques: a synonym, a nominalisation, the passive, or a different structure."},
+  {"type": "table", "style": "plain", "widths": [8.2, 8.8], "head": ["Original", "Paraphrase"], "rows": [
+   ["Het is mogelijk dat hij ontslag neemt.", "Hij zou wel eens ontslag kunnen nemen."],
+   ["Zij kon het niet afmaken.", "Het lukte haar niet om het af te maken."],
+   ["Men zegt dat hij erg rijk is.", "Hij zou erg rijk zijn."],
+   ["Ik heb er spijt van dat ik niet harder gestudeerd heb.", "Had ik maar harder gestudeerd."],
+   ["De vergadering ging niet door vanwege de staking.", "Door de staking werd de vergadering afgelast."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "Er is geen ______ dat het medicijn werkt.", "hint": "evidence", "a": "bewijs", "full": "Er is geen bewijs dat het medicijn werkt."},
+   {"q": "We hebben een nieuwe ______ nodig voor dit probleem.", "hint": "approach", "a": "aanpak", "full": "We hebben een nieuwe aanpak nodig voor dit probleem."},
+   {"q": "Het rapport ______ de noodzaak van meer geld.", "hint": "emphasises", "a": "benadrukt", "full": "Het rapport benadrukt de noodzaak van meer geld."},
+   {"q": "De regering moet de werkloosheid ______.", "hint": "tackle", "a": "aanpakken", "full": "De regering moet de werkloosheid aanpakken."},
+   {"q": "Sociale media hebben veel ______ op de politiek.", "hint": "influence", "a": "invloed", "full": "Sociale media hebben veel invloed op de politiek."},
+   {"q": "Hij is heel ______: hij doet altijd wat hij zegt.", "hint": "consistent", "a": "consequent", "full": "Hij is heel consequent: hij doet altijd wat hij zegt."},
+   {"q": "Wat een ______ man! Ik mag hem graag.", "hint": "likeable", "a": "sympathieke", "full": "Wat een sympathieke man! Ik mag hem graag."},
+   {"q": "Het was heel ______: ik viel op het podium.", "hint": "embarrassing", "a": "genant", "full": "Het was heel genant: ik viel op het podium."},
+   {"q": "Kun je even ______ of de deur dicht is?", "hint": "check", "a": "controleren", "full": "Kun je even controleren of de deur dicht is?"},
+   {"q": "Klimaatverandering is een grote ______ voor de natuur.", "hint": "threat", "a": "bedreiging", "full": "Klimaatverandering is een grote bedreiging voor de natuur."},
+   {"q": "Hij zou erg rijk ______.", "hint": "paraphrase: men zegt dat", "a": "zijn", "full": "Hij zou erg rijk zijn."},
+   {"q": "Het was een gewone dag, niets ______.", "hint": "special", "a": "bijzonders", "full": "Het was een gewone dag, niets bijzonders."}]},
+  {"type": "p", "text": "<b>Translate into Dutch:</b>"},
+  {"type": "translations", "items": [
+   {"q": "There is a lot of evidence.", "a": "Er is veel bewijs."},
+   {"q": "We have to tackle this problem.", "a": "We moeten dit probleem aanpakken."},
+   {"q": "It was very embarrassing.", "a": "Het was heel genant."},
+   {"q": "He is said to be very rich.", "a": "Hij zou erg rijk zijn."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}
