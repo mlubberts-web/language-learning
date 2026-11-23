@@ -1,0 +1,68 @@
+{
+ "meta": {"level": "C2", "section": "Writing", "number": 6, "total_in_level": 10,
+  "title": "Formal and business writing",
+  "subtitle": "Reports and proposals, business phrases, mocht u ..., official and legal Dutch, and plain language",
+  "footer": "Language Learning · C2 · Writing · Formal and business writing",
+  "next": "Next: C2 · pdf 7 — Idioms, slang and spoken Dutch"},
+ "blocks": [
+  {"type": "callout", "kind": "tip", "title": "After this PDF you can", "bullets": [
+   "structure a report or a proposal",
+   "use the fixed phrases of business letters (<i>Wij betreuren het ...</i>)",
+   "use the conditional with <b>mocht</b>: <i>Mocht u vragen hebben, ...</i>",
+   "read official and legal Dutch, and rewrite it in plain language"]},
+  {"type": "h1", "text": "1. Reports and proposals"},
+  {"type": "table", "style": "plain", "widths": [3.6, 13.4], "head": ["Part", "Useful phrases"], "rows": [
+   ["Aim", "<i>Dit rapport heeft tot doel ... In dit voorstel wordt beschreven ...</i>"],
+   ["Background", "<i>Naar aanleiding van ... is gebleken dat ...</i>"],
+   ["Findings", "<i>Uit het onderzoek blijkt dat ... Een ruime meerderheid gaf aan dat ...</i>"],
+   ["Recommendations", "<i>Wij adviseren om ... Het verdient aanbeveling om ...</i>"],
+   ["Conclusion", "<i>Op grond van het voorgaande ... Concluderend kan worden gesteld dat ...</i>"]]},
+  {"type": "h1", "text": "2. Business phrases"},
+  {"type": "table", "style": "plain", "widths": [3.6, 7.6, 5.8], "head": ["Function", "Phrase", "English"], "rows": [
+   ["Reference", "Naar aanleiding van uw brief van 3 mei ...", "Further to your letter of 3 May ..."],
+   ["Request", "Wij verzoeken u vriendelijk ...", "We kindly request that you ..."],
+   ["Attachment", "Bijgaand treft u ... aan.", "Please find enclosed ..."],
+   ["Apology", "Onze excuses voor het ongemak.", "We apologise for the inconvenience."],
+   ["Bad news", "Wij betreuren het u te moeten meedelen dat ...", "We regret to inform you that ..."],
+   ["Offer of help", "Mocht u nog vragen hebben, dan kunt u contact met ons opnemen.", "Should you have any questions, please contact us."],
+   ["Closing", "Wij vertrouwen erop u hiermee voldoende te hebben geïnformeerd.", "We trust this information is sufficient."]]},
+  {"type": "callout", "kind": "note", "title": "Mocht u ... = Should you ...", "text": "A formal condition starts with <b>mocht</b> + subject, with the verb at the end: <i><b>Mocht</b> u vragen <b>hebben</b>, dan ...</i> (Should you have any questions ...). The main clause often starts with <b>dan</b>. It is exactly like English <i>Should you ...</i>, and very common in letters and e-mails."},
+  {"type": "h1", "text": "3. Official and legal Dutch"},
+  {"type": "verbpairs", "title": "Official words", "items": [
+   ["hierbij", "herewith, hereby"], ["bijgaand", "enclosed"], ["onderhavig", "the present, this (document)"],
+   ["voornoemd", "aforementioned"], ["desgewenst", "if desired"], ["ingevolge", "pursuant to"],
+   ["krachtens", "by virtue of"], ["met inachtneming van", "taking into account"], ["behoudens", "except for, subject to"],
+   ["nietig", "null and void"], ["de algemene voorwaarden", "terms and conditions"], ["aansprakelijk voor", "liable for"]]},
+  {"type": "callout", "kind": "tip", "title": "Plain language: Direct Duidelijk", "text": "The Dutch government and many companies now try to write in plain language (<b>begrijpelijke taal</b>, campaign <i>Direct Duidelijk</i>). <i>Wij verzoeken u vriendelijk bijgaand formulier te retourneren</i> becomes <i>Wilt u het formulier terugsturen?</i> At C2 you should be able to read the first and write the second."},
+  {"type": "h1", "text": "4. Common mistakes"},
+  {"type": "mistakes", "rows": [
+   ["Mocht u vragen heeft, ...", "Mocht u vragen hebben, ...", "After mocht: the infinitive at the end."],
+   ["Als u mocht vragen hebben, dan ...", "Mocht u vragen hebben, dan ...", "Formal condition: start with mocht."],
+   ["Bijgaand vindt u treft aan ...", "Bijgaand treft u ... aan.", "Fixed: bijgaand treft u ... aan."],
+   ["Wij betreuren u te meedelen ...", "Wij betreuren het u te moeten meedelen ...", "Fixed phrase with het and moeten."],
+   ["Naar aanleiding uw brief ...", "Naar aanleiding van uw brief ...", "naar aanleiding van."],
+   ["aansprakelijk van schade", "aansprakelijk voor schade", "aansprakelijk voor."],
+   ["met inachtneming de regels", "met inachtneming van de regels", "met inachtneming van."]]},
+  {"type": "h1", "text": "5. Self-check"},
+  {"type": "p", "text": "Fill in the missing word. The answers are on the last page."},
+  {"type": "exercises", "items": [
+   {"q": "______ u nog vragen hebben, dan kunt u ons bellen.", "hint": "should you", "a": "mocht", "full": "Mocht u nog vragen hebben, dan kunt u ons bellen."},
+   {"q": "Bijgaand ______ u het contract aan.", "hint": "find", "a": "treft", "full": "Bijgaand treft u het contract aan."},
+   {"q": "Wij ______ het u te moeten meedelen dat uw aanvraag is afgewezen.", "hint": "regret", "a": "betreuren", "full": "Wij betreuren het u te moeten meedelen dat uw aanvraag is afgewezen."},
+   {"q": "Wij verzoeken u ______ het formulier te ondertekenen.", "hint": "kindly", "a": "vriendelijk", "full": "Wij verzoeken u vriendelijk het formulier te ondertekenen."},
+   {"q": "Het ______ aanbeveling om eerst een proef te doen.", "hint": "is recommended", "a": "verdient", "full": "Het verdient aanbeveling om eerst een proef te doen."},
+   {"q": "Uit het onderzoek ______ dat de klanten tevreden zijn.", "hint": "appears", "a": "blijkt", "full": "Uit het onderzoek blijkt dat de klanten tevreden zijn."},
+   {"q": "De verkoper is niet ______ voor schade.", "hint": "liable", "a": "aansprakelijk", "full": "De verkoper is niet aansprakelijk voor schade."},
+   {"q": "Op onze diensten zijn de algemene ______ van toepassing.", "hint": "terms and conditions", "a": "voorwaarden", "full": "Op onze diensten zijn de algemene voorwaarden van toepassing."},
+   {"q": "______ kunnen wij u een afspraak aanbieden.", "hint": "if desired", "a": "desgewenst", "full": "Desgewenst kunnen wij u een afspraak aanbieden."},
+   {"q": "Het contract is ______ als het niet ondertekend is.", "hint": "null and void", "a": "nietig", "full": "Het contract is nietig als het niet ondertekend is."}]},
+  {"type": "p", "text": "<b>Translate into Dutch (formal):</b>"},
+  {"type": "translations", "items": [
+   {"q": "Should you have any questions, please contact us.", "a": "Mocht u vragen hebben, dan kunt u contact met ons opnemen."},
+   {"q": "Please find enclosed the invoice.", "a": "Bijgaand treft u de factuur aan."},
+   {"q": "We regret to inform you that ...", "a": "Wij betreuren het u te moeten meedelen dat ..."},
+   {"q": "We apologise for the inconvenience.", "a": "Onze excuses voor het ongemak."}]},
+  {"type": "pagebreak"},
+  {"type": "answers"}
+ ]
+}

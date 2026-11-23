@@ -592,5 +592,16 @@
   "subtitle": "Figures of speech, irony and litotes, euphemism, alliteration, and rhetoric in speeches and essays",
   "content": "c2_05_rhetoric_style.json",
   "exercise_count": 10
+ },
+ {
+  "id": "C2_06_Formal_and_business_writing",
+  "file": "C2_06_Formal_and_business_writing.pdf",
+  "level": "C2",
+  "number": 6,
+  "section": "Writing",
+  "title": "Formal and business writing",
+  "subtitle": "Reports and proposals, business phrases, mocht u ..., official and legal Dutch, and plain language",
+  "content": "c2_06_formal_business_writing.json",
+  "exercise_count": 10
  }
 ]
