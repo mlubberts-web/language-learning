@@ -11,8 +11,8 @@ import { state, saveLog, modeTitle } from "../state.js";
 import { startDrill } from "./session.js";
 import * as data from "../data.js";
 
-const SECTIONS = [["today", "Today"], ["coming", "Coming days"], ["overview", "Overview"], ["mocks", "Mock exams"], ["settings", "Settings"]];
-const PARTS = ["Reading", "Listening", "Writing", "Speaking"];
+const SECTIONS = [["today", "Today"], ["coming", "Coming days"], ["overview", "Overview"], ["mocks", "Mock exams"], ["settings", "Settings"]]; // t-list
+const PARTS = ["Reading", "Listening", "Writing", "Speaking"]; // t-list
 const TARGET = 70; // aim for at least this percentage on every part of an official mock exam
 let weekOffset = 0;
 
@@ -280,7 +280,7 @@ function calendar(now, today) {
   return h("div", { class: "card" },
     h("div", { class: "calendar", style: `grid-template-columns: repeat(${weeks}, 30px)` }, cells),
     h("div", { class: "legend muted" },
-      [["c0", "nothing"], ["c1", "under a third of the list"], ["c2", "a third"], ["c3", "two thirds"], ["c4", "list finished"], ["off", "day off"], ["future deadline", "deadline"]]
+      [["c0", "nothing"], ["c1", "under a third of the list"], ["c2", "a third"], ["c3", "two thirds"], ["c4", "list finished"], ["off", "day off"], ["future deadline", "deadline"]] // t-list
         .map(([kind, text]) => h("span", {}, h("i", { class: `cal ${kind}` }), t(text)))));
 }
 
@@ -423,7 +423,7 @@ export async function scheduleScreen(part, chosen) {
       h("span", {}, t("These deadlines are examples: {deadlines}. Set your own in Settings, or keep these.", { deadlines: now.phases.map(goalText).join(", ") })),
       h("button", { type: "button", class: "button small", onclick: () => saveGoals(P.goals(today)) }, t("Keep these deadlines"))),
     now.plan.late.length > 0 && h("div", { class: "feedback wrong" },
-      t(now.plan.late.length === 1 ? "{count} part of the plan no longer fits before {day}." : "{count} parts of the plan no longer fit before {day}.",
+      t(now.plan.late.length === 1 ? "{count} part of the plan no longer fits before {day}." : "{count} parts of the plan no longer fit before {day}.", // t-list
         { count: now.plan.late.length, day: longDate(now.phases[now.phases.length - 1].end) })),
     h("div", { class: "segmented", role: "group", "aria-label": t("Show") }, SECTIONS.map(([id, label]) =>
       h("button", { type: "button", "aria-pressed": String(id === section), onclick: () => { location.hash = `#/${state.course}/schedule/${id}`; } }, t(label)))),

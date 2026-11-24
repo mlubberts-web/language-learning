@@ -59,11 +59,11 @@ export function makePhases(goals, start) {
 
 // null when the deadlines can be planned, else what is wrong (in English, translated where shown).
 export function deadlineProblem(goals) {
-  if (!goals.length) return "Keep at least one deadline.";
+  if (!goals.length) return "Keep at least one deadline."; // t-list
   goals = goals.slice().sort((a, b) => LEVELS.indexOf(a.level) - LEVELS.indexOf(b.level));
   const levels = goals.map((g) => g.level), dates = goals.map((g) => g.date);
-  if (new Set(levels).size < levels.length) return "Each level can have only one deadline.";
-  if (dates.slice().sort().join() !== dates.join() || new Set(dates).size < dates.length) return "A higher level needs a later date.";
+  if (new Set(levels).size < levels.length) return "Each level can have only one deadline."; // t-list
+  if (dates.slice().sort().join() !== dates.join() || new Set(dates).size < dates.length) return "A higher level needs a later date."; // t-list
   return null;
 }
 

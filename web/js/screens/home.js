@@ -7,8 +7,8 @@ import { h, bar } from "../ui.js";
 import { state } from "../state.js";
 import { startDrill } from "./session.js";
 
-export const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate",
-                             C1: "Advanced", C2: "Mastery" };
+export const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate", // t-list
+                             C1: "Advanced", C2: "Mastery" }; // t-list
 
 // How far you are in a unit: "done", "reading" or "new" (progress comes from the reader).
 export function unitStatus(unit) {
@@ -17,7 +17,7 @@ export function unitStatus(unit) {
   return entry?.seen?.length ? "reading" : "new";
 }
 
-const STATUS_TEXT = { done: "Done", reading: "In progress", new: "Not started" };
+const STATUS_TEXT = { done: "Done", reading: "In progress", new: "Not started" }; // t-list
 
 function unitRow(unit, isNext) {
   const status = unitStatus(unit);

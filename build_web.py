@@ -109,9 +109,11 @@ def main():
     entries = [build_course(course_id) for course_id in course.all_ids()]
     write(OUT / "courses.json", entries)
     write(OUT / "languages.json", language_rules())
-    (OUT / "ui").mkdir()
-    for lang in ("nl", "es"):  # English needs no file: the texts in the code are English
-        shutil.copy(HERE / "ui_text" / f"{lang}.json", OUT / "ui" / f"{lang}.json")
+    # The translations: the ones shared with the Streamlit app, plus the website's own
+    # (ui_text/web_nl.json, web_es.json). English needs no file: the texts in the code are English.
+    from find_web_texts import tables
+    for lang, table in tables().items():
+        write(OUT / "ui" / f"{lang}.json", table)
     size = sum(path.stat().st_size for path in OUT.rglob("*") if path.is_file())
     print(f"Website data written to web/data: {size / 1e6:.1f} MB")
 

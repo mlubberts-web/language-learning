@@ -10,7 +10,7 @@ import { h, icon, bar } from "../ui.js";
 import { state, savePractice, saveLog, saveDrill, modeTitle, unitById } from "../state.js";
 import { mastery } from "./unit.js";
 
-export const SIZES = { "10": 10, "20": 20, "All": null };
+export const SIZES = { "10": 10, "20": 20, "All": null }; // t-list
 
 const isKnown = (item) => store.isMastered(state.practice, item.id) || store.isMarkedDone(state.practice, rounds.doneKey(item));
 

@@ -10,8 +10,8 @@ import { doneKey } from "../rounds.js";
 import { startDrill } from "./session.js";
 import { mastery, sizeButtons, skipSwitch, sessionSize } from "./unit.js";
 
-const KINDS = [["topic", "Topics", "Words for what people talk about."],
-               ["language", "Useful language", "The words that hold a text together: connectors, set phrases, idioms. These count in the writing and speaking parts of the {exam} exam."]];
+const KINDS = [["topic", "Topics", "Words for what people talk about."], // t-list
+               ["language", "Useful language", "The words that hold a text together: connectors, set phrases, idioms. These count in the writing and speaking parts of the {exam} exam."]]; // t-list
 
 // The exercise buttons on a card, in the order they follow each other.
 function themeModes(languages) {

@@ -183,7 +183,7 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
       `web/`; `build_web.py` writes `web/data/` (not in git; Cloudflare runs it when it publishes);
       browser tests run in Edge through Playwright, like the screenshots.
 - [x] 8.5 Grading in the browser, with test cases taken from the Python grading so both agree.
-- [ ] 8.6 Screens: course picker, home, level lists, reader (PDFs), the exercise types, word lists,
+- [x] 8.6 Screens: course picker, home, level lists, reader (PDFs), the exercise types, word lists,
       verbs in context, schedule, progress, mock exam; in English, Dutch and Spanish. In the
       answer box keys 1–9 type the special letters of the buttons (Spanish á é í ó ú ü ñ ¿ ¡),
       Alt + a number types the number itself.
@@ -254,3 +254,6 @@ Short notes per session: what was done, anything left open.
   deadlines, the example is B2 after half a year and the top level after a year. For 8.8: write
   Menno's current deadlines into his study log when his results move, so his plan stays the same.
   Still to do in 8.6: Dutch and Spanish for the new texts.
+- 2026-11-23: 8.6 done: the website's own texts are in ui_text/web_nl.json and web_es.json (330 texts
+  on the site, all in Dutch and Spanish); test_web_text.py checks them, find_web_texts.py lists
+  what is missing. Every test passes.

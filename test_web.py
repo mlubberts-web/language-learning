@@ -187,7 +187,7 @@ def main():
         print(f"{len(different)} of {len(cases)} answers graded differently.")
     if different or plan_problems:
         sys.exit(1)
-    print(f"All checks passed: the website grades all {len(cases)} answers like the app, and makes the same "
+    print(f"All checks passed. The website grades all {len(cases)} answers like the app, and makes the same "
           f"study plan in {len(plan_cases())} situations.")
 
 

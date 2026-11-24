@@ -13,7 +13,7 @@ import { typedQuestion } from "./session.js";
 import { LEVEL_NAMES } from "./home.js";
 
 // Number of questions and minutes
-const LENGTHS = { "20 questions, 15 minutes": [20, 15], "40 questions, 30 minutes": [40, 30], "60 questions, 45 minutes": [60, 45] };
+const LENGTHS = { "20 questions, 15 minutes": [20, 15], "40 questions, 30 minutes": [40, 30], "60 questions, 45 minutes": [60, 45] }; // t-list
 let chosen = { level: null, length: "40 questions, 30 minutes" };
 
 // The running mock exam is kept for this browser tab, like a practice session.
@@ -77,7 +77,7 @@ function setupScreen() {
         h("div", { class: "eyebrow" }, t("Mock exam")),
         h("h1", {}, t("Test yourself under time pressure")),
         h("p", { class: "lead" }, t("A mix of all exercise types, one attempt each, with no feedback until the end.")),
-        segmented(t("Level"), [...levels, "All levels"], chosen.level, (x) => { chosen.level = x; }),
+        segmented(t("Level"), [...levels, "All levels"], chosen.level, (x) => { chosen.level = x; }), // t-list
         segmented(t("Length"), Object.keys(LENGTHS), chosen.length, (x) => { chosen.length = x; }),
         h("div", { class: "row" }, h("button", { type: "button", class: "button primary large", onclick: start }, t("Start the mock exam"))),
         h("p", { class: "muted" }, t("This trains exam conditions with the questions of this program. It does not follow the format of the official {exam} exam.", { exam: state.info.exam || "" }))),

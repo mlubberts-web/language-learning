@@ -10,7 +10,7 @@ import { state, modeTitle } from "../state.js";
 import { firstTryScore, MIN_PRACTISED, WEAK_BELOW, doneKey } from "../rounds.js";
 import { startDrill } from "./session.js";
 
-const TABS = [["week", "Week by week"], ["trends", "Trends"], ["levels", "Levels"], ["mocks", "Mock exams"], ["weak", "Weak subjects"]];
+const TABS = [["week", "Week by week"], ["trends", "Trends"], ["levels", "Levels"], ["mocks", "Mock exams"], ["weak", "Weak subjects"]]; // t-list
 let tab = "week";
 let weekOffset = 0;
 const percent = (x) => (x === null || x === undefined ? "–" : `${Math.round(x * 100)}%`);

@@ -30,8 +30,8 @@ import { progressScreen } from "./screens/progress.js";
 const SITE_NAME = "[SITE NAME]"; // the name Menno chooses (PLAN 7.4)
 
 // The menu: [part of the address, text, icon]
-const MENU = [["", "Course", "book"], ["schedule", "Schedule", "calendar"], ["progress", "Progress", "chart"],
-              ["words", "Word lists", "list"], ["exams", "Mock exams", "clock"]];
+const MENU = [["", "Course", "book"], ["schedule", "Schedule", "calendar"], ["progress", "Progress", "chart"], // t-list
+              ["words", "Word lists", "list"], ["exams", "Mock exams", "clock"]]; // t-list
 
 function header(courseId, part) {
   const box = document.getElementById("header");

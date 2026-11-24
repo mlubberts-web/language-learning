@@ -5,7 +5,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 sys.stdout.reconfigure(encoding="utf-8")  # the tests print emoji; a plain Windows window would choke on them
-TESTS = ["test_content.py", "test_practice.py", "test_schedule.py", "test_place.py", "test_ui_text.py", "test_pdfs.py", "test_web.py"]
+TESTS = ["test_content.py", "test_practice.py", "test_schedule.py", "test_place.py", "test_ui_text.py", "test_pdfs.py", "test_web.py", "test_web_text.py"]
 GOOD = ("All content checks passed.", "All checks passed.", "All good:", "All texts are translated.",
         "All PDFs made without problems.", "ReportLab is not installed")  # the last line of a passing test
 
