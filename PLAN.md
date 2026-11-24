@@ -178,10 +178,15 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
       Streamlit app; the new site gets a new Supabase project in Frankfurt (8.7).
 - [x] 8.3 Design: two or three directions for the main pages (course picker, home, exercise,
       reader) as mock-ups. 🙋 Menno picks one.
-- [ ] 8.4 New `web/` folder: build step that turns `courses/` into data files for the browser.
-- [ ] 8.5 Grading in the browser, with test cases taken from the Python grading so both agree.
+- [x] 8.4 New `web/` folder: build step that turns `courses/` into data files for the browser.
+      How the site is made (no Node or framework needed): plain HTML, CSS and JavaScript modules in
+      `web/`; `build_web.py` writes `web/data/` (not in git; Cloudflare runs it when it publishes);
+      browser tests run in Edge through Playwright, like the screenshots.
+- [x] 8.5 Grading in the browser, with test cases taken from the Python grading so both agree.
 - [ ] 8.6 Screens: course picker, home, level lists, reader (PDFs), the exercise types, word lists,
-      verbs in context, schedule, progress, mock exam; in English, Dutch and Spanish.
+      verbs in context, schedule, progress, mock exam; in English, Dutch and Spanish. In the
+      answer box keys 1–9 type the special letters of the buttons (Spanish á é í ó ú ü ñ ¿ ¡),
+      Alt + a number types the number itself.
 - [ ] 8.7 Accounts: email sign-up with invite code, login, forgot password, "has access", own
       data only (row-level security), delete own account, admin page for users and access.
 - [ ] 8.8 Move existing results from the `saves` table to the new tables.
@@ -228,3 +233,6 @@ Short notes per session: what was done, anything left open.
   app); waiting for Menno's choice. 8.12 added for exam-format mock exams.
 - 2026-11-23: 8.3: Menno chose direction A (clear and academic) out of six. Exercise, reader and phone
   screens drawn in that style; colours, fonts and sizes written down in docs/DESIGN.md.
+- 2026-11-23: 8.4–8.5: build_web.py makes web/data (16.6 MB, 4 seconds) with the same questions as the
+  app; web/js/grading.js grades like practice_logic.py. test_web.py compares the two on 69,185 answers
+  of all six courses (39,666 right, 4,366 with a warning, 25,153 wrong): all the same.

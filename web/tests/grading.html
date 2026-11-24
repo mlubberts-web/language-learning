@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Grading test</title>
+</head>
+<body>
+<p id="status">Loading…</p>
+<script type="module">
+// test_web.py opens this page and calls window.runCases(cases): each case is a question, a typed
+// answer and what the Python app said about it. The page grades it again in JavaScript and
+// returns every case where the two don't agree.
+import { setLanguages, checkAnswer } from "../js/grading.js";
+
+const languages = await (await fetch("../data/languages.json")).json();
+setLanguages(languages);
+
+window.runCases = (cases) => {
+  const different = [];
+  for (const c of cases) {
+    const got = checkAnswer(c.item, c.typed, c.learn, c.accepted || []);
+    if (got.result !== c.result || got.note !== c.note) {
+      different.push({ ...c, got });
+    }
+  }
+  return different;
+};
+document.getElementById("status").textContent = "Ready";
+</script>
+</body>
+</html>
