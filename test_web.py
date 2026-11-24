@@ -1,4 +1,4 @@
-"""Checks that the new website grades answers exactly like the Python app.
+"""Checks that the new website grades answers and makes study plans exactly like the Python app.
 Run with:  .venv\\Scripts\\python.exe test_web.py
 
 How: it builds the website data (build_web.py), takes questions of every course and makes many
@@ -11,6 +11,8 @@ import functools, http.server, json, random, sys, threading
 from pathlib import Path
 
 import build_web
+import study_plan
+from datetime import date
 import course
 import languages
 import practice_logic as logic
@@ -85,6 +87,62 @@ def make_cases():
     return cases
 
 
+def plan_cases():
+    """Situations for the study plan: (input for the browser, what Python's study_plan.py makes)."""
+    cases = []
+    scenarios = [  # course, deadlines, start, today, share finished, hours, days off, today's list fixed
+        ("es_from_en", [{"level": "B2", "date": "2026-12-04"}, {"level": "C2", "date": "2027-01-20"}], "2026-11-07", "2026-11-23", 0.3, {"weekday": 240, "weekend": 120}, ["2026-12-25"], False),
+        ("es_from_en", [{"level": "B2", "date": "2026-12-04"}, {"level": "C2", "date": "2027-01-20"}], "2026-11-07", "2026-11-23", 0.3, {"weekday": 240, "weekend": 120}, [], True),
+        ("nl_from_es", [{"level": "B1", "date": "2027-03-01"}], "2026-11-23", "2026-11-23", 0.0, {"weekday": 60, "weekend": 0}, ["2026-12-31"], False),
+        ("en_from_nl", [{"level": "A2", "date": "2026-12-01"}, {"level": "B2", "date": "2027-02-01"}, {"level": "C2", "date": "2027-06-30"}], "2026-11-01", "2026-12-10", 0.1, {"weekday": 90, "weekend": 45}, [], False),
+        ("es_from_nl", [{"level": "C1", "date": "2026-11-20"}, {"level": "C2", "date": "2027-02-20"}], "2026-10-01", "2026-11-25", 0.5, {"weekday": 120, "weekend": 120}, ["2026-12-24", "2026-12-25"], True),
+    ]
+    for course_id, goals, start, today, share, hours, days_off, fixed in scenarios:
+        data = WEB / "data" / course_id
+        catalog = json.loads((data / "catalog.json").read_text(encoding="utf-8"))
+        units = [{"id": u["id"], "level": u["level"], "number": u["number"], "title": u["title"], "pages": u["pages"],
+                  "items": [{"mode": i["mode"]} for i in json.loads((data / "items" / f"{u['id']}.json").read_text(encoding="utf-8"))]}
+                 for u in catalog]
+        themes = [{"name": name, "title": theme["title"], "lists": theme["lists"],
+                   "items": [{"mode": i["mode"], "group": i.get("group", "")} for i in theme["items"]]}
+                  for name, theme in json.loads((data / "themes.json").read_text(encoding="utf-8")).items()]
+        phases = study_plan.make_phases(goals, date.fromisoformat(start))
+        all_units = study_plan.all_units(units, themes, phases)
+        finished = [u["id"] for u in all_units[:int(len(all_units) * share)]]
+        frozen = [u["id"] for u in all_units[len(finished):len(finished) + 7]] if fixed else None
+        finished_dates = {unit_id: start for unit_id in finished}
+        plan = study_plan.build_plan(all_units, date.fromisoformat(today), set(finished), hours, set(days_off), frozen, phases)
+        expected = {"units": [[u["id"], u["minutes"], u["phase"]] for u in all_units],
+                    "days": [[r["date"].isoformat(), r["budget"], r["review"], r["writing"], r["room"], [u["id"] for u in r["units"]]]
+                             for r in plan["days"]],
+                    "load": plan["load"], "late": [u["id"] for u in plan["late"]],
+                    "position": study_plan.position(all_units, finished_dates, date.fromisoformat(today))}
+        if expected["position"] == "All PDFs done":
+            expected["position"] = None
+        cases.append(({"goals": goals, "start": start, "today": today, "units": units, "themes": themes,
+                       "finished": finished, "finished_dates": finished_dates, "hours": hours, "days_off": days_off,
+                       "frozen": frozen}, expected, f"{course_id} {start}→{goals[-1]['date']}, today {today}"))
+    return cases
+
+
+def compare_plans(page):
+    """Returns the descriptions of the situations where the two plans differ."""
+    problems = []
+    for case, expected, name in plan_cases():
+        got = page.evaluate("c => window.runPlan(c)", case)
+        for key in expected:
+            if key == "load":
+                same = expected[key].keys() == got[key].keys() and all(abs(expected[key][k] - got[key][k]) < 1e-9 for k in expected[key])
+            elif key == "days":
+                same = len(expected[key]) == len(got[key]) and all(
+                    a[:4] == b[:4] and abs(a[4] - b[4]) < 1e-9 and a[5] == b[5] for a, b in zip(expected[key], got[key]))
+            else:
+                same = expected[key] == got[key]
+            if not same:
+                problems.append(f"plan {name}: '{key}' differs")
+    return problems
+
+
 def serve(folder):
     """A small web server for the web folder, on a free port, in the background."""
     class Quiet(http.server.SimpleHTTPRequestHandler):
@@ -114,16 +172,23 @@ def main():
             different = []
             for start in range(0, len(cases), 5000):  # in parts, so no single message gets too big
                 different += page.evaluate("cases => window.runCases(cases)", cases[start:start + 5000])
+            page.goto(f"http://127.0.0.1:{server.server_port}/tests/plan.html")
+            page.wait_for_function("document.getElementById('status').textContent === 'Ready'", timeout=30000)
+            plan_problems = compare_plans(page)
             browser.close()
     finally:
         server.shutdown()
     for case in different[:25]:
         print(f"DIFFERENT {case['item']['mode']} {case['item']['answers'][:2]} typed {case['typed']!r}: "
               f"Python {case['result']} {case['note']!r}, website {case['got']['result']} {case['got']['note']!r}")
+    for problem in plan_problems:
+        print("DIFFERENT", problem)
     if different:
         print(f"{len(different)} of {len(cases)} answers graded differently.")
+    if different or plan_problems:
         sys.exit(1)
-    print(f"All checks passed: the website grades all {len(cases)} answers like the app.")
+    print(f"All checks passed: the website grades all {len(cases)} answers like the app, and makes the same "
+          f"study plan in {len(plan_cases())} situations.")
 
 
 if __name__ == "__main__":

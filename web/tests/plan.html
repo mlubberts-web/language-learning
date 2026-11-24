@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Plan test</title></head>
+<body>
+<p id="status">Loading…</p>
+<script type="module">
+// test_web.py calls window.runPlan(case) with the same input it gave the Python study plan,
+// and compares what comes back: the units of each day, the load and what no longer fits.
+import { makePhases, allUnits, buildPlan, position } from "../js/plan.js";
+
+window.runPlan = (c) => {
+  const phases = makePhases(c.goals, c.start);
+  const units = allUnits(c.units, c.themes, phases);
+  const plan = buildPlan(units, c.today, new Set(c.finished), c.hours, new Set(c.days_off), c.frozen, phases);
+  return {
+    units: units.map((u) => [u.id, u.minutes, u.phase]),
+    days: plan.days.map((row) => [row.date, row.budget, row.review, row.writing, row.room, row.units.map((u) => u.id)]),
+    load: plan.load,
+    late: plan.late.map((u) => u.id),
+    position: position(units, c.finished_dates, c.today),
+  };
+};
+document.getElementById("status").textContent = "Ready";
+</script>
+</body>
+</html>

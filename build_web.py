@@ -62,6 +62,21 @@ def build_course(course_id):
         count += len(items)
         write(out / "items" / f"{unit['id']}.json", [compact(item) for item in items])
         write(out / "units" / f"{unit['id']}.json", document)
+        # The number of pages in the web reader: the parts between the "pagebreak" blocks
+        parts, size = 0, 0
+        for block in document["blocks"] + [{"type": "pagebreak"}]:
+            if block["type"] == "pagebreak":
+                parts, size = parts + (size > 0), 0
+            else:
+                size += 1
+        unit["web_pages"] = parts
+    # The number of pages of each PDF: the study plan estimates reading time from it
+    import pymupdf
+    for unit in catalog:
+        path = course.pdf_folder(course_id) / unit["file"]
+        if path.exists():
+            with pymupdf.open(path) as pdf:
+                unit["pages"] = pdf.page_count
     write(out / "catalog.json", catalog)
     # The PDFs, for the "Download PDF" button in the reader
     pdfs = course.pdf_folder(course_id)
