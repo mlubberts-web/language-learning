@@ -174,7 +174,8 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
 
 - [x] 8.1 Streamlit app: keep the place (course, page, unit) in the web address and stay logged in
       after a lost connection, so it no longer jumps back to home.
-- [ ] 8.2 Check: is the Supabase project in an EU region? (🙋 Menno looks it up.)
+- [x] 8.2 Check: is the Supabase project in an EU region? Answer: US East. It stays there for the
+      Streamlit app; the new site gets a new Supabase project in Frankfurt (8.7).
 - [ ] 8.3 Design: two or three directions for the main pages (course picker, home, exercise,
       reader) as mock-ups. 🙋 Menno picks one.
 - [ ] 8.4 New `web/` folder: build step that turns `courses/` into data files for the browser.
@@ -186,6 +187,11 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
 - [ ] 8.8 Move existing results from the `saves` table to the new tables.
 - [ ] 8.9 Tests on phone and desktop sizes (Playwright); a trial address for a few users.
 - [ ] 8.10 🙋 Domain, email service for login emails, go live; the Streamlit app is retired.
+- [ ] 8.12 Exam-format mock exams: follow the structure of the official model exams (tasks, number
+      of questions, timing, points) with the site's own texts and questions, and link to the
+      official free model exams instead of putting them on the site (they are copyrighted).
+      Menno has the DELE "modelo 0" PDFs (A1–C2) in Desktop/DeleMockExams; for English and Dutch
+      the Cambridge and Staatsexamen NT2/CNaVT sample papers do the same job.
 - [ ] 8.11 🙋 Later, back in the Netherlands: KvK, BTW, payments switch on "has access".
 
 ## Log
@@ -217,3 +223,6 @@ Short notes per session: what was done, anything left open.
   (c=, screen=, level=, pdf=, page=); a new visit after a lost connection opens that place again.
   A practice session or running mock exam comes back to where it started. test_place.py added;
   run_tests.py now prints in UTF-8 so it also works from Git Bash. Tested with a real reload.
+- 2026-11-23: 8.2: Supabase is in US East; the new site starts a new project in Frankfurt. 8.3: three
+  design directions on a design canvas (A clear and academic, B friendly and bright, C focused study
+  app); waiting for Menno's choice. 8.12 added for exam-format mock exams.
