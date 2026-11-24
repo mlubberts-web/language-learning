@@ -13,6 +13,7 @@ and is not kept in git):
     web/data/<course>/items/<unit>.json    the practice questions of one unit
     web/data/<course>/units/<unit>.json    the text of one unit, for the reader
     web/data/<course>/themes.json          the themed word lists and their questions
+    web/data/<course>/pdf/                 the PDFs, to download
 
 The questions are made by practice_items.py, the same code the Streamlit app uses, so both
 sites ask exactly the same questions."""
@@ -62,6 +63,12 @@ def build_course(course_id):
         write(out / "items" / f"{unit['id']}.json", [compact(item) for item in items])
         write(out / "units" / f"{unit['id']}.json", document)
     write(out / "catalog.json", catalog)
+    # The PDFs, for the "Download PDF" button in the reader
+    pdfs = course.pdf_folder(course_id)
+    (out / "pdf").mkdir(parents=True, exist_ok=True)
+    for unit in catalog:
+        if (pdfs / unit["file"]).exists():
+            shutil.copy(pdfs / unit["file"], out / "pdf" / unit["file"])
 
     themes = {}
     for path in sorted((folder / "themes").glob("*.json")):  # path.stem: the name without .json

@@ -242,3 +242,8 @@ Short notes per session: what was done, anything left open.
   listening, rounds, I was actually right, results with the next type). Results are kept in the
   browser for now, in the same layout as the app. Clicked through in Edge at 1280 and 390 px wide:
   no errors. Still to do in 8.6: reader, word lists, mock exam, schedule, progress, translations.
+- 2026-11-23: 8.6 reader: the units as web pages from the content files (all 14 block kinds of
+  make_pdfs.py, as HTML), split at each pagebreak; arrow keys, page buttons, Mark as done, Download
+  PDF (build_web copies the PDFs). Reading progress in the app's layout; note: the web pages are
+  not the PDF pages, so when results move over (8.8) "done" carries over and the pages seen start
+  fresh. All 708 first and last pages of the 354 units open without errors.

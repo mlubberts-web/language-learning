@@ -5,6 +5,7 @@
 //   #/es_from_en/level/B1        the course home, open at level B1
 //   #/es_from_en/unit/<id>       the exercises of one unit
 //   #/es_from_en/session         a running practice session
+//   #/es_from_en/read/<id>/3     page 3 of a unit in the reader
 //   #/es_from_en/schedule ...    the other parts of the menu
 //
 // Every screen is a function in js/screens/ that gets the parts of the address and returns the
@@ -20,6 +21,7 @@ import { homeScreen } from "./screens/home.js";
 import { unitScreen } from "./screens/unit.js";
 import { sessionScreen } from "./screens/session.js";
 import { comingScreen } from "./screens/coming.js";
+import { readerScreen } from "./screens/reader.js";
 
 const SITE_NAME = "[SITE NAME]"; // the name Menno chooses (PLAN 7.4)
 
@@ -58,7 +60,7 @@ export async function render() {
     }
     await openCourse(courseId);
     header(courseId, part);
-    const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen };
+    const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen };
     const screen = screens[part] || comingScreen;
     main.className = part === "session" ? "narrow" : "";
     const content = await screen(part, ...rest);
