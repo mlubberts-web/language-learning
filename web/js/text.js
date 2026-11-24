@@ -29,3 +29,16 @@ export function t(text, values = {}, code = current) {
   const translated = (tables[code] || {})[text] ?? text;
   return translated.replace(/\{(\w+)\}/g, (whole, name) => (name in values ? String(values[name]) : whole));
 }
+
+// A date text ("2026-12-04") in the interface language: longDate -> "Friday 4 December",
+// shortDate -> "4 Dec", dayLabel -> "Fri 4". Intl is the browser's own date formatting.
+const LOCALES = { en: "en-GB", nl: "nl-NL", es: "es-ES" };
+function asDate(text) {
+  const [y, m, d] = text.split("-").map(Number);
+  return new Date(Date.UTC(y, m - 1, d));
+}
+const format = (text, options) => new Intl.DateTimeFormat(LOCALES[current] || "en-GB", { timeZone: "UTC", ...options }).format(asDate(text));
+export const longDate = (text) => format(text, { weekday: "long", day: "numeric", month: "long" });
+export const shortDate = (text) => format(text, { day: "numeric", month: "short" });
+export const dayLabel = (text) => format(text, { weekday: "short", day: "numeric" });
+export const decimal = (value, places = 1) => value.toLocaleString(LOCALES[current] || "en-GB", { minimumFractionDigits: places, maximumFractionDigits: places });

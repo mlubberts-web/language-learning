@@ -247,3 +247,10 @@ Short notes per session: what was done, anything left open.
   PDF (build_web copies the PDFs). Reading progress in the app's layout; note: the web pages are
   not the PDF pages, so when results move over (8.8) "done" carries over and the pages seen start
   fresh. All 708 first and last pages of the 354 units open without errors.
+- 2026-11-23: 8.6 word lists, mock exam (with links to the official model exams), Schedule (today's
+  list, coming days, overview with deadlines and calendar, official mock exams, settings) and
+  Progress (week by week, trends, levels, mock exams, weak subjects). web/js/plan.js makes the same
+  study plan as study_plan.py: test_web.py compares them in 5 situations. Until someone sets
+  deadlines, the example is B2 after half a year and the top level after a year. For 8.8: write
+  Menno's current deadlines into his study log when his results move, so his plan stays the same.
+  Still to do in 8.6: Dutch and Spanish for the new texts.

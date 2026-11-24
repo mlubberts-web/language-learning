@@ -192,3 +192,33 @@ main.narrow { max-width: 760px; }
   .table-box table { font-size: 14px; }
 }
 .clock { font-variant-numeric: tabular-nums; font-weight: 600; font-size: 18px; }
+
+/* ---------- schedule and progress ---------- */
+.tiles-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 16px; }
+.tile { padding: 18px; gap: 6px; }
+.tile-value { font-family: var(--serif); font-size: 26px; font-weight: 700; line-height: 1.2; }
+.week-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.day { padding: 16px; gap: 8px; }
+.day.today { border: 2px solid var(--accent); }
+.small { font-size: 14px; }
+.calendar { display: grid; grid-auto-rows: 30px; gap: 4px; overflow-x: auto; padding-bottom: 4px; font-size: 12px; }
+.cal { border-radius: 6px; display: flex; align-items: center; justify-content: center; }
+.cal.out { visibility: hidden; }
+.cal.c0 { background: var(--track); }
+.cal.c1 { background: #C9D8F1; }
+.cal.c2 { background: #8FB0E3; }
+.cal.c3 { background: #4F82CF; color: #FFFFFF; }
+.cal.c4 { background: var(--accent); color: #FFFFFF; }
+.cal.future { background: var(--surface); border: 1px solid var(--line); }
+.cal.off { background: repeating-linear-gradient(45deg, var(--track), var(--track) 4px, var(--surface) 4px, var(--surface) 8px); }
+.cal.deadline { border: 2px solid var(--ink); }
+.cal.now { outline: 3px solid var(--ink); outline-offset: 1px; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 14px; height: 14px; display: inline-block; }
+.chart { display: flex; align-items: flex-end; gap: 8px; height: 200px; padding-top: 22px; border-bottom: 1px solid var(--line); }
+.chart .column { flex: 1 1 0; min-width: 18px; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
+.chart .value { font-size: 12px; color: var(--ink-soft); }
+.chart .fill { width: 100%; max-width: 36px; background: var(--accent); border-radius: 4px 4px 0 0; min-height: 0; }
+.chart-labels { display: flex; gap: 8px; margin-top: 6px; }
+.chart-labels span { flex: 1 1 0; min-width: 18px; text-align: center; font-size: 12px; color: var(--muted); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }

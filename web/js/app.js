@@ -24,6 +24,8 @@ import { comingScreen } from "./screens/coming.js";
 import { readerScreen } from "./screens/reader.js";
 import { wordsScreen } from "./screens/words.js";
 import { examsScreen } from "./screens/exams.js";
+import { scheduleScreen } from "./screens/schedule.js";
+import { progressScreen } from "./screens/progress.js";
 
 const SITE_NAME = "[SITE NAME]"; // the name Menno chooses (PLAN 7.4)
 
@@ -69,7 +71,7 @@ export async function render() {
     await openCourse(courseId);
     header(courseId, part);
     const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen,
-                      words: wordsScreen, exams: examsScreen };
+                      words: wordsScreen, exams: examsScreen, schedule: scheduleScreen, progress: progressScreen };
     const screen = screens[part] || comingScreen;
     main.className = part === "session" || (part === "exams" && rest[0] === "run") ? "narrow" : "";
     const content = await screen(part, ...rest);
