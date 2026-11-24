@@ -22,6 +22,8 @@ import { unitScreen } from "./screens/unit.js";
 import { sessionScreen } from "./screens/session.js";
 import { comingScreen } from "./screens/coming.js";
 import { readerScreen } from "./screens/reader.js";
+import { wordsScreen } from "./screens/words.js";
+import { examsScreen } from "./screens/exams.js";
 
 const SITE_NAME = "[SITE NAME]"; // the name Menno chooses (PLAN 7.4)
 
@@ -39,11 +41,17 @@ function header(courseId, part) {
     }));
   const tools = courseId && h("div", { class: "header-tools" },
     h("a", { class: "button small", href: "#/", title: t("Choose another course") },
-      state.info ? state.info.title : "", icon("down", 14)));
+      state.info ? courseName() : "", icon("down", 14)));
   box.replaceChildren(h("div", { class: "inner" },
     h("a", { class: "brand", href: courseId ? `#/${courseId}` : "#/" }, SITE_NAME), nav, tools));
   // During a session the header gives way to the session bar
   box.hidden = part === "session";
+}
+
+// The language you learn, named in the interface language: "Spanish", "Spaans", "neerlandés"
+function courseName() {
+  const name = state.languageNames?.[state.info.learn]?.[state.info.explained_in] || state.info.title;
+  return name.charAt(0).toUpperCase() + name.slice(1);
 }
 
 export async function render() {
@@ -60,9 +68,10 @@ export async function render() {
     }
     await openCourse(courseId);
     header(courseId, part);
-    const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen };
+    const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen,
+                      words: wordsScreen, exams: examsScreen };
     const screen = screens[part] || comingScreen;
-    main.className = part === "session" ? "narrow" : "";
+    main.className = part === "session" || (part === "exams" && rest[0] === "run") ? "narrow" : "";
     const content = await screen(part, ...rest);
     main.replaceChildren(content);
     if (state.afterRender) { state.afterRender(); state.afterRender = null; } // e.g. put the cursor in the answer box
@@ -89,7 +98,9 @@ function scrollWhenNew() {
 }
 
 async function start() {
-  setLanguages(await data.languages());
+  const languages = await data.languages();
+  setLanguages(languages);
+  state.languageNames = languages.names;
   window.addEventListener("hashchange", () => { scrollWhenNew(); render(); });
   state.render = render; // so screens can ask for a new render after a click
   await render();

@@ -174,7 +174,9 @@ function speak(text, rate, code) {
 }
 
 // ---------- the parts of the question screen ----------
-function typedQuestion(drill, item, profile) {
+// The answer box with its letter keys (and the play buttons for listening). onSubmit gets the
+// typed text; the mock exam uses this too, with its own onSubmit.
+export function typedQuestion(drill, item, profile, onSubmit = grade) {
   const box = h("input", { class: "answer-box", type: "text", id: "answer", autocomplete: "off", autocapitalize: "off",
                            spellcheck: "false", lang: item.lang || state.info.learn });
   const letters = profile.keys || [];
@@ -183,7 +185,7 @@ function typedQuestion(drill, item, profile) {
   state.afterRender = () => box.focus();
   const listening = item.speak && listeningControls(item, profile);
   if (item.speak) setTimeout(() => speak(item.speak, 1, profile.voice), 150);
-  return h("form", { class: "stack", onsubmit: (event) => { event.preventDefault(); grade(box.value); } },
+  return h("form", { class: "stack", onsubmit: (event) => { event.preventDefault(); onSubmit(box.value); } },
     listening,
     h("label", { for: "answer", class: "muted" }, t("Your answer")),
     box,
@@ -193,7 +195,7 @@ function typedQuestion(drill, item, profile) {
         h("span", { class: "letter" }, letter), h("span", { class: "key" }, i + 1)))),
     letters.length > 0 && h("p", { class: "muted" }, t("In the answer box, 1 to {last} type these letters. Hold Alt for a real number.", { last: letters.length })),
     h("div", { class: "row between" },
-      h("button", { type: "button", class: "button", onclick: () => grade("") }, t("I don't know")),
+      h("button", { type: "button", class: "button", onclick: () => onSubmit("") }, t("I don't know")),
       h("button", { type: "submit", class: "button primary large" }, t("Check (Enter)"))));
 }
 
