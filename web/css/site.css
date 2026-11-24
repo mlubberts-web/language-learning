@@ -1,0 +1,156 @@
+/* The look of the whole site: design A, "Clear and academic" (docs/DESIGN.md).
+   The colours are named once here (the :root part) and used everywhere by name, so changing a
+   colour means changing one line. */
+:root {
+  --ink: #16213A;
+  --ink-soft: #3C465A;
+  --muted: #5A6478;
+  --background: #F4F6F9;
+  --surface: #FFFFFF;
+  --line: #DDE2EA;
+  --line-strong: #C5CDDA;
+  --line-faint: #EEF1F5;
+  --track: #E6EAF0;
+  --accent: #1F5FBF;
+  --accent-dark: #174A96;
+  --accent-soft: #EAF0FA;
+  --right: #1D5B36;
+  --right-bg: #E7F4EC;
+  --near: #6B4E00;
+  --near-bg: #FBF2D5;
+  --wrong: #8A2A1C;
+  --wrong-bg: #FCEDEA;
+  --serif: "Source Serif 4", Georgia, serif;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--background); color: var(--ink); font-family: var(--sans); font-size: 16px; line-height: 1.5; }
+a { color: var(--accent); }
+a:hover { color: var(--accent-dark); }
+h1, h2, h3 { font-family: var(--serif); line-height: 1.2; margin: 0; }
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 19px; }
+p { margin: 0; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- header ---------- */
+.site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
+.site-header .inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; min-height: 68px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 32px; }
+.brand { font-family: var(--serif); font-weight: 700; font-size: 22px; color: var(--ink); text-decoration: none; }
+.main-nav { display: flex; flex-wrap: wrap; gap: 4px; flex: 1 1 auto; }
+.main-nav a { display: flex; align-items: center; gap: 8px; padding: 8px 12px; border-radius: 6px; color: var(--ink-soft); font-size: 15px; text-decoration: none; }
+.main-nav a:hover { background: var(--background); color: var(--ink); }
+.main-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.main-nav svg { display: none; }
+.header-tools { display: flex; align-items: center; gap: 12px; }
+
+/* ---------- page layout ---------- */
+main { max-width: 1200px; margin: 0 auto; padding: 32px 24px 64px; }
+main.narrow { max-width: 760px; }
+.columns { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+.columns > .wide { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 24px; }
+.columns > .side { flex: 1 1 320px; min-width: 0; display: flex; flex-direction: column; gap: 24px; }
+.stack { display: flex; flex-direction: column; gap: 16px; }
+.row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.row.between { justify-content: space-between; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+
+/* ---------- cards and text ---------- */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 24px; display: flex; flex-direction: column; gap: 14px; }
+.card.big { padding: 28px; }
+.card.flush { padding: 0; gap: 0; }
+.eyebrow { font-size: 13px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.lead { color: var(--ink-soft); font-size: 16px; max-width: 640px; }
+.muted { color: var(--muted); font-size: 14px; }
+.breadcrumb { font-size: 14px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+.breadcrumb a { text-decoration: none; }
+
+/* ---------- buttons ---------- */
+.button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 0 20px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); font-size: 15px; font-weight: 600; text-decoration: none; cursor: pointer; }
+.button:hover { border-color: var(--ink-soft); color: var(--ink); }
+.button.primary { background: var(--accent); border-color: var(--accent); color: #FFFFFF; }
+.button.primary:hover { background: var(--accent-dark); border-color: var(--accent-dark); color: #FFFFFF; }
+.button.dark { background: var(--ink); border-color: var(--ink); color: #FFFFFF; }
+.button.small { min-height: 40px; padding: 0 14px; font-size: 14px; font-weight: 500; }
+.button.large { min-height: 52px; padding: 0 28px; font-size: 16px; }
+.button:disabled { opacity: .45; cursor: default; }
+.segmented { display: flex; flex-wrap: wrap; gap: 4px; }
+.segmented button { min-height: 40px; min-width: 44px; padding: 0 12px; border-radius: 6px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink-soft); font-size: 14px; font-weight: 600; cursor: pointer; }
+.segmented button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #FFFFFF; }
+.switch { display: inline-flex; align-items: center; gap: 10px; font-size: 15px; cursor: pointer; min-height: 44px; }
+.switch input { width: 20px; height: 20px; accent-color: var(--accent); }
+
+/* ---------- progress ---------- */
+.bar { height: 8px; border-radius: 4px; background: var(--track); overflow: hidden; }
+.bar > div { height: 100%; border-radius: 4px; background: var(--accent); }
+.bar.thin { height: 6px; }
+
+/* ---------- unit list ---------- */
+.unit { padding: 16px 24px; border-bottom: 1px solid var(--line-faint); display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+.unit:last-child { border-bottom: none; }
+.unit .number { flex: none; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; background: var(--line-faint); color: var(--muted); }
+.unit .number.done { background: var(--accent); color: #FFFFFF; }
+.unit .number.reading { background: var(--accent-soft); color: var(--accent); border: 2px solid var(--accent); }
+.unit .about { flex: 1 1 260px; min-width: 0; }
+.unit .title { font-weight: 600; font-size: 16px; }
+.unit .actions { display: flex; gap: 8px; }
+.list-head { padding: 18px 24px; border-bottom: 1px solid var(--track); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+
+/* ---------- exercise types ---------- */
+.mode-card h3 { font-family: var(--sans); font-size: 17px; font-weight: 600; }
+.mode-card .actions { margin-top: auto; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; }
+.mode-card select { min-height: 40px; border: 1px solid var(--line-strong); border-radius: 8px; padding: 0 10px; background: var(--surface); }
+
+/* ---------- a practice session ---------- */
+.session-where { flex: 1 1 200px; min-width: 0; color: var(--ink-soft); font-size: 15px; }
+.session-bar { background: var(--surface); border-bottom: 1px solid var(--line); }
+.session-bar .inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; min-height: 68px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; }
+.session-bar .where { flex: 1 1 260px; min-width: 0; font-size: 15px; color: var(--ink-soft); }
+.prompt { font-family: var(--serif); font-size: 30px; line-height: 1.3; font-weight: 600; overflow-wrap: anywhere; }
+.hint { color: var(--muted); font-size: 15px; }
+.answer-box { min-height: 52px; padding: 0 16px; border: 1px solid var(--line-strong); border-radius: 8px; font-size: 18px; width: 100%; background: var(--surface); }
+.letter-keys { display: flex; flex-wrap: wrap; gap: 8px; }
+.letter-keys button { min-width: 48px; min-height: 48px; padding: 2px 6px; border: 1px solid var(--line); border-radius: 8px; background: var(--background); cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; }
+.letter-keys .letter { font-size: 17px; line-height: 1.1; }
+.letter-keys .key { font-size: 11px; color: var(--muted); line-height: 1; }
+.tiles { display: flex; flex-wrap: wrap; gap: 8px; }
+.tiles button { min-height: 44px; padding: 0 14px; border: 1px solid var(--line-strong); border-radius: 8px; background: var(--surface); font-size: 17px; cursor: pointer; }
+.tiles button:disabled { opacity: .35; cursor: default; }
+.built { min-height: 52px; padding: 12px 16px; border: 1px dashed var(--line-strong); border-radius: 8px; font-size: 19px; }
+.feedback { border-radius: 10px; padding: 18px 20px; display: flex; flex-direction: column; gap: 6px; }
+.feedback .head { display: flex; align-items: center; gap: 10px; font-weight: 600; }
+.feedback.right { background: var(--right-bg); color: var(--right); }
+.feedback.near { background: var(--near-bg); color: var(--near); }
+.feedback.wrong { background: var(--wrong-bg); color: var(--wrong); }
+.why { background: var(--accent-soft); color: var(--ink); border-radius: 10px; padding: 14px 18px; font-size: 15px; }
+.notice { background: var(--accent-soft); border-radius: 10px; padding: 14px 18px; font-size: 15px; }
+.big-number { font-family: var(--serif); font-size: 56px; font-weight: 700; line-height: 1; }
+
+/* ---------- course choice ---------- */
+.course-card { text-decoration: none; color: var(--ink); }
+.course-card:hover { border-color: var(--accent); color: var(--ink); }
+.course-card .language { font-family: var(--serif); font-size: 26px; font-weight: 700; }
+
+/* ---------- phones: the menu becomes a bar at the bottom of the screen ---------- */
+@media (max-width: 720px) {
+  .site-header .inner { padding: 8px 16px; min-height: 56px; }
+  main { padding: 20px 16px 104px; }
+  h1 { font-size: 26px; }
+  .prompt { font-size: 24px; }
+  .main-nav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10; background: var(--surface); border-top: 1px solid var(--line);
+              display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0; padding: 6px 4px calc(8px + env(safe-area-inset-bottom)); }
+  .main-nav a { flex-direction: column; gap: 4px; min-height: 48px; justify-content: center; padding: 4px 2px; font-size: 11px; border-radius: 8px; }
+  .main-nav a[aria-current="page"] { background: none; }
+  .main-nav svg { display: block; }
+  .unit { padding: 14px 16px; }
+  .unit .actions { width: 100%; }
+  .unit .actions .button { flex: 1 1 0; }
+  .session-bar .inner { padding: 8px 16px; }
+  .session-brand { display: none; }
+  .session-where { font-size: 14px; }
+}

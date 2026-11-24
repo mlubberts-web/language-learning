@@ -236,3 +236,9 @@ Short notes per session: what was done, anything left open.
 - 2026-11-23: 8.4–8.5: build_web.py makes web/data (16.6 MB, 4 seconds) with the same questions as the
   app; web/js/grading.js grades like practice_logic.py. test_web.py compares the two on 69,185 answers
   of all six courses (39,666 right, 4,366 with a warning, 25,153 wrong): all the same.
+- 2026-11-23: 8.6 started: web/ has the course choice, course home (levels, units, daily review, level
+  test), the exercises of a unit (all types, topics, 10/20/All, Skip what I know, Mark as done) and the
+  practice session (typing with keys 1–9 for á é í ó ú ü ñ ¿ ¡, Alt for numbers, tiles, el/la by key,
+  listening, rounds, I was actually right, results with the next type). Results are kept in the
+  browser for now, in the same layout as the app. Clicked through in Edge at 1280 and 390 px wide:
+  no errors. Still to do in 8.6: reader, word lists, mock exam, schedule, progress, translations.

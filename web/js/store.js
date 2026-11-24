@@ -1,0 +1,156 @@
+// Your results: the same three parts, with the same names and layout, as in the Python app
+// (practice_store.py and study_log.py), so results can move between the two unchanged.
+//
+//   <course>_practice    per question: right, wrong, last_ok, box, due ...; scores; accepted; done
+//   <course>_progress    per unit: the pages you read, done, last page
+//   <course>_study_log   per day: study time, answers, pages, first tries
+//
+// For now they are kept in this browser (localStorage). With accounts (PLAN 8.7) the same data
+// goes to the database; only load() and save() below change for that.
+
+const REVIEW_DAYS = [1, 3, 7, 30]; // the daily review: a right answer waits longer each time
+const MAX_GAP = { page: 600, answer: 180 }; // seconds between two actions that still count as study time
+const START_SECONDS = 20; // the first action after a break counts for this long
+
+const cache = {};
+
+const storageKey = (course, kind) => `results/${course}_${kind}`;
+const EMPTY = { practice: () => ({ items: {}, scores: {} }), progress: () => ({}), study_log: () => ({}) };
+
+export function load(course, kind) {
+  const key = storageKey(course, kind);
+  if (!(key in cache)) {
+    let saved = null;
+    try { saved = JSON.parse(localStorage.getItem(key)); } catch { saved = null; }
+    cache[key] = saved || EMPTY[kind]();
+  }
+  return cache[key];
+}
+
+export function save(course, kind) {
+  const key = storageKey(course, kind);
+  try { localStorage.setItem(key, JSON.stringify(cache[key])); } catch { /* full or blocked: kept for this visit */ }
+}
+
+// ---------- dates, in the time of your own computer ----------
+const pad = (n) => String(n).padStart(2, "0");
+export const dateText = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+export const today = () => dateText(new Date());
+function addDays(text, days) {
+  const [y, m, d] = text.split("-").map(Number);
+  return dateText(new Date(y, m - 1, d + days));
+}
+const localTime = (d) => `${dateText(d)}T${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+
+// ---------- practice results (practice_store.py) ----------
+function schedule(stats, correct, day) {
+  if (correct) {
+    const box = stats.box;
+    stats.due = addDays(day, REVIEW_DAYS[box]);
+    stats.box = Math.min(box + 1, REVIEW_DAYS.length - 1);
+  } else {
+    stats.box = 0;
+    stats.due = addDays(day, REVIEW_DAYS[0]);
+  }
+}
+
+export function record(data, itemId, correct) {
+  const day = today();
+  const stats = data.items[itemId] ??= { right: 0, wrong: 0, last_ok: false };
+  stats.box ??= 0;
+  stats.box_before = stats.box;
+  stats[correct ? "right" : "wrong"] += 1;
+  stats.last_ok = correct;
+  stats.last = day;
+  schedule(stats, correct, day);
+}
+
+export function changeToCorrect(data, itemId) {
+  const stats = data.items[itemId];
+  stats.wrong -= 1;
+  stats.right += 1;
+  stats.last_ok = true;
+  stats.box = stats.box_before ?? 0;
+  schedule(stats, true, today());
+}
+
+export const acceptedAnswers = (data, key) => (data.accepted || {})[key] || [];
+
+export function accept(data, key, typed) {
+  typed = typed.split(/\s+/).filter(Boolean).join(" ");
+  if (!typed) return;
+  data.accepted ??= {};
+  const answers = data.accepted[key] ??= [];
+  if (!answers.includes(typed)) answers.push(typed);
+}
+
+export function unaccept(data, key, typed) {
+  const answers = (data.accepted || {})[key] || [];
+  const i = answers.indexOf(typed);
+  if (i >= 0) answers.splice(i, 1);
+  if (!answers.length && data.accepted) delete data.accepted[key];
+}
+
+export const isMarkedDone = (data, key) => (data.done || []).includes(key);
+
+export function markDone(data, key, done) {
+  data.done ??= [];
+  const i = data.done.indexOf(key);
+  if (done && i < 0) data.done.push(key);
+  if (!done && i >= 0) data.done.splice(i, 1);
+}
+
+export function saveScore(data, unitId, mode, percent) {
+  const unitScores = data.scores[unitId] ??= {};
+  const old = unitScores[mode] || { best: 0 };
+  unitScores[mode] = { last: percent, best: Math.max(old.best, percent), date: today() };
+}
+
+export const isMastered = (data, itemId) => Boolean(data.items[itemId]?.last_ok);
+
+export function isWeak(data, itemId) {
+  const s = data.items[itemId];
+  return Boolean(s && s.wrong > 0 && (!s.last_ok || s.wrong > s.right));
+}
+
+export function isDue(data, itemId) {
+  const s = data.items[itemId];
+  return Boolean(s) && (s.due || "") <= today();
+}
+
+export const skipKnown = (data) => Boolean(data.settings?.skip_known);
+export function setSkipKnown(data, on) {
+  data.settings ??= {};
+  data.settings.skip_known = on;
+}
+
+// ---------- the study log (study_log.py) ----------
+function dayEntry(log, day) {
+  log.days ??= {};
+  const entry = log.days[day] ??= {};
+  for (const key of ["seconds", "answers", "pages", "extra"]) entry[key] ??= 0;
+  entry.blocks ??= {};
+  return entry;
+}
+
+// For every answer ('answer') and every new page read ('page'): adds the time since your last action.
+export function addActivity(log, kind) {
+  const now = new Date();
+  const entry = dayEntry(log, dateText(now));
+  entry[kind === "answer" ? "answers" : "pages"] += 1;
+  const last = log.last;
+  const gap = last ? (now - new Date(last.time)) / 1000 : null; // "2026-11-23T19:40:00" is read as local time
+  entry.seconds += gap !== null && gap >= 0 && gap <= MAX_GAP[last.kind] ? Math.round(gap) : START_SECONDS;
+  log.last = { time: localTime(now), kind };
+}
+
+export function addResult(log, correct) {
+  const entry = dayEntry(log, today());
+  entry.first_total = (entry.first_total || 0) + 1;
+  entry.first_right = (entry.first_right || 0) + (correct ? 1 : 0);
+}
+
+export function overruleResult(log) {
+  const entry = dayEntry(log, today());
+  if ((entry.first_right || 0) < (entry.first_total || 0)) entry.first_right += 1;
+}
