@@ -15,6 +15,7 @@ import course
 import courses_screen as courses
 import extra_screens as extra
 import login
+import place
 import practice_screen as practice
 import privacy
 import practice_store as store
@@ -185,6 +186,8 @@ st.session_state.setdefault("level", None)
 st.session_state.setdefault("current", None)
 st.session_state.setdefault("page", 0)
 st.session_state.setdefault("page_jump", 1)
+# After a lost connection the page starts as a new visit; this opens the screen you were on.
+place.restore(course.current(), by_id, course_levels(), lambda pdf: page_count(pdf["file"]))
 
 
 # ---------- navigation ----------
@@ -552,3 +555,4 @@ practice.ACTIONS["open_reader"] = open_reader  # for the "Next PDF" button after
 SCREENS[st.session_state.view]()
 sidebar()  # after the screen, so its counts include the page just opened
 scroll_to_top_after_moving()
+place.remember(course.current())  # write where you are in the web address, for next time

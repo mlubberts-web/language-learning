@@ -159,6 +159,35 @@ Choices made (Menno can overrule any of them):
 - [x] 7.3 Everything once more on a phone-sized screen.
 - [ ] 7.4 🙋 Menno decides on a name and maybe an own domain.
 
+## Phase 8: a real website (replaces the Streamlit app)
+
+Decided with Menno on 2026-11-23: the Streamlit app is slow and loses its place after a short
+break, so the site is rebuilt as a normal website. The course files in `courses/` stay the source.
+- The exercises run in the browser; the site is hosted on Cloudflare Pages (served from Amsterdam/
+  Frankfurt). Accounts and results in Supabase (EU region), with Supabase Auth: email accounts.
+- Sign-up needs an invite code for now. Every account has a "has access" setting so a payment
+  system (Mollie or Stripe) can switch access on later without rebuilding.
+- A professional look: own design, line icons, no emojis.
+- Launch with invite codes from Mexico; selling access after Menno is back in the Netherlands
+  (KvK registration, BTW, payment provider).
+- The Streamlit app keeps running until the new site has everything.
+
+- [x] 8.1 Streamlit app: keep the place (course, page, unit) in the web address and stay logged in
+      after a lost connection, so it no longer jumps back to home.
+- [ ] 8.2 Check: is the Supabase project in an EU region? (🙋 Menno looks it up.)
+- [ ] 8.3 Design: two or three directions for the main pages (course picker, home, exercise,
+      reader) as mock-ups. 🙋 Menno picks one.
+- [ ] 8.4 New `web/` folder: build step that turns `courses/` into data files for the browser.
+- [ ] 8.5 Grading in the browser, with test cases taken from the Python grading so both agree.
+- [ ] 8.6 Screens: course picker, home, level lists, reader (PDFs), the exercise types, word lists,
+      verbs in context, schedule, progress, mock exam; in English, Dutch and Spanish.
+- [ ] 8.7 Accounts: email sign-up with invite code, login, forgot password, "has access", own
+      data only (row-level security), delete own account, admin page for users and access.
+- [ ] 8.8 Move existing results from the `saves` table to the new tables.
+- [ ] 8.9 Tests on phone and desktop sizes (Playwright); a trial address for a few users.
+- [ ] 8.10 🙋 Domain, email service for login emails, go live; the Streamlit app is retired.
+- [ ] 8.11 🙋 Later, back in the Netherlands: KvK, BTW, payments switch on "has access".
+
 ## Log
 
 Short notes per session: what was done, anything left open.
@@ -183,3 +212,8 @@ Short notes per session: what was done, anything left open.
   🙋 Question for Menno: es_from_en (Spanish explained in English) still has the "Dutch" comparison
   boxes of the original app in 30 units (for example "One tense, two Dutch tenses"). Keep them, or
   rewrite them for English speakers? Not changed, since they are the original content.
+- 2026-11-23: Menno: keep the Dutch comparison boxes in es_from_en. Phase 8 added: the real website.
+- 2026-11-23: 8.1: place.py writes the course, screen, level, PDF and page into the web address
+  (c=, screen=, level=, pdf=, page=); a new visit after a lost connection opens that place again.
+  A practice session or running mock exam comes back to where it started. test_place.py added;
+  run_tests.py now prints in UTF-8 so it also works from Git Bash. Tested with a real reload.
