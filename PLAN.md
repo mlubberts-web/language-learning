@@ -176,7 +176,7 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
       after a lost connection, so it no longer jumps back to home.
 - [x] 8.2 Check: is the Supabase project in an EU region? Answer: US East. It stays there for the
       Streamlit app; the new site gets a new Supabase project in Frankfurt (8.7).
-- [ ] 8.3 Design: two or three directions for the main pages (course picker, home, exercise,
+- [x] 8.3 Design: two or three directions for the main pages (course picker, home, exercise,
       reader) as mock-ups. 🙋 Menno picks one.
 - [ ] 8.4 New `web/` folder: build step that turns `courses/` into data files for the browser.
 - [ ] 8.5 Grading in the browser, with test cases taken from the Python grading so both agree.
@@ -226,3 +226,5 @@ Short notes per session: what was done, anything left open.
 - 2026-11-23: 8.2: Supabase is in US East; the new site starts a new project in Frankfurt. 8.3: three
   design directions on a design canvas (A clear and academic, B friendly and bright, C focused study
   app); waiting for Menno's choice. 8.12 added for exam-format mock exams.
+- 2026-11-23: 8.3: Menno chose direction A (clear and academic) out of six. Exercise, reader and phone
+  screens drawn in that style; colours, fonts and sizes written down in docs/DESIGN.md.
