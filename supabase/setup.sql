@@ -54,6 +54,13 @@ create policy "own results" on public.results for all
   using (auth.uid() = user_id and public.has_access())
   with check (auth.uid() = user_id and public.has_access());
 
+-- ---------- what the website may touch at all ----------
+-- New Supabase projects don't let the website use new tables until this is said. The policies
+-- above still decide which rows: only your own. invite_codes gets nothing: only the functions.
+grant select on public.profiles to authenticated;
+grant select, insert, update, delete on public.results to authenticated;
+revoke all on public.invite_codes from anon, authenticated;
+
 -- ---------- a new account needs a valid invite code ----------
 -- The website sends the code along with the sign-up; a wrong code stops the sign-up.
 create or replace function public.handle_new_user() returns trigger

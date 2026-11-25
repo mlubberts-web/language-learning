@@ -43,8 +43,7 @@ export async function logIn(email, password) {
   const { data, error } = await supabase.auth.signInWithPassword({ email: email.trim(), password });
   if (error) return explain(error);
   account.user = data.user;
-  await loadProfileAndResults();
-  return null;
+  return loaded();
 }
 
 // Makes an account. The invite code is checked by the database; a wrong one stops the sign-up.
@@ -56,8 +55,19 @@ export async function signUp(email, password, name, inviteCode) {
   if (error) return explain(error);
   if (!data.session) return "CHECK_EMAIL"; // the project asks people to confirm their email first
   account.user = data.user;
-  await loadProfileAndResults();
-  return null;
+  return loaded();
+}
+
+// After logging in or signing up: read the profile and results. A problem (the database can't
+// be reached) gives a message instead of a page that silently stays where it was.
+async function loaded() {
+  try {
+    await loadProfileAndResults();
+    return null;
+  } catch (problem) {
+    console.error(problem);
+    return "OTHER";
+  }
 }
 
 export async function logOut() {
