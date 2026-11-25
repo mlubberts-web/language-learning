@@ -257,3 +257,12 @@ Short notes per session: what was done, anything left open.
 - 2026-11-23: 8.6 done: the website's own texts are in ui_text/web_nl.json and web_es.json (330 texts
   on the site, all in Dutch and Spanish); test_web_text.py checks them, find_web_texts.py lists
   what is missing. Every test passes.
+- 2026-11-25: Units by subject (Menno's request): categories/<language>.json, one per language you
+  learn; "By subject" on the course home shows e.g. all units about verb tenses with "A2 · Unit 5".
+  build_web.py stops when a unit is missing or in no category.
+- 2026-11-25: 8.7 started: Supabase project in Frankfurt (URL and publishable key in web/js/config.js).
+  supabase/setup.sql makes invite_codes, profiles (has_access, is_admin) and results with row level
+  security; the sign-up is refused without a valid invite code. Screens: log in, make an account,
+  forgot password, new password, your account (log out, delete), privacy and terms, admin (invite
+  codes, access). Results go to the database when logged in; ?offline keeps them in the browser
+  (for the tests). 🙋 Menno: run setup.sql, settings in Supabase, then a first test account.

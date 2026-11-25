@@ -4,6 +4,7 @@
 import * as data from "./data.js";
 import * as store from "./store.js";
 import { loadLanguage } from "./text.js";
+import { account, saveResult } from "./account.js";
 
 export const state = {
   course: null,    // the id of the open course, like "es_from_en"
@@ -18,12 +19,22 @@ export const state = {
 };
 
 // ---------- the profile: your last course and interface language, in this browser ----------
+// Logged in it is a row "profile" in the database, otherwise kept in this browser.
 export function profile() {
+  if (account.user) return account.results.profile || {};
   try { return JSON.parse(localStorage.getItem("results/profile")) || {}; } catch { return {}; }
 }
 
 export function saveProfile(changes) {
-  try { localStorage.setItem("results/profile", JSON.stringify({ ...profile(), ...changes })); } catch { /* ignore */ }
+  const updated = { ...profile(), ...changes };
+  if (account.user) { saveResult("profile", updated); return; }
+  try { localStorage.setItem("results/profile", JSON.stringify(updated)); } catch { /* ignore */ }
+}
+
+// After logging in or out: start again with nothing open.
+export function resetState() {
+  store.forget();
+  Object.assign(state, { course: null, info: null, catalog: [], practice: null, log: null, progress: null, drill: null });
 }
 
 export async function openCourse(courseId) {

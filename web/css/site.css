@@ -227,3 +227,5 @@ main.narrow { max-width: 760px; }
 .subject-list a[aria-current="true"] { background: var(--accent); border-color: var(--accent); color: #FFFFFF; }
 .subject-list a[aria-current="true"] .muted { color: #DCE6F7; }
 .segmented .seg-link { display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 6px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink-soft); font-size: 14px; font-weight: 600; text-decoration: none; }
+.avatar { width: 44px; height: 44px; border-radius: 50%; background: var(--ink); color: #FFFFFF; display: inline-flex; align-items: center; justify-content: center; font-weight: 600; text-decoration: none; }
+.avatar:hover { color: #FFFFFF; background: var(--ink-soft); }

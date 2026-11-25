@@ -19,6 +19,10 @@ export function setTable(code, table) {
   tables[code] = table;
 }
 
+// Marks a text for translation without translating it yet (for lists at the top of a file, which
+// t() translates where they are shown). The translation test finds the texts through this mark.
+export const mark = (text) => text;
+
 export function language() {
   return current;
 }

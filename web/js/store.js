@@ -5,8 +5,10 @@
 //   <course>_progress    per unit: the pages you read, done, last page
 //   <course>_study_log   per day: study time, answers, pages, first tries
 //
-// For now they are kept in this browser (localStorage). With accounts (PLAN 8.7) the same data
-// goes to the database; only load() and save() below change for that.
+// Logged in, they are kept in the database (account.js); without an account (on your own
+// computer, for trying things out) in this browser (localStorage).
+
+import { account, saveResult } from "./account.js";
 
 const REVIEW_DAYS = [1, 3, 7, 30]; // the daily review: a right answer waits longer each time
 const MAX_GAP = { page: 600, answer: 180 }; // seconds between two actions that still count as study time
@@ -21,7 +23,8 @@ export function load(course, kind) {
   const key = storageKey(course, kind);
   if (!(key in cache)) {
     let saved = null;
-    try { saved = JSON.parse(localStorage.getItem(key)); } catch { saved = null; }
+    if (account.user) saved = account.results[`${course}_${kind}`] || null;
+    else { try { saved = JSON.parse(localStorage.getItem(key)); } catch { saved = null; } }
     cache[key] = saved || EMPTY[kind]();
   }
   return cache[key];
@@ -29,7 +32,13 @@ export function load(course, kind) {
 
 export function save(course, kind) {
   const key = storageKey(course, kind);
+  if (account.user) { saveResult(`${course}_${kind}`, cache[key]); return; }
   try { localStorage.setItem(key, JSON.stringify(cache[key])); } catch { /* full or blocked: kept for this visit */ }
+}
+
+// After logging in or out: forget what was loaded, so the right person's results are read.
+export function forget() {
+  for (const key of Object.keys(cache)) delete cache[key];
 }
 
 // ---------- dates, in the time of your own computer ----------

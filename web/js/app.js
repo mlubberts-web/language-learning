@@ -23,6 +23,8 @@ import { unitScreen } from "./screens/unit.js";
 import { sessionScreen } from "./screens/session.js";
 import { comingScreen } from "./screens/coming.js";
 import { readerScreen } from "./screens/reader.js";
+import { account, startSession, supabase } from "./account.js";
+import * as accountScreens from "./screens/account.js";
 import { wordsScreen } from "./screens/words.js";
 import { examsScreen } from "./screens/exams.js";
 import { scheduleScreen } from "./screens/schedule.js";
@@ -42,9 +44,11 @@ function header(courseId, part) {
       return h("a", { href: `#/${courseId}${path ? "/" + path : ""}`, "aria-current": here ? "page" : null },
         icon(shape, 22), t(text));
     }));
-  const tools = courseId && h("div", { class: "header-tools" },
-    h("a", { class: "button small", href: "#/", title: t("Choose another course") },
-      state.info ? courseName() : "", icon("down", 14)));
+  const initial = (account.profile?.display_name || account.user?.email || "?").charAt(0).toUpperCase();
+  const tools = h("div", { class: "header-tools" },
+    courseId && h("a", { class: "button small", href: "#/", title: t("Choose another course") },
+      state.info ? courseName() : "", icon("down", 14)),
+    account.user && h("a", { class: "avatar", href: "#/account", "aria-label": t("Your account") }, initial));
   box.replaceChildren(h("div", { class: "inner" },
     h("a", { class: "brand", href: courseId ? `#/${courseId}` : "#/" }, SITE_NAME), nav, tools));
   // During a session the header gives way to the session bar
@@ -61,6 +65,22 @@ export async function render() {
   const [courseId, part = "", ...rest] = location.hash.replace(/^#\/?/, "").split("/").map(decodeURIComponent);
   const main = document.getElementById("main");
   try {
+    // Pages about your account, at the top level of the address (#/login, #/account ...)
+    const pages = { login: accountScreens.loginScreen, signup: accountScreens.signupScreen, forgot: accountScreens.forgotScreen,
+                    "new-password": accountScreens.newPasswordScreen, privacy: accountScreens.privacyScreen,
+                    account: accountScreens.accountScreen, admin: accountScreens.adminScreen };
+    const open = ["login", "signup", "forgot", "new-password", "privacy"]; // reachable without logging in
+    if (!OFFLINE && !account.user && !open.includes(courseId)) { location.hash = "#/login"; return; }
+    if (!OFFLINE && account.user && account.profile && !account.profile.has_access && !["account", "privacy", "new-password"].includes(courseId)) {
+      header(null, ""); main.className = "";
+      main.replaceChildren(await accountScreens.noAccessScreen()); return;
+    }
+    if (courseId in pages) {
+      if (!state.info) await loadLanguage(profile().ui_lang || guessLanguage());
+      header(null, ""); main.className = "";
+      main.replaceChildren(await pages[courseId]());
+      return;
+    }
     if (!courseId) {
       await loadLanguage(profile().ui_lang || guessLanguage());
       header(null, "");
@@ -100,7 +120,16 @@ function scrollWhenNew() {
   lastScreen = screen;
 }
 
+// ?offline in the address: no account, results only in this browser (for trying things out and
+// for the automatic tests on your own computer).
+const OFFLINE = new URLSearchParams(location.search).has("offline");
+
 async function start() {
+  if (!OFFLINE) {
+    await startSession();
+    // The link in a "forgot your password" email logs you in for a moment to choose a new one.
+    supabase.auth.onAuthStateChange((event) => { if (event === "PASSWORD_RECOVERY") location.hash = "#/new-password"; });
+  }
   const languages = await data.languages();
   setLanguages(languages);
   state.languageNames = languages.names;

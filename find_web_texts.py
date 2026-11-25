@@ -9,7 +9,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 # t("...") with a fixed text
-CALL = re.compile(r'\bt\(\s*"((?:[^"\\]|\\.)*)"')
+CALL = re.compile(r'\b(?:t|mark)\(\s*"((?:[^"\\]|\\.)*)"')  # also mark("..."): translated later
 # Every text on a line that ends in the comment  // t-list  (lists that t() translates later),
 # or that calls counted(...) (one text for 1, another for more)
 TEXT = re.compile(r'"((?:[^"\\]|\\.)*)"')
