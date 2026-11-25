@@ -19,14 +19,16 @@ export function unitStatus(unit) {
 
 const STATUS_TEXT = { done: "Done", reading: "In progress", new: "Not started" }; // t-list
 
-function unitRow(unit, isNext) {
+// One unit with its buttons. withPlace: also say where it is in the course ("A2 · Unit 5").
+function unitRow(unit, isNext, withPlace = false) {
   const status = unitStatus(unit);
   const base = `#/${state.course}`;
+  const place = `${unit.level} · ${t("Unit {number}", { number: unit.number })}`;
   return h("div", { class: "unit" },
-    h("div", { class: `number ${status}` }, unit.number),
+    h("div", { class: `number ${status}` }, withPlace ? unit.level : unit.number),
     h("div", { class: "about" },
       h("div", { class: "title" }, unit.title),
-      h("div", { class: "muted" }, `${unit.section} · ${t(STATUS_TEXT[status])}`)),
+      h("div", { class: "muted" }, withPlace ? `${place} · ${t(STATUS_TEXT[status])}` : `${unit.section} · ${t(STATUS_TEXT[status])}`)),
     h("div", { class: "actions" },
       h("a", { class: isNext ? "button small primary" : "button small", href: `${base}/read/${unit.id}` },
         status === "done" ? t("Read again") : status === "reading" ? t("Continue") : t("Read")),
@@ -50,6 +52,29 @@ async function reviewCard() {
   return card;
 }
 
+// The units by subject: a list of the subjects, and the units of the chosen one with where each
+// one is in the course. chosen: the id of a subject, like "tenses".
+async function subjectsList(chosen, next) {
+  const subjects = await data.getJSON(`${state.course}/categories.json`);
+  const subject = subjects.find((s) => s.id === chosen) || subjects[0];
+  const base = `#/${state.course}`;
+  const units = subject.units.map((id) => state.catalog.find((unit) => unit.id === id)).filter(Boolean);
+  const done = units.filter((unit) => unitStatus(unit) === "done").length;
+  return h("section", { class: "stack" },
+    h("div", { class: "row between" }, h("div", { class: "row" }, h("h2", {}, t("Your course")),
+      h("div", { class: "segmented", role: "group", "aria-label": t("Show") },
+        h("a", { class: "seg-link", href: `${base}` }, t("By level")),
+        h("button", { type: "button", "aria-pressed": "true" }, t("By subject"))))),
+    h("div", { class: "subject-list", role: "group", "aria-label": t("Subjects") }, subjects.map((s) =>
+      h("a", { href: `${base}/subjects/${s.id}`, "aria-current": s.id === subject.id ? "true" : null },
+        s.name, h("span", { class: "muted" }, ` ${s.units.length}`)))),
+    h("div", { class: "card flush" },
+      h("div", { class: "list-head" },
+        h("div", { style: "font-weight: 600" }, subject.name),
+        h("div", { class: "muted" }, t("{done} of {total} units done", { done, total: units.length }))),
+      units.map((unit) => unitRow(unit, unit === next, true))));
+}
+
 export async function homeScreen(part, chosenLevel) {
   const levels = state.info.levels;
   const next = state.catalog.find((unit) => unitStatus(unit) !== "done");
@@ -71,8 +96,12 @@ export async function homeScreen(part, chosenLevel) {
     levels.map((code) => h("button", { type: "button", "aria-pressed": String(code === level),
       onclick: () => { location.hash = `${base}/level/${code}`; } }, code)));
 
-  const list = h("section", { class: "stack" },
-    h("div", { class: "row between" }, h("h2", {}, t("Your course")), tabs),
+  // By level (the units of one level) or by subject (all units about verb tenses ...)
+  const views = h("div", { class: "segmented", role: "group", "aria-label": t("Show") },
+    h("button", { type: "button", "aria-pressed": String(part !== "subjects"), onclick: () => { location.hash = `${base}/level/${level}`; } }, t("By level")),
+    h("button", { type: "button", "aria-pressed": String(part === "subjects"), onclick: () => { location.hash = `${base}/subjects`; } }, t("By subject")));
+  const list = part === "subjects" ? await subjectsList(chosenLevel, next) : h("section", { class: "stack" },
+    h("div", { class: "row between" }, h("div", { class: "row" }, h("h2", {}, t("Your course")), views), tabs),
     h("div", { class: "card flush" },
       h("div", { class: "list-head" },
         h("div", { style: "font-weight: 600" }, `${level} · ${t(LEVEL_NAMES[level])}`),

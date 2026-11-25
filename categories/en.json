@@ -1,0 +1,20 @@
+[
+  {"id": "tenses", "name": {"en": "Verb tenses", "nl": "Werkwoordstijden", "es": "Tiempos verbales"},
+   "units": ["A1 2", "A1 3", "A1 7", "A2 1", "A2 2", "A2 3", "A2 4", "A2 5", "A2 6", "B1 1", "B1 2", "B2 1", "B2 2", "C1 1", "C2 1"]},
+  {"id": "modals", "name": {"en": "Modal verbs, conditionals and wishes", "nl": "Modale werkwoorden, voorwaardelijke zinnen en wensen", "es": "Verbos modales, condicionales y deseos"},
+   "units": ["A1 4", "A2 7", "B1 3", "B1 8", "B2 3", "C1 6"]},
+  {"id": "verbs", "name": {"en": "Verb patterns, passive and phrasal verbs", "nl": "Werkwoordpatronen, lijdende vorm en phrasal verbs", "es": "Patrones verbales, pasiva y phrasal verbs"},
+   "units": ["B1 4", "B1 7", "B2 4", "B2 5", "C2 4"]},
+  {"id": "nouns", "name": {"en": "Nouns, articles and pronouns", "nl": "Zelfstandige naamwoorden, lidwoorden en voornaamwoorden", "es": "Sustantivos, artículos y pronombres"},
+   "units": ["A1 5", "A1 6", "A2 8", "B2 7"]},
+  {"id": "sentences", "name": {"en": "Sentences and word order", "nl": "Zinnen en woordvolgorde", "es": "Oraciones y orden de las palabras"},
+   "units": ["A1 8", "B1 3", "B1 5", "B1 6", "C1 2", "C1 5", "C2 2", "C2 3"]},
+  {"id": "prepositions", "name": {"en": "Prepositions and comparison", "nl": "Voorzetsels en vergelijken", "es": "Preposiciones y comparación"},
+   "units": ["A2 9", "B2 6"]},
+  {"id": "writing", "name": {"en": "Connectors, style and writing", "nl": "Verbindingswoorden, stijl en schrijven", "es": "Conectores, estilo y escritura"},
+   "units": ["B1 9", "B2 9", "C1 3", "C1 4", "C1 8", "C2 5", "C2 6"]},
+  {"id": "sounds", "name": {"en": "Pronunciation and spelling", "nl": "Uitspraak en spelling", "es": "Pronunciación y ortografía"},
+   "units": ["A1 1", "C1 8"]},
+  {"id": "vocabulary", "name": {"en": "Vocabulary and culture", "nl": "Woordenschat en cultuur", "es": "Vocabulario y cultura"},
+   "units": ["A1 9", "A2 10", "B1 10", "B2 5", "B2 8", "B2 10", "C1 7", "C1 9", "C1 10", "C2 7", "C2 8", "C2 9", "C2 10"]}
+]

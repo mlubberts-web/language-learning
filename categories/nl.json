@@ -1,0 +1,18 @@
+[
+  {"id": "tenses", "name": {"en": "Verb tenses", "nl": "Werkwoordstijden", "es": "Tiempos verbales"},
+   "units": ["A1 2", "A1 3", "A2 1", "A2 2", "A2 3", "A2 4", "B2 1", "C1 1", "C2 1"]},
+  {"id": "verbs", "name": {"en": "Other verb forms: modal, separable, reflexive, passive", "nl": "Andere werkwoordsvormen: modaal, scheidbaar, wederkerend, lijdend", "es": "Otras formas verbales: modales, separables, reflexivos, pasiva"},
+   "units": ["A1 7", "A2 6", "A2 9", "B1 4", "B1 5", "B1 6", "B1 7", "B2 4", "C2 4"]},
+  {"id": "nouns", "name": {"en": "de/het, adjectives and pronouns", "nl": "de/het, bijvoeglijke naamwoorden en voornaamwoorden", "es": "de/het, adjetivos y pronombres"},
+   "units": ["A1 4", "A1 6", "A1 8", "A2 8", "B2 6", "B2 7"]},
+  {"id": "sentences", "name": {"en": "Sentences and word order", "nl": "Zinnen en woordvolgorde", "es": "Oraciones y orden de las palabras"},
+   "units": ["A1 5", "A2 5", "B1 1", "B1 3", "B1 8", "C1 2", "C1 5", "C2 2", "C2 3"]},
+  {"id": "small", "name": {"en": "Small words: er, prepositions, particles", "nl": "Kleine woorden: er, voorzetsels, partikels", "es": "Palabras pequeñas: er, preposiciones, partículas"},
+   "units": ["A2 7", "B1 2", "B2 2", "B2 3", "B2 4"]},
+  {"id": "writing", "name": {"en": "Connectors, style and writing", "nl": "Verbindingswoorden, stijl en schrijven", "es": "Conectores, estilo y escritura"},
+   "units": ["B1 9", "B2 8", "C1 3", "C1 4", "C1 6", "C1 8", "C2 5", "C2 6"]},
+  {"id": "sounds", "name": {"en": "Pronunciation and spelling", "nl": "Uitspraak en spelling", "es": "Pronunciación y ortografía"},
+   "units": ["A1 1", "C1 8"]},
+  {"id": "vocabulary", "name": {"en": "Vocabulary and culture", "nl": "Woordenschat en cultuur", "es": "Vocabulario y cultura"},
+   "units": ["A1 9", "A2 10", "B1 10", "B2 5", "B2 9", "B2 10", "C1 7", "C1 9", "C1 10", "C2 7", "C2 8", "C2 9", "C2 10"]}
+]

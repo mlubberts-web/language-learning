@@ -14,6 +14,7 @@ and is not kept in git):
     web/data/<course>/units/<unit>.json    the text of one unit, for the reader
     web/data/<course>/themes.json          the themed word lists and their questions
     web/data/<course>/pdf/                 the PDFs, to download
+    web/data/<course>/categories.json      the units by subject (from categories/)
 
 The questions are made by practice_items.py, the same code the Streamlit app uses, so both
 sites ask exactly the same questions."""
@@ -50,6 +51,28 @@ def language_rules():
     return {"profiles": rules, "names": languages.NAMES}
 
 
+def categories(course_id, catalog):
+    """The categories of the course (categories/<language>.json), with the names in the language of
+    the explanations and the unit ids instead of "A2 5". Stops with an error when a unit doesn't
+    exist or a unit is in no category, so a mistake can't reach the website."""
+    info = course.info(course_id)
+    source = json.loads((HERE / "categories" / f"{info['learn']}.json").read_text(encoding="utf-8"))
+    by_place = {f"{unit['level']} {unit['number']}": unit["id"] for unit in catalog}
+    used = set()
+    result = []
+    for category in source:
+        missing = [place for place in category["units"] if place not in by_place]
+        if missing:
+            sys.exit(f"categories/{info['learn']}.json: {category['id']} has units that don't exist: {missing}")
+        used |= set(category["units"])
+        result.append({"id": category["id"], "name": category["name"][info["explained_in"]],
+                       "units": [by_place[place] for place in category["units"]]})
+    left = sorted(set(by_place) - used)
+    if left:
+        sys.exit(f"categories/{info['learn']}.json: these units are in no category: {left}")
+    return result
+
+
 def build_course(course_id):
     """Writes the files of one course and returns its entry for courses.json."""
     folder = course.folder(course_id)
@@ -84,6 +107,8 @@ def build_course(course_id):
     for unit in catalog:
         if (pdfs / unit["file"]).exists():
             shutil.copy(pdfs / unit["file"], out / "pdf" / unit["file"])
+
+    write(out / "categories.json", categories(course_id, catalog))
 
     themes = {}
     for path in sorted((folder / "themes").glob("*.json")):  # path.stem: the name without .json

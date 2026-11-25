@@ -3,6 +3,7 @@
 //   #/                           choose a course
 //   #/es_from_en                 the course home (the levels and units)
 //   #/es_from_en/level/B1        the course home, open at level B1
+//   #/es_from_en/subjects/tenses the course home, the units about verb tenses
 //   #/es_from_en/unit/<id>       the exercises of one unit
 //   #/es_from_en/session         a running practice session
 //   #/es_from_en/read/<id>/3     page 3 of a unit in the reader
@@ -37,7 +38,7 @@ function header(courseId, part) {
   const box = document.getElementById("header");
   const nav = courseId && h("nav", { class: "main-nav", "aria-label": t("Main menu") },
     MENU.map(([path, text, shape]) => {
-      const here = path === "" ? ["", "level", "unit", "session", "read"].includes(part) : part === path;
+      const here = path === "" ? ["", "level", "subjects", "unit", "session", "read"].includes(part) : part === path;
       return h("a", { href: `#/${courseId}${path ? "/" + path : ""}`, "aria-current": here ? "page" : null },
         icon(shape, 22), t(text));
     }));
@@ -70,7 +71,7 @@ export async function render() {
     }
     await openCourse(courseId);
     header(courseId, part);
-    const screens = { "": homeScreen, level: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen,
+    const screens = { "": homeScreen, level: homeScreen, subjects: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen,
                       words: wordsScreen, exams: examsScreen, schedule: scheduleScreen, progress: progressScreen };
     const screen = screens[part] || comingScreen;
     main.className = part === "session" || (part === "exams" && rest[0] === "run") ? "narrow" : "";

@@ -222,3 +222,8 @@ main.narrow { max-width: 760px; }
 .chart .fill { width: 100%; max-width: 36px; background: var(--accent); border-radius: 4px 4px 0 0; min-height: 0; }
 .chart-labels { display: flex; gap: 8px; margin-top: 6px; }
 .chart-labels span { flex: 1 1 0; min-width: 18px; text-align: center; font-size: 12px; color: var(--muted); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.subject-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.subject-list a { display: inline-flex; align-items: center; gap: 4px; min-height: 40px; padding: 0 14px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); color: var(--ink-soft); font-size: 14px; font-weight: 500; text-decoration: none; }
+.subject-list a[aria-current="true"] { background: var(--accent); border-color: var(--accent); color: #FFFFFF; }
+.subject-list a[aria-current="true"] .muted { color: #DCE6F7; }
+.segmented .seg-link { display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 6px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink-soft); font-size: 14px; font-weight: 600; text-decoration: none; }

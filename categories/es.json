@@ -1,0 +1,22 @@
+[
+  {"id": "tenses", "name": {"en": "Verb tenses", "nl": "Werkwoordstijden", "es": "Tiempos verbales"},
+   "units": ["A1 2", "A1 3", "A2 1", "A2 2", "A2 3", "A2 4", "A2 5", "A2 6", "B1 1", "B1 4", "C1 1", "C2 1"]},
+  {"id": "moods", "name": {"en": "Subjunctive and imperative", "nl": "Subjuntivo en gebiedende wijs", "es": "Subjuntivo e imperativo"},
+   "units": ["A2 7", "B1 2", "B1 3", "B2 1", "B2 2", "B2 3", "C1 2", "C2 1"]},
+  {"id": "verbs", "name": {"en": "Special verbs and verb constructions", "nl": "Bijzondere werkwoorden en constructies", "es": "Verbos especiales y construcciones verbales"},
+   "units": ["A1 4", "A1 7", "B1 8", "B2 4", "B2 5", "B2 6", "C1 7", "C2 4"]},
+  {"id": "pronouns", "name": {"en": "Pronouns", "nl": "Voornaamwoorden", "es": "Pronombres"},
+   "units": ["A1 6", "A2 8", "B2 7", "C2 2"]},
+  {"id": "nouns", "name": {"en": "Nouns, articles, adjectives and comparison", "nl": "Zelfstandige naamwoorden, lidwoorden, bijvoeglijke naamwoorden en vergelijken", "es": "Sustantivos, artículos, adjetivos y comparación"},
+   "units": ["A1 5", "A1 6", "A2 9", "C1 5"]},
+  {"id": "sentences", "name": {"en": "Sentences and word order", "nl": "Zinnen en woordvolgorde", "es": "Oraciones y orden de las palabras"},
+   "units": ["A1 8", "B1 5", "B1 6", "B1 7", "B2 8", "C1 4", "C1 5", "C2 3"]},
+  {"id": "prepositions", "name": {"en": "Prepositions", "nl": "Voorzetsels", "es": "Preposiciones"},
+   "units": ["A2 9", "B2 6", "C2 4"]},
+  {"id": "writing", "name": {"en": "Connectors, style and writing", "nl": "Verbindingswoorden, stijl en schrijven", "es": "Conectores, estilo y escritura"},
+   "units": ["B1 9", "B2 9", "C1 3", "C1 6", "C1 8", "C2 5", "C2 6"]},
+  {"id": "sounds", "name": {"en": "Pronunciation and spelling", "nl": "Uitspraak en spelling", "es": "Pronunciación y ortografía"},
+   "units": ["A1 1", "C1 8"]},
+  {"id": "vocabulary", "name": {"en": "Vocabulary and culture", "nl": "Woordenschat en cultuur", "es": "Vocabulario y cultura"},
+   "units": ["A1 9", "A2 10", "B1 10", "B2 10", "C1 7", "C1 9", "C1 10", "C2 7", "C2 8", "C2 9", "C2 10"]}
+]
