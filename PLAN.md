@@ -187,7 +187,7 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
       verbs in context, schedule, progress, mock exam; in English, Dutch and Spanish. In the
       answer box keys 1–9 type the special letters of the buttons (Spanish á é í ó ú ü ñ ¿ ¡),
       Alt + a number types the number itself.
-- [ ] 8.7 Accounts: email sign-up with invite code, login, forgot password, "has access", own
+- [x] 8.7 Accounts: email sign-up with invite code, login, forgot password, "has access", own
       data only (row-level security), delete own account, admin page for users and access.
 - [ ] 8.8 Move existing results from the `saves` table to the new tables.
 - [ ] 8.9 Tests on phone and desktop sizes (Playwright); a trial address for a few users.
@@ -271,3 +271,10 @@ Short notes per session: what was done, anything left open.
   them, admin functions closed to others, wrong password refused, delete account (tick first)
   removes the account. New Supabase projects need explicit grants for the website (now in
   setup.sql). Left for 8.7: Menno's own admin account (after the site is online).
+- 2026-11-25: Site online at https://language-learning.m-lubberts.workers.dev (Cloudflare Workers with
+  static assets, wrangler.jsonc publishes web/; every push to GitHub rebuilds it). Measured from
+  Mexico: site 1.5 s, unit 1.2 s, checking an answer 16 ms. Menno has his account and is admin (8.7).
+- 2026-11-25: 8.8: the account page can bring in the old app's backup per course (web/js/import.js):
+  practice results and study log as they are, reading progress from PDF pages to web pages (done stays
+  done), and the app's deadlines (B2 4 Dec, C2 20 Jan) when the log has none of its own. 🙋 Menno
+  downloads the backup in the Streamlit app and brings it in.

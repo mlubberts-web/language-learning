@@ -5,6 +5,8 @@ import * as acc from "../account.js";
 import { t, mark, longDate } from "../text.js";
 import { h } from "../ui.js";
 import { state, resetState } from "../state.js";
+import * as data from "../data.js";
+import { readFiles, applyImport } from "../import.js";
 
 // What the error names of account.js mean, for people
 const ERRORS = {
@@ -147,6 +149,7 @@ export async function accountScreen() {
         h("a", { class: "button", href: "#/new-password" }, t("Change my password")),
         h("button", { type: "button", class: "button", onclick: async () => { await acc.logOut(); resetState(); location.hash = "#/login"; } }, t("Log out")),
         profile?.is_admin && h("a", { class: "button", href: "#/admin" }, t("Admin")))),
+    await importPart(),
     h("section", { class: "card" },
       h("h2", {}, t("Delete my account")),
       h("p", {}, t("This removes your account and all your results of every course at once. It can't be undone.")),
@@ -160,6 +163,34 @@ export async function accountScreen() {
         location.hash = "#/login";
       } }, t("Delete my account")))),
     h("p", {}, h("a", { href: "#/privacy" }, t("Privacy and terms")))));
+}
+
+// ---------- bringing in results from the Streamlit app ----------
+async function importPart() {
+  const [courses, languages] = await Promise.all([data.courses(), data.languages()]);
+  const names = languages.names;
+  const capital = (text) => text.charAt(0).toUpperCase() + text.slice(1);
+  const choice = h("select", { class: "answer-box", style: "min-height: 44px; font-size: 16px", "aria-label": t("Course") },
+    courses.map((c) => h("option", { value: c.id }, `${capital(names[c.learn][c.explained_in])} · ${names[c.explained_in][c.explained_in]}`)));
+  const files = h("input", { type: "file", accept: ".json,application/json", multiple: true, "aria-label": t("Backup file") });
+  const result = h("div");
+  return h("section", { class: "card" },
+    h("h2", {}, t("Bring in results from the old app")),
+    h("p", {}, t("In the old app, open the course and download your backup with the 💾 Your data button in the side menu. Then choose the same course here and pick that file. It replaces the results of this course on this site.")),
+    h("label", { class: "stack", style: "gap: 6px" }, h("span", { style: "font-weight: 500" }, t("Course")), choice),
+    files,
+    result,
+    h("div", {}, h("button", { type: "button", class: "button primary", onclick: async () => {
+      const course = choice.value;
+      const found = await readFiles([...files.files], course);
+      if (!Object.keys(found).length) return result.replaceChildren(h("div", { class: "feedback wrong" }, t("No results found in these files. Pick the backup file of the old app.")));
+      const catalog = await data.catalog(course);
+      const summary = applyImport(found, course, catalog);
+      await acc.flush();
+      resetState();
+      result.replaceChildren(h("div", { class: "feedback right" }, t("Done: {units} units, {questions} practised questions and {days} study days brought in.",
+        { units: summary.units ?? 0, questions: summary.questions ?? 0, days: summary.days ?? 0 })));
+    } }, t("Bring in"))));
 }
 
 // ---------- no access (for later, when access ends without payment) ----------
