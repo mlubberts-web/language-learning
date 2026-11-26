@@ -266,3 +266,8 @@ Short notes per session: what was done, anything left open.
   forgot password, new password, your account (log out, delete), privacy and terms, admin (invite
   codes, access). Results go to the database when logged in; ?offline keeps them in the browser
   (for the tests). 🙋 Menno: run setup.sql, settings in Supabase, then a first test account.
+- 2026-11-25: 8.7 tested against the real Supabase project: wrong invite code refused, account made,
+  results saved and back after a reload and after logging in again, another account sees none of
+  them, admin functions closed to others, wrong password refused, delete account (tick first)
+  removes the account. New Supabase projects need explicit grants for the website (now in
+  setup.sql). Left for 8.7: Menno's own admin account (after the site is online).
