@@ -1,0 +1,10 @@
+// Settings for Cloudflare: publish the folder web/ as the website.
+// Cloudflare first runs the build command (build_web.py, which makes web/data from the courses),
+// then "npx wrangler deploy", which reads this file and uploads web/.
+{
+  "name": "language-learning",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./web"
+  }
+}
