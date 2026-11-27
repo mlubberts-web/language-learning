@@ -225,7 +225,7 @@ Agreed with Menno on 2026-11-26. In this order:
 - [ ] 9.7b The same check for the sentence exercises (translate, fill): where more than one wording
       is right but only one is accepted. Until then the "I was actually right" button remembers
       your answer for good.
-- [ ] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
+- [x] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
 - [ ] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
       out, in two modes, "tense given" and "find the tense from the context" (every tense that fits
       is right). A large checked bank of sentences, drawn at random, with a tense filter.
@@ -330,3 +330,5 @@ Short notes per session: what was done, anything left open.
   counts); "right in the end" is kept per question (end_ok); a list is mastered above 95% and an
   exercise is finished when mastered or marked done; word lists show the counts per part.
 - 2026-11-26: 9.7 done for the word questions (answer_variants.py); 9.7b (sentences) still open.
+- 2026-11-26: 9.8 done: the course choice in two steps ("I speak", then "I want to learn"); the site
+  switches to your language at step 1; your last course stays at the top.
