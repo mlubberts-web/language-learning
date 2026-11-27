@@ -1,0 +1,837 @@
+{
+ "_about": "Other correct Spanish answers for the sentence translations (mode translate), keyed by the course's own answer. Used by answer_variants.py for every course that learns Spanish. 'you' without (tú) or (all) may also be usted; 'they' and 'we' may be masculine or feminine (that rule is in answer_variants.py).",
+ "¿Hablas inglés?": [
+  "¿Habla usted inglés?",
+  "¿Habla inglés?"
+ ],
+ "Ella habla muy rápido.": [
+  "Ella habla muy deprisa.",
+  "Ella habla muy rápidamente."
+ ],
+ "Hablamos por teléfono.": [
+  "Hablamos por el teléfono."
+ ],
+ "Ellos hablan con el profesor.": [
+  "Hablan con el profesor.",
+  "Hablan al profesor."
+ ],
+ "Como fruta todos los días.": [
+  "Como fruta cada día.",
+  "Todos los días como fruta."
+ ],
+ "¿Comes carne?": [
+  "¿Come usted carne?",
+  "¿Come carne?"
+ ],
+ "Comemos a las dos.": [
+  "Comemos a las dos en punto."
+ ],
+ "¿Dónde vives?": [
+  "¿Dónde vive usted?",
+  "¿Dónde vive?"
+ ],
+ "Vivimos en un piso.": [
+  "Vivimos en un apartamento."
+ ],
+ "¿Vivís cerca de aquí?": [
+  "¿Vivís cerca?",
+  "¿Vivís por aquí cerca?"
+ ],
+ "No trabaja los domingos.": [
+  "Ella no trabaja los domingos."
+ ],
+ "Voy al mercado.": [
+  "Estoy yendo al mercado."
+ ],
+ "Hago los deberes a las cinco.": [
+  "Hago mis deberes a las cinco."
+ ],
+ "Eres muy simpático.": [
+  "Eres muy simpática.",
+  "Usted es muy simpático.",
+  "Usted es muy simpática.",
+  "Eres muy amable.",
+  "Es usted muy amable."
+ ],
+ "¿Sois hermanos?": [
+  "¿Sois hermanas?"
+ ],
+ "¿Cómo estás?": [
+  "¿Cómo está usted?",
+  "¿Cómo está?",
+  "¿Qué tal estás?",
+  "¿Qué tal?"
+ ],
+ "Está cansada.": [
+  "Ella está cansada."
+ ],
+ "¿Estáis listos?": [
+  "¿Estáis listas?",
+  "¿Estáis preparados?",
+  "¿Estáis preparadas?"
+ ],
+ "Tengo dos hermanos.": [
+  "Tengo dos hermanos varones."
+ ],
+ "¿Tienes tiempo?": [
+  "¿Tiene usted tiempo?",
+  "¿Tiene tiempo?"
+ ],
+ "Tiene 25 años.": [
+  "Ella tiene 25 años.",
+  "Tiene veinticinco años.",
+  "Ella tiene veinticinco años."
+ ],
+ "Ella tiene veinte años.": [
+  "Ella tiene 20 años.",
+  "Tiene 20 años."
+ ],
+ "Hay dos libros en la mesa.": [
+  "Hay dos libros sobre la mesa."
+ ],
+ "Son buenos amigos.": [
+  "Son buenas amigas.",
+  "Ellos son buenos amigos.",
+  "Ellas son buenas amigas."
+ ],
+ "Es española.": [
+  "Ella es española."
+ ],
+ "Estos son mis amigos.": [
+  "Estas son mis amigas.",
+  "Éstos son mis amigos."
+ ],
+ "¿Quién es esa mujer?": [
+  "¿Quién es aquella mujer?"
+ ],
+ "Me llamo Ana.": [
+  "Mi nombre es Ana."
+ ],
+ "¿Cómo te llamas?": [
+  "¿Cuál es tu nombre?",
+  "¿Cómo se llama usted?",
+  "¿Cómo se llama?"
+ ],
+ "Nos llamamos igual.": [
+  "Tenemos el mismo nombre."
+ ],
+ "¿Cómo os llamáis?": [
+  "¿Cuáles son vuestros nombres?"
+ ],
+ "¿A qué hora te levantas?": [
+  "¿A qué hora se levanta usted?",
+  "¿A qué hora se levanta?"
+ ],
+ "Le gustan los perros.": [
+  "A ella le gustan los perros."
+ ],
+ "Nos encanta la música.": [
+  "Nos gusta mucho la música."
+ ],
+ "¿Está el banco cerca de aquí?": [
+  "¿El banco está cerca de aquí?",
+  "¿Está el banco cerca?",
+  "¿El banco está cerca?"
+ ],
+ "Nunca trabaja los sábados.": [
+  "Ella nunca trabaja los sábados.",
+  "No trabaja nunca los sábados."
+ ],
+ "¿Quieres té o café?": [
+  "¿Quiere usted té o café?",
+  "¿Quiere té o café?"
+ ],
+ "Quisiera un café, por favor.": [
+  "Me gustaría un café, por favor.",
+  "Quería un café, por favor."
+ ],
+ "Ayer hablé con mi jefe.": [
+  "Hablé con mi jefe ayer.",
+  "Ayer hablé con mi jefa.",
+  "Hablé con mi jefa ayer."
+ ],
+ "Ella habló durante una hora.": [
+  "Ella habló una hora.",
+  "Habló durante una hora."
+ ],
+ "Mis padres hablaron con el director.": [
+  "Mis padres hablaron con la directora."
+ ],
+ "¿Qué comiste ayer?": [
+  "¿Qué comió usted ayer?",
+  "Ayer, ¿qué comiste?"
+ ],
+ "Comimos tortilla de patatas.": [
+  "Comimos tortilla española."
+ ],
+ "Los niños comieron muy poco.": [
+  "Los niños comieron poquísimo."
+ ],
+ "Viví en Alemania dos años.": [
+  "Viví en Alemania durante dos años.",
+  "Viví dos años en Alemania."
+ ],
+ "¿Dónde viviste de niño?": [
+  "¿Dónde viviste de niña?",
+  "¿Dónde viviste cuando eras niño?",
+  "¿Dónde viviste cuando eras pequeño?",
+  "¿Dónde vivió usted de niño?"
+ ],
+ "Mis tíos vivieron en Cuba.": [
+  "Mi tía y mi tío vivieron en Cuba."
+ ],
+ "Ayer llamé a mi madre.": [
+  "Llamé a mi madre ayer."
+ ],
+ "Vivieron en Madrid dos años.": [
+  "Vivieron en Madrid durante dos años.",
+  "Vivieron dos años en Madrid."
+ ],
+ "¿Leísteis el correo electrónico?": [
+  "¿Leísteis el correo?",
+  "¿Leísteis el email?",
+  "¿Leísteis el e-mail?"
+ ],
+ "Fui camarero durante un verano.": [
+  "Fui camarera durante un verano.",
+  "Fui camarero un verano.",
+  "Fui camarera un verano."
+ ],
+ "¿Fuiste buen estudiante?": [
+  "¿Fuiste buena estudiante?",
+  "¿Fuiste un buen estudiante?",
+  "¿Eras buen estudiante?",
+  "¿Eras buena estudiante?"
+ ],
+ "Fuimos compañeros de piso.": [
+  "Fuimos compañeras de piso."
+ ],
+ "¿Fuisteis amigos de niños?": [
+  "¿Erais amigos de niños?",
+  "¿Fuisteis amigas de niñas?",
+  "¿Erais amigas de niñas?"
+ ],
+ "Fui a Barcelona en tren.": [
+  "Fui en tren a Barcelona."
+ ],
+ "¿Fuiste al gimnasio ayer?": [
+  "¿Fuiste ayer al gimnasio?",
+  "Ayer, ¿fuiste al gimnasio?"
+ ],
+ "Fuimos al cine el sábado.": [
+  "El sábado fuimos al cine."
+ ],
+ "Estuve en casa todo el día.": [
+  "Estuve todo el día en casa."
+ ],
+ "Fue un buen profesor.": [
+  "Él fue un buen profesor.",
+  "Era un buen profesor."
+ ],
+ "Hablaba con mi abuela todos los días.": [
+  "Hablaba con mi abuela cada día.",
+  "Solía hablar con mi abuela todos los días."
+ ],
+ "Ella hablaba muy rápido.": [
+  "Ella hablaba muy deprisa.",
+  "Ella solía hablar muy rápido."
+ ],
+ "Hablábamos por teléfono cada noche.": [
+  "Hablábamos por teléfono todas las noches."
+ ],
+ "Mis padres hablaban alemán en casa.": [
+  "En casa mis padres hablaban alemán."
+ ],
+ "Comía en casa de mis abuelos.": [
+  "Solía comer en casa de mis abuelos."
+ ],
+ "Mi padre comía muy tarde.": [
+  "Mi padre solía comer muy tarde."
+ ],
+ "Comíamos juntos los domingos.": [
+  "Comíamos juntas los domingos.",
+  "Los domingos comíamos juntos."
+ ],
+ "Mis primos comían siempre pasta.": [
+  "Mis primos siempre comían pasta."
+ ],
+ "Mi madre iba al mercado cada sábado.": [
+  "Mi madre iba al mercado todos los sábados."
+ ],
+ "¿Ibais en bici?": [
+  "¿Ibais en bicicleta?"
+ ],
+ "Veía la tele después de cenar.": [
+  "Veía la televisión después de cenar.",
+  "Solía ver la tele después de cenar."
+ ],
+ "Mi abuelo veía el fútbol.": [
+  "Mi abuelo solía ver el fútbol."
+ ],
+ "Veíamos películas los viernes.": [
+  "Los viernes veíamos películas."
+ ],
+ "De niño jugaba en la calle.": [
+  "De niña jugaba en la calle.",
+  "Cuando era niño jugaba en la calle.",
+  "Cuando era pequeño jugaba en la calle."
+ ],
+ "Llovía y estaba cansado.": [
+  "Llovía y estaba cansada.",
+  "Estaba lloviendo y estaba cansado.",
+  "Estaba lloviendo y estaba cansada."
+ ],
+ "Siempre comíamos en casa.": [
+  "Comíamos siempre en casa."
+ ],
+ "Tenía veinte años.": [
+  "Ella tenía veinte años.",
+  "Tenía 20 años."
+ ],
+ "Cuando llegué, llovía.": [
+  "Cuando llegué, estaba lloviendo."
+ ],
+ "Mientras cocinaba, me llamó.": [
+  "Mientras estaba cocinando, me llamó.",
+  "Mientras yo cocinaba, ella me llamó."
+ ],
+ "He terminado el trabajo.": [
+  "He acabado el trabajo."
+ ],
+ "¿Has visto mi móvil?": [
+  "¿Has visto mi teléfono?",
+  "¿Ha visto usted mi móvil?"
+ ],
+ "Ella ha llegado tarde.": [
+  "Ha llegado tarde."
+ ],
+ "¿Habéis estado en Sevilla?": [
+  "¿Habéis estado alguna vez en Sevilla?"
+ ],
+ "¿Has comido ya?": [
+  "¿Ya has comido?"
+ ],
+ "Hemos vivido en este piso cinco años.": [
+  "Hemos vivido en este piso durante cinco años.",
+  "Llevamos cinco años viviendo en este piso.",
+  "Vivimos en este piso desde hace cinco años."
+ ],
+ "Hoy he hecho la compra.": [
+  "Hoy he hecho las compras."
+ ],
+ "Ella ha hecho un pastel.": [
+  "Ella ha hecho una tarta.",
+  "Ha hecho un pastel.",
+  "Ha hecho una tarta."
+ ],
+ "Hemos hecho un viaje increíble.": [
+  "Hemos hecho un viaje alucinante."
+ ],
+ "Todavía no he comido.": [
+  "Aún no he comido.",
+  "No he comido todavía.",
+  "No he comido aún."
+ ],
+ "¿Has estado alguna vez en España?": [
+  "¿Has estado en España alguna vez?",
+  "¿Alguna vez has estado en España?"
+ ],
+ "Ya ha terminado.": [
+  "Ya ha acabado.",
+  "Ella ya ha terminado."
+ ],
+ "Voy a estudiar esta noche.": [
+  "Esta noche voy a estudiar."
+ ],
+ "Vamos a cenar fuera.": [
+  "Vamos a comer fuera."
+ ],
+ "Mis padres están hablando con el vecino.": [
+  "Mis padres están hablando con la vecina."
+ ],
+ "¿Estás comiendo fuera?": [
+  "¿Comes fuera?"
+ ],
+ "Estoy durmiendo la siesta.": [
+  "Me estoy echando la siesta.",
+  "Estoy echándome la siesta."
+ ],
+ "¿Estáis durmiendo todavía?": [
+  "¿Todavía estáis durmiendo?",
+  "¿Seguís durmiendo?",
+  "¿Aún estáis durmiendo?"
+ ],
+ "Voy a viajar el próximo verano.": [
+  "Voy a viajar el verano que viene.",
+  "El próximo verano voy a viajar."
+ ],
+ "Vuelven a trabajar.": [
+  "Están trabajando otra vez.",
+  "Están trabajando de nuevo.",
+  "Trabajan otra vez."
+ ],
+ "Siéntese, por favor.": [
+  "Por favor, siéntese."
+ ],
+ "¡Vamos a la playa!": [
+  "¡Vámonos a la playa!"
+ ],
+ "Voy a decírselo.": [
+  "Se lo voy a decir."
+ ],
+ "Es más alta que su hermano.": [
+  "Ella es más alta que su hermano."
+ ],
+ "Pienso en ti.": [
+  "Estoy pensando en ti."
+ ],
+ "Me duele la cabeza.": [
+  "Tengo dolor de cabeza."
+ ],
+ "¿Cuánto es la cuenta?": [
+  "¿Cuánto es?"
+ ],
+ "He suspendido el examen.": [
+  "Suspendí el examen."
+ ],
+ "Gira a la izquierda en la esquina.": [
+  "En la esquina, gira a la izquierda.",
+  "Gire a la izquierda en la esquina."
+ ],
+ "¿Te apetece ir al cine?": [
+  "¿Quieres ir al cine?",
+  "¿Le apetece ir al cine?"
+ ],
+ "El vuelo lleva retraso.": [
+  "El vuelo tiene retraso.",
+  "El vuelo va con retraso.",
+  "El vuelo está retrasado.",
+  "El vuelo viene con retraso."
+ ],
+ "¿Puede repetirlo, por favor?": [
+  "¿Podría repetirlo, por favor?",
+  "¿Puedes repetirlo, por favor?",
+  "¿Podrías repetirlo, por favor?",
+  "¿Puede repetir, por favor?",
+  "¿Me lo puede repetir, por favor?"
+ ],
+ "Echo de menos a mi familia.": [
+  "Extraño a mi familia."
+ ],
+ "Mañana hablaré con mi jefe.": [
+  "Hablaré con mi jefe mañana.",
+  "Mañana hablaré con mi jefa.",
+  "Mañana voy a hablar con mi jefe."
+ ],
+ "¿Hablarás con Ana?": [
+  "¿Vas a hablar con Ana?",
+  "¿Hablará usted con Ana?"
+ ],
+ "Hablaremos por teléfono.": [
+  "Vamos a hablar por teléfono."
+ ],
+ "Mis padres hablarán con el director.": [
+  "Mis padres hablarán con la directora."
+ ],
+ "Esta noche comeré en casa.": [
+  "Esta noche cenaré en casa.",
+  "Comeré en casa esta noche.",
+  "Cenaré en casa esta noche."
+ ],
+ "¿Comerás con nosotros?": [
+  "¿Comerás con nosotras?",
+  "¿Comerá usted con nosotros?"
+ ],
+ "Comeremos paella el domingo.": [
+  "El domingo comeremos paella."
+ ],
+ "¿Vivirás en Madrid?": [
+  "¿Vivirá usted en Madrid?"
+ ],
+ "¿Viviréis juntos?": [
+  "¿Viviréis juntas?"
+ ],
+ "Hablaría con él, pero no puedo.": [
+  "Le hablaría, pero no puedo."
+ ],
+ "¿Hablarías más despacio?": [
+  "¿Podrías hablar más despacio?",
+  "¿Hablaría usted más despacio?",
+  "¿Podría hablar más despacio?"
+ ],
+ "Ella hablaría con el jefe.": [
+  "Ella hablaría con la jefa.",
+  "Hablaría con el jefe."
+ ],
+ "Hablaríamos con ella mañana.": [
+  "Mañana hablaríamos con ella."
+ ],
+ "¿Hablaríais con el director?": [
+  "¿Hablaríais con la directora?"
+ ],
+ "Ellos hablarían con todos.": [
+  "Hablarían con todos.",
+  "Hablarían con todo el mundo.",
+  "Ellos hablarían con todo el mundo."
+ ],
+ "Comería algo ligero.": [
+  "Comería algo ligerito."
+ ],
+ "¿Comerías en este restaurante?": [
+  "¿Comería usted en este restaurante?"
+ ],
+ "¿Comeríais con nosotros?": [
+  "¿Comeríais con nosotras?"
+ ],
+ "¿Vivirías en otro país?": [
+  "¿Viviría usted en otro país?"
+ ],
+ "Te llamaré mañana.": [
+  "Mañana te llamaré.",
+  "Te llamo mañana.",
+  "Mañana te llamo."
+ ],
+ "¿Abrirías la ventana?": [
+  "¿Podrías abrir la ventana?",
+  "¿Abriría usted la ventana?",
+  "¿Podría abrir la ventana?"
+ ],
+ "Estará en casa.": [
+  "Probablemente está en casa.",
+  "Probablemente esté en casa.",
+  "Seguramente está en casa.",
+  "Estará en casa, seguramente."
+ ],
+ "Es importante que ella hable despacio.": [
+  "Es importante que hable despacio."
+ ],
+ "Prefiero que hablen ellos.": [
+  "Prefiero que ellos hablen.",
+  "Prefiero que hablen.",
+  "Prefiero que hablen ellas."
+ ],
+ "Es necesario que él coma algo.": [
+  "Es necesario que coma algo.",
+  "Hace falta que coma algo."
+ ],
+ "Ojalá comamos juntos.": [
+  "Espero que comamos juntos.",
+  "Ojalá comamos juntas.",
+  "Espero que comamos juntas."
+ ],
+ "Ojalá vivamos aquí mucho tiempo.": [
+  "Espero que vivamos aquí mucho tiempo."
+ ],
+ "Deseo que viváis bien.": [
+  "Os deseo una buena vida.",
+  "Os deseo que viváis bien."
+ ],
+ "Espero que ella esté bien.": [
+  "Espero que esté bien."
+ ],
+ "Espero que tengas un buen fin de semana.": [
+  "Que tengas un buen fin de semana.",
+  "Espero que pases un buen fin de semana."
+ ],
+ "No creo que venga.": [
+  "No creo que él venga."
+ ],
+ "Quiero ir a casa.": [
+  "Quiero irme a casa."
+ ],
+ "Ya había hablado con él.": [
+  "Ya le había hablado."
+ ],
+ "Ella había hablado con el jefe.": [
+  "Ella había hablado con la jefa.",
+  "Había hablado con el jefe."
+ ],
+ "Ellos habían hablado con todos.": [
+  "Habían hablado con todos.",
+  "Habían hablado con todo el mundo."
+ ],
+ "Ya había comido cuando llegaste.": [
+  "Cuando llegaste ya había comido."
+ ],
+ "¿Habías comido ya?": [
+  "¿Ya habías comido?"
+ ],
+ "Ella había hecho la maleta.": [
+  "Había hecho la maleta.",
+  "Ella había hecho las maletas."
+ ],
+ "Nunca había visto el mar.": [
+  "No había visto nunca el mar."
+ ],
+ "Habrá llegado ya.": [
+  "Ya habrá llegado.",
+  "Ella ya habrá llegado."
+ ],
+ "Habría dicho que no.": [
+  "Hubiera dicho que no."
+ ],
+ "La película que vi fue genial.": [
+  "La película que vi era genial.",
+  "La peli que vi fue genial."
+ ],
+ "Esa es la mujer cuyo hijo estudia en Madrid.": [
+  "Ésa es la mujer cuyo hijo estudia en Madrid."
+ ],
+ "Las ventanas fueron rotas por la tormenta.": [
+  "La tormenta rompió las ventanas."
+ ],
+ "Si llueve, nos quedaremos en casa.": [
+  "Si llueve, nos quedamos en casa."
+ ],
+ "Si tuviera coche, viajaría más.": [
+  "Si tuviese coche, viajaría más.",
+  "Si tuviera un coche, viajaría más.",
+  "Si tuviese un coche, viajaría más."
+ ],
+ "Dijo que estaba cansada.": [
+  "Ella dijo que estaba cansada."
+ ],
+ "Estoy cansado y la sopa está fría.": [
+  "Estoy cansada y la sopa está fría."
+ ],
+ "Llovía, así que nos quedamos en casa.": [
+  "Estaba lloviendo, así que nos quedamos en casa.",
+  "Llovía, por eso nos quedamos en casa."
+ ],
+ "Aunque llueva, iré.": [
+  "Aunque llueva, voy a ir.",
+  "Iré aunque llueva."
+ ],
+ "Echo de menos a mis amigos.": [
+  "Extraño a mis amigos."
+ ],
+ "Da igual.": [
+  "No importa.",
+  "Da lo mismo."
+ ],
+ "Actualmente busca trabajo.": [
+  "Actualmente está buscando trabajo.",
+  "Ahora está buscando trabajo.",
+  "En este momento busca trabajo."
+ ],
+ "Vale la pena.": [
+  "Merece la pena."
+ ],
+ "Quería que vinieras.": [
+  "Quería que vinieses."
+ ],
+ "Ojalá tuviera más dinero.": [
+  "Ojalá tuviese más dinero."
+ ],
+ "No había nadie que lo supiera.": [
+  "No había nadie que lo supiese."
+ ],
+ "Me pidió que esperara.": [
+  "Me pidió que esperase."
+ ],
+ "Si hubiera sabido, habría venido.": [
+  "Si lo hubiera sabido, habría venido.",
+  "Si lo hubiese sabido, habría venido.",
+  "Si hubiese sabido, habría venido.",
+  "Si lo hubiera sabido, hubiera venido."
+ ],
+ "Ojalá no hubiera dicho nada.": [
+  "Ojalá no hubiese dicho nada."
+ ],
+ "Si hubiera estudiado, ahora sería médico.": [
+  "Si hubiese estudiado, ahora sería médico.",
+  "Si hubiera estudiado, ahora sería médica.",
+  "Si hubiese estudiado, ahora sería médica."
+ ],
+ "Iré a no ser que llueva.": [
+  "Iré a menos que llueva.",
+  "Iré salvo que llueva."
+ ],
+ "Por más que lo intento, no puedo.": [
+  "Por mucho que lo intento, no puedo.",
+  "Por más que lo intente, no puedo."
+ ],
+ "A lo mejor viene.": [
+  "Quizás venga.",
+  "Quizá venga.",
+  "Tal vez venga."
+ ],
+ "Que yo sepa, no ha llamado.": [
+  "Que yo sepa, todavía no ha llamado."
+ ],
+ "Llevo dos años estudiando español.": [
+  "Estudio español desde hace dos años."
+ ],
+ "Se puso a llorar.": [
+  "Empezó a llorar.",
+  "Se echó a llorar."
+ ],
+ "Sigo sin entenderlo.": [
+  "Todavía no lo entiendo.",
+  "Aún no lo entiendo."
+ ],
+ "Aprendió español viendo series.": [
+  "Aprendió español mirando series."
+ ],
+ "Estudio para aprobar el examen.": [
+  "Estoy estudiando para aprobar el examen."
+ ],
+ "Me di cuenta de que era tarde.": [
+  "Me di cuenta de que ya era tarde."
+ ],
+ "Busco a mi hermano.": [
+  "Estoy buscando a mi hermano."
+ ],
+ "Te lo diré mañana.": [
+  "Mañana te lo diré.",
+  "Te lo digo mañana."
+ ],
+ "¿Te apetece un café?": [
+  "¿Quieres un café?",
+  "¿Le apetece un café?"
+ ],
+ "Fue Ana quien llamó.": [
+  "Fue Ana la que llamó."
+ ],
+ "¡Qué día tan bonito!": [
+  "¡Qué día más bonito!",
+  "¡Qué bonito día!"
+ ],
+ "El libro lo compré ayer.": [
+  "Compré el libro ayer.",
+  "Ayer compré el libro."
+ ],
+ "Le escribo en relación con su anuncio.": [
+  "Le escribo en relación a su anuncio.",
+  "Le escribo por su anuncio."
+ ],
+ "Llevo tres días enfermo.": [
+  "Llevo tres días enferma.",
+  "Estoy enfermo desde hace tres días.",
+  "Estoy enferma desde hace tres días."
+ ],
+ "Admitió que se había equivocado.": [
+  "Reconoció que se había equivocado."
+ ],
+ "Debe de estar enfermo.": [
+  "Debe de estar enferma."
+ ],
+ "Quería pedirte un favor.": [
+  "Quería pedirle un favor.",
+  "Te quería pedir un favor."
+ ],
+ "El presidente dimitiría mañana.": [
+  "Al parecer, el presidente dimitirá mañana.",
+  "Por lo visto, el presidente dimitirá mañana."
+ ],
+ "Siento que no puedas venir.": [
+  "Lamento que no puedas venir."
+ ],
+ "Busco un camarero que hable inglés.": [
+  "Busco a un camarero que hable inglés.",
+  "Busco una camarera que hable inglés."
+ ],
+ "No hay nadie que sepa la respuesta.": [
+  "Nadie sabe la respuesta."
+ ],
+ "De ahí que sea necesario actuar.": [
+  "Por eso es necesario actuar."
+ ],
+ "En definitiva, no hay otra solución.": [
+  "En resumen, no hay otra solución.",
+  "En suma, no hay otra solución."
+ ],
+ "Se estima que los precios subirán.": [
+  "Se calcula que los precios subirán."
+ ],
+ "Es más caro de lo que pensaba.": [
+  "Es más caro de lo que creía."
+ ],
+ "No vino, lo cual me molestó.": [
+  "No vino, lo que me molestó."
+ ],
+ "Los datos sugieren que podría tratarse de un error.": [
+  "Los datos sugieren que podría ser un error."
+ ],
+ "Te echo de menos.": [
+  "Te extraño."
+ ],
+ "Paso de política.": [
+  "Paso de la política.",
+  "No me importa la política."
+ ],
+ "No es caro, sino barato.": [
+  "No es caro sino barato."
+ ],
+ "Vosotros habláis muy rápido.": [
+  "Habláis muy rápido.",
+  "Habláis muy deprisa.",
+  "Vosotras habláis muy rápido."
+ ],
+ "Conduzco al trabajo todos los días.": [
+  "Voy al trabajo en coche todos los días.",
+  "Voy en coche al trabajo todos los días."
+ ],
+ "Voy a coger el autobús.": [
+  "Voy a tomar el autobús."
+ ],
+ "Me di cuenta de que estaba equivocado.": [
+  "Me di cuenta de que estaba equivocada.",
+  "Me di cuenta de que me había equivocado."
+ ],
+ "Si bien es caro, vale la pena.": [
+  "Aunque es caro, vale la pena.",
+  "Aunque es caro, merece la pena."
+ ],
+ "¡Sentaos, niños!": [
+  "¡Niños, sentaos!"
+ ],
+ "Se lo di ayer.": [
+  "Ayer se lo di."
+ ],
+ "Fue Ana quien me lo dijo.": [
+  "Fue Ana la que me lo dijo."
+ ],
+ "Era un gran hombre.": [
+  "Fue un gran hombre."
+ ],
+ "¡Qué día más largo!": [
+  "¡Qué día tan largo!"
+ ],
+ "Insisto en que vengas.": [
+  "Insisto en que venga."
+ ],
+ "Está más claro que el agua.": [
+  "Está clarísimo."
+ ],
+ "Estoy hecho polvo.": [
+  "Estoy hecha polvo.",
+  "Estoy agotado.",
+  "Estoy agotada."
+ ],
+ "¿Me echas una mano?": [
+  "¿Me puedes echar una mano?",
+  "¿Me echa una mano?"
+ ],
+ "Voy a revisar el correo electrónico.": [
+  "Revisaré el correo electrónico.",
+  "Voy a mirar el correo."
+ ],
+ "Solicité el puesto.": [
+  "Me presenté al puesto."
+ ],
+ "Pago mis impuestos cada año.": [
+  "Pago mis impuestos todos los años.",
+  "Pago los impuestos cada año."
+ ],
+ "Al fin y al cabo, es tu decisión.": [
+  "Al fin y al cabo, es su decisión."
+ ],
+ "Por lo visto, no vendrá.": [
+  "Al parecer, no vendrá.",
+  "Por lo visto, no va a venir."
+ ],
+ "Tarde o temprano, todo se sabe.": [
+  "Tarde o temprano todo se sabe."
+ ]
+}

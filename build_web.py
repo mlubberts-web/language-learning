@@ -24,7 +24,7 @@ from pathlib import Path
 import course
 import languages
 from practice_items import build_items, build_theme_items, modes
-from answer_variants import widen, extra_answers
+from answer_variants import widen, widen_sentences, extra_answers
 
 HERE = Path(__file__).parent
 OUT = HERE / "web" / "data"
@@ -220,6 +220,7 @@ def build_course(course_id):
     learn = course.info(course_id)["learn"]
     every = [item for items in list(unit_items.values()) + list(theme_items.values()) for item in items]
     widened = widen(every, tuple(languages.profile(learn)["articles"]), lang, extra_answers(course_id))
+    widened += widen_sentences(every, learn)  # other right wordings of the sentence translations
     for unit_id, items in unit_items.items():
         write(out / "items" / f"{unit_id}.json", chapter_words([compact(item) for item in items], lang))
     for name, items in theme_items.items():

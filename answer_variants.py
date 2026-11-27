@@ -81,6 +81,45 @@ def widen(items, articles, base_lang, extra=None):
     return changed
 
 
+# ---------- sentences (PLAN 9.7b) ----------
+# A sentence translation often has more than one right answer. extra_answers/translate_<language>.json
+# lists them by the course's own answer, for every course that learns that language. Besides, in
+# Spanish "they", "we" and "you (all)" don't say man or woman: ellos/ellas, nosotros/nosotras and
+# vosotros/vosotras are both right when the sentence starts with them.
+SWAP_START = {"es": {"Ellos": "Ellas", "Ellas": "Ellos", "Nosotros": "Nosotras", "Nosotras": "Nosotros",
+                     "Vosotros": "Vosotras", "Vosotras": "Vosotros"}}
+
+
+def sentence_answers(language):
+    """{course answer: [other right answers]} for a language, from extra_answers/translate_<language>.json."""
+    path = HERE / "extra_answers" / f"translate_{language}.json"
+    if not path.exists():
+        return {}
+    return {key: value for key, value in json.loads(path.read_text(encoding="utf-8")).items() if not key.startswith("_")}
+
+
+def widen_sentences(items, language):
+    """Adds the other right answers to the sentence translations in 'items' (changed in place).
+    Returns how many questions got more answers."""
+    table, swaps = sentence_answers(language), SWAP_START.get(language, {})
+    changed = 0
+    for item in items:
+        if item["mode"] != "translate" or not item["answers"]:
+            continue
+        main = item["answers"][0]
+        new = list(table.get(main, []))
+        for answer in [main] + new:
+            marks = answer[:len(answer) - len(answer.lstrip("¿¡"))]
+            first, _, rest = answer[len(marks):].partition(" ")
+            if first in swaps:
+                new.append(f"{marks}{swaps[first]} {rest}")
+        new = [a for i, a in enumerate(new) if a not in item["answers"] and a not in new[:i]]
+        if new:
+            item["answers"] = item["answers"] + new
+            changed += 1
+    return changed
+
+
 def extra_answers(course_id):
     """The answers added by hand for a course (extra_answers/<course>.json), or {}."""
     path = HERE / "extra_answers" / f"{course_id}.json"
