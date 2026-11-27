@@ -1,0 +1,468 @@
+{
+ "_about": "For English speakers: what replaces the comparisons with Dutch on the website (PLAN 9.10). build_web.py applies it; the content files and PDFs stay as they are. 'boxes': whole boxes by '<content file without .json>#<block number>'. 'texts': [old, new] pieces of text inside a block. 'blocks': whole blocks (tables with a Dutch column).",
+ "boxes": {
+  "a1_01_pronunciation_spelling#7": {
+   "title": "Tips for English speakers",
+   "bullets": [
+    "Keep each vowel <b>short and pure</b>. English vowels often glide (say, go, no sound like <i>ay-ee</i>, <i>oh-oo</i>). Spanish <b>e</b> and <b>o</b> never glide: <i>no</i> is one clean sound.",
+    "Say <b>every vowel clearly</b>, also when it is unstressed: ca-sa, not ca-suh. English turns weak vowels into a schwa (<i>banana</i> = buh-NAH-nuh); Spanish never does: <b>ba-na-na</b>."
+   ]
+  },
+  "a1_01_pronunciation_spelling#20": {
+   "title": "Free vocabulary: English endings that match Spanish",
+   "bullets": [
+    "English <b>-tion</b> = Spanish <b>-ción</b>: nation / nación, information / información, situation / situación.",
+    "English <b>-ty</b> = Spanish <b>-dad</b> or <b>-tad</b>: university / universidad, activity / actividad, liberty / libertad.",
+    "English <b>-logy</b> = Spanish <b>-logía</b>: biology / biología, technology / tecnología."
+   ]
+  },
+  "a1_02_regular_present#25": {
+   "title": "Good news for English speakers",
+   "text": "One Spanish form covers both English presents: <b>hablo</b> means I speak <i>and</i> I am speaking. Spanish also often uses the present for the near future, where English uses the present continuous: <i>Mañana trabajo</i> = I'm working tomorrow."
+  },
+  "a1_03_irregular_present#14": {
+   "title": "Saber or conocer? Two kinds of “know”",
+   "text": "English has one verb, Spanish has two. <b>saber</b> = to know facts, information and skills (<i>Sé la respuesta. Sé nadar</i> = I know how to swim). <b>conocer</b> = to know people, places and things you are familiar with (<i>Conozco a Marta. Conozco Madrid.</i>). Tip: if you could say “be familiar with”, use <b>conocer</b>."
+  },
+  "a1_04_ser_estar_hay_tener#3": {
+   "title": "English has one verb, Spanish has two",
+   "text": "English <b>to be</b> becomes <b>ser</b> or <b>estar</b>. Ask yourself: am I saying <b>what it is</b> (identity, characteristic) or <b>where or how it is right now</b> (location, temporary state)? The first is <b>ser</b>, the second <b>estar</b>: <i>Soy alto</i> (I am tall), <i>Estoy cansado</i> (I am tired)."
+  },
+  "a1_04_ser_estar_hay_tener#20": {
+   "title": "Age: Spanish says “have”, not “be”",
+   "text": "English says <i>I am 20</i>. Spanish says <b>Tengo 20 años</b> (literally: I have 20 years). Always include <b>años</b>. Other English “be” phrases also use <b>tener</b>: <i>tengo hambre</i> (I'm hungry), <i>tengo frío</i> (I'm cold), <i>tengo razón</i> (I'm right)."
+  },
+  "a1_05_nouns_articles_adjectives#6": {
+   "title": "English “the” is el, la, los or las",
+   "text": "English has one article for everything; Spanish nouns are masculine or feminine, even things: <b>el</b> sol, <b>la</b> luna, <b>el</b> problema, <b>la</b> mano. Learn each Spanish noun with its article from the start, and the adjective follows it: <i>la casa blanca</i>."
+  },
+  "a1_07_reflexives_gustar#13": {
+   "title": "Body parts and clothes: use el, la, los, las",
+   "text": "English says <i>I wash my hands</i>. Spanish uses the article, not a possessive: <b>Me lavo las manos</b>, <b>Me pongo el abrigo</b>. The reflexive pronoun already shows whose hands they are; <i>mis manos</i> sounds odd here."
+  },
+  "a1_07_reflexives_gustar#19": {
+   "title": "Think “is pleasing to me”",
+   "text": "English <i>I like cats</i> becomes <b>Me gustan los gatos</b>: literally “cats are pleasing to me”. The cats are the subject, so the verb is plural: <b>gustan</b>. One thing: <i>Me gusta el café</i>; several things: <i>Me gustan los gatos</i>."
+  },
+  "a1_08_sentence_structure#5": {
+   "title": "Word order: close to English, with two differences",
+   "bullets": [
+    "Adjectives usually come <b>after</b> the noun: <i>a red car</i> = <b>un coche rojo</b>.",
+    "Questions need no helper verb like <i>do</i> or <i>does</i>: <i>Do you live here?</i> = <b>¿Vives aquí?</b> Spanish shows the question with intonation and ¿ ? only."
+   ]
+  },
+  "a1_08_sentence_structure#9": {
+   "title": "Double negatives are normal",
+   "text": "English avoids two negatives (<i>I don't see anyone</i>, not <i>I don't see nobody</i>). Spanish requires them when the negative word comes after the verb: <b>No veo a nadie</b>, <b>No tengo nada</b>, <b>No voy nunca</b>."
+  },
+  "a1_09_vocabulary_phrases#14": {
+   "title": "Telling the time: no “past” and “to” guessing",
+   "text": "English <i>half past two</i> is <b>las dos y media</b>: Spanish adds the minutes <b>to</b> the hour with <b>y</b>, and takes them away with <b>menos</b>: <i>a quarter to three</i> = <b>las tres menos cuarto</b>. And it is <b>la una</b> (singular) but <b>las dos, las tres</b>."
+  },
+  "a2_01_preterite_regular#4": {
+   "title": "One past for finished events",
+   "bullets": [
+    "English <i>I worked</i> (a finished event at a finished time) is the Spanish preterite: <b>Ayer trabajé</b> = I worked yesterday.",
+    "English <i>I have worked</i> is not always <i>he trabajado</i>: Spain uses <i>he trabajado</i> for today, this week and this year, even with a time like <i>esta mañana</i> (Chapter 5)."
+   ]
+  },
+  "a2_01_preterite_regular#8": {
+   "title": "hace = ago",
+   "text": "<b>hace</b> + time goes <b>in front</b>: <i>hace dos días</i> = two days ago. English puts <i>ago</i> at the end."
+  },
+  "a2_02_preterite_irregular#27": {
+   "title": "English uses other verbs for this",
+   "text": "English needs different verbs where Spanish just changes the tense: <b>Conocí a Lucía</b> = I <i>met</i> Lucía; <b>Supe la verdad</b> = I <i>found out</i> the truth; <b>No pude abrirla</b> = I <i>couldn't</i> (tried and failed) open it."
+  },
+  "a2_03_imperfect#4": {
+   "title": "English “I worked” covers both",
+   "bullets": [
+    "English <i>I worked</i> can be a habit (<i>I worked every day</i>) or a single event. Spanish splits them: <b>trabajaba</b> for the habit, <b>trabajé</b> for the single finished event (Chapter 4).",
+    "Test: if the English can be <b>used to</b>, <b>would</b> (for a habit) or <b>was ...ing</b>, use the imperfect: <i>I used to work</i> = <b>trabajaba</b>, <i>I was working</i> = <b>trabajaba</b> / <b>estaba trabajando</b>."
+   ]
+  },
+  "a2_04_preterite_vs_imperfect#4": {
+   "title": "English “when” can be either",
+   "text": "<i>When I was young</i> describes a state: <b>Cuando era joven</b>. <i>When I arrived</i> is a single event: <b>Cuando llegué</b>. Same English word, different Spanish tense. Ask yourself what the verb after <i>when</i> describes."
+  },
+  "a2_05_present_perfect#13": {
+   "title": "haber, and nothing in between",
+   "bullets": [
+    "Like English <i>have</i>, Spanish always uses <b>haber</b>: <i>I have gone</i> = <b>he ido</b> (never <i>soy ido</i>).",
+    "English can put words in between: <i>I have already eaten</i>, <i>I haven't eaten</i>. In Spanish <b>he</b> and the participle stay together: <b>ya he comido</b>, <b>no he comido</b>."
+   ]
+  },
+  "a2_05_present_perfect#26": {
+   "title": "Spain uses the perfect for today",
+   "text": "English says <i>I ate an hour ago</i> but <i>I have eaten today</i>. Spain follows the time frame, not the moment: anything inside <b>today, this week, this year</b> takes the perfect (<i>Esta mañana he comido fruta</i> = I ate fruit this morning), anything in a finished time takes the preterite (<i>Ayer comí</i>)."
+  },
+  "a2_06_future_ongoing#6": {
+   "title": "Almost the same as English “going to”",
+   "bullets": [
+    "<i>I'm going to study</i> = <b>voy a estudiar</b>. Do not forget the <b>a</b>.",
+    "<i>in two days</i> (from now) = <b>dentro de dos días</b>. <i>en dos días</i> means “within two days, taking two days” and is a different idea."
+   ]
+  },
+  "a2_06_future_ongoing#18": {
+   "title": "English -ing is not always estar + gerund",
+   "text": "<i>I'm cooking</i> (right now) = <b>Estoy cocinando</b>. But for plans English also uses -ing (<i>I'm leaving tomorrow</i>), and Spanish then uses the plain present: <b>Me voy mañana</b>. And after a preposition English -ing is a Spanish infinitive: <i>before leaving</i> = <b>antes de salir</b>."
+  },
+  "a2_06_future_ongoing#26": {
+   "title": "English “just” and “again”, plus two more",
+   "bullets": [
+    "<i>just</i> = <b>acabar de</b>: <i>I've just arrived</i> = <b>Acabo de llegar</b>.",
+    "<i>again</i> = <b>volver a</b>: <i>I called again</i> = <b>Volví a llamar</b>. <i>I've been studying for two years</i> = <b>Llevo dos años estudiando</b>.",
+    "Also: <b>terminar de</b> + infinitive (<i>Terminé de trabajar a las seis</i>) and <b>aprender a</b> + infinitive (<i>Aprendí a nadar de niño</i>)."
+   ]
+  },
+  "a2_07_imperative#24": {
+   "title": "Negative commands are different",
+   "text": "English just adds <i>don't</i>: <i>Talk!</i> / <i>Don't talk!</i>. In Spanish a negative tú command cannot use the affirmative form: <b>Habla</b> but <b>No hables</b> (never <i>No habla</i>). The same goes for vosotros: <b>Hablad</b>, but <b>No habléis</b>."
+  },
+  "a2_08_object_pronouns#6": {
+   "title": "No “it” as a subject",
+   "text": "English needs <i>it</i> as a subject: <i>It's raining</i>, <i>It's late</i>. Spanish leaves it out: <b>Llueve</b>, <b>Es tarde</b>. As an <b>object</b>, <i>it</i> becomes <b>lo / la</b>, before the verb: <i>I see it</i> = <b>Lo veo</b>."
+  },
+  "a2_08_object_pronouns#19": {
+   "title": "Order: before the verb, person first",
+   "text": "English puts the pronouns after the verb: <i>I give it to him</i>. Spanish puts them before the conjugated verb, the person first: <b>Se lo doy</b> (to him / it). Remember: <b>indirect before direct</b>, and <i>le</i> becomes <b>se</b> before <i>lo, la</i>."
+  },
+  "a2_09_comparisons_prepositions#10": {
+   "title": "than, as and in",
+   "text": "<i>bigger than</i> = <b>más grande que</b>. <i>as big as</i> = <b>tan grande como</b>. <i>the biggest in Spain</i> = <b>el más grande de España</b> (Spanish says “of”, not “in”)."
+  },
+  "a2_09_comparisons_prepositions#18": {
+   "title": "English “for”: por or para",
+   "text": "English <i>for</i> becomes <b>para</b> (recipient, purpose, deadline: <i>para ti, para aprender, para el lunes</i>) or <b>por</b> (reason, price, in exchange, duration: <i>gracias por todo, por diez euros</i>). <i>through</i> and <i>because of</i> are also <b>por</b>."
+  },
+  "a2_10_vocabulary_phrases#16": {
+   "title": "oreja or oído?",
+   "text": "English <i>ear</i> has two Spanish words: <b>la oreja</b> is the outside of the ear, <b>el oído</b> is the inner ear and the sense of hearing. <i>Me duele el oído</i> (my ear hurts, inside), <i>Tiene las orejas grandes</i> (he has big ears)."
+  },
+  "b1_01_future_conditional#18": {
+   "title": "will = futuro, would = condicional",
+   "text": "English <i>will</i> matches the Spanish future (<b>iré</b>) and <i>would</i> matches the conditional (<b>iría</b>). But English often uses <i>going to</i> or the present continuous for plans, and so does Spanish: <i>Mañana trabajo</i>, <i>Voy a trabajar</i>."
+  },
+  "b1_01_future_conditional#30": {
+   "title": "would = conditional, not always",
+   "text": "English <i>would</i> is also a habit in the past (<i>we would play outside</i>): that is the Spanish <b>imperfect</b> (<i>jugábamos</i>), not the conditional. For politeness Spanish often uses <b>quisiera</b> or <b>me gustaría</b> (<i>Quisiera un café</i> = I would like a coffee)."
+  },
+  "b1_02_subjunctive_forms#4": {
+   "title": "English uses an infinitive here",
+   "text": "<i>I want you to come</i> uses an infinitive in English. Spanish needs <b>que</b> + a new verb: <b>Quiero que vengas</b>. Whenever English says <i>want / ask / tell someone to do</i>, think <b>que</b> + subjunctive."
+  },
+  "b1_03_subjunctive_uses#8": {
+   "title": "English “that” + normal verb = que + subjunctive",
+   "text": "<i>I hope (that) you come</i> is <b>Espero que vengas</b>; <i>It's important that you help</i> is <b>Es importante que ayudes</b>. In English the verb after <i>that</i> looks normal; in Spanish it changes after verbs of wishing, hoping, feeling and doubting."
+  },
+  "b1_03_subjunctive_uses#26": {
+   "title": "English present for the future",
+   "text": "English says <i>When you arrive, call me</i> and <i>When I arrive, I call</i> with the same present tense. Spanish distinguishes: <b>Cuando llegues</b> (it has not happened yet: subjunctive) vs <b>Cuando llego</b> (it happens regularly: indicative)."
+  },
+  "b1_04_perfect_tenses#5": {
+   "title": "Same logic as English",
+   "text": "<i>had eaten</i> = <b>había comido</b>, <i>will have eaten</i> = <b>habrá comido</b>, <i>would have eaten</i> = <b>habría comido</b>. Just like English <i>have</i>, Spanish always uses <b>haber</b>, and the participle never changes: <i>ella había comido</i>."
+  },
+  "b1_05_relative_clauses#4": {
+   "title": "who, which, that and what",
+   "text": "English chooses between <i>who</i>, <i>which</i> and <i>that</i>, and can leave it out (<i>the book I read</i>). Spanish uses <b>que</b> for all of them and never leaves it out: <i>the book (that) I read</i> = <b>el libro que leí</b>, <i>the man who</i> = <b>el hombre que</b>. For <i>what</i> = “the thing that”: <b>lo que</b> (<i>what you say</i> = lo que dices)."
+  },
+  "b1_06_passive_se#5": {
+   "title": "is cleaned vs is clean",
+   "text": "English <i>the house is cleaned</i> (the action) and <i>the house is clean</i> (the result) both use <i>be</i>. Spanish uses <b>ser + participle</b> for the action (<i>es limpiada</i>) and <b>estar + participle</b> for the result (<i>está limpia</i>). In everyday Spanish the action is usually said with <b>se</b>: <i>se limpia la casa</i>."
+  },
+  "b1_06_passive_se#21": {
+   "title": "English: “I dropped it”",
+   "text": "English says <i>I dropped it</i>, <i>I broke my phone</i>, <i>I forgot</i>. Spanish prefers <b>se me cayó</b> (it fell to me), <b>se me rompió el móvil</b>, <b>se me olvidó</b> when it is an accident. <b>Rompí el móvil</b> sounds as if you did it on purpose."
+  },
+  "b1_07_if_reported#5": {
+   "title": "Same as English",
+   "text": "<i>If it rains, I'll stay at home</i> = <b>Si llueve, me quedo / me quedaré en casa</b>. Like English, Spanish never puts the future after <i>si</i>: not <i>si lloverá</i>, just as English doesn't say <i>if it will rain</i>."
+  },
+  "b1_08_ser_estar_change#14": {
+   "title": "become, get, turn, go",
+   "text": "English uses many verbs for change. Spanish chooses by the kind of change: <i>he got angry</i> = <b>se puso furioso</b> (temporary mood); <i>he became a doctor</i> = <b>se hizo médico</b> (effort, choice); <i>he went mad</i> = <b>se volvió loco</b> (sudden, lasting); <i>he became famous</i> = <b>llegó a ser famoso</b> (after a long way)."
+  },
+  "b2_04_periphrases#11": {
+   "title": "Llevo dos años estudiando",
+   "text": "English uses the present perfect continuous: <i>I've been studying for two years</i>. Spanish has this specific structure: <b>llevar + time + gerund</b>. <i>Estudio desde hace dos años</i> is also correct (Spanish uses the <b>present</b> here, not the perfect)."
+  },
+  "c1_01_tense_nuance#9": {
+   "title": "English uses other verbs, Spanish the tense",
+   "text": "English changes the verb; Spanish changes the <b>tense</b>. <i>Lo supe ayer</i> = I <i>found out</i> yesterday. <i>No quise ir</i> = I <i>refused</i> to go (and I did not). <i>No pude ir</i> = I <i>couldn't</i> go (I tried, and I did not)."
+  },
+  "c1_07_idiomatic_verbs#3": {
+   "title": "se = up, all, the whole",
+   "text": "Spanish often adds <b>se</b> to show involvement or completion: <i>Se leyó el libro</i> (he read the whole book), <i>Me bebí el café</i> (I drank it all up), <i>Se comió la tarta</i> (she ate up the cake). English adds <i>up</i>, <i>all</i> or <i>the whole</i>; Spanish adds a pronoun."
+  },
+  "c2_03_syntax#4": {
+   "title": "English learners: the subject can come later",
+   "text": "English keeps subject-verb order almost always (<i>John arrived yesterday</i>). Spanish can put the subject after the verb to present new information: <b>Ayer llegó Juan</b>, <b>Me lo dijo tu hermana</b>. And it never inverts after an adverb the way English does after <i>never</i> or <i>rarely</i>: <i>Nunca lo había visto</i>."
+  }
+ },
+ "texts": {
+  "a1_01_pronunciation_spelling#9": [
+   [
+    "harsh h, like the Dutch ch in acht",
+    "harsh h, like the ch in Scottish loch"
+   ],
+   [
+    "Dutch speakers already have this sound",
+    "English has no such sound: say the ch of loch, firmly"
+   ],
+   [
+    "like the y in yes (Dutch j); the word",
+    "like the y in yes; the word"
+   ],
+   [
+    "like the y in yes (Dutch j)",
+    "like the y in yes"
+   ],
+   [
+    "ny, as in canyon (Dutch nj in oranje)",
+    "ny, as in canyon or onion"
+   ],
+   [
+    "like the ch in church (Dutch tsj)",
+    "like the ch in church"
+   ]
+  ],
+  "a1_01_pronunciation_spelling#19": [
+   [
+    "Never double a vowel the way Dutch does: <i>hablar</i>, not hablaar.",
+    "Vowels are never doubled to make them long: <i>hablar</i>, not hablaar, and <i>tú</i>, not too."
+   ]
+  ],
+  "a1_02_regular_present#30": [
+   [
+    "Dutch needs ik/jij every time.",
+    "English needs I/you every time."
+   ]
+  ],
+  "a1_04_ser_estar_hay_tener#15": [
+   [
+    " (Dutch: <i>er is / er zijn</i>)",
+    ""
+   ]
+  ],
+  "a1_06_pronouns_possessives_demonstratives#7": [
+   [
+    "Dutch has two (dit / dat)",
+    "English has two (this / that)"
+   ]
+  ],
+  "a1_07_reflexives_gustar#16": [
+   [
+    "compared with English or Dutch",
+    "compared with English"
+   ]
+  ],
+  "a2_09_comparisons_prepositions#16": [
+   [
+    "which makes them hard for Dutch speakers (<i>voor</i>)",
+    "which makes them hard for English speakers"
+   ]
+  ],
+  "b1_05_relative_clauses#0": [
+   [
+    "avoid the most common Dutch-influenced mistakes with relative clauses",
+    "avoid the most common mistakes English speakers make with relative clauses"
+   ]
+  ],
+  "b1_07_if_reported#15": [
+   [
+    "Dutch speakers often make this mistake because they think of <i>zou</i> twice (<i>als ik tijd zou hebben, zou ik gaan</i>).",
+    "English speakers sometimes make this mistake because they think of <i>would</i> twice (<i>if I would have time, I would go</i>)."
+   ]
+  ],
+  "b1_08_ser_estar_change#11": [
+   [
+    "Dutch uses <i>worden</i> for all changes.",
+    "English uses <i>become</i>, <i>get</i>, <i>turn</i> or <i>go</i>."
+   ]
+  ],
+  "b1_10_vocabulary_phrases#23": [
+   [
+    "8. False friends (English and Dutch)",
+    "8. False friends"
+   ]
+  ],
+  "c1_07_idiomatic_verbs#0": [
+   [
+    "avoid literal translations from English and Dutch",
+    "avoid literal translations from English"
+   ]
+  ],
+  "c2_03_syntax#17": [
+   [
+    "no Dutch-style inversion.",
+    "no inversion after an adverb."
+   ]
+  ]
+ },
+ "blocks": {
+  "a1_02_regular_present#6": {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.2,
+    5.4,
+    7.4
+   ],
+   "head": [
+    "Spanish",
+    "English",
+    "Notes"
+   ],
+   "rows": [
+    [
+     "yo",
+     "I",
+     ""
+    ],
+    [
+     "tú",
+     "you (informal, singular)",
+     "friends, family, people your age"
+    ],
+    [
+     "él / ella",
+     "he / she",
+     ""
+    ],
+    [
+     "usted (Ud.)",
+     "you (formal, singular)",
+     "strangers, older people, respect; takes the él/ella verb form"
+    ],
+    [
+     "nosotros / nosotras",
+     "we",
+     "nosotras = an all-female group"
+    ],
+    [
+     "vosotros / vosotras",
+     "you (informal, plural)",
+     "used in Spain; vosotras = an all-female group"
+    ],
+    [
+     "ellos / ellas",
+     "they",
+     "ellas = an all-female group"
+    ],
+    [
+     "ustedes (Uds.)",
+     "you (formal, plural)",
+     "takes the ellos/ellas verb form"
+    ]
+   ]
+  },
+  "a2_09_comparisons_prepositions#25": {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "Spanish",
+    "English",
+    "Example"
+   ],
+   "rows": [
+    [
+     "pensar en",
+     "to think of / about",
+     "Pienso en ti."
+    ],
+    [
+     "soñar con",
+     "to dream of / about",
+     "Sueño con viajar."
+    ],
+    [
+     "enamorarse de",
+     "to fall in love with",
+     "Se enamoró de Ana."
+    ],
+    [
+     "acordarse de",
+     "to remember",
+     "Me acuerdo de ti."
+    ],
+    [
+     "preocuparse por",
+     "to worry about",
+     "Me preocupo por mis padres."
+    ],
+    [
+     "casarse con",
+     "to marry (no preposition in English)",
+     "Se casó con un médico."
+    ],
+    [
+     "confiar en",
+     "to trust (no preposition in English)",
+     "Confío en ti."
+    ],
+    [
+     "depender de",
+     "to depend on",
+     "Depende del tiempo."
+    ],
+    [
+     "reírse de",
+     "to laugh at",
+     "Se ríen de mí."
+    ],
+    [
+     "tener ganas de",
+     "to feel like",
+     "Tengo ganas de salir."
+    ]
+   ]
+  },
+  "a2_09_comparisons_prepositions#26": {
+   "type": "table",
+   "style": "plain",
+   "widths": [
+    4.6,
+    4.6,
+    7.8
+   ],
+   "head": [
+    "No preposition",
+    "English",
+    "Example"
+   ],
+   "rows": [
+    [
+     "esperar",
+     "to wait for",
+     "Espero el autobús."
+    ],
+    [
+     "buscar",
+     "to look for",
+     "Busco mis llaves."
+    ],
+    [
+     "mirar",
+     "to look at",
+     "Miro la tele."
+    ],
+    [
+     "escuchar",
+     "to listen to",
+     "Escucho música."
+    ],
+    [
+     "pedir",
+     "to ask for",
+     "Pido un café."
+    ]
+   ]
+  }
+ }
+}

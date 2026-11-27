@@ -179,8 +179,8 @@ main.narrow { max-width: 760px; }
 .callout .callout-title { font-weight: 600; font-family: var(--sans); color: var(--accent-dark); }
 .callout.warn { border-color: #B4321F; background: var(--wrong-bg); }
 .callout.warn .callout-title { color: var(--wrong); }
-.callout.spain, .callout.dutch, .callout.note { border-color: #B7791F; background: var(--near-bg); }
-.callout.spain .callout-title, .callout.dutch .callout-title, .callout.note .callout-title { color: var(--near); }
+.callout.spain, .callout.dutch, .callout.note, .callout.compare { border-color: #B7791F; background: var(--near-bg); }
+.callout.spain .callout-title, .callout.dutch .callout-title, .callout.note .callout-title, .callout.compare .callout-title { color: var(--near); }
 .translations li { padding: 8px 0; border-bottom: 1px solid var(--line-faint); }
 /* The thin bar left of the text: how far down the page you are. It stays on the screen while you
    scroll (sticky), and is quiet on purpose: a light track with a soft blue fill. */

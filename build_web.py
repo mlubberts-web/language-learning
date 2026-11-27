@@ -70,6 +70,61 @@ def chapter_words(value, lang):
     return value
 
 
+def compare_boxes(course_id):
+    """What replaces comparisons with another language than the learner's own, on the website
+    (courses/<course>/compare_boxes.json, PLAN 9.10): {"boxes", "texts", "blocks"}, each keyed by
+    "<content file without .json>#<block number>". The content files themselves are not changed."""
+    path = course.folder(course_id) / "compare_boxes.json"
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    changes = {}
+    for kind in ("box", "texts", "block"):
+        for key, change in data.get(kind + ("es" if kind == "box" else "s" if kind == "block" else ""), {}).items():
+            changes.setdefault(key, []).append((kind, change))
+    return changes
+
+
+def _replace_text(value, old, new, found):
+    if isinstance(value, str):
+        if old in value:
+            found.append(old)
+            return value.replace(old, new)
+        return value
+    if isinstance(value, list):
+        return [_replace_text(v, old, new, found) for v in value]
+    if isinstance(value, dict):
+        return {k: _replace_text(v, old, new, found) for k, v in value.items()}
+    return value
+
+
+def put_boxes(document, stem, changes, used):
+    """The document with those changes made (a copy: the content file is not changed)."""
+    blocks = list(document["blocks"])
+    for key, todo in changes.items():
+        name, number = key.rsplit("#", 1)
+        if name != stem:
+            continue
+        number = int(number)
+        for kind, change in todo:
+            if kind == "box":
+                if blocks[number].get("type") != "callout":
+                    sys.exit(f"compare_boxes: {key} is not a box")
+                blocks[number] = {"type": "callout", "kind": "compare", **change}
+            elif kind == "block":
+                if blocks[number].get("type") != change.get("type"):
+                    sys.exit(f"compare_boxes: {key} is a {blocks[number].get('type')}, not a {change.get('type')}")
+                blocks[number] = change
+            else:
+                for old, new in change:
+                    found = []
+                    blocks[number] = _replace_text(blocks[number], old, new, found)
+                    if not found:
+                        sys.exit(f"compare_boxes: '{old}' not found in {key}")
+        used.add(key)
+    return {**document, "blocks": blocks}
+
+
 def compact(item):
     """A question without its empty parts ("" or [] or None): the browser fills those in again.
     That makes the files about a third smaller."""
@@ -116,12 +171,15 @@ def build_course(course_id):
     lang = course.info(course_id)["explained_in"]
     count = 0
     unit_items = {}
+    boxes, used_boxes = compare_boxes(course_id), set()
     for unit in catalog:
         document = json.loads((folder / "content" / unit["content"]).read_text(encoding="utf-8"))
-        items = build_items(unit["id"], document, course_id)
+        # The comparison boxes and texts for this course's learners (compare_boxes.json), also in the exercises
+        shown = put_boxes(document, Path(unit["content"]).stem, boxes, used_boxes)
+        items = build_items(unit["id"], shown, course_id)
         count += len(items)
         unit_items[unit["id"]] = items  # written below, after the extra answers are added
-        write(out / "units" / f"{unit['id']}.json", chapter_words(document, lang))
+        write(out / "units" / f"{unit['id']}.json", chapter_words(shown, lang))
         # The number of pages in the web reader: the parts between the "pagebreak" blocks
         parts, size = 0, 0
         for block in document["blocks"] + [{"type": "pagebreak"}]:
@@ -130,6 +188,8 @@ def build_course(course_id):
             else:
                 size += 1
         unit["web_pages"] = parts
+    if set(boxes) - used_boxes:
+        sys.exit(f"{course_id}: compare_boxes.json names blocks that don't exist: {sorted(set(boxes) - used_boxes)}")
     # The number of pages of each PDF: the study plan estimates reading time from it
     import pymupdf
     for unit in catalog:

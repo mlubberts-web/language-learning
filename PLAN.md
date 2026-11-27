@@ -229,7 +229,7 @@ Agreed with Menno on 2026-11-26. In this order:
 - [x] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
       out, in two modes, "tense given" and "find the tense from the context" (every tense that fits
       is right). A large checked bank of sentences, drawn at random, with a tense filter.
-- [ ] 9.10 The comparison boxes (now the yellow Dutch boxes) always compare the language you learn
+- [x] 9.10 The comparison boxes (now the yellow Dutch boxes) always compare the language you learn
       with your own language, written in your own language. New boxes for the courses that don't
       have them in the right language; new files.
 - [ ] 9.11 (Built 2026-11-27; 🙋 Menno runs supabase/exams.sql and uploads DeleExamsForSite on the admin page, see WEBSITE.md.) Mock exams: the official model exams on the site, visible only to accounts marked for it
@@ -344,3 +344,7 @@ Short notes per session: what was done, anything left open.
   "exams" (supabase/exams.sql), upload button on the admin page, exam room with timer, pause,
   answer sheet marked with the official key, transcript instead of audio, writing and speaking parts.
   Finishing all parts of a level counts as that level's official mock exam in the plan.
+- 2026-11-27: 9.10 done: in Spanish for English speakers, the 43 Dutch comparison boxes are boxes for
+  English speakers (courses/es_from_en/compare_boxes.json, put in place by build_web.py, also in the
+  exercises); Dutch columns and remarks in the text are English too. The other courses already
+  compared with the learner's own language. The downloadable PDFs still have the old boxes.
