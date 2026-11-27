@@ -114,7 +114,8 @@ const PRIVACY = [
   [mark("Where it is kept and who can see it"), [
     mark("The site is served by Cloudflare. Your account and results are kept by Supabase, on servers in Frankfurt, Germany, in the European Union. Each person can only read their own results."),
     mark("The person who runs the site can see the email addresses and names of the accounts, and could look at the data, but only does so to help you or to keep the site working."),
-    mark("Nothing is sold or shared, and there are no ads and no tracking cookies. The site only keeps what it needs to keep you logged in. Listening uses the voices of your own browser.")]],
+    mark("Nothing is sold or shared, and there are no ads and no tracking cookies. The site only keeps what it needs to keep you logged in. Listening uses the voices of your own browser."),
+    mark("When you ask the AI helper next to the theory a question, your question and the chapter you are reading are sent to Anthropic (the maker of Claude) to write the answer. Your name and email address are not sent. The site counts how many questions you ask per day, to keep the helper within its limit of 50.")]],
   [mark("Your data and deleting it"), [
     mark("On your account page you can delete your account. That removes your account and all your results at once, and can't be undone."),
     mark("You can also ask for a copy of your data, or for it to be corrected or deleted, by email to the person who gave you your invite code.")]],

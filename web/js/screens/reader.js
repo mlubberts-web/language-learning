@@ -9,6 +9,7 @@ import { t } from "../text.js";
 import { h, icon, bar } from "../ui.js";
 import { state, saveProgress, saveLog, unitById, setPlace } from "../state.js";
 import { LEVEL_NAMES } from "./home.js";
+import { helperPanel } from "./helper.js";
 
 // ---------- text with <b>, <i> and <br/> ----------
 // Content texts may use <b>bold</b>, <i>italic</i> and <br/>. Only those become formatting;
@@ -258,6 +259,7 @@ export async function readerScreen(part, unitId, partText) {
     update();
   };
 
+  const helper = helperPanel(unit); // the AI helper beside the text (helper.js)
   document.title = `${unit.title} · [SITE NAME]`;
   return h("div", { class: "stack" },
     h("nav", { class: "breadcrumb", "aria-label": t("You are here") },
@@ -276,6 +278,8 @@ export async function readerScreen(part, unitId, partText) {
           h("a", { class: "button primary", href: `${base}/unit/${unit.id}` }, t("Practise this chapter")),
           doneButton,
           unit.file && h("a", { class: "button", href: `data/${state.course}/pdf/${unit.file}`, download: unit.file }, t("Download as PDF"))),
+        helper.panel,
         contents,
-        h("p", { class: "muted" }, t("Your place is saved, so you can stop at any time.")))));
+        h("p", { class: "muted" }, t("Your place is saved, so you can stop at any time.")))),
+    helper.opener);
 }

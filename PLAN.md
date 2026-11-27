@@ -236,10 +236,10 @@ Agreed with Menno on 2026-11-26. In this order:
       (Menno and his mother; private, not in the repo, in a private Supabase storage bucket). On
       the site: a timer that can be paused, a separate calm "exam" look, and a PDF download. If
       the site ever goes public, this is replaced by own exams in the same format (8.12).
-- [ ] 9.12 AI helper next to the theory: answers questions about the page you are on. Through the
+- [ ] 9.12 (Built 2026-11-26 with design A; 🙋 Menno runs supabase/ai_helper.sql and adds the key, see WEBSITE.md.) AI helper next to the theory: answers questions about the page you are on. Through the
       Claude API (billed apart from a Claude.ai subscription), the key as a Cloudflare secret, a
       small server part, a daily limit per person. 🙋 Design proposal first, Menno picks.
-- [ ] 9.13 Learning your own language (option a): courses with the explanations in the language
+- [ ] 9.13 (Later, Menno 2026-11-26: left out for now.) Learning your own language (option a): courses with the explanations in the language
       itself, up to final-exam level (VWO 6 for Dutch, and the same level for English and Spanish).
 
 ## Log
@@ -336,3 +336,6 @@ Short notes per session: what was done, anything left open.
   en 154, nl 145) on top of the 839 verbs-in-context sentences: 750 Spanish, 347 English, 230 Dutch
   per course. Two ways (tense given / find the tense), tense filter, 20 per session, "New sentences".
   The bank can keep growing: add rows to verb_bank/<language>.json.
+- 2026-11-26: 9.12 built (design A): worker/index.js at /api/ask, Claude Haiku 5.5, 50 a day counted
+  in Supabase (supabase/ai_helper.sql), panel beside the theory, a sheet on phones. Waits for Menno:
+  the SQL and the ANTHROPIC_API_KEY secret (WEBSITE.md). 9.13 left out for now.

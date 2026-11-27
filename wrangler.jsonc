@@ -1,10 +1,21 @@
-// Settings for Cloudflare: publish the folder web/ as the website.
+// Settings for Cloudflare: publish the folder web/ as the website, with a small server part.
 // Cloudflare first runs the build command (build_web.py, which makes web/data from the courses),
-// then "npx wrangler deploy", which reads this file and uploads web/.
+// then "npx wrangler deploy", which reads this file and uploads web/ and worker/index.js.
+// Addresses under /api/ go to worker/index.js (the AI helper); everything else is a file in web/.
+// The secret ANTHROPIC_API_KEY is not here: it is set in the Cloudflare dashboard
+// (the Worker > Settings > Variables and Secrets).
 {
   "name": "language-learning",
   "compatibility_date": "2025-09-01",
+  "main": "./worker/index.js",
   "assets": {
-    "directory": "./web"
+    "directory": "./web",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    // Public, like in web/js/config.js: the database address and its publishable key
+    "SUPABASE_URL": "https://wcnuszbiuofjqcgnehxo.supabase.co",
+    "SUPABASE_KEY": "sb_publishable_SpVcG0ajXj3LjpiZyDo3Hw_oYTMlnca"
   }
 }

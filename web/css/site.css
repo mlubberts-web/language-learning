@@ -269,3 +269,33 @@ main.narrow { max-width: 760px; }
 .tense-table td { vertical-align: middle; }
 .tense-table .tense-count { width: 34%; }
 .tense-table .switch input { flex: none; }
+
+/* The AI helper beside the theory (screens/helper.js) */
+.helper { padding: 0; gap: 0; overflow: hidden; }
+.helper-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 16px 20px; border-bottom: 1px solid var(--line-faint); }
+.helper-close { display: none; width: 44px; height: 44px; border: none; background: none; font-size: 26px; line-height: 1; color: var(--ink); cursor: pointer; }
+.helper-messages { display: flex; flex-direction: column; gap: 12px; padding: 16px 20px; max-height: 42vh; min-height: 120px; overflow-y: auto; font-size: 15px; line-height: 1.55; }
+.helper-question { align-self: flex-end; max-width: 88%; background: var(--accent); color: #FFFFFF; padding: 9px 13px; border-radius: 12px 12px 2px 12px; white-space: pre-wrap; }
+.helper-answer { max-width: 94%; background: var(--background); padding: 10px 13px; border-radius: 12px 12px 12px 2px; }
+.helper-answer.waiting { color: var(--muted); }
+.helper-answer.problem { background: var(--wrong-bg); color: var(--wrong); }
+.helper-text p { margin: 0; }
+.helper-text p + p, .helper-text ul, .helper-text p + ul, .helper-text ul + p { margin-top: 8px; }
+.helper-text ul { margin-bottom: 0; padding-left: 18px; }
+.helper-empty { color: var(--muted); display: flex; flex-direction: column; gap: 10px; }
+.helper-empty p { margin: 0; }
+.chip-button { font: inherit; font-size: 13px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.chip-button:hover:not(:disabled) { border-color: var(--accent); }
+.helper-form { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px; border-top: 1px solid var(--line-faint); }
+.helper-form input { flex: 1; min-width: 0; height: 44px; font: inherit; font-size: 15px; border: 1px solid var(--line); border-radius: 8px; padding: 0 12px; }
+.helper-opener { display: none; }
+@media (max-width: 720px) {
+  /* A sheet from the bottom, opened by the button above the menu */
+  .helper { position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; height: 78vh; border-radius: 16px 16px 0 0; display: flex; flex-direction: column;
+            box-shadow: 0 -8px 30px rgba(22, 33, 58, .18); transform: translateY(105%); transition: transform .2s ease; }
+  .helper.open { transform: none; }
+  .helper-messages { flex: 1; max-height: none; }
+  .helper-close { display: block; }
+  .helper-opener { display: inline-flex; position: fixed; right: 16px; bottom: calc(84px + env(safe-area-inset-bottom)); z-index: 20; box-shadow: 0 4px 14px rgba(22, 33, 58, .25); }
+}
+.reader-side > * { flex-shrink: 0; }

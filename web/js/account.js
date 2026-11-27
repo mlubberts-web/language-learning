@@ -136,6 +136,29 @@ export async function flush() {
 // When the tab is closed or hidden (a phone locking its screen), save straight away.
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flush(); });
 
+// ---------- the AI helper next to the theory (worker/index.js) ----------
+// Sends a question with your login; the server checks access and the daily limit.
+// Returns {answer, used, limit} or {error: "NOT_LOGGED_IN" | "NO_ACCESS" | "DAILY_LIMIT" | "BUSY" | ...}.
+async function helperCall(path, options = {}) {
+  const { data } = await supabase.auth.getSession();
+  const token = data.session?.access_token;
+  if (!token) return { error: "NOT_LOGGED_IN" };
+  try {
+    const response = await fetch(path, { ...options, headers: { ...(options.headers || {}), authorization: `Bearer ${token}` } });
+    return await response.json();
+  } catch (problem) {
+    console.error(problem);
+    return { error: "OFFLINE" }; // no connection
+  }
+}
+
+export const askHelper = (course, unit, question, history) => helperCall("/api/ask", {
+  method: "POST", headers: { "content-type": "application/json" },
+  body: JSON.stringify({ course, unit, question, history }),
+});
+
+export const helperUsage = () => helperCall("/api/usage");
+
 // ---------- the admin page ----------
 export const admin = {
   users: () => supabase.rpc("admin_users"),
