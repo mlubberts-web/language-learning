@@ -190,7 +190,7 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
 - [x] 8.7 Accounts: email sign-up with invite code, login, forgot password, "has access", own
       data only (row-level security), delete own account, admin page for users and access.
 - [x] 8.8 Move existing results from the `saves` table to the new tables.
-- [ ] 8.9 Tests on phone and desktop sizes (Playwright); a trial address for a few users.
+- [x] 8.9 Tests on phone and desktop sizes (Playwright): test_site.py, in run_tests.py. (The trial address is the workers.dev address.)
 - [ ] 8.10 🙋 Domain, email service for login emails, go live; the Streamlit app is retired.
 - [ ] 8.12 Exam-format mock exams: follow the structure of the official model exams (tasks, number
       of questions, timing, points) with the site's own texts and questions, and link to the
@@ -354,3 +354,5 @@ Short notes per session: what was done, anything left open.
   (Dutch). The I-was-right button still remembers anything else.
 - 2026-11-27: verb bank grown: Spanish 930, English 437, Dutch 294 sentences per course (verb_bank/<lang>_2.json;
   the build reads every verb_bank/<lang>*.json).
+- 2026-11-27: 8.9 done: test_site.py clicks through the site in Edge on laptop and phone sizes (theory,
+  review, mastering, course choice, verbs, AI helper with fakes, exam room when web/exams-local exists).
