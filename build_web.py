@@ -24,6 +24,7 @@ from pathlib import Path
 import course
 import languages
 from practice_items import build_items, build_theme_items, modes
+from answer_variants import widen, extra_answers
 
 HERE = Path(__file__).parent
 OUT = HERE / "web" / "data"
@@ -114,11 +115,12 @@ def build_course(course_id):
     catalog = json.loads((folder / "catalog.json").read_text(encoding="utf-8"))
     lang = course.info(course_id)["explained_in"]
     count = 0
+    unit_items = {}
     for unit in catalog:
         document = json.loads((folder / "content" / unit["content"]).read_text(encoding="utf-8"))
         items = build_items(unit["id"], document, course_id)
         count += len(items)
-        write(out / "items" / f"{unit['id']}.json", chapter_words([compact(item) for item in items], lang))
+        unit_items[unit["id"]] = items  # written below, after the extra answers are added
         write(out / "units" / f"{unit['id']}.json", chapter_words(document, lang))
         # The number of pages in the web reader: the parts between the "pagebreak" blocks
         parts, size = 0, 0
@@ -145,21 +147,29 @@ def build_course(course_id):
 
     write(out / "categories.json", categories(course_id, catalog))
 
-    themes = {}
+    themes, theme_items = {}, {}
     for path in sorted((folder / "themes").glob("*.json")):  # path.stem: the name without .json
         theme = json.loads(path.read_text(encoding="utf-8"))
-        items = build_theme_items(path.stem, theme, course_id)
-        count += len(items)
+        theme_items[path.stem] = build_theme_items(path.stem, theme, course_id)
+        count += len(theme_items[path.stem])
         themes[path.stem] = {"title": theme["title"], "kind": theme.get("kind", "topic"),
-                             "lists": [{"name": part["name"], "level": part["level"]} for part in theme["lists"]],
-                             "items": chapter_words([compact(item) for item in items], lang)}
+                             "lists": [{"name": part["name"], "level": part["level"]} for part in theme["lists"]]}
+
+    # Every translation the course gives for a word counts everywhere (answer_variants.py)
+    learn = course.info(course_id)["learn"]
+    every = [item for items in list(unit_items.values()) + list(theme_items.values()) for item in items]
+    widened = widen(every, tuple(languages.profile(learn)["articles"]), lang, extra_answers(course_id))
+    for unit_id, items in unit_items.items():
+        write(out / "items" / f"{unit_id}.json", chapter_words([compact(item) for item in items], lang))
+    for name, items in theme_items.items():
+        themes[name]["items"] = chapter_words([compact(item) for item in items], lang)
     write(out / "themes.json", themes)
 
     info = course.info(course_id)
     entry = {**info, "modes": [{"id": mode, "title": title, "text": chapter_words(text, lang)}
                                for mode, title, text in modes(course_id)],
              "levels": sorted({unit["level"] for unit in catalog}), "units": len(catalog), "questions": count}
-    print(f"{course_id}: {len(catalog)} units, {count} questions")
+    print(f"{course_id}: {len(catalog)} units, {count} questions, {widened} with more answers")
     return entry
 
 

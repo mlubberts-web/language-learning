@@ -218,9 +218,13 @@ Agreed with Menno on 2026-11-26. In this order:
       "Skip what I know" skips only first-try-right questions. Word lists the same, shown per part:
       A→B, B→A and el/la (or de/het, the article part of each language). Old results don't have to
       be converted (Menno's own status may start over).
-- [ ] 9.7 Extra correct answers: "to" before an English verb and "the" are optional everywhere,
-      unless the exercise is about exactly that; then a check of all courses for real synonyms
-      ("escuchar" = "to listen (to)"). In new files, the content JSONs stay as they are.
+- [x] 9.7 Extra correct answers for the word questions: every translation the course gives for a
+      word anywhere counts everywhere, both directions (answer_variants.py, 3,800 questions got
+      more answers; test_answers.py). "to" and "the" were already optional in the word questions.
+      Answers by hand can be added in extra_answers/<course>.json.
+- [ ] 9.7b The same check for the sentence exercises (translate, fill): where more than one wording
+      is right but only one is accepted. Until then the "I was actually right" button remembers
+      your answer for good.
 - [ ] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
 - [ ] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
       out, in two modes, "tense given" and "find the tense from the context" (every tense that fits
@@ -325,3 +329,4 @@ Short notes per session: what was done, anything left open.
 - 2026-11-26: 9.6 done: mastered = right on the first try last time (marking as done no longer
   counts); "right in the end" is kept per question (end_ok); a list is mastered above 95% and an
   exercise is finished when mastered or marked done; word lists show the counts per part.
+- 2026-11-26: 9.7 done for the word questions (answer_variants.py); 9.7b (sentences) still open.
