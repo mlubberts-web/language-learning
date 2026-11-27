@@ -199,6 +199,45 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
       the Cambridge and Staatsexamen NT2/CNaVT sample papers do the same job.
 - [ ] 8.11 🙋 Later, back in the Netherlands: KvK, BTW, payments switch on "has access".
 
+## Phase 9: Menno's wishes after testing the site
+
+Agreed with Menno on 2026-11-26. In this order:
+
+- [ ] 9.1 Words: a unit is a "Chapter" (Hoofdstuk / Capítulo), its reading part is "Theory";
+      nowhere "PDF" any more. A location reads "A1 · Chapter 8".
+- [ ] 9.2 The theory of a chapter on one scrollable page, with a thin, quiet progress bar on the
+      LEFT side that shows how far down you are. Reading progress comes from how far you scrolled.
+- [ ] 9.3 Self-check solutions on the same page, under the exercises, after a line "Solutions below".
+- [ ] 9.4 The continue button goes to where you left off: the spot in the theory or the exercise list.
+- [ ] 9.5 Daily review: 20 questions a day, picked from what is most due; fresh every day, nothing
+      piles up.
+- [ ] 9.6 Mastering: a question is mastered when it is right on the first try of a round (a later
+      round counts too); a wrong first try in a later round takes it away again. A list is
+      mastered at more than 95 % mastered questions. "Exercises finished" = mastered lists + lists
+      marked done by hand. The exercise page shows "right first try" and "right in the end".
+      "Skip what I know" skips only first-try-right questions. Word lists the same, shown per part:
+      A→B, B→A and el/la (or de/het, the article part of each language). Old results don't have to
+      be converted (Menno's own status may start over).
+- [ ] 9.7 Extra correct answers: "to" before an English verb and "the" are optional everywhere,
+      unless the exercise is about exactly that; then a check of all courses for real synonyms
+      ("escuchar" = "to listen (to)"). In new files, the content JSONs stay as they are.
+- [ ] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
+- [ ] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
+      out, in two modes, "tense given" and "find the tense from the context" (every tense that fits
+      is right). A large checked bank of sentences, drawn at random, with a tense filter.
+- [ ] 9.10 The comparison boxes (now the yellow Dutch boxes) always compare the language you learn
+      with your own language, written in your own language. New boxes for the courses that don't
+      have them in the right language; new files.
+- [ ] 9.11 Mock exams: the official model exams on the site, visible only to accounts marked for it
+      (Menno and his mother; private, not in the repo, in a private Supabase storage bucket). On
+      the site: a timer that can be paused, a separate calm "exam" look, and a PDF download. If
+      the site ever goes public, this is replaced by own exams in the same format (8.12).
+- [ ] 9.12 AI helper next to the theory: answers questions about the page you are on. Through the
+      Claude API (billed apart from a Claude.ai subscription), the key as a Cloudflare secret, a
+      small server part, a daily limit per person. 🙋 Design proposal first, Menno picks.
+- [ ] 9.13 Learning your own language (option a): courses with the explanations in the language
+      itself, up to final-exam level (VWO 6 for Dutch, and the same level for English and Spanish).
+
 ## Log
 
 Short notes per session: what was done, anything left open.
