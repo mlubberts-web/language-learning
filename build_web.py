@@ -245,8 +245,11 @@ def verb_practice(course_id):
     tenses = json.loads((HERE / "verb_bank" / "tenses.json").read_text(encoding="utf-8"))
     by_chapter = tenses["from_chapters"].get(learn, {})
     sentences, seen = [], set()
-    bank = HERE / "verb_bank" / f"{learn}.json"
-    if bank.exists():
+    # verb_bank/es.json, es_2.json, es_3.json ...: the bank of a language may be split over files
+    banks = [HERE / "verb_bank" / f"{learn}.json"] + sorted((HERE / "verb_bank").glob(f"{learn}_*.json"))
+    for bank in banks:
+        if not bank.exists():
+            continue
         for tense, rows in json.loads(bank.read_text(encoding="utf-8")).items():
             for row in rows:
                 if row[0] not in seen:

@@ -1,0 +1,114 @@
+{
+  "pres_simple": [
+    ["My grandmother [lives] on her own.", "live"],
+    ["The museum [closes] at six.", "close"],
+    ["We [don't eat] meat on Fridays.", "not eat"],
+    ["She [teaches] maths at a secondary school.", "teach"],
+    ["The sun [rises] in the east.", "rise"],
+    ["My brother [plays] the guitar in a band.", "play"],
+    ["I [hate] getting up early.", "hate"],
+    ["The bus [stops] right outside my house.", "stop"],
+    ["He [never drinks] alcohol.", "drink"],
+    ["Our dog [barks] at everyone.", "bark"],
+    ["This shop [sells] second-hand books.", "sell"],
+    ["[Does your father work] at the weekend?", "work"]
+  ],
+  "pres_cont": [
+    ["Turn the music down, I [am trying] to sleep!", "try"],
+    ["Where's Tom? He [is cooking] dinner.", "cook"],
+    ["Look, the bus [is coming].", "come"],
+    ["My parents [are visiting] us next weekend.", "visit"],
+    ["Why [are you wearing] a coat? It's hot!", "wear"],
+    ["The population of the city [is growing] fast.", "grow"],
+    ["Sorry, I [am not listening]. What did you say?", "not listen"],
+    ["She [is studying] for her exams this week.", "study"],
+    ["We [are having] lunch, can I call you later?", "have"],
+    ["It [is getting] dark already.", "get"]
+  ],
+  "past_simple": [
+    ["We [had] a wonderful holiday in Wales.", "have"],
+    ["I [forgot] my umbrella on the train.", "forget"],
+    ["She [won] the race last Saturday.", "win"],
+    ["The children [slept] in the car.", "sleep"],
+    ["My grandparents [got] married in 1960.", "get"],
+    ["[Did you enjoy] the concert?", "enjoy"],
+    ["The plane [landed] ten minutes early.", "land"],
+    ["I [taught] English in Japan for two years.", "teach"],
+    ["We [didn't see] anything because of the fog.", "not see"],
+    ["He [spent] all his money on clothes.", "spend"],
+    ["She [wrote] me a long letter.", "write"],
+    ["The thief [ran] away when he saw the police.", "run"]
+  ],
+  "past_cont": [
+    ["When I arrived, they [were having] dinner.", "have"],
+    ["What [were you doing] when the lights went out?", "do"],
+    ["It [was snowing] when we woke up.", "snow"],
+    ["She [was waiting] for me at the station.", "wait"],
+    ["I [wasn't feeling] well, so I left early.", "not feel"],
+    ["The kids [were making] a lot of noise.", "make"],
+    ["While we [were walking] in the park, we met an old friend.", "walk"],
+    ["He [was talking] to his boss when I came in.", "talk"]
+  ],
+  "pres_perf": [
+    ["I [have just finished] my homework.", "finish"],
+    ["She [has been] to Paris three times.", "be"],
+    ["We [haven't seen] him for ages.", "not see"],
+    ["[Have you ever ridden] a horse?", "ride"],
+    ["They [have already left].", "leave"],
+    ["My phone [has stopped] working.", "stop"],
+    ["He [has lived] in London all his life.", "live"],
+    ["I [have lost] my keys again!", "lose"],
+    ["Prices [have risen] a lot this year.", "rise"],
+    ["[Has the post arrived] yet?", "arrive"]
+  ],
+  "will": [
+    ["I think she [will like] the present.", "like"],
+    ["Don't worry, I [will be] careful.", "be"],
+    ["It's dark. I [will turn] the light on.", "turn"],
+    ["I'm sure they [will win] the match.", "win"],
+    ["You look tired. I [will make] you a cup of tea.", "make"],
+    ["Robots [will do] most of our jobs one day.", "do"],
+    ["I [won't forget] your birthday this year.", "not forget"],
+    ["The meeting [will start] at ten.", "start"]
+  ],
+  "going_to": [
+    ["I [am going to learn] to drive this summer.", "learn"],
+    ["Look at that car! It [is going to crash].", "crash"],
+    ["We [are going to have] a party on Saturday.", "have"],
+    ["She [isn't going to apply] for the job.", "not apply"],
+    ["[Are you going to watch] the match tonight?", "watch"],
+    ["They [are going to move] to Bristol in May.", "move"]
+  ],
+  "pres_perf_cont": [
+    ["She [has been learning] Spanish for three years.", "learn"],
+    ["We [have been walking] for hours.", "walk"],
+    ["I'm so tired. I [have been working] all day.", "work"],
+    ["How long [have you been waiting]?", "wait"],
+    ["The kids [have been playing] outside since lunch.", "play"],
+    ["He [has been feeling] ill all week.", "feel"]
+  ],
+  "past_perf": [
+    ["When I got home, my parents [had gone] to bed.", "go"],
+    ["She told me she [had lost] her passport.", "lose"],
+    ["I [had never been] abroad before 2010.", "be"],
+    ["By the time we arrived, the shop [had closed].", "close"],
+    ["He realised he [had made] a mistake.", "make"],
+    ["We [had already eaten] when they came.", "eat"]
+  ],
+  "cond": [
+    ["If I lived in the country, I [would have] a dog.", "have"],
+    ["What [would you say] to him?", "say"],
+    ["I [would never do] that.", "do"],
+    ["She said she [would help] us.", "help"],
+    ["If we had a car, we [would visit] you more often.", "visit"],
+    ["It [would be] great to see you.", "be"]
+  ],
+  "cond_perf": [
+    ["If you had told me, I [would have helped].", "help"],
+    ["We [would have arrived] on time without the traffic.", "arrive"],
+    ["She [wouldn't have known] what to do.", "not know"],
+    ["If it had been sunny, we [would have gone] to the beach.", "go"],
+    ["I [would have called] you, but I lost my phone.", "call"],
+    ["They [would have enjoyed] the film.", "enjoy"]
+  ]
+}

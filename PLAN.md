@@ -352,3 +352,5 @@ Short notes per session: what was done, anything left open.
   (extra_answers/translate_es.json 226 sentences, translate_en.json ~180, translate_nl.json ~140), plus
   rules: ellos/ellas, nosotros/nosotras, vosotros/vosotras (Spanish) and je/jij, ze/zij, we/wij
   (Dutch). The I-was-right button still remembers anything else.
+- 2026-11-27: verb bank grown: Spanish 930, English 437, Dutch 294 sentences per course (verb_bank/<lang>_2.json;
+  the build reads every verb_bank/<lang>*.json).

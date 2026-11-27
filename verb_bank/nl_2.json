@@ -1,0 +1,81 @@
+{
+  "pres": [
+    ["Mijn zus [studeert] rechten in Leiden.", "studeren"],
+    ["De bakker [opent] om zeven uur.", "openen"],
+    ["[Kom] jij morgen ook?", "komen"],
+    ["Wij [nemen] meestal de trein.", "nemen"],
+    ["Het museum [is] op maandag gesloten.", "zijn"],
+    ["Ik [weet] het antwoord niet.", "weten"],
+    ["Hij [rijdt] elke dag naar zijn werk.", "rijden"],
+    ["Jullie [spreken] goed Nederlands.", "spreken"],
+    ["Mijn ouders [kijken] elke avond het journaal.", "kijken"],
+    ["[Zie] je die vogel daar?", "zien"],
+    ["Ik [drink] geen koffie na acht uur.", "drinken"],
+    ["Zij [schrijft] een boek over haar reis.", "schrijven"],
+    ["Wij [wachten] op de bus.", "wachten"],
+    ["Het [sneeuwt] al de hele ochtend.", "sneeuwen"]
+  ],
+  "imper": [
+    ["[Kijk] uit, de stoep is glad!", "kijken"],
+    ["[Wacht] even, ik kom eraan.", "wachten"],
+    ["[Schrijf] je naam hier.", "schrijven"],
+    ["[Zeg] het maar.", "zeggen"],
+    ["[Geef] me het zout eens aan.", "geven"],
+    ["[Ga] maar vast zitten.", "gaan"],
+    ["[Doe] de groeten aan je moeder.", "doen"],
+    ["[Lees] de vragen goed.", "lezen"]
+  ],
+  "perf": [
+    ["Wij hebben gisteren pizza [gegeten].", "eten"],
+    ["Heb jij je huiswerk al [gemaakt]?", "maken"],
+    ["Zij is vorig jaar [verhuisd].", "verhuizen"],
+    ["Ik heb de hele nacht slecht [geslapen].", "slapen"],
+    ["Ben je al eens in Brugge [geweest]?", "zijn"],
+    ["Hij heeft zijn been [gebroken].", "breken"],
+    ["We hebben een nieuwe auto [gekocht].", "kopen"],
+    ["De trein is net [vertrokken].", "vertrekken"],
+    ["Wie heeft dat [gezegd]?", "zeggen"],
+    ["Ik heb mijn sleutels [gevonden]!", "vinden"],
+    ["Ze zijn om negen uur [aangekomen].", "aankomen"],
+    ["Heb je de film [gezien]?", "zien"],
+    ["We hebben veel [gelachen].", "lachen"],
+    ["Ik ben mijn paraplu [vergeten].", "vergeten"]
+  ],
+  "imperf": [
+    ["Vroeger [fietste] ik elke dag naar school.", "fietsen"],
+    ["Toen ik klein was, [had] ik een hond.", "hebben"],
+    ["Het [regende] toen we vertrokken.", "regenen"],
+    ["Zij [lachte] om mijn grap.", "lachen"],
+    ["We [aten] elke zondag bij oma.", "eten"],
+    ["Hij [wist] niet wat hij moest zeggen.", "weten"],
+    ["De kinderen [speelden] in de tuin.", "spelen"],
+    ["Ik [dacht] dat je ziek was.", "denken"],
+    ["Mijn vader [rookte] vroeger veel.", "roken"],
+    ["Het huis [stond] aan het water.", "staan"],
+    ["We [liepen] samen naar huis.", "lopen"],
+    ["Ze [kocht] elke week bloemen.", "kopen"]
+  ],
+  "plusq": [
+    ["Ik had mijn huiswerk al [gemaakt].", "maken"],
+    ["Toen ik thuiskwam, was iedereen al [vertrokken].", "vertrekken"],
+    ["Hij had nog nooit sushi [gegeten].", "eten"],
+    ["We hadden de film al eens [gezien].", "zien"],
+    ["Ze vertelde dat ze haar baan [had verloren].", "verliezen"],
+    ["Nadat we [hadden afgewassen], gingen we tv kijken.", "afwassen"]
+  ],
+  "fut": [
+    ["Ik [zal] het nooit vergeten.", "zullen"],
+    ["Het zal morgen hard [waaien].", "waaien"],
+    ["We zullen het wel [zien].", "zien"],
+    ["Zij [zal] je morgen bellen.", "zullen"],
+    ["Hij [zal] wel moe zijn.", "zullen"]
+  ],
+  "cond": [
+    ["Ik [zou] graag een hond willen hebben.", "zullen"],
+    ["Als ik jou was, zou ik niet [gaan].", "gaan"],
+    ["Zou je me even willen [helpen]?", "helpen"],
+    ["We zouden graag langer [blijven].", "blijven"],
+    ["Wat [zou] jij doen?", "zullen"],
+    ["Hij [zou] om tien uur bellen.", "zullen"]
+  ]
+}
