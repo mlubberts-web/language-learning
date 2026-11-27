@@ -96,6 +96,7 @@ export async function render() {
                       words: wordsScreen, verbs: verbsScreen, exams: examsScreen, schedule: scheduleScreen, progress: progressScreen };
     const screen = screens[part] || comingScreen;
     main.className = part === "session" || (part === "exams" && rest[0] === "run") ? "narrow" : "";
+    document.body.classList.remove("exam-room"); // the exam room (official.js) sets it again
     const content = await screen(part, ...rest);
     main.replaceChildren(content);
     if (state.afterRender) { state.afterRender(); state.afterRender = null; } // e.g. put the cursor in the answer box

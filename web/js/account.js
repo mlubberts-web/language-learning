@@ -159,6 +159,53 @@ export const askHelper = (course, unit, question, history) => helperCall("/api/a
 
 export const helperUsage = () => helperCall("/api/usage");
 
+// ---------- the official model exams (private storage, supabase/exams.sql) ----------
+// The files made by exams/export_dele.py. Without an account (?offline, on your own computer) they
+// are read from web/exams-local/ instead, a copy that is never put online.
+const EXAMS = "exams";
+const LOCAL = "exams-local/";
+
+export async function examIndex() {
+  if (!account.user) {
+    const response = await fetch(`${LOCAL}index.json`).catch(() => null);
+    return response?.ok ? response.json() : null;
+  }
+  const { data, error } = await supabase.storage.from(EXAMS).download("index.json");
+  if (error) return null; // not uploaded yet, or no access
+  return JSON.parse(await data.text());
+}
+
+// Links to files, valid for three hours (long enough for the longest part)
+export async function examUrls(paths) {
+  if (!account.user) return paths.map((path) => LOCAL + path);
+  const { data, error } = await supabase.storage.from(EXAMS).createSignedUrls(paths, 3 * 3600);
+  if (error) throw error;
+  return data.map((entry) => entry.signedUrl);
+}
+
+export async function examDownloadUrl(path, fileName) {
+  if (!account.user) return LOCAL + path;
+  const { data, error } = await supabase.storage.from(EXAMS).createSignedUrl(path, 3600, { download: fileName });
+  if (error) throw error;
+  return data.signedUrl;
+}
+
+// For the admin: uploads the folder DeleExamsForSite (chosen with a folder picker). Each file keeps
+// its place inside the folder: "a1/p01.jpg", "index.json". onProgress(done, total, problems).
+export async function uploadExamFolder(files, onProgress) {
+  const list = [...files].filter((file) => !file.name.startsWith("."));
+  let done = 0;
+  const problems = [];
+  for (const file of list) {
+    const path = (file.webkitRelativePath || file.name).split("/").slice(1).join("/") || file.name;
+    const { error } = await supabase.storage.from(EXAMS).upload(path, file, { upsert: true, contentType: file.type || undefined });
+    if (error) problems.push(`${path}: ${error.message}`);
+    done += 1;
+    onProgress(done, list.length, problems);
+  }
+  return problems;
+}
+
 // ---------- the admin page ----------
 export const admin = {
   users: () => supabase.rpc("admin_users"),

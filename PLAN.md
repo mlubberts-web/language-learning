@@ -232,7 +232,7 @@ Agreed with Menno on 2026-11-26. In this order:
 - [ ] 9.10 The comparison boxes (now the yellow Dutch boxes) always compare the language you learn
       with your own language, written in your own language. New boxes for the courses that don't
       have them in the right language; new files.
-- [ ] 9.11 Mock exams: the official model exams on the site, visible only to accounts marked for it
+- [ ] 9.11 (Built 2026-11-27; 🙋 Menno runs supabase/exams.sql and uploads DeleExamsForSite on the admin page, see WEBSITE.md.) Mock exams: the official model exams on the site, visible only to accounts marked for it
       (Menno and his mother; private, not in the repo, in a private Supabase storage bucket). On
       the site: a timer that can be paused, a separate calm "exam" look, and a PDF download. If
       the site ever goes public, this is replaced by own exams in the same format (8.12).
@@ -339,3 +339,8 @@ Short notes per session: what was done, anything left open.
 - 2026-11-26: 9.12 built (design A): worker/index.js at /api/ask, Claude Haiku 5.5, 50 a day counted
   in Supabase (supabase/ai_helper.sql), panel beside the theory, a sheet on phones. Waits for Menno:
   the SQL and the ANTHROPIC_API_KEY secret (WEBSITE.md). 9.13 left out for now.
+- 2026-11-27: 9.11 built: exams/export_dele.py turns the six DELE PDFs into page pictures + index.json
+  (parts, times, answer keys read from the PDFs; C2 is an explanation without a key); private bucket
+  "exams" (supabase/exams.sql), upload button on the admin page, exam room with timer, pause,
+  answer sheet marked with the official key, transcript instead of audio, writing and speaking parts.
+  Finishing all parts of a level counts as that level's official mock exam in the plan.

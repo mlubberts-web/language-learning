@@ -19,3 +19,6 @@ __pycache__/
 # Work sheets of content_sheet.py (temporary)
 sheets/
 web/data/
+
+# The official exams, for testing on this computer only (never online: copyrighted)
+web/exams-local/

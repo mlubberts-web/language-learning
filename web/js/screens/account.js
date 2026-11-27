@@ -201,6 +201,25 @@ export async function noAccessScreen() {
 }
 
 // ---------- admin ----------
+// Uploading the official model exams: the folder that exams/export_dele.py made (WEBSITE.md)
+function examUploadCard() {
+  const status = h("p", { class: "muted", role: "status" });
+  const picker = h("input", { type: "file", multiple: true, webkitdirectory: true, onchange: async () => {
+    if (!picker.files.length) return;
+    picker.disabled = true;
+    const problems = await acc.uploadExamFolder(picker.files, (done, total, wrong) => {
+      status.textContent = t("{done} of {total} files uploaded", { done, total }) + (wrong.length ? ` · ${t("{count} failed", { count: wrong.length })}` : "");
+    });
+    picker.disabled = false;
+    status.textContent = problems.length ? `${t("Some files failed:")} ${problems.slice(0, 3).join("; ")}` : t("All files uploaded. The mock exams page shows them now.");
+  } });
+  return h("section", { class: "card" }, h("h2", {}, t("Official model exams")),
+    h("p", {}, t("Choose the folder DeleExamsForSite on your Desktop. All its files are uploaded into the private storage of the site; only accounts with access can open them.")),
+    h("label", { class: "button", style: "align-self: flex-start" }, t("Choose the folder"),
+      h("span", { style: "position: absolute; width: 1px; height: 1px; overflow: hidden" }, picker)),
+    status);
+}
+
 export async function adminScreen() {
   if (!acc.account.profile?.is_admin) { location.hash = "#/"; return h("div"); }
   const [users, codes] = await Promise.all([acc.admin.users(), acc.admin.codes()]);
@@ -221,6 +240,7 @@ export async function adminScreen() {
           h("td", {}, h("strong", {}, c.code)), h("td", {}, c.note || ""), h("td", {}, `${c.uses}${c.max_uses ? ` / ${c.max_uses}` : ""}`),
           h("td", {}, c.active ? t("yes") : t("no")),
           h("td", {}, h("button", { type: "button", class: "button small", onclick: () => saveCode(c.code, c.note, c.max_uses, !c.active) }, c.active ? t("Switch off") : t("Switch on"))))))))),
+    examUploadCard(),
     h("section", { class: "card" }, h("h2", {}, t("Accounts")), problem(users),
       h("div", { class: "table-box" }, h("table", {},
         h("thead", {}, h("tr", {}, [t("Email address"), t("Name"), t("Invite code"), t("Made"), t("Last login"), t("Access"), ""].map((x) => h("th", {}, x)))),

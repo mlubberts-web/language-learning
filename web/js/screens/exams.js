@@ -11,6 +11,7 @@ import { h, bar, icon, noEmoji } from "../ui.js";
 import { state, savePractice, saveLog, modeTitle } from "../state.js";
 import { typedQuestion } from "./session.js";
 import { LEVEL_NAMES } from "./home.js";
+import * as official from "./official.js";
 
 // Number of questions and minutes
 const LENGTHS = { "20 questions, 15 minutes": [20, 15], "40 questions, 30 minutes": [40, 30], "60 questions, 45 minutes": [60, 45] }; // t-list
@@ -62,7 +63,8 @@ function submit(mock, typed) {
 }
 
 // ---------- choosing ----------
-function setupScreen() {
+// officialCard: the official DELE model exams on the site (Spanish courses), or null
+function setupScreen(officialCard) {
   const levels = state.info.levels;
   chosen.level ??= levels[Math.max(0, levels.length - 2)];
   const segmented = (label, options, current, change, show = (x) => t(x)) =>
@@ -86,7 +88,7 @@ function setupScreen() {
         h("ul", { style: "margin: 0; padding-left: 20px" }, earlier.map((m) =>
           h("li", {}, `${m.date} · ${t(m.level)} · `, h("strong", {}, `${m.percent}%`), " ", t("({right} of {total})", m)))))),
     h("aside", { class: "side" },
-      h("section", { class: "card" },
+      officialCard || h("section", { class: "card" },
         h("h2", {}, t("Official model exams")),
         h("p", { class: "muted" }, t("The organisations behind the official exams publish free model exams. Do one when you finish a level.")),
         levels.some((level) => official[level])
@@ -169,9 +171,14 @@ function resultScreen() {
         h("button", { type: "button", class: "button small", onclick: () => iWasRight(mock, n) }, t("I was right"))))));
 }
 
-export async function examsScreen(part, step) {
+export async function examsScreen(part, step, level, partId, after) {
   document.title = `${t("Mock exam")} · [SITE NAME]`;
   if (step === "run") return runScreen();
   if (step === "result") return resultScreen();
-  return setupScreen();
+  if (step === "official") { // the official model exams (official.js)
+    if (!level) { location.hash = `#/${state.course}/exams`; return h("div"); }
+    if (!partId) return official.overviewScreen(level);
+    return after === "result" ? official.resultScreen(level, partId) : official.partScreen(level, partId);
+  }
+  return setupScreen(await official.officialCard());
 }

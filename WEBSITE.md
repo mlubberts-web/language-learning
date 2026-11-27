@@ -31,3 +31,19 @@ chapter as context. It needs one secret, set once:
    Type: Secret, name: `ANTHROPIC_API_KEY`, value: the key. Then Deploy.
 
 Without the secret the site works as usual; the helper then answers "Something went wrong".
+
+## The official DELE model exams (private)
+
+The exam room (Mock exams > Official model exams) shows the DELE model exams of the Instituto
+Cervantes. They are copyrighted, so they are never in this repository: they live in a private
+storage space in Supabase that only accounts with access can read.
+
+1. Run `supabase/exams.sql` once (SQL Editor > New query > paste > Run).
+2. Make the files: `.venv\Scripts\python.exe exams\export_dele.py C:\Users\mlubb\Desktop\DeleMockExams`.
+   This writes the folder `DeleExamsForSite` next to the PDFs (page pictures, the PDFs and
+   `index.json` with the parts, times and answer keys).
+3. On the website, as admin: Admin > Official model exams > Choose the folder > pick
+   `DeleExamsForSite`. All files are uploaded; the page counts them.
+
+For testing on this computer: copy `DeleExamsForSite` to `web/exams-local` (ignored by git) and open
+the site with `?offline`.

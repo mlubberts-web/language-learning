@@ -299,3 +299,51 @@ main.narrow { max-width: 760px; }
   .helper-opener { display: inline-flex; position: fixed; right: 16px; bottom: calc(84px + env(safe-area-inset-bottom)); z-index: 20; box-shadow: 0 4px 14px rgba(22, 33, 58, .25); }
 }
 .reader-side > * { flex-shrink: 0; }
+
+/* ---------- the exam room (screens/official.js) ---------- */
+/* A calm, separate look: no menu, a dark bar with the time, the pages and the answer sheet. */
+body.exam-room { background: #E9ECF1; }
+body.exam-room #header { display: none; }
+body.exam-room .main-nav { display: none; }
+.exam-room-page { display: flex; flex-direction: column; gap: 20px; }
+.exam-bar { position: sticky; top: 0; z-index: 15; background: var(--ink); color: #FFFFFF; border-radius: 0 0 10px 10px;
+            display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 20px; }
+.exam-title { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.exam-title span { font-size: 14px; color: #C9CFDC; }
+.exam-time { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.exam-time .small { color: #C9CFDC; }
+.exam-clock { font-variant-numeric: tabular-nums; font-size: 24px; font-weight: 600; min-width: 84px; text-align: right; }
+.exam-clock.over { color: #F2B8AE; font-size: 17px; }
+.exam-bar .button { background: transparent; color: #FFFFFF; border-color: rgba(255, 255, 255, .45); }
+.exam-bar .button.primary { background: #FFFFFF; color: var(--ink); border-color: #FFFFFF; }
+.exam-body { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; }
+.exam-reading { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+.exam-pages { display: flex; flex-direction: column; gap: 16px; }
+.exam-pages img { width: 100%; height: auto; background: #FFFFFF; border-radius: 4px; box-shadow: 0 2px 12px rgba(22, 33, 58, .10); }
+.exam-sheet { flex: 1 1 300px; position: sticky; top: 84px; max-height: calc(100vh - 100px); overflow-y: auto; gap: 14px; }
+.exam-task { display: flex; flex-direction: column; gap: 6px; }
+.exam-question { display: flex; align-items: center; gap: 8px; }
+.exam-number { width: 28px; flex: none; font-variant-numeric: tabular-nums; font-weight: 600; color: var(--muted); text-align: right; }
+.exam-options { display: flex; flex-wrap: wrap; gap: 4px; }
+.exam-options button { width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line); background: var(--surface); font: inherit; font-size: 14px; font-weight: 600; color: var(--ink); cursor: pointer; }
+.exam-options button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: #FFFFFF; }
+.exam-text { width: 100%; box-sizing: border-box; font: inherit; font-size: 16px; line-height: 1.5; border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; resize: vertical; }
+.exam-paused { background: var(--surface); border-radius: 10px; padding: 60px 24px; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 16px; font-size: 18px; }
+.exam-key { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 6px; }
+.exam-key > div { display: flex; align-items: center; gap: 6px; padding: 6px 8px; border-radius: 6px; }
+.exam-key .right { background: var(--right-bg); }
+.exam-key .wrong { background: var(--wrong-bg); }
+.exam-link { display: flex; align-items: baseline; gap: 10px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; color: var(--ink); }
+.exam-link:hover { border-color: var(--accent); }
+.exam-link .muted { margin-left: auto; }
+@media (max-width: 720px) {
+  .exam-bar { border-radius: 0; margin: 0 -16px; padding: 10px 16px; }
+  .exam-clock { font-size: 20px; min-width: 0; }
+  .exam-sheet { position: static; max-height: none; }
+}
+body.exam-room main { padding-top: 0; }
+.exam-jump { display: none; }
+@media (max-width: 720px) {
+  .exam-jump { display: inline-flex; position: fixed; right: 16px; bottom: calc(20px + env(safe-area-inset-bottom)); z-index: 20; box-shadow: 0 4px 14px rgba(22, 33, 58, .25); }
+  body.exam-room main { padding-bottom: 88px; }
+}
