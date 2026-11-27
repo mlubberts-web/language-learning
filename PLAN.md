@@ -222,7 +222,7 @@ Agreed with Menno on 2026-11-26. In this order:
       word anywhere counts everywhere, both directions (answer_variants.py, 3,800 questions got
       more answers; test_answers.py). "to" and "the" were already optional in the word questions.
       Answers by hand can be added in extra_answers/<course>.json.
-- [ ] 9.7b The same check for the sentence exercises (translate, fill): where more than one wording
+- [x] 9.7b The same check for the sentence exercises (translate, fill): where more than one wording
       is right but only one is accepted. Until then the "I was actually right" button remembers
       your answer for good.
 - [x] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
@@ -348,3 +348,7 @@ Short notes per session: what was done, anything left open.
   English speakers (courses/es_from_en/compare_boxes.json, put in place by build_web.py, also in the
   exercises); Dutch columns and remarks in the text are English too. The other courses already
   compared with the learner's own language. The downloadable PDFs still have the old boxes.
+- 2026-11-27: 9.7b done: other right wordings for the sentence translations of all three languages
+  (extra_answers/translate_es.json 226 sentences, translate_en.json ~180, translate_nl.json ~140), plus
+  rules: ellos/ellas, nosotros/nosotras, vosotros/vosotras (Spanish) and je/jij, ze/zij, we/wij
+  (Dutch). The I-was-right button still remembers anything else.

@@ -88,6 +88,7 @@ def widen(items, articles, base_lang, extra=None):
 # vosotros/vosotras are both right when the sentence starts with them.
 SWAP_START = {"es": {"Ellos": "Ellas", "Ellas": "Ellos", "Nosotros": "Nosotras", "Nosotras": "Nosotros",
                      "Vosotros": "Vosotras", "Vosotras": "Vosotros"}}
+SWAP_SUBJECT = {"nl": {"jij": "je", "je": "jij", "zij": "ze", "ze": "zij", "wij": "we", "we": "wij"}}
 
 
 def sentence_answers(language):
@@ -113,6 +114,16 @@ def widen_sentences(items, language):
             first, _, rest = answer[len(marks):].partition(" ")
             if first in swaps:
                 new.append(f"{marks}{swaps[first]} {rest}")
+            # Dutch: je/jij, ze/zij, we/wij as the subject: the first or second word ("Heb je ...?"),
+            # in a question also the third ("Waar woon jij?"). Later on it is usually an object.
+            words = answer.split(" ")
+            for spot in range(min(3 if answer.endswith("?") else 2, len(words))):
+                bare = words[spot].rstrip("?!.,")  # "jij?" -> "jij", the mark is put back
+                swap = SWAP_SUBJECT.get(language, {}).get(bare.lower())
+                if swap:
+                    if bare[0].isupper():
+                        swap = swap.capitalize()
+                    new.append(" ".join(words[:spot] + [swap + words[spot][len(bare):]] + words[spot + 1:]))
         new = [a for i, a in enumerate(new) if a not in item["answers"] and a not in new[:i]]
         if new:
             item["answers"] = item["answers"] + new
