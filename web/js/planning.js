@@ -69,7 +69,8 @@ function readingShare(unit) {
   const e = state.progress[unit.id];
   if (!e) return 0;
   if (e.done) return 1;
-  return Math.min(1, (e.seen || []).length / unit.web_pages);
+  // the parts finished, or how far down the one-page reader you got (e.farthest)
+  return Math.min(1, Math.max((e.seen || []).length / unit.web_pages, e.farthest || 0));
 }
 
 // For each unit of the plan: the share finished, 0 to 1.

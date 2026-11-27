@@ -127,6 +127,25 @@ export function isDue(data, itemId) {
   return Boolean(s) && (s.due || "") <= today();
 }
 
+// ---------- the daily review: a small set, fresh every day ----------
+// Once a day, 20 questions are picked from those that are due, the longest waiting first. Only
+// those are today's review; the rest waits, so the review never piles up. A question counts as
+// done today once you answered it today (here or in any other exercise).
+export const DAILY_REVIEW = 20;
+
+// Returns [the ids of today's review, whether they were picked just now (then save)].
+export function todaysReview(data) {
+  const day = today();
+  if (data.review?.day === day) return [data.review.ids, false];
+  const due = Object.entries(data.items)
+    .filter(([, s]) => (s.due || "") <= day)
+    .sort((a, b) => (a[1].due || "").localeCompare(b[1].due || "") || (a[1].box || 0) - (b[1].box || 0));
+  data.review = { day, ids: due.slice(0, DAILY_REVIEW).map(([id]) => id) };
+  return [data.review.ids, true];
+}
+
+export const reviewLeft = (data, ids) => ids.filter((id) => data.items[id]?.last !== today());
+
 export const skipKnown = (data) => Boolean(data.settings?.skip_known);
 export function setSkipKnown(data, on) {
   data.settings ??= {};

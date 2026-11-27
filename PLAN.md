@@ -203,13 +203,13 @@ break, so the site is rebuilt as a normal website. The course files in `courses/
 
 Agreed with Menno on 2026-11-26. In this order:
 
-- [ ] 9.1 Words: a unit is a "Chapter" (Hoofdstuk / Capítulo), its reading part is "Theory";
+- [x] 9.1 Words: a unit is a "Chapter" (Hoofdstuk / Capítulo), its reading part is "Theory";
       nowhere "PDF" any more. A location reads "A1 · Chapter 8".
-- [ ] 9.2 The theory of a chapter on one scrollable page, with a thin, quiet progress bar on the
+- [x] 9.2 The theory of a chapter on one scrollable page, with a thin, quiet progress bar on the
       LEFT side that shows how far down you are. Reading progress comes from how far you scrolled.
-- [ ] 9.3 Self-check solutions on the same page, under the exercises, after a line "Solutions below".
-- [ ] 9.4 The continue button goes to where you left off: the spot in the theory or the exercise list.
-- [ ] 9.5 Daily review: 20 questions a day, picked from what is most due; fresh every day, nothing
+- [x] 9.3 Self-check solutions on the same page, under the exercises, after a line "Solutions below".
+- [x] 9.4 The continue button goes to where you left off: the spot in the theory or the exercise list.
+- [x] 9.5 Daily review: 20 questions a day, picked from what is most due; fresh every day, nothing
       piles up.
 - [ ] 9.6 Mastering: a question is mastered when it is right on the first try of a round (a later
       round counts too); a wrong first try in a later round takes it away again. A list is
@@ -318,3 +318,7 @@ Short notes per session: what was done, anything left open.
   done), and the app's deadlines (B2 4 Dec, C2 20 Jan) when the log has none of its own. 🙋 Menno
   downloads the backup in the Streamlit app and brings it in.
 - 2026-11-26: 8.8 done: Menno brought in his results from the old app on the live site.
+- 2026-11-26: 9.1–9.5 done: "chapter" instead of "PDF" (the course texts are changed while
+  building, the files stay as they are), the theory on one page with a thin bar on the left,
+  solutions under a "Solutions below" line, the continue button goes to where you left off, and
+  the daily review is 20 questions a day.

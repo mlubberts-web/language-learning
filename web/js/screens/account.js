@@ -188,7 +188,7 @@ async function importPart() {
       const summary = applyImport(found, course, catalog);
       await acc.flush();
       resetState();
-      result.replaceChildren(h("div", { class: "feedback right" }, t("Done: {units} units, {questions} practised questions and {days} study days brought in.",
+      result.replaceChildren(h("div", { class: "feedback right" }, t("Done: {units} chapters, {questions} practised questions and {days} study days brought in.",
         { units: summary.units ?? 0, questions: summary.questions ?? 0, days: summary.days ?? 0 })));
     } }, t("Bring in"))));
 }

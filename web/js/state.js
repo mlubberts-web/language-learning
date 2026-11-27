@@ -74,3 +74,15 @@ export function modeTitle(mode) {
 }
 
 export const unitById = (id) => state.catalog.find((unit) => unit.id === id);
+
+// ---------- where you left off, for the continue button on the home page ----------
+// Per course: what you did last, "read" (the theory of a chapter) or "practise" (its exercises).
+// Kept in the profile, so it is the same on your phone and your laptop.
+export function setPlace(kind, unitId) {
+  const places = profile().places || {};
+  const old = places[state.course];
+  if (old && old.kind === kind && old.unit === unitId) return; // nothing new: no save needed
+  saveProfile({ places: { ...places, [state.course]: { kind, unit: unitId, time: new Date().toISOString().slice(0, 19) } } });
+}
+
+export const place = () => (profile().places || {})[state.course] || null;

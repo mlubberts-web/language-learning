@@ -15,7 +15,7 @@ export async function coursesScreen() {
       h("div", { class: "eyebrow" }, capital(names[course.explained_in][course.explained_in])),
       h("div", { class: "language" }, capital(names[course.learn][course.explained_in])),
       h("p", { class: "lead" }, course.subtitle),
-      h("p", { class: "muted" }, t("{units} units · {questions} practice questions",
+      h("p", { class: "muted" }, t("{units} chapters · {questions} practice questions",
         { units: course.units, questions: course.questions.toLocaleString(course.explained_in) })),
       course.id === last && h("div", { class: "eyebrow", style: "color: var(--accent)" }, t("Your last course")));
   return h("div", { class: "stack" },

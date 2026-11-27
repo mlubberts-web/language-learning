@@ -76,13 +76,13 @@ function weekView(now, first, today) {
       tile(t("Hours studied"), `${decimal(week.hours)} h${before ? change(Math.round(week.hours * 10) / 10, Math.round(before.hours * 10) / 10, " h") : ""}`),
       tile(t("Days studied"), t("{done} of {total}", { done: week.studied, total: week.days.length }), t("Days with at least 15 minutes.")),
       tile(t("Exercises finished"), `${week.exercises}${before ? change(week.exercises, before.exercises) : ""}`),
-      tile(t("Units read"), `${week.reads}${before ? change(week.reads, before.reads) : ""}`),
+      tile(t("Chapters read"), `${week.reads}${before ? change(week.reads, before.reads) : ""}`),
       tile(t("Questions answered"), `${week.questions}${before ? change(week.questions, before.questions) : ""}`),
       tile(t("Right on the first try"), percent(week.accuracy), t("Of your first tries this week (not the repeats in later rounds), the share that was right."))),
     h("p", {}, t("Started the week at {start}, ended at {end}", { start: week.start || t("the end"), end: week.end || t("the end") })),
     h("section", { class: "card" },
       barChart(rows.map((r, n) => ({ label: dayLabel(days[n]), value: r ? Math.round(r.hours * 100) / 100 : 0 })), (v) => decimal(v), t("Hours studied per day")),
-      table([t("Day"), t("Hours"), t("Exercises"), t("Units read"), t("Pages"), t("Questions"), t("First try right"), t("Daily list")],
+      table([t("Day"), t("Hours"), t("Exercises"), t("Chapters read"), t("Pages"), t("Questions"), t("First try right"), t("Daily list")],
         rows.filter(Boolean).map((r) => [dayLabel(r.day), decimal(r.hours), r.exercises, r.reads, r.pages, r.questions,
           r.tries ? percent(r.right / r.tries) : "–", r.goal ? t("{done} of {total}", { done: r.goalDone, total: r.goal }) : "–"]))));
 }
@@ -102,7 +102,7 @@ function trendsView(now, first, today) {
       h("section", { class: "card" }, barChart(weeks.map((w) => ({ label: shortDate(w.monday), value: w.accuracy === null ? 0 : Math.round(w.accuracy * 100) })), (v) => `${v}%`, t("Right on the first try, per week")))),
     mastered.length >= 2 && h("section", { class: "card" }, barChart(mastered.map(([d, n]) => ({ label: shortDate(d), value: n })), String, t("Questions mastered over time"))),
     h("section", { class: "card" }, h("h2", {}, t("All weeks")),
-      table([t("Week"), t("Hours"), t("Days studied"), t("Exercises"), t("Units read"), t("Questions"), t("First try right"), t("Where you were")],
+      table([t("Week"), t("Hours"), t("Days studied"), t("Exercises"), t("Chapters read"), t("Questions"), t("First try right"), t("Where you were")],
         weeks.slice().reverse().map((w) => [`${shortDate(w.monday)} – ${shortDate(plan.addDays(w.monday, 6))}`, decimal(w.hours), w.studied, w.exercises, w.reads, w.questions,
           percent(w.accuracy), `${w.start || "–"} → ${w.end || "–"}`]))));
 }
@@ -125,7 +125,7 @@ function levelsView(now) {
       level === "themes" ? "–" : t("{done} of {total}", { done: [1, 2].filter((n) => mocks.has(`${level}:${n}`)).length, total: 2 })]);
   }
   return h("div", { class: "stack" },
-    table([t("Level"), t("Units read"), t("Exercises finished"), t("Questions mastered"), t("Mock exams")], rows),
+    table([t("Level"), t("Chapters read"), t("Exercises finished"), t("Questions mastered"), t("Mock exams")], rows),
     h("p", { class: "muted" }, t("A unit counts as read when you opened all its pages or marked it as done. An exercise is one exercise type of a unit or list, finished when every question was answered once. Mastered: right on your last first try.")));
 }
 
@@ -196,7 +196,7 @@ export async function progressScreen(part, chosen) {
       tile(t("Average per study day"), studiedDays.length ? `${decimal(totalHours / studiedDays.length)} h` : "–"),
       tile(t("Best day"), P.fmt(plan.studiedMinutes(log, best)), longDate(best)),
       tile(t("Streak"), t(plan.streak(log, today) === 1 ? "{count} day" : "{count} days", { count: plan.streak(log, today) }), t("Days in a row on which you finished your whole list from the Schedule.")),
-      tile(t("Where you are now"), plan.position(now.units, log.finished || {}, today) || t("All units done"), t("The first unit you haven't finished yet: read, and all its exercises."))),
+      tile(t("Where you are now"), plan.position(now.units, log.finished || {}, today) || t("All chapters done"), t("The first chapter you haven't finished yet: read, and all its exercises."))),
     h("div", { class: "segmented", role: "group", "aria-label": t("Show") }, TABS.map(([id, label]) =>
       h("button", { type: "button", "aria-pressed": String(id === tab), onclick: () => { location.hash = `#/${state.course}/progress/${id}`; } }, t(label)))),
     views[tab]());

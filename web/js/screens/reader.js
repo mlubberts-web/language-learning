@@ -1,12 +1,13 @@
-// The reader: the text of a unit as web pages, made from the same content files as the PDFs
-// (the blocks of make_pdfs.py, here as HTML). A "pagebreak" block starts a new page.
-// Your progress (pages seen, last page, done) is saved in the same layout as in the app.
+// The reader: the theory of a chapter on one page you scroll through, made from the same content
+// files as the PDFs (the blocks of make_pdfs.py, here as HTML). A "pagebreak" block starts a new
+// part; a part counts as read once its end has been on the screen. Your progress (parts seen,
+// last part, done) is saved in the same layout as in the app, plus how far down you were.
 
 import * as data from "../data.js";
 import * as store from "../store.js";
 import { t } from "../text.js";
 import { h, icon, bar } from "../ui.js";
-import { state, saveProgress, saveLog, unitById } from "../state.js";
+import { state, saveProgress, saveLog, unitById, setPlace } from "../state.js";
 import { LEVEL_NAMES } from "./home.js";
 
 // ---------- text with <b>, <i> and <br/> ----------
@@ -99,7 +100,10 @@ function makeBlocks(info, profile, exercises) {
       return h("ol", { class: "translations" }, b.items.map((item) => h("li", {}, rich(item.q))));
     },
     answers: () => h("div", { class: "stack" },
-      h("h2", { class: "reader-h1" }, t("Answers")),
+      h("div", { class: "solutions-line", role: "note" },
+        h("strong", {}, t("Solutions below")),
+        h("span", {}, t("Do the exercises above first. Scroll on only when you want to check your answers."))),
+      h("h2", { class: "reader-h1", id: "solutions" }, t("Answers")),
       exercises.map(([kind, block]) => kind === "exercises"
         ? table(["#", ...(block.answer_titles || [t("Answer"), t("Full sentence")])],
             block.items.map((item, n) => [String(n + 1), h("strong", { class: "irregular" }, rich(item.a)),
@@ -108,14 +112,14 @@ function makeBlocks(info, profile, exercises) {
   };
 }
 
-// Splits the blocks into pages at each "pagebreak".
-function pagesOf(blocks) {
-  const pages = [[]];
+// Splits the blocks into parts at each "pagebreak".
+function partsOf(blocks) {
+  const parts = [[]];
   for (const block of blocks) {
-    if (block.type === "pagebreak") { if (pages[pages.length - 1].length) pages.push([]); }
-    else pages[pages.length - 1].push(block);
+    if (block.type === "pagebreak") { if (parts[parts.length - 1].length) parts.push([]); }
+    else parts[parts.length - 1].push(block);
   }
-  return pages.filter((page) => page.length);
+  return parts.filter((part) => part.length);
 }
 
 // ---------- progress ----------
@@ -123,107 +127,155 @@ function entry(unitId) {
   return state.progress[unitId] ??= { seen: [], last_page: 0, done: false, updated: null };
 }
 
-function seePage(unitId, page, total) {
+const now = () => new Date().toISOString().slice(0, 19);
+
+// How much of the chapter you read, 0 to 1: the parts you finished, or how far down you got.
+export const readShare = (e, total) => (e.done ? 1 : Math.min(1, Math.max((e.seen || []).length / total, e.farthest || 0)));
+
+// A part has been read: saved, and it counts towards today's study time.
+function seePart(unitId, part, total) {
   const e = entry(unitId);
-  const isNew = !e.seen.includes(page);
-  if (isNew) e.seen.push(page);
-  e.last_page = page;
-  if (e.seen.length >= total) e.done = true; // every page read
-  e.updated = new Date().toISOString().slice(0, 19);
-  saveProgress();
-  // A page counts towards today's study time once per visit to it
-  if (state.loggedPage !== `${unitId}/${page}`) {
-    state.loggedPage = `${unitId}/${page}`;
-    store.addActivity(state.log, "page");
-    saveLog();
-  }
+  if (e.seen.includes(part)) return false;
+  e.seen.push(part);
+  if (e.seen.length >= total) e.done = true; // every part read
+  e.updated = now();
+  store.addActivity(state.log, "page");
+  saveLog();
+  return true;
 }
 
 function toggleDone(unitId) {
   const e = entry(unitId);
   e.done = !e.done;
-  if (!e.done) { e.seen = []; e.last_page = 0; } // like the app: "not done" starts the unit again
-  e.updated = new Date().toISOString().slice(0, 19);
+  if (!e.done) { e.seen = []; e.last_page = 0; e.scroll = 0; } // like the app: "not done" starts the chapter again
+  e.updated = now();
   saveProgress();
   state.render();
 }
 
-// ---------- the screen ----------
-let keysReady = false;
+// ---------- following the scrolling ----------
+// One listener for the whole visit; it only does something while a reader is on the screen.
+let reading = null; // the open reader: { unitId, article, parts, total, fill, percent, readBar, doneButton }
 
-export async function readerScreen(part, unitId, pageText) {
+function update() {
+  if (!reading || !reading.article.isConnected) { reading = null; return; }
+  const { article, parts, unitId, total } = reading;
+  const box = article.getBoundingClientRect();
+  const view = window.innerHeight;
+  // How far: 0 at the top of the text, 1 when its end is on the screen
+  const share = Math.max(0, Math.min(1, (view - box.top) / Math.max(1, box.height)));
+  reading.fill.style.height = `${share * 100}%`;
+  const e = entry(unitId);
+  let changed = false;
+  parts.forEach((part, n) => { if (part.getBoundingClientRect().bottom <= view) changed = seePart(unitId, n, total) || changed; });
+  const current = parts.findIndex((part) => part.getBoundingClientRect().bottom > 80);
+  e.last_page = current < 0 ? total - 1 : current;
+  e.scroll = Math.max(0, Math.min(1, -box.top / Math.max(1, box.height)));
+  // The farthest you got (the part of the text that has been on the screen), for the percentage
+  e.farthest = Math.max(e.farthest || 0, Math.round(share * 1000) / 1000);
+  const read = readShare(e, total);
+  reading.percent.textContent = t("{percent}% read", { percent: Math.round(read * 100) });
+  const inner = reading.readBar.querySelector("div");
+  if (inner) inner.style.width = `${read * 100}%`;
+  if (changed && e.done) reading.doneButton.textContent = t("Mark as not done");
+  // Saved a moment after you stop scrolling, not on every movement
+  clearTimeout(reading.saveTimer);
+  reading.saveTimer = setTimeout(() => { e.updated = now(); saveProgress(); }, changed ? 0 : 1200);
+}
+
+let listening = false;
+function follow() {
+  if (listening) return;
+  listening = true;
+  let waiting = false;
+  const onScroll = () => {
+    if (waiting) return;
+    waiting = true;
+    requestAnimationFrame(() => { waiting = false; update(); });
+  };
+  window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("resize", onScroll);
+}
+
+// ---------- the screen ----------
+export async function readerScreen(part, unitId, partText) {
   const unit = unitById(unitId);
   if (!unit) { location.hash = `#/${state.course}`; return h("div"); }
   const [document_, languages] = await Promise.all([data.unitText(state.course, unit.id), data.languages()]);
   const exercises = [];
   const blocks = makeBlocks({ ...state.info, names: languages.names }, languages.profiles[state.info.learn], exercises);
-  const pages = pagesOf(document_.blocks);
-  const total = pages.length;
+  const parts = partsOf(document_.blocks);
+  const total = parts.length;
   const e = entry(unit.id);
-  const wanted = pageText ? Number(pageText) - 1 : e.last_page;
-  const page = Math.max(0, Math.min(total - 1, Number.isFinite(wanted) ? wanted : 0));
-  seePage(unit.id, page, total);
-  // Exercises on earlier pages are needed for the answers page, so all pages are built, one shown.
-  const built = pages.map((blocksOfPage) => blocksOfPage.map((b) => (blocks[b.type] || (() => null))(b)));
+  setPlace("read", unit.id);
   const base = `#/${state.course}`;
-  const go = (n) => { location.hash = `${base}/read/${unit.id}/${n + 1}`; };
-
-  if (!keysReady) { // the arrow keys turn the pages (once for the whole visit)
-    keysReady = true;
-    document.addEventListener("keydown", (event) => {
-      const match = location.hash.match(/\/read\/([^/]+)\/?(\d*)$/);
-      if (!match || event.target.matches?.("input, textarea, select") || event.altKey || event.ctrlKey || event.metaKey) return;
-      const now = state.readerPage;
-      if (event.key === "ArrowRight" && now.page < now.total - 1) go2(now.page + 1);
-      if (event.key === "ArrowLeft" && now.page > 0) go2(now.page - 1);
-      function go2(n) { location.hash = `#/${state.course}/read/${decodeURIComponent(match[1])}/${n + 1}`; }
-    });
-  }
-  state.readerPage = { page, total };
-
   const meta = document_.meta;
-  const header = page === 0 && h("header", { class: "stack", style: "gap: 6px; margin-bottom: 8px" },
+
+  // Each part in its own section; the big headings get an id so the contents can jump to them.
+  const headings = [];
+  const sections = parts.map((partBlocks, n) => h("section", { class: "reader-part", "data-part": n },
+    partBlocks.map((b) => {
+      const element = (blocks[b.type] || (() => null))(b);
+      if (b.type === "h1" && element) {
+        element.id = `part-${headings.length}`;
+        headings.push([element.id, b.text]);
+      }
+      return element;
+    })));
+  const header = h("header", { class: "stack", style: "gap: 6px; margin-bottom: 8px" },
     h("div", { class: "eyebrow", style: "color: var(--accent)" },
-      `${meta.level} · ${meta.section || ""} · ${t("Unit {number}", { number: meta.number })}`),
+      `${meta.level} · ${meta.section || ""} · ${t("Chapter {number}", { number: meta.number })}`),
     h("h1", { style: "font-size: 34px" }, meta.title),
     meta.subtitle && h("p", { class: "lead" }, meta.subtitle));
   const article = h("article", { class: "reader-page", lang: state.info.explained_in },
-    header, built[page], page === total - 1 && meta.next && h("p", { class: "muted", style: "margin-top: 24px" }, rich(meta.next)));
+    header, sections, meta.next && h("p", { class: "muted", style: "margin-top: 24px" }, rich(meta.next)));
+  // The thin bar on the left: how far down the page you are
+  const fill = h("div", { class: "reader-rail-fill" });
+  const rail = h("div", { class: "reader-rail", "aria-hidden": "true" }, h("div", { class: "reader-rail-track" }, fill));
 
-  const turn = (label, n, shape, disabled) => h("button", { type: "button", class: "button icon-button", "aria-label": label,
-    disabled, onclick: () => go(n) }, icon(shape, 18));
-  const done = e.done;
+  const read = readShare(e, total);
+  const percent = h("span", { class: "muted" }, t("{percent}% read", { percent: Math.round(read * 100) }));
+  const readBar = bar(read);
+  const doneButton = h("button", { type: "button", class: "button", onclick: () => toggleDone(unit.id) },
+    e.done ? t("Mark as not done") : t("Mark as done"));
+  const jump = (id) => document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+  const link = (id, label) => h("a", { href: `#${id}`, onclick: (event) => { event.preventDefault(); jump(id); } }, label);
+  const contents = headings.length > 1 && h("section", { class: "card reader-contents" },
+    h("strong", {}, t("Contents")),
+    h("ol", {}, headings.map(([id, text]) => h("li", {}, link(id, rich(text))))),
+    exercises.length ? link("solutions", t("Solutions")) : null);
+
+  reading = { unitId: unit.id, article, parts: sections, total, fill, percent, readBar, doneButton };
+  follow();
+  // Once the page is on the screen: back to where you were, or to the part in the address
+  state.afterRender = () => {
+    const wanted = partText ? sections[Number(partText) - 1] : null;
+    if (wanted) wanted.scrollIntoView({ block: "start" });
+    else if (e.scroll > 0 && e.scroll < 0.98) {
+      const box = article.getBoundingClientRect();
+      window.scrollTo(0, box.top + window.scrollY + e.scroll * box.height);
+    }
+    update();
+  };
+
   document.title = `${unit.title} · [SITE NAME]`;
   return h("div", { class: "stack" },
     h("nav", { class: "breadcrumb", "aria-label": t("You are here") },
       h("a", { href: base }, t("Course")), h("span", { "aria-hidden": "true" }, "/"),
       h("a", { href: `${base}/level/${unit.level}` }, `${unit.level} · ${t(LEVEL_NAMES[unit.level])}`),
-      h("span", { "aria-hidden": "true" }, "/"), h("span", {}, t("Unit {number}", { number: unit.number }))),
+      h("span", { "aria-hidden": "true" }, "/"), h("span", {}, t("Chapter {number}", { number: unit.number }))),
     h("div", { class: "columns" },
       h("section", { class: "wide", style: "gap: 16px" },
-        h("div", { class: "row between" },
-          h("h2", { style: "font-size: 22px" }, unit.title),
-          h("div", { class: "row", style: "gap: 8px" },
-            turn(t("Previous page"), page - 1, "left", page === 0),
-            h("div", { style: "min-width: 110px; text-align: center" }, t("Page {page} of {total}", { page: page + 1, total })),
-            turn(t("Next page"), page + 1, "right", page >= total - 1))),
-        article,
-        h("div", { class: "row between" },
-          page > 0 ? h("button", { type: "button", class: "button", onclick: () => go(page - 1) }, icon("left", 16), t("Previous page")) : h("span"),
-          page < total - 1
-            ? h("button", { type: "button", class: "button primary", onclick: () => go(page + 1) }, t("Next page"), icon("right", 16))
-            : h("a", { class: "button primary", href: `${base}/unit/${unit.id}` }, t("Practise this unit")))),
-      h("aside", { class: "side", style: "gap: 16px" },
+        h("div", { class: "reader-with-rail" }, rail, article),
+        h("div", { class: "row between" }, h("span"),
+          h("a", { class: "button primary", href: `${base}/unit/${unit.id}` }, t("Practise this chapter")))),
+      h("aside", { class: "side reader-side" },
         h("section", { class: "card" },
-          h("div", { class: "row between" }, h("strong", {}, t("Read")), h("span", { class: "muted" }, t("{read} of {total} pages", { read: done ? total : e.seen.length, total }))),
-          bar(done ? 1 : e.seen.length / total),
-          h("div", { class: "page-buttons" }, pages.map((_, n) => h("button", { type: "button",
-            class: n === page ? "here" : (done || e.seen.includes(n)) ? "seen" : "",
-            "aria-label": t("Page {page}", { page: n + 1 }), "aria-current": n === page ? "page" : null,
-            onclick: () => go(n) }, n + 1)))),
-        h("section", { class: "card" },
-          h("a", { class: "button primary", href: `${base}/unit/${unit.id}` }, t("Practise this unit")),
-          h("button", { type: "button", class: "button", onclick: () => toggleDone(unit.id) }, done ? t("Mark as not done") : t("Mark as done")),
-          unit.file && h("a", { class: "button", href: `data/${state.course}/pdf/${unit.file}`, download: unit.file }, t("Download PDF"))),
-        h("p", { class: "muted" }, t("Use the arrow keys to turn pages. Your page is saved, so you can stop at any time.")))));
+          h("div", { class: "row between" }, h("strong", {}, t("Theory")), percent),
+          readBar,
+          h("a", { class: "button primary", href: `${base}/unit/${unit.id}` }, t("Practise this chapter")),
+          doneButton,
+          unit.file && h("a", { class: "button", href: `data/${state.course}/pdf/${unit.file}`, download: unit.file }, t("Download as PDF"))),
+        contents,
+        h("p", { class: "muted" }, t("Your place is saved, so you can stop at any time.")))));
 }

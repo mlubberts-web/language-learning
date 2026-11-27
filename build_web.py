@@ -18,7 +18,7 @@ and is not kept in git):
 
 The questions are made by practice_items.py, the same code the Streamlit app uses, so both
 sites ask exactly the same questions."""
-import json, shutil, sys
+import json, re, shutil, sys
 from pathlib import Path
 
 import course
@@ -33,6 +33,40 @@ def write(path, data):
     """Writes data as compact JSON (no spaces: the files are smaller to download)."""
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
+# On the website a unit is a "chapter", not a "PDF". The course files speak of PDFs (they were
+# written for the PDFs), so the word is changed here, while the files are written for the site.
+# Per language of the explanations: (pattern, replacement), in this order. File names such as
+# "a1_01.pdf" are left alone (a "." or "/" before the word).
+_NOT_FILE = r"(?<![./\w])"
+CHAPTER_WORDS = {
+    "en": [(r"\bfrom the PDF\b", "from the theory"), (r"(?<=· )(?i:pdf)\b", "Chapter"), (r"^PDF\b", "Chapter"), (_NOT_FILE + r"PDFs\b", "chapters"),
+           (_NOT_FILE + r"(?i:pdf)\b", "chapter")],
+    "nl": [(r"\buit de pdf\b", "uit de theorie"), (r"(?<=· )pdf\b", "Hoofdstuk"), (_NOT_FILE + r"pdf's", "hoofdstukken"),
+           (r"\bDeze pdf\b", "Dit hoofdstuk"), (r"\bdeze pdf\b", "dit hoofdstuk"),
+           (r"\bDie pdf\b", "Dat hoofdstuk"), (r"\bdie pdf\b", "dat hoofdstuk"),
+           (r"\bDe volgende pdf\b", "Het volgende hoofdstuk"), (r"\bde volgende pdf\b", "het volgende hoofdstuk"),
+           (r"\bde vorige pdf\b", "het vorige hoofdstuk"), (r"\bde pdf\b", "het hoofdstuk"),
+           (r"^pdf\b", "Hoofdstuk"), (_NOT_FILE + r"(?i:pdf)\b", "hoofdstuk")],
+    "es": [(r"\bdel (?i:pdf)\b(?! ?\d)", "de la teoría"), (r"(?<=· )pdf\b", "Capítulo"), (_NOT_FILE + r"(?i:pdfs)\b", "capítulos"),
+           (r"\blos pdf\b", "los capítulos"), (r"^pdf\b", "Capítulo"), (_NOT_FILE + r"(?i:pdf)\b", "capítulo")],
+}
+
+
+def chapter_words(value, lang):
+    """The same data with "PDF" changed into "chapter" in every text (see CHAPTER_WORDS)."""
+    if isinstance(value, str):
+        if "pdf" not in value.lower():
+            return value
+        for pattern, new in CHAPTER_WORDS[lang]:
+            value = re.sub(pattern, new, value, flags=re.M)
+        return value
+    if isinstance(value, list):
+        return [chapter_words(v, lang) for v in value]
+    if isinstance(value, dict):
+        return {k: (v if k == "file" else chapter_words(v, lang)) for k, v in value.items()}
+    return value
 
 
 def compact(item):
@@ -78,13 +112,14 @@ def build_course(course_id):
     folder = course.folder(course_id)
     out = OUT / course_id
     catalog = json.loads((folder / "catalog.json").read_text(encoding="utf-8"))
+    lang = course.info(course_id)["explained_in"]
     count = 0
     for unit in catalog:
         document = json.loads((folder / "content" / unit["content"]).read_text(encoding="utf-8"))
         items = build_items(unit["id"], document, course_id)
         count += len(items)
-        write(out / "items" / f"{unit['id']}.json", [compact(item) for item in items])
-        write(out / "units" / f"{unit['id']}.json", document)
+        write(out / "items" / f"{unit['id']}.json", chapter_words([compact(item) for item in items], lang))
+        write(out / "units" / f"{unit['id']}.json", chapter_words(document, lang))
         # The number of pages in the web reader: the parts between the "pagebreak" blocks
         parts, size = 0, 0
         for block in document["blocks"] + [{"type": "pagebreak"}]:
@@ -117,11 +152,11 @@ def build_course(course_id):
         count += len(items)
         themes[path.stem] = {"title": theme["title"], "kind": theme.get("kind", "topic"),
                              "lists": [{"name": part["name"], "level": part["level"]} for part in theme["lists"]],
-                             "items": [compact(item) for item in items]}
+                             "items": chapter_words([compact(item) for item in items], lang)}
     write(out / "themes.json", themes)
 
     info = course.info(course_id)
-    entry = {**info, "modes": [{"id": mode, "title": title, "text": text}
+    entry = {**info, "modes": [{"id": mode, "title": title, "text": chapter_words(text, lang)}
                                for mode, title, text in modes(course_id)],
              "levels": sorted({unit["level"] for unit in catalog}), "units": len(catalog), "questions": count}
     print(f"{course_id}: {len(catalog)} units, {count} questions")

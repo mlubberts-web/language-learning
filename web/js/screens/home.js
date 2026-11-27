@@ -4,7 +4,7 @@ import * as data from "../data.js";
 import * as store from "../store.js";
 import { t } from "../text.js";
 import { h, bar } from "../ui.js";
-import { state } from "../state.js";
+import { state, savePractice, place } from "../state.js";
 import { startDrill } from "./session.js";
 
 export const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate", // t-list
@@ -23,7 +23,7 @@ const STATUS_TEXT = { done: "Done", reading: "In progress", new: "Not started" }
 function unitRow(unit, isNext, withPlace = false) {
   const status = unitStatus(unit);
   const base = `#/${state.course}`;
-  const place = `${unit.level} · ${t("Unit {number}", { number: unit.number })}`;
+  const place = `${unit.level} · ${t("Chapter {number}", { number: unit.number })}`;
   return h("div", { class: "unit" },
     h("div", { class: `number ${status}` }, withPlace ? unit.level : unit.number),
     h("div", { class: "about" },
@@ -35,20 +35,34 @@ function unitRow(unit, isNext, withPlace = false) {
       h("a", { class: "button small", href: `${base}/unit/${unit.id}` }, t("Practise"))));
 }
 
+// Starts a session with these question ids (from the chapters and the word lists).
+export async function startReview(ids, back) {
+  const wanted = new Set(ids);
+  const items = (await data.itemsOfUnits(state.course, state.catalog))
+    .concat(Object.values(await data.themes(state.course)).flatMap((theme) => theme.items));
+  startDrill(items.filter((item) => wanted.has(item.id)), t("Daily review"), back, { size: store.DAILY_REVIEW });
+}
+
+// Today's review: at most 20 questions, picked once a day (store.todaysReview).
 async function reviewCard() {
-  const due = Object.entries(state.practice.items).filter(([, stats]) => (stats.due || "") <= store.today());
+  const [ids, fresh] = store.todaysReview(state.practice);
+  if (fresh) savePractice();
+  const left = store.reviewLeft(state.practice, ids);
   const card = h("section", { class: "card" }, h("h2", {}, t("Daily review")));
-  if (!due.length) {
+  if (!ids.length) {
     card.append(h("p", { class: "muted" }, t("Nothing to review today. Questions you practise come back after 1, 3, 7 and 30 days.")));
     return card;
   }
-  card.append(h("p", {}, t("{count} questions are waiting for you today.", { count: due.length })),
-    h("button", { class: "button primary", onclick: async () => {
-      const ids = new Set(due.map(([id]) => id));
-      const items = (await data.itemsOfUnits(state.course, state.catalog)).filter((item) => ids.has(item.id));
-      const lists = Object.values(await data.themes(state.course)).flatMap((theme) => theme.items);
-      startDrill(items.concat(lists.filter((item) => ids.has(item.id))), t("Daily review"), ["home"], { size: 30 });
-    } }, t("Start the review")));
+  const done = ids.length - left.length;
+  card.append(h("div", { class: "row between" },
+      h("span", {}, t("{done} of {total} done today", { done, total: ids.length })), h("span", { class: "muted" }, t("about {minutes} min", { minutes: Math.max(1, Math.round(left.length / 3)) }))),
+    bar(done / ids.length));
+  if (!left.length) {
+    card.append(h("p", { class: "muted" }, t("Today's review is done. Tomorrow there is a new one.")));
+    return card;
+  }
+  card.append(h("button", { class: "button primary", onclick: () => startReview(left, ["home"]) },
+    done ? t("Carry on with the review") : t("Start the review")));
   return card;
 }
 
@@ -71,26 +85,40 @@ async function subjectsList(chosen, next) {
     h("div", { class: "card flush" },
       h("div", { class: "list-head" },
         h("div", { style: "font-weight: 600" }, subject.name),
-        h("div", { class: "muted" }, t("{done} of {total} units done", { done, total: units.length }))),
+        h("div", { class: "muted" }, t("{done} of {total} chapters done", { done, total: units.length }))),
       units.map((unit) => unitRow(unit, unit === next, true))));
 }
 
 export async function homeScreen(part, chosenLevel) {
   const levels = state.info.levels;
   const next = state.catalog.find((unit) => unitStatus(unit) !== "done");
-  const level = levels.includes(chosenLevel) ? chosenLevel : next?.level || levels[0];
+  const last = place(); // where you left off (state.setPlace)
+  const lastUnit = last && state.catalog.find((unit) => unit.id === last.unit);
+  const level = levels.includes(chosenLevel) ? chosenLevel : (lastUnit || next)?.level || levels[0];
   const units = state.catalog.filter((unit) => unit.level === level);
   const done = units.filter((unit) => unitStatus(unit) === "done").length;
   const base = `#/${state.course}`;
 
-  const continueCard = next && h("section", { class: "card big" },
-    h("div", { class: "eyebrow" }, unitStatus(next) === "reading" ? t("Continue where you left off") : t("Next up")),
-    h("h1", {}, next.title),
-    h("p", { class: "lead" }, next.subtitle),
-    h("div", { class: "muted" }, `${next.level} · ${t(LEVEL_NAMES[next.level])} · ${t("Unit {number}", { number: next.number })}`),
-    h("div", { class: "row" },
-      h("a", { class: "button primary", href: `${base}/read/${next.id}` }, unitStatus(next) === "reading" ? t("Continue reading") : t("Start reading")),
-      h("a", { class: "button", href: `${base}/unit/${next.id}` }, t("Practise this unit"))));
+  // Where you left off: the theory or the exercises of the chapter you had open last.
+  // Without that (a new course), the first chapter that isn't done.
+  const shown = lastUnit || next;
+  // The next chapter after the one you had open that isn't done yet
+  const after = lastUnit && state.catalog.slice(state.catalog.indexOf(lastUnit) + 1).find((unit) => unitStatus(unit) !== "done");
+  const practising = lastUnit && last.kind === "practise";
+  const readLink = h("a", { class: practising ? "button" : "button primary", href: `${base}/read/${shown?.id}` },
+    lastUnit && !practising ? t("Continue reading") : unitStatus(shown || {}) === "new" ? t("Start reading") : t("Read the theory"));
+  const practiseLink = h("a", { class: practising ? "button primary" : "button", href: `${base}/unit/${shown?.id}` },
+    practising ? t("Continue practising") : t("Practise this chapter"));
+  const continueCard = shown && h("section", { class: "card big" },
+    h("div", { class: "eyebrow" }, lastUnit ? t("Continue where you left off") : t("Next up")),
+    h("h1", {}, shown.title),
+    h("p", { class: "lead" }, shown.subtitle),
+    h("div", { class: "muted" }, `${shown.level} · ${t(LEVEL_NAMES[shown.level])} · ${t("Chapter {number}", { number: shown.number })}` +
+      (lastUnit ? ` · ${practising ? t("Exercises") : t("Theory")}` : "")),
+    h("div", { class: "row" }, practising ? [practiseLink, readLink] : [readLink, practiseLink]),
+    after && unitStatus(lastUnit) === "done" && h("p", { class: "muted" },
+      t("Next chapter: {level} · {title}", { level: after.level, title: after.title }), " ",
+      h("a", { href: `${base}/read/${after.id}` }, t("Start reading"))));
 
   const tabs = h("div", { class: "segmented", role: "group", "aria-label": t("Level") },
     levels.map((code) => h("button", { type: "button", "aria-pressed": String(code === level),
@@ -105,12 +133,12 @@ export async function homeScreen(part, chosenLevel) {
     h("div", { class: "card flush" },
       h("div", { class: "list-head" },
         h("div", { style: "font-weight: 600" }, `${level} · ${t(LEVEL_NAMES[level])}`),
-        h("div", { class: "muted" }, t("{done} of {total} units done", { done, total: units.length }))),
+        h("div", { class: "muted" }, t("{done} of {total} chapters done", { done, total: units.length }))),
       units.map((unit) => unitRow(unit, unit === next))));
 
   const levelCard = h("section", { class: "card" },
     h("h2", {}, t("Practise the whole level")),
-    h("p", { class: "muted" }, t("A mixed test with questions from every unit of {level}.", { level })),
+    h("p", { class: "muted" }, t("A mixed test with questions from every chapter of {level}.", { level })),
     h("button", { class: "button", onclick: async () => {
       const items = await data.itemsOfUnits(state.course, units);
       startDrill(items, `${level} · ${t("Mixed test")}`, ["level", level], { size: 30 });

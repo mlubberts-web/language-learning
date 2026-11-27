@@ -7,9 +7,8 @@ import * as plan from "../plan.js";
 import * as P from "../planning.js";
 import { t, longDate, shortDate, dayLabel, decimal } from "../text.js";
 import { h, bar, icon, noEmoji } from "../ui.js";
-import { state, saveLog, modeTitle } from "../state.js";
-import { startDrill } from "./session.js";
-import * as data from "../data.js";
+import { state, saveLog, savePractice, modeTitle } from "../state.js";
+import { startReview } from "./home.js";
 
 const SECTIONS = [["today", "Today"], ["coming", "Coming days"], ["overview", "Overview"], ["mocks", "Mock exams"], ["settings", "Settings"]]; // t-list
 const PARTS = ["Reading", "Listening", "Writing", "Speaking"]; // t-list
@@ -107,27 +106,27 @@ async function todaySection(now, today) {
   const didEx = week.reduce((s, d) => s + P.finishedOn(now, d, "exercise"), 0) / 7;
   const pace = needRead === 0 && needEx === 0
     ? t("Everything for {goal} is finished.", { goal: goalText(phase) })
-    : t("For {goal} you need on average {reads} units and {exercises} exercises per study day. Over the last 7 days you did {did_reads} and {did_exercises} a day.",
+    : t("For {goal} you need on average {reads} chapters and {exercises} exercises per study day. Over the last 7 days you did {did_reads} and {did_exercises} a day.",
         { goal: goalText(phase), reads: decimal(needRead), exercises: decimal(needEx), did_reads: decimal(didRead), did_exercises: decimal(didEx) });
 
   const tiles = h("div", { class: "tiles-row" },
     tile(t("Exercises finished"), t("{done} of {total}", { done: plan.finishedBy(log, ids("exercise"), today), total: ids("exercise").length })),
-    tile(t("Units read"), t("{done} of {total}", { done: plan.finishedBy(log, ids("read"), today), total: ids("read").length })),
+    tile(t("Chapters read"), t("{done} of {total}", { done: plan.finishedBy(log, ids("read"), today), total: ids("read").length })),
     tile(t("Studied today"), P.fmt(plan.studiedMinutes(log, today))),
     tile(t("Streak"), counted(plan.streak(log, today), "{count} day", "{count} days")));
 
   if (row.budget === 0 && !goal.length) return h("div", { class: "stack" }, tiles, h("div", { class: "notice" }, t("Day off. Enjoy it, the plan has moved its work to the other days.")));
 
-  const due = Object.entries(state.practice.items).filter(([, s]) => (s.due || "") <= today).sort((a, b) => (a[1].due || "").localeCompare(b[1].due || ""));
+  // Today's review: at most 20 questions, picked once a day (store.todaysReview)
+  const [reviewIds, fresh] = store.todaysReview(state.practice);
+  if (fresh) savePractice();
+  const left = store.reviewLeft(state.practice, reviewIds);
   const reviewTicked = "review" in ((log.days || {})[today]?.blocks || {});
-  const review = blockRow(`${t("Daily review")} · ${counted(due.length, "{count} question due", "{count} questions due")}`,
-    t("The oldest come first. Not part of the goal: do what you can."), reviewTicked,
+  const review = blockRow(`${t("Daily review")} · ${t("{done} of {total} done today", { done: reviewIds.length - left.length, total: reviewIds.length })}`,
+    t("At most 20 questions a day, the longest waiting first. Not part of the goal: do what you can."), reviewTicked,
     h("div", { class: "row", style: "gap: 8px" },
-      due.length > 0 && h("button", { type: "button", class: "button small primary", onclick: async () => {
-        const wanted = new Set(due.slice(0, 30).map(([id]) => id));
-        const items = (await data.itemsOfUnits(state.course, state.catalog)).concat(Object.values(await data.themes(state.course)).flatMap((x) => x.items));
-        startDrill(items.filter((i) => wanted.has(i.id)), t("Daily review"), ["view", "schedule"]);
-      } }, t("Review {count}", { count: Math.min(30, due.length) })),
+      left.length > 0 && h("button", { type: "button", class: "button small primary", onclick: () => startReview(left, ["view", "schedule"]) },
+        t("Review {count}", { count: left.length })),
       h("button", { type: "button", class: "button small", onclick: () => tick(today, "review", 0) }, reviewTicked ? t("Undo") : t("Done"))));
 
   const rows = groupUnits(goal).map(([title, units]) => unitRow(now, title, units));
@@ -185,12 +184,12 @@ function comingSection(now, today) {
         const units = day === today ? P.goalUnits(now, day) : row.units;
         body = !units.length ? h("p", { class: "muted" }, row.budget === 0 ? t("Day off") : t("Nothing planned"))
           : h("div", { class: "stack", style: "gap: 6px" },
-              h("div", { class: "muted" }, t("{reads} units · {exercises} exercises", { reads: P.count(units, "read"), exercises: P.count(units, "exercise") })),
+              h("div", { class: "muted" }, t("{reads} chapters · {exercises} exercises", { reads: P.count(units, "read"), exercises: P.count(units, "exercise") })),
               groupUnits(units).map(([, group]) => {
                 const first = group[0];
                 const mark = group.every((u) => done(now, u)) ? "✓ " : "";
                 if (first.kind === "exercise") return h("div", { class: "small" }, mark + (first.pdf_id ? `${first.level} ${String(first.number).padStart(2, "0")}` : first.group) + ": " + counted(group.length, "{count} exercise", "{count} exercises"));
-                if (first.kind === "read") return h("div", { class: "small" }, mark + t("Read {pdf}", { pdf: `${first.level} ${String(first.number).padStart(2, "0")}` }));
+                if (first.kind === "read") return h("div", { class: "small" }, mark + t("Read {chapter}", { chapter: `${first.level} ${String(first.number).padStart(2, "0")}` }));
                 return h("div", { class: "small" }, mark + t("Mock {level} no. {number}", { level: first.level, number: first.number }));
               }),
               row.writing > 0 && h("div", { class: "small" }, t("Writing {minutes} min", { minutes: row.writing })));
@@ -211,7 +210,7 @@ function overviewSection(now, today) {
     const left = units.filter((u) => names.includes(u.phase) && !now.finished.has(u.id));
     let verdict;
     if (!left.length) verdict = h("div", { class: "feedback right" }, t("All done!"));
-    else if (pace <= 0) verdict = h("p", { class: "muted" }, t("Your expected finish date appears here once you finish units and exercises."));
+    else if (pace <= 0) verdict = h("p", { class: "muted" }, t("Your expected finish date appears here once you finish chapters and exercises."));
     else {
       const projected = plan.addDays(today, Math.ceil(left.length / pace));
       verdict = projected <= phase.end
@@ -222,7 +221,7 @@ function overviewSection(now, today) {
     return h("section", { class: "card" }, h("h3", {}, goalText(phase)),
       h("p", {}, t("Deadline: {day} · {days} days left", { day: longDate(phase.end), days: Math.max(0, plan.daysBetween(today, phase.end)) })),
       h("p", { class: "muted" }, (n ? t("Left, earlier levels included:") : t("Left:")) + " " +
-        t("{reads} units to read, {exercises} exercises, {mocks} mock exams", { reads: P.count(left, "read"), exercises: P.count(left, "exercise"), mocks: P.count(left, "mock") })),
+        t("{reads} chapters to read, {exercises} exercises, {mocks} mock exams", { reads: P.count(left, "read"), exercises: P.count(left, "exercise"), mocks: P.count(left, "mock") })),
       verdict);
   });
   const mocks = new Set((log.mocks || []).map((m) => `${m.level}:${m.number}`));
@@ -235,13 +234,13 @@ function overviewSection(now, today) {
     const end = plan.finishDay(now.plan, (u) => u.level === level);
     return h("div", { class: "unit" }, h("div", { class: "number" }, level),
       h("div", { class: "about stack", style: "gap: 6px" },
-        h("div", { class: "row" }, h("span", { class: "muted", style: "width: 150px" }, t("Units read {percent}", { percent: `${Math.round(read * 100)}%` })), h("div", { style: "flex: 1 1 120px" }, bar(read, true))),
+        h("div", { class: "row" }, h("span", { class: "muted", style: "width: 150px" }, t("Chapters read {percent}", { percent: `${Math.round(read * 100)}%` })), h("div", { style: "flex: 1 1 120px" }, bar(read, true))),
         h("div", { class: "row" }, h("span", { class: "muted", style: "width: 150px" }, t("Exercises finished {percent}", { percent: `${Math.round(practised * 100)}%` })), h("div", { style: "flex: 1 1 120px" }, bar(practised, true)))),
       h("div", { class: "muted" }, t("Mocks {done}/2", { done: [1, 2].filter((n) => mocks.has(`${level}:${n}`)).length }), end ? ` · ${t("Planned to finish: {day}", { day: shortDate(end) })}` : ""));
   });
   return h("div", { class: "stack" },
     h("div", { class: "tiles-row" },
-      tile(t("Units read"), t("{done} of {total}", { done: doneOf("read"), total: P.count(units, "read") })),
+      tile(t("Chapters read"), t("{done} of {total}", { done: doneOf("read"), total: P.count(units, "read") })),
       tile(t("Exercises finished"), t("{done} of {total}", { done: doneOf("exercise"), total: P.count(units, "exercise") })),
       tile(t("Studied in total"), P.fmt(Object.keys(log.days || {}).reduce((s, d) => s + plan.studiedMinutes(log, d), 0))),
       tile(t("Streak"), counted(plan.streak(log, today), "{count} day", "{count} days"))),
@@ -368,7 +367,7 @@ function settingsSection(now, today) {
   return h("div", { class: "stack" },
     h("section", { class: "card" },
       h("h2", {}, t("Deadlines")),
-      h("p", { class: "muted" }, t("Finish everything up to a level by a date: its units, exercises and mock exams. The themed word lists go with your last deadline. Changing a deadline makes today's list again.")),
+      h("p", { class: "muted" }, t("Finish everything up to a level by a date: its chapters, exercises and mock exams. The themed word lists go with your last deadline. Changing a deadline makes today's list again.")),
       wrong && h("div", { class: "feedback wrong" }, t(wrong)),
       now.phases.map((p, n) => h("div", { class: "row between", style: "border-top: 1px solid var(--line-faint); padding-top: 12px" },
         h("div", {}, h("strong", {}, goalText(p)), h("div", { class: "muted" }, p.levels.join(" · "))),
@@ -381,7 +380,7 @@ function settingsSection(now, today) {
     h("section", { class: "card" },
       h("h2", {}, t("Study time per day")),
       h("div", { class: "row" }, hoursBox("weekday", t("Monday to Friday (hours)")), hoursBox("weekend", t("Saturday and Sunday (hours)"))),
-      h("p", { class: "muted" }, t("Your goals are units and exercises, not hours. These hours set how the work is shared between weekdays and the weekend, and give the time estimate on the Today page. Changing them makes today's list again.")),
+      h("p", { class: "muted" }, t("Your goals are chapters and exercises, not hours. These hours set how the work is shared between weekdays and the weekend, and give the time estimate on the Today page. Changing them makes today's list again.")),
       load > 1.05 && h("div", { class: "feedback near" }, t("What is left for {goal} takes about {percent} of these hours, by my estimate. The lists still fit the deadline, but the days will feel longer than this.",
         { goal: goalText(phase), percent: `${Math.round(load * 100)}%` }))),
     h("section", { class: "card" },
@@ -415,7 +414,7 @@ export async function scheduleScreen(part, chosen) {
     h("section", { class: "card big" },
       h("div", { class: "eyebrow" }, t("Schedule")),
       h("h1", {}, longDate(today)),
-      h("p", { class: "lead" }, [t("{exercises_done} of {exercises} exercises · {reads_done} of {reads} units read today · {time} studied",
+      h("p", { class: "lead" }, [t("{exercises_done} of {exercises} exercises · {reads_done} of {reads} chapters read today · {time} studied",
         { exercises_done: plan.finishedBy(log, ids("exercise"), today), exercises: ids("exercise").length, reads_done: plan.finishedBy(log, ids("read"), today),
           reads: ids("read").length, time: P.fmt(plan.studiedMinutes(log, today)) }), countdown].filter(Boolean).join(" · ")),
       bar(goal.length ? finishedToday / goal.length : 0)),

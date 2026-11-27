@@ -308,7 +308,7 @@ function resultsScreen(drill) {
     keyAction = () => startMode(step);
   } else if (after) {
     main = h("a", { class: "button primary large", href: `${base}/read/${after.id}` },
-      t("Next unit: {level} · {title}", { level: after.level, title: after.title }));
+      t("Next chapter: {level} · {title}", { level: after.level, title: after.title }));
     keyAction = () => { location.hash = `${base}/read/${after.id}`; };
   } else {
     keyAction = null;

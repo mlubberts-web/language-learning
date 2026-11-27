@@ -4,7 +4,7 @@ import * as data from "../data.js";
 import * as store from "../store.js";
 import { t } from "../text.js";
 import { h, bar } from "../ui.js";
-import { state, savePractice, modeTitle, unitById } from "../state.js";
+import { state, savePractice, modeTitle, unitById, setPlace } from "../state.js";
 import { doneKey } from "../rounds.js";
 import { startDrill, SIZES } from "./session.js";
 import { LEVEL_NAMES } from "./home.js";
@@ -76,6 +76,7 @@ export async function unitScreen(part, unitId) {
   const unit = unitById(unitId);
   if (!unit) { location.hash = `#/${state.course}`; return h("div"); }
   const items = await data.unitItems(state.course, unit.id);
+  setPlace("practise", unit.id); // for the continue button on the home page
   const index = state.catalog.indexOf(unit);
   const before = state.catalog[index - 1], after = state.catalog[index + 1];
   const base = `#/${state.course}`;
@@ -94,7 +95,7 @@ export async function unitScreen(part, unitId) {
     h("nav", { class: "breadcrumb", "aria-label": t("You are here") },
       h("a", { href: base }, t("Course")), h("span", { "aria-hidden": "true" }, "/"),
       h("a", { href: `${base}/level/${unit.level}` }, `${unit.level} · ${t(LEVEL_NAMES[unit.level])}`),
-      h("span", { "aria-hidden": "true" }, "/"), h("span", {}, t("Unit {number}", { number: unit.number }))),
+      h("span", { "aria-hidden": "true" }, "/"), h("span", {}, t("Chapter {number}", { number: unit.number }))),
     h("section", { class: "card big" },
       h("div", { class: "eyebrow" }, t("Practise")),
       h("h1", {}, unit.title),
@@ -102,7 +103,7 @@ export async function unitScreen(part, unitId) {
       h("div", { class: "row" }, h("div", { style: "flex: 1 1 200px" }, bar(items.length ? mastered / items.length : 0)),
         h("span", { class: "muted" }, t("{mastered} of {questions} questions mastered", { mastered, questions: items.length }))),
       h("div", { class: "row" },
-        h("a", { class: "button", href: `${base}/read/${unit.id}` }, t("Read this unit")),
+        h("a", { class: "button", href: `${base}/read/${unit.id}` }, t("Read the theory")),
         before && h("a", { class: "button small", href: `${base}/unit/${before.id}` }, `← ${before.level} · ${before.number}`),
         after && h("a", { class: "button small", href: `${base}/unit/${after.id}` }, `${after.level} · ${after.number} →`))),
     h("div", { class: "row between" }, sizeButtons(), skipSwitch()),
