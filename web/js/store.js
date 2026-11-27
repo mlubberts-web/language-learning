@@ -70,8 +70,16 @@ export function record(data, itemId, correct) {
   stats.box_before = stats.box;
   stats[correct ? "right" : "wrong"] += 1;
   stats.last_ok = correct;
+  stats.end_ok = correct; // a wrong first try can still become right later in the session
   stats.last = day;
   schedule(stats, correct, day);
+}
+
+// An answer in a later round of a session (after a wrong first try): doesn't change your score or
+// the review, but "right in the end" is remembered.
+export function recordLater(data, itemId, correct) {
+  const stats = data.items[itemId];
+  if (stats && correct) stats.end_ok = true;
 }
 
 export function changeToCorrect(data, itemId) {
@@ -79,6 +87,7 @@ export function changeToCorrect(data, itemId) {
   stats.wrong -= 1;
   stats.right += 1;
   stats.last_ok = true;
+  stats.end_ok = true;
   stats.box = stats.box_before ?? 0;
   schedule(stats, true, today());
 }
@@ -115,7 +124,23 @@ export function saveScore(data, unitId, mode, percent) {
   unitScores[mode] = { last: percent, best: Math.max(old.best, percent), date: today() };
 }
 
+// ---------- mastering (agreed with Menno on 2026-11-26) ----------
+// A question is mastered when it was right on the first try the last time it was asked (the
+// first round of a session; a later session counts too, and a wrong first try takes it away).
+// Marking an exercise as done does not make its questions mastered.
 export const isMastered = (data, itemId) => Boolean(data.items[itemId]?.last_ok);
+
+// Right in the end: answered, and right at the end of the session (maybe after a wrong first try).
+export function isRightInEnd(data, itemId) {
+  const s = data.items[itemId];
+  return Boolean(s && (s.end_ok ?? s.last_ok));
+}
+
+// A list (an exercise type of a chapter, or a word list part) is mastered when MORE than 95% of
+// its questions are mastered. It is finished when it is mastered or marked as done by hand.
+export const MASTERED_SHARE = 0.95;
+export const countMastered = (data, items) => items.filter((item) => isMastered(data, item.id)).length;
+export const listMastered = (data, items) => items.length > 0 && countMastered(data, items) / items.length > MASTERED_SHARE;
 
 export function isWeak(data, itemId) {
   const s = data.items[itemId];

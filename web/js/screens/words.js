@@ -8,7 +8,7 @@ import { h, bar, noEmoji } from "../ui.js";
 import { state, savePractice, modeTitle } from "../state.js";
 import { doneKey } from "../rounds.js";
 import { startDrill } from "./session.js";
-import { mastery, sizeButtons, skipSwitch, sessionSize } from "./unit.js";
+import { mastery, countsLine, sizeButtons, skipSwitch, sessionSize } from "./unit.js";
 
 const KINDS = [["topic", "Topics", "Words for what people talk about."], // t-list
                ["language", "Useful language", "The words that hold a text together: connectors, set phrases, idioms. These count in the writing and speaking parts of the {exam} exam."]]; // t-list
@@ -31,18 +31,18 @@ function themeCard(name, theme, buttons) {
   const pool = theme.items.filter((item) => !group || item.group === group);
   const title = noEmoji(theme.title);
   const source = group ? `${title} · ${group}` : title;
-  const done = mastery(theme.items);
   const keys = [...new Set(pool.map(doneKey))];
   const ticked = keys.every((key) => store.isMarkedDone(state.practice, key));
   const words = (list) => theme.items.filter((item) => item.group === list && item.mode === "reverse").length;
   return h("section", { class: "card mode-card" },
     h("h3", {}, noEmoji(theme.title)),
-    h("div", { class: "row" }, h("div", { style: "flex: 1 1 160px" }, bar(done / theme.items.length, true)),
-      h("span", { class: "muted" }, t("{mastered} of {questions} questions mastered", { mastered: done, questions: theme.items.length }))),
     h("select", { "aria-label": t("List"), onchange: (event) => { chosenList[name] = event.target.value; state.render(); } },
       h("option", { value: "" }, t("All lists")),
       theme.lists.map((list) => h("option", { value: list.name, selected: list.name === group },
         `${list.name} · ${list.level} · ${t("{count} words", { count: words(list.name) })}`))),
+    // Per part (to your language, to the language you learn, el / la ...): the two counts
+    h("div", { class: "part-counts" }, buttons.filter(([mode]) => pool.some((item) => item.mode === mode)).map(([mode, label]) =>
+      h("div", { class: "stack", style: "gap: 6px" }, h("strong", { class: "small" }, label), countsLine(pool.filter((item) => item.mode === mode))))),
     h("label", { class: "switch" },
       h("input", { type: "checkbox", checked: ticked, onchange: (event) => {
         for (const key of keys) store.markDone(state.practice, key, event.target.checked);

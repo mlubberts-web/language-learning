@@ -12,7 +12,8 @@ import { mastery } from "./unit.js";
 
 export const SIZES = { "10": 10, "20": 20, "All": null }; // t-list
 
-const isKnown = (item) => store.isMastered(state.practice, item.id) || store.isMarkedDone(state.practice, rounds.doneKey(item));
+// "Skip what I know" leaves out only the questions that were right on the first try last time.
+const isKnown = (item) => store.isMastered(state.practice, item.id);
 
 // ---------- starting and ending ----------
 // back: where "Back" goes: ["unit", id], ["level", "A2"], ["home"] or ["view", "words"].
@@ -81,7 +82,9 @@ function grade(typed) {
   const { result, note } = checkAnswer(item, typed, state.info.learn, accepted);
   const correct = result !== "wrong";
   const first = rounds.isFirstAttempt(drill);
-  if (first) { store.record(state.practice, item.id, correct); savePractice(); }
+  if (first) store.record(state.practice, item.id, correct);
+  else store.recordLater(state.practice, item.id, correct);
+  savePractice();
   // Every answer counts towards today's study time; only first tries count for your accuracy.
   store.addActivity(state.log, "answer");
   if (first) store.addResult(state.log, correct);

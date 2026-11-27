@@ -211,7 +211,7 @@ Agreed with Menno on 2026-11-26. In this order:
 - [x] 9.4 The continue button goes to where you left off: the spot in the theory or the exercise list.
 - [x] 9.5 Daily review: 20 questions a day, picked from what is most due; fresh every day, nothing
       piles up.
-- [ ] 9.6 Mastering: a question is mastered when it is right on the first try of a round (a later
+- [x] 9.6 Mastering: a question is mastered when it is right on the first try of a round (a later
       round counts too); a wrong first try in a later round takes it away again. A list is
       mastered at more than 95 % mastered questions. "Exercises finished" = mastered lists + lists
       marked done by hand. The exercise page shows "right first try" and "right in the end".
@@ -322,3 +322,6 @@ Short notes per session: what was done, anything left open.
   building, the files stay as they are), the theory on one page with a thin bar on the left,
   solutions under a "Solutions below" line, the continue button goes to where you left off, and
   the daily review is 20 questions a day.
+- 2026-11-26: 9.6 done: mastered = right on the first try last time (marking as done no longer
+  counts); "right in the end" is kept per question (end_ok); a list is mastered above 95% and an
+  exercise is finished when mastered or marked done; word lists show the counts per part.

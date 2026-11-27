@@ -7,7 +7,7 @@ import * as P from "../planning.js";
 import { t, longDate, shortDate, dayLabel, decimal } from "../text.js";
 import { h, bar, icon, noEmoji } from "../ui.js";
 import { state, modeTitle } from "../state.js";
-import { firstTryScore, MIN_PRACTISED, WEAK_BELOW, doneKey } from "../rounds.js";
+import { firstTryScore, MIN_PRACTISED, WEAK_BELOW } from "../rounds.js";
 import { startDrill } from "./session.js";
 
 const TABS = [["week", "Week by week"], ["trends", "Trends"], ["levels", "Levels"], ["mocks", "Mock exams"], ["weak", "Weak subjects"]]; // t-list
@@ -110,7 +110,7 @@ function trendsView(now, first, today) {
 // ---------- levels ----------
 function levelsView(now) {
   const mocks = new Set((state.log.mocks || []).map((m) => `${m.level}:${m.number}`));
-  const isKnown = (item) => store.isMastered(state.practice, item.id) || store.isMarkedDone(state.practice, doneKey(item));
+  const isKnown = (item) => store.isMastered(state.practice, item.id);
   const rows = [];
   for (const level of plan.LEVELS.concat(["themes"])) {
     const own = now.units.filter((u) => u.level === level);
@@ -126,7 +126,7 @@ function levelsView(now) {
   }
   return h("div", { class: "stack" },
     table([t("Level"), t("Chapters read"), t("Exercises finished"), t("Questions mastered"), t("Mock exams")], rows),
-    h("p", { class: "muted" }, t("A unit counts as read when you opened all its pages or marked it as done. An exercise is one exercise type of a unit or list, finished when every question was answered once. Mastered: right on your last first try.")));
+    h("p", { class: "muted" }, t("A chapter counts as read when you scrolled to its end or marked it as done. An exercise is one exercise type of a chapter or word list; it is finished when more than 95% of its questions are mastered, or when you marked it as done. Mastered: right on the first try, the last time the question was asked.")));
 }
 
 // ---------- mock exams ----------
@@ -174,7 +174,7 @@ export async function progressScreen(part, chosen) {
   const first = P.firstDay(today);
   // How many questions you had mastered today, for the "mastered over time" chart
   const allItems = now.course.units.flatMap((u) => u.items).concat(now.course.themes.flatMap((x) => x.items));
-  const mastered = allItems.filter((i) => store.isMastered(state.practice, i.id) || store.isMarkedDone(state.practice, doneKey(i))).length;
+  const mastered = allItems.filter((i) => store.isMastered(state.practice, i.id)).length;
   if ((log.mastered ??= {})[today] !== mastered) { log.mastered[today] = mastered; store.save(state.course, "study_log"); }
   const days = [...Array(plan.daysBetween(first, today) + 1).keys()].map((n) => plan.addDays(first, n));
   const studiedDays = days.filter((d) => plan.studiedMinutes(log, d) >= 15);
@@ -188,7 +188,7 @@ export async function progressScreen(part, chosen) {
     h("section", { class: "card big" },
       h("div", { class: "eyebrow" }, t("Progress")),
       h("h1", {}, t("Your progress")),
-      h("p", { class: "lead" }, t("{hours} hours studied since {day} · {reads_done} of {reads} units read · {exercises_done} of {exercises} exercises finished · {mastered} of {questions} questions mastered",
+      h("p", { class: "lead" }, t("{hours} hours studied since {day} · {reads_done} of {reads} chapters read · {exercises_done} of {exercises} exercises finished · {mastered} of {questions} questions mastered",
         { hours: decimal(totalHours), day: longDate(first), reads_done: readDone, reads: reads.length, exercises_done: exDone, exercises: exercises.length, mastered, questions: allItems.length })),
       bar((readDone + exDone) / (reads.length + exercises.length || 1))),
     h("div", { class: "tiles-row" },

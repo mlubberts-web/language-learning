@@ -245,3 +245,10 @@ main.narrow { max-width: 760px; }
 .segmented .seg-link { display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 6px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink-soft); font-size: 14px; font-weight: 600; text-decoration: none; }
 .avatar { width: 44px; height: 44px; border-radius: 50%; background: var(--ink); color: #FFFFFF; display: inline-flex; align-items: center; justify-content: center; font-weight: 600; text-decoration: none; }
 .avatar:hover { color: #FFFFFF; background: var(--ink-soft); }
+
+/* The counts on an exercise card: right first try, right in the end, mastered */
+.counts { display: flex; flex-direction: column; gap: 6px; font-size: 15px; }
+.chip { align-self: flex-start; font-size: 12px; font-weight: 600; letter-spacing: .02em; padding: 3px 10px; border-radius: 999px;
+        background: var(--line-faint); color: var(--muted); }
+.chip.good { background: var(--right-bg, #E6F4EA); color: var(--right); }
+.part-counts { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; }

@@ -63,7 +63,14 @@ async function courseUnits() {
   return cache[state.course];
 }
 
-const isAnswered = (item) => item.id in state.practice.items || store.isMarkedDone(state.practice, doneKey(item));
+// How far an exercise is, 0 to 1. It is finished (1) when it is marked as done, or when more than
+// 95% of its questions are mastered (right on the first try last time, store.listMastered).
+function exerciseShare(items) {
+  if (!items.length) return 1;
+  if (items.every((item) => store.isMarkedDone(state.practice, doneKey(item)))) return 1;
+  if (store.listMastered(state.practice, items)) return 1;
+  return Math.min(0.99, store.countMastered(state.practice, items) / (items.length * store.MASTERED_SHARE));
+}
 
 function readingShare(unit) {
   const e = state.progress[unit.id];
@@ -81,7 +88,7 @@ function shares(units, course) {
     if (unit.kind === "read") result[unit.id] = readingShare(course.byId[unit.pdf_id]);
     else if (unit.kind === "exercise") {
       const items = course.groups[unit.id] || [];
-      result[unit.id] = items.length ? items.filter(isAnswered).length / items.length : 1;
+      result[unit.id] = exerciseShare(items);
     } else result[unit.id] = mocks.has(`${unit.level}:${unit.number}`) ? 1 : 0;
   }
   return result;
