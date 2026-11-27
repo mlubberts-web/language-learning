@@ -16,7 +16,7 @@ TEXT = re.compile(r'"((?:[^"\\]|\\.)*)"')
 # Names in those lists that are never shown: icons, tab names, colour classes, numbers
 NOT_SHOWN = {"", "10", "20", "book", "calendar", "chart", "list", "clock", "c0", "c1", "c2", "c3", "c4", "off",
              "future deadline", "coming", "overview", "mocks", "settings", "week", "trends", "levels", "weak",
-             "topic", "language", "schedule", "progress", "words", "exams"}
+             "topic", "language", "schedule", "progress", "words", "exams", "verbs", "pen"}
 
 
 def web_texts():

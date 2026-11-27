@@ -6,6 +6,7 @@ import { t } from "../text.js";
 import { h, bar } from "../ui.js";
 import { state, savePractice, place } from "../state.js";
 import { startDrill } from "./session.js";
+import { verbItems } from "./verbs.js";
 
 export const LEVEL_NAMES = { A1: "Beginner", A2: "Elementary", B1: "Intermediate", B2: "Upper intermediate", // t-list
                              C1: "Advanced", C2: "Mastery" }; // t-list
@@ -39,7 +40,8 @@ function unitRow(unit, isNext, withPlace = false) {
 export async function startReview(ids, back) {
   const wanted = new Set(ids);
   const items = (await data.itemsOfUnits(state.course, state.catalog))
-    .concat(Object.values(await data.themes(state.course)).flatMap((theme) => theme.items));
+    .concat(Object.values(await data.themes(state.course)).flatMap((theme) => theme.items))
+    .concat(await verbItems(true), await verbItems(false)); // the verb practice too
   startDrill(items.filter((item) => wanted.has(item.id)), t("Daily review"), back, { size: store.DAILY_REVIEW });
 }
 

@@ -324,6 +324,9 @@ function resultsScreen(drill) {
       bar(percent / 100),
       drill.pool.length > 0 && !step && !after && h("p", {}, t("That was the last exercise type.")),
       h("div", { class: "row" }, main,
+        // Verb practice: the next 20 sentences (screens/verbs.js puts the function in state.verbAgain)
+        !main && drill.back[1] === "verbs" && state.verbAgain &&
+          h("button", { type: "button", class: "button primary large", onclick: () => state.verbAgain() }, t("New sentences")),
         h("button", { type: "button", class: "button", onclick: runAgain }, t("Run again")),
         h("button", { type: "button", class: "button", onclick: leave }, t("Back")))),
     drill.firstWrong.length > 0 && h("section", { class: "card" },
@@ -362,7 +365,7 @@ export async function sessionScreen() {
           drill.leftOut ? h("span", {}, t("{count} known questions left out", { count: drill.leftOut })) : null),
         bar(drill.position / drill.queue.length)),
       h("section", { class: "card big" },
-        h("div", { class: "eyebrow" }, modeTitle(item.mode)),
+        h("div", { class: "eyebrow" }, item.eyebrow || modeTitle(item.mode)),
         h("div", { class: "prompt" }, item.prompt),
         item.hint && h("div", { class: "hint" }, item.hint),
         answerPart)));

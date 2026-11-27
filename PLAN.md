@@ -226,7 +226,7 @@ Agreed with Menno on 2026-11-26. In this order:
       is right but only one is accepted. Until then the "I was actually right" button remembers
       your answer for good.
 - [x] 9.8 Language choice: two clear steps, "I speak …" and "I want to learn …".
-- [ ] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
+- [x] 9.9 Verb practice tab (like Word lists), for all three languages: sentences with the verb left
       out, in two modes, "tense given" and "find the tense from the context" (every tense that fits
       is right). A large checked bank of sentences, drawn at random, with a tense filter.
 - [ ] 9.10 The comparison boxes (now the yellow Dutch boxes) always compare the language you learn
@@ -332,3 +332,7 @@ Short notes per session: what was done, anything left open.
 - 2026-11-26: 9.7 done for the word questions (answer_variants.py); 9.7b (sentences) still open.
 - 2026-11-26: 9.8 done: the course choice in two steps ("I speak", then "I want to learn"); the site
   switches to your language at step 1; your last course stays at the top.
+- 2026-11-26: 9.9 done: the Verbs tab. verb_bank/ has 549 new sentences labelled by tense (es 250,
+  en 154, nl 145) on top of the 839 verbs-in-context sentences: 750 Spanish, 347 English, 230 Dutch
+  per course. Two ways (tense given / find the tense), tense filter, 20 per session, "New sentences".
+  The bank can keep growing: add rows to verb_bank/<language>.json.

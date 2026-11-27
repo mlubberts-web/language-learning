@@ -26,6 +26,7 @@ import { readerScreen } from "./screens/reader.js";
 import { account, startSession, supabase } from "./account.js";
 import * as accountScreens from "./screens/account.js";
 import { wordsScreen } from "./screens/words.js";
+import { verbsScreen } from "./screens/verbs.js";
 import { examsScreen } from "./screens/exams.js";
 import { scheduleScreen } from "./screens/schedule.js";
 import { progressScreen } from "./screens/progress.js";
@@ -34,7 +35,7 @@ const SITE_NAME = "[SITE NAME]"; // the name Menno chooses (PLAN 7.4)
 
 // The menu: [part of the address, text, icon]
 const MENU = [["", "Course", "book"], ["schedule", "Schedule", "calendar"], ["progress", "Progress", "chart"], // t-list
-              ["words", "Word lists", "list"], ["exams", "Mock exams", "clock"]]; // t-list
+              ["words", "Word lists", "list"], ["verbs", "Verbs", "pen"], ["exams", "Mock exams", "clock"]]; // t-list
 
 function header(courseId, part) {
   const box = document.getElementById("header");
@@ -92,7 +93,7 @@ export async function render() {
     await openCourse(courseId);
     header(courseId, part);
     const screens = { "": homeScreen, level: homeScreen, subjects: homeScreen, unit: unitScreen, session: sessionScreen, read: readerScreen,
-                      words: wordsScreen, exams: examsScreen, schedule: scheduleScreen, progress: progressScreen };
+                      words: wordsScreen, verbs: verbsScreen, exams: examsScreen, schedule: scheduleScreen, progress: progressScreen };
     const screen = screens[part] || comingScreen;
     main.className = part === "session" || (part === "exams" && rest[0] === "run") ? "narrow" : "";
     const content = await screen(part, ...rest);

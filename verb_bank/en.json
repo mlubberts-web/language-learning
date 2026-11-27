@@ -1,0 +1,640 @@
+{
+  "pres_simple": [
+    [
+      "My brother [works] in a hospital in Leeds.",
+      "work"
+    ],
+    [
+      "We usually [have] dinner at seven.",
+      "have"
+    ],
+    [
+      "The shop [opens] at nine on Saturdays.",
+      "open"
+    ],
+    [
+      "She [doesn't eat] meat.",
+      "not eat"
+    ],
+    [
+      "[Do you like] spicy food?",
+      "like"
+    ],
+    [
+      "Water [boils] at a hundred degrees.",
+      "boil"
+    ],
+    [
+      "He always [forgets] my birthday.",
+      "forget"
+    ],
+    [
+      "My parents [live] near the sea.",
+      "live"
+    ],
+    [
+      "I [don't understand] this question.",
+      "not understand"
+    ],
+    [
+      "The train to London [leaves] every half hour.",
+      "leave"
+    ],
+    [
+      "Our teacher [gives] us a lot of homework.",
+      "give"
+    ],
+    [
+      "It often [rains] in November.",
+      "rain"
+    ],
+    [
+      "She [speaks] three languages fluently.",
+      "speak"
+    ],
+    [
+      "How often [does your sister visit] you?",
+      "visit"
+    ],
+    [
+      "I [walk] to work when the weather is nice.",
+      "walk"
+    ],
+    [
+      "This bag [belongs] to my aunt.",
+      "belong"
+    ],
+    [
+      "He [watches] the news every evening.",
+      "watch"
+    ],
+    [
+      "Cats [sleep] for most of the day.",
+      "sleep"
+    ]
+  ],
+  "pres_cont": [
+    [
+      "Be quiet! The baby [is sleeping].",
+      "sleep"
+    ],
+    [
+      "Look, it [is snowing]!",
+      "snow"
+    ],
+    [
+      "I [am reading] a great book at the moment.",
+      "read"
+    ],
+    [
+      "Why [are you laughing]?",
+      "laugh"
+    ],
+    [
+      "We [are staying] with friends this week.",
+      "stay"
+    ],
+    [
+      "Listen! Someone [is knocking] at the door.",
+      "knock"
+    ],
+    [
+      "She [isn't working] today; she's ill.",
+      "not work"
+    ],
+    [
+      "The prices [are going] up all the time.",
+      "go"
+    ],
+    [
+      "My son [is learning] to drive.",
+      "learn"
+    ],
+    [
+      "What [are you doing] right now?",
+      "do"
+    ],
+    [
+      "They [are building] a new school near our house.",
+      "build"
+    ],
+    [
+      "I [am meeting] Tom for lunch tomorrow.",
+      "meet"
+    ],
+    [
+      "Hurry up! Everyone [is waiting] for you.",
+      "wait"
+    ],
+    [
+      "He [is having] a shower, can he call you back?",
+      "have"
+    ],
+    [
+      "We [aren't watching] the film; you can switch it off.",
+      "not watch"
+    ],
+    [
+      "The children [are playing] in the garden.",
+      "play"
+    ]
+  ],
+  "past_simple": [
+    [
+      "Last year we [went] to Scotland.",
+      "go"
+    ],
+    [
+      "I [met] my wife at university.",
+      "meet"
+    ],
+    [
+      "She [didn't call] me yesterday.",
+      "not call"
+    ],
+    [
+      "When [did you arrive]?",
+      "arrive"
+    ],
+    [
+      "Shakespeare [wrote] Hamlet around 1600.",
+      "write"
+    ],
+    [
+      "We [stayed] at home last weekend.",
+      "stay"
+    ],
+    [
+      "He [bought] a new car two months ago.",
+      "buy"
+    ],
+    [
+      "The film [started] at eight and finished at ten.",
+      "start"
+    ],
+    [
+      "I [lost] my keys on the way home.",
+      "lose"
+    ],
+    [
+      "They [moved] to Spain in 2015.",
+      "move"
+    ],
+    [
+      "She [took] the train because her car was broken.",
+      "take"
+    ],
+    [
+      "Yesterday it [was] very cold.",
+      "be"
+    ],
+    [
+      "We [ate] fish and chips by the sea.",
+      "eat"
+    ],
+    [
+      "I [didn't sleep] well last night.",
+      "not sleep"
+    ],
+    [
+      "Who [told] you that?",
+      "tell"
+    ],
+    [
+      "The meeting [lasted] three hours.",
+      "last"
+    ],
+    [
+      "My grandfather [fought] in the war.",
+      "fight"
+    ],
+    [
+      "He [fell] off his bike and broke his arm.",
+      "fall"
+    ]
+  ],
+  "past_cont": [
+    [
+      "I [was cooking] when you called.",
+      "cook"
+    ],
+    [
+      "At ten o'clock last night we [were watching] a film.",
+      "watch"
+    ],
+    [
+      "It [was raining] when we left the cinema.",
+      "rain"
+    ],
+    [
+      "What [were you doing] at midnight?",
+      "do"
+    ],
+    [
+      "She [was talking] on the phone, so she didn't hear the bell.",
+      "talk"
+    ],
+    [
+      "The sun [was shining] and the birds were singing.",
+      "shine"
+    ],
+    [
+      "While I [was driving] to work, I saw an accident.",
+      "drive"
+    ],
+    [
+      "They [weren't listening] when the teacher explained it.",
+      "not listen"
+    ],
+    [
+      "He [was sleeping] when the burglars broke in.",
+      "sleep"
+    ],
+    [
+      "We [were walking] home when it started to snow.",
+      "walk"
+    ],
+    [
+      "Sorry, I [wasn't paying] attention.",
+      "not pay"
+    ],
+    [
+      "The children [were playing] outside all afternoon.",
+      "play"
+    ],
+    [
+      "I cut my finger while I [was chopping] onions.",
+      "chop"
+    ],
+    [
+      "At this time yesterday I [was sitting] on a plane.",
+      "sit"
+    ]
+  ],
+  "pres_perf": [
+    [
+      "I [have never been] to Japan.",
+      "be"
+    ],
+    [
+      "She [has lost] her phone again.",
+      "lose"
+    ],
+    [
+      "[Have you ever eaten] snails?",
+      "eat"
+    ],
+    [
+      "We [have lived] here since 2010.",
+      "live"
+    ],
+    [
+      "They [haven't finished] their homework yet.",
+      "not finish"
+    ],
+    [
+      "He [has just left]; you've missed him.",
+      "leave"
+    ],
+    [
+      "I [have known] her for twenty years.",
+      "know"
+    ],
+    [
+      "The price of petrol [has gone] up again.",
+      "go"
+    ],
+    [
+      "Someone [has taken] my umbrella.",
+      "take"
+    ],
+    [
+      "We [have already seen] this film.",
+      "see"
+    ],
+    [
+      "How long [have you had] that car?",
+      "have"
+    ],
+    [
+      "My sister [has broken] her leg, so she can't come.",
+      "break"
+    ],
+    [
+      "I [have written] three emails this morning.",
+      "write"
+    ],
+    [
+      "It [has been] a long day.",
+      "be"
+    ],
+    [
+      "She [hasn't called] me since Christmas.",
+      "not call"
+    ],
+    [
+      "Look! I [have found] your keys.",
+      "find"
+    ]
+  ],
+  "will": [
+    [
+      "I think it [will rain] tomorrow.",
+      "rain"
+    ],
+    [
+      "Don't worry, I [will help] you.",
+      "help"
+    ],
+    [
+      "The phone's ringing. I [will answer] it.",
+      "answer"
+    ],
+    [
+      "She [won't be] at the party; she's away.",
+      "not be"
+    ],
+    [
+      "[Will you marry] me?",
+      "marry"
+    ],
+    [
+      "I'm sure you [will pass] the exam.",
+      "pass"
+    ],
+    [
+      "Wait, I [will carry] that bag for you.",
+      "carry"
+    ],
+    [
+      "In fifty years, people [will live] on Mars.",
+      "live"
+    ],
+    [
+      "I promise I [won't tell] anyone.",
+      "not tell"
+    ],
+    [
+      "It's late. I think I [will go] to bed.",
+      "go"
+    ],
+    [
+      "Perhaps they [will come] later.",
+      "come"
+    ],
+    [
+      "You [will love] this restaurant.",
+      "love"
+    ],
+    [
+      "The new bridge [will open] next spring.",
+      "open"
+    ],
+    [
+      "I'm cold. I [will close] the window.",
+      "close"
+    ]
+  ],
+  "going_to": [
+    [
+      "Look at those clouds! It [is going to rain].",
+      "rain"
+    ],
+    [
+      "We [are going to buy] a new house next year.",
+      "buy"
+    ],
+    [
+      "I [am going to study] medicine at university.",
+      "study"
+    ],
+    [
+      "What [are you going to do] this weekend?",
+      "do"
+    ],
+    [
+      "She [is going to have] a baby in May.",
+      "have"
+    ],
+    [
+      "Be careful! You [are going to fall].",
+      "fall"
+    ],
+    [
+      "They [aren't going to come]; they're too busy.",
+      "not come"
+    ],
+    [
+      "He [is going to paint] the kitchen on Saturday.",
+      "paint"
+    ],
+    [
+      "I [am not going to apologise]; it wasn't my fault.",
+      "not apologise"
+    ],
+    [
+      "Watch out! That glass [is going to break].",
+      "break"
+    ],
+    [
+      "We [are going to visit] my grandparents at Christmas.",
+      "visit"
+    ],
+    [
+      "My team [is going to lose]; it's 3-0 already.",
+      "lose"
+    ]
+  ],
+  "pres_perf_cont": [
+    [
+      "I [have been waiting] here for an hour.",
+      "wait"
+    ],
+    [
+      "She [has been working] at the bank since 2018.",
+      "work"
+    ],
+    [
+      "It [has been raining] all day.",
+      "rain"
+    ],
+    [
+      "How long [have you been learning] English?",
+      "learn"
+    ],
+    [
+      "We [have been driving] for six hours; let's stop.",
+      "drive"
+    ],
+    [
+      "You look tired. [Have you been running]?",
+      "run"
+    ],
+    [
+      "They [have been arguing] all morning.",
+      "argue"
+    ],
+    [
+      "He [has been playing] the guitar for ten years.",
+      "play"
+    ],
+    [
+      "I [haven't been sleeping] well lately.",
+      "not sleep"
+    ],
+    [
+      "My eyes hurt; I [have been reading] all afternoon.",
+      "read"
+    ],
+    [
+      "The phone [has been ringing] for ages.",
+      "ring"
+    ],
+    [
+      "We [have been saving] for a new car.",
+      "save"
+    ]
+  ],
+  "past_perf": [
+    [
+      "When we arrived, the film [had already started].",
+      "start"
+    ],
+    [
+      "She was sad because she [had lost] her job.",
+      "lose"
+    ],
+    [
+      "I [had never seen] the sea before that trip.",
+      "see"
+    ],
+    [
+      "By the time the police came, the thief [had escaped].",
+      "escape"
+    ],
+    [
+      "He told me he [had finished] the report.",
+      "finish"
+    ],
+    [
+      "We couldn't get in because we [had forgotten] the key.",
+      "forget"
+    ],
+    [
+      "They [hadn't eaten] anything all day, so they were starving.",
+      "not eat"
+    ],
+    [
+      "[Had you ever met] him before the party?",
+      "meet"
+    ],
+    [
+      "After she [had paid], she left the shop.",
+      "pay"
+    ],
+    [
+      "The ground was wet; it [had rained] in the night.",
+      "rain"
+    ],
+    [
+      "I realised I [had left] my wallet at home.",
+      "leave"
+    ],
+    [
+      "When I got to the station, the train [had gone].",
+      "go"
+    ]
+  ],
+  "cond": [
+    [
+      "If I had more money, I [would buy] a boat.",
+      "buy"
+    ],
+    [
+      "I [would love] a cup of tea.",
+      "love"
+    ],
+    [
+      "[Would you help] me with these boxes?",
+      "help"
+    ],
+    [
+      "If I were you, I [would talk] to her.",
+      "talk"
+    ],
+    [
+      "She said she [would call] me later.",
+      "call"
+    ],
+    [
+      "What [would you do] if you won the lottery?",
+      "do"
+    ],
+    [
+      "I [wouldn't eat] that if I were you.",
+      "not eat"
+    ],
+    [
+      "It [would be] nice to see you again.",
+      "be"
+    ],
+    [
+      "We [would travel] more if we had time.",
+      "travel"
+    ],
+    [
+      "He promised he [would never lie] to me again.",
+      "lie"
+    ],
+    [
+      "If it stopped raining, we [would go] for a walk.",
+      "go"
+    ],
+    [
+      "[Would you mind] opening the window?",
+      "mind"
+    ]
+  ],
+  "cond_perf": [
+    [
+      "If I had known, I [would have come] earlier.",
+      "come"
+    ],
+    [
+      "She [would have passed] if she had studied.",
+      "pass"
+    ],
+    [
+      "We [would have missed] the train without your help.",
+      "miss"
+    ],
+    [
+      "What [would you have done] in my place?",
+      "do"
+    ],
+    [
+      "I [wouldn't have said] that.",
+      "not say"
+    ],
+    [
+      "If it hadn't rained, we [would have gone] to the beach.",
+      "go"
+    ],
+    [
+      "They [would have won] with a better goalkeeper.",
+      "win"
+    ],
+    [
+      "He [would have called] you, but his phone was dead.",
+      "call"
+    ],
+    [
+      "If you had asked me, I [would have helped] you.",
+      "help"
+    ],
+    [
+      "I [would have bought] it, but it was too expensive.",
+      "buy"
+    ]
+  ]
+}

@@ -146,6 +146,7 @@ def build_course(course_id):
             shutil.copy(pdfs / unit["file"], out / "pdf" / unit["file"])
 
     write(out / "categories.json", categories(course_id, catalog))
+    write(out / "verbs.json", verb_practice(course_id))
 
     themes, theme_items = {}, {}
     for path in sorted((folder / "themes").glob("*.json")):  # path.stem: the name without .json
@@ -171,6 +172,32 @@ def build_course(course_id):
              "levels": sorted({unit["level"] for unit in catalog}), "units": len(catalog), "questions": count}
     print(f"{course_id}: {len(catalog)} units, {count} questions, {widened} with more answers")
     return entry
+
+
+def verb_practice(course_id):
+    """The sentences of the Verb practice tab: verb_bank/<language>.json (new sentences per tense)
+    plus the course's own verbs in context. Each: [sentence with the verb in [brackets], infinitive,
+    tense id or None, note]. A tense is known for the bank and for chapters about one tense
+    (verb_bank/tenses.json, "from_chapters"); the others only come in "find the tense" mode."""
+    info = course.info(course_id)
+    learn, base = info["learn"], info["explained_in"]
+    tenses = json.loads((HERE / "verb_bank" / "tenses.json").read_text(encoding="utf-8"))
+    by_chapter = tenses["from_chapters"].get(learn, {})
+    sentences, seen = [], set()
+    bank = HERE / "verb_bank" / f"{learn}.json"
+    if bank.exists():
+        for tense, rows in json.loads(bank.read_text(encoding="utf-8")).items():
+            for row in rows:
+                if row[0] not in seen:
+                    seen.add(row[0])
+                    sentences.append([row[0], row[1], tense, row[2] if len(row) > 2 else ""])
+    for path in sorted((course.folder(course_id) / "verbs_in_context").glob("*.json")):
+        for row in json.loads(path.read_text(encoding="utf-8"))["items"]:
+            if row[0] not in seen:
+                seen.add(row[0])
+                sentences.append([row[0], row[1], by_chapter.get(path.stem), row[2] if len(row) > 2 else ""])
+    return {"tenses": [{"id": t["id"], "level": t["level"], "name": t["name"][base]} for t in tenses.get(learn, [])],
+            "sentences": sentences}
 
 
 def main():

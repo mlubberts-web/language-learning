@@ -143,8 +143,8 @@ main.narrow { max-width: 760px; }
   h1 { font-size: 26px; }
   .prompt { font-size: 24px; }
   .main-nav { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10; background: var(--surface); border-top: 1px solid var(--line);
-              display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0; padding: 6px 4px calc(8px + env(safe-area-inset-bottom)); }
-  .main-nav a { flex-direction: column; gap: 4px; min-height: 48px; justify-content: center; padding: 4px 2px; font-size: 11px; border-radius: 8px; }
+              display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 0; padding: 6px 2px calc(8px + env(safe-area-inset-bottom)); }
+  .main-nav a { flex-direction: column; gap: 4px; min-height: 48px; justify-content: center; padding: 4px 1px; font-size: 10.5px; line-height: 1.15; text-align: center; border-radius: 8px; }
   .main-nav a[aria-current="page"] { background: none; }
   .main-nav svg { display: block; }
   .unit { padding: 14px 16px; }
@@ -265,3 +265,7 @@ main.narrow { max-width: 760px; }
 .carry-on { display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; text-align: left; text-decoration: none; color: var(--ink); }
 .carry-on .language { font-family: var(--serif); font-weight: 700; }
 .carry-on:hover { border-color: var(--accent); }
+/* The tenses on the Verb practice tab */
+.tense-table td { vertical-align: middle; }
+.tense-table .tense-count { width: 34%; }
+.tense-table .switch input { flex: none; }

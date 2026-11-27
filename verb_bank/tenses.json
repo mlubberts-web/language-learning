@@ -1,0 +1,47 @@
+{
+  "es": [
+    {"id": "pres", "level": "A1", "name": {"en": "present", "nl": "presente (tegenwoordige tijd)", "es": "presente de indicativo"}},
+    {"id": "pret", "level": "A2", "name": {"en": "preterite (pretérito indefinido)", "nl": "pretérito indefinido", "es": "pretérito indefinido"}},
+    {"id": "imp", "level": "A2", "name": {"en": "imperfect (pretérito imperfecto)", "nl": "pretérito imperfecto", "es": "pretérito imperfecto"}},
+    {"id": "perf", "level": "A2", "name": {"en": "present perfect (pretérito perfecto)", "nl": "pretérito perfecto", "es": "pretérito perfecto"}},
+    {"id": "imper", "level": "A2", "name": {"en": "imperative", "nl": "imperativo (gebiedende wijs)", "es": "imperativo"}},
+    {"id": "fut", "level": "B1", "name": {"en": "future", "nl": "futuro simple (toekomende tijd)", "es": "futuro simple"}},
+    {"id": "cond", "level": "B1", "name": {"en": "conditional", "nl": "condicional (voorwaardelijke wijs)", "es": "condicional simple"}},
+    {"id": "plusc", "level": "B1", "name": {"en": "pluperfect (pluscuamperfecto)", "nl": "pluscuamperfecto (voltooid verleden tijd)", "es": "pretérito pluscuamperfecto"}},
+    {"id": "subj_pres", "level": "B1", "name": {"en": "present subjunctive", "nl": "presente de subjuntivo", "es": "presente de subjuntivo"}},
+    {"id": "subj_imp", "level": "B2", "name": {"en": "imperfect subjunctive", "nl": "imperfecto de subjuntivo", "es": "pretérito imperfecto de subjuntivo"}},
+    {"id": "subj_perf", "level": "B2", "name": {"en": "perfect subjunctive", "nl": "pretérito perfecto de subjuntivo", "es": "pretérito perfecto de subjuntivo"}},
+    {"id": "subj_plusc", "level": "B2", "name": {"en": "pluperfect subjunctive", "nl": "pluscuamperfecto de subjuntivo", "es": "pretérito pluscuamperfecto de subjuntivo"}},
+    {"id": "cond_perf", "level": "B2", "name": {"en": "conditional perfect", "nl": "condicional compuesto", "es": "condicional compuesto"}},
+    {"id": "fut_perf", "level": "C1", "name": {"en": "future perfect", "nl": "futuro compuesto", "es": "futuro compuesto"}}
+  ],
+  "en": [
+    {"id": "pres_simple", "level": "A1", "name": {"en": "present simple", "nl": "present simple", "es": "present simple"}},
+    {"id": "pres_cont", "level": "A1", "name": {"en": "present continuous", "nl": "present continuous", "es": "present continuous"}},
+    {"id": "past_simple", "level": "A2", "name": {"en": "past simple", "nl": "past simple", "es": "past simple"}},
+    {"id": "past_cont", "level": "A2", "name": {"en": "past continuous", "nl": "past continuous", "es": "past continuous"}},
+    {"id": "pres_perf", "level": "A2", "name": {"en": "present perfect", "nl": "present perfect", "es": "present perfect"}},
+    {"id": "will", "level": "A2", "name": {"en": "future with will", "nl": "toekomst met will", "es": "futuro con will"}},
+    {"id": "going_to", "level": "A2", "name": {"en": "going to", "nl": "going to", "es": "going to"}},
+    {"id": "pres_perf_cont", "level": "B1", "name": {"en": "present perfect continuous", "nl": "present perfect continuous", "es": "present perfect continuous"}},
+    {"id": "past_perf", "level": "B1", "name": {"en": "past perfect", "nl": "past perfect", "es": "past perfect"}},
+    {"id": "cond", "level": "B1", "name": {"en": "conditional (would)", "nl": "conditional (would)", "es": "condicional (would)"}},
+    {"id": "cond_perf", "level": "B2", "name": {"en": "conditional perfect (would have)", "nl": "conditional perfect (would have)", "es": "condicional perfecto (would have)"}}
+  ],
+  "nl": [
+    {"id": "pres", "level": "A1", "name": {"en": "present tense (presens)", "nl": "tegenwoordige tijd", "es": "presente"}},
+    {"id": "imper", "level": "A1", "name": {"en": "imperative", "nl": "gebiedende wijs", "es": "imperativo"}},
+    {"id": "perf", "level": "A2", "name": {"en": "perfect tense (perfectum)", "nl": "voltooid tegenwoordige tijd", "es": "perfectum (pretérito perfecto)"}},
+    {"id": "imperf", "level": "A2", "name": {"en": "simple past (imperfectum)", "nl": "onvoltooid verleden tijd", "es": "imperfectum (pasado simple)"}},
+    {"id": "plusq", "level": "B1", "name": {"en": "past perfect (plusquamperfectum)", "nl": "voltooid verleden tijd", "es": "pluscuamperfecto"}},
+    {"id": "fut", "level": "B1", "name": {"en": "future with zullen", "nl": "toekomende tijd met zullen", "es": "futuro con zullen"}},
+    {"id": "cond", "level": "B1", "name": {"en": "conditional with zou", "nl": "voorwaardelijke wijs met zou", "es": "condicional con zou"}}
+  ],
+  "from_chapters": {
+    "es": {"A1_02": "pres", "A1_03": "pres", "A1_04": "pres", "A1_07": "pres", "A2_01": "pret", "A2_02": "pret",
+           "A2_03": "imp", "A2_05": "perf", "A2_07": "imper", "B1_02": "subj_pres", "B1_03": "subj_pres"},
+    "en": {"A1_03": "pres_simple", "A1_07": "pres_cont", "A2_01": "past_simple", "A2_02": "past_simple",
+           "A2_03": "past_cont", "A2_04": "pres_perf", "A2_06": "will"},
+    "nl": {"A1_03": "pres", "A1_07": "pres", "A2_01": "perf", "A2_02": "perf", "A2_03": "imperf"}
+  }
+}
